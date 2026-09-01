@@ -9,391 +9,392 @@ page:
   claim_count: 10
   claim_count_total: 10
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 10
+  tokens_estimated: 3318
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 10
 related_nodes:
-- node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
-  title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-  node_type: document
-  slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
-  shared_claims: 6
-- node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-  title: the Moon
-  node_type: place
-  slug: the-moon
-  shared_claims: 2
-- node_id: e495d4a9-5812-4464-b771-50eb035ff5ee
-  title: res communis
-  node_type: topic
-  slug: res-communis
-  shared_claims: 1
-claims:
-- claim_id: e5f08821-b293-44dd-baa6-0103b3359bb1
-  claim_hash: 1d3582bf8386cf4ef13b322eb9baefb6c97c532b37b0686562e055fc2db4b497
-  content: J. Robert Oppenheimer and Albert Einstein observe that occupation of territory
-    on Earth had lost all interest for international law once no more res nullius
-    territories remained, but that this concept is regaining importance in cosmic
-    international law.
-  original_excerpt: Occupation by states here on earth, which has lost all interest
-    for international law, since there were no more res nullius territories, is beginning
-    to regain all its importance in cosmic international law.
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-    title: res nullius
-    slug: res-nullius
-  date: null
-  date_end: null
-  location_in_record: char:7505-7708
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
-    record_title: Relationships with Inhabitants of Celestial Bodies
-    record_date: 1947-06
-    record_reference: null
-    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
-    friendly_name: null
-- claim_id: 2abf98a6-2e74-4566-979a-f901817aa37a
-  claim_hash: 0e09b1ae737ec8f8aaefaa399710e8463c23192d969a80c455b9061dd1a75c1b
-  content: J. Robert Oppenheimer and Albert Einstein define occupation as the appropriation
-    by a state of res nullius.
-  original_excerpt: Occupation consists in the appropriation by a state of res nullius.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-    title: res nullius
-    slug: res-nullius
-  date: null
-  date_end: null
-  location_in_record: char:7714-7773
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
-    record_title: Relationships with Inhabitants of Celestial Bodies
-    record_date: 1947-06
-    record_reference: null
-    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
-    friendly_name: null
-- claim_id: e73db489-e856-4738-81ff-b049ca277be2
-  claim_hash: c00126e66ff92f6543a0e1fd88d3cb21d70e82af6e8a200d11696625b4a233f1
-  content: J. Robert Oppenheimer and Albert Einstein define res nullius as something
-    that belongs to nobody, such as the moon, and state that under international law
-    a celestial body not subject to any state's sovereignty is considered res nullius.
-  original_excerpt: Res nullius is something that belongs to nobody such as the moon.
-    In international law a celestial body is not subject to the sovereignty of any
-    state is considered res nullius.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-    title: res nullius
-    slug: res-nullius
+  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    node_type: document
+    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+    shared_claims: 6
   - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
     title: the Moon
+    node_type: place
     slug: the-moon
-  date: null
-  date_end: null
-  location_in_record: char:8250-8419
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
-    record_title: Relationships with Inhabitants of Celestial Bodies
-    record_date: 1947-06
-    record_reference: null
-    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
-    friendly_name: null
-- claim_id: ed6a3eb3-6e4e-4949-b628-74f924c5a906
-  claim_hash: a40cb8f4ff0d416b3deed437ee13dbc7dd34dfe9f396c9acf1a52d742109899d
-  content: J. Robert Oppenheimer and Albert Einstein argue that if it could be established
-    that a celestial body within the solar system, such as the moon, was or is occupied
-    by another celestial race, no state on Earth could claim it as res nullius, and
-    it would instead exist as res communis, meaning all celestial states would have
-    equal rights over it.
-  original_excerpt: If it could be established that a celestial body within our solar
-    system such as our moon was, or is occupied by another celestial race, there could
-    be no claim of res nullius by any state on earth (if that state should decide
-    in the future to send explorers to lay claim to it). It would exist as res communis,
-    that is that all celestial states have the same rights over it.
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-    title: res nullius
-    slug: res-nullius
-  - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-    title: the Moon
-    slug: the-moon
+    shared_claims: 2
   - node_id: e495d4a9-5812-4464-b771-50eb035ff5ee
     title: res communis
+    node_type: topic
     slug: res-communis
-  date: null
-  date_end: null
-  location_in_record: char:8428-8800
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
-    record_title: Relationships with Inhabitants of Celestial Bodies
-    record_date: 1947-06
-    record_reference: null
-    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
-    friendly_name: null
-- claim_id: 8bb0dab7-818d-4e33-a242-94e0772b70e7
-  claim_hash: 8bf1db85d8a3cdb67b737399ae2e670f9198270adfbf3edb89217653ed9cf259
-  content: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    states that occupation consists in the appropriation by a state of res nullius.
-  original_excerpt: Occupation consists in the appropriation by a state of res nullius.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    relay:
-    - Chris Ramsey reading the document aloud
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-    title: res nullius
-    slug: res-nullius
-  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
-    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
-  date: null
-  date_end: null
-  location_in_record: 00:27:00.4-00:27:03.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
-    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
-      33
-    record_date: '2025-04-11'
-    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
-    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
-    friendly_name: null
-- claim_id: 947fada7-f8c3-403d-8bb7-7077cb27610c
-  claim_hash: 59ab3c0da7e1d8f4c185bfd686a5582a21a682af227e2728df2143e8cb728def
-  content: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    defines res nullius as a thing of no one, or property belonging to no one.
-  original_excerpt: What is res nullius? A thing of no one or property belonging to
-    no one.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    relay:
-    - Chris Ramsey reading the document aloud
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-    title: res nullius
-    slug: res-nullius
-  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
-    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
-  date: null
-  date_end: null
-  location_in_record: 00:27:04.6-00:27:09.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
-    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
-      33
-    record_date: '2025-04-11'
-    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
-    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
-    friendly_name: null
-- claim_id: bcfd4693-6cb8-4489-972c-ab9d65dccca3
-  claim_hash: b21c37a419524ef26177ae6079511ec503231b80823ee09866559c43ebdfd02f
-  content: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    states that until the last century, occupation was the normal means of acquiring
-    sovereignty over territories discovered through exploration, and that this method
-    of imperialist expansion came to an end once unclaimed regions on Earth were exhausted,
-    with res nullius now existing only in interplanetary space.
-  original_excerpt: until the last century occupation was the normal means of acquiring
-    sovereignty over territories when explorations made possible the discovery of
-    new regions either uninhabited or in an elementary state of civilization the imperialist
-    expansion of the states came to an end with the end of regions capable of being
-    occupied which have now been drained from the earth and exists only in interplanetary
-    space
-  claim_type: opinion
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    relay:
-    - Chris Ramsey reading the document aloud
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-    title: res nullius
-    slug: res-nullius
-  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
-    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
-  date: null
-  date_end: null
-  location_in_record: 00:27:23.0-00:27:46.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
-    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
-      33
-    record_date: '2025-04-11'
-    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
-    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
-    friendly_name: null
-- claim_id: f9064840-b4dc-41c3-9950-3e5ee6868e25
-  claim_hash: d0ae7a6544c979152753029ec4397c4f6fd05d4b25b0437cc91360bb0b950426
-  content: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    identifies the Moon as an example of res nullius, something that belongs to no
-    one.
-  original_excerpt: Res Nullius is something that belongs to nobody such as the moon.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    relay:
-    - Chris Ramsey reading the document aloud
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-    title: res nullius
-    slug: res-nullius
-  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
-    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
-  date: null
-  date_end: null
-  location_in_record: 00:27:57.4-00:28:00.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
-    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
-      33
-    record_date: '2025-04-11'
-    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
-    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
-    friendly_name: null
-- claim_id: 3f6c20ec-4e86-4b3c-ab90-e9cfb8580899
-  claim_hash: 4ee572cfd8be0abdac8b8c4253115bdb97dfffc2d14652ebfee07d09844645b9
-  content: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    states that under international law, a celestial body not subject to the sovereignty
-    of any state is considered res nullius.
-  original_excerpt: In international law, a celestial body is not subject to the sovereignty
-    of any state is considered res nullius.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    relay:
-    - Chris Ramsey reading the document aloud
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-    title: res nullius
-    slug: res-nullius
-  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
-    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
-  date: null
-  date_end: null
-  location_in_record: 00:28:01.3-00:28:07.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
-    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
-      33
-    record_date: '2025-04-11'
-    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
-    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
-    friendly_name: null
-- claim_id: 6ebbc012-b175-4bcc-b65a-c18eec86062c
-  claim_hash: 5b232d80dd4dc43dd80f74983ee8b6c47032b53791aca8a55b9f0d2098a1fef1
-  content: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    states that if it could be established that the Moon was or is occupied by another
-    celestial race, no state on Earth could claim res nullius over it if that state
-    decided in future to send explorers to lay claim to it.
-  original_excerpt: If it could be established that a celestial body within our solar
-    system, such as our moon was or is occupied by another celestial race, there could
-    be no claim of res nullius by any state on Earth. if that state should decide
-    in the future to send explorers to lay claim to it.
-  claim_type: opinion
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    relay:
-    - Chris Ramsey reading the document aloud
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-    title: res nullius
-    slug: res-nullius
-  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
-    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
-  date: null
-  date_end: null
-  location_in_record: 00:28:08.6-00:28:26.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
-    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
-      33
-    record_date: '2025-04-11'
-    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
-    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
-    friendly_name: null
+    shared_claims: 1
+claims:
+  - claim_id: e5f08821-b293-44dd-baa6-0103b3359bb1
+    claim_hash: 1d3582bf8386cf4ef13b322eb9baefb6c97c532b37b0686562e055fc2db4b497
+    content: J. Robert Oppenheimer and Albert Einstein observe that occupation of territory on Earth had lost all interest
+      for international law once no more res nullius territories remained, but that this concept is regaining importance in
+      cosmic international law.
+    original_excerpt: Occupation by states here on earth, which has lost all interest for international law, since there were
+      no more res nullius territories, is beginning to regain all its importance in cosmic international law.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
+        title: res nullius
+        slug: res-nullius
+    date: null
+    date_end: null
+    location_in_record: char:7505-7708
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+      record_title: Relationships with Inhabitants of Celestial Bodies
+      record_date: 1947-06
+      record_reference: null
+      content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+      friendly_name: null
+  - claim_id: 2abf98a6-2e74-4566-979a-f901817aa37a
+    claim_hash: 0e09b1ae737ec8f8aaefaa399710e8463c23192d969a80c455b9061dd1a75c1b
+    content: J. Robert Oppenheimer and Albert Einstein define occupation as the appropriation by a state of res nullius.
+    original_excerpt: Occupation consists in the appropriation by a state of res nullius.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
+        title: res nullius
+        slug: res-nullius
+    date: null
+    date_end: null
+    location_in_record: char:7714-7773
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+      record_title: Relationships with Inhabitants of Celestial Bodies
+      record_date: 1947-06
+      record_reference: null
+      content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+      friendly_name: null
+  - claim_id: e73db489-e856-4738-81ff-b049ca277be2
+    claim_hash: c00126e66ff92f6543a0e1fd88d3cb21d70e82af6e8a200d11696625b4a233f1
+    content: J. Robert Oppenheimer and Albert Einstein define res nullius as something that belongs to nobody, such as the
+      moon, and state that under international law a celestial body not subject to any state's sovereignty is considered res
+      nullius.
+    original_excerpt: Res nullius is something that belongs to nobody such as the moon. In international law a celestial body
+      is not subject to the sovereignty of any state is considered res nullius.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
+        title: res nullius
+        slug: res-nullius
+      - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
+        title: the Moon
+        slug: the-moon
+    date: null
+    date_end: null
+    location_in_record: char:8250-8419
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+      record_title: Relationships with Inhabitants of Celestial Bodies
+      record_date: 1947-06
+      record_reference: null
+      content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+      friendly_name: null
+  - claim_id: ed6a3eb3-6e4e-4949-b628-74f924c5a906
+    claim_hash: a40cb8f4ff0d416b3deed437ee13dbc7dd34dfe9f396c9acf1a52d742109899d
+    content: J. Robert Oppenheimer and Albert Einstein argue that if it could be established that a celestial body within
+      the solar system, such as the moon, was or is occupied by another celestial race, no state on Earth could claim it as
+      res nullius, and it would instead exist as res communis, meaning all celestial states would have equal rights over it.
+    original_excerpt: If it could be established that a celestial body within our solar system such as our moon was, or is
+      occupied by another celestial race, there could be no claim of res nullius by any state on earth (if that state should
+      decide in the future to send explorers to lay claim to it). It would exist as res communis, that is that all celestial
+      states have the same rights over it.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
+        title: res nullius
+        slug: res-nullius
+      - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
+        title: the Moon
+        slug: the-moon
+      - node_id: e495d4a9-5812-4464-b771-50eb035ff5ee
+        title: res communis
+        slug: res-communis
+    date: null
+    date_end: null
+    location_in_record: char:8428-8800
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+      record_title: Relationships with Inhabitants of Celestial Bodies
+      record_date: 1947-06
+      record_reference: null
+      content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+      friendly_name: null
+  - claim_id: 8bb0dab7-818d-4e33-a242-94e0772b70e7
+    claim_hash: 8bf1db85d8a3cdb67b737399ae2e670f9198270adfbf3edb89217653ed9cf259
+    content: The Relationships with Inhabitants of Celestial Bodies (1947 document) states that occupation consists in the
+      appropriation by a state of res nullius.
+    original_excerpt: Occupation consists in the appropriation by a state of res nullius.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+      relay:
+        - Chris Ramsey reading the document aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
+        title: res nullius
+        slug: res-nullius
+      - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+        title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+        slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+    date: null
+    date_end: null
+    location_in_record: 00:27:00.4-00:27:03.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null
+  - claim_id: 947fada7-f8c3-403d-8bb7-7077cb27610c
+    claim_hash: 59ab3c0da7e1d8f4c185bfd686a5582a21a682af227e2728df2143e8cb728def
+    content: The Relationships with Inhabitants of Celestial Bodies (1947 document) defines res nullius as a thing of no one,
+      or property belonging to no one.
+    original_excerpt: What is res nullius? A thing of no one or property belonging to no one.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+      relay:
+        - Chris Ramsey reading the document aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
+        title: res nullius
+        slug: res-nullius
+      - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+        title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+        slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+    date: null
+    date_end: null
+    location_in_record: 00:27:04.6-00:27:09.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null
+  - claim_id: bcfd4693-6cb8-4489-972c-ab9d65dccca3
+    claim_hash: b21c37a419524ef26177ae6079511ec503231b80823ee09866559c43ebdfd02f
+    content: The Relationships with Inhabitants of Celestial Bodies (1947 document) states that until the last century, occupation
+      was the normal means of acquiring sovereignty over territories discovered through exploration, and that this method
+      of imperialist expansion came to an end once unclaimed regions on Earth were exhausted, with res nullius now existing
+      only in interplanetary space.
+    original_excerpt: until the last century occupation was the normal means of acquiring sovereignty over territories when
+      explorations made possible the discovery of new regions either uninhabited or in an elementary state of civilization
+      the imperialist expansion of the states came to an end with the end of regions capable of being occupied which have
+      now been drained from the earth and exists only in interplanetary space
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+      relay:
+        - Chris Ramsey reading the document aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
+        title: res nullius
+        slug: res-nullius
+      - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+        title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+        slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+    date: null
+    date_end: null
+    location_in_record: 00:27:23.0-00:27:46.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null
+  - claim_id: f9064840-b4dc-41c3-9950-3e5ee6868e25
+    claim_hash: d0ae7a6544c979152753029ec4397c4f6fd05d4b25b0437cc91360bb0b950426
+    content: The Relationships with Inhabitants of Celestial Bodies (1947 document) identifies the Moon as an example of res
+      nullius, something that belongs to no one.
+    original_excerpt: Res Nullius is something that belongs to nobody such as the moon.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+      relay:
+        - Chris Ramsey reading the document aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
+        title: res nullius
+        slug: res-nullius
+      - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+        title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+        slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+    date: null
+    date_end: null
+    location_in_record: 00:27:57.4-00:28:00.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null
+  - claim_id: 3f6c20ec-4e86-4b3c-ab90-e9cfb8580899
+    claim_hash: 4ee572cfd8be0abdac8b8c4253115bdb97dfffc2d14652ebfee07d09844645b9
+    content: The Relationships with Inhabitants of Celestial Bodies (1947 document) states that under international law, a
+      celestial body not subject to the sovereignty of any state is considered res nullius.
+    original_excerpt: In international law, a celestial body is not subject to the sovereignty of any state is considered
+      res nullius.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+      relay:
+        - Chris Ramsey reading the document aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
+        title: res nullius
+        slug: res-nullius
+      - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+        title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+        slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+    date: null
+    date_end: null
+    location_in_record: 00:28:01.3-00:28:07.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null
+  - claim_id: 6ebbc012-b175-4bcc-b65a-c18eec86062c
+    claim_hash: 5b232d80dd4dc43dd80f74983ee8b6c47032b53791aca8a55b9f0d2098a1fef1
+    content: The Relationships with Inhabitants of Celestial Bodies (1947 document) states that if it could be established
+      that the Moon was or is occupied by another celestial race, no state on Earth could claim res nullius over it if that
+      state decided in future to send explorers to lay claim to it.
+    original_excerpt: If it could be established that a celestial body within our solar system, such as our moon was or is
+      occupied by another celestial race, there could be no claim of res nullius by any state on Earth. if that state should
+      decide in the future to send explorers to lay claim to it.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+      relay:
+        - Chris Ramsey reading the document aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
+        title: res nullius
+        slug: res-nullius
+      - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+        title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+        slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+    date: null
+    date_end: null
+    location_in_record: 00:28:08.6-00:28:26.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null

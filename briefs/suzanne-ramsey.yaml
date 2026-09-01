@@ -9,278 +9,290 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1705
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
 related_nodes:
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 4
-- node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
-  title: Scott Ramsey
-  node_type: person
-  slug: scott-ramsey
-  shared_claims: 3
-- node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
-  title: USA, New Mexico, Aztec
-  node_type: place
-  slug: new-mexico-aztec-usa
-  shared_claims: 2
-- node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
-  title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash
-    retrieval
-  node_type: event
-  slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
-  shared_claims: 1
-- node_id: 332ce87b-4210-4969-8cf0-1c79fdefece4
-  title: Frank Thayer
-  node_type: person
-  slug: frank-thayer
-  shared_claims: 1
-- node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-  title: Ross Coulthart
-  node_type: person
-  slug: ross-coulthart
-  shared_claims: 1
-- node_id: de197282-8103-49ca-9474-76f73f431890
-  title: USA, New Mexico, Hart Canyon
-  node_type: place
-  slug: new-mexico-hart-canyon-usa
-  shared_claims: 1
-claims:
-- claim_id: 81e0fff9-c9ed-43f3-a8a4-c4897f519685
-  claim_hash: 80b8d69297f977dd8fff5f41ab602d2a7053b15034988920d5f4c3f18eeca489
-  content: Authors Scott Ramsey, Suzanne Ramsey and Frank Thayer tracked down witnesses
-    to corroborate their claim of a giant 30-metre-diameter flying saucer found lying
-    on a mesa above Hart Canyon east of Aztec, New Mexico.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Scott Ramsey, Suzanne Ramsey and Frank Thayer
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+  - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
+    title: 1948 Roswell UFO incident
+    node_type: event
+    slug: 1948-roswell-ufo-incident
+    shared_claims: 4
+  - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
+    title: Scott Ramsey
+    node_type: person
+    slug: scott-ramsey
+    shared_claims: 3
+  - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
+    title: USA, New Mexico, Aztec
+    node_type: place
+    slug: new-mexico-aztec-usa
+    shared_claims: 2
   - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
-    title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash
-      retrieval
+    title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+    node_type: event
     slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+    shared_claims: 1
   - node_id: 332ce87b-4210-4969-8cf0-1c79fdefece4
     title: Frank Thayer
+    node_type: person
     slug: frank-thayer
-  - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
-    title: Scott Ramsey
-    slug: scott-ramsey
-  - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
-    title: Suzanne Ramsey
-    slug: suzanne-ramsey
-  - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
-    title: USA, New Mexico, Aztec
-    slug: new-mexico-aztec-usa
-  - node_id: de197282-8103-49ca-9474-76f73f431890
-    title: USA, New Mexico, Hart Canyon
-    slug: new-mexico-hart-canyon-usa
-  date: '1948-03-25'
-  date_end: null
-  location_in_record: ch17:14283-14536
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 1a7a8f09-5bf8-461e-87ee-1bf9fd9bbd84
-  claim_hash: 484b2fb572940e73afe7d2b259725975118c49fe6ceac67bd48024d833161a45
-  content: Ross Coulthart spent several days with Scott Ramsey and Suzanne Ramsey
-    in May 2021 walking the Aztec, New Mexico site and reviewing their evidence, including
-    direct witness sightings of a craft and purported alien beings.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
-    title: Scott Ramsey
-    slug: scott-ramsey
-  - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
-    title: Suzanne Ramsey
-    slug: suzanne-ramsey
-  - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
-    title: USA, New Mexico, Aztec
-    slug: new-mexico-aztec-usa
+    shared_claims: 1
   - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
     title: Ross Coulthart
+    node_type: person
     slug: ross-coulthart
-  date: 2021-05
-  date_end: null
-  location_in_record: ch17:14748-14939
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 7669408d-e53e-411b-8b4f-d3b249f10e94
-  claim_hash: e9c9b0cafe1d82d7a709279fda9d32484fd13fa77974cc3320bfaa1ef2a1f98f
-  content: According to Scott Ramsey and Suzanne Ramsey's research, 16 dead alien
-    bodies were found on board the craft recovered in 1948 near Roswell.
-  original_excerpt: How many individual dead ... aliens are on board this craft? 16.
-    16 aliens. 16.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
-    title: Suzanne Ramsey
-  provenance_chain:
-    origin_kind: named
-    origin: Suzanne Ramsey
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
-    title: Scott Ramsey
-    slug: scott-ramsey
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
-    title: Suzanne Ramsey
-    slug: suzanne-ramsey
-  date: '1948-03-25'
-  date_end: null
-  location_in_record: 00:59:22.7-00:59:29.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-- claim_id: 5b61de13-5162-4ef6-ac85-192b4cb5bf81
-  claim_hash: 785bd407a19bf2309df214e4e361846aaa5c912effb4582cf00ec4ae510bbdb2
-  content: The alien bodies found at the 1948 Roswell crash site were between approximately
-    1.1 and 1.2 metres tall.
-  original_excerpt: They were between 3 1⁄2 feet to 4 feet tall.
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
-    title: Suzanne Ramsey
-  provenance_chain:
-    origin_kind: speaker
-    origin: Suzanne Ramsey
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
-    title: Suzanne Ramsey
-    slug: suzanne-ramsey
-  date: '1948-03-25'
-  date_end: null
-  location_in_record: 00:59:34.0-00:59:36.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-- claim_id: f729dc93-e606-4772-9dfa-0b8ea078a485
-  claim_hash: 99f46df8e9f87287170fd72148963f6bc01206d04ce8f029abf10b665b11b676
-  content: The alien bodies found at the 1948 Roswell crash site had perfect teeth
-    and were childlike in appearance.
-  original_excerpt: They were perfect teeth. They were childlike in appearance.
-  claim_type: hearsay
-  attestation: first_hand
-  speaker:
-    node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
-    title: Suzanne Ramsey
-  provenance_chain:
-    origin_kind: speaker
-    origin: Suzanne Ramsey
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
-    title: Suzanne Ramsey
-    slug: suzanne-ramsey
-  date: '1948-03-25'
-  date_end: null
-  location_in_record: 00:59:37.2-00:59:40.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-- claim_id: 3b47b011-6aaf-4656-b9eb-5f0ecdc80346
-  claim_hash: abac80ce4728b4cd52b75ff3a9f7b8e214146a0140a1a6afd4ae86f59bc251f0
-  content: The alien bodies found at the 1948 Roswell crash site wore powder-blue
-    coloured jumpsuits, charred, with nothing to signify rank.
-  original_excerpt: They had jumpsuits on that were like a powder-colored blue. They
-    were charred blue uniforms on, nothing that would signify rank.
-  claim_type: hearsay
-  attestation: first_hand
-  speaker:
-    node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
-    title: Suzanne Ramsey
-  provenance_chain:
-    origin_kind: speaker
-    origin: Suzanne Ramsey
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
-    title: Suzanne Ramsey
-    slug: suzanne-ramsey
-  date: '1948-03-25'
-  date_end: null
-  location_in_record: 00:59:41.6-00:59:52.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+    shared_claims: 1
+  - node_id: de197282-8103-49ca-9474-76f73f431890
+    title: USA, New Mexico, Hart Canyon
+    node_type: place
+    slug: new-mexico-hart-canyon-usa
+    shared_claims: 1
+claims:
+  - claim_id: 81e0fff9-c9ed-43f3-a8a4-c4897f519685
+    claim_hash: 80b8d69297f977dd8fff5f41ab602d2a7053b15034988920d5f4c3f18eeca489
+    content: Authors Scott Ramsey, Suzanne Ramsey and Frank Thayer tracked down witnesses to corroborate their claim of a
+      giant 30-metre-diameter flying saucer found lying on a mesa above Hart Canyon east of Aztec, New Mexico.
+    original_excerpt: Authors Scott and Suzanne Ramsey and Dr Frank Thayer tracked down an extraordinary number of witnesses
+      to corroborate what they allege was a giant '100-foot diameter (30-metres) flying saucer' found lying on a mesa above
+      Hart Canyon east of the town of Aztec.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Scott Ramsey, Suzanne Ramsey and Frank Thayer
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+      - node_id: 332ce87b-4210-4969-8cf0-1c79fdefece4
+        title: Frank Thayer
+        slug: frank-thayer
+      - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
+        title: Scott Ramsey
+        slug: scott-ramsey
+      - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+        title: Suzanne Ramsey
+        slug: suzanne-ramsey
+      - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
+        title: USA, New Mexico, Aztec
+        slug: new-mexico-aztec-usa
+      - node_id: de197282-8103-49ca-9474-76f73f431890
+        title: USA, New Mexico, Hart Canyon
+        slug: new-mexico-hart-canyon-usa
+    date: '1948-03-25'
+    date_end: null
+    location_in_record: ch17:14283-14536
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1a7a8f09-5bf8-461e-87ee-1bf9fd9bbd84
+    claim_hash: 484b2fb572940e73afe7d2b259725975118c49fe6ceac67bd48024d833161a45
+    content: Ross Coulthart spent several days with Scott Ramsey and Suzanne Ramsey in May 2021 walking the Aztec, New Mexico
+      site and reviewing their evidence, including direct witness sightings of a craft and purported alien beings.
+    original_excerpt: I spent several days with the Ramseys in May 2021, walking the Aztec site, and reviewing their extremely
+      detailed evidence, including direct witness sightings of a craft (and purported alien beings).
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
+        title: Scott Ramsey
+        slug: scott-ramsey
+      - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+        title: Suzanne Ramsey
+        slug: suzanne-ramsey
+      - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
+        title: USA, New Mexico, Aztec
+        slug: new-mexico-aztec-usa
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: 2021-05
+    date_end: null
+    location_in_record: ch17:14748-14939
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7669408d-e53e-411b-8b4f-d3b249f10e94
+    claim_hash: e9c9b0cafe1d82d7a709279fda9d32484fd13fa77974cc3320bfaa1ef2a1f98f
+    content: According to Scott Ramsey and Suzanne Ramsey's research, 16 dead alien bodies were found on board the craft recovered
+      in 1948 near Roswell.
+    original_excerpt: How many individual dead ... aliens are on board this craft? 16. 16 aliens. 16.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+      title: Suzanne Ramsey
+    provenance_chain:
+      origin_kind: named
+      origin: Suzanne Ramsey
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
+        title: 1948 Roswell UFO incident
+        slug: 1948-roswell-ufo-incident
+      - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
+        title: Scott Ramsey
+        slug: scott-ramsey
+      - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+        title: Suzanne Ramsey
+        slug: suzanne-ramsey
+    date: '1948-03-25'
+    date_end: null
+    location_in_record: 00:59:22.7-00:59:29.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 5b61de13-5162-4ef6-ac85-192b4cb5bf81
+    claim_hash: 785bd407a19bf2309df214e4e361846aaa5c912effb4582cf00ec4ae510bbdb2
+    content: The alien bodies found at the 1948 Roswell crash site were between approximately 1.1 and 1.2 metres tall.
+    original_excerpt: They were between 3 1⁄2 feet to 4 feet tall.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+      title: Suzanne Ramsey
+    provenance_chain:
+      origin_kind: speaker
+      origin: Suzanne Ramsey
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
+        title: 1948 Roswell UFO incident
+        slug: 1948-roswell-ufo-incident
+      - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+        title: Suzanne Ramsey
+        slug: suzanne-ramsey
+    date: '1948-03-25'
+    date_end: null
+    location_in_record: 00:59:34.0-00:59:36.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: f729dc93-e606-4772-9dfa-0b8ea078a485
+    claim_hash: 99f46df8e9f87287170fd72148963f6bc01206d04ce8f029abf10b665b11b676
+    content: The alien bodies found at the 1948 Roswell crash site had perfect teeth and were childlike in appearance.
+    original_excerpt: They were perfect teeth. They were childlike in appearance.
+    claim_type: hearsay
+    attestation: first_hand
+    speaker:
+      node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+      title: Suzanne Ramsey
+    provenance_chain:
+      origin_kind: speaker
+      origin: Suzanne Ramsey
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
+        title: 1948 Roswell UFO incident
+        slug: 1948-roswell-ufo-incident
+      - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+        title: Suzanne Ramsey
+        slug: suzanne-ramsey
+    date: '1948-03-25'
+    date_end: null
+    location_in_record: 00:59:37.2-00:59:40.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 3b47b011-6aaf-4656-b9eb-5f0ecdc80346
+    claim_hash: abac80ce4728b4cd52b75ff3a9f7b8e214146a0140a1a6afd4ae86f59bc251f0
+    content: The alien bodies found at the 1948 Roswell crash site wore powder-blue coloured jumpsuits, charred, with nothing
+      to signify rank.
+    original_excerpt: They had jumpsuits on that were like a powder-colored blue. They were charred blue uniforms on, nothing
+      that would signify rank.
+    claim_type: hearsay
+    attestation: first_hand
+    speaker:
+      node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+      title: Suzanne Ramsey
+    provenance_chain:
+      origin_kind: speaker
+      origin: Suzanne Ramsey
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
+        title: 1948 Roswell UFO incident
+        slug: 1948-roswell-ufo-incident
+      - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+        title: Suzanne Ramsey
+        slug: suzanne-ramsey
+    date: '1948-03-25'
+    date_end: null
+    location_in_record: 00:59:41.6-00:59:52.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2

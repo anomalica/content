@@ -9,340 +9,351 @@ page:
   claim_count: 8
   claim_count_total: 8
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 8
+  tokens_estimated: 2494
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 8
 related_nodes:
-- node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-  title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-  node_type: document
-  slug: unidentified-aerial-phenomena-uap-disclosure-act
-  shared_claims: 4
-- node_id: 64b5d145-8c58-4c80-86ba-628da6aee6ec
-  title: Mike Rounds
-  node_type: person
-  slug: mike-rounds
-  shared_claims: 2
-- node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-  title: Harry Reid
-  node_type: person
-  slug: harry-reid
-  shared_claims: 1
-- node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
-  title: Kirsten Gillibrand
-  node_type: person
-  slug: kirsten-gillibrand
-  shared_claims: 1
-- node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-  title: Marco Rubio
-  node_type: person
-  slug: marco-rubio
-  shared_claims: 1
-- node_id: 30940882-37a5-4db5-980d-282dafd2df49
-  title: nonhuman intelligence (Nonhuman Intelligence (NHI))
-  node_type: topic
-  slug: nonhuman-intelligence-nonhuman-intelligence-nhi
-  shared_claims: 1
-claims:
-- claim_id: eba64c7f-bac1-438b-9ebf-ddcb058b179d
-  claim_hash: 96fac59999a087c970ddc7d0b34ad63e32cc4a4cb4d7e1de9c0f9652596a7736
-  content: The American public has a right to learn about technologies of unknown
-    origins, nonhuman intelligence, and unexplainable phenomena.
-  original_excerpt: The American public has a right to learn about technologies of
-    unknown origins, nonhuman intelligence, and unexplainable phenomena. Those are
-    not the words of a UFO Twitter account. That is a direct quote from Majority Leader
-    Chuck Schumer
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
-    title: Chuck Schumer
-  provenance_chain:
-    origin_kind: named
-    origin: Chuck Schumer
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
-    title: Chuck Schumer
-    slug: chuck-schumer
-  date: null
-  date_end: null
-  location_in_record: char:27000-27232
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 1dc36bd4-3c1a-4ea3-908e-ce508321b2b9
-  claim_hash: c6237c442a6878f46b58c979ab6fe2d0dc6431aea7f58bd257cb932861a80279
-  content: In the summer of 2023, Senate Majority Leader Chuck Schumer, Senator Mike
-    Rounds, Senator Marco Rubio, and Senator Kirsten Gillibrand sponsored the UAP
-    Disclosure Act.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
-    title: Chuck Schumer
-    slug: chuck-schumer
-  - node_id: 64b5d145-8c58-4c80-86ba-628da6aee6ec
-    title: Mike Rounds
-    slug: mike-rounds
-  - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
-    title: Kirsten Gillibrand
-    slug: kirsten-gillibrand
-  - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-    title: Marco Rubio
-    slug: marco-rubio
   - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
     title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    node_type: document
     slug: unidentified-aerial-phenomena-uap-disclosure-act
-  date: 2023-07
-  date_end: null
-  location_in_record: ch32:3989-4205
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: e16fd4ad-c643-4781-8020-17b7f2f82271
-  claim_hash: 239907bc704eb90817091be7faf959ccf5d8ccb53bce0a077b81900358704e8d
-  content: Chuck Schumer stated that the American public has a right to learn about
-    technologies of unknown origins, nonhuman intelligence, and unexplainable phenomena.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
-    title: Chuck Schumer
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chuck Schumer
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
-    title: Chuck Schumer
-    slug: chuck-schumer
-  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-    title: nonhuman intelligence (Nonhuman Intelligence (NHI))
-    slug: nonhuman-intelligence-nonhuman-intelligence-nhi
-  date: null
-  date_end: null
-  location_in_record: ch32:5627-5776
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: ecd85ebe-0a5d-4613-a982-063e3b21a2b4
-  claim_hash: 13b7e9385f86aa956dd79f5d6b6a5fca1936d2d3301265726ca791f20bad6ef6
-  content: Chuck Schumer said efforts are underway to declassify what the government
-    has previously learned about UAP-related phenomena and to create a pipeline for
-    future research to be made public.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
-    title: Chuck Schumer
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chuck Schumer
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
-    title: Chuck Schumer
-    slug: chuck-schumer
-  date: null
-  date_end: null
-  location_in_record: ch32:5787-5946
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 1c07fcf5-6afa-46d5-950f-a7f8c1957f8e
-  claim_hash: 64c1c605376d61fb9789c6ab7cc6365c1b746eac6c9044fdf5e0c360252b21af
-  content: Chuck Schumer described Harry Reid as his mentor and dear friend and said
-    he was honoured to carry on Reid's legacy fighting for transparency about unexplained
-    phenomena.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
-    title: Chuck Schumer
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chuck Schumer
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
-    title: Chuck Schumer
-    slug: chuck-schumer
+    shared_claims: 4
+  - node_id: 64b5d145-8c58-4c80-86ba-628da6aee6ec
+    title: Mike Rounds
+    node_type: person
+    slug: mike-rounds
+    shared_claims: 2
   - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
     title: Harry Reid
+    node_type: person
     slug: harry-reid
-  date: null
-  date_end: null
-  location_in_record: ch32:5954-6124
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 6340b994-e401-4601-a3d1-e49044dcf716
-  claim_hash: 42ce5277e8051b6d7a32c208e2448a41d77f4393af12a62d3412c4355af8f55f
-  content: Senators Chuck Schumer and Mike Rounds fought for the UAP Disclosure Act
-    to be passed with some historic wins.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
-    title: Chuck Schumer
-    slug: chuck-schumer
-  - node_id: 64b5d145-8c58-4c80-86ba-628da6aee6ec
-    title: Mike Rounds
-    slug: mike-rounds
-  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-    slug: unidentified-aerial-phenomena-uap-disclosure-act
-  date: 2023-12
-  date_end: null
-  location_in_record: ch32:6999-7079
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: a659a8ca-9c90-4023-8586-e6d646818d56
-  claim_hash: 809aeadf15977679bc34be938df5ad844e0b59485898381442ef01ce333001fe
-  content: Chuck Schumer said it is an outrage the House did not work with the Senate
-    on adopting the proposal for a review board, meaning declassification of UAP records
-    will largely be up to the same entities that have blocked and obfuscated their
-    disclosure for decades.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
-    title: Chuck Schumer
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chuck Schumer
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
-    title: Chuck Schumer
-    slug: chuck-schumer
-  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-    slug: unidentified-aerial-phenomena-uap-disclosure-act
-  date: 2023-12
-  date_end: null
-  location_in_record: ch32:8005-8244
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: c850b26b-8936-4a1d-a2ee-16a4efd85b05
-  claim_hash: f7ca25a416656196b049d0780703e825b7a55c4f927fa2e425bf51cbd54650e1
-  content: Chuck Schumer continues to push for the passage of the UAP Disclosure Act,
-    which would require declassification of government-held UAP related documents,
-    similar to the JFK files.
-  original_excerpt: Senator Chuck Schumer continues to push for the passage of the
-    UAP Disclosure Act, which would require the declassification of government held
-    UAP related documents, much like they did with the JFK files.
-  claim_type: administrative
-  attestation: null
-  speaker:
-    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-    title: Chris Ramsay
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
-    title: Chuck Schumer
-    slug: chuck-schumer
-  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-    slug: unidentified-aerial-phenomena-uap-disclosure-act
-  date: null
-  date_end: null
-  location_in_record: 00:02:38.3-00:02:50.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: cba0d55b-adea-411f-9937-fa491d3a2c35
-    record_title: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
-    record_date: '2024-09-13'
-    record_reference: https://www.youtube.com/watch?v=YtfMhIbdc98
-    content_hash: sha256:64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff45095cfc
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+    title: Kirsten Gillibrand
+    node_type: person
+    slug: kirsten-gillibrand
+    shared_claims: 1
+  - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+    title: Marco Rubio
+    node_type: person
+    slug: marco-rubio
+    shared_claims: 1
+  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+    title: nonhuman intelligence (NHI)
+    node_type: topic
+    slug: nonhuman-intelligence-nhi
+    shared_claims: 1
+claims:
+  - claim_id: eba64c7f-bac1-438b-9ebf-ddcb058b179d
+    claim_hash: 96fac59999a087c970ddc7d0b34ad63e32cc4a4cb4d7e1de9c0f9652596a7736
+    content: The American public has a right to learn about technologies of unknown origins, nonhuman intelligence, and unexplainable
+      phenomena.
+    original_excerpt: The American public has a right to learn about technologies of unknown origins, nonhuman intelligence,
+      and unexplainable phenomena. Those are not the words of a UFO Twitter account. That is a direct quote from Majority
+      Leader Chuck Schumer
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+      title: Chuck Schumer
+    provenance_chain:
+      origin_kind: named
+      origin: Chuck Schumer
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+        title: Chuck Schumer
+        slug: chuck-schumer
+    date: null
+    date_end: null
+    location_in_record: char:27000-27232
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 1dc36bd4-3c1a-4ea3-908e-ce508321b2b9
+    claim_hash: c6237c442a6878f46b58c979ab6fe2d0dc6431aea7f58bd257cb932861a80279
+    content: In the summer of 2023, Senate Majority Leader Chuck Schumer, Senator Mike Rounds, Senator Marco Rubio, and Senator
+      Kirsten Gillibrand sponsored the UAP Disclosure Act.
+    original_excerpt: In the summer of 2023, Senate Majority Leader Chuck Schumer of New York, Senator Mike Rounds of South
+      Dakota, Senator Rubio, and Senator Gillibrand sponsored the most historic UAP legislation yet, the UAP Disclosure Act
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+        title: Chuck Schumer
+        slug: chuck-schumer
+      - node_id: 64b5d145-8c58-4c80-86ba-628da6aee6ec
+        title: Mike Rounds
+        slug: mike-rounds
+      - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+        title: Kirsten Gillibrand
+        slug: kirsten-gillibrand
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+      - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+        slug: unidentified-aerial-phenomena-uap-disclosure-act
+    date: 2023-07
+    date_end: null
+    location_in_record: ch32:3989-4205
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e16fd4ad-c643-4781-8020-17b7f2f82271
+    claim_hash: 239907bc704eb90817091be7faf959ccf5d8ccb53bce0a077b81900358704e8d
+    content: Chuck Schumer stated that the American public has a right to learn about technologies of unknown origins, nonhuman
+      intelligence, and unexplainable phenomena.
+    original_excerpt: The American public has a right to learn about technologies of unknown origins, non-human intelligence,
+      and unexplainable phenomena.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+      title: Chuck Schumer
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chuck Schumer
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+        title: Chuck Schumer
+        slug: chuck-schumer
+      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+        title: nonhuman intelligence (NHI)
+        slug: nonhuman-intelligence-nhi
+    date: null
+    date_end: null
+    location_in_record: ch32:5627-5776
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: ecd85ebe-0a5d-4613-a982-063e3b21a2b4
+    claim_hash: 13b7e9385f86aa956dd79f5d6b6a5fca1936d2d3301265726ca791f20bad6ef6
+    content: Chuck Schumer said efforts are underway to declassify what the government has previously learned about UAP-related
+      phenomena and to create a pipeline for future research to be made public.
+    original_excerpt: We are not only working to declassify what the government has previously learned about these phenomena
+      but to create a pipeline for future research to be made public.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+      title: Chuck Schumer
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chuck Schumer
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+        title: Chuck Schumer
+        slug: chuck-schumer
+    date: null
+    date_end: null
+    location_in_record: ch32:5787-5946
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1c07fcf5-6afa-46d5-950f-a7f8c1957f8e
+    claim_hash: 64c1c605376d61fb9789c6ab7cc6365c1b746eac6c9044fdf5e0c360252b21af
+    content: Chuck Schumer described Harry Reid as his mentor and dear friend and said he was honoured to carry on Reid's
+      legacy fighting for transparency about unexplained phenomena.
+    original_excerpt: I am honored to carry on the legacy of my mentor and dear friend, Harry Reid, and fight for the transparency
+      that the public has long demanded surround these unexplained phenomena.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+      title: Chuck Schumer
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chuck Schumer
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+        title: Chuck Schumer
+        slug: chuck-schumer
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: ch32:5954-6124
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 6340b994-e401-4601-a3d1-e49044dcf716
+    claim_hash: 42ce5277e8051b6d7a32c208e2448a41d77f4393af12a62d3412c4355af8f55f
+    content: Senators Chuck Schumer and Mike Rounds fought for the UAP Disclosure Act to be passed with some historic wins.
+    original_excerpt: Senators Schumer and Rounds fought for the act to get passed with some historic wins
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+        title: Chuck Schumer
+        slug: chuck-schumer
+      - node_id: 64b5d145-8c58-4c80-86ba-628da6aee6ec
+        title: Mike Rounds
+        slug: mike-rounds
+      - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+        slug: unidentified-aerial-phenomena-uap-disclosure-act
+    date: 2023-12
+    date_end: null
+    location_in_record: ch32:6999-7079
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: a659a8ca-9c90-4023-8586-e6d646818d56
+    claim_hash: 809aeadf15977679bc34be938df5ad844e0b59485898381442ef01ce333001fe
+    content: Chuck Schumer said it is an outrage the House did not work with the Senate on adopting the proposal for a review
+      board, meaning declassification of UAP records will largely be up to the same entities that have blocked and obfuscated
+      their disclosure for decades.
+    original_excerpt: It is really an outrage the House didn't work with us on adopting our proposal for a review board. It
+      means that declassification of UAP records will be largely up to the same entities that have blocked and obfuscated
+      their disclosure for decades.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+      title: Chuck Schumer
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chuck Schumer
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+        title: Chuck Schumer
+        slug: chuck-schumer
+      - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+        slug: unidentified-aerial-phenomena-uap-disclosure-act
+    date: 2023-12
+    date_end: null
+    location_in_record: ch32:8005-8244
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c850b26b-8936-4a1d-a2ee-16a4efd85b05
+    claim_hash: f7ca25a416656196b049d0780703e825b7a55c4f927fa2e425bf51cbd54650e1
+    content: Chuck Schumer continues to push for the passage of the UAP Disclosure Act, which would require declassification
+      of government-held UAP related documents, similar to the JFK files.
+    original_excerpt: Senator Chuck Schumer continues to push for the passage of the UAP Disclosure Act, which would require
+      the declassification of government held UAP related documents, much like they did with the JFK files.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+        title: Chuck Schumer
+        slug: chuck-schumer
+      - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+        slug: unidentified-aerial-phenomena-uap-disclosure-act
+    date: null
+    date_end: null
+    location_in_record: 00:02:38.3-00:02:50.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: cba0d55b-adea-411f-9937-fa491d3a2c35
+      record_title: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
+      record_date: '2024-09-13'
+      record_reference: https://www.youtube.com/watch?v=YtfMhIbdc98
+      content_hash: sha256:64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff45095cfc
+      friendly_name: null

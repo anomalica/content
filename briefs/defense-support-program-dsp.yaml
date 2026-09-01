@@ -9,622 +9,620 @@ page:
   claim_count: 14
   claim_count_total: 14
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 14
+  tokens_estimated: 4457
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 14
 related_nodes:
-- node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-  title: Ross Coulthart
-  node_type: person
-  slug: ross-coulthart
-  shared_claims: 4
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 3
-- node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-  title: John Podesta
-  node_type: person
-  slug: john-podesta
-  shared_claims: 2
-- node_id: b258ba79-75af-4717-8da2-cd62d86428e6
-  title: Maaneli "Max" Derakhshani
-  node_type: person
-  slug: maaneli-max-derakhshani
-  shared_claims: 2
-- node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-  title: Robert Fish
-  node_type: person
-  slug: robert-fish
-  shared_claims: 2
-- node_id: 0ec49d0b-3c20-4d64-aadc-cac410206e5b
-  title: 'America''s Space Sentinels: The History of the Defense Support Program (DSP)
-    and SBIRS Satellite Systems'
-  node_type: document
-  slug: americas-space-sentinels-the-history-of-the-defense-support-program-dsp-and-sbirs-satellite-systems
-  shared_claims: 1
-- node_id: bb24eb6a-3a4c-4c9c-9597-8a9a327b521e
-  title: Australia, Northern Territory, Joint Defence Facility Pine Gap
-  node_type: place
-  slug: northern-territory-joint-defence-facility-pine-gap-australia
-  shared_claims: 1
-- node_id: 71556af9-e202-4f6e-9978-a5c332cca743
-  title: Australia, Northern Territory, Pine Gap
-  node_type: place
-  slug: northern-territory-pine-gap-australia
-  shared_claims: 1
-- node_id: ba30579e-c9f0-479e-8207-ef639086d816
-  title: Australia, Western Australia, Northwest Cape
-  node_type: place
-  slug: western-australia-northwest-cape-australia
-  shared_claims: 1
-- node_id: a7a85a91-0a71-43cd-87ca-6fea2c4a549b
-  title: Dr. Mark Carlotto's STS-48 analysis paper
-  node_type: document
-  slug: dr-mark-carlottos-sts-48-analysis-paper
-  shared_claims: 1
-- node_id: ae71d484-d4f7-40af-a5b1-ed2d4b051695
-  title: Jeffrey T. Richelson
-  node_type: person
-  slug: jeffrey-t-richelson
-  shared_claims: 1
-- node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
-  title: Mark C. Carlotto
-  node_type: person
-  slug: mark-c-carlotto
-  shared_claims: 1
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 1
-claims:
-- claim_id: ae244c52-cace-4428-9c4c-1dda40861995
-  claim_hash: 045f385321877e7d39efad43c8947f31a18ab627af1bf97fad7717a1347eda32
-  content: Defense Support Program (DSP) satellite sensor systems recorded the 1991
-    mystery object changing velocity and making a 30-degree course correction before
-    a controlled descent.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: leaked documents referenced in the narrative
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
-    title: Defense Support Program (DSP)
-    slug: defense-support-program-dsp
-  date: '1991'
-  date_end: null
-  location_in_record: ch13:25198-25376
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 0a0754e9-32f5-4a58-b3ab-3fb9d6d081f8
-  claim_hash: f8fa754c1284ddd4b16fdca8f2689e98877c2c870c5c73f57f4b5d82cfa12725
-  content: The Joint Defence Facility Pine Gap collects data from infra-red Defense
-    Support Program (DSP) early-warning satellites hovering approximately 35,000 kilometres
-    above Earth, which capture the heat blooms of missile launches.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
-    title: Defense Support Program (DSP)
-    slug: defense-support-program-dsp
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 4
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 3
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    node_type: person
+    slug: john-podesta
+    shared_claims: 2
+  - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+    node_type: person
+    slug: maaneli-max-derakhshani
+    shared_claims: 2
+  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+    title: Robert Fish
+    node_type: person
+    slug: robert-fish
+    shared_claims: 2
+  - node_id: 0ec49d0b-3c20-4d64-aadc-cac410206e5b
+    title: 'America''s Space Sentinels: The History of the Defense Support Program (DSP) and SBIRS Satellite Systems'
+    node_type: document
+    slug: americas-space-sentinels-the-history-of-the-defense-support-program-dsp-and-sbirs-satellite-systems
+    shared_claims: 1
   - node_id: bb24eb6a-3a4c-4c9c-9597-8a9a327b521e
     title: Australia, Northern Territory, Joint Defence Facility Pine Gap
+    node_type: place
     slug: northern-territory-joint-defence-facility-pine-gap-australia
-  date: null
-  date_end: null
-  location_in_record: ch13:26256-26428
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 9208173e-a6f6-4289-93a7-fbcd803a54fe
-  claim_hash: 76ac46076e39737a7f60eea536ff411c0c0e48bac8a5b3641940c56c414ce008
-  content: The heat, light and infrared sensors on the Defense Support Program early-warning
-    satellites sometimes detect objects that are clearly not missiles and have been
-    seen to change course under apparently intelligent control.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
-    title: Defense Support Program (DSP)
-    slug: defense-support-program-dsp
-  date: null
-  date_end: null
-  location_in_record: ch13:26545-26727
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 0a625927-1d28-486e-bd92-2764c3390ecc
-  claim_hash: 47a7eca0bb47c66366d6ea851e299431f164837ee731caf953a2486493774732
-  content: The codename given to strangely moving objects detected by Defense Support
-    Program satellites is 'Fast Walkers'.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
-    title: Defense Support Program (DSP)
-    slug: defense-support-program-dsp
-  date: null
-  date_end: null
-  location_in_record: ch13:26736-26798
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: bf183d17-c213-4e7c-bcb7-ba289fda07a7
-  claim_hash: 1f540e5e6ca57718b301e51f4361048824c288f64b06143eb6152c8181d96a8a
-  content: The leaked emails showed John Podesta was emailed about UFOs by an associate
-    named Robert 'Bob' Fish, who revealed that 'Fast Walkers' were routinely detected
-    entering Earth's atmosphere from outer space by Defense Support Program satellites.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: third_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Robert 'Bob' Fish
-    relay:
-    - email to John Podesta
-    - 2015 WikiLeaks release
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
-    title: Defense Support Program (DSP)
-    slug: defense-support-program-dsp
-  date: null
-  date_end: null
-  location_in_record: ch13:27336-27523
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d3c66516-8e1d-4dfa-a0be-83281086b8d5
-  claim_hash: 5f0621da729683021abd5f707f189819cd66be31b9290aca01873e0d2f3d95c7
-  content: Robert 'Bob' Fish told John Podesta confidentially about an object he was
-    briefed on by a US-based Defense Support Program operator at a high-security US
-    private corporate aerospace facility in California.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: third_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to be a Defense Support Program operator at a private
-      corporate aerospace facility in California
-    relay:
-    - Robert 'Bob' Fish
-    - email to John Podesta
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
-    title: Defense Support Program (DSP)
-    slug: defense-support-program-dsp
-  date: null
-  date_end: null
-  location_in_record: ch13:27535-27719
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 69b1ae03-5a4e-4cdd-8c38-9e873fbbb739
-  claim_hash: a1c66a54bca039e6a1288d85cbc9e4470d41e6f12c18cc87b3428cb659b2ac73
-  content: What the military calls fastwalkers, or unidentified fast-moving objects
-    tracked by Defense Support Program (DSP) satellites, appear in subsequent space
-    shuttle videos and in the fully uncut version of the STS-48 UAP incident footage.
-  original_excerpt: there are a number of what seem to be what the military calls
-    fastwalkers or projectiles that move extremely fast in subsequent space shuttle
-    videos and even in the STS-48 fully uncut version.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
-    title: Maaneli "Max" Derakhshani
-  provenance_chain:
-    origin_kind: speaker
-    origin: Maaneli "Max" Derakhshani
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
-    title: Defense Support Program (DSP)
-    slug: defense-support-program-dsp
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
-    title: Maaneli "Max" Derakhshani
-    slug: maaneli-max-derakhshani
-  date: null
-  date_end: null
-  location_in_record: 00:29:43.9-00:30:00.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: 895e1fac-1dbe-4d2c-bed7-3657ac4486d2
-  claim_hash: 8d9b5f8f4e33b403caad5990c5b0f7e48e2af883f390aaad3214764399c4674c
-  content: The Defense Support Program (DSP) satellite system operated by the US military
-    tracked data on what are called fastwalkers, or anomalous objects that arrive
-    from deep space at hypersonic velocities and either go into orbit around Earth
-    or enter and possibly leave the atmosphere.
-  original_excerpt: the US military has, or had at the time, a system of spy satellites
-    called the DSP satellites, which there is some evidence to indicate, did have
-    data tracking what they call fastwalkers or anomalous objects that come from deep
-    space at hypersonic velocities either go into orbit around Earth or enter the
-    atmosphere or enter and leave the atmosphere again.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
-    title: Maaneli "Max" Derakhshani
-  provenance_chain:
-    origin_kind: speaker
-    origin: Maaneli "Max" Derakhshani
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
-    title: Defense Support Program (DSP)
-    slug: defense-support-program-dsp
-  date: null
-  date_end: null
-  location_in_record: 00:42:16.8-00:42:45.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: 3f61b9de-6565-4eb8-a0ba-5a2ccdf89ff1
-  claim_hash: 6a9649125ce2b8265bce9c48314ac8db6aa2ea1826e863c2f65bf17430ca6be3
-  content: Maaneli "Max" Derakhshani would like to determine whether the Defense Support
-    Program (DSP) satellite system tracked a fastwalker at the precise location of
-    the main unidentified aerial phenomenon (UAP) during the STS-48 UAP incident.
-  original_excerpt: I would love someday to be able to see if the DSP satellite system
-    tracked a fastwalker precisely where the main UAP and STS-48 was located at that
-    time.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
-    title: Maaneli "Max" Derakhshani
-  provenance_chain:
-    origin_kind: speaker
-    origin: Maaneli "Max" Derakhshani
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
-    title: Defense Support Program (DSP)
-    slug: defense-support-program-dsp
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
-    title: Maaneli "Max" Derakhshani
-    slug: maaneli-max-derakhshani
-  date: null
-  date_end: null
-  location_in_record: 00:42:46.2-00:42:58.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: c377b775-76ea-4c4b-8499-6e9499f04518
-  claim_hash: 7089da6370a0c1e2fb0c5cc0f4bd924cd6d1daddb365cc7f49e79a15dd18331d
-  content: Ross Coulthart possesses Jeffrey T. Richelson's book on the Defense Support
-    Program (DSP), and states that fastwalkers have been seen over Australia.
-  original_excerpt: I actually have James Richardson's book on the DSP program, the
-    Defence Support Program, and I can tell you there are fastwalkers that have been
-    seen over Australia.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: document
-    origin: 'America''s Space Sentinels: The History of the DSP and SBIRS Satellite
-      Systems'
-    relay:
-    - Ross Coulthart
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0ec49d0b-3c20-4d64-aadc-cac410206e5b
-    title: 'America''s Space Sentinels: The History of the Defense Support Program
-      (DSP) and SBIRS Satellite Systems'
-    slug: americas-space-sentinels-the-history-of-the-defense-support-program-dsp-and-sbirs-satellite-systems
-  - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
-    title: Defense Support Program (DSP)
-    slug: defense-support-program-dsp
-  - node_id: ae71d484-d4f7-40af-a5b1-ed2d4b051695
-    title: Jeffrey T. Richelson
-    slug: jeffrey-t-richelson
-  - node_id: ba30579e-c9f0-479e-8207-ef639086d816
-    title: Australia, Western Australia, Northwest Cape
-    slug: western-australia-northwest-cape-australia
-  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-    slug: ross-coulthart
-  date: null
-  date_end: null
-  location_in_record: 00:42:59.3-00:43:09.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: ecdf9b36-54e0-4f3a-ae20-1be491ceafa4
-  claim_hash: 023f9a76430f08199b462e372f688826520e18129c6665b14c14c4036a02c0f0
-  content: The downlinks for the Defense Support Program (DSP) satellites came through
-    Australia, Northern Territory, Pine Gap, a base in the middle of Australia.
-  original_excerpt: I know the downlinks for the DSP satellites came through Pine
-    Gap, which is a base in the middle of Australia.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
-    title: Defense Support Program (DSP)
-    slug: defense-support-program-dsp
+    shared_claims: 1
   - node_id: 71556af9-e202-4f6e-9978-a5c332cca743
     title: Australia, Northern Territory, Pine Gap
+    node_type: place
     slug: northern-territory-pine-gap-australia
-  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-    slug: ross-coulthart
-  date: null
-  date_end: null
-  location_in_record: 00:43:10.9-00:43:16.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: c1eff0c7-e8e0-4312-97d8-56734d8c126f
-  claim_hash: 586ce72fc446cf6046f751bb1cb07aed1cd08e00b566c0c4214843a6d6a0d925
-  content: People confirmed to Ross Coulthart that they have seen data pertaining
-    to Defense Support Program (DSP) satellite observations over Australia.
-  original_excerpt: I have spoken to people who have confirmed to me that they have
-    seen data pertaining to observations over Australia from those DSP satellites.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: anonymous
-    origin: people claiming to have seen DSP satellite observation data over Australia
-    relay:
-    - Ross Coulthart
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
-    title: Defense Support Program (DSP)
-    slug: defense-support-program-dsp
-  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-    slug: ross-coulthart
-  date: null
-  date_end: null
-  location_in_record: 00:43:18.0-00:43:27.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: a93f5e36-5558-4d76-99d8-9eabed0096d9
-  claim_hash: 5dc4a23a553af52174c68a03142d9551d93b9aa18af28234d7dd3feda1893b99
-  content: The Defense Support Program (DSP) satellites have now been superseded by
-    more modern satellite systems.
-  original_excerpt: as i understand it they've now been superseded by far more modern
-    satellite systems
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
-    title: Defense Support Program (DSP)
-    slug: defense-support-program-dsp
-  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-    slug: ross-coulthart
-  date: null
-  date_end: null
-  location_in_record: 00:43:28.8-00:43:32.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: 4a96c065-7f66-4997-8441-7bdd0f20eb05
-  claim_hash: 3bad6264279912e5693e46e7fab09ec0485db1ea62b88b3fa13103705ec0a38c
-  content: Mark Carlotto states in his research paper on the STS-48 UAP incident that
-    there is some correlation between Defense Support Program (DSP) satellite data
-    at the time over that region of Earth and what was observed in the STS-48 UAP
-    incident, with Carlotto providing a reference for this in his paper.
-  original_excerpt: Carlotto himself does say that there is some sort of correlation
-    between the DSP satellite data at the time over that region of the Earth and what
-    was seen in STS-48 and he actually gives a reference for this in his research
-    paper on the topic.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
-    title: Maaneli "Max" Derakhshani
-  provenance_chain:
-    origin_kind: document
-    origin: Dr. Mark Carlotto's STS-48 analysis paper
-    relay:
-    - Maaneli "Max" Derakhshani
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
-    title: Defense Support Program (DSP)
-    slug: defense-support-program-dsp
+    shared_claims: 1
+  - node_id: ba30579e-c9f0-479e-8207-ef639086d816
+    title: Australia, Western Australia, Northwest Cape
+    node_type: place
+    slug: western-australia-northwest-cape-australia
+    shared_claims: 1
   - node_id: a7a85a91-0a71-43cd-87ca-6fea2c4a549b
     title: Dr. Mark Carlotto's STS-48 analysis paper
+    node_type: document
     slug: dr-mark-carlottos-sts-48-analysis-paper
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 1
+  - node_id: ae71d484-d4f7-40af-a5b1-ed2d4b051695
+    title: Jeffrey T. Richelson
+    node_type: person
+    slug: jeffrey-t-richelson
+    shared_claims: 1
   - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
     title: Mark C. Carlotto
+    node_type: person
     slug: mark-c-carlotto
-  date: null
-  date_end: null
-  location_in_record: 00:44:10.6-00:44:29.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+claims:
+  - claim_id: ae244c52-cace-4428-9c4c-1dda40861995
+    claim_hash: 045f385321877e7d39efad43c8947f31a18ab627af1bf97fad7717a1347eda32
+    content: Defense Support Program (DSP) satellite sensor systems recorded the 1991 mystery object changing velocity and
+      making a 30-degree course correction before a controlled descent.
+    original_excerpt: Defence Support Program (DSP) satellite sensor systems recorded the object changing its velocity and
+      then making a 30-degree course correction before it descended – a controlled descent.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: leaked documents referenced in the narrative
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+    date: '1991'
+    date_end: null
+    location_in_record: ch13:25198-25376
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0a0754e9-32f5-4a58-b3ab-3fb9d6d081f8
+    claim_hash: f8fa754c1284ddd4b16fdca8f2689e98877c2c870c5c73f57f4b5d82cfa12725
+    content: The Joint Defence Facility Pine Gap collects data from infra-red Defense Support Program (DSP) early-warning
+      satellites hovering approximately 35,000 kilometres above Earth, which capture the heat blooms of missile launches.
+    original_excerpt: It also collects the data from the highly sensitive infra-red DSP early-warning satellites hovering
+      35,000 kilometres above Earth, which capture the heat blooms of missile launches.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+      - node_id: bb24eb6a-3a4c-4c9c-9597-8a9a327b521e
+        title: Australia, Northern Territory, Joint Defence Facility Pine Gap
+        slug: northern-territory-joint-defence-facility-pine-gap-australia
+    date: null
+    date_end: null
+    location_in_record: ch13:26256-26428
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9208173e-a6f6-4289-93a7-fbcd803a54fe
+    claim_hash: 76ac46076e39737a7f60eea536ff411c0c0e48bac8a5b3641940c56c414ce008
+    content: The heat, light and infrared sensors on the Defense Support Program early-warning satellites sometimes detect
+      objects that are clearly not missiles and have been seen to change course under apparently intelligent control.
+    original_excerpt: the heat, light and infrared sensors on these satellites sometimes detect objects that are clearly not
+      missiles and have even been seen to change course under apparently intelligent control.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+    date: null
+    date_end: null
+    location_in_record: ch13:26545-26727
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0a625927-1d28-486e-bd92-2764c3390ecc
+    claim_hash: 47a7eca0bb47c66366d6ea851e299431f164837ee731caf953a2486493774732
+    content: The codename given to strangely moving objects detected by Defense Support Program satellites is 'Fast Walkers'.
+    original_excerpt: The codename given to these strangely moving objects is 'Fast Walkers'.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+    date: null
+    date_end: null
+    location_in_record: ch13:26736-26798
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bf183d17-c213-4e7c-bcb7-ba289fda07a7
+    claim_hash: 1f540e5e6ca57718b301e51f4361048824c288f64b06143eb6152c8181d96a8a
+    content: The leaked emails showed John Podesta was emailed about UFOs by an associate named Robert 'Bob' Fish, who revealed
+      that 'Fast Walkers' were routinely detected entering Earth's atmosphere from outer space by Defense Support Program
+      satellites.
+    original_excerpt: They showed Podesta was emailed about 'UFOs' by an associate named Robert Fish revealing that Fast Walkers
+      were routinely detected entering Earth's atmosphere from outer space by the DSP satellites.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert 'Bob' Fish
+      relay:
+        - email to John Podesta
+        - 2015 WikiLeaks release
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+    date: null
+    date_end: null
+    location_in_record: ch13:27336-27523
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d3c66516-8e1d-4dfa-a0be-83281086b8d5
+    claim_hash: 5f0621da729683021abd5f707f189819cd66be31b9290aca01873e0d2f3d95c7
+    content: Robert 'Bob' Fish told John Podesta confidentially about an object he was briefed on by a US-based Defense Support
+      Program operator at a high-security US private corporate aerospace facility in California.
+    original_excerpt: Fish told Podesta confidentially about the object he was briefed on by a US-based DSP operator at a
+      high-security US private corporate aerospace facility in California.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a Defense Support Program operator at a private corporate aerospace facility in California
+      relay:
+        - Robert 'Bob' Fish
+        - email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+    date: null
+    date_end: null
+    location_in_record: ch13:27535-27719
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 69b1ae03-5a4e-4cdd-8c38-9e873fbbb739
+    claim_hash: a1c66a54bca039e6a1288d85cbc9e4470d41e6f12c18cc87b3428cb659b2ac73
+    content: What the military calls fastwalkers, or unidentified fast-moving objects tracked by Defense Support Program (DSP)
+      satellites, appear in subsequent space shuttle videos and in the fully uncut version of the STS-48 UAP incident footage.
+    original_excerpt: there are a number of what seem to be what the military calls fastwalkers or projectiles that move extremely
+      fast in subsequent space shuttle videos and even in the STS-48 fully uncut version.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+      title: Maaneli "Max" Derakhshani
+    provenance_chain:
+      origin_kind: speaker
+      origin: Maaneli "Max" Derakhshani
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+        title: Maaneli "Max" Derakhshani
+        slug: maaneli-max-derakhshani
+    date: null
+    date_end: null
+    location_in_record: 00:29:43.9-00:30:00.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: 895e1fac-1dbe-4d2c-bed7-3657ac4486d2
+    claim_hash: 8d9b5f8f4e33b403caad5990c5b0f7e48e2af883f390aaad3214764399c4674c
+    content: The Defense Support Program (DSP) satellite system operated by the US military tracked data on what are called
+      fastwalkers, or anomalous objects that arrive from deep space at hypersonic velocities and either go into orbit around
+      Earth or enter and possibly leave the atmosphere.
+    original_excerpt: the US military has, or had at the time, a system of spy satellites called the DSP satellites, which
+      there is some evidence to indicate, did have data tracking what they call fastwalkers or anomalous objects that come
+      from deep space at hypersonic velocities either go into orbit around Earth or enter the atmosphere or enter and leave
+      the atmosphere again.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+      title: Maaneli "Max" Derakhshani
+    provenance_chain:
+      origin_kind: speaker
+      origin: Maaneli "Max" Derakhshani
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+    date: null
+    date_end: null
+    location_in_record: 00:42:16.8-00:42:45.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: 3f61b9de-6565-4eb8-a0ba-5a2ccdf89ff1
+    claim_hash: 6a9649125ce2b8265bce9c48314ac8db6aa2ea1826e863c2f65bf17430ca6be3
+    content: Maaneli "Max" Derakhshani would like to determine whether the Defense Support Program (DSP) satellite system
+      tracked a fastwalker at the precise location of the main unidentified aerial phenomenon (UAP) during the STS-48 UAP
+      incident.
+    original_excerpt: I would love someday to be able to see if the DSP satellite system tracked a fastwalker precisely where
+      the main UAP and STS-48 was located at that time.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+      title: Maaneli "Max" Derakhshani
+    provenance_chain:
+      origin_kind: speaker
+      origin: Maaneli "Max" Derakhshani
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+        title: Maaneli "Max" Derakhshani
+        slug: maaneli-max-derakhshani
+    date: null
+    date_end: null
+    location_in_record: 00:42:46.2-00:42:58.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: c377b775-76ea-4c4b-8499-6e9499f04518
+    claim_hash: 7089da6370a0c1e2fb0c5cc0f4bd924cd6d1daddb365cc7f49e79a15dd18331d
+    content: Ross Coulthart possesses Jeffrey T. Richelson's book on the Defense Support Program (DSP), and states that fastwalkers
+      have been seen over Australia.
+    original_excerpt: I actually have James Richardson's book on the DSP program, the Defence Support Program, and I can tell
+      you there are fastwalkers that have been seen over Australia.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: document
+      origin: 'America''s Space Sentinels: The History of the DSP and SBIRS Satellite Systems'
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ec49d0b-3c20-4d64-aadc-cac410206e5b
+        title: 'America''s Space Sentinels: The History of the Defense Support Program (DSP) and SBIRS Satellite Systems'
+        slug: americas-space-sentinels-the-history-of-the-defense-support-program-dsp-and-sbirs-satellite-systems
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+      - node_id: ae71d484-d4f7-40af-a5b1-ed2d4b051695
+        title: Jeffrey T. Richelson
+        slug: jeffrey-t-richelson
+      - node_id: ba30579e-c9f0-479e-8207-ef639086d816
+        title: Australia, Western Australia, Northwest Cape
+        slug: western-australia-northwest-cape-australia
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:42:59.3-00:43:09.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: ecdf9b36-54e0-4f3a-ae20-1be491ceafa4
+    claim_hash: 023f9a76430f08199b462e372f688826520e18129c6665b14c14c4036a02c0f0
+    content: The downlinks for the Defense Support Program (DSP) satellites came through Australia, Northern Territory, Pine
+      Gap, a base in the middle of Australia.
+    original_excerpt: I know the downlinks for the DSP satellites came through Pine Gap, which is a base in the middle of
+      Australia.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+      - node_id: 71556af9-e202-4f6e-9978-a5c332cca743
+        title: Australia, Northern Territory, Pine Gap
+        slug: northern-territory-pine-gap-australia
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:43:10.9-00:43:16.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: c1eff0c7-e8e0-4312-97d8-56734d8c126f
+    claim_hash: 586ce72fc446cf6046f751bb1cb07aed1cd08e00b566c0c4214843a6d6a0d925
+    content: People confirmed to Ross Coulthart that they have seen data pertaining to Defense Support Program (DSP) satellite
+      observations over Australia.
+    original_excerpt: I have spoken to people who have confirmed to me that they have seen data pertaining to observations
+      over Australia from those DSP satellites.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: people claiming to have seen DSP satellite observation data over Australia
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:43:18.0-00:43:27.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: a93f5e36-5558-4d76-99d8-9eabed0096d9
+    claim_hash: 5dc4a23a553af52174c68a03142d9551d93b9aa18af28234d7dd3feda1893b99
+    content: The Defense Support Program (DSP) satellites have now been superseded by more modern satellite systems.
+    original_excerpt: as i understand it they've now been superseded by far more modern satellite systems
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:43:28.8-00:43:32.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: 4a96c065-7f66-4997-8441-7bdd0f20eb05
+    claim_hash: 3bad6264279912e5693e46e7fab09ec0485db1ea62b88b3fa13103705ec0a38c
+    content: Mark Carlotto states in his research paper on the STS-48 UAP incident that there is some correlation between
+      Defense Support Program (DSP) satellite data at the time over that region of Earth and what was observed in the STS-48
+      UAP incident, with Carlotto providing a reference for this in his paper.
+    original_excerpt: Carlotto himself does say that there is some sort of correlation between the DSP satellite data at the
+      time over that region of the Earth and what was seen in STS-48 and he actually gives a reference for this in his research
+      paper on the topic.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+      title: Maaneli "Max" Derakhshani
+    provenance_chain:
+      origin_kind: document
+      origin: Dr. Mark Carlotto's STS-48 analysis paper
+      relay:
+        - Maaneli "Max" Derakhshani
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+      - node_id: a7a85a91-0a71-43cd-87ca-6fea2c4a549b
+        title: Dr. Mark Carlotto's STS-48 analysis paper
+        slug: dr-mark-carlottos-sts-48-analysis-paper
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+        title: Mark C. Carlotto
+        slug: mark-c-carlotto
+    date: null
+    date_end: null
+    location_in_record: 00:44:10.6-00:44:29.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null

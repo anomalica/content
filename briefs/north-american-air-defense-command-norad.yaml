@@ -9,336 +9,351 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2248
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
 related_nodes:
-- node_id: c0575ded-5592-48b0-96ac-478b5714394e
-  title: Frederick W. Smith
-  node_type: person
-  slug: frederick-w-smith
-  shared_claims: 4
-- node_id: f481ddd0-5174-4637-a4b4-6b054acfdde2
-  title: USA, Colorado, Cheyenne Mountain
-  node_type: place
-  slug: colorado-cheyenne-mountain-usa
-  shared_claims: 3
-- node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-  title: cattle mutilations phenomenon
-  node_type: topic
-  slug: cattle-mutilations-phenomenon
-  shared_claims: 3
-- node_id: 0841fca4-8906-47b6-a5c1-f2415ec1559b
-  title: 1975 Cheyenne Mountain area cattle mutilation wave
-  node_type: event
-  slug: 1975-cheyenne-mountain-area-cattle-mutilation-wave
-  shared_claims: 1
-- node_id: 6560f9ff-ca1a-41f4-95fc-46b4ccc557a2
-  title: Canadian Air Defense Command
-  node_type: organisation
-  slug: canadian-air-defense-command
-  shared_claims: 1
-- node_id: 9e05037f-bd7e-4cbc-814f-ddefe6bc5dfe
-  title: Cattle Mutilation
-  node_type: document
-  slug: cattle-mutilation
-  shared_claims: 1
-- node_id: 8c12625d-af67-4478-84ef-6474c861d558
-  title: Ent Air Force Base
-  node_type: place
-  slug: ent-air-force-base
-  shared_claims: 1
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 1
-- node_id: 08e11144-52fa-48d1-9e87-a29b9253d02f
-  title: STS-48 video anomalous objects incident (1991-09)
-  node_type: event
-  slug: sts-48-video-anomalous-objects-incident-1991-09
-  shared_claims: 1
-claims:
-- claim_id: 10f3a675-6b75-4d1f-8759-469c59f9a58f
-  claim_hash: 6b91d3aaf4a90cfac36c9cdefb3b05297885d33b0b5611057fee80af89b03870
-  content: Ent Air Force Base and Cheyenne Mountain are the headquarters for the North
-    American Air Defense Command (NORAD) and the Canadian Air Defense Command.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c0575ded-5592-48b0-96ac-478b5714394e
-    title: Frederick W. Smith
-  provenance_chain:
-    origin_kind: speaker
-    origin: Frederick W. Smith
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6560f9ff-ca1a-41f4-95fc-46b4ccc557a2
-    title: Canadian Air Defense Command
-    slug: canadian-air-defense-command
-  - node_id: 8c12625d-af67-4478-84ef-6474c861d558
-    title: Ent Air Force Base
-    slug: ent-air-force-base
   - node_id: c0575ded-5592-48b0-96ac-478b5714394e
     title: Frederick W. Smith
+    node_type: person
     slug: frederick-w-smith
-  - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
-    title: North American Air Defense Command (NORAD)
-    slug: north-american-air-defense-command-norad
+    shared_claims: 4
   - node_id: f481ddd0-5174-4637-a4b4-6b054acfdde2
     title: USA, Colorado, Cheyenne Mountain
+    node_type: place
     slug: colorado-cheyenne-mountain-usa
-  date: null
-  date_end: null
-  location_in_record: ch12:26031-26166
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 0b540efd-d053-467f-8e27-9ccbb1666f08
-  claim_hash: 1324c0b44ed16bbe30e01a27ac8556f63f327d2f8855643981ff34db9e19f57d
-  content: Frederick W. Smith wrote that NORAD's Combat Operations Center is carved
-    into the solid heart of Cheyenne Mountain, requiring approximately 34,000 cubic
-    metres of granite to be blasted out, with some free-standing steel buildings up
-    to three storeys high mounted on large coil springs.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c0575ded-5592-48b0-96ac-478b5714394e
-    title: Frederick W. Smith
-  provenance_chain:
-    origin_kind: speaker
-    origin: Frederick W. Smith
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c0575ded-5592-48b0-96ac-478b5714394e
-    title: Frederick W. Smith
-    slug: frederick-w-smith
-  - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
-    title: North American Air Defense Command (NORAD)
-    slug: north-american-air-defense-command-norad
-  - node_id: f481ddd0-5174-4637-a4b4-6b054acfdde2
-    title: USA, Colorado, Cheyenne Mountain
-    slug: colorado-cheyenne-mountain-usa
-  date: null
-  date_end: null
-  location_in_record: ch12:26177-26465
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 7b453235-9341-4ac7-8d1a-918f337d0ee5
-  claim_hash: 412c37c48fb29ac0488229cdde5ea7e05abb01d8de273c4cb8403e3ab844c9bc
-  content: Frederick W. Smith wrote that the purpose of the NORAD fortress inside
-    Cheyenne Mountain is to detect and analyse everything entering or crossing U.S.
-    airspace.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c0575ded-5592-48b0-96ac-478b5714394e
-    title: Frederick W. Smith
-  provenance_chain:
-    origin_kind: speaker
-    origin: Frederick W. Smith
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c0575ded-5592-48b0-96ac-478b5714394e
-    title: Frederick W. Smith
-    slug: frederick-w-smith
-  - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
-    title: North American Air Defense Command (NORAD)
-    slug: north-american-air-defense-command-norad
-  - node_id: f481ddd0-5174-4637-a4b4-6b054acfdde2
-    title: USA, Colorado, Cheyenne Mountain
-    slug: colorado-cheyenne-mountain-usa
-  date: null
-  date_end: null
-  location_in_record: ch12:26473-26586
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 6ae562bc-3d5f-474d-9dc1-b164b4802106
-  claim_hash: 565a061882cdcacc2c3c4ed6f5c99ffe2c98bd4c16a29e9f7bb1188af6cf2315
-  content: On 1975-07-06 a cow due to calve in two months was mutilated next to the
-    NORAD entrance gate near the unmarked NORAD road on a military reservation posted
-    with prosecution warning signs.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 3
+  - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+    title: cattle mutilations phenomenon
+    node_type: topic
+    slug: cattle-mutilations-phenomenon
+    shared_claims: 3
   - node_id: 0841fca4-8906-47b6-a5c1-f2415ec1559b
     title: 1975 Cheyenne Mountain area cattle mutilation wave
+    node_type: event
     slug: 1975-cheyenne-mountain-area-cattle-mutilation-wave
-  - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-    title: cattle mutilations phenomenon
-    slug: cattle-mutilations-phenomenon
-  - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
-    title: North American Air Defense Command (NORAD)
-    slug: north-american-air-defense-command-norad
-  date: '1975-07-06'
-  date_end: null
-  location_in_record: ch12:27435-27603
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 6e549edd-d81c-4ccd-b99f-4927287ba0af
-  claim_hash: d7576dfb62a8e09d2de45d8ac869057fb07ab3f0adc0b2a9c01c33cd71130438
-  content: Jacques Vallée suggests that dropping a mutilated cow at the main entrance
-    to NORAD may be an indication that somebody is now calling the government's bluff
-    on UFO censorship.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-    title: cattle mutilations phenomenon
-    slug: cattle-mutilations-phenomenon
-  - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
-    title: North American Air Defense Command (NORAD)
-    slug: north-american-air-defense-command-norad
-  date: null
-  date_end: null
-  location_in_record: ch12:30681-30796
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: abd87b42-2824-49e6-9ecb-6462b702020f
-  claim_hash: e9166afa0a4bc7c3569370eca9daed02c506e36445627b6d9f64f1f20127cff4
-  content: Frederick W. Smith, in his book Cattle Mutilation, described a cattle mutilation
-    occurring at a hillside site directly overlooking the underground NORAD (North
-    American Air Defense Command) facility, a site protecting thousands of military
-    buildings, hundreds of aircraft and helicopters, and approximately 20,000 soldiers.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: c0575ded-5592-48b0-96ac-478b5714394e
-    title: Frederick W. Smith
-  provenance_chain:
-    origin_kind: document
-    origin: Cattle Mutilation by Frederick W. Smith
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-    title: cattle mutilations phenomenon
-    slug: cattle-mutilations-phenomenon
+    shared_claims: 1
+  - node_id: 6560f9ff-ca1a-41f4-95fc-46b4ccc557a2
+    title: Canadian Air Defense Command
+    node_type: organisation
+    slug: canadian-air-defense-command
+    shared_claims: 1
   - node_id: 9e05037f-bd7e-4cbc-814f-ddefe6bc5dfe
     title: Cattle Mutilation
+    node_type: document
     slug: cattle-mutilation
-  - node_id: c0575ded-5592-48b0-96ac-478b5714394e
-    title: Frederick W. Smith
-    slug: frederick-w-smith
-  - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
-    title: North American Air Defense Command (NORAD)
-    slug: north-american-air-defense-command-norad
-  date: null
-  date_end: null
-  location_in_record: ch12:799-1076
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 20a13877-db81-4c8b-8f7d-720e7b675097
-  claim_hash: 84df44852c37d2ae802b6fc608dbb00b61eff46b062376b8669819ee2c4dcdb7
-  content: The estimated speed of about 35 kilometres per second for one object in
-    the STS-48 video is approximately the same as that of a fast-moving object tracked
-    by the North American Air Defense Command (NORAD) in 1984.
-  original_excerpt: is approximately the same as that of a "fastwalker" tracked by
-    the North American Air Defense Command in 1984⁵.
-  claim_type: measurement
-  attestation: null
-  speaker:
-    node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
-    title: Mark C. Carlotto
-  provenance_chain:
-    origin_kind: unattributed
-    origin: the document
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
+  - node_id: 8c12625d-af67-4478-84ef-6474c861d558
+    title: Ent Air Force Base
+    node_type: place
+    slug: ent-air-force-base
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
   - node_id: 08e11144-52fa-48d1-9e87-a29b9253d02f
     title: STS-48 video anomalous objects incident (1991-09)
+    node_type: event
     slug: sts-48-video-anomalous-objects-incident-1991-09
-  - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
-    title: North American Air Defense Command (NORAD)
-    slug: north-american-air-defense-command-norad
-  date: '1984'
-  date_end: null
-  location_in_record: char:3525-3630
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
-    record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
-    record_date: '2005'
-    record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
-    content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
-    friendly_name: null
+    shared_claims: 1
+claims:
+  - claim_id: 10f3a675-6b75-4d1f-8759-469c59f9a58f
+    claim_hash: 6b91d3aaf4a90cfac36c9cdefb3b05297885d33b0b5611057fee80af89b03870
+    content: Ent Air Force Base and Cheyenne Mountain are the headquarters for the North American Air Defense Command (NORAD)
+      and the Canadian Air Defense Command.
+    original_excerpt: Ent Air Force Base and Cheyenne Mountain, the headquarters for NORAD (North American Air Defense Command)
+      and the Canadian Air Defense Command
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c0575ded-5592-48b0-96ac-478b5714394e
+      title: Frederick W. Smith
+    provenance_chain:
+      origin_kind: speaker
+      origin: Frederick W. Smith
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6560f9ff-ca1a-41f4-95fc-46b4ccc557a2
+        title: Canadian Air Defense Command
+        slug: canadian-air-defense-command
+      - node_id: 8c12625d-af67-4478-84ef-6474c861d558
+        title: Ent Air Force Base
+        slug: ent-air-force-base
+      - node_id: c0575ded-5592-48b0-96ac-478b5714394e
+        title: Frederick W. Smith
+        slug: frederick-w-smith
+      - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
+        title: North American Air Defense Command (NORAD)
+        slug: north-american-air-defense-command-norad
+      - node_id: f481ddd0-5174-4637-a4b4-6b054acfdde2
+        title: USA, Colorado, Cheyenne Mountain
+        slug: colorado-cheyenne-mountain-usa
+    date: null
+    date_end: null
+    location_in_record: ch12:26031-26166
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 0b540efd-d053-467f-8e27-9ccbb1666f08
+    claim_hash: 1324c0b44ed16bbe30e01a27ac8556f63f327d2f8855643981ff34db9e19f57d
+    content: Frederick W. Smith wrote that NORAD's Combat Operations Center is carved into the solid heart of Cheyenne Mountain,
+      requiring approximately 34,000 cubic metres of granite to be blasted out, with some free-standing steel buildings up
+      to three storeys high mounted on large coil springs.
+    original_excerpt: Carved into the solid heart of Cheyenne Mountain is NORADs Combat Operations Center. Forty-five thousand
+      cubic yards of granite had to be blasted out to accommodate its solid steel buildings, some of them three stories high,
+      all free-standing and mounted on the biggest coil springs ever made
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c0575ded-5592-48b0-96ac-478b5714394e
+      title: Frederick W. Smith
+    provenance_chain:
+      origin_kind: speaker
+      origin: Frederick W. Smith
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c0575ded-5592-48b0-96ac-478b5714394e
+        title: Frederick W. Smith
+        slug: frederick-w-smith
+      - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
+        title: North American Air Defense Command (NORAD)
+        slug: north-american-air-defense-command-norad
+      - node_id: f481ddd0-5174-4637-a4b4-6b054acfdde2
+        title: USA, Colorado, Cheyenne Mountain
+        slug: colorado-cheyenne-mountain-usa
+    date: null
+    date_end: null
+    location_in_record: ch12:26177-26465
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 7b453235-9341-4ac7-8d1a-918f337d0ee5
+    claim_hash: 412c37c48fb29ac0488229cdde5ea7e05abb01d8de273c4cb8403e3ab844c9bc
+    content: Frederick W. Smith wrote that the purpose of the NORAD fortress inside Cheyenne Mountain is to detect and analyse
+      everything entering or crossing U.S. airspace.
+    original_excerpt: The purpose of this fortress inside a mountain is to detect and analyze everything entering or crossing
+      U.S. air space.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c0575ded-5592-48b0-96ac-478b5714394e
+      title: Frederick W. Smith
+    provenance_chain:
+      origin_kind: speaker
+      origin: Frederick W. Smith
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c0575ded-5592-48b0-96ac-478b5714394e
+        title: Frederick W. Smith
+        slug: frederick-w-smith
+      - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
+        title: North American Air Defense Command (NORAD)
+        slug: north-american-air-defense-command-norad
+      - node_id: f481ddd0-5174-4637-a4b4-6b054acfdde2
+        title: USA, Colorado, Cheyenne Mountain
+        slug: colorado-cheyenne-mountain-usa
+    date: null
+    date_end: null
+    location_in_record: ch12:26473-26586
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 6ae562bc-3d5f-474d-9dc1-b164b4802106
+    claim_hash: 565a061882cdcacc2c3c4ed6f5c99ffe2c98bd4c16a29e9f7bb1188af6cf2315
+    content: On 1975-07-06 a cow due to calve in two months was mutilated next to the NORAD entrance gate near the unmarked
+      NORAD road on a military reservation posted with prosecution warning signs.
+    original_excerpt: an incident that had occurred on July 6, 1975, next to the NORAD entrance gate, near the unmarked NORAD
+      road... It was a cow due to calve in two months.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0841fca4-8906-47b6-a5c1-f2415ec1559b
+        title: 1975 Cheyenne Mountain area cattle mutilation wave
+        slug: 1975-cheyenne-mountain-area-cattle-mutilation-wave
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
+        title: North American Air Defense Command (NORAD)
+        slug: north-american-air-defense-command-norad
+    date: '1975-07-06'
+    date_end: null
+    location_in_record: ch12:27435-27603
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 6e549edd-d81c-4ccd-b99f-4927287ba0af
+    claim_hash: d7576dfb62a8e09d2de45d8ac869057fb07ab3f0adc0b2a9c01c33cd71130438
+    content: Jacques Vallée suggests that dropping a mutilated cow at the main entrance to NORAD may be an indication that
+      somebody is now calling the government's bluff on UFO censorship.
+    original_excerpt: Dropping a mutilated cow at the main entrance to NORAD may be a clear indication that somebody is now
+      calling that bluff.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
+        title: North American Air Defense Command (NORAD)
+        slug: north-american-air-defense-command-norad
+    date: null
+    date_end: null
+    location_in_record: ch12:30681-30796
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: abd87b42-2824-49e6-9ecb-6462b702020f
+    claim_hash: e9166afa0a4bc7c3569370eca9daed02c506e36445627b6d9f64f1f20127cff4
+    content: Frederick W. Smith, in his book Cattle Mutilation, described a cattle mutilation occurring at a hillside site
+      directly overlooking the underground NORAD (North American Air Defense Command) facility, a site protecting thousands
+      of military buildings, hundreds of aircraft and helicopters, and approximately 20,000 soldiers.
+    original_excerpt: So right there, immediately overlooking thousands of military buildings, the protective covering of
+      hundreds of planes and helicopters and 20,000 soldiers... someone thought this would be a neat place to have a cattle
+      mutilation.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c0575ded-5592-48b0-96ac-478b5714394e
+      title: Frederick W. Smith
+    provenance_chain:
+      origin_kind: document
+      origin: Cattle Mutilation by Frederick W. Smith
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 9e05037f-bd7e-4cbc-814f-ddefe6bc5dfe
+        title: Cattle Mutilation
+        slug: cattle-mutilation
+      - node_id: c0575ded-5592-48b0-96ac-478b5714394e
+        title: Frederick W. Smith
+        slug: frederick-w-smith
+      - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
+        title: North American Air Defense Command (NORAD)
+        slug: north-american-air-defense-command-norad
+    date: null
+    date_end: null
+    location_in_record: ch12:799-1076
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 20a13877-db81-4c8b-8f7d-720e7b675097
+    claim_hash: 84df44852c37d2ae802b6fc608dbb00b61eff46b062376b8669819ee2c4dcdb7
+    content: The estimated speed of about 35 kilometres per second for one object in the STS-48 video is approximately the
+      same as that of a fast-moving object tracked by the North American Air Defense Command (NORAD) in 1984.
+    original_excerpt: is approximately the same as that of a "fastwalker" tracked by the North American Air Defense Command
+      in 1984⁵.
+    claim_type: measurement
+    attestation: null
+    speaker:
+      node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+      title: Mark C. Carlotto
+    provenance_chain:
+      origin_kind: unattributed
+      origin: the document
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08e11144-52fa-48d1-9e87-a29b9253d02f
+        title: STS-48 video anomalous objects incident (1991-09)
+        slug: sts-48-video-anomalous-objects-incident-1991-09
+      - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
+        title: North American Air Defense Command (NORAD)
+        slug: north-american-air-defense-command-norad
+    date: '1984'
+    date_end: null
+    location_in_record: char:3525-3630
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+      record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+      record_date: '2005'
+      record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+      content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+      friendly_name: null

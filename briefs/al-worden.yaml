@@ -9,268 +9,286 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 7
+  tokens_estimated: 1919
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
 related_nodes:
-- node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
-  title: Apollo 15
-  node_type: project
-  slug: apollo-15
-  shared_claims: 3
-- node_id: e008aef7-b18d-4042-9186-7821d48c7f15
-  title: Mare Crisium
-  node_type: place
-  slug: mare-crisium
-  shared_claims: 1
-- node_id: db52f2e4-1c1a-46f8-b67c-df1c9d4e2957
-  title: Proclus (crater)
-  node_type: place
-  slug: proclus-crater
-  shared_claims: 1
-- node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
-  title: The Spaceman
-  node_type: person
-  slug: the-spaceman
-  shared_claims: 1
-claims:
-- claim_id: 5a54d9e2-6e25-4451-b54e-74dd7c1133a4
-  claim_hash: 41fe36052703ff56ad4b9eb6107958370fd0fe9b464d79561b8939f781736143
-  content: Al Worden was the Command Module Pilot for Apollo 11.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Al Worden
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
-    title: Al Worden
-    slug: al-worden
   - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
     title: Apollo 15
+    node_type: project
     slug: apollo-15
-  date: null
-  date_end: null
-  location_in_record: ch11:293-329
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 8b6875ad-783c-4b05-b81d-dcf80f17a927
-  claim_hash: 62951b969f03d3c7f7cdc82274754c4300580dd48119698b2bc2ba59a85d9e92
-  content: Al Worden observed that the ejecta from the crater Proclus crossing Mare
-    Crisium looked like flying above a haze layer, appearing suspended over it.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
-    title: Al Worden
-  provenance_chain:
-    origin_kind: speaker
-    origin: Al Worden
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: db52f2e4-1c1a-46f8-b67c-df1c9d4e2957
-    title: Proclus (crater)
-    slug: proclus-crater
+    shared_claims: 3
   - node_id: e008aef7-b18d-4042-9186-7821d48c7f15
     title: Mare Crisium
+    node_type: place
     slug: mare-crisium
-  - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
-    title: Al Worden
-    slug: al-worden
-  date: null
-  date_end: null
-  location_in_record: ch11:99-329
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 79688340-8860-4f38-9137-01fa5d632903
-  claim_hash: 961df31fb6518987f63b969e96882dc3fdaca1c2765c01023a836a8b2dc1e272
-  content: Al Worden, command module pilot for Apollo 15, died in March 2020.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
-    title: Al Worden
-    slug: al-worden
-  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
-    title: Apollo 15
-    slug: apollo-15
-  date: 2020-03
-  date_end: null
-  location_in_record: ch25:11061-11138
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 471a49e6-b6f7-4f59-bef8-fce70b657c56
-  claim_hash: 8c233baacb333144971bb22ddc809fbfe838f6514298d99d8693b3473347b6ec
-  content: According to The Spaceman, Al Worden told him he saw bright white lights
-    in craters on the Moon during his three days, seventy-four orbits, in lunar orbit.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
-    title: The Spaceman
-  provenance_chain:
-    origin_kind: named
-    origin: Al Worden
-    relay:
-    - The Spaceman
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
+  - node_id: db52f2e4-1c1a-46f8-b67c-df1c9d4e2957
+    title: Proclus (crater)
+    node_type: place
+    slug: proclus-crater
+    shared_claims: 1
   - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
     title: The Spaceman
+    node_type: person
     slug: the-spaceman
-  - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
-    title: Al Worden
-    slug: al-worden
-  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
-    title: Apollo 15
-    slug: apollo-15
-  date: null
-  date_end: null
-  location_in_record: ch25:11145-11359
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 7df35e5f-cbf3-47ab-b3d3-11aa7571881f
-  claim_hash: d238cbe3f226eed615951444e154d205631b12c9c6c7ae0427fca789f8182eba
-  content: Al Worden never publicly asserted that he saw lights in craters on the
-    Moon, but he was open in his belief in extra-terrestrial life and suggested humans
-    were aliens from 'somewhere else'.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
-    title: Al Worden
-  provenance_chain:
-    origin_kind: speaker
-    origin: Al Worden
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
-    title: Al Worden
-    slug: al-worden
-  date: null
-  date_end: null
-  location_in_record: ch25:11407-11574
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 7013446d-4daf-43ea-b510-723ba57af094
-  claim_hash: 58ed239dc83ccfaafc71b5af5c66f9cac65cf2d584887eed9eab2cfee8a205bd
-  content: Al Worden flew around the Moon 75 times.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
-    title: Al Worden
-  provenance_chain:
-    origin_kind: speaker
-    origin: Al Worden
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
-    title: Al Worden
-    slug: al-worden
-  date: '2017-09-29'
-  date_end: null
-  location_in_record: ch34:56583-56697
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 51b00cc7-0dd1-4c5c-8f3c-427991106a11
-  claim_hash: fcbf6c810d927657fbb06fd7400080e110299e16aa897ad46c1d851d3507f88f
-  content: 'Al Worden was interviewed on Good Morning Britain on 2017-09-29 under
-    the title ''Al Worden: The Man Who Flew Around the Moon 75 Times''.'
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Good Morning Britain interview
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
-    title: Al Worden
-    slug: al-worden
-  date: '2017-09-29'
-  date_end: null
-  location_in_record: ch34:56583-56697
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
+    shared_claims: 1
+claims:
+  - claim_id: 5a54d9e2-6e25-4451-b54e-74dd7c1133a4
+    claim_hash: 41fe36052703ff56ad4b9eb6107958370fd0fe9b464d79561b8939f781736143
+    content: Al Worden was the Command Module Pilot for Apollo 11.
+    original_excerpt: Al Worden, Apollo 15 Command Module Pilot
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Al Worden
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
+        title: Al Worden
+        slug: al-worden
+      - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+        title: Apollo 15
+        slug: apollo-15
+    date: null
+    date_end: null
+    location_in_record: ch11:293-329
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 8b6875ad-783c-4b05-b81d-dcf80f17a927
+    claim_hash: 62951b969f03d3c7f7cdc82274754c4300580dd48119698b2bc2ba59a85d9e92
+    content: Al Worden observed that the ejecta from the crater Proclus crossing Mare Crisium looked like flying above a haze
+      layer, appearing suspended over it.
+    original_excerpt: “It is very strange the way the ejecta... from Proclus crosses Crisium. It is almost like flying above
+      a haze layer and looking down through the haze... It looks like it is suspended over it.” - Al Worden, Apollo 15 Command
+      Module Pilot
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
+      title: Al Worden
+    provenance_chain:
+      origin_kind: speaker
+      origin: Al Worden
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: db52f2e4-1c1a-46f8-b67c-df1c9d4e2957
+        title: Proclus (crater)
+        slug: proclus-crater
+      - node_id: e008aef7-b18d-4042-9186-7821d48c7f15
+        title: Mare Crisium
+        slug: mare-crisium
+      - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
+        title: Al Worden
+        slug: al-worden
+    date: null
+    date_end: null
+    location_in_record: ch11:99-329
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 79688340-8860-4f38-9137-01fa5d632903
+    claim_hash: 961df31fb6518987f63b969e96882dc3fdaca1c2765c01023a836a8b2dc1e272
+    content: Al Worden, command module pilot for Apollo 15, died in March 2020.
+    original_excerpt: such as Al Worden, the command module pilot for Apollo 15, who died in March 2020.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
+        title: Al Worden
+        slug: al-worden
+      - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+        title: Apollo 15
+        slug: apollo-15
+    date: 2020-03
+    date_end: null
+    location_in_record: ch25:11061-11138
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 471a49e6-b6f7-4f59-bef8-fce70b657c56
+    claim_hash: 8c233baacb333144971bb22ddc809fbfe838f6514298d99d8693b3473347b6ec
+    content: According to The Spaceman, Al Worden told him he saw bright white lights in craters on the Moon during his three
+      days, seventy-four orbits, in lunar orbit.
+    original_excerpt: '''Al was in orbit for three days. Seventy-four times around the Moon. That''s a long time looking at
+      the moon. He just matter-of-fact told me, he saw lights, bright white lights, in craters on the Moon,'' The Spaceman
+      said.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+      title: The Spaceman
+    provenance_chain:
+      origin_kind: named
+      origin: Al Worden
+      relay:
+        - The Spaceman
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+        title: The Spaceman
+        slug: the-spaceman
+      - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
+        title: Al Worden
+        slug: al-worden
+      - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+        title: Apollo 15
+        slug: apollo-15
+    date: null
+    date_end: null
+    location_in_record: ch25:11145-11359
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7df35e5f-cbf3-47ab-b3d3-11aa7571881f
+    claim_hash: d238cbe3f226eed615951444e154d205631b12c9c6c7ae0427fca789f8182eba
+    content: Al Worden never publicly asserted that he saw lights in craters on the Moon, but he was open in his belief in
+      extra-terrestrial life and suggested humans were aliens from 'somewhere else'.
+    original_excerpt: Al Worden never asserted anything like that publicly, but he was open in his belief in extra-terrestrial
+      life, even suggesting that humans were aliens from 'somewhere else'.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
+      title: Al Worden
+    provenance_chain:
+      origin_kind: speaker
+      origin: Al Worden
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
+        title: Al Worden
+        slug: al-worden
+    date: null
+    date_end: null
+    location_in_record: ch25:11407-11574
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7013446d-4daf-43ea-b510-723ba57af094
+    claim_hash: 58ed239dc83ccfaafc71b5af5c66f9cac65cf2d584887eed9eab2cfee8a205bd
+    content: Al Worden flew around the Moon 75 times.
+    original_excerpt: 'Good Morning Britain interview with Worden, ''Al Worden: The Man Who Flew Around the Moon 75 Times'',
+      29 September 2017.'
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
+      title: Al Worden
+    provenance_chain:
+      origin_kind: speaker
+      origin: Al Worden
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
+        title: Al Worden
+        slug: al-worden
+    date: '2017-09-29'
+    date_end: null
+    location_in_record: ch34:56583-56697
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 51b00cc7-0dd1-4c5c-8f3c-427991106a11
+    claim_hash: fcbf6c810d927657fbb06fd7400080e110299e16aa897ad46c1d851d3507f88f
+    content: 'Al Worden was interviewed on Good Morning Britain on 2017-09-29 under the title ''Al Worden: The Man Who Flew
+      Around the Moon 75 Times''.'
+    original_excerpt: 'Good Morning Britain interview with Worden, ''Al Worden: The Man Who Flew Around the Moon 75 Times'',
+      29 September 2017.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Good Morning Britain interview
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
+        title: Al Worden
+        slug: al-worden
+    date: '2017-09-29'
+    date_end: null
+    location_in_record: ch34:56583-56697
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

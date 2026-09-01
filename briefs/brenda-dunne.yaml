@@ -1,0 +1,224 @@
+schema: anomalica/brief/1
+brief_hash: 7395b4756213e1296663f019b8621460a3268ed10bed137e2bad168379789708
+page:
+  kind: entity
+  node_id: d2f37088-0fab-4bab-93b4-83841cc8fe5e
+  node_type: person
+  title: Brenda Dunne
+  slug: brenda-dunne
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1216
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: 11917292-9774-4cdc-8480-4ecd97a0b600
+    title: Princeton University
+    node_type: organisation
+    slug: princeton-university
+    shared_claims: 3
+  - node_id: 7af554fb-5ea1-4319-b6c7-c5317747a170
+    title: Robert Jahn
+    node_type: person
+    slug: robert-jahn
+    shared_claims: 3
+  - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+    title: Consciousness studies
+    node_type: topic
+    slug: consciousness-studies
+    shared_claims: 2
+  - node_id: abcb5364-007d-441a-b246-86e28f74227d
+    title: Anomalous Cognition (AC)
+    node_type: topic
+    slug: anomalous-cognition-ac
+    shared_claims: 1
+  - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
+    title: Geomagnetic Fluctuations (GMF)
+    node_type: topic
+    slug: geomagnetic-fluctuations-gmf
+    shared_claims: 1
+  - node_id: f0d43108-bce0-4697-a231-71352b038c51
+    title: Roger Nelson
+    node_type: person
+    slug: roger-nelson
+    shared_claims: 1
+claims:
+  - claim_id: c6a16fd7-587a-4a53-8248-6e77eada53ad
+    claim_hash: d36d164199855823208cc262afcb59a28cf0f39107186dd70d3a06fed2bb0bf6
+    content: Roger Nelson and Brenda Dunne did not find an association between high-scoring anomalous cognition trials and
+      low geomagnetic fluctuations in their 1986 work.
+    original_excerpt: while Haraldsson and Gissurarson (1987) and Nelson & Dunne (1986) did not.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Roger Nelson and Brenda Dunne
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
+        title: Geomagnetic Fluctuations (GMF)
+        slug: geomagnetic-fluctuations-gmf
+      - node_id: abcb5364-007d-441a-b246-86e28f74227d
+        title: Anomalous Cognition (AC)
+        slug: anomalous-cognition-ac
+      - node_id: d2f37088-0fab-4bab-93b4-83841cc8fe5e
+        title: Brenda Dunne
+        slug: brenda-dunne
+      - node_id: f0d43108-bce0-4697-a231-71352b038c51
+        title: Roger Nelson
+        slug: roger-nelson
+    date: '1986'
+    date_end: null
+    location_in_record: ch31:2827-2897
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: cbc5457a-0083-4c87-985b-9cc66ca3f4c9
+    claim_hash: a038b03f278cf3e1ac1f35e11551e4d645048731efab53b2becdf40498cfd3ba
+    content: Robert Jahn and Brenda Dunne ran a laboratory in the basement of the chemistry building at Princeton University.
+    original_excerpt: That is Dr. Bob Jahn and Brenda Dunne in the basement of the chemistry building in Princeton had their
+      laboratory
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11917292-9774-4cdc-8480-4ecd97a0b600
+        title: Princeton University
+        slug: princeton-university
+      - node_id: 7af554fb-5ea1-4319-b6c7-c5317747a170
+        title: Robert Jahn
+        slug: robert-jahn
+      - node_id: d2f37088-0fab-4bab-93b4-83841cc8fe5e
+        title: Brenda Dunne
+        slug: brenda-dunne
+    date: null
+    date_end: null
+    location_in_record: 00:17:15.0-00:17:21.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 30a3b3e6-fd68-4513-a493-4eb9b1d4d89b
+    claim_hash: ca3e54ea6430c3ae5ec85585c1234ae8c1705e6f928f1ab29ca6eb27ffafd37e
+    content: In Robert Jahn and Brenda Dunne's Princeton University experiment, a computer screen showed a static line and
+      a random event generator produced a second line, with electrons flipped a million times a second so the result should
+      always be an equal 50-50 split.
+    original_excerpt: a computer screen that had a static line across the screen ... And then you had a random event generator
+      causing a second line to occur. And those electrons are being flipped a million times a second by the random event generator.
+      So it should always be 50-50.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11917292-9774-4cdc-8480-4ecd97a0b600
+        title: Princeton University
+        slug: princeton-university
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 7af554fb-5ea1-4319-b6c7-c5317747a170
+        title: Robert Jahn
+        slug: robert-jahn
+      - node_id: d2f37088-0fab-4bab-93b4-83841cc8fe5e
+        title: Brenda Dunne
+        slug: brenda-dunne
+    date: null
+    date_end: null
+    location_in_record: 00:17:25.3-00:17:44.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: f598c6d8-9e79-4bf4-909c-d99a66b5a4cb
+    claim_hash: 4e87039a70ac32cc901632426305eea096443812ea2b63709c73a7ab01d9dada
+    content: In Robert Jahn and Brenda Dunne's Princeton University experiment, a person concentrating could make the random
+      event generator's line deviate above or below the static line, and it worked.
+    original_excerpt: So if you're sitting there concentrating, if you're trying to concentrate, you can make a deviation
+      of that line above the static or below the static line. And it works.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: named
+      origin: Robert Jahn and Brenda Dunne's Princeton laboratory work
+      relay:
+        - Robert Bigelow
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11917292-9774-4cdc-8480-4ecd97a0b600
+        title: Princeton University
+        slug: princeton-university
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 7af554fb-5ea1-4319-b6c7-c5317747a170
+        title: Robert Jahn
+        slug: robert-jahn
+      - node_id: d2f37088-0fab-4bab-93b4-83841cc8fe5e
+        title: Brenda Dunne
+        slug: brenda-dunne
+    date: null
+    date_end: null
+    location_in_record: 00:17:49.2-00:17:58.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

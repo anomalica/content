@@ -1,0 +1,338 @@
+schema: anomalica/brief/1
+brief_hash: 51d45693d1f0ad321f1df9aa0d7909a681e94332ff4e08888aecd8ccf6bd2bd4
+page:
+  kind: entity
+  node_id: c4a49c72-2aa8-4f73-a639-4256a059dab7
+  node_type: event
+  title: Aguadilla Puerto Rico UAP Sighting
+  slug: aguadilla-puerto-rico-uap-sighting
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-08-31T23:55:24.746096+00:00'
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 9
+  suspect_excluded: 0
+  unreviewed: 0
+related_nodes:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    node_type: organisation
+    slug: department-of-homeland-security-dhs
+    shared_claims: 3
+  - node_id: 73fd6d5c-d2b8-46e1-bfb9-c21b9712e560
+    title: Puerto Rico, Aguadilla
+    node_type: place
+    slug: aguadilla-puerto-rico
+    shared_claims: 2
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 1
+claims:
+  - claim_id: d058f296-0f9b-437d-aa6c-c3b05f621384
+    claim_hash: 473092dfd1e1491856d438b4b31ce58ba26485ccf7830e277d94e819b1da7738
+    content: A UAP was spotted near the airport in Aguadilla, Puerto Rico in 2004, and was quickly tracked by a helicopter
+      from the United States Department of Homeland Security (DHS).
+    original_excerpt: a bizarre sighting occurred in Aguadilla, Puerto Rico...A UAP was spotted near the airport and was quickly
+      tracked by a helicopter from the US Department of Homeland Security.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+        title: Department of Homeland Security (DHS)
+        slug: department-of-homeland-security-dhs
+      - node_id: 73fd6d5c-d2b8-46e1-bfb9-c21b9712e560
+        title: Puerto Rico, Aguadilla
+        slug: aguadilla-puerto-rico
+      - node_id: c4a49c72-2aa8-4f73-a639-4256a059dab7
+        title: Aguadilla Puerto Rico UAP Sighting
+        slug: aguadilla-puerto-rico-uap-sighting
+    date: '2004'
+    date_end: null
+    location_in_record: ch20:20405-20598
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 9f4d4e01-32d0-4483-b76f-768f93026f38
+    claim_hash: 00b30c212be9fc141303bed43b5db5dbf6bc3520325351960db17b88b2d5a160
+    content: The UAP observed near Aguadilla, Puerto Rico was initially thought to be a drug runner or a drone.
+    original_excerpt: Initially thought to be a drug runner or a drone, the object was seen near a National Guard base.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: c4a49c72-2aa8-4f73-a639-4256a059dab7
+        title: Aguadilla Puerto Rico UAP Sighting
+        slug: aguadilla-puerto-rico-uap-sighting
+    date: '2004'
+    date_end: null
+    location_in_record: ch20:20643-20735
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 907716d4-cf45-4b92-b0c9-eccb9461becf
+    claim_hash: 8e40a9ffcabdfa6560c7f17668e47e2d19d34c8fc6329c102d58c322b415dbf6
+    content: The UAP observed near Aguadilla, Puerto Rico was seen near a National Guard base.
+    original_excerpt: the object was seen near a National Guard base.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: c4a49c72-2aa8-4f73-a639-4256a059dab7
+        title: Aguadilla Puerto Rico UAP Sighting
+        slug: aguadilla-puerto-rico-uap-sighting
+    date: '2004'
+    date_end: null
+    location_in_record: ch20:20693-20735
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 7a0e0002-c3b0-4fbc-a10b-c72a2ef79c52
+    claim_hash: d8981c9db57212454e4097af89fafee7f140f19fbeed830d1316949028978b78
+    content: The UAP observed near Aguadilla, Puerto Rico was small, asymmetrical, and lobed in shape.
+    original_excerpt: The object, small, asymmetrical, and lobed, seemed to detect that it was being monitored by one of our
+      helicopters.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: c4a49c72-2aa8-4f73-a639-4256a059dab7
+        title: Aguadilla Puerto Rico UAP Sighting
+        slug: aguadilla-puerto-rico-uap-sighting
+    date: '2004'
+    date_end: null
+    location_in_record: ch20:20741-20844
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c2048fb8-ff4a-408a-aaab-6b83fc0b0cb1
+    claim_hash: 5859defba381c184510e4cfebbd51a9ca1da3f7ca9fa907f1fc6c7ccfc077b69
+    content: The UAP observed near Aguadilla, Puerto Rico appeared to detect that it was being monitored by the pursuing United
+      States Department of Homeland Security (DHS) helicopter and then rapidly moved away.
+    original_excerpt: seemed to detect that it was being monitored by one of our helicopters. When it did, it zipped away.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+        title: Department of Homeland Security (DHS)
+        slug: department-of-homeland-security-dhs
+      - node_id: c4a49c72-2aa8-4f73-a639-4256a059dab7
+        title: Aguadilla Puerto Rico UAP Sighting
+        slug: aguadilla-puerto-rico-uap-sighting
+    date: '2004'
+    date_end: null
+    location_in_record: ch20:20785-20880
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b136dde9-524f-4e95-8dda-278ecf0248d9
+    claim_hash: eee079069c457b6c327b1d42258b3dc36b5327fc0914fff9222b45024e92011f
+    content: The pilots pursuing the Aguadilla, Puerto Rico UAP watched it swoop across an airfield and head toward the open
+      waters of the Atlantic.
+    original_excerpt: The pilots watched as the object swooped across an airfield and headed straight for the open waters
+      of the Atlantic.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: the pilots who pursued the object
+      relay:
+        - Lue Elizondo
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: c4a49c72-2aa8-4f73-a639-4256a059dab7
+        title: Aguadilla Puerto Rico UAP Sighting
+        slug: aguadilla-puerto-rico-uap-sighting
+    date: '2004'
+    date_end: null
+    location_in_record: ch20:20886-20993
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 6f2f5d1f-296a-4b48-ab8c-0b07d23caedb
+    claim_hash: 4f4bb6557410859d29a64f53cda90aead1b880402a5bfafd663c4009ed6610b4
+    content: The Aguadilla, Puerto Rico UAP dove into the ocean, an example of transmedium travel.
+    original_excerpt: the object then did the unimaginable. It dove into the ocean (transmedium travel).
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: c4a49c72-2aa8-4f73-a639-4256a059dab7
+        title: Aguadilla Puerto Rico UAP Sighting
+        slug: aguadilla-puerto-rico-uap-sighting
+    date: '2004'
+    date_end: null
+    location_in_record: ch20:21033-21107
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 72db0c0f-edd0-4188-927c-7f9079c3c271
+    claim_hash: f06cad70088edf1e0707c0a00b545ec6654ee96f58fb61b65b5e1c04914f2101
+    content: The Aguadilla, Puerto Rico UAP popped back out of the ocean and split itself into two seemingly different craft
+      before disappearing from view, without making any splash or wake.
+    original_excerpt: This thing popped back out of the ocean and split itself into two seemingly different craft before disappearing
+      from view (low observability), all the while not making any splash or wake.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: c4a49c72-2aa8-4f73-a639-4256a059dab7
+        title: Aguadilla Puerto Rico UAP Sighting
+        slug: aguadilla-puerto-rico-uap-sighting
+    date: '2004'
+    date_end: null
+    location_in_record: ch20:21202-21386
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 34cce20e-1547-47e2-8b3e-5ff722ba5616
+    claim_hash: 7d03d52589b6474d9a5e38b4285aed06e7d619c88e83926526090266ae0580f7
+    content: Lue Elizondo deemed the United States Department of Homeland Security (DHS) video from Aguadilla, Puerto Rico
+      too sensitive to select for release because of its origin with a sister agency.
+    original_excerpt: I deemed the DHS video from Aguadilla, Puerto Rico, as too sensitive because of its origin, a sister
+      agency.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+        title: Department of Homeland Security (DHS)
+        slug: department-of-homeland-security-dhs
+      - node_id: 73fd6d5c-d2b8-46e1-bfb9-c21b9712e560
+        title: Puerto Rico, Aguadilla
+        slug: aguadilla-puerto-rico
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c4a49c72-2aa8-4f73-a639-4256a059dab7
+        title: Aguadilla Puerto Rico UAP Sighting
+        slug: aguadilla-puerto-rico-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch27:3644-3745
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

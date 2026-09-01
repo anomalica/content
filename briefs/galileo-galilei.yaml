@@ -9,287 +9,302 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2031
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
 related_nodes:
-- node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
-  title: Vatican City
-  node_type: place
-  slug: vatican-city
-  shared_claims: 3
-- node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
-  title: Avi Loeb
-  node_type: person
-  slug: avi-loeb
-  shared_claims: 2
-- node_id: a9546b19-2cd1-4573-970c-baced0026749
-  title: Dava Sobel
-  node_type: person
-  slug: dava-sobel
-  shared_claims: 1
-- node_id: 36f10e24-12f5-47e3-a57e-17f7a9497589
-  title: Galileo Galilei's Inquisition trial
-  node_type: event
-  slug: galileo-galileis-inquisition-trial
-  shared_claims: 1
-- node_id: 7a7ce574-d684-4b02-9c32-0ea5bcc8273f
-  title: Galileo's Daughter
-  node_type: document
-  slug: galileos-daughter
-  shared_claims: 1
-claims:
-- claim_id: d1f2d83d-322b-49d5-a891-500f5b99940b
-  claim_hash: 1385bc9830ce9b037b8269e19f30b59d55d671ab0274293a3fb7da45a6af0499
-  content: Church representatives of the seventeenth century were not willing to look
-    through the telescope of Galileo Galilei, for fear that their notions of what
-    was real would be proven false.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-    title: Michael Hesemann
-  provenance_chain:
-    origin_kind: speaker
-    origin: Michael Hesemann
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
-    title: Galileo Galilei
-    slug: galileo-galilei
-  date: null
-  date_end: null
-  location_in_record: ch7:10407-10594
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 48b0397c-b1ab-49cd-a1ac-36858ff89640
-  claim_hash: 08be8a5532bb2a7a9a1a4d468afc5f6b2bb081faf5c30e3963a6e8e5863e9981
-  content: Prominent academics in Galileo Galilei's day refused to look through his
-    telescope, or refused to watch whether two balls of unequal mass might fall at
-    equal rates, because it would upset their long-held Aristotelian philosophies.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Galileo's Daughter by Dava Sobel
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
-    title: Galileo Galilei
-    slug: galileo-galilei
-  - node_id: 7a7ce574-d684-4b02-9c32-0ea5bcc8273f
-    title: Galileo's Daughter
-    slug: galileos-daughter
+  - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+    title: Vatican City
+    node_type: place
+    slug: vatican-city
+    shared_claims: 3
+  - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+    title: Avi Loeb
+    node_type: person
+    slug: avi-loeb
+    shared_claims: 2
   - node_id: a9546b19-2cd1-4573-970c-baced0026749
     title: Dava Sobel
+    node_type: person
     slug: dava-sobel
-  date: null
-  date_end: null
-  location_in_record: ch22:40957-41182
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 8536287f-2f59-44a2-8066-741ae87a1684
-  claim_hash: 42410007320a6bd6488a49ec99766fddcf2a611132c01b021cef81bbdb777e6e
-  content: Galileo Galilei used his telescope to observe the moons of Jupiter, concluding
-    they did not orbit the Earth.
-  original_excerpt: when Galileo Galilei used his telescope to look at the moons of
-    Jupiter, the Vatican, the church didn't like that conclusion that they are not
-    moving around the earth
-  claim_type: observation
-  attestation: null
-  speaker:
-    node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
-    title: Avi Loeb
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
-    title: Galileo Galilei
-    slug: galileo-galilei
-  date: null
-  date_end: null
-  location_in_record: 00:39:39.0-00:39:48.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: f8a0016e-45bb-4b94-9cc7-a3edddbb6d4f
-  claim_hash: 5e0a3048904b84f52f053ad9676fbd5d36d1aec346dfb1fc4ff58b56e66aa0ff
-  content: The Vatican tried Galileo Galilei and put him under house arrest for his
-    conclusion that celestial bodies did not orbit the Earth.
-  original_excerpt: They wanted to suppress this whistleblower. They tried him and
-    put him in house arrest.
-  claim_type: observation
-  attestation: null
-  speaker:
-    node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
-    title: Avi Loeb
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
   - node_id: 36f10e24-12f5-47e3-a57e-17f7a9497589
     title: Galileo Galilei's Inquisition trial
+    node_type: event
     slug: galileo-galileis-inquisition-trial
-  - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
-    title: Vatican City
-    slug: vatican-city
-  - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
-    title: Galileo Galilei
-    slug: galileo-galilei
-  date: '1633'
-  date_end: null
-  location_in_record: 00:39:50.3-00:39:55.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: fb6766cb-ba09-455f-9062-47d420f6d301
-  claim_hash: 3538b98fdbaa5638d725ed3d69155497f499b4c8615daf9c613bab34fe0f803f
-  content: In 1992 the Catholic Church released a public statement admitting that
-    Galileo Galilei was right and the Church had been wrong.
-  original_excerpt: eventually in 1992, the church released a public statement admitting
-    that He was right and they were wrong.
-  claim_type: observation
-  attestation: null
-  speaker:
-    node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
-    title: Avi Loeb
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
-    title: Vatican City
-    slug: vatican-city
-  - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
-    title: Galileo Galilei
-    slug: galileo-galilei
-  date: '1992'
-  date_end: null
-  location_in_record: 00:39:58.5-00:40:04.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: 7199f9c9-7f1a-4c03-a503-09443c915fec
-  claim_hash: c1c36125e09e99873f5a8c279fb6c6784082c9eb50d959d5093441d38cbdfb1a
-  content: Avi Loeb considers that a lesson from the Galileo Galilei case is that
-    when good enough data is available, nobody can deny it.
-  original_excerpt: the other lesson from this history is not only that when good
-    enough data is available, nobody can deny it.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
-    title: Avi Loeb
-  provenance_chain:
-    origin_kind: speaker
-    origin: Avi Loeb
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
-    title: Galileo Galilei
-    slug: galileo-galilei
-  - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
-    title: Avi Loeb
-    slug: avi-loeb
-  date: null
-  date_end: null
-  location_in_record: 00:40:06.9-00:40:12.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: 0e893060-d137-4f44-8484-e5b2801d3acd
-  claim_hash: 299ca666e6f0a56db2970a110db5d64ee8fbf016c165c86ffd5fb93f88e14f1b
-  content: Avi Loeb notes that nobody imprisoned the Vatican bureaucracy for hiding
-    existential information about Galileo Galilei's findings from the public.
-  original_excerpt: nobody put the bureaucracy of the church, of the Vatican, in jail
-    for hiding existential information from the public, right?
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
-    title: Avi Loeb
-  provenance_chain:
-    origin_kind: speaker
-    origin: Avi Loeb
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
-    title: Vatican City
-    slug: vatican-city
-  - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
-    title: Galileo Galilei
-    slug: galileo-galilei
-  - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
-    title: Avi Loeb
-    slug: avi-loeb
-  date: null
-  date_end: null
-  location_in_record: 00:40:15.7-00:40:27.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 7a7ce574-d684-4b02-9c32-0ea5bcc8273f
+    title: Galileo's Daughter
+    node_type: document
+    slug: galileos-daughter
+    shared_claims: 1
+claims:
+  - claim_id: d1f2d83d-322b-49d5-a891-500f5b99940b
+    claim_hash: 1385bc9830ce9b037b8269e19f30b59d55d671ab0274293a3fb7da45a6af0499
+    content: Church representatives of the seventeenth century were not willing to look through the telescope of Galileo Galilei,
+      for fear that their notions of what was real would be proven false.
+    original_excerpt: the church representatives of the seventeenth century, who were not willing to look through the telescope
+      of Galileo Galilei, for fear that their notions of what was real would be proven false
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
+        title: Galileo Galilei
+        slug: galileo-galilei
+    date: null
+    date_end: null
+    location_in_record: ch7:10407-10594
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 48b0397c-b1ab-49cd-a1ac-36858ff89640
+    claim_hash: 08be8a5532bb2a7a9a1a4d468afc5f6b2bb081faf5c30e3963a6e8e5863e9981
+    content: Prominent academics in Galileo Galilei's day refused to look through his telescope, or refused to watch whether
+      two balls of unequal mass might fall at equal rates, because it would upset their long-held Aristotelian philosophies.
+    original_excerpt: One recalls how prominent academics in Galileo’s day refused to look through his telescope, or refused
+      to watch whether two balls of unequal mass might fall at equal rates, because it would upset their long-held Aristotilean
+      philosophies
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Galileo's Daughter by Dava Sobel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
+        title: Galileo Galilei
+        slug: galileo-galilei
+      - node_id: 7a7ce574-d684-4b02-9c32-0ea5bcc8273f
+        title: Galileo's Daughter
+        slug: galileos-daughter
+      - node_id: a9546b19-2cd1-4573-970c-baced0026749
+        title: Dava Sobel
+        slug: dava-sobel
+    date: null
+    date_end: null
+    location_in_record: ch22:40957-41182
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 8536287f-2f59-44a2-8066-741ae87a1684
+    claim_hash: 42410007320a6bd6488a49ec99766fddcf2a611132c01b021cef81bbdb777e6e
+    content: Galileo Galilei used his telescope to observe the moons of Jupiter, concluding they did not orbit the Earth.
+    original_excerpt: when Galileo Galilei used his telescope to look at the moons of Jupiter, the Vatican, the church didn't
+      like that conclusion that they are not moving around the earth
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
+        title: Galileo Galilei
+        slug: galileo-galilei
+    date: null
+    date_end: null
+    location_in_record: 00:39:39.0-00:39:48.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: f8a0016e-45bb-4b94-9cc7-a3edddbb6d4f
+    claim_hash: 5e0a3048904b84f52f053ad9676fbd5d36d1aec346dfb1fc4ff58b56e66aa0ff
+    content: The Vatican tried Galileo Galilei and put him under house arrest for his conclusion that celestial bodies did
+      not orbit the Earth.
+    original_excerpt: They wanted to suppress this whistleblower. They tried him and put him in house arrest.
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 36f10e24-12f5-47e3-a57e-17f7a9497589
+        title: Galileo Galilei's Inquisition trial
+        slug: galileo-galileis-inquisition-trial
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
+        title: Galileo Galilei
+        slug: galileo-galilei
+    date: '1633'
+    date_end: null
+    location_in_record: 00:39:50.3-00:39:55.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: fb6766cb-ba09-455f-9062-47d420f6d301
+    claim_hash: 3538b98fdbaa5638d725ed3d69155497f499b4c8615daf9c613bab34fe0f803f
+    content: In 1992 the Catholic Church released a public statement admitting that Galileo Galilei was right and the Church
+      had been wrong.
+    original_excerpt: eventually in 1992, the church released a public statement admitting that He was right and they were
+      wrong.
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
+        title: Galileo Galilei
+        slug: galileo-galilei
+    date: '1992'
+    date_end: null
+    location_in_record: 00:39:58.5-00:40:04.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 7199f9c9-7f1a-4c03-a503-09443c915fec
+    claim_hash: c1c36125e09e99873f5a8c279fb6c6784082c9eb50d959d5093441d38cbdfb1a
+    content: Avi Loeb considers that a lesson from the Galileo Galilei case is that when good enough data is available, nobody
+      can deny it.
+    original_excerpt: the other lesson from this history is not only that when good enough data is available, nobody can deny
+      it.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: speaker
+      origin: Avi Loeb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
+        title: Galileo Galilei
+        slug: galileo-galilei
+      - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+        title: Avi Loeb
+        slug: avi-loeb
+    date: null
+    date_end: null
+    location_in_record: 00:40:06.9-00:40:12.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 0e893060-d137-4f44-8484-e5b2801d3acd
+    claim_hash: 299ca666e6f0a56db2970a110db5d64ee8fbf016c165c86ffd5fb93f88e14f1b
+    content: Avi Loeb notes that nobody imprisoned the Vatican bureaucracy for hiding existential information about Galileo
+      Galilei's findings from the public.
+    original_excerpt: nobody put the bureaucracy of the church, of the Vatican, in jail for hiding existential information
+      from the public, right?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: speaker
+      origin: Avi Loeb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
+        title: Galileo Galilei
+        slug: galileo-galilei
+      - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+        title: Avi Loeb
+        slug: avi-loeb
+    date: null
+    date_end: null
+    location_in_record: 00:40:15.7-00:40:27.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null

@@ -9,183 +9,196 @@ page:
   claim_count: 4
   claim_count_total: 4
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1380
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
 related_nodes:
-- node_id: 05d77a1f-0a30-4c2d-aa5f-a97b56290ad2
-  title: Helena Petrovna Blavatsky Foundation
-  node_type: organisation
-  slug: helena-petrovna-blavatsky-foundation
-  shared_claims: 2
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 2
-- node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
-  title: Richard Nixon
-  node_type: person
-  slug: richard-nixon
-  shared_claims: 2
-- node_id: daf7515b-81dc-4255-af30-0004050b05dd
-  title: Book of Mormon
-  node_type: document
-  slug: book-of-mormon
-  shared_claims: 1
-claims:
-- claim_id: 852373ce-85f6-4a30-9db5-f0e2c235eb9d
-  claim_hash: 4436f28cceefb7915fa3631e2a1090a52650c4dc32874376c9e0e6e2d093088c
-  content: According to Jacques Bergier, Richard Nixon was a member of the Board of
-    the Helena Petrovna Blavatsky Foundation, an organisation founded by followers
-    of Madame Blavatsky.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Jacques Bergier
-    relay: []
-  attribution_mode: unknown
-  node_refs:
   - node_id: 05d77a1f-0a30-4c2d-aa5f-a97b56290ad2
     title: Helena Petrovna Blavatsky Foundation
+    node_type: organisation
     slug: helena-petrovna-blavatsky-foundation
-  - node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
-    title: Jacques Bergier
-    slug: jacques-bergier
-  - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
-    title: Richard Nixon
-    slug: richard-nixon
-  date: null
-  date_end: null
-  location_in_record: ch11:16552-16696
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 5ace9108-2fd7-467a-9846-5d6a0626b0b7
-  claim_hash: 4000779b6e7a04cb9b80d74ba60d24f9dc39c1fd789861fb1f3db681b3c50a9d
-  content: Jacques Vallée was not able to verify Jacques Bergier's claim that Richard
-    Nixon was a member of the Board of the Helena Petrovna Blavatsky Foundation.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 05d77a1f-0a30-4c2d-aa5f-a97b56290ad2
-    title: Helena Petrovna Blavatsky Foundation
-    slug: helena-petrovna-blavatsky-foundation
+    shared_claims: 2
   - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
     title: Jacques Vallée
+    node_type: person
     slug: jacques-vallee
-  - node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
-    title: Jacques Bergier
-    slug: jacques-bergier
+    shared_claims: 2
   - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
     title: Richard Nixon
+    node_type: person
     slug: richard-nixon
-  date: null
-  date_end: null
-  location_in_record: ch11:16703-16739
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: cb47a1fb-6940-47d3-9608-bebf2c2d26c7
-  claim_hash: a77a357d9453c9b9e642e1524e074395fb0481c7597813057937685dc47cbbfc
-  content: In 1973, Jacques Bergier proposed to Jacques Vallee an explanation that
-    books such as the Bible and Book of Mormon, which seem to emanate from a cosmic
-    source through automatic writing or psychic revelation, could originate from a
-    galactic civilisation broadcasting a cosmic education programme at regular intervals.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
-    title: Jacques Bergier
-  provenance_chain:
-    origin_kind: named
-    origin: Jacques Bergier
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
-    title: Jacques Bergier
-    slug: jacques-bergier
+    shared_claims: 2
   - node_id: daf7515b-81dc-4255-af30-0004050b05dd
     title: Book of Mormon
+    node_type: document
     slug: book-of-mormon
-  date: '1973'
-  date_end: null
-  location_in_record: ch15:52139-52505
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: fbf47685-e2a6-452c-b90c-36291c924a10
-  claim_hash: 785ae8e5948af6c430d2e932046d0c76b8ccfefe97cfe5ccc71ce8c0a3a1ecc6
-  content: Jacques Bergier compared such a cosmic broadcast to the French National
-    Radio broadcasting philosophy and history lectures from the Sorbonne to Africa
-    and other remote places, picked up by gifted prophets on Earth and other planets.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
-    title: Jacques Bergier
-  provenance_chain:
-    origin_kind: named
-    origin: Jacques Bergier
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
-    title: Jacques Bergier
-    slug: jacques-bergier
-  date: null
-  date_end: null
-  location_in_record: ch15:52514-52914
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
+    shared_claims: 1
+claims:
+  - claim_id: 852373ce-85f6-4a30-9db5-f0e2c235eb9d
+    claim_hash: 4436f28cceefb7915fa3631e2a1090a52650c4dc32874376c9e0e6e2d093088c
+    content: According to Jacques Bergier, Richard Nixon was a member of the Board of the Helena Petrovna Blavatsky Foundation,
+      an organisation founded by followers of Madame Blavatsky.
+    original_excerpt: According to Jacques Bergier, one of these organizations is the Helena Petrovna Blavatsky Foundation,
+      of which Richard Nixon is a member of the Board.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Jacques Bergier
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 05d77a1f-0a30-4c2d-aa5f-a97b56290ad2
+        title: Helena Petrovna Blavatsky Foundation
+        slug: helena-petrovna-blavatsky-foundation
+      - node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
+        title: Jacques Bergier
+        slug: jacques-bergier
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+    date: null
+    date_end: null
+    location_in_record: ch11:16552-16696
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 5ace9108-2fd7-467a-9846-5d6a0626b0b7
+    claim_hash: 4000779b6e7a04cb9b80d74ba60d24f9dc39c1fd789861fb1f3db681b3c50a9d
+    content: Jacques Vallée was not able to verify Jacques Bergier's claim that Richard Nixon was a member of the Board of
+      the Helena Petrovna Blavatsky Foundation.
+    original_excerpt: I have not been able to verify this statement.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 05d77a1f-0a30-4c2d-aa5f-a97b56290ad2
+        title: Helena Petrovna Blavatsky Foundation
+        slug: helena-petrovna-blavatsky-foundation
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
+        title: Jacques Bergier
+        slug: jacques-bergier
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+    date: null
+    date_end: null
+    location_in_record: ch11:16703-16739
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: cb47a1fb-6940-47d3-9608-bebf2c2d26c7
+    claim_hash: a77a357d9453c9b9e642e1524e074395fb0481c7597813057937685dc47cbbfc
+    content: In 1973, Jacques Bergier proposed to Jacques Vallee an explanation that books such as the Bible and Book of Mormon,
+      which seem to emanate from a cosmic source through automatic writing or psychic revelation, could originate from a galactic
+      civilisation broadcasting a cosmic education programme at regular intervals.
+    original_excerpt: In 1973 Jacques Bergier proposed to me an amusing explanation for the existence of these books which
+      seem to emanate from a cosmic source and, like the Bible, have come to us through automatic writing or some other form
+      of psychic revelation. There exists, he postulates, a civilization in our galaxy which is broadcasting at regular intervals
+      some cosmic education program
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
+      title: Jacques Bergier
+    provenance_chain:
+      origin_kind: named
+      origin: Jacques Bergier
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
+        title: Jacques Bergier
+        slug: jacques-bergier
+      - node_id: daf7515b-81dc-4255-af30-0004050b05dd
+        title: Book of Mormon
+        slug: book-of-mormon
+    date: '1973'
+    date_end: null
+    location_in_record: ch15:52139-52505
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: fbf47685-e2a6-452c-b90c-36291c924a10
+    claim_hash: 785ae8e5948af6c430d2e932046d0c76b8ccfefe97cfe5ccc71ce8c0a3a1ecc6
+    content: Jacques Bergier compared such a cosmic broadcast to the French National Radio broadcasting philosophy and history
+      lectures from the Sorbonne to Africa and other remote places, picked up by gifted prophets on Earth and other planets.
+    original_excerpt: much in the same manner as the French National Radio is every day broadcasting selected lectures in
+      philosophy and history from the Sorbonne...we could well visualize an advanced civilization broadcasting very advanced
+      concepts on psychic wavelengths, to be picked up by gifted prophets on earth and millions of other retarded planets!
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
+      title: Jacques Bergier
+    provenance_chain:
+      origin_kind: named
+      origin: Jacques Bergier
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
+        title: Jacques Bergier
+        slug: jacques-bergier
+    date: null
+    date_end: null
+    location_in_record: ch15:52514-52914
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has

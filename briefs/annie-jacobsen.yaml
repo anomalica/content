@@ -9,436 +9,450 @@ page:
   claim_count: 10
   claim_count_total: 10
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 10
+  tokens_estimated: 3158
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 10
 related_nodes:
-- node_id: 0ebef494-7138-409f-8759-58961e45979e
-  title: Area 51 (Annie Jacobsen book)
-  node_type: document
-  slug: area-51-annie-jacobsen-book
-  shared_claims: 8
-- node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-  title: USA, New Mexico, Roswell
-  node_type: place
-  slug: new-mexico-roswell-usa
-  shared_claims: 7
-- node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
-  title: Joseph Stalin
-  node_type: person
-  slug: joseph-stalin
-  shared_claims: 2
-- node_id: 1067fc7e-b107-4e10-b839-0f1518ee6d89
-  title: 'Area 51: An Uncensored History of America''s Top Secret Military Base'
-  node_type: document
-  slug: area-51-an-uncensored-history-of-americas-top-secret-military-base
-  shared_claims: 1
-- node_id: 95535ea3-01ed-41d1-bbfc-df71eb0e89a1
-  title: Joint Chiefs of Staff
-  node_type: organisation
-  slug: joint-chiefs-of-staff
-  shared_claims: 1
-- node_id: d3174518-3c1c-49af-9030-76c10775bd1e
-  title: Josef Mengele
-  node_type: person
-  slug: josef-mengele
-  shared_claims: 1
-- node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
-  title: Soviet Union
-  node_type: organisation
-  slug: soviet-union
-  shared_claims: 1
-- node_id: a17397f1-2702-420a-9578-584220463893
-  title: The War of the Worlds
-  node_type: document
-  slug: the-war-of-the-worlds
-  shared_claims: 1
-claims:
-- claim_id: b1bf4c34-0f7b-4a17-9bce-ed51507af634
-  claim_hash: 0d6766dfc7a7d261461cdae86877025c85e285c0f836883838afd46b137742c2
-  content: 'Annie Jacobsen''s "Area 51: An Uncensored History of America''s Top Secret
-    Military Base" appears to D. W. Pasulka to be correct in claiming that top-secret
-    military programmes have operated in and around the Area 51 region.'
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+  - node_id: 0ebef494-7138-409f-8759-58961e45979e
+    title: Area 51 (Annie Jacobsen book)
+    node_type: document
+    slug: area-51-annie-jacobsen-book
+    shared_claims: 8
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    node_type: place
+    slug: new-mexico-roswell-usa
+    shared_claims: 7
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    node_type: person
+    slug: joseph-stalin
+    shared_claims: 2
   - node_id: 1067fc7e-b107-4e10-b839-0f1518ee6d89
     title: 'Area 51: An Uncensored History of America''s Top Secret Military Base'
+    node_type: document
     slug: area-51-an-uncensored-history-of-americas-top-secret-military-base
-  - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-    title: Annie Jacobsen
-    slug: annie-jacobsen
-  date: null
-  date_end: null
-  location_in_record: ch2:48404-48617
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 4456664c-2bbc-4b18-aeb9-33fde34efdd7
-  claim_hash: 75b42e493757e8b3065514a74171b88e685b1f086cdaf38ef0f05fddc5da013d
-  content: Annie Jacobsen is a journalist who does not affirm the reality of UFOs
-    or of nonhuman intelligence.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-    title: Annie Jacobsen
-    slug: annie-jacobsen
-  date: null
-  date_end: null
-  location_in_record: ch2:48885-48976
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 933c7ef0-7d69-4eb6-a6ca-c052edd99b50
-  claim_hash: dfe2103bd1de873d34cf2ce0a8eb9e59c23220e33572e7383ac60e317ae771f7
-  content: Annie Jacobsen wrote that in July 1947 United States Signal Corps engineers
-    tracked two anomalous objects flying across the south-western United States, with
-    the craft sometimes hovering before continuing to fly on.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Annie Jacobsen's Area 51 book
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0ebef494-7138-409f-8759-58961e45979e
-    title: Area 51 (Annie Jacobsen book)
-    slug: area-51-annie-jacobsen-book
-  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-    title: USA, New Mexico, Roswell
-    slug: new-mexico-roswell-usa
-  - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-    title: Annie Jacobsen
-    slug: annie-jacobsen
-  date: 1947-07
-  date_end: null
-  location_in_record: ch18:1408-1599
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 52a9876c-b751-49e9-bd11-917b0ca90206
-  claim_hash: d5b5e1a0b6e5459c5cb008cd66e2f53cd89004f33ae8c72a18c0b00bef364878
-  content: According to Annie Jacobsen, one of the two anomalous flying objects tracked
-    in July 1947 crashed near Roswell, New Mexico, and the office of the Joint Chiefs
-    of Staff took command and control and recovered the airframe and some propulsion
-    equipment, including the crashed craft's power plant or energy source.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Annie Jacobsen's Area 51 book
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0ebef494-7138-409f-8759-58961e45979e
-    title: Area 51 (Annie Jacobsen book)
-    slug: area-51-annie-jacobsen-book
-  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-    title: USA, New Mexico, Roswell
-    slug: new-mexico-roswell-usa
-  - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-    title: Annie Jacobsen
-    slug: annie-jacobsen
+    shared_claims: 1
   - node_id: 95535ea3-01ed-41d1-bbfc-df71eb0e89a1
     title: Joint Chiefs of Staff
+    node_type: organisation
     slug: joint-chiefs-of-staff
-  date: 1947-07
-  date_end: null
-  location_in_record: ch18:1603-1850
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 3439fe37-96d0-47ee-8949-f0e416bb3503
-  claim_hash: 67d1658f8b325e6795bc7ff041d6d9763353575dd03a54da844fd89500eba784
-  content: According to Annie Jacobsen, the craft that crashed near Roswell was nothing
-    like any conventional aircraft, having no wings or tail, a round fuselage and
-    a dome on top.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Annie Jacobsen's Area 51 book
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0ebef494-7138-409f-8759-58961e45979e
-    title: Area 51 (Annie Jacobsen book)
-    slug: area-51-annie-jacobsen-book
-  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-    title: USA, New Mexico, Roswell
-    slug: new-mexico-roswell-usa
-  - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-    title: Annie Jacobsen
-    slug: annie-jacobsen
-  date: 1947-07
-  date_end: null
-  location_in_record: ch18:1860-2050
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: edae0e41-581d-4198-9c8b-46d1b88c93df
-  claim_hash: 660e194244a5e7ee130616c55c0f354954c1e8bf5f8b6d617c010b2ef2d780e1
-  content: Annie Jacobsen's book asserts that what crashed at Roswell in 1947 was
-    actually a Russian craft, built by captured Nazi Germany scientists.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Annie Jacobsen's Area 51 book
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0ebef494-7138-409f-8759-58961e45979e
-    title: Area 51 (Annie Jacobsen book)
-    slug: area-51-annie-jacobsen-book
-  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-    title: USA, New Mexico, Roswell
-    slug: new-mexico-roswell-usa
-  - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-    title: Annie Jacobsen
-    slug: annie-jacobsen
-  - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
-    title: Soviet Union
-    slug: soviet-union
-  date: '1947'
-  date_end: null
-  location_in_record: ch18:2057-2220
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: cbac31ff-d273-4148-aede-fbd2671cd9cd
-  claim_hash: 12a17fdc192641306b8ba416428a94da71bfed5637420ec7cd8f2aef800f07eb
-  content: Annie Jacobsen's book claims that bodies found on the craft that crashed
-    at Roswell in 1947 were of 'grotesquely deformed' children with unusually large
-    heads and abnormally-shaped oversize eyes.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Annie Jacobsen's Area 51 book
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0ebef494-7138-409f-8759-58961e45979e
-    title: Area 51 (Annie Jacobsen book)
-    slug: area-51-annie-jacobsen-book
-  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-    title: USA, New Mexico, Roswell
-    slug: new-mexico-roswell-usa
-  - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-    title: Annie Jacobsen
-    slug: annie-jacobsen
-  date: '1947'
-  date_end: null
-  location_in_record: ch18:2232-2421
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: f92dccd6-6838-41f4-992d-842e86b93ed2
-  claim_hash: ea2be95461443883e822e1e585d01084c278141e212e8c8832055d82aafe19d2
-  content: Annie Jacobsen's book claims that Nazi doctor Josef Mengele made a deal
-    with Joseph Stalin just before the end of the Second World War in which he was
-    allowed to continue his eugenics experiments, purportedly explaining the deformed
-    children found at the Roswell crash.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Annie Jacobsen's Area 51 book
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0ebef494-7138-409f-8759-58961e45979e
-    title: Area 51 (Annie Jacobsen book)
-    slug: area-51-annie-jacobsen-book
-  - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-    title: Annie Jacobsen
-    slug: annie-jacobsen
-  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
-    title: Joseph Stalin
-    slug: joseph-stalin
+    shared_claims: 1
   - node_id: d3174518-3c1c-49af-9030-76c10775bd1e
     title: Josef Mengele
+    node_type: person
     slug: josef-mengele
-  date: '1945'
-  date_end: null
-  location_in_record: ch18:2431-2649
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 1afaeda5-e619-46d5-a742-917a46fd2196
-  claim_hash: a1a4fc038f2d13326810ac9d321f0b136a05dc077098c20e3b23b50677b97133
-  content: According to Annie Jacobsen's book, Joseph Stalin intended the Roswell
-    craft to land in New Mexico and cause a War of the Worlds-style panic.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Annie Jacobsen's Area 51 book
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0ebef494-7138-409f-8759-58961e45979e
-    title: Area 51 (Annie Jacobsen book)
-    slug: area-51-annie-jacobsen-book
-  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-    title: USA, New Mexico, Roswell
-    slug: new-mexico-roswell-usa
-  - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-    title: Annie Jacobsen
-    slug: annie-jacobsen
+    shared_claims: 1
+  - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+    title: Soviet Union
+    node_type: organisation
+    slug: soviet-union
+    shared_claims: 1
   - node_id: a17397f1-2702-420a-9578-584220463893
     title: The War of the Worlds
+    node_type: document
     slug: the-war-of-the-worlds
-  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
-    title: Joseph Stalin
-    slug: joseph-stalin
-  date: '1947'
-  date_end: null
-  location_in_record: ch18:2655-2759
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 1dd588aa-e84b-499d-a8e8-1bf3c724f57c
-  claim_hash: 72efcd9821e5ea65bc988fd6a93d3f6e34e11c6221565639ae6b6394b06c185e
-  content: Annie Jacobsen's source for her Area 51 book claimed the deformed children
-    found at the Roswell crash site were comatose but still alive.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to have confidential knowledge relayed to Annie Jacobsen
-      for her Area 51 book
-    relay:
-    - Annie Jacobsen
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0ebef494-7138-409f-8759-58961e45979e
-    title: Area 51 (Annie Jacobsen book)
-    slug: area-51-annie-jacobsen-book
-  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-    title: USA, New Mexico, Roswell
-    slug: new-mexico-roswell-usa
-  - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-    title: Annie Jacobsen
-    slug: annie-jacobsen
-  date: '1947'
-  date_end: null
-  location_in_record: ch18:2766-2844
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
+    shared_claims: 1
+claims:
+  - claim_id: b1bf4c34-0f7b-4a17-9bce-ed51507af634
+    claim_hash: 0d6766dfc7a7d261461cdae86877025c85e285c0f836883838afd46b137742c2
+    content: 'Annie Jacobsen''s "Area 51: An Uncensored History of America''s Top Secret Military Base" appears to D. W. Pasulka
+      to be correct in claiming that top-secret military programmes have operated in and around the Area 51 region.'
+    original_excerpt: 'Annie Jacobsen’s Area 51: An Uncensored History of America’s Top Secret Military Base strikes me as
+      probably correct on one count, namely, that there are top-secret military programs going on in and around that area.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1067fc7e-b107-4e10-b839-0f1518ee6d89
+        title: 'Area 51: An Uncensored History of America''s Top Secret Military Base'
+        slug: area-51-an-uncensored-history-of-americas-top-secret-military-base
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+    date: null
+    date_end: null
+    location_in_record: ch2:48404-48617
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 4456664c-2bbc-4b18-aeb9-33fde34efdd7
+    claim_hash: 75b42e493757e8b3065514a74171b88e685b1f086cdaf38ef0f05fddc5da013d
+    content: Annie Jacobsen is a journalist who does not affirm the reality of UFOs or of nonhuman intelligence.
+    original_excerpt: Jacobsen is a journalist and does not in any way affirm the reality of UFOs or of nonhuman intelligence.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+    date: null
+    date_end: null
+    location_in_record: ch2:48885-48976
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 933c7ef0-7d69-4eb6-a6ca-c052edd99b50
+    claim_hash: dfe2103bd1de873d34cf2ce0a8eb9e59c23220e33572e7383ac60e317ae771f7
+    content: Annie Jacobsen wrote that in July 1947 United States Signal Corps engineers tracked two anomalous objects flying
+      across the south-western United States, with the craft sometimes hovering before continuing to fly on.
+    original_excerpt: Jacobsen wrote that in July 1947, US Signal Corps engineers tracked two anomalous objects flying across
+      the south-western United States, the craft sometimes hovering before continuing to fly on.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Annie Jacobsen's Area 51 book
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ebef494-7138-409f-8759-58961e45979e
+        title: Area 51 (Annie Jacobsen book)
+        slug: area-51-annie-jacobsen-book
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+    date: 1947-07
+    date_end: null
+    location_in_record: ch18:1408-1599
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 52a9876c-b751-49e9-bd11-917b0ca90206
+    claim_hash: d5b5e1a0b6e5459c5cb008cd66e2f53cd89004f33ae8c72a18c0b00bef364878
+    content: According to Annie Jacobsen, one of the two anomalous flying objects tracked in July 1947 crashed near Roswell,
+      New Mexico, and the office of the Joint Chiefs of Staff took command and control and recovered the airframe and some
+      propulsion equipment, including the crashed craft's power plant or energy source.
+    original_excerpt: One of the flying objects crashed near Roswell and 'immediately, the office of the Joint Chiefs of Staff
+      . . . took command and control and recovered the airframe and some propulsion equipment, including the crashed craft's
+      power plant, or energy source'.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Annie Jacobsen's Area 51 book
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ebef494-7138-409f-8759-58961e45979e
+        title: Area 51 (Annie Jacobsen book)
+        slug: area-51-annie-jacobsen-book
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+      - node_id: 95535ea3-01ed-41d1-bbfc-df71eb0e89a1
+        title: Joint Chiefs of Staff
+        slug: joint-chiefs-of-staff
+    date: 1947-07
+    date_end: null
+    location_in_record: ch18:1603-1850
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3439fe37-96d0-47ee-8949-f0e416bb3503
+    claim_hash: 67d1658f8b325e6795bc7ff041d6d9763353575dd03a54da844fd89500eba784
+    content: According to Annie Jacobsen, the craft that crashed near Roswell was nothing like any conventional aircraft,
+      having no wings or tail, a round fuselage and a dome on top.
+    original_excerpt: The craft was nothing like any conventional aircraft, with no wings or tail, a round fuselage and a
+      dome on the top, with secret army memos declassified in 1994 referring to it as a 'flying disc'.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Annie Jacobsen's Area 51 book
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ebef494-7138-409f-8759-58961e45979e
+        title: Area 51 (Annie Jacobsen book)
+        slug: area-51-annie-jacobsen-book
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+    date: 1947-07
+    date_end: null
+    location_in_record: ch18:1860-2050
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: edae0e41-581d-4198-9c8b-46d1b88c93df
+    claim_hash: 660e194244a5e7ee130616c55c0f354954c1e8bf5f8b6d617c010b2ef2d780e1
+    content: Annie Jacobsen's book asserts that what crashed at Roswell in 1947 was actually a Russian craft, built by captured
+      Nazi Germany scientists.
+    original_excerpt: Where her book courted most controversy was Jacobsen's extraordinary assertion that what crashed at
+      Roswell was actually Russian, crafted by captured Nazi Germany scientists.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Annie Jacobsen's Area 51 book
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ebef494-7138-409f-8759-58961e45979e
+        title: Area 51 (Annie Jacobsen book)
+        slug: area-51-annie-jacobsen-book
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+      - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+        title: Soviet Union
+        slug: soviet-union
+    date: '1947'
+    date_end: null
+    location_in_record: ch18:2057-2220
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cbac31ff-d273-4148-aede-fbd2671cd9cd
+    claim_hash: 12a17fdc192641306b8ba416428a94da71bfed5637420ec7cd8f2aef800f07eb
+    content: Annie Jacobsen's book claims that bodies found on the craft that crashed at Roswell in 1947 were of 'grotesquely
+      deformed' children with unusually large heads and abnormally-shaped oversize eyes.
+    original_excerpt: Her even more dramatic claim – that bodies found on the craft were those of 'grotesquely deformed' children
+      with unusually large heads and abnormally-shaped oversize eyes – was savaged by sceptics.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Annie Jacobsen's Area 51 book
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ebef494-7138-409f-8759-58961e45979e
+        title: Area 51 (Annie Jacobsen book)
+        slug: area-51-annie-jacobsen-book
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+    date: '1947'
+    date_end: null
+    location_in_record: ch18:2232-2421
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f92dccd6-6838-41f4-992d-842e86b93ed2
+    claim_hash: ea2be95461443883e822e1e585d01084c278141e212e8c8832055d82aafe19d2
+    content: Annie Jacobsen's book claims that Nazi doctor Josef Mengele made a deal with Joseph Stalin just before the end
+      of the Second World War in which he was allowed to continue his eugenics experiments, purportedly explaining the deformed
+      children found at the Roswell crash.
+    original_excerpt: Jacobsen made the eye-popping assertion that Nazi doctor Josef Mengele made a deal with Stalin just
+      before the end of the war in which he was allowed to continue his eugenics experiments, hence apparently the deformed
+      kids.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Annie Jacobsen's Area 51 book
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ebef494-7138-409f-8759-58961e45979e
+        title: Area 51 (Annie Jacobsen book)
+        slug: area-51-annie-jacobsen-book
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+      - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+        title: Joseph Stalin
+        slug: joseph-stalin
+      - node_id: d3174518-3c1c-49af-9030-76c10775bd1e
+        title: Josef Mengele
+        slug: josef-mengele
+    date: '1945'
+    date_end: null
+    location_in_record: ch18:2431-2649
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1afaeda5-e619-46d5-a742-917a46fd2196
+    claim_hash: a1a4fc038f2d13326810ac9d321f0b136a05dc077098c20e3b23b50677b97133
+    content: According to Annie Jacobsen's book, Joseph Stalin intended the Roswell craft to land in New Mexico and cause
+      a War of the Worlds-style panic.
+    original_excerpt: Joseph Stalin supposedly intended the craft to land at New Mexico and cause a War of the Worlds-style
+      panic.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Annie Jacobsen's Area 51 book
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ebef494-7138-409f-8759-58961e45979e
+        title: Area 51 (Annie Jacobsen book)
+        slug: area-51-annie-jacobsen-book
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+      - node_id: a17397f1-2702-420a-9578-584220463893
+        title: The War of the Worlds
+        slug: the-war-of-the-worlds
+      - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+        title: Joseph Stalin
+        slug: joseph-stalin
+    date: '1947'
+    date_end: null
+    location_in_record: ch18:2655-2759
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1dd588aa-e84b-499d-a8e8-1bf3c724f57c
+    claim_hash: 72efcd9821e5ea65bc988fd6a93d3f6e34e11c6221565639ae6b6394b06c185e
+    content: Annie Jacobsen's source for her Area 51 book claimed the deformed children found at the Roswell crash site were
+      comatose but still alive.
+    original_excerpt: Jacobsen's source also claimed the deformed children were 'comatose but still alive'.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have confidential knowledge relayed to Annie Jacobsen for her Area 51 book
+      relay:
+        - Annie Jacobsen
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ebef494-7138-409f-8759-58961e45979e
+        title: Area 51 (Annie Jacobsen book)
+        slug: area-51-annie-jacobsen-book
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+    date: '1947'
+    date_end: null
+    location_in_record: ch18:2766-2844
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

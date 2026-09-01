@@ -1,422 +1,688 @@
 schema: anomalica/brief/1
-brief_hash: 622827f5f8fa90b09082ba5450731fc58e92b1af4fced1bfe8e608a4397941e9
+brief_hash: 01a935fc04cb9d17831fc33d5f7e8dc04b9aba937e20c407dcc9d28bc3ee15ac
 page:
   kind: entity
   node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
   node_type: person
   title: Sean Kirkpatrick
   slug: sean-kirkpatrick
-  claim_count: 9
-  claim_count_total: 9
+  claim_count: 14
+  claim_count_total: 14
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 14
+  tokens_estimated: 4216
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 14
 related_nodes:
-- node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-  title: All-domain Anomaly Resolution Office (AARO)
-  node_type: organisation
-  slug: all-domain-anomaly-resolution-office-aaro
-  shared_claims: 8
-- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-  title: David Charles Grusch
-  node_type: person
-  slug: david-charles-grusch
-  shared_claims: 5
-- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-  title: United States Department of Defense (DoD)
-  node_type: organisation
-  slug: united-states-department-of-defense-dod
-  shared_claims: 2
-- node_id: c0120480-45c2-4c24-81d4-8031b544ee40
-  title: 2022-12 Moultrie-Kirkpatrick All-Domain Anomaly Resolution Office (AARO)
-    media roundtable transcript
-  node_type: document
-  slug: 2022-12-moultrie-kirkpatrick-all-domain-anomaly-resolution-office-aaro-media-roundtable-transcript
-  shared_claims: 1
-- node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
-  title: Ronald S. Moultrie
-  node_type: person
-  slug: ronald-s-moultrie
-  shared_claims: 1
-- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-  title: United States Congress
-  node_type: organisation
-  slug: united-states-congress
-  shared_claims: 1
-- node_id: a9438ed9-456e-46b1-b314-e15a27416615
-  title: United States Senate
-  node_type: organisation
-  slug: united-states-senate
-  shared_claims: 1
-claims:
-- claim_id: 063c7286-ed1b-4ea1-bfa1-3a5c3a7d21b4
-  claim_hash: ae2291fbcf2d4ee763454fd73eef9f4025a09024f068529ddf68f1fb46f837fc
-  content: Ronald Moultrie and Sean Kirkpatrick held a media roundtable on the All-Domain
-    Anomaly Resolution Office on 2022-12-16.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: US Defense Department media roundtable transcript
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
-    title: Sean Kirkpatrick
-    slug: sean-kirkpatrick
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    node_type: organisation
+    slug: all-domain-anomaly-resolution-office-aaro
+    shared_claims: 9
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 5
+  - node_id: ff987e6a-6593-419d-bc4f-6435848c3a59
+    title: Sean Kirkpatrick testimony to the Senate Armed Services Committee 2023-04-19
+    node_type: event
+    slug: sean-kirkpatrick-testimony-to-the-senate-armed-services-committee-2023-04-19
+    shared_claims: 3
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 2
+  - node_id: c0120480-45c2-4c24-81d4-8031b544ee40
+    title: 2022-12 Moultrie-Kirkpatrick All-Domain Anomaly Resolution Office (AARO) media roundtable transcript
+    node_type: document
+    slug: 2022-12-moultrie-kirkpatrick-all-domain-anomaly-resolution-office-aaro-media-roundtable-transcript
+    shared_claims: 1
+  - node_id: e498e3b9-87de-44e8-877a-46b8acc68ab1
+    title: All-Domain Anomaly Resolution Office report on UFOs 2023-01-12
+    node_type: document
+    slug: all-domain-anomaly-resolution-office-report-on-ufos-2023-01-12
+    shared_claims: 1
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    node_type: person
+    slug: george-knapp
+    shared_claims: 1
+  - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+    title: James Lacatski
+    node_type: person
+    slug: james-lacatski
+    shared_claims: 1
+  - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+    title: Kirsten Gillibrand
+    node_type: person
+    slug: kirsten-gillibrand
+    shared_claims: 1
+  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+    title: Office of the Director of National Intelligence (ODNI)
+    node_type: organisation
+    slug: office-of-the-director-of-national-intelligence-odni
+    shared_claims: 1
   - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
     title: Ronald S. Moultrie
+    node_type: person
     slug: ronald-s-moultrie
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  - node_id: c0120480-45c2-4c24-81d4-8031b544ee40
-    title: 2022-12 Moultrie-Kirkpatrick All-Domain Anomaly Resolution Office (AARO)
-      media roundtable transcript
-    slug: 2022-12-moultrie-kirkpatrick-all-domain-anomaly-resolution-office-aaro-media-roundtable-transcript
-  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-    title: All-domain Anomaly Resolution Office (AARO)
-    slug: all-domain-anomaly-resolution-office-aaro
-  date: '2022-12-16'
-  date_end: null
-  location_in_record: ch34:72830-72978
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 4a82f055-45d4-4350-ba99-fca454419dd6
-  claim_hash: 8308b2e6f406d20fe9c8344b1c77a5c61736546697ab9eb17936eee303d4a3db
-  content: Sean Kirkpatrick, Director of the All-Domain Anomaly Resolution Office,
-    testified before the United States Senate that his unit has found no evidence
-    of extraterrestrial activity.
-  original_excerpt: I also want to note that Mr. Sean Kirkpatrick, Director of the
-    All-Domain Anomaly Resolution Office, the component of the DoD office that investigates
-    UAP data, has testified before the Senate this year that his unit has found no
-    evidence of extraterrestrial activity.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
-    title: Glenn Grothman
-  provenance_chain:
-    origin_kind: named
-    origin: Sean Kirkpatrick
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
-    title: Sean Kirkpatrick
-    slug: sean-kirkpatrick
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  - node_id: a9438ed9-456e-46b1-b314-e15a27416615
-    title: United States Senate
-    slug: united-states-senate
-  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-    title: All-domain Anomaly Resolution Office (AARO)
-    slug: all-domain-anomaly-resolution-office-aaro
-  date: null
-  date_end: null
-  location_in_record: char:22503-22762
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 642c7c22-f37a-4ef2-a0a7-017823384ca9
-  claim_hash: 30527e748e87e7f67e7d45d57476981ee789e9e42febb111b1e157d12ec788fb
-  content: On 2023-04-19, Sean Kirkpatrick, head of the All-Domain Anomaly Resolution
-    Office (AARO), stated that he did not find any evidence of unidentified anomalous
-    phenomena.
-  original_excerpt: On the 19th of April, Dr. Kirkpatrick, head of AARO, had said
-    that he did not find any evidence of UAPs.
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: 1d228903-0bd7-401a-9902-2656e6e85650
-    title: Anna Paulina Luna
-  provenance_chain:
-    origin_kind: named
-    origin: Sean Kirkpatrick
-    relay:
-    - Anna Paulina Luna
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
-    title: Sean Kirkpatrick
-    slug: sean-kirkpatrick
-  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-    title: All-domain Anomaly Resolution Office (AARO)
-    slug: all-domain-anomaly-resolution-office-aaro
-  date: '2023-04-19'
-  date_end: null
-  location_in_record: char:71855-71954
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 84d3c7c3-af28-4106-99b6-89360c1331f9
-  claim_hash: 87c7168e337f147c22329077f5f5580dcd369b7d7311b5b9bf610474f29d73a9
-  content: In April 2022, before Sean Kirkpatrick took over the All-Domain Anomaly
-    Resolution Office (AARO) in July 2022, David Grusch had a classified conversation
-    with him and provided him concerns regarding pertinent national security information.
-  original_excerpt: Him and I had a classified conversation in April 2022 before he
-    took over AARO in July 2022 and I provided him some concerns I had.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
-    title: Sean Kirkpatrick
-    slug: sean-kirkpatrick
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-    title: All-domain Anomaly Resolution Office (AARO)
-    slug: all-domain-anomaly-resolution-office-aaro
-  date: 2022-04
-  date_end: null
-  location_in_record: char:72197-72324
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 41d40c84-1130-4d8f-8712-e7096b7d86c5
-  claim_hash: 21162cbace6cc4aa5740b46bb03717f9dfefde835bf24e47529256f9c01ae104
-  content: David Grusch does not know why Sean Kirkpatrick did not follow up with
-    him after their April 2022 conversation, but wishes he had, and states he was
-    happy to give counsel to Kirkpatrick when Kirkpatrick took over the All-Domain
-    Anomaly Resolution Office (AARO).
-  original_excerpt: Unfortunately, I cannot read his mind. I wish he did. I was happy
-    to give sage counsel to him on where to look when he took the helm of AARO.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
-    title: Sean Kirkpatrick
-    slug: sean-kirkpatrick
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-    title: All-domain Anomaly Resolution Office (AARO)
-    slug: all-domain-anomaly-resolution-office-aaro
-  date: null
-  date_end: null
-  location_in_record: char:72409-72545
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: aeb582d6-e1ad-47cf-a98b-a6664b79e898
-  claim_hash: a8d9713b57b957e5ef324cc4e26636ec28442f27b17a128c3ee6c9f39601ba7d
-  content: Sean Kirkpatrick, Director of the All-Domain Anomaly Resolution Office
-    (AARO), previously testified before Congress that there has been "no credible
-    evidence thus far of extraterrestrial activity" or of "off-world technology brought
-    to the attention of the office".
-  original_excerpt: However, Dr. Sean Kirkpatrick, the Director of AARO, previously
-    testified before Congress that there has been, and I quote, ''no credible evidence
-    thus far of extraterrestrial activity'' or of, quote, ''off-world technology brought
-    to the attention of the office.''
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 1e8837b6-9c9c-4c7e-a704-b9e010436e13
-    title: Virginia Foxx
-  provenance_chain:
-    origin_kind: named
-    origin: Sean Kirkpatrick
-    relay:
-    - prior congressional testimony
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
-    title: Sean Kirkpatrick
-    slug: sean-kirkpatrick
+    shared_claims: 1
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    node_type: organisation
+    slug: senate-armed-services-committee
+    shared_claims: 1
+  - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+    title: Susan Gough
+    node_type: person
+    slug: susan-gough
+    shared_claims: 1
+  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+    title: The Pentagon
+    node_type: organisation
+    slug: the-pentagon
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
   - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
     title: United States Congress
+    node_type: organisation
     slug: united-states-congress
-  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-    title: All-domain Anomaly Resolution Office (AARO)
-    slug: all-domain-anomaly-resolution-office-aaro
-  date: null
-  date_end: null
-  location_in_record: char:82465-82721
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 90c32294-b480-4fc1-99ab-a71cfdd4c415
-  claim_hash: 5fdf266cb8664ca085afa0d7a2339f9f4fbb6b8e67c3b2266b7d676cb55e32b8
-  content: David Grusch considers Sean Kirkpatrick's statement that there is no credible
-    evidence of extraterrestrial activity or off-world technology inaccurate.
-  original_excerpt: Mr. GRUSCH. It is not accurate.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
-    title: Sean Kirkpatrick
-    slug: sean-kirkpatrick
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: char:82779-82801
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: bd7c3f49-813c-484c-938d-113455eb998d
-  claim_hash: ee66eb466cd40c1fbb6c8d4ac74661b46a116fbda94a4cca66e5bbca57a84e85
-  content: Sean Kirkpatrick mentioned that approximately 30 individuals have come
-    to the All-Domain Anomaly Resolution Office (AARO) with information.
-  original_excerpt: I believe Dr. Kirkpatrick mentioned he had about 30 individuals
-    that have come to AARO thus far.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: named
-    origin: Sean Kirkpatrick
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
-    title: Sean Kirkpatrick
-    slug: sean-kirkpatrick
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-    title: All-domain Anomaly Resolution Office (AARO)
-    slug: all-domain-anomaly-resolution-office-aaro
-  date: null
-  date_end: null
-  location_in_record: char:82811-82903
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 65630c4f-afe8-4afe-b147-96de2ff54daa
-  claim_hash: 3465f41b2eead1e9be2821a19fce23a988229d869cdc687c3ec7e028e6b9cff9
-  content: David Grusch knows what information the individuals provided to Sean Kirkpatrick
-    and his team at the All-Domain Anomaly Resolution Office (AARO).
-  original_excerpt: And I know what they provided Dr. Kirkpatrick and their team.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
-    title: Sean Kirkpatrick
-    slug: sean-kirkpatrick
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-    title: All-domain Anomaly Resolution Office (AARO)
-    slug: all-domain-anomaly-resolution-office-aaro
-  date: null
-  date_end: null
-  location_in_record: char:83011-83067
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+    shared_claims: 1
+  - node_id: a9438ed9-456e-46b1-b314-e15a27416615
+    title: United States Senate
+    node_type: organisation
+    slug: united-states-senate
+    shared_claims: 1
+claims:
+  - claim_id: 063c7286-ed1b-4ea1-bfa1-3a5c3a7d21b4
+    claim_hash: ae2291fbcf2d4ee763454fd73eef9f4025a09024f068529ddf68f1fb46f837fc
+    content: Ronald Moultrie and Sean Kirkpatrick held a media roundtable on the All-Domain Anomaly Resolution Office on 2022-12-16.
+    original_excerpt: Transcript, 'USD (I&S) Ronald Moultrie & Dr Sean Kirkpatrick Media Roundtable on the All-Domain Anomaly
+      Resolution Office', 16 Dec 2022, US Defense Dept.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: US Defense Department media roundtable transcript
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+        title: Ronald S. Moultrie
+        slug: ronald-s-moultrie
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c0120480-45c2-4c24-81d4-8031b544ee40
+        title: 2022-12 Moultrie-Kirkpatrick All-Domain Anomaly Resolution Office (AARO) media roundtable transcript
+        slug: 2022-12-moultrie-kirkpatrick-all-domain-anomaly-resolution-office-aaro-media-roundtable-transcript
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: '2022-12-16'
+    date_end: null
+    location_in_record: ch34:72830-72978
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4a82f055-45d4-4350-ba99-fca454419dd6
+    claim_hash: 8308b2e6f406d20fe9c8344b1c77a5c61736546697ab9eb17936eee303d4a3db
+    content: Sean Kirkpatrick, Director of the All-Domain Anomaly Resolution Office, testified before the United States Senate
+      that his unit has found no evidence of extraterrestrial activity.
+    original_excerpt: I also want to note that Mr. Sean Kirkpatrick, Director of the All-Domain Anomaly Resolution Office,
+      the component of the DoD office that investigates UAP data, has testified before the Senate this year that his unit
+      has found no evidence of extraterrestrial activity.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+      title: Glenn Grothman
+    provenance_chain:
+      origin_kind: named
+      origin: Sean Kirkpatrick
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: a9438ed9-456e-46b1-b314-e15a27416615
+        title: United States Senate
+        slug: united-states-senate
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:22503-22762
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 642c7c22-f37a-4ef2-a0a7-017823384ca9
+    claim_hash: 30527e748e87e7f67e7d45d57476981ee789e9e42febb111b1e157d12ec788fb
+    content: On 2023-04-19, Sean Kirkpatrick, head of the All-Domain Anomaly Resolution Office (AARO), stated that he did
+      not find any evidence of unidentified anomalous phenomena.
+    original_excerpt: On the 19th of April, Dr. Kirkpatrick, head of AARO, had said that he did not find any evidence of UAPs.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+      title: Anna Paulina Luna
+    provenance_chain:
+      origin_kind: named
+      origin: Sean Kirkpatrick
+      relay:
+        - Anna Paulina Luna
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: '2023-04-19'
+    date_end: null
+    location_in_record: char:71855-71954
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 84d3c7c3-af28-4106-99b6-89360c1331f9
+    claim_hash: 87c7168e337f147c22329077f5f5580dcd369b7d7311b5b9bf610474f29d73a9
+    content: In April 2022, before Sean Kirkpatrick took over the All-Domain Anomaly Resolution Office (AARO) in July 2022,
+      David Grusch had a classified conversation with him and provided him concerns regarding pertinent national security
+      information.
+    original_excerpt: Him and I had a classified conversation in April 2022 before he took over AARO in July 2022 and I provided
+      him some concerns I had.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: 2022-04
+    date_end: null
+    location_in_record: char:72197-72324
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 41d40c84-1130-4d8f-8712-e7096b7d86c5
+    claim_hash: 21162cbace6cc4aa5740b46bb03717f9dfefde835bf24e47529256f9c01ae104
+    content: David Grusch does not know why Sean Kirkpatrick did not follow up with him after their April 2022 conversation,
+      but wishes he had, and states he was happy to give counsel to Kirkpatrick when Kirkpatrick took over the All-Domain
+      Anomaly Resolution Office (AARO).
+    original_excerpt: Unfortunately, I cannot read his mind. I wish he did. I was happy to give sage counsel to him on where
+      to look when he took the helm of AARO.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:72409-72545
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: aeb582d6-e1ad-47cf-a98b-a6664b79e898
+    claim_hash: a8d9713b57b957e5ef324cc4e26636ec28442f27b17a128c3ee6c9f39601ba7d
+    content: Sean Kirkpatrick, Director of the All-Domain Anomaly Resolution Office (AARO), previously testified before Congress
+      that there has been "no credible evidence thus far of extraterrestrial activity" or of "off-world technology brought
+      to the attention of the office".
+    original_excerpt: However, Dr. Sean Kirkpatrick, the Director of AARO, previously testified before Congress that there
+      has been, and I quote, ''no credible evidence thus far of extraterrestrial activity'' or of, quote, ''off-world technology
+      brought to the attention of the office.''
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 1e8837b6-9c9c-4c7e-a704-b9e010436e13
+      title: Virginia Foxx
+    provenance_chain:
+      origin_kind: named
+      origin: Sean Kirkpatrick
+      relay:
+        - prior congressional testimony
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:82465-82721
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 90c32294-b480-4fc1-99ab-a71cfdd4c415
+    claim_hash: 5fdf266cb8664ca085afa0d7a2339f9f4fbb6b8e67c3b2266b7d676cb55e32b8
+    content: David Grusch considers Sean Kirkpatrick's statement that there is no credible evidence of extraterrestrial activity
+      or off-world technology inaccurate.
+    original_excerpt: Mr. GRUSCH. It is not accurate.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:82779-82801
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: bd7c3f49-813c-484c-938d-113455eb998d
+    claim_hash: ee66eb466cd40c1fbb6c8d4ac74661b46a116fbda94a4cca66e5bbca57a84e85
+    content: Sean Kirkpatrick mentioned that approximately 30 individuals have come to the All-Domain Anomaly Resolution Office
+      (AARO) with information.
+    original_excerpt: I believe Dr. Kirkpatrick mentioned he had about 30 individuals that have come to AARO thus far.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: named
+      origin: Sean Kirkpatrick
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:82811-82903
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 65630c4f-afe8-4afe-b147-96de2ff54daa
+    claim_hash: 3465f41b2eead1e9be2821a19fce23a988229d869cdc687c3ec7e028e6b9cff9
+    content: David Grusch knows what information the individuals provided to Sean Kirkpatrick and his team at the All-Domain
+      Anomaly Resolution Office (AARO).
+    original_excerpt: And I know what they provided Dr. Kirkpatrick and their team.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:83011-83067
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: a60f5f23-6e93-486f-9ee7-9af53167ddf7
+    claim_hash: a0e1b50b87c4f17c24e647cd8602fa41c78e959a7c7bf18a297178daa1033552
+    content: James Lacatski wrote that close coordination between Pentagon spokesman Susan Gough and Sean Kirkpatrick became
+      obvious after the All-Domain Anomaly Resolution Office report on UFOs was released on 2023-01-12.
+    original_excerpt: there's a close coordination, Lacatski writes, between of the Pentagon spokesman Susan Gao and Kirkpatrick,
+      Dr. Kirkpatrick, became obvious after the AARO Report on UFOs was released on January 12, 2023.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski
+      relay:
+        - Robert Bigelow reading his book aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+        title: Susan Gough
+        slug: susan-gough
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: e498e3b9-87de-44e8-877a-46b8acc68ab1
+        title: All-Domain Anomaly Resolution Office report on UFOs 2023-01-12
+        slug: all-domain-anomaly-resolution-office-report-on-ufos-2023-01-12
+    date: '2023-01-12'
+    date_end: null
+    location_in_record: 00:10:02.3-00:10:16.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 1a2b43d7-a381-4539-912d-99a749fdf43a
+    claim_hash: be2acfa144ede11896b52e4258a25287899b396aae8ca3642e1ea2489ca854fa
+    content: On 2023-04-19, Sean Kirkpatrick testified before Kirsten Gillibrand's Senate Armed Services Committee.
+    original_excerpt: Then on April the 19th, 2023, Kirkpatrick testified before Senator Gillibrand's Senate Armed Services
+      Committee.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: document
+      origin: James Lacatski's book
+      relay:
+        - Robert Bigelow reading aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+        title: Senate Armed Services Committee
+        slug: senate-armed-services-committee
+      - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+        title: Kirsten Gillibrand
+        slug: kirsten-gillibrand
+      - node_id: ff987e6a-6593-419d-bc4f-6435848c3a59
+        title: Sean Kirkpatrick testimony to the Senate Armed Services Committee 2023-04-19
+        slug: sean-kirkpatrick-testimony-to-the-senate-armed-services-committee-2023-04-19
+    date: '2023-04-19'
+    date_end: null
+    location_in_record: 00:10:34.5-00:10:42.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 8903f962-5ebf-42e5-a174-7b1da98d2968
+    claim_hash: 567b5caa9a80a75e8ed10a43932a19cd7834db8ae668bf407c695d82a9daf1db
+    content: In his testimony on 2023-04-19, Sean Kirkpatrick underscored that only a very small percentage of UAP reports
+      display signatures that could reasonably be described as anomalous.
+    original_excerpt: I want to underscore today that only a very small percentage of UAP reports display signatures that
+      could reasonably be described as anomalous.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: named
+      origin: Sean Kirkpatrick
+      relay:
+        - James Lacatski's book
+        - Robert Bigelow reading aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: ff987e6a-6593-419d-bc4f-6435848c3a59
+        title: Sean Kirkpatrick testimony to the Senate Armed Services Committee 2023-04-19
+        slug: sean-kirkpatrick-testimony-to-the-senate-armed-services-committee-2023-04-19
+    date: '2023-04-19'
+    date_end: null
+    location_in_record: 00:10:50.8-00:11:00.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: a41eeb30-0dd0-47de-97ac-12afe1ea7f47
+    claim_hash: 421b5bc9cbc0fe1279d1f30b050088244613a98f2b811383f1dadca8f8c52cc3
+    content: In his testimony on 2023-04-19, Sean Kirkpatrick said the All-Domain Anomaly Resolution Office had found no credible
+      evidence thus far of extraterrestrial activity, off-world technology, or objects that defy the known laws of physics.
+    original_excerpt: Kirkpatrick added, AARO has found no credible evidence thus far of extraterrestrial activity, off-world
+      technology, or objects that defy the known laws of physics. This is April 19, 2023.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: named
+      origin: Sean Kirkpatrick
+      relay:
+        - James Lacatski's book
+        - Robert Bigelow reading aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: ff987e6a-6593-419d-bc4f-6435848c3a59
+        title: Sean Kirkpatrick testimony to the Senate Armed Services Committee 2023-04-19
+        slug: sean-kirkpatrick-testimony-to-the-senate-armed-services-committee-2023-04-19
+    date: '2023-04-19'
+    date_end: null
+    location_in_record: 00:11:02.7-00:11:16.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: bc0967da-6f2a-485d-9991-e61859149f66
+    claim_hash: 9827f133285267e8703b397e8df0287a30232458271b934dc193101d6e8f036f
+    content: George Knapp regards Sean Kirkpatrick's 2023 position as a far cry from what the Office of the Director of National
+      Intelligence said in 2021 and from what it is saying now.
+    original_excerpt: It's a far cry from what ODNI said in 2021, right? And it's also a far cry from what ODNI is saying
+      now.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+        title: George Knapp
+        slug: george-knapp
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: 00:11:20.0-00:11:27.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

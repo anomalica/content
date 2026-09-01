@@ -9,451 +9,456 @@ page:
   claim_count: 11
   claim_count_total: 11
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 11
+  tokens_estimated: 3110
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 11
 related_nodes:
-- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-  title: Chris Ramsay
-  node_type: person
-  slug: chris-ramsay
-  shared_claims: 2
-- node_id: 6cc97343-1634-45fa-9c85-4325f72a109c
-  title: Ryan Bledsoe
-  node_type: person
-  slug: ryan-bledsoe
-  shared_claims: 2
-- node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-  title: Jason Samosa
-  node_type: person
-  slug: jason-samosa
-  shared_claims: 1
-- node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
-  title: Jim Semivan
-  node_type: person
-  slug: jim-semivan
-  shared_claims: 1
-- node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
-  title: USA, South Carolina
-  node_type: place
-  slug: south-carolina-usa
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-- node_id: 0bff28f6-286b-4621-a892-2a10e0d8b9f3
-  title: Unidentified Flying Object (UFO) of God
-  node_type: document
-  slug: unidentified-flying-object-ufo-of-god
-  shared_claims: 1
-- node_id: ccdf0290-866f-4b6c-8317-9f529510769f
-  title: angel hair
-  node_type: topic
-  slug: angel-hair
-  shared_claims: 1
-- node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-  title: human-alien hybridization
-  node_type: topic
-  slug: human-alien-hybridization
-  shared_claims: 1
-claims:
-- claim_id: ee399a00-439a-446d-b160-3e1ed33c39c8
-  claim_hash: 8a5d3137a64c6e0ed326b1740ce4cd459559071e55be6e7a55dd64678b113f8b
-  content: Christopher Bledsoe is a Baptist from North Carolina who had been a pilot
-    and owned a successful construction business.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
-    title: USA, South Carolina
-    slug: south-carolina-usa
-  - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
-    title: Christopher Bledsoe
-    slug: christopher-bledsoe
-  date: null
-  date_end: null
-  location_in_record: ch7:7764-7869
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: ba7b0c3f-c45f-4335-b952-59be10e48764
-  claim_hash: 2e6f4137973b5212b47b898ede4bc2a17f17bb269b85372be01cd42516787484
-  content: Christopher Bledsoe had a profound UFO sighting that he interpreted as
-    an extension of his own religious tradition.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
-    title: Christopher Bledsoe
-  provenance_chain:
-    origin_kind: named
-    origin: Christopher Bledsoe
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
-    title: Christopher Bledsoe
-    slug: christopher-bledsoe
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: ch7:7879-7967
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 4cd421ad-796d-4798-ac32-c1a0b27db190
-  claim_hash: 1cc960e89873e8a12c7294d44508e7198d4bde8e7cbe9970ef3a7ffbf492ec06
-  content: Christopher Bledsoe's congregation rejected his interpretation of his UFO
-    sighting and called the experience demonic.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
-    title: Christopher Bledsoe
-    slug: christopher-bledsoe
-  date: null
-  date_end: null
-  location_in_record: ch7:7978-8049
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 98f13624-4f98-471b-9f91-77f232dbab59
-  claim_hash: a8620f755c5257db0a33e9efd4f7149e49cbfbe0b898fc2e72e76acc5f996e84
-  content: Christopher Bledsoe struggled for several years following his UFO experience,
-    which alienated him from his community, though he now seems at peace with his
-    conversion.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
-    title: Christopher Bledsoe
-    slug: christopher-bledsoe
-  date: null
-  date_end: null
-  location_in_record: ch7:8058-8238
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 92ff6310-e1df-4f98-bf04-8db4c8e96d28
-  claim_hash: 11c745a1a77a7c52072c8d5f8969d18597fa4cb4d5d96c7b338b1812f81ea2d7
-  content: Chris Ramsey visited Chris Bledsoe in North Carolina.
-  original_excerpt: Really interesting because when I went out to North Carolina recently
-    to visit Chris Bledsoe, who I'll mention a little bit later as well
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-    title: Chris Ramsay
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chris Ramsey
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
   - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
     title: Chris Ramsay
+    node_type: person
     slug: chris-ramsay
-  - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
-    title: Christopher Bledsoe
-    slug: christopher-bledsoe
-  date: null
-  date_end: null
-  location_in_record: 00:04:48.1-00:04:55.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
-    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
-      ep. 10
-    record_date: '2024-10-18'
-    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
-    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
-    friendly_name: null
-- claim_id: 7ebb8b36-28dd-4e1f-a870-2e82b9ceccbb
-  claim_hash: ab692130665a6be075e50c083d32b492855fafa259322ac66fcacb7184c2b13d
-  content: Ryan Bledsoe is the son of Chris Bledsoe and hosts a podcast.
-  original_excerpt: I was with Ryan Bledsoe, his son, who has a podcast.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-    title: Chris Ramsay
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chris Ramsey
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 2
   - node_id: 6cc97343-1634-45fa-9c85-4325f72a109c
     title: Ryan Bledsoe
+    node_type: person
     slug: ryan-bledsoe
-  - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
-    title: Christopher Bledsoe
-    slug: christopher-bledsoe
-  date: null
-  date_end: null
-  location_in_record: 00:05:06.7-00:05:08.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
-    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
-      ep. 10
-    record_date: '2024-10-18'
-    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
-    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
-    friendly_name: null
-- claim_id: 01113d7f-dfb5-4f52-8f40-fc99d8018493
-  claim_hash: aa1074a104aa25ff1c5aa931de83b4ca0a0efee94d3a4b0350d04cf70f9890d5
-  content: Chris Bledsoe has been in touch with many factions of intelligence agencies
-    in the United States.
-  original_excerpt: who has obviously been in touch with many, many factions of intelligence
-    agencies in the United States.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-    title: Chris Ramsay
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chris Ramsey
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
-    title: Christopher Bledsoe
-    slug: christopher-bledsoe
-  date: null
-  date_end: null
-  location_in_record: 00:19:18.0-00:19:26.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
-    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
-      ep. 10
-    record_date: '2024-10-18'
-    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
-    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
-    friendly_name: null
-- claim_id: 5c0f9d8b-6f33-4c5a-ac64-83bed3445f8a
-  claim_hash: d52c0fe24056e8d0d092b077b2ece220b45d11a753465b3c467c9cc338624946
-  content: In his book, Chris Bledsoe details an orb dripping an unknown substance
-    onto his driveway.
-  original_excerpt: in his book, he details the fact that one of these orbs ended
-    up dripping a unknown substance onto his driveway.
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Chris Bledsoe
-    relay:
-    - UFO of God
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0bff28f6-286b-4621-a892-2a10e0d8b9f3
-    title: Unidentified Flying Object (UFO) of God
-    slug: unidentified-flying-object-ufo-of-god
-  - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
-    title: Christopher Bledsoe
-    slug: christopher-bledsoe
-  date: null
-  date_end: null
-  location_in_record: 00:19:30.6-00:19:36.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
-    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
-      ep. 10
-    record_date: '2024-10-18'
-    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
-    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
-    friendly_name: null
-- claim_id: 411ec94c-8862-45c6-8511-1ad5681c4512
-  claim_hash: 10e07afabdaa156ec680797ee91664d351b47cf0c9e99beea7c527791e9ba4ce
-  content: Chris Bledsoe's account of an orb dripping a substance onto his driveway
-    predates public discussion of angel hair by years.
-  original_excerpt: Now, this is years before we heard about this, which is really
-    interesting.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-    title: Chris Ramsay
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chris Ramsey
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
-    title: Christopher Bledsoe
-    slug: christopher-bledsoe
-  - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
-    title: angel hair
-    slug: angel-hair
-  date: null
-  date_end: null
-  location_in_record: 00:19:38.1-00:19:41.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
-    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
-      ep. 10
-    record_date: '2024-10-18'
-    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
-    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
-    friendly_name: null
-- claim_id: fc8935e9-c612-44bb-afb0-229b0a10384e
-  claim_hash: c6282acc58fb80305e66c2cc49147068081aca56818b430be53b437caeb3be78
-  content: Chris Bledsoe wrote in his book that he was able to heal his dog Nellie,
-    who was spurting blood across the house, by putting his hands on her, and also
-    healed a Make-A-Wish child with intestinal problems and little time to live, whose
-    problems went away after he laid his hands on the child.
-  original_excerpt: he writes in his book that he was able to, and this was corroborated
-    actually by Grant Cameron, who was here on this podcast, that he was able to heal
-    his dog, Nellie from, you know, when she was like spurting blood across the house
-    and just putting his hands on the dog. And then another instance of him healing
-    a child that was pretty much, um, a make a wish kid. and very little time to live,
-    had like intestinal problems.
-  claim_type: hearsay
-  attestation: null
-  speaker:
-    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-    title: Chris Ramsay
-  provenance_chain: null
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-    title: Chris Ramsay
-    slug: chris-ramsay
-  - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
-    title: Christopher Bledsoe
-    slug: christopher-bledsoe
-  date: null
-  date_end: null
-  location_in_record: 00:26:41.3-00:27:15.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
-    record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik
-      Nanstiel | DEBRIEFED ep. 85'
-    record_date: '2026-04-24'
-    record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
-    content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
-    friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
-- claim_id: 2641fd34-5bc3-4498-8822-fe23daade974
-  claim_hash: be455f63e4fe9e01ee1ca56b271493769e133dfd2fe6ff0db8afec4f4b1fb059
-  content: Ryan Bledsoe has recounted that Jim Semivan told him the Bledsoe family
-    are thought to be hybrids and that their experiences may be due to having more,
-    or a certain strand of, non-human DNA.
-  original_excerpt: he recounts a conversation he had with Jim Semivan... Semivan
-    purportedly told him, we think you're hybrids. reason you're having these experiences
-    is because you may have more non-human DNA or a certain strand of non-human DNA.
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: named
-    origin: Jim Semivan
-    relay:
-    - Ryan Bledsoe
-    - Jason Samosa
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
-    title: Jim Semivan
-    slug: jim-semivan
-  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-    title: human-alien hybridization
-    slug: human-alien-hybridization
-  - node_id: 6cc97343-1634-45fa-9c85-4325f72a109c
-    title: Ryan Bledsoe
-    slug: ryan-bledsoe
-  - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
-    title: Christopher Bledsoe
-    slug: christopher-bledsoe
+    shared_claims: 2
   - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
     title: Jason Samosa
+    node_type: person
     slug: jason-samosa
-  date: null
-  date_end: null
-  location_in_record: 02:11:25.4-02:11:39.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
+    title: Jim Semivan
+    node_type: person
+    slug: jim-semivan
+    shared_claims: 1
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    node_type: place
+    slug: south-carolina-usa
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 0bff28f6-286b-4621-a892-2a10e0d8b9f3
+    title: Unidentified Flying Object (UFO) of God
+    node_type: document
+    slug: unidentified-flying-object-ufo-of-god
+    shared_claims: 1
+  - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
+    title: angel hair
+    node_type: topic
+    slug: angel-hair
+    shared_claims: 1
+  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+    title: human-alien hybridization
+    node_type: topic
+    slug: human-alien-hybridization
+    shared_claims: 1
+claims:
+  - claim_id: ee399a00-439a-446d-b160-3e1ed33c39c8
+    claim_hash: 8a5d3137a64c6e0ed326b1740ce4cd459559071e55be6e7a55dd64678b113f8b
+    content: Christopher Bledsoe is a Baptist from North Carolina who had been a pilot and owned a successful construction
+      business.
+    original_excerpt: Christopher Bledsoe, a Baptist from North Carolina, had been a pilot and owned a successful construction
+      business.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+        title: USA, South Carolina
+        slug: south-carolina-usa
+      - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
+    date: null
+    date_end: null
+    location_in_record: ch7:7764-7869
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: ba7b0c3f-c45f-4335-b952-59be10e48764
+    claim_hash: 2e6f4137973b5212b47b898ede4bc2a17f17bb269b85372be01cd42516787484
+    content: Christopher Bledsoe had a profound UFO sighting that he interpreted as an extension of his own religious tradition.
+    original_excerpt: He had a profound UFO sighting that he interpreted as an extension of his own religious tradition.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+      title: Christopher Bledsoe
+    provenance_chain:
+      origin_kind: named
+      origin: Christopher Bledsoe
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch7:7879-7967
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 4cd421ad-796d-4798-ac32-c1a0b27db190
+    claim_hash: 1cc960e89873e8a12c7294d44508e7198d4bde8e7cbe9970ef3a7ffbf492ec06
+    content: Christopher Bledsoe's congregation rejected his interpretation of his UFO sighting and called the experience
+      demonic.
+    original_excerpt: His congregation rejected his interpretation and called the experience demonic.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
+    date: null
+    date_end: null
+    location_in_record: ch7:7978-8049
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 98f13624-4f98-471b-9f91-77f232dbab59
+    claim_hash: a8620f755c5257db0a33e9efd4f7149e49cbfbe0b898fc2e72e76acc5f996e84
+    content: Christopher Bledsoe struggled for several years following his UFO experience, which alienated him from his community,
+      though he now seems at peace with his conversion.
+    original_excerpt: For Bledsoe, this was an agonizing process that alienated him from his community and changed his life.
+      Bledsoe struggled for several years, although he now seems at peace with his conversion.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
+    date: null
+    date_end: null
+    location_in_record: ch7:8058-8238
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 92ff6310-e1df-4f98-bf04-8db4c8e96d28
+    claim_hash: 11c745a1a77a7c52072c8d5f8969d18597fa4cb4d5d96c7b338b1812f81ea2d7
+    content: Chris Ramsey visited Chris Bledsoe in North Carolina.
+    original_excerpt: Really interesting because when I went out to North Carolina recently to visit Chris Bledsoe, who I'll
+      mention a little bit later as well
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsey
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
+    date: null
+    date_end: null
+    location_in_record: 00:04:48.1-00:04:55.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+      record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep. 10
+      record_date: '2024-10-18'
+      record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+      content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+      friendly_name: null
+  - claim_id: 7ebb8b36-28dd-4e1f-a870-2e82b9ceccbb
+    claim_hash: ab692130665a6be075e50c083d32b492855fafa259322ac66fcacb7184c2b13d
+    content: Ryan Bledsoe is the son of Chris Bledsoe and hosts a podcast.
+    original_excerpt: I was with Ryan Bledsoe, his son, who has a podcast.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsey
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6cc97343-1634-45fa-9c85-4325f72a109c
+        title: Ryan Bledsoe
+        slug: ryan-bledsoe
+      - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
+    date: null
+    date_end: null
+    location_in_record: 00:05:06.7-00:05:08.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+      record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep. 10
+      record_date: '2024-10-18'
+      record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+      content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+      friendly_name: null
+  - claim_id: 01113d7f-dfb5-4f52-8f40-fc99d8018493
+    claim_hash: aa1074a104aa25ff1c5aa931de83b4ca0a0efee94d3a4b0350d04cf70f9890d5
+    content: Chris Bledsoe has been in touch with many factions of intelligence agencies in the United States.
+    original_excerpt: who has obviously been in touch with many, many factions of intelligence agencies in the United States.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsey
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
+    date: null
+    date_end: null
+    location_in_record: 00:19:18.0-00:19:26.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+      record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep. 10
+      record_date: '2024-10-18'
+      record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+      content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+      friendly_name: null
+  - claim_id: 5c0f9d8b-6f33-4c5a-ac64-83bed3445f8a
+    claim_hash: d52c0fe24056e8d0d092b077b2ece220b45d11a753465b3c467c9cc338624946
+    content: In his book, Chris Bledsoe details an orb dripping an unknown substance onto his driveway.
+    original_excerpt: in his book, he details the fact that one of these orbs ended up dripping a unknown substance onto his
+      driveway.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Chris Bledsoe
+      relay:
+        - UFO of God
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0bff28f6-286b-4621-a892-2a10e0d8b9f3
+        title: Unidentified Flying Object (UFO) of God
+        slug: unidentified-flying-object-ufo-of-god
+      - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
+    date: null
+    date_end: null
+    location_in_record: 00:19:30.6-00:19:36.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+      record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep. 10
+      record_date: '2024-10-18'
+      record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+      content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+      friendly_name: null
+  - claim_id: 411ec94c-8862-45c6-8511-1ad5681c4512
+    claim_hash: 10e07afabdaa156ec680797ee91664d351b47cf0c9e99beea7c527791e9ba4ce
+    content: Chris Bledsoe's account of an orb dripping a substance onto his driveway predates public discussion of angel
+      hair by years.
+    original_excerpt: Now, this is years before we heard about this, which is really interesting.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsey
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
+      - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
+        title: angel hair
+        slug: angel-hair
+    date: null
+    date_end: null
+    location_in_record: 00:19:38.1-00:19:41.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+      record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep. 10
+      record_date: '2024-10-18'
+      record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+      content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+      friendly_name: null
+  - claim_id: fc8935e9-c612-44bb-afb0-229b0a10384e
+    claim_hash: c6282acc58fb80305e66c2cc49147068081aca56818b430be53b437caeb3be78
+    content: Chris Bledsoe wrote in his book that he was able to heal his dog Nellie, who was spurting blood across the house,
+      by putting his hands on her, and also healed a Make-A-Wish child with intestinal problems and little time to live, whose
+      problems went away after he laid his hands on the child.
+    original_excerpt: he writes in his book that he was able to, and this was corroborated actually by Grant Cameron, who
+      was here on this podcast, that he was able to heal his dog, Nellie from, you know, when she was like spurting blood
+      across the house and just putting his hands on the dog. And then another instance of him healing a child that was pretty
+      much, um, a make a wish kid. and very little time to live, had like intestinal problems.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
+    date: null
+    date_end: null
+    location_in_record: 00:26:41.3-00:27:15.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+      record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel | DEBRIEFED ep. 85'
+      record_date: '2026-04-24'
+      record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+      content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+      friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+  - claim_id: 2641fd34-5bc3-4498-8822-fe23daade974
+    claim_hash: be455f63e4fe9e01ee1ca56b271493769e133dfd2fe6ff0db8afec4f4b1fb059
+    content: Ryan Bledsoe has recounted that Jim Semivan told him the Bledsoe family are thought to be hybrids and that their
+      experiences may be due to having more, or a certain strand of, non-human DNA.
+    original_excerpt: he recounts a conversation he had with Jim Semivan... Semivan purportedly told him, we think you're
+      hybrids. reason you're having these experiences is because you may have more non-human DNA or a certain strand of non-human
+      DNA.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Jim Semivan
+      relay:
+        - Ryan Bledsoe
+        - Jason Samosa
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
+        title: Jim Semivan
+        slug: jim-semivan
+      - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+        title: human-alien hybridization
+        slug: human-alien-hybridization
+      - node_id: 6cc97343-1634-45fa-9c85-4325f72a109c
+        title: Ryan Bledsoe
+        slug: ryan-bledsoe
+      - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:11:25.4-02:11:39.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

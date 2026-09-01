@@ -9,694 +9,706 @@ page:
   claim_count: 16
   claim_count_total: 16
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 16
+  tokens_estimated: 4856
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 16
 related_nodes:
-- node_id: 2cd43e15-d4db-44fc-af72-147d9343c54c
-  title: George Hunt Williamson
-  node_type: person
-  slug: george-hunt-williamson
-  shared_claims: 4
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 3
-- node_id: 2033dabc-4df6-41f0-b6d7-fede336c84c0
-  title: William Dudley Pelley
-  node_type: person
-  slug: william-dudley-pelley
-  shared_claims: 2
-- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-  title: Chris Ramsay
-  node_type: person
-  slug: chris-ramsay
-  shared_claims: 1
-- node_id: e78a2d43-47c9-41e6-b8a3-ecb2b4f5e88f
-  title: Desmond Leslie
-  node_type: person
-  slug: desmond-leslie
-  shared_claims: 1
-- node_id: bfa924c0-df8c-4a14-beab-33c3be4f3d14
-  title: Flying Saucers Have Landed
-  node_type: document
-  slug: flying-saucers-have-landed
-  shared_claims: 1
-- node_id: df64c782-8846-4816-a4e2-94fd170afe2c
-  title: France, Canigou
-  node_type: place
-  slug: canigou-france
-  shared_claims: 1
-- node_id: a15aeadc-4943-47a3-9106-15760ca8583b
-  title: Ireland, County Fermanagh, Lough Erne
-  node_type: place
-  slug: county-fermanagh-lough-erne-ireland
-  shared_claims: 1
-- node_id: 7ca328c7-c456-49e5-be70-f27eebdda884
-  title: Italy, Valverde
-  node_type: place
-  slug: valverde-italy
-  shared_claims: 1
-- node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
-  title: Jacques Bordas
-  node_type: person
-  slug: jacques-bordas
-  shared_claims: 1
-- node_id: dbfe20f2-ed28-46f7-b844-a778d7814b06
-  title: Point Loma Naval Electronics Laboratory
-  node_type: organisation
-  slug: point-loma-naval-electronics-laboratory
-  shared_claims: 1
-- node_id: 0f133ad0-e26c-456a-8209-6a3e1c484d23
-  title: Study Center of Cosmic Fraternity
-  node_type: organisation
-  slug: study-center-of-cosmic-fraternity
-  shared_claims: 1
-- node_id: 1b9339d2-39f0-4a42-8691-8b80b6958982
-  title: Tuatha de Danann
-  node_type: topic
-  slug: tuatha-de-danann
-  shared_claims: 1
-- node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
-  title: USA, California, Pasadena
-  node_type: place
-  slug: california-pasadena-usa
-  shared_claims: 1
-- node_id: 711d280b-1597-426c-abe2-da4178e73e04
-  title: USA, California, San Diego, Point Loma
-  node_type: place
-  slug: california-san-diego-point-loma-usa
-  shared_claims: 1
-- node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-  title: alien abduction
-  node_type: topic
-  slug: alien-abduction
-  shared_claims: 1
-- node_id: 30940882-37a5-4db5-980d-282dafd2df49
-  title: nonhuman intelligence (Nonhuman Intelligence (NHI))
-  node_type: topic
-  slug: nonhuman-intelligence-nonhuman-intelligence-nhi
-  shared_claims: 1
-claims:
-- claim_id: 28647784-c3a2-4f27-a173-ce9ad31dd9b8
-  claim_hash: 2b8089189ddcd0d50a90377706f72f4f1cb550732952f98630d080989d4075ba
-  content: Adamski's Venusian contact, the Stranger of the Canigou seen by Jacques
-    Bordas, and many other alleged extraterrestrials were described as tall Aryan
-    types with long blond hair.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    slug: george-adamski
-  - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
-    title: Jacques Bordas
-    slug: jacques-bordas
-  - node_id: df64c782-8846-4816-a4e2-94fd170afe2c
-    title: France, Canigou
-    slug: canigou-france
-  date: null
-  date_end: null
-  location_in_record: ch10:23437-23612
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 45749dcf-ef6c-407e-8ebf-4c47d1c1fd0d
-  claim_hash: 9a0868e5e7a333f9a584e7af3b2e0e2fea02ad894f07646742a7e082ade0aaf0
-  content: Jacques Vallée received a communication from Valverde, Italy, typed on
-    stationery of the Study Center of Cosmic Fraternity, whose symbol is the Adamski
-    saucer with two stars shaking hands underneath.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay:
-    - a letter
-  attribution_mode: unknown
-  node_refs:
+  - node_id: 2cd43e15-d4db-44fc-af72-147d9343c54c
+    title: George Hunt Williamson
+    node_type: person
+    slug: george-hunt-williamson
+    shared_claims: 4
   - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
     title: Jacques Vallée
+    node_type: person
     slug: jacques-vallee
-  - node_id: 0f133ad0-e26c-456a-8209-6a3e1c484d23
-    title: Study Center of Cosmic Fraternity
-    slug: study-center-of-cosmic-fraternity
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    slug: george-adamski
-  - node_id: 7ca328c7-c456-49e5-be70-f27eebdda884
-    title: Italy, Valverde
-    slug: valverde-italy
-  date: null
-  date_end: null
-  location_in_record: ch10:49652-49823
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: be198323-658e-4a49-849b-b06bc04b2ae8
-  claim_hash: 24241530833d9dfba1fd2247c9cdf11ee24512bfacf2782b8f446869128575d0
-  content: According to some of Jacques Vallée's own informants, contactee George
-    Adamski had prewar connections with American fascist leader William Dudley Pelley,
-    who was interned during World War II.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to be an informant of Jacques Vallée
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    slug: george-adamski
+    shared_claims: 3
   - node_id: 2033dabc-4df6-41f0-b6d7-fede336c84c0
     title: William Dudley Pelley
+    node_type: person
     slug: william-dudley-pelley
-  date: null
-  date_end: null
-  location_in_record: ch13:10460-10628
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 8692b390-92b3-4e95-88d0-864aff3962c1
-  claim_hash: 26a24d4a319d14551095c7b960c94f6217ce174bf46d960c31d331c32d5b57a3
-  content: William Dudley Pelley may have put George Hunt Williamson in touch with
-    George Adamski.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    slug: george-adamski
-  - node_id: 2033dabc-4df6-41f0-b6d7-fede336c84c0
-    title: William Dudley Pelley
-    slug: william-dudley-pelley
-  - node_id: 2cd43e15-d4db-44fc-af72-147d9343c54c
-    title: George Hunt Williamson
-    slug: george-hunt-williamson
-  date: null
-  date_end: null
-  location_in_record: ch13:10802-10856
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 8d18c88e-9709-49f5-a0e2-f6d6d97de1d2
-  claim_hash: aaa0cddd6d636c645eb628c8cefc3e9e987c38166de613810dcf9aa4cbdef29e
-  content: George Hunt Williamson witnessed George Adamski's desert contact with a
-    Venusian with long blond hair on 1952-11-20.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: named
-    origin: George Hunt Williamson
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    slug: george-adamski
-  - node_id: 2cd43e15-d4db-44fc-af72-147d9343c54c
-    title: George Hunt Williamson
-    slug: george-hunt-williamson
-  date: '1952-11-20'
-  date_end: null
-  location_in_record: ch13:12001-12099
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 5dd24064-d26d-4bcd-87fc-c690fb45797f
-  claim_hash: 0100167672fbfcbd184369a8a4fcb7a1ce39cc5ae7467791057d161bc2d542e1
-  content: George Adamski gave credit to four United States government scientists
-    for launching his career as an ambassador for the Space Brothers.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: George Adamski
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    slug: george-adamski
-  date: null
-  date_end: null
-  location_in_record: ch13:33674-33792
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: d4af8fd0-2a00-4a31-8673-93805364c288
-  claim_hash: c4e327c922414b494b5607c0a1e3e70814b79d7401ff3d7ea18b87cd5613ed32
-  content: The four scientists credited by George Adamski were from the Point Loma
-    Naval Electronics Laboratory near San Diego, California, and from a similar setup
-    in Pasadena, California.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: George Adamski
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    slug: george-adamski
-  - node_id: 711d280b-1597-426c-abe2-da4178e73e04
-    title: USA, California, San Diego, Point Loma
-    slug: california-san-diego-point-loma-usa
-  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
-    title: USA, California, Pasadena
-    slug: california-pasadena-usa
-  - node_id: dbfe20f2-ed28-46f7-b844-a778d7814b06
-    title: Point Loma Naval Electronics Laboratory
-    slug: point-loma-naval-electronics-laboratory
-  date: null
-  date_end: null
-  location_in_record: ch13:33803-33908
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: fa809565-a0ef-483e-be31-aadb0fbd9394
-  claim_hash: b92935b41a6587871b3ad518b245e3bd08f237094549607769c5fbc8f2985b05
-  content: Those government scientists allegedly asked George Adamski if he would
-    cooperate in the collective attempt to get photographs of the strange craft moving
-    through space.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: George Adamski
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    slug: george-adamski
-  date: null
-  date_end: null
-  location_in_record: ch13:33918-34047
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 01dc688b-5aae-421e-9de2-d8438519ac9f
-  claim_hash: c2a731130ff6dab0fa130236cabe9d2a5eb8eeb6ca8dfdd9c0a8a9c23d5c1950
-  content: George Adamski's major supporter abroad was a former Intelligence officer
-    with the British Army and a Cambridge engineering graduate who lived in Mexico.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    slug: george-adamski
-  date: null
-  date_end: null
-  location_in_record: ch13:34055-34200
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 1ef23527-d0f9-446b-9811-db8978865a76
-  claim_hash: 2d3a79a7344017180b0cadbd98b9bf6ec350f311cfb7a5ba4b6d014170bc2b15
-  content: According to a man who hosted George Adamski during his tour of Australia,
-    Adamski was traveling with a passport bearing special privileges.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a man who hosted George Adamski during his tour of Australia
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    slug: george-adamski
-  date: null
-  date_end: null
-  location_in_record: ch13:34212-34329
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: c897e310-cdcf-4676-b8cf-9d9d90d04fad
-  claim_hash: ee81938ac7ac7db76369faf1b62933b89fd9449f4c39bf358e0214cca5d1c40e
-  content: Jacques Vallée traced links of the belief that some people are of extraterrestrial
-    blood and therefore superior to the rest of mankind around the early contactees
-    George Hunt Williamson and George Adamski and their associates.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    slug: george-adamski
-  - node_id: 2cd43e15-d4db-44fc-af72-147d9343c54c
-    title: George Hunt Williamson
-    slug: george-hunt-williamson
-  date: null
-  date_end: null
-  location_in_record: ch13:459-561
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: a8b3c146-e806-42df-83b9-4cdfdec893b7
-  claim_hash: 145983b86cb76afb27b93fa3a0a7626ad4547d793d8a4b2eec9c3583c24fea07
-  content: George Adamski, described as a false professor, claimed to have had meetings
-    with Venusian spacemen.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: named
-    origin: George Adamski
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    slug: george-adamski
-  date: null
-  date_end: null
-  location_in_record: ch3:2275-2335
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 7cc4aea8-8b8b-403b-9f14-ff8605de8f01
-  claim_hash: 5d589e284c565d526d0f0c0056d2b1edcac8be584e3e4f38006b69b0d6e9a1ba
-  content: George Adamski described an alleged meeting with a tall entity with long
-    blond hair, but no one else witnessed the event.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    slug: george-adamski
-  date: null
-  date_end: null
-  location_in_record: ch9:30224-30365
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 42474342-2acc-4d09-ab85-2f7f886bde00
-  claim_hash: 9e46f97487c92c45465a42de220fea7c60cb4501855226d3bf1c71bacc7fcf38
-  content: George Hunt Williamson assured Jacques Vallée that he had seen George Adamski's
-    craft in flight.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: named
-    origin: George Hunt Williamson
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    slug: george-adamski
-  - node_id: 2cd43e15-d4db-44fc-af72-147d9343c54c
-    title: George Hunt Williamson
-    slug: george-hunt-williamson
-  date: null
-  date_end: null
-  location_in_record: ch9:30381-30445
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 7e781da4-98b0-4a67-b0df-74d54dfe0433
-  claim_hash: db1070560648b7cea34fa1890d42e5c617dc78cd6a4893f1d268f6d6d98cc9b6
-  content: Desmond Leslie, in the 1970 edition of Flying Saucers Have Landed co-written
-    with George Adamski, suggested that Celtic scholars re-examine the Tuatha de Danaan
-    legends, describing them as a semi-mythical magical race of "gods" who descended
-    from the sky and made their headquarters on and around Lough Erne, County Fermanagh,
-    and who were people of fair skin, red-golden hair, and green eyes.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: e78a2d43-47c9-41e6-b8a3-ecb2b4f5e88f
-    title: Desmond Leslie
-  provenance_chain:
-    origin_kind: named
-    origin: Desmond Leslie
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    slug: george-adamski
-  - node_id: 1b9339d2-39f0-4a42-8691-8b80b6958982
-    title: Tuatha de Danann
-    slug: tuatha-de-danann
-  - node_id: a15aeadc-4943-47a3-9106-15760ca8583b
-    title: Ireland, County Fermanagh, Lough Erne
-    slug: county-fermanagh-lough-erne-ireland
-  - node_id: bfa924c0-df8c-4a14-beab-33c3be4f3d14
-    title: Flying Saucers Have Landed
-    slug: flying-saucers-have-landed
-  - node_id: e78a2d43-47c9-41e6-b8a3-ecb2b4f5e88f
-    title: Desmond Leslie
-    slug: desmond-leslie
-  date: null
-  date_end: null
-  location_in_record: ch23:57074-57479
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 158c07c9-64d7-4503-9d83-e23fd54c5ea9
-  claim_hash: 7c1f242d048aef44ae17ab7ff60335447868d709280ef0e582e3b304ac89b2da
-  content: Chris Ramsay describes reported alien encounters, including with Nordic-type
-    beings described by George Adamski, with mantis-like insectoid beings and with
-    greys, as consistently accompanied by a sense of familiarity, love, compassion
-    and calm and an impression that the beings mean the witness no harm.
-  original_excerpt: whether you're talking about like the, the sort of blonde, you
-    know, uh, blue-eyed, blajaran, Nordic ... George Adamski spoke about ... whether
-    they're these insect mantis looking creatures or whether it's the greys or whatever,
-    but they always feel flooded with this sense of a familiarity, but then the sense
-    of love and compassion, like they mean you no harm.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-    title: Chris Ramsay
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chris Ramsay
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    slug: george-adamski
+    shared_claims: 2
   - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
     title: Chris Ramsay
+    node_type: person
     slug: chris-ramsay
-  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-    title: nonhuman intelligence (Nonhuman Intelligence (NHI))
-    slug: nonhuman-intelligence-nonhuman-intelligence-nhi
+    shared_claims: 1
+  - node_id: e78a2d43-47c9-41e6-b8a3-ecb2b4f5e88f
+    title: Desmond Leslie
+    node_type: person
+    slug: desmond-leslie
+    shared_claims: 1
+  - node_id: bfa924c0-df8c-4a14-beab-33c3be4f3d14
+    title: Flying Saucers Have Landed
+    node_type: document
+    slug: flying-saucers-have-landed
+    shared_claims: 1
+  - node_id: df64c782-8846-4816-a4e2-94fd170afe2c
+    title: France, Canigou
+    node_type: place
+    slug: canigou-france
+    shared_claims: 1
+  - node_id: a15aeadc-4943-47a3-9106-15760ca8583b
+    title: Ireland, County Fermanagh, Lough Erne
+    node_type: place
+    slug: county-fermanagh-lough-erne-ireland
+    shared_claims: 1
+  - node_id: 7ca328c7-c456-49e5-be70-f27eebdda884
+    title: Italy, Valverde
+    node_type: place
+    slug: valverde-italy
+    shared_claims: 1
+  - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
+    title: Jacques Bordas
+    node_type: person
+    slug: jacques-bordas
+    shared_claims: 1
+  - node_id: dbfe20f2-ed28-46f7-b844-a778d7814b06
+    title: Point Loma Naval Electronics Laboratory
+    node_type: organisation
+    slug: point-loma-naval-electronics-laboratory
+    shared_claims: 1
+  - node_id: 0f133ad0-e26c-456a-8209-6a3e1c484d23
+    title: Study Center of Cosmic Fraternity
+    node_type: organisation
+    slug: study-center-of-cosmic-fraternity
+    shared_claims: 1
+  - node_id: 1b9339d2-39f0-4a42-8691-8b80b6958982
+    title: Tuatha de Danann
+    node_type: topic
+    slug: tuatha-de-danann
+    shared_claims: 1
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    node_type: place
+    slug: california-pasadena-usa
+    shared_claims: 1
+  - node_id: 711d280b-1597-426c-abe2-da4178e73e04
+    title: USA, California, San Diego, Point Loma
+    node_type: place
+    slug: california-san-diego-point-loma-usa
+    shared_claims: 1
   - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
     title: alien abduction
+    node_type: topic
     slug: alien-abduction
-  date: null
-  date_end: null
-  location_in_record: 01:03:17.3-01:03:43.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+    title: nonhuman intelligence (NHI)
+    node_type: topic
+    slug: nonhuman-intelligence-nhi
+    shared_claims: 1
+claims:
+  - claim_id: 28647784-c3a2-4f27-a173-ce9ad31dd9b8
+    claim_hash: 2b8089189ddcd0d50a90377706f72f4f1cb550732952f98630d080989d4075ba
+    content: Adamski's Venusian contact, the Stranger of the Canigou seen by Jacques Bordas, and many other alleged extraterrestrials
+      were described as tall Aryan types with long blond hair.
+    original_excerpt: Let us note in passing that Adamski’s Venusian, the Stranger of the Canigou seen by Bordas, and many
+      other alleged extraterrestrials were all tall Aryan types with long blond hair.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+      - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
+        title: Jacques Bordas
+        slug: jacques-bordas
+      - node_id: df64c782-8846-4816-a4e2-94fd170afe2c
+        title: France, Canigou
+        slug: canigou-france
+    date: null
+    date_end: null
+    location_in_record: ch10:23437-23612
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 45749dcf-ef6c-407e-8ebf-4c47d1c1fd0d
+    claim_hash: 9a0868e5e7a333f9a584e7af3b2e0e2fea02ad894f07646742a7e082ade0aaf0
+    content: Jacques Vallée received a communication from Valverde, Italy, typed on stationery of the Study Center of Cosmic
+      Fraternity, whose symbol is the Adamski saucer with two stars shaking hands underneath.
+    original_excerpt: This one came from Valverde, Italy. It was typed on stationery of the “Study Center of Cosmic Fraternity,”
+      whose symbol is the Adamski saucer with two stars shaking hands underneath.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay:
+        - a letter
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 0f133ad0-e26c-456a-8209-6a3e1c484d23
+        title: Study Center of Cosmic Fraternity
+        slug: study-center-of-cosmic-fraternity
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+      - node_id: 7ca328c7-c456-49e5-be70-f27eebdda884
+        title: Italy, Valverde
+        slug: valverde-italy
+    date: null
+    date_end: null
+    location_in_record: ch10:49652-49823
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: be198323-658e-4a49-849b-b06bc04b2ae8
+    claim_hash: 24241530833d9dfba1fd2247c9cdf11ee24512bfacf2782b8f446869128575d0
+    content: According to some of Jacques Vallée's own informants, contactee George Adamski had prewar connections with American
+      fascist leader William Dudley Pelley, who was interned during World War II.
+    original_excerpt: According to some of my own informants, contactee George Adamski had prewar connections with American
+      fascist leader William Dudley Pelley, who was interned during the war.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be an informant of Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+      - node_id: 2033dabc-4df6-41f0-b6d7-fede336c84c0
+        title: William Dudley Pelley
+        slug: william-dudley-pelley
+    date: null
+    date_end: null
+    location_in_record: ch13:10460-10628
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 8692b390-92b3-4e95-88d0-864aff3962c1
+    claim_hash: 26a24d4a319d14551095c7b960c94f6217ce174bf46d960c31d331c32d5b57a3
+    content: William Dudley Pelley may have put George Hunt Williamson in touch with George Adamski.
+    original_excerpt: In fact, Pelley may have put Williamson in touch with Adamski.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+      - node_id: 2033dabc-4df6-41f0-b6d7-fede336c84c0
+        title: William Dudley Pelley
+        slug: william-dudley-pelley
+      - node_id: 2cd43e15-d4db-44fc-af72-147d9343c54c
+        title: George Hunt Williamson
+        slug: george-hunt-williamson
+    date: null
+    date_end: null
+    location_in_record: ch13:10802-10856
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 8d18c88e-9709-49f5-a0e2-f6d6d97de1d2
+    claim_hash: aaa0cddd6d636c645eb628c8cefc3e9e987c38166de613810dcf9aa4cbdef29e
+    content: George Hunt Williamson witnessed George Adamski's desert contact with a Venusian with long blond hair on 1952-11-20.
+    original_excerpt: where he witnessed Adamski's desert contact on November 20, 1952, with a Venusian with long blond hair.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: George Hunt Williamson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+      - node_id: 2cd43e15-d4db-44fc-af72-147d9343c54c
+        title: George Hunt Williamson
+        slug: george-hunt-williamson
+    date: '1952-11-20'
+    date_end: null
+    location_in_record: ch13:12001-12099
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 5dd24064-d26d-4bcd-87fc-c690fb45797f
+    claim_hash: 0100167672fbfcbd184369a8a4fcb7a1ce39cc5ae7467791057d161bc2d542e1
+    content: George Adamski gave credit to four United States government scientists for launching his career as an ambassador
+      for the Space Brothers.
+    original_excerpt: George Adamski gave credit to four U.S. government scientists for launching his career as an ambassador
+      for the Space Brothers.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: George Adamski
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+    date: null
+    date_end: null
+    location_in_record: ch13:33674-33792
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: d4af8fd0-2a00-4a31-8673-93805364c288
+    claim_hash: c4e327c922414b494b5607c0a1e3e70814b79d7401ff3d7ea18b87cd5613ed32
+    content: The four scientists credited by George Adamski were from the Point Loma Naval Electronics Laboratory near San
+      Diego, California, and from a similar setup in Pasadena, California.
+    original_excerpt: They were from the Point Loma Naval Electronics Laboratory near San Diego, and from a “similar setup”
+      in Pasadena.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: George Adamski
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+      - node_id: 711d280b-1597-426c-abe2-da4178e73e04
+        title: USA, California, San Diego, Point Loma
+        slug: california-san-diego-point-loma-usa
+      - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+        title: USA, California, Pasadena
+        slug: california-pasadena-usa
+      - node_id: dbfe20f2-ed28-46f7-b844-a778d7814b06
+        title: Point Loma Naval Electronics Laboratory
+        slug: point-loma-naval-electronics-laboratory
+    date: null
+    date_end: null
+    location_in_record: ch13:33803-33908
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: fa809565-a0ef-483e-be31-aadb0fbd9394
+    claim_hash: b92935b41a6587871b3ad518b245e3bd08f237094549607769c5fbc8f2985b05
+    content: Those government scientists allegedly asked George Adamski if he would cooperate in the collective attempt to
+      get photographs of the strange craft moving through space.
+    original_excerpt: They allegedly asked him if he would “cooperate in the collective attempt to get photographs of the
+      strange craft moving through space.”
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: George Adamski
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+    date: null
+    date_end: null
+    location_in_record: ch13:33918-34047
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 01dc688b-5aae-421e-9de2-d8438519ac9f
+    claim_hash: c2a731130ff6dab0fa130236cabe9d2a5eb8eeb6ca8dfdd9c0a8a9c23d5c1950
+    content: George Adamski's major supporter abroad was a former Intelligence officer with the British Army and a Cambridge
+      engineering graduate who lived in Mexico.
+    original_excerpt: Adamski's major supporter abroad was a former Intelligence officer with the British Army, and a Cambridge
+      engineering graduate, who now lives in Mexico.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+    date: null
+    date_end: null
+    location_in_record: ch13:34055-34200
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 1ef23527-d0f9-446b-9811-db8978865a76
+    claim_hash: 2d3a79a7344017180b0cadbd98b9bf6ec350f311cfb7a5ba4b6d014170bc2b15
+    content: According to a man who hosted George Adamski during his tour of Australia, Adamski was traveling with a passport
+      bearing special privileges.
+    original_excerpt: according to a man who hosted Adamski during his tour of Australia, he was traveling with a passport
+      bearing special privileges.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a man who hosted George Adamski during his tour of Australia
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+    date: null
+    date_end: null
+    location_in_record: ch13:34212-34329
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: c897e310-cdcf-4676-b8cf-9d9d90d04fad
+    claim_hash: ee81938ac7ac7db76369faf1b62933b89fd9449f4c39bf358e0214cca5d1c40e
+    content: Jacques Vallée traced links of the belief that some people are of extraterrestrial blood and therefore superior
+      to the rest of mankind around the early contactees George Hunt Williamson and George Adamski and their associates.
+    original_excerpt: I have shown this process to be at work around the early contactees, Williamson and Adamski and their
+      associates.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+      - node_id: 2cd43e15-d4db-44fc-af72-147d9343c54c
+        title: George Hunt Williamson
+        slug: george-hunt-williamson
+    date: null
+    date_end: null
+    location_in_record: ch13:459-561
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: a8b3c146-e806-42df-83b9-4cdfdec893b7
+    claim_hash: 145983b86cb76afb27b93fa3a0a7626ad4547d793d8a4b2eec9c3583c24fea07
+    content: George Adamski, described as a false professor, claimed to have had meetings with Venusian spacemen.
+    original_excerpt: the false professor George Adamski’s meetings with Venusian spacemen
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: George Adamski
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+    date: null
+    date_end: null
+    location_in_record: ch3:2275-2335
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 7cc4aea8-8b8b-403b-9f14-ff8605de8f01
+    claim_hash: 5d589e284c565d526d0f0c0056d2b1edcac8be584e3e4f38006b69b0d6e9a1ba
+    content: George Adamski described an alleged meeting with a tall entity with long blond hair, but no one else witnessed
+      the event.
+    original_excerpt: George Adamski, for instance, has described an alleged meeting with a tall entity with long blond hair,
+      but no one else was a witness to the event
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+    date: null
+    date_end: null
+    location_in_record: ch9:30224-30365
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 42474342-2acc-4d09-ab85-2f7f886bde00
+    claim_hash: 9e46f97487c92c45465a42de220fea7c60cb4501855226d3bf1c71bacc7fcf38
+    content: George Hunt Williamson assured Jacques Vallée that he had seen George Adamski's craft in flight.
+    original_excerpt: George Hunt Williamson assured me that he had seen the craft in flight.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: George Hunt Williamson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+      - node_id: 2cd43e15-d4db-44fc-af72-147d9343c54c
+        title: George Hunt Williamson
+        slug: george-hunt-williamson
+    date: null
+    date_end: null
+    location_in_record: ch9:30381-30445
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 7e781da4-98b0-4a67-b0df-74d54dfe0433
+    claim_hash: db1070560648b7cea34fa1890d42e5c617dc78cd6a4893f1d268f6d6d98cc9b6
+    content: Desmond Leslie, in the 1970 edition of Flying Saucers Have Landed co-written with George Adamski, suggested that
+      Celtic scholars re-examine the Tuatha de Danaan legends, describing them as a semi-mythical magical race of "gods" who
+      descended from the sky and made their headquarters on and around Lough Erne, County Fermanagh, and who were people of
+      fair skin, red-golden hair, and green eyes.
+    original_excerpt: By the 1970 edition of his collaboration with George Adamski, Flying Saucers Have Landed, the delightfully
+      eccentric Desmond Leslie suggests, “Celtic scholars might do well to reexamine the Tuatha de Danaan legends; that semi-mythical
+      magical race of ‘gods’ who descended from the sky and made their headquarters on and around Lough Erne, County Fermanagh;
+      people of fair skin, red-golden hair, and green eyes.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: e78a2d43-47c9-41e6-b8a3-ecb2b4f5e88f
+      title: Desmond Leslie
+    provenance_chain:
+      origin_kind: named
+      origin: Desmond Leslie
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+      - node_id: 1b9339d2-39f0-4a42-8691-8b80b6958982
+        title: Tuatha de Danann
+        slug: tuatha-de-danann
+      - node_id: a15aeadc-4943-47a3-9106-15760ca8583b
+        title: Ireland, County Fermanagh, Lough Erne
+        slug: county-fermanagh-lough-erne-ireland
+      - node_id: bfa924c0-df8c-4a14-beab-33c3be4f3d14
+        title: Flying Saucers Have Landed
+        slug: flying-saucers-have-landed
+      - node_id: e78a2d43-47c9-41e6-b8a3-ecb2b4f5e88f
+        title: Desmond Leslie
+        slug: desmond-leslie
+    date: null
+    date_end: null
+    location_in_record: ch23:57074-57479
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 158c07c9-64d7-4503-9d83-e23fd54c5ea9
+    claim_hash: 7c1f242d048aef44ae17ab7ff60335447868d709280ef0e582e3b304ac89b2da
+    content: Chris Ramsay describes reported alien encounters, including with Nordic-type beings described by George Adamski,
+      with mantis-like insectoid beings and with greys, as consistently accompanied by a sense of familiarity, love, compassion
+      and calm and an impression that the beings mean the witness no harm.
+    original_excerpt: whether you're talking about like the, the sort of blonde, you know, uh, blue-eyed, blajaran, Nordic
+      ... George Adamski spoke about ... whether they're these insect mantis looking creatures or whether it's the greys or
+      whatever, but they always feel flooded with this sense of a familiarity, but then the sense of love and compassion,
+      like they mean you no harm.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+        title: nonhuman intelligence (NHI)
+        slug: nonhuman-intelligence-nhi
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 01:03:17.3-01:03:43.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

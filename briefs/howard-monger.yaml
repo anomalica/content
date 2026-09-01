@@ -9,326 +9,344 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 9
+  tokens_estimated: 2676
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 9
 related_nodes:
-- node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
-  title: Fatima apparitions (1917)
-  node_type: event
-  slug: fatima-apparitions-1917
-  shared_claims: 1
-- node_id: 95472b02-af65-4737-896c-993994f9be27
-  title: Portugal, Fatima
-  node_type: place
-  slug: fatima-portugal
-  shared_claims: 1
-- node_id: 7e0c5bed-c4dc-4938-958c-c0acbb8aefb3
-  title: USA, New Jersey, High Bridge
-  node_type: place
-  slug: new-jersey-high-bridge-usa
-  shared_claims: 1
-claims:
-- claim_id: 0fa4fc5b-7e33-4f4c-980c-a5f362c5ebad
-  claim_hash: 65b59306e18fb3e14ec83ad982b57e16ed1d7f9894787d6a9d8cc3d7baa884a4
-  content: A photograph shows Howard Monger holding a device described as a "free-energy
-    motor" that he built.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
-    title: Howard Monger
-    slug: howard-monger
-  date: null
-  date_end: null
-  location_in_record: ch8:141-228
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: fdd20a28-5d9f-4ca8-90ee-4817dd5e4546
-  claim_hash: 05cb426c39f0c31314c384c46197189a080a9c138f520e0617cc03e5b4a1185e
-  content: Howard Menger, one of the controversial "contactees" of the 1950s, claimed
-    that as a young boy in 1941 he encountered a "beautiful Lady" in rural High Bridge,
-    New Jersey, where his parents had a farm.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Menger, Howard
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
-    title: Howard Monger
-    slug: howard-monger
-  - node_id: 7e0c5bed-c4dc-4938-958c-c0acbb8aefb3
-    title: USA, New Jersey, High Bridge
-    slug: new-jersey-high-bridge-usa
-  date: '1941'
-  date_end: null
-  location_in_record: ch4:19556-19753
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 60fbb4af-634a-4da5-9d93-77cacc83b931
-  claim_hash: 9dc47027266fcae10604149b78e8815be650c32dee29ffeeb3d0b33c5afc813f
-  content: The Lady who appeared to Howard Menger in 1941 told him "I have come a
-    long way to see you and to talk with you" and promised to return, which she did
-    in 1946.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Menger, Howard
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
-    title: Howard Monger
-    slug: howard-monger
-  date: '1946'
-  date_end: null
-  location_in_record: ch4:19760-19868
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: f1fe7468-20db-4b75-a592-2f2d29e85b6a
-  claim_hash: 23c42d810caba65c73978e37db39b52ccbb185c50830e326d7ddb3a4fbec7fe7
-  content: Howard Menger perceived heat on the back of his neck before observing a
-    fireball moving at tremendous speed over a field.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
-    title: Howard Monger
-  provenance_chain:
-    origin_kind: speaker
-    origin: Howard Menger
-    relay:
-    - From Outer Space to You
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
-    title: Howard Monger
-    slug: howard-monger
-  date: null
-  date_end: null
-  location_in_record: ch4:19984-20116
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 06617801-16bc-4582-86b6-dca28bded4bf
-  claim_hash: bb716b1cbe7d1234c1f3c29fdb712eef3866b58f033e70f4082266af875886b0
-  content: Howard Menger observed a pulsating, spinning, colour-changing fireball
-    that transformed into a metallic-looking craft surrounded by portholes.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
-    title: Howard Monger
-  provenance_chain:
-    origin_kind: speaker
-    origin: Howard Menger
-    relay:
-    - From Outer Space to You
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
-    title: Howard Monger
-    slug: howard-monger
-  date: null
-  date_end: null
-  location_in_record: ch4:20124-20396
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: f7aee89d-6505-4597-99a3-e7e7f15fd078
-  claim_hash: 2016458717480800d7c4e6124693f6274c6421f9a0ac787d6f532f937e5e4650
-  content: Howard Menger observed a beautiful woman with long blond hair, dressed
-    in a loosely fitted semitranslucent pastel-coloured outfit, step through an opening
-    that appeared in the craft.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
-    title: Howard Monger
-  provenance_chain:
-    origin_kind: speaker
-    origin: Howard Menger
-    relay:
-    - From Outer Space to You
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
-    title: Howard Monger
-    slug: howard-monger
-  date: null
-  date_end: null
-  location_in_record: ch4:20408-20725
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: ae5a1746-3b38-467c-b7df-4244c3437fca
-  claim_hash: d75456c8a6dd291f2f6b566fb1f2a4b9b66e0be95037387c279ce5d2565b4e52
-  content: Howard Menger believes he encountered angels during his experience.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
-    title: Howard Monger
-  provenance_chain:
-    origin_kind: speaker
-    origin: Michael Hesemann
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
-    title: Howard Monger
-    slug: howard-monger
-  date: null
-  date_end: null
-  location_in_record: ch4:20732-20816
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 78f67ff4-2ea0-4281-928b-cb4c58bb3ccf
-  claim_hash: 827b820c9b2cf6d0792f8bedc3e4bb36450978f2ed85092f82e3c066d2f22093
-  content: Howard Menger does not associate his experience with Mary, though someone
-    from the Catholic religious tradition might make that association.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-    title: Michael Hesemann
-  provenance_chain:
-    origin_kind: speaker
-    origin: Michael Hesemann
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
-    title: Howard Monger
-    slug: howard-monger
-  - node_id: 95472b02-af65-4737-896c-993994f9be27
-    title: Portugal, Fatima
-    slug: fatima-portugal
-  date: null
-  date_end: null
-  location_in_record: ch4:20824-21047
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 574490b0-f5a4-4db9-9b5b-8b043bec5a9a
-  claim_hash: a9a4c5cefd6bec8ef53fd68257b3fbb2d7b12cb3c94d81939a3716ab2a30fb54
-  content: Michael Hesemann considers it possible that Howard Menger encountered the
-    same phenomenon observed by thousands at the Fatima apparitions.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-    title: Michael Hesemann
-  provenance_chain:
-    origin_kind: speaker
-    origin: Michael Hesemann
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
-    title: Howard Monger
-    slug: howard-monger
   - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
     title: Fatima apparitions (1917)
+    node_type: event
     slug: fatima-apparitions-1917
-  date: null
-  date_end: null
-  location_in_record: ch4:20943-21047
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    node_type: place
+    slug: fatima-portugal
+    shared_claims: 1
+  - node_id: 7e0c5bed-c4dc-4938-958c-c0acbb8aefb3
+    title: USA, New Jersey, High Bridge
+    node_type: place
+    slug: new-jersey-high-bridge-usa
+    shared_claims: 1
+claims:
+  - claim_id: 0fa4fc5b-7e33-4f4c-980c-a5f362c5ebad
+    claim_hash: 65b59306e18fb3e14ec83ad982b57e16ed1d7f9894787d6a9d8cc3d7baa884a4
+    content: A photograph shows Howard Monger holding a device described as a "free-energy motor" that he built.
+    original_excerpt: Many have built machines like the "free-energy motor" held here by its builder, Howard Monger.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
+        title: Howard Monger
+        slug: howard-monger
+    date: null
+    date_end: null
+    location_in_record: ch8:141-228
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: fdd20a28-5d9f-4ca8-90ee-4817dd5e4546
+    claim_hash: 05cb426c39f0c31314c384c46197189a080a9c138f520e0617cc03e5b4a1185e
+    content: Howard Menger, one of the controversial "contactees" of the 1950s, claimed that as a young boy in 1941 he encountered
+      a "beautiful Lady" in rural High Bridge, New Jersey, where his parents had a farm.
+    original_excerpt: Howard Menger, one of the controversial “contactees” of the 1950s, claimed that he, as a young boy in
+      1941, encountered a “beautiful Lady” in rural High Bridge, New Jersey, where his parents had a farm.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Menger, Howard
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
+        title: Howard Monger
+        slug: howard-monger
+      - node_id: 7e0c5bed-c4dc-4938-958c-c0acbb8aefb3
+        title: USA, New Jersey, High Bridge
+        slug: new-jersey-high-bridge-usa
+    date: '1941'
+    date_end: null
+    location_in_record: ch4:19556-19753
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 60fbb4af-634a-4da5-9d93-77cacc83b931
+    claim_hash: 9dc47027266fcae10604149b78e8815be650c32dee29ffeeb3d0b33c5afc813f
+    content: The Lady who appeared to Howard Menger in 1941 told him "I have come a long way to see you and to talk with you"
+      and promised to return, which she did in 1946.
+    original_excerpt: “I have come a long way to see you and to talk with you,” she told him. She promised to return and did
+      so in 1946.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Menger, Howard
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
+        title: Howard Monger
+        slug: howard-monger
+    date: '1946'
+    date_end: null
+    location_in_record: ch4:19760-19868
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: f1fe7468-20db-4b75-a592-2f2d29e85b6a
+    claim_hash: 23c42d810caba65c73978e37db39b52ccbb185c50830e326d7ddb3a4fbec7fe7
+    content: Howard Menger perceived heat on the back of his neck before observing a fireball moving at tremendous speed over
+      a field.
+    original_excerpt: nd the sense of heat in the back of my neck. I turned. Above the vast western section of the field a
+      huge fireball moved at tremendous speed.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
+      title: Howard Monger
+    provenance_chain:
+      origin_kind: speaker
+      origin: Howard Menger
+      relay:
+        - From Outer Space to You
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
+        title: Howard Monger
+        slug: howard-monger
+    date: null
+    date_end: null
+    location_in_record: ch4:19984-20116
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 06617801-16bc-4582-86b6-dca28bded4bf
+    claim_hash: bb716b1cbe7d1234c1f3c29fdb712eef3866b58f033e70f4082266af875886b0
+    content: Howard Menger observed a pulsating, spinning, colour-changing fireball that transformed into a metallic-looking
+      craft surrounded by portholes.
+    original_excerpt: The ball of fire looked like a huge spinning sun, shining, pulsating, and changing colors. It hovered
+      over the field, as I stood watching it, seemingly transfixed. The pulsating color changes diminished and the fireball
+      turned into a metallic-looking craft, surrounded by portholes.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
+      title: Howard Monger
+    provenance_chain:
+      origin_kind: speaker
+      origin: Howard Menger
+      relay:
+        - From Outer Space to You
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
+        title: Howard Monger
+        slug: howard-monger
+    date: null
+    date_end: null
+    location_in_record: ch4:20124-20396
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: f7aee89d-6505-4597-99a3-e7e7f15fd078
+    claim_hash: 2016458717480800d7c4e6124693f6274c6421f9a0ac787d6f532f937e5e4650
+    content: Howard Menger observed a beautiful woman with long blond hair, dressed in a loosely fitted semitranslucent pastel-coloured
+      outfit, step through an opening that appeared in the craft.
+    original_excerpt: Soon an opening appeared on a flange around the bottom of the craft.… Through the large opening in the
+      craft stepped a beautiful woman. She had long blond hair and was dressed in (an) … outfit which fitted loosely over
+      what was a shapely body. The material was semitranslucent, of a soft pastel color which seemed to glow.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
+      title: Howard Monger
+    provenance_chain:
+      origin_kind: speaker
+      origin: Howard Menger
+      relay:
+        - From Outer Space to You
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
+        title: Howard Monger
+        slug: howard-monger
+    date: null
+    date_end: null
+    location_in_record: ch4:20408-20725
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: ae5a1746-3b38-467c-b7df-4244c3437fca
+    claim_hash: d75456c8a6dd291f2f6b566fb1f2a4b9b66e0be95037387c279ce5d2565b4e52
+    content: Howard Menger believes he encountered angels during his experience.
+    original_excerpt: Menger is aware of the mystic nature of his experiences and believes he encountered angels.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
+      title: Howard Monger
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
+        title: Howard Monger
+        slug: howard-monger
+    date: null
+    date_end: null
+    location_in_record: ch4:20732-20816
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 78f67ff4-2ea0-4281-928b-cb4c58bb3ccf
+    claim_hash: 827b820c9b2cf6d0792f8bedc3e4bb36450978f2ed85092f82e3c066d2f22093
+    content: Howard Menger does not associate his experience with Mary, though someone from the Catholic religious tradition
+      might make that association.
+    original_excerpt: He does not associate this experience with Mary, but somebody from the Catholic religious tradition
+      might, and indeed, there is nothing to say that he did not encounter the same phenomenon that was observed by thousands
+      at Fatima.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
+        title: Howard Monger
+        slug: howard-monger
+      - node_id: 95472b02-af65-4737-896c-993994f9be27
+        title: Portugal, Fatima
+        slug: fatima-portugal
+    date: null
+    date_end: null
+    location_in_record: ch4:20824-21047
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 574490b0-f5a4-4db9-9b5b-8b043bec5a9a
+    claim_hash: a9a4c5cefd6bec8ef53fd68257b3fbb2d7b12cb3c94d81939a3716ab2a30fb54
+    content: Michael Hesemann considers it possible that Howard Menger encountered the same phenomenon observed by thousands
+      at the Fatima apparitions.
+    original_excerpt: there is nothing to say that he did not encounter the same phenomenon that was observed by thousands
+      at Fatima.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
+        title: Howard Monger
+        slug: howard-monger
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch4:20943-21047
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret

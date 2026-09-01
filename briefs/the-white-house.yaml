@@ -9,1372 +9,1387 @@ page:
   claim_count: 30
   claim_count_total: 30
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 30
+  tokens_estimated: 9508
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 30
 related_nodes:
-- node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
-  title: National Security Council
-  node_type: organisation
-  slug: national-security-council
-  shared_claims: 8
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 7
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 4
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 4
-- node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
-  title: Donald Trump
-  node_type: person
-  slug: donald-trump
-  shared_claims: 3
-- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-  title: National Aeronautics and Space Administration (NASA)
-  node_type: organisation
-  slug: national-aeronautics-and-space-administration-nasa
-  shared_claims: 3
-- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-  title: Harold E. Puthoff
-  node_type: person
-  slug: harold-e-puthoff
-  shared_claims: 2
-- node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-  title: John Podesta
-  node_type: person
-  slug: john-podesta
-  shared_claims: 2
-- node_id: c8f86f9d-c712-41a9-aaa5-31eea5e427c7
-  title: 1952 Washington DC Unidentified Aerial Phenomena (UAP) flap
-  node_type: event
-  slug: 1952-washington-dc-unidentified-aerial-phenomena-uap-flap
-  shared_claims: 1
-- node_id: 7714ff42-1677-4fa7-ba88-852e6379e2c0
-  title: 1977 Robert Frosch letter declining National Aeronautics and Space Administration
-    (NASA) Unidentified Flying Object (UFO) inquiry
-  node_type: document
-  slug: 1977-robert-frosch-letter-declining-national-aeronautics-and-space-administration-nasa-unidentified-flying-object-ufo-inquiry
-  shared_claims: 1
-- node_id: 30ac0419-6bf8-4167-8b1b-4af6c7acb41a
-  title: 2011 Change.org petition demanding disclosure of extra-terrestrial contact
-  node_type: event
-  slug: 2011-changeorg-petition-demanding-disclosure-of-extra-terrestrial-contact
-  shared_claims: 1
-- node_id: b709dbaa-f5db-4cbb-9c65-c6abfa73e766
-  title: 2011 White House statement denying extra-terrestrial contact and evidence
-  node_type: document
-  slug: 2011-white-house-statement-denying-extra-terrestrial-contact-and-evidence
-  shared_claims: 1
-- node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
-  title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
-  node_type: event
-  slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
-  shared_claims: 1
-- node_id: d191410c-c196-4b82-80e8-178935220d44
-  title: Avi Loeb's All-Domain Anomaly Resolution Office (AARO) science advisory council
-  node_type: project
-  slug: avi-loebs-all-domain-anomaly-resolution-office-aaro-science-advisory-council
-  shared_claims: 1
-- node_id: 238b529a-af82-4168-84e1-0698bb5cdcf2
-  title: Brad Byers
-  node_type: person
-  slug: brad-byers
-  shared_claims: 1
-- node_id: 393e9a76-2d4b-4f39-8ead-63f4064399b8
-  title: Change.org
-  node_type: organisation
-  slug: changeorg
-  shared_claims: 1
-- node_id: c97d75c4-feb8-4d22-a0f0-a1da89b7007f
-  title: Cuba, Guantanamo Bay
-  node_type: place
-  slug: guantanamo-bay-cuba
-  shared_claims: 1
-- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-  title: David Charles Grusch
-  node_type: person
-  slug: david-charles-grusch
-  shared_claims: 1
-- node_id: 9785a653-45f5-4e7d-a003-eee64b8f2dc6
-  title: Democratic National Committee
-  node_type: organisation
-  slug: democratic-national-committee
-  shared_claims: 1
-- node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-  title: Federal Bureau of Investigation (FBI)
-  node_type: organisation
-  slug: federal-bureau-of-investigation-fbi
-  shared_claims: 1
-- node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
-  title: Harry S. Truman
-  node_type: person
-  slug: harry-s-truman
-  shared_claims: 1
-- node_id: a4ed5014-13bd-4831-b6c9-bed4305a3e40
-  title: Israel
-  node_type: place
-  slug: israel
-  shared_claims: 1
-- node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
-  title: James Mattis
-  node_type: person
-  slug: james-mattis
-  shared_claims: 1
-- node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-  title: Jay Stratton
-  node_type: person
-  slug: jay-stratton
-  shared_claims: 1
-- node_id: c520793e-42fa-4367-9fa1-af331c60f8ee
-  title: John Kirby
-  node_type: person
-  slug: john-kirby
-  shared_claims: 1
-- node_id: 05e3b0a6-dddb-4f7b-9d9b-a4ff5d2611cf
-  title: Karine Jean-Pierre
-  node_type: person
-  slug: karine-jean-pierre
-  shared_claims: 1
-- node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
-  title: Neil McCasland
-  node_type: person
-  slug: neil-mccasland
-  shared_claims: 1
-- node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-  title: Office of the Director of National Intelligence (ODNI)
-  node_type: organisation
-  slug: office-of-the-director-of-national-intelligence-odni
-  shared_claims: 1
-- node_id: 9fccea15-4512-4672-9127-b0c31800fbac
-  title: President Trump
-  node_type: person
-  slug: president-trump
-  shared_claims: 1
-- node_id: 7caf1534-23a0-4d6f-a6a1-2a6d359fea97
-  title: Robert Frosch
-  node_type: person
-  slug: robert-frosch
-  shared_claims: 1
-claims:
-- claim_id: 8f637a11-b477-47af-b927-82cda6c3451f
-  claim_hash: 4bc9e5192cc43bae4ea1d769a0a26ea1c626c2fa459f980910c372c0f0cd4bbc
-  content: In December 1977, NASA administrator Robert Frosch responded to the White
-    House request by proposing that NASA take no steps to establish a research activity
-    into UFOs or to convene a symposium on the subject.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 1977 Robert Frosch letter declining NASA UFO inquiry
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 7714ff42-1677-4fa7-ba88-852e6379e2c0
-    title: 1977 Robert Frosch letter declining National Aeronautics and Space Administration
-      (NASA) Unidentified Flying Object (UFO) inquiry
-    slug: 1977-robert-frosch-letter-declining-national-aeronautics-and-space-administration-nasa-unidentified-flying-object-ufo-inquiry
-  - node_id: 7caf1534-23a0-4d6f-a6a1-2a6d359fea97
-    title: Robert Frosch
-    slug: robert-frosch
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: 1977-12
-  date_end: null
-  location_in_record: ch11:26535-26786
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: eb737eaf-105f-4831-9540-8bc30a3acabc
-  claim_hash: 79ec7091270004f1c4f8b6504adb34c155130926bcb4bdd67144da7706fd81ed
-  content: A panicked White House feared the Soviets were considering deploying Soviet
-    troops on the Syrian Golan Heights border with Israel.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: historical record
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 78f0d7e9-522b-4720-8992-43c6677550f5
-    title: Syria
-    slug: syria
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: a4ed5014-13bd-4831-b6c9-bed4305a3e40
-    title: Israel
-    slug: israel
-  - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
-    title: Soviet Union
-    slug: soviet-union
-  date: null
-  date_end: null
-  location_in_record: ch11:5340-5510
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 12340195-1080-4fa6-94bd-8fb2123d8392
-  claim_hash: 824dc16c97987cc9c618688b6d391ee338a2608907a8b7bcb56ce8f7009b3e28
-  content: John Podesta was a political consultant who served as President Bill Clinton's
-    Chief of Staff in the White House from 1998 to 2001.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-    title: William J. Clinton
-    slug: william-j-clinton
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: '1998'
-  date_end: null
-  location_in_record: ch14:26259-26377
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: db14a395-1493-44c8-95ab-cfa2b8b93678
-  claim_hash: 2b58d9df5e76536afbf962895a5f99d284c38a75ffc81474bd5114634c7a6f92
-  content: In late 2011 the Obama White House responded to a Change.org petition demanding
-    immediate disclosure of the US government's knowledge of and communications with
-    extra-terrestrial beings.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 30ac0419-6bf8-4167-8b1b-4af6c7acb41a
-    title: 2011 Change.org petition demanding disclosure of extra-terrestrial contact
-    slug: 2011-changeorg-petition-demanding-disclosure-of-extra-terrestrial-contact
-  - node_id: 393e9a76-2d4b-4f39-8ead-63f4064399b8
-    title: Change.org
-    slug: changeorg
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: '2011'
-  date_end: null
-  location_in_record: ch18:109-386
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 271deefa-c35a-4e99-ab78-659455e671d2
-  claim_hash: cfbcb539f214258cffad4825eb3882e2e7590d53b69c44ae13041e93af97487f
-  content: Tom DeLonge says that within two weeks of his meeting with Rob Weiss, he
-    was introduced to senior military and government figures including US Air Force
-    generals, intelligence officials, high-ranking NASA bureaucrats, and senior officials
-    in the White House.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
-    title: Robert Weiss
-    slug: robert-weiss
-  - node_id: ee0c01e2-9f22-416a-9450-67d7b46d9ac5
-    title: United States Air Force generals and intelligence officials briefing Tom
-      DeLonge
-    slug: united-states-air-force-generals-and-intelligence-officials-briefing-tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch18:21797-22035
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d8eb21a7-d2ae-4102-9dcd-40844c2352b1
-  claim_hash: 0716a3b06729cb15d32643a81debc6700cebe326281dba648f4aff9110a859f2
-  content: A leaked email dated 2016-09-24 included recommendations from William Neil
-    McCasland for a White House memo setting out instructions for divulging information
-    in coordination with the Department of Defense, the Director of National Intelligence,
-    and the National Oceanic and Atmospheric Administration.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: a leaked Podesta email dated 2016-09-24
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
-    title: Neil McCasland
-    slug: neil-mccasland
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  date: '2016-09-24'
-  date_end: null
-  location_in_record: ch20:14120-14487
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 1cace6f9-b5da-4ab1-bd09-ae25ef1f9cf7
-  claim_hash: c3e01361bc24a53873483b8852febdda2fb2f99052cdd72ea61bf7df9563c18d
-  content: A leaked Democratic National Committee email revealed the White House rejected
-    performer Ariana Grande from performing at a presidential gala because a video
-    showed her licking other people's doughnuts while saying she hates America.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: a leaked Democratic National Committee email
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9785a653-45f5-4e7d-a003-eee64b8f2dc6
-    title: Democratic National Committee
-    slug: democratic-national-committee
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: null
-  date_end: null
-  location_in_record: ch20:2834-3038
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 86c22a91-6dd9-4b74-8031-7849942fd9f0
-  claim_hash: b39d1e7fddcedb71bfae092fc4cc8f74080b881d5ffb7cde9aa4656129980b45
-  content: The formal statement from the office of the US president flatly denies
-    that the US has recovered extra-terrestrial technology.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 2011 White House statement denying extra-terrestrial contact and evidence
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: b709dbaa-f5db-4cbb-9c65-c6abfa73e766
-    title: 2011 White House statement denying extra-terrestrial contact and evidence
-    slug: 2011-white-house-statement-denying-extra-terrestrial-contact-and-evidence
-  date: null
-  date_end: null
-  location_in_record: ch24:15825-16003
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 2389adf8-dccb-47a0-96cf-41f97625b55c
-  claim_hash: 2c034187af5ebd3e70bce481ed70c508b93ec81eeda8f14ece59986ea8d2f4b7
-  content: The memo asserts that no one in Congress, the White House or even any president
-    is cleared to know the Big Secret, because they were not on the Bigot list either.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: The Admiral Wilson Memo (EWD Notes)
-    relay:
-    - Eric Davis
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
-    title: The Admiral Wilson Memo
-    slug: the-admiral-wilson-memo
-  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-    title: United States Congress
-    slug: united-states-congress
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: null
-  date_end: null
-  location_in_record: ch26:19352-19505
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 32ba3d5e-b3bf-4f99-9e05-3eb8f06852c7
-  claim_hash: 0dfdfdee98e97858afefdf7cc3f491bb5d703eac534eddc2b31a9c903ab95a6c
-  content: After the February 2023 unidentified object shoot-downs, Ryan Graves warned
-    that the White House should not be conflating the low-tech objects shot down with
-    the extraordinary unexplained high-tech advanced objects witnessed by pilots with
-    whom he served.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-    title: Ryan Graves
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ryan Graves
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-    title: Ryan Graves
-    slug: ryan-graves
-  - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
-    title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
-    slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: 2023-02
-  date_end: null
-  location_in_record: ch29:27529-27817
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 0fdbf18a-fa3c-4022-bd0d-35370d43a519
-  claim_hash: 2d73782ca00db0c37bcef5188e6fe7d160fe9ba9e6c3dc14b40046ff4b523b01
-  content: Karine Jean-Pierre and John Kirby gave a White House press briefing on
-    the shot-down objects on 2023-02-13.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: White House Press Briefing transcript
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 05e3b0a6-dddb-4f7b-9d9b-a4ff5d2611cf
-    title: Karine Jean-Pierre
-    slug: karine-jean-pierre
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
   - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
     title: National Security Council
+    node_type: organisation
     slug: national-security-council
-  - node_id: c520793e-42fa-4367-9fa1-af331c60f8ee
-    title: John Kirby
-    slug: john-kirby
-  date: '2023-02-13'
-  date_end: null
-  location_in_record: ch34:69045-69250
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d267f396-9477-4118-9435-449a2ca88ffd
-  claim_hash: 629aca8b7538a9e6ebf600a0ac73e2ff4841f64090aef942fb449d07130c3cac
-  content: Harold Puthoff had, in various past capacities, regularly reported directly
-    to the White House and the director of the Central Intelligence Agency (CIA).
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    shared_claims: 8
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 7
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
+    node_type: organisation
     slug: central-intelligence-agency-cia
+    shared_claims: 4
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 4
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 3
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 3
   - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
     title: Harold E. Puthoff
+    node_type: person
     slug: harold-e-puthoff
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: null
-  date_end: null
-  location_in_record: ch10:2057-2163
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 2a4f3cc7-d302-42db-9dce-536be33d2b9d
-  claim_hash: 318dc48340f308763c5bf73f237455b8ae7fc0c114e1ecd7576613621d2a37e6
-  content: Project Stargate became successful enough that Harold Puthoff reported
-    directly to the director of the Central Intelligence Agency and the White House
-    on a regular basis.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: null
-  date_end: null
-  location_in_record: ch11:25998-26111
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 4e047772-8db5-4bb5-b19a-f61a8adf93cb
-  claim_hash: d23a9729c502ce6a54f16632df0b5c7555cdc49d3c203bdaf28002894472e0f8
-  content: In 1952-07, multiple Unidentified Aerial Phenomena (UAP) resembling lights
-    penetrated downtown Washington, DC and buzzed the White House and the capital
-    city over two consecutive weekends while Harry Truman was president.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
-    title: Harry S. Truman
-    slug: harry-s-truman
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
+    shared_claims: 2
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    node_type: person
+    slug: john-podesta
+    shared_claims: 2
   - node_id: c8f86f9d-c712-41a9-aaa5-31eea5e427c7
     title: 1952 Washington DC Unidentified Aerial Phenomena (UAP) flap
+    node_type: event
     slug: 1952-washington-dc-unidentified-aerial-phenomena-uap-flap
-  date: 1952-07
-  date_end: null
-  location_in_record: ch12:25771-25938
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: a145b6b3-779f-4b6a-baf9-c828f48efb58
-  claim_hash: 22bf7f44a7b116cfe58b827aeb086e9f43f79017e308e32d4fe20f22c839b082
-  content: Luis Elizondo's new programme managed national-level special-access programs
-    directly for the National Security Council (NSC) and the White House.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
-    title: National Security Council
-    slug: national-security-council
-  date: null
-  date_end: null
-  location_in_record: ch16:16034-16150
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 4a5d794d-892d-4077-aed7-d69446612de5
-  claim_hash: 02cfbeddf9206b68216a895ce4757ee44ffc434f98b694b49ca1bbebf16babe1
-  content: Lue Elizondo was certified as a Special Technical Operations (STO) officer,
-    holding the same sort of clearance as White House employees who carry the nuclear
-    codes for the president.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: null
-  date_end: null
-  location_in_record: ch20:2541-2715
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: b7de916b-f30e-45a9-a397-b4a1cc3f6f0c
-  claim_hash: 37eef9ab43279644b064178b5ab3370e77c63b06ca204c897b3a12d3409b9ac3
-  content: Lue Elizondo had the clearances needed to work for the White House and
-    the National Security Council (NSC).
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
-    title: National Security Council
-    slug: national-security-council
-  date: null
-  date_end: null
-  location_in_record: ch20:3050-3146
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 93270cf4-8b2b-4173-a414-496de12b86b5
-  claim_hash: 40f21aee718f410cc42e5e9b761bccc534db985cafa33b6454ff4319eb5727b3
-  content: A senior White House advisor named Brad Byers and a CIA liaison officer
-    referred to as Shari Smith were deferred to by a Secretary of Defense (SECDEF)
-    liaison handling Luis Elizondo's efforts to brief James Mattis.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
+  - node_id: 7714ff42-1677-4fa7-ba88-852e6379e2c0
+    title: 1977 Robert Frosch letter declining National Aeronautics and Space Administration (NASA) Unidentified Flying Object
+      (UFO) inquiry
+    node_type: document
+    slug: 1977-robert-frosch-letter-declining-national-aeronautics-and-space-administration-nasa-unidentified-flying-object-ufo-inquiry
+    shared_claims: 1
+  - node_id: 30ac0419-6bf8-4167-8b1b-4af6c7acb41a
+    title: 2011 Change.org petition demanding disclosure of extra-terrestrial contact
+    node_type: event
+    slug: 2011-changeorg-petition-demanding-disclosure-of-extra-terrestrial-contact
+    shared_claims: 1
+  - node_id: b709dbaa-f5db-4cbb-9c65-c6abfa73e766
+    title: 2011 White House statement denying extra-terrestrial contact and evidence
+    node_type: document
+    slug: 2011-white-house-statement-denying-extra-terrestrial-contact-and-evidence
+    shared_claims: 1
+  - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
+    title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
+    node_type: event
+    slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
+    shared_claims: 1
+  - node_id: d191410c-c196-4b82-80e8-178935220d44
+    title: Avi Loeb's All-Domain Anomaly Resolution Office (AARO) science advisory council
+    node_type: project
+    slug: avi-loebs-all-domain-anomaly-resolution-office-aaro-science-advisory-council
+    shared_claims: 1
   - node_id: 238b529a-af82-4168-84e1-0698bb5cdcf2
     title: Brad Byers
+    node_type: person
     slug: brad-byers
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
-    title: James Mattis
-    slug: james-mattis
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: f07d6499-16a2-49ae-8702-4cf6499cd6dc
-    title: Shari Smith
-    slug: shari-smith
-  date: null
-  date_end: null
-  location_in_record: ch28:1260-1461
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 61703131-0c1c-4b49-80a4-c34e762cebf3
-  claim_hash: c0039585e144d2c5b29cc9ba0889cf5357be29b62359d8052462ad17fcd97276
-  content: John Podesta considers one of his regrets to be not insisting on disclosure
-    of UAP evidence while he was in the White House.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-  provenance_chain:
-    origin_kind: named
-    origin: John Podesta
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: null
-  date_end: null
-  location_in_record: ch29:13252-13371
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: af73f27e-6d01-4702-86f0-925398868a92
-  claim_hash: 16e5feb7377d46487dfd11d8194d85d4f7d067d23b83b06d13434d96867b3733
-  content: Jay Stratton received requests for briefings from members of the White
-    House National Security Council (NSC), who then briefed Donald Trump on some level
-    regarding UAP.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-    title: Jay Stratton
-    slug: jay-stratton
-  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
-    title: Donald Trump
-    slug: donald-trump
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
-    title: National Security Council
-    slug: national-security-council
-  date: null
-  date_end: null
-  location_in_record: ch31:15556-15791
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 130e491f-f171-40b4-8fd9-0b038adb9a02
-  claim_hash: 6cd397028711b894555c60d1160defc130170c8df2a12d41b773b9cf46b0f62b
-  content: Around 2014, Lue Elizondo worked on a programme at Guantanamo Bay for the
-    White House and National Security Council.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
-    title: National Security Council
-    slug: national-security-council
+    shared_claims: 1
+  - node_id: 393e9a76-2d4b-4f39-8ead-63f4064399b8
+    title: Change.org
+    node_type: organisation
+    slug: changeorg
+    shared_claims: 1
   - node_id: c97d75c4-feb8-4d22-a0f0-a1da89b7007f
     title: Cuba, Guantanamo Bay
+    node_type: place
     slug: guantanamo-bay-cuba
-  date: '2014'
-  date_end: null
-  location_in_record: ch37:1681-1777
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: ccabbbd5-9a38-47e7-bea4-f19a85568571
-  claim_hash: 3de87a7452e505b9a71c0cb7dd3d620960c593be0e10d00b5ee1f30ad917fbcb
-  content: Luis Elizondo managed Special Access Programs (SAPs) for the National Security
-    Council (NSC) and the White House.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
-    title: National Security Council
-    slug: national-security-council
-  date: null
-  date_end: null
-  location_in_record: ch9:1143-1250
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: afc0e5de-d339-43d9-8bfb-cd0bd6f32257
-  claim_hash: 50a7a25e8608b439c98fdc3215076553b34a60ed337e5e6aeafbf6bf0be39272
-  content: Luis Elizondo's eleventh-floor corner office looked out at the Pentagon,
-    with the Capitol, the Lincoln Memorial, the Washington Monument, and the White
-    House visible in the distance.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: c2161b8f-ab11-449c-8521-174024cb0552
-    title: USA, Washington DC, Pentagon
-    slug: washington-dc-pentagon-usa
-  date: null
-  date_end: null
-  location_in_record: ch9:2191-2347
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: acc4e485-74c2-4b1c-a267-cbf1500cad69
-  claim_hash: 0721521e770a11ea7f9ee3fa65665a385953bbfd18e7a2d8ea5aebf5bdc7a229
-  content: In his last government position, Luis Elizondo managed a Special Access
-    Program on behalf of the White House and the National Security Council.
-  original_excerpt: In my last position, I managed a Special Access Program on behalf
-    of the White House and the National Security Council.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Luis Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
-    title: National Security Council
-    slug: national-security-council
-  date: '2024-11-13'
-  date_end: null
-  location_in_record: char:1344-1455
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 72cc1cf9-c482-4e0e-8629-c9d2fb101493
-    record_title: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena:
-      Exposing the Truth'
-    record_date: '2024-11-13'
-    record_reference: null
-    content_hash: sha256:f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce064218b64
-    friendly_name: 2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the
-- claim_id: 303b0beb-37d0-46f8-b135-e8eddb8f6dd8
-  claim_hash: 5d4f8af885ca8784c039b7725fb6efa3f4b98610540ed43f6963aa51d58b36c5
-  content: Luis Elizondo states that the White House, the Central Intelligence Agency
-    (CIA), the National Aeronautics and Space Administration (NASA), the Pentagon,
-    and the United States Department of Energy currently play a role in the UAP issue
-    but that no single entity is in charge.
-  original_excerpt: Currently, the White House, CIA, NASA, the Pentagon, Department
-    of Energy, and others play a role, but no one seems to be in charge, leading to
-    unchecked power and corruption.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Luis Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
-    title: United States Department of Energy (DOE)
-    slug: united-states-department-of-energy-doe
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
-    title: The Pentagon
-    slug: the-pentagon
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: '2024-11-13'
-  date_end: null
-  location_in_record: char:3537-3725
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 72cc1cf9-c482-4e0e-8629-c9d2fb101493
-    record_title: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena:
-      Exposing the Truth'
-    record_date: '2024-11-13'
-    record_reference: null
-    content_hash: sha256:f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce064218b64
-    friendly_name: 2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the
-- claim_id: ec7a17c1-7262-4cf2-a4ff-10f12e43d537
-  claim_hash: 61d64d4554e4b05fae6d0030c436df9ef8a90e74f1e1a3e5502137ed2ee1f239
-  content: There is a governing board for Avi Loeb's science advisory council that
-    includes representatives from the Office of the Director of National Intelligence
-    (ODNI), the White House, the Federal Bureau of Investigation (FBI), and the intelligence
-    community, who have access to classified material.
-  original_excerpt: There is a governing board that includes representatives from
-    ODNI, from the White House, from the FBI, from the intelligence community. And
-    so those representatives have access, of course, to all the classified material.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
-    title: Avi Loeb
-  provenance_chain:
-    origin_kind: speaker
-    origin: Avi Loeb
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-    title: Office of the Director of National Intelligence (ODNI)
-    slug: office-of-the-director-of-national-intelligence-odni
-  - node_id: d191410c-c196-4b82-80e8-178935220d44
-    title: Avi Loeb's All-Domain Anomaly Resolution Office (AARO) science advisory
-      council
-    slug: avi-loebs-all-domain-anomaly-resolution-office-aaro-science-advisory-council
-  date: null
-  date_end: null
-  location_in_record: 00:21:38.5-00:21:53.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: ccac9e9f-01cd-456c-9b33-4c37d79273d4
-  claim_hash: 2cbd789b7771b84fac9cfddadbf8b2ab2947cf74f89f12aa02cdc3ff75f90c41
-  content: If Avi Loeb cannot get through gatekeepers, Eric Burlison would ask the
-    White House and tell President Trump there is a problem.
-  original_excerpt: I'd ask the White House. I'd say, Mr. President, we got a problem.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-  provenance_chain:
-    origin_kind: speaker
-    origin: Eric Burlison
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: 9fccea15-4512-4672-9127-b0c31800fbac
-    title: President Trump
-    slug: president-trump
-  date: null
-  date_end: null
-  location_in_record: 00:54:21.3-00:54:25.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: 376c8caa-6f94-451f-bd60-60eae39b4178
-  claim_hash: 319eb215218001ee656e76696f07f09e3a90a68d56e1bc9eba0549132c9cc9da
-  content: Ross Coulthart knows of people in the White House administration who are
-    considering giving the American public information about what the government knows
-    regarding Unidentified Aerial Phenomena (UAP).
-  original_excerpt: I do know that there are people in the White House administration.
-    I suspect we've spoken to the same people who are toying with the idea of giving
-    the American public information about what the government knows.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: null
-  date_end: null
-  location_in_record: 00:31:20.9-00:31:34.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
-    record_title: Dr. Phil read the UAP files before the public, here's what he found
-      | Reality Check
-    record_date: '2026-07-21'
-    record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
-    content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
-    friendly_name: null
-- claim_id: 6e886ba4-f360-41e5-9bdf-663af4481bf3
-  claim_hash: adde6f85d20036a3708991c083797ef36aff5d9a0f5c9232b777738afcf409e6
-  content: David Grusch is prepared to provide a full historical accounting to the
-    National Security Council principals and the White House Chief of Staff, and to
-    make any supporting public statements that are authorised, to help the Trump administration
-    move UAP disclosure forward.
-  original_excerpt: “provide a full historical accounting to the National Security
-    Council principals, the White House Chief of Staff and make any supporting public
-    statements that are authorised to help this administration move disclosure forward.”
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
-    title: Donald Trump
-    slug: donald-trump
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
-    title: National Security Council
-    slug: national-security-council
+    shared_claims: 1
   - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
     title: David Charles Grusch
+    node_type: person
     slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: char:2720-2939
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3b884786-04ff-4e4b-816f-621161e9d948
-    record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
-      Their Push
-    record_date: '2026-08-19'
-    record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
-    content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
-    friendly_name: null
-- claim_id: fc2e62bf-423a-4230-98d7-27625bf3b1bc
-  claim_hash: 021a7546b0d3d636dce9f5f6a86f18c21157483333f8ff963b0453343f6f9c7f
-  content: Whether Donald Trump is prepared to disclose any information related to
-    UAP remains unclear, with sources offering differing accounts of his level of
-    interest and of how the White House is currently approaching the issue.
-  original_excerpt: Whether President Trump is prepared to disclose any information
-    related to UAPs remains unclear, with sources offering differing accounts of his
-    level of interest and of how the White House is currently approaching the issue.
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
-    title: Donald Trump
-    slug: donald-trump
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: null
-  date_end: null
-  location_in_record: char:8119-8338
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3b884786-04ff-4e4b-816f-621161e9d948
-    record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
-      Their Push
-    record_date: '2026-08-19'
-    record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
-    content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 9785a653-45f5-4e7d-a003-eee64b8f2dc6
+    title: Democratic National Committee
+    node_type: organisation
+    slug: democratic-national-committee
+    shared_claims: 1
+  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+    title: Federal Bureau of Investigation (FBI)
+    node_type: organisation
+    slug: federal-bureau-of-investigation-fbi
+    shared_claims: 1
+  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+    title: Harry S. Truman
+    node_type: person
+    slug: harry-s-truman
+    shared_claims: 1
+  - node_id: a4ed5014-13bd-4831-b6c9-bed4305a3e40
+    title: Israel
+    node_type: place
+    slug: israel
+    shared_claims: 1
+  - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+    title: James Mattis
+    node_type: person
+    slug: james-mattis
+    shared_claims: 1
+  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+    title: Jay Stratton
+    node_type: person
+    slug: jay-stratton
+    shared_claims: 1
+  - node_id: c520793e-42fa-4367-9fa1-af331c60f8ee
+    title: John Kirby
+    node_type: person
+    slug: john-kirby
+    shared_claims: 1
+  - node_id: 05e3b0a6-dddb-4f7b-9d9b-a4ff5d2611cf
+    title: Karine Jean-Pierre
+    node_type: person
+    slug: karine-jean-pierre
+    shared_claims: 1
+  - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
+    title: Neil McCasland
+    node_type: person
+    slug: neil-mccasland
+    shared_claims: 1
+  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+    title: Office of the Director of National Intelligence (ODNI)
+    node_type: organisation
+    slug: office-of-the-director-of-national-intelligence-odni
+    shared_claims: 1
+  - node_id: 9fccea15-4512-4672-9127-b0c31800fbac
+    title: President Trump
+    node_type: person
+    slug: president-trump
+    shared_claims: 1
+  - node_id: 7caf1534-23a0-4d6f-a6a1-2a6d359fea97
+    title: Robert Frosch
+    node_type: person
+    slug: robert-frosch
+    shared_claims: 1
+claims:
+  - claim_id: 8f637a11-b477-47af-b927-82cda6c3451f
+    claim_hash: 4bc9e5192cc43bae4ea1d769a0a26ea1c626c2fa459f980910c372c0f0cd4bbc
+    content: In December 1977, NASA administrator Robert Frosch responded to the White House request by proposing that NASA
+      take no steps to establish a research activity into UFOs or to convene a symposium on the subject.
+    original_excerpt: In December 1977, NASA’s administrator Dr Robert Frosch responded with a remarkable rejection of the
+      White House request, proposing instead that ‘NASA take no steps to establish a research activity in this area [UFOs]
+      or to convene a symposium on the subject’.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 1977 Robert Frosch letter declining NASA UFO inquiry
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 7714ff42-1677-4fa7-ba88-852e6379e2c0
+        title: 1977 Robert Frosch letter declining National Aeronautics and Space Administration (NASA) Unidentified Flying
+          Object (UFO) inquiry
+        slug: 1977-robert-frosch-letter-declining-national-aeronautics-and-space-administration-nasa-unidentified-flying-object-ufo-inquiry
+      - node_id: 7caf1534-23a0-4d6f-a6a1-2a6d359fea97
+        title: Robert Frosch
+        slug: robert-frosch
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: 1977-12
+    date_end: null
+    location_in_record: ch11:26535-26786
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: eb737eaf-105f-4831-9540-8bc30a3acabc
+    claim_hash: 79ec7091270004f1c4f8b6504adb34c155130926bcb4bdd67144da7706fd81ed
+    content: A panicked White House feared the Soviets were considering deploying Soviet troops on the Syrian Golan Heights
+      border with Israel.
+    original_excerpt: History records that a panicked White House feared the Soviets were considering deploying Soviet troops
+      on the Syrian Golan Heights border with Israel.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: historical record
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 78f0d7e9-522b-4720-8992-43c6677550f5
+        title: Syria
+        slug: syria
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: a4ed5014-13bd-4831-b6c9-bed4305a3e40
+        title: Israel
+        slug: israel
+      - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+        title: Soviet Union
+        slug: soviet-union
+    date: null
+    date_end: null
+    location_in_record: ch11:5340-5510
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 12340195-1080-4fa6-94bd-8fb2123d8392
+    claim_hash: 824dc16c97987cc9c618688b6d391ee338a2608907a8b7bcb56ce8f7009b3e28
+    content: John Podesta was a political consultant who served as President Bill Clinton's Chief of Staff in the White House
+      from 1998 to 2001.
+    original_excerpt: John Podesta, a political consultant who served as President Clinton’s Chief of Staff in the White House
+      from 1998 to 2001
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+        title: William J. Clinton
+        slug: william-j-clinton
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: '1998'
+    date_end: null
+    location_in_record: ch14:26259-26377
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: db14a395-1493-44c8-95ab-cfa2b8b93678
+    claim_hash: 2b58d9df5e76536afbf962895a5f99d284c38a75ffc81474bd5114634c7a6f92
+    content: In late 2011 the Obama White House responded to a Change.org petition demanding immediate disclosure of the US
+      government's knowledge of and communications with extra-terrestrial beings.
+    original_excerpt: In late 2011, the Obama White House made a statement on behalf of the president that I suspect it may
+      live to profoundly regret. It responded to a Change.org petition demanding immediate disclosure 'of the US government's
+      knowledge of and communications with extra-terrestrial beings'.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30ac0419-6bf8-4167-8b1b-4af6c7acb41a
+        title: 2011 Change.org petition demanding disclosure of extra-terrestrial contact
+        slug: 2011-changeorg-petition-demanding-disclosure-of-extra-terrestrial-contact
+      - node_id: 393e9a76-2d4b-4f39-8ead-63f4064399b8
+        title: Change.org
+        slug: changeorg
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: '2011'
+    date_end: null
+    location_in_record: ch18:109-386
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 271deefa-c35a-4e99-ab78-659455e671d2
+    claim_hash: cfbcb539f214258cffad4825eb3882e2e7590d53b69c44ae13041e93af97487f
+    content: Tom DeLonge says that within two weeks of his meeting with Rob Weiss, he was introduced to senior military and
+      government figures including US Air Force generals, intelligence officials, high-ranking NASA bureaucrats, and senior
+      officials in the White House.
+    original_excerpt: DeLonge claims that within two weeks of that meeting he was introduced to senior top brass from across
+      the military, including US Air Force generals, intelligence officials, high-ranking NASA bureaucrats and senior officials
+      in the White House.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+        title: Robert Weiss
+        slug: robert-weiss
+      - node_id: ee0c01e2-9f22-416a-9450-67d7b46d9ac5
+        title: United States Air Force generals and intelligence officials briefing Tom DeLonge
+        slug: united-states-air-force-generals-and-intelligence-officials-briefing-tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch18:21797-22035
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d8eb21a7-d2ae-4102-9dcd-40844c2352b1
+    claim_hash: 0716a3b06729cb15d32643a81debc6700cebe326281dba648f4aff9110a859f2
+    content: A leaked email dated 2016-09-24 included recommendations from William Neil McCasland for a White House memo setting
+      out instructions for divulging information in coordination with the Department of Defense, the Director of National
+      Intelligence, and the National Oceanic and Atmospheric Administration.
+    original_excerpt: One intriguing line in the 24 September 2016 email included recommendations from Neil McCasland for
+      a White House memo, presumably to come from a future Hillary Clinton presidency, that would set out instructions for
+      divulging 'information' in coordination with the Defence Department, the Director of National Intelligence and the National
+      Oceanic and Atmospheric Administration.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: a leaked Podesta email dated 2016-09-24
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
+        title: Neil McCasland
+        slug: neil-mccasland
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: '2016-09-24'
+    date_end: null
+    location_in_record: ch20:14120-14487
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1cace6f9-b5da-4ab1-bd09-ae25ef1f9cf7
+    claim_hash: c3e01361bc24a53873483b8852febdda2fb2f99052cdd72ea61bf7df9563c18d
+    content: A leaked Democratic National Committee email revealed the White House rejected performer Ariana Grande from performing
+      at a presidential gala because a video showed her licking other people's doughnuts while saying she hates America.
+    original_excerpt: one email revealed scuttlebutt that the White House rejected rockstar Ariana Grande from performing
+      at a presidential gala because a video 'caught her licking other peoples' donuts while saying she hates America'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: a leaked Democratic National Committee email
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9785a653-45f5-4e7d-a003-eee64b8f2dc6
+        title: Democratic National Committee
+        slug: democratic-national-committee
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: null
+    date_end: null
+    location_in_record: ch20:2834-3038
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 86c22a91-6dd9-4b74-8031-7849942fd9f0
+    claim_hash: b39d1e7fddcedb71bfae092fc4cc8f74080b881d5ffb7cde9aa4656129980b45
+    content: The formal statement from the office of the US president flatly denies that the US has recovered extra-terrestrial
+      technology.
+    original_excerpt: Elizondo's admission is at odds with the formal statement from the US government, the office of the
+      president no less, flatly denying that the US has recovered extra-terrestrial technology.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 2011 White House statement denying extra-terrestrial contact and evidence
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: b709dbaa-f5db-4cbb-9c65-c6abfa73e766
+        title: 2011 White House statement denying extra-terrestrial contact and evidence
+        slug: 2011-white-house-statement-denying-extra-terrestrial-contact-and-evidence
+    date: null
+    date_end: null
+    location_in_record: ch24:15825-16003
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2389adf8-dccb-47a0-96cf-41f97625b55c
+    claim_hash: 2c034187af5ebd3e70bce481ed70c508b93ec81eeda8f14ece59986ea8d2f4b7
+    content: The memo asserts that no one in Congress, the White House or even any president is cleared to know the Big Secret,
+      because they were not on the Bigot list either.
+    original_excerpt: the memo asserts that no one in Congress, the White House or even any president is cleared to know The
+      Big Secret, for they were not on the ‘Bigot list’ either.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Admiral Wilson Memo (EWD Notes)
+      relay:
+        - Eric Davis
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+        title: The Admiral Wilson Memo
+        slug: the-admiral-wilson-memo
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: null
+    date_end: null
+    location_in_record: ch26:19352-19505
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 32ba3d5e-b3bf-4f99-9e05-3eb8f06852c7
+    claim_hash: 0dfdfdee98e97858afefdf7cc3f491bb5d703eac534eddc2b31a9c903ab95a6c
+    content: After the February 2023 unidentified object shoot-downs, Ryan Graves warned that the White House should not be
+      conflating the low-tech objects shot down with the extraordinary unexplained high-tech advanced objects witnessed by
+      pilots with whom he served.
+    original_excerpt: In the wake of the February 2023 'unidentified object' shoot-downs, former fighter pilot Ryan Graves
+      also warned18 that the White House should not be conflating the low-tech objects shot down with the extraordinary unexplained
+      high-tech, advanced objects witnessed by pilots with whom he served.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+      title: Ryan Graves
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ryan Graves
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+        title: Ryan Graves
+        slug: ryan-graves
+      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
+        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
+        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: 2023-02
+    date_end: null
+    location_in_record: ch29:27529-27817
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0fdbf18a-fa3c-4022-bd0d-35370d43a519
+    claim_hash: 2d73782ca00db0c37bcef5188e6fe7d160fe9ba9e6c3dc14b40046ff4b523b01
+    content: Karine Jean-Pierre and John Kirby gave a White House press briefing on the shot-down objects on 2023-02-13.
+    original_excerpt: Karine Jean-Pierre, Transcript 'Press Briefing by Press Secretary Karine Jean-Pierre and National Security
+      Council Coordinator for Strategic Communications John Kirby', White House Press Briefings, 13 Feb 2023.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: White House Press Briefing transcript
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 05e3b0a6-dddb-4f7b-9d9b-a4ff5d2611cf
+        title: Karine Jean-Pierre
+        slug: karine-jean-pierre
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+        title: National Security Council
+        slug: national-security-council
+      - node_id: c520793e-42fa-4367-9fa1-af331c60f8ee
+        title: John Kirby
+        slug: john-kirby
+    date: '2023-02-13'
+    date_end: null
+    location_in_record: ch34:69045-69250
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d267f396-9477-4118-9435-449a2ca88ffd
+    claim_hash: 629aca8b7538a9e6ebf600a0ac73e2ff4841f64090aef942fb449d07130c3cac
+    content: Harold Puthoff had, in various past capacities, regularly reported directly to the White House and the director
+      of the Central Intelligence Agency (CIA).
+    original_excerpt: In various past capacities, he had regularly reported directly to the White House and the director of
+      the CIA.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: null
+    date_end: null
+    location_in_record: ch10:2057-2163
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 2a4f3cc7-d302-42db-9dce-536be33d2b9d
+    claim_hash: 318dc48340f308763c5bf73f237455b8ae7fc0c114e1ecd7576613621d2a37e6
+    content: Project Stargate became successful enough that Harold Puthoff reported directly to the director of the Central
+      Intelligence Agency and the White House on a regular basis.
+    original_excerpt: Stargate became so successful, Hal reported directly to the director of the CIA and the White House
+      on a regular basis.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: null
+    date_end: null
+    location_in_record: ch11:25998-26111
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 4e047772-8db5-4bb5-b19a-f61a8adf93cb
+    claim_hash: d23a9729c502ce6a54f16632df0b5c7555cdc49d3c203bdaf28002894472e0f8
+    content: In 1952-07, multiple Unidentified Aerial Phenomena (UAP) resembling lights penetrated downtown Washington, DC
+      and buzzed the White House and the capital city over two consecutive weekends while Harry Truman was president.
+    original_excerpt: 'July 1952: Harry S. Truman was president. Multiple UAP resembling lights penetrated downtown DC and
+      buzzed the White House and the capital city over two consecutive weekends.'
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+        title: Harry S. Truman
+        slug: harry-s-truman
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: c8f86f9d-c712-41a9-aaa5-31eea5e427c7
+        title: 1952 Washington DC Unidentified Aerial Phenomena (UAP) flap
+        slug: 1952-washington-dc-unidentified-aerial-phenomena-uap-flap
+    date: 1952-07
+    date_end: null
+    location_in_record: ch12:25771-25938
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: a145b6b3-779f-4b6a-baf9-c828f48efb58
+    claim_hash: 22bf7f44a7b116cfe58b827aeb086e9f43f79017e308e32d4fe20f22c839b082
+    content: Luis Elizondo's new programme managed national-level special-access programs directly for the National Security
+      Council (NSC) and the White House.
+    original_excerpt: The program managed national-level special-access programs directly for the National Security Council
+      and the White House.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+        title: National Security Council
+        slug: national-security-council
+    date: null
+    date_end: null
+    location_in_record: ch16:16034-16150
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 4a5d794d-892d-4077-aed7-d69446612de5
+    claim_hash: 02cfbeddf9206b68216a895ce4757ee44ffc434f98b694b49ca1bbebf16babe1
+    content: Lue Elizondo was certified as a Special Technical Operations (STO) officer, holding the same sort of clearance
+      as White House employees who carry the nuclear codes for the president.
+    original_excerpt: Certified as a Special Technical Operations (STO) officer, I had the same sort of clearance as the White
+      House employees who carry the red phone or the nuclear codes for the president.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: null
+    date_end: null
+    location_in_record: ch20:2541-2715
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b7de916b-f30e-45a9-a397-b4a1cc3f6f0c
+    claim_hash: 37eef9ab43279644b064178b5ab3370e77c63b06ca204c897b3a12d3409b9ac3
+    content: Lue Elizondo had the clearances needed to work for the White House and the National Security Council (NSC).
+    original_excerpt: I had all the necessary clearances needed to work for the White House and the National Security Council.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+        title: National Security Council
+        slug: national-security-council
+    date: null
+    date_end: null
+    location_in_record: ch20:3050-3146
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 93270cf4-8b2b-4173-a414-496de12b86b5
+    claim_hash: 40f21aee718f410cc42e5e9b761bccc534db985cafa33b6454ff4319eb5727b3
+    content: A senior White House advisor named Brad Byers and a CIA liaison officer referred to as Shari Smith were deferred
+      to by a Secretary of Defense (SECDEF) liaison handling Luis Elizondo's efforts to brief James Mattis.
+    original_excerpt: The liaison had a hard time grasping the enormity of the issue and quickly deferred to two colleagues
+      of his, a senior White House advisor named Brad Byers, and a CIA liaison officer I will call Shari Smith.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 238b529a-af82-4168-84e1-0698bb5cdcf2
+        title: Brad Byers
+        slug: brad-byers
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: f07d6499-16a2-49ae-8702-4cf6499cd6dc
+        title: Shari Smith
+        slug: shari-smith
+    date: null
+    date_end: null
+    location_in_record: ch28:1260-1461
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 61703131-0c1c-4b49-80a4-c34e762cebf3
+    claim_hash: c0039585e144d2c5b29cc9ba0889cf5357be29b62359d8052462ad17fcd97276
+    content: John Podesta considers one of his regrets to be not insisting on disclosure of UAP evidence while he was in the
+      White House.
+    original_excerpt: Podesta has long said that one of his regrets was not insisting on disclosure of UAP evidence when he
+      was in the White House.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+      title: John Podesta
+    provenance_chain:
+      origin_kind: named
+      origin: John Podesta
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: null
+    date_end: null
+    location_in_record: ch29:13252-13371
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: af73f27e-6d01-4702-86f0-925398868a92
+    claim_hash: 16e5feb7377d46487dfd11d8194d85d4f7d067d23b83b06d13434d96867b3733
+    content: Jay Stratton received requests for briefings from members of the White House National Security Council (NSC),
+      who then briefed Donald Trump on some level regarding UAP.
+    original_excerpt: We were making enough noise in the press that Jay was getting requests for briefings from members of
+      the White House National Security Council, who then briefed Trump on some level, but I am not sure how much information
+      they actually shared.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+        title: National Security Council
+        slug: national-security-council
+    date: null
+    date_end: null
+    location_in_record: ch31:15556-15791
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 130e491f-f171-40b4-8fd9-0b038adb9a02
+    claim_hash: 6cd397028711b894555c60d1160defc130170c8df2a12d41b773b9cf46b0f62b
+    content: Around 2014, Lue Elizondo worked on a programme at Guantanamo Bay for the White House and National Security Council.
+    original_excerpt: At Guantanamo Bay circa 2014, working another program for the White House and National Security Council.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+        title: National Security Council
+        slug: national-security-council
+      - node_id: c97d75c4-feb8-4d22-a0f0-a1da89b7007f
+        title: Cuba, Guantanamo Bay
+        slug: guantanamo-bay-cuba
+    date: '2014'
+    date_end: null
+    location_in_record: ch37:1681-1777
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: ccabbbd5-9a38-47e7-bea4-f19a85568571
+    claim_hash: 3de87a7452e505b9a71c0cb7dd3d620960c593be0e10d00b5ee1f30ad917fbcb
+    content: Luis Elizondo managed Special Access Programs (SAPs) for the National Security Council (NSC) and the White House.
+    original_excerpt: Eventually, I managed Special Access Programs (SAPs) for the National Security Council (NSC) and the
+      White House.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+        title: National Security Council
+        slug: national-security-council
+    date: null
+    date_end: null
+    location_in_record: ch9:1143-1250
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: afc0e5de-d339-43d9-8bfb-cd0bd6f32257
+    claim_hash: 50a7a25e8608b439c98fdc3215076553b34a60ed337e5e6aeafbf6bf0be39272
+    content: Luis Elizondo's eleventh-floor corner office looked out at the Pentagon, with the Capitol, the Lincoln Memorial,
+      the Washington Monument, and the White House visible in the distance.
+    original_excerpt: My eleventh-floor corner office looked out at the Pentagon. In the distance I saw the Capitol, the Lincoln
+      Memorial, the Washington Monument, and the White House.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+        title: USA, Washington DC, Pentagon
+        slug: washington-dc-pentagon-usa
+    date: null
+    date_end: null
+    location_in_record: ch9:2191-2347
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: acc4e485-74c2-4b1c-a267-cbf1500cad69
+    claim_hash: 0721521e770a11ea7f9ee3fa65665a385953bbfd18e7a2d8ea5aebf5bdc7a229
+    content: In his last government position, Luis Elizondo managed a Special Access Program on behalf of the White House
+      and the National Security Council.
+    original_excerpt: In my last position, I managed a Special Access Program on behalf of the White House and the National
+      Security Council.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+        title: National Security Council
+        slug: national-security-council
+    date: '2024-11-13'
+    date_end: null
+    location_in_record: char:1344-1455
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 72cc1cf9-c482-4e0e-8629-c9d2fb101493
+      record_title: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing the Truth'
+      record_date: '2024-11-13'
+      record_reference: null
+      content_hash: sha256:f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce064218b64
+      friendly_name: 2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the
+  - claim_id: 303b0beb-37d0-46f8-b135-e8eddb8f6dd8
+    claim_hash: 5d4f8af885ca8784c039b7725fb6efa3f4b98610540ed43f6963aa51d58b36c5
+    content: Luis Elizondo states that the White House, the Central Intelligence Agency (CIA), the National Aeronautics and
+      Space Administration (NASA), the Pentagon, and the United States Department of Energy currently play a role in the UAP
+      issue but that no single entity is in charge.
+    original_excerpt: Currently, the White House, CIA, NASA, the Pentagon, Department of Energy, and others play a role, but
+      no one seems to be in charge, leading to unchecked power and corruption.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+        title: United States Department of Energy (DOE)
+        slug: united-states-department-of-energy-doe
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: '2024-11-13'
+    date_end: null
+    location_in_record: char:3537-3725
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 72cc1cf9-c482-4e0e-8629-c9d2fb101493
+      record_title: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing the Truth'
+      record_date: '2024-11-13'
+      record_reference: null
+      content_hash: sha256:f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce064218b64
+      friendly_name: 2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the
+  - claim_id: ec7a17c1-7262-4cf2-a4ff-10f12e43d537
+    claim_hash: 61d64d4554e4b05fae6d0030c436df9ef8a90e74f1e1a3e5502137ed2ee1f239
+    content: There is a governing board for Avi Loeb's science advisory council that includes representatives from the Office
+      of the Director of National Intelligence (ODNI), the White House, the Federal Bureau of Investigation (FBI), and the
+      intelligence community, who have access to classified material.
+    original_excerpt: There is a governing board that includes representatives from ODNI, from the White House, from the FBI,
+      from the intelligence community. And so those representatives have access, of course, to all the classified material.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: speaker
+      origin: Avi Loeb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: d191410c-c196-4b82-80e8-178935220d44
+        title: Avi Loeb's All-Domain Anomaly Resolution Office (AARO) science advisory council
+        slug: avi-loebs-all-domain-anomaly-resolution-office-aaro-science-advisory-council
+    date: null
+    date_end: null
+    location_in_record: 00:21:38.5-00:21:53.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: ccac9e9f-01cd-456c-9b33-4c37d79273d4
+    claim_hash: 2cbd789b7771b84fac9cfddadbf8b2ab2947cf74f89f12aa02cdc3ff75f90c41
+    content: If Avi Loeb cannot get through gatekeepers, Eric Burlison would ask the White House and tell President Trump
+      there is a problem.
+    original_excerpt: I'd ask the White House. I'd say, Mr. President, we got a problem.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+      title: Eric Burlison
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Burlison
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: 9fccea15-4512-4672-9127-b0c31800fbac
+        title: President Trump
+        slug: president-trump
+    date: null
+    date_end: null
+    location_in_record: 00:54:21.3-00:54:25.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 376c8caa-6f94-451f-bd60-60eae39b4178
+    claim_hash: 319eb215218001ee656e76696f07f09e3a90a68d56e1bc9eba0549132c9cc9da
+    content: Ross Coulthart knows of people in the White House administration who are considering giving the American public
+      information about what the government knows regarding Unidentified Aerial Phenomena (UAP).
+    original_excerpt: I do know that there are people in the White House administration. I suspect we've spoken to the same
+      people who are toying with the idea of giving the American public information about what the government knows.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: null
+    date_end: null
+    location_in_record: 00:31:20.9-00:31:34.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 6e886ba4-f360-41e5-9bdf-663af4481bf3
+    claim_hash: adde6f85d20036a3708991c083797ef36aff5d9a0f5c9232b777738afcf409e6
+    content: David Grusch is prepared to provide a full historical accounting to the National Security Council principals
+      and the White House Chief of Staff, and to make any supporting public statements that are authorised, to help the Trump
+      administration move UAP disclosure forward.
+    original_excerpt: “provide a full historical accounting to the National Security Council principals, the White House Chief
+      of Staff and make any supporting public statements that are authorised to help this administration move disclosure forward.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+        title: National Security Council
+        slug: national-security-council
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:2720-2939
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null
+  - claim_id: fc2e62bf-423a-4230-98d7-27625bf3b1bc
+    claim_hash: 021a7546b0d3d636dce9f5f6a86f18c21157483333f8ff963b0453343f6f9c7f
+    content: Whether Donald Trump is prepared to disclose any information related to UAP remains unclear, with sources offering
+      differing accounts of his level of interest and of how the White House is currently approaching the issue.
+    original_excerpt: Whether President Trump is prepared to disclose any information related to UAPs remains unclear, with
+      sources offering differing accounts of his level of interest and of how the White House is currently approaching the
+      issue.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: null
+    date_end: null
+    location_in_record: char:8119-8338
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null

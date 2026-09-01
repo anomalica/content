@@ -9,442 +9,454 @@ page:
   claim_count: 10
   claim_count_total: 10
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 10
+  tokens_estimated: 2856
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 10
 related_nodes:
-- node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
-  title: Donald Trump
-  node_type: person
-  slug: donald-trump
-  shared_claims: 6
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 6
-- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-  title: David Charles Grusch
-  node_type: person
-  slug: david-charles-grusch
-  shared_claims: 5
-- node_id: 1d228903-0bd7-401a-9902-2656e6e85650
-  title: Anna Paulina Luna
-  node_type: person
-  slug: anna-paulina-luna
-  shared_claims: 1
-- node_id: 58a6054b-7017-456d-888c-5f960f2651bd
-  title: Devin Nunes
-  node_type: person
-  slug: devin-nunes
-  shared_claims: 1
-- node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-  title: Marco Rubio
-  node_type: person
-  slug: marco-rubio
-  shared_claims: 1
-- node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
-  title: Phil McGraw
-  node_type: person
-  slug: phil-mcgraw
-  shared_claims: 1
-- node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
-  title: Tim Burchett
-  node_type: person
-  slug: tim-burchett
-  shared_claims: 1
-claims:
-- claim_id: f692a731-f89d-4b8e-88ac-4958a80fcfdc
-  claim_hash: 54a667ceb6abd0c08969b508a9a1495121ac4711704ee462ce8ac50a373b96ea
-  content: David Grusch is hearing mixed messages about how seriously Stephen Miller
-    is taking the Unidentified Aerial Phenomena (UAP) issue, and hopes Marco Rubio
-    is helping him at the White House.
-  original_excerpt: So once again, I hope Secretary Rubio is helping Stephen Miller
-    at the White House because I'm hearing mixed messages about Stephen Miller's seriousness.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 6
   - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
     title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
     slug: unidentified-anomalous-phenomena-uap
-  - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
-    title: Stephen Miller
-    slug: stephen-miller
-  - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-    title: Marco Rubio
-    slug: marco-rubio
+    shared_claims: 6
   - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
     title: David Charles Grusch
+    node_type: person
     slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: 00:27:41.8-00:27:50.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
-    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-    record_date: '2026-08-13'
-    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
-    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
-    friendly_name: null
-- claim_id: 0b4429a9-fe46-416a-a8af-4f2e0bd38166
-  claim_hash: 9d69d1fb10ccb3f27caeb03dbc7df9725f384e6392056b0bb76cac1fc7d2469c
-  content: David Grusch considers that Stephen Miller should enlist Devin Nunes and
-    his staff to help break the Unidentified Aerial Phenomena (UAP) issue open.
-  original_excerpt: And I hope that Stephen Miller has the wherewithal and seriousness
-    to break this open. and enlist the help of certain other people like Devin Nunes
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 58a6054b-7017-456d-888c-5f960f2651bd
-    title: Devin Nunes
-    slug: devin-nunes
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
-    title: Stephen Miller
-    slug: stephen-miller
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: 00:32:21.5-00:32:29.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
-    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-    record_date: '2026-08-13'
-    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
-    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
-    friendly_name: null
-- claim_id: d53b9cd1-5a00-42b7-97fa-22748edb97e7
-  claim_hash: fe4dbdbb308cbb5f9591896dfab2e580571756f28ff981adf2c54c70a0144e79
-  content: David Grusch recently told an element of Stephen Miller's task force that
-    they will have to get eyes onto the facilities holding recovered craft.
-  original_excerpt: And this is something I told an element of Mr. Miller's task force
-    recently is they're gonna have to get eyes onto those facilities
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
-    title: Stephen Miller
-    slug: stephen-miller
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: 00:44:23.6-00:44:30.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
-    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-    record_date: '2026-08-13'
-    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
-    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
-    friendly_name: null
-- claim_id: 7e837b4f-a5d6-4671-9c49-b4dbf3980b11
-  claim_hash: f6ba8a1552cc91472bcf61f6d4f8c5964bb4d99ac3884eef0bdc2d4039319220
-  content: Phil McGraw has discussed the Unidentified Aerial Phenomena (UAP) subject
-    with Donald Trump, Stephen Miller, Tim Burchett and Anna Paulina Luna.
-  original_excerpt: And I've discussed this with the president. I've discussed it
-    with Stephen Miller. I've discussed it with Representative Burchard and Luna.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
-    title: Phil McGraw
-  provenance_chain:
-    origin_kind: speaker
-    origin: Phil McGraw
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 5
   - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
     title: Anna Paulina Luna
+    node_type: person
     slug: anna-paulina-luna
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
-    title: Tim Burchett
-    slug: tim-burchett
-  - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
-    title: Stephen Miller
-    slug: stephen-miller
-  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
-    title: Donald Trump
-    slug: donald-trump
+    shared_claims: 1
+  - node_id: 58a6054b-7017-456d-888c-5f960f2651bd
+    title: Devin Nunes
+    node_type: person
+    slug: devin-nunes
+    shared_claims: 1
+  - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+    title: Marco Rubio
+    node_type: person
+    slug: marco-rubio
+    shared_claims: 1
   - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
     title: Phil McGraw
+    node_type: person
     slug: phil-mcgraw
-  date: null
-  date_end: null
-  location_in_record: 00:47:40.5-00:47:51.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
-    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-    record_date: '2026-08-13'
-    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
-    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
-    friendly_name: null
-- claim_id: 1a7b7910-9547-4417-903b-db8ec01b717a
-  claim_hash: 783bb1461de05e93efbdea9a3596a4d43ee8d39bfd57452faa468246f7eccabb
-  content: David Grusch considers that Stephen Miller and Donald Trump's team need
-    to realise that Unidentified Aerial Phenomena (UAP) disclosure will be the defining
-    moment of Trump's legacy.
-  original_excerpt: i think Mr Miller and the president's team needs to realize this
-    is going to be the defining moment of his legacy
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
-    title: Stephen Miller
-    slug: stephen-miller
-  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
-    title: Donald Trump
-    slug: donald-trump
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: 00:51:25.0-00:51:31.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
-    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-    record_date: '2026-08-13'
-    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
-    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
-    friendly_name: null
-- claim_id: 0765adfc-63ad-4f17-9ff1-e3e0070a5543
-  claim_hash: d46a1bf296a70330403c726dae464f0749a6827b74227aa95fec46b2e643122f
-  content: David Grusch believes the responsibility for UAP disclosure now rests with
-    Donald Trump's inner circle, and that even if Trump doesn't disclose, people will
-    look back and ask what the President knew and why he didn't get the information
-    out.
-  original_excerpt: “Mr Miller and the President’s team need to realise this is going
-    to be the defining moment of his legacy, because even if Trump doesn’t disclose,
-    the genie is out of the bottle now and we’re going to look back on ‘what did the
-    President know and why didn’t he get the information out?’”
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
-    title: Stephen Miller
-    slug: stephen-miller
-  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
-    title: Donald Trump
-    slug: donald-trump
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: char:1331-1611
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3b884786-04ff-4e4b-816f-621161e9d948
-    record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
-      Their Push
-    record_date: '2026-08-19'
-    record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
-    content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
-    friendly_name: null
-- claim_id: 7fb21883-c1b5-4e4c-8280-3db629122482
-  claim_hash: e62720f19b2be8bb6178b14093e78acf6ec682b6061d7e2fab223ac1cfa0d506
-  content: Stephen Miller is one of Donald Trump's closest and longest-serving advisers.
-  original_excerpt: Stephen Miller, one of Trump’s closest and longest‑serving advisers
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
-    title: Stephen Miller
-    slug: stephen-miller
-  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
-    title: Donald Trump
-    slug: donald-trump
-  date: null
-  date_end: null
-  location_in_record: char:664-723
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3b884786-04ff-4e4b-816f-621161e9d948
-    record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
-      Their Push
-    record_date: '2026-08-19'
-    record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
-    content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
-    friendly_name: null
-- claim_id: 76841e2e-a564-461c-8fbf-014c5ab6b5dc
-  claim_hash: b0ee5bed83ea0cc272c339a25400cdbd370005e4b234c7c6a8d4bbf65e0fcc35
-  content: Donald Trump reportedly asked Stephen Miller to examine the UAP portfolio.
-  original_excerpt: Stephen Miller, one of Trump’s closest and longest‑serving advisers,
-    has reportedly been asked by the President to examine the UAP portfolio
-  claim_type: hearsay
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
-    title: Stephen Miller
-    slug: stephen-miller
-  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
-    title: Donald Trump
-    slug: donald-trump
-  date: null
-  date_end: null
-  location_in_record: char:664-795
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3b884786-04ff-4e4b-816f-621161e9d948
-    record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
-      Their Push
-    record_date: '2026-08-19'
-    record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
-    content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
-    friendly_name: null
-- claim_id: 96bcc656-af12-46f3-a334-d5f8573be3ec
-  claim_hash: 238828b83cede92c0bbc834bae9b2c294124f4c27430331fa3a2fc8c6b58041b
-  content: Stephen Miller is a central architect of Trump-era policy and a dominant
-    voice within Donald Trump's political operation.
-  original_excerpt: Miller, a central architect of Trump‑era policy and a dominant
-    voice within his political operation
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
-    title: Stephen Miller
-    slug: stephen-miller
-  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
-    title: Donald Trump
-    slug: donald-trump
-  date: null
-  date_end: null
-  location_in_record: char:807-897
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3b884786-04ff-4e4b-816f-621161e9d948
-    record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
-      Their Push
-    record_date: '2026-08-19'
-    record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
-    content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
-    friendly_name: null
-- claim_id: 6ed8a680-4cae-4d70-8a44-bbf75c522fb3
-  claim_hash: 2f83d532847dd6196dd7eb49c2dad816bc6e45aaf0dda5813098963bc5574dd6
-  content: Stephen Miller is seen by disclosure advocates as a key figure in determining
-    how the Trump administration approaches the UAP issue.
-  original_excerpt: is now seen by disclosure advocates as a key figure in determining
-    how the administration approaches the subject
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
-    title: Stephen Miller
-    slug: stephen-miller
-  date: null
-  date_end: null
-  location_in_record: char:908-1013
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3b884786-04ff-4e4b-816f-621161e9d948
-    record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
-      Their Push
-    record_date: '2026-08-19'
-    record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
-    content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+    title: Tim Burchett
+    node_type: person
+    slug: tim-burchett
+    shared_claims: 1
+claims:
+  - claim_id: f692a731-f89d-4b8e-88ac-4958a80fcfdc
+    claim_hash: 54a667ceb6abd0c08969b508a9a1495121ac4711704ee462ce8ac50a373b96ea
+    content: David Grusch is hearing mixed messages about how seriously Stephen Miller is taking the Unidentified Aerial Phenomena
+      (UAP) issue, and hopes Marco Rubio is helping him at the White House.
+    original_excerpt: So once again, I hope Secretary Rubio is helping Stephen Miller at the White House because I'm hearing
+      mixed messages about Stephen Miller's seriousness.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+        title: Stephen Miller
+        slug: stephen-miller
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:27:41.8-00:27:50.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 0b4429a9-fe46-416a-a8af-4f2e0bd38166
+    claim_hash: 9d69d1fb10ccb3f27caeb03dbc7df9725f384e6392056b0bb76cac1fc7d2469c
+    content: David Grusch considers that Stephen Miller should enlist Devin Nunes and his staff to help break the Unidentified
+      Aerial Phenomena (UAP) issue open.
+    original_excerpt: And I hope that Stephen Miller has the wherewithal and seriousness to break this open. and enlist the
+      help of certain other people like Devin Nunes
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 58a6054b-7017-456d-888c-5f960f2651bd
+        title: Devin Nunes
+        slug: devin-nunes
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+        title: Stephen Miller
+        slug: stephen-miller
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:32:21.5-00:32:29.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: d53b9cd1-5a00-42b7-97fa-22748edb97e7
+    claim_hash: fe4dbdbb308cbb5f9591896dfab2e580571756f28ff981adf2c54c70a0144e79
+    content: David Grusch recently told an element of Stephen Miller's task force that they will have to get eyes onto the
+      facilities holding recovered craft.
+    original_excerpt: And this is something I told an element of Mr. Miller's task force recently is they're gonna have to
+      get eyes onto those facilities
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+        title: Stephen Miller
+        slug: stephen-miller
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:44:23.6-00:44:30.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 7e837b4f-a5d6-4671-9c49-b4dbf3980b11
+    claim_hash: f6ba8a1552cc91472bcf61f6d4f8c5964bb4d99ac3884eef0bdc2d4039319220
+    content: Phil McGraw has discussed the Unidentified Aerial Phenomena (UAP) subject with Donald Trump, Stephen Miller,
+      Tim Burchett and Anna Paulina Luna.
+    original_excerpt: And I've discussed this with the president. I've discussed it with Stephen Miller. I've discussed it
+      with Representative Burchard and Luna.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+        title: Anna Paulina Luna
+        slug: anna-paulina-luna
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+        title: Stephen Miller
+        slug: stephen-miller
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:47:40.5-00:47:51.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 1a7b7910-9547-4417-903b-db8ec01b717a
+    claim_hash: 783bb1461de05e93efbdea9a3596a4d43ee8d39bfd57452faa468246f7eccabb
+    content: David Grusch considers that Stephen Miller and Donald Trump's team need to realise that Unidentified Aerial Phenomena
+      (UAP) disclosure will be the defining moment of Trump's legacy.
+    original_excerpt: i think Mr Miller and the president's team needs to realize this is going to be the defining moment
+      of his legacy
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+        title: Stephen Miller
+        slug: stephen-miller
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:51:25.0-00:51:31.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 0765adfc-63ad-4f17-9ff1-e3e0070a5543
+    claim_hash: d46a1bf296a70330403c726dae464f0749a6827b74227aa95fec46b2e643122f
+    content: David Grusch believes the responsibility for UAP disclosure now rests with Donald Trump's inner circle, and that
+      even if Trump doesn't disclose, people will look back and ask what the President knew and why he didn't get the information
+      out.
+    original_excerpt: “Mr Miller and the President’s team need to realise this is going to be the defining moment of his legacy,
+      because even if Trump doesn’t disclose, the genie is out of the bottle now and we’re going to look back on ‘what did
+      the President know and why didn’t he get the information out?’”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+        title: Stephen Miller
+        slug: stephen-miller
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:1331-1611
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null
+  - claim_id: 7fb21883-c1b5-4e4c-8280-3db629122482
+    claim_hash: e62720f19b2be8bb6178b14093e78acf6ec682b6061d7e2fab223ac1cfa0d506
+    content: Stephen Miller is one of Donald Trump's closest and longest-serving advisers.
+    original_excerpt: Stephen Miller, one of Trump’s closest and longest‑serving advisers
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+        title: Stephen Miller
+        slug: stephen-miller
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+    date: null
+    date_end: null
+    location_in_record: char:664-723
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null
+  - claim_id: 76841e2e-a564-461c-8fbf-014c5ab6b5dc
+    claim_hash: b0ee5bed83ea0cc272c339a25400cdbd370005e4b234c7c6a8d4bbf65e0fcc35
+    content: Donald Trump reportedly asked Stephen Miller to examine the UAP portfolio.
+    original_excerpt: Stephen Miller, one of Trump’s closest and longest‑serving advisers, has reportedly been asked by the
+      President to examine the UAP portfolio
+    claim_type: hearsay
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+        title: Stephen Miller
+        slug: stephen-miller
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+    date: null
+    date_end: null
+    location_in_record: char:664-795
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null
+  - claim_id: 96bcc656-af12-46f3-a334-d5f8573be3ec
+    claim_hash: 238828b83cede92c0bbc834bae9b2c294124f4c27430331fa3a2fc8c6b58041b
+    content: Stephen Miller is a central architect of Trump-era policy and a dominant voice within Donald Trump's political
+      operation.
+    original_excerpt: Miller, a central architect of Trump‑era policy and a dominant voice within his political operation
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+        title: Stephen Miller
+        slug: stephen-miller
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+    date: null
+    date_end: null
+    location_in_record: char:807-897
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null
+  - claim_id: 6ed8a680-4cae-4d70-8a44-bbf75c522fb3
+    claim_hash: 2f83d532847dd6196dd7eb49c2dad816bc6e45aaf0dda5813098963bc5574dd6
+    content: Stephen Miller is seen by disclosure advocates as a key figure in determining how the Trump administration approaches
+      the UAP issue.
+    original_excerpt: is now seen by disclosure advocates as a key figure in determining how the administration approaches
+      the subject
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+        title: Stephen Miller
+        slug: stephen-miller
+    date: null
+    date_end: null
+    location_in_record: char:908-1013
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null

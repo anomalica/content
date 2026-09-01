@@ -9,1480 +9,1452 @@ page:
   claim_count: 36
   claim_count_total: 36
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 36
+  tokens_estimated: 10160
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 36
 related_nodes:
-- node_id: c09e3558-1732-4676-a218-d67d285d98ef
-  title: David Fravor
-  node_type: person
-  slug: david-fravor
-  shared_claims: 16
-- node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-  title: Boeing
-  node_type: organisation
-  slug: boeing
-  shared_claims: 3
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 2
-- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-  title: Advanced Aerospace Threat Identification Program (AATIP)
-  node_type: project
-  slug: advanced-aerospace-threat-identification-program-aatip
-  shared_claims: 2
-- node_id: 97aecdee-d37b-41de-af3a-d0a4417b3168
-  title: USA, Virginia, Virginia Beach
-  node_type: place
-  slug: virginia-virginia-beach-usa
-  shared_claims: 2
-- node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
-  title: AN/APG-79 Radar
-  node_type: object
-  slug: anapg-79-radar
-  shared_claims: 1
-- node_id: f38b5c00-7a46-45bf-ac8d-e955dd2eff8c
-  title: F/A-18 Hornet
-  node_type: object
-  slug: fa-18-hornet
-  shared_claims: 1
-- node_id: e57005b4-b10f-49a9-872f-61f00312b820
-  title: Gimbal video
-  node_type: document
-  slug: gimbal-video
-  shared_claims: 1
-- node_id: 496160fe-b4d1-4ca1-a0b2-026f34331740
-  title: Joint Direct Attack Munition (JDAM)
-  node_type: object
-  slug: joint-direct-attack-munition-jdam
-  shared_claims: 1
-- node_id: a8931da4-765a-4eba-8636-8c0b8db4f12c
-  title: Navy Fighter Attack Squadron 11 (Strike Fighter Squadron 11 (VFA-11))
-  node_type: organisation
-  slug: navy-fighter-attack-squadron-11-strike-fighter-squadron-11-vfa-11
-  shared_claims: 1
-- node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
-  title: Raytheon
-  node_type: organisation
-  slug: raytheon
-  shared_claims: 1
-- node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-  title: Ryan Graves
-  node_type: person
-  slug: ryan-graves
-  shared_claims: 1
-- node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
-  title: Strike Fighter Squadron 41 (VFA-41)
-  node_type: organisation
-  slug: strike-fighter-squadron-41-vfa-41
-  shared_claims: 1
-- node_id: 6bbbf07f-eebd-474d-831f-d24907bc2498
-  title: USA, California, Lemoore
-  node_type: place
-  slug: california-lemoore-usa
-  shared_claims: 1
-- node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-  title: USA, California, San Diego
-  node_type: place
-  slug: california-san-diego-usa
-  shared_claims: 1
-- node_id: b19d9e26-a7fd-482f-931c-0600e995e73e
-  title: USA, Missouri, St. Louis
-  node_type: place
-  slug: missouri-st-louis-usa
-  shared_claims: 1
-- node_id: c5781019-f0dd-4ddc-afe3-ccb1b077cbe9
-  title: USA, Virginia, NAS Oceana
-  node_type: place
-  slug: virginia-nas-oceana-usa
-  shared_claims: 1
-- node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-  title: USS Nimitz (CVN-68)
-  node_type: object
-  slug: uss-nimitz-cvn-68
-  shared_claims: 1
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-  title: United States Department of Defense (DoD)
-  node_type: organisation
-  slug: united-states-department-of-defense-dod
-  shared_claims: 1
-- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-  title: United States Navy (USN)
-  node_type: organisation
-  slug: united-states-navy-usn
-  shared_claims: 1
-claims:
-- claim_id: 256731ef-c86b-4e5c-a799-74579ec38f8f
-  claim_hash: 07055014e0c7ff258f0f9f2b0177434ed393c19615d80112ef0c5ed3f05aa094
-  content: The Advanced Aerospace Threat Identification Program (AATIP) collected
-    video and audio recordings of reported UFO incidents, including footage from a
-    Navy F/A-18 Super Hornet showing an aircraft surrounded by some kind of glowing
-    aura travelling at high speed and rotating as it moves.
-  original_excerpt: The program collected video and audio recordings of reported U.F.O.
-    incidents, including footage from a Navy F/A-18 Super Hornet showing an aircraft
-    surrounded by some kind of glowing aura traveling at high speed and rotating as
-    it moves.
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-    title: Advanced Aerospace Threat Identification Program (AATIP)
-    slug: advanced-aerospace-threat-identification-program-aatip
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: char:10275-10507
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
-      Program (Published 2017)'
-    record_date: '2017-12-16'
-    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
-    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
-    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
-- claim_id: e3fba71b-74a3-4946-8db4-85ff858c0891
-  claim_hash: 38a38ae99e8885ae9d394d4fcfd8ad0cd84c4829ca58e906f0e23936e6eb492f
-  content: Defense officials declined to release the location and date of the incident
-    showing a Navy F/A-18 Super Hornet encounter with an object surrounded by a glowing
-    aura.
-  original_excerpt: Defense officials declined to release the location and date of
-    the incident.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  date: null
-  date_end: null
-  location_in_record: char:10633-10700
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
-      Program (Published 2017)'
-    record_date: '2017-12-16'
-    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
-    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
-    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
-- claim_id: 76b0d4cc-7365-4f96-8151-7d82dc791dfa
-  claim_hash: 43307a0bd111bd9ec24a74bb2cbf45d4a7d2a3d0e9dd9a689a298a2119d84a32
-  content: In August 2017 the Advanced Aerospace Threat Identification Program (AATIP)
-    released a video of a whitish oval object, about the size of a commercial plane,
-    chased by two Navy F/A-18F fighter jets from the aircraft carrier USS Nimitz off
-    the coast of San Diego in 2004.
-  original_excerpt: including one released in August of a whitish oval object, about
-    the size of a commercial plane, chased by two Navy F/A-18F fighter jets from the
-    aircraft carrier Nimitz off the coast of San Diego in 2004.
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-    title: Advanced Aerospace Threat Identification Program (AATIP)
-    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    node_type: person
+    slug: david-fravor
+    shared_claims: 16
+  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+    title: Boeing
+    node_type: organisation
+    slug: boeing
+    shared_claims: 3
   - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
     title: 2004 USS Nimitz UAP encounter
+    node_type: event
     slug: 2004-uss-nimitz-uap-encounter
-  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-    title: USS Nimitz (CVN-68)
-    slug: uss-nimitz-cvn-68
-  date: '2004'
-  date_end: null
-  location_in_record: char:2946-3146
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
-      Program (Published 2017)'
-    record_date: '2017-12-16'
-    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
-    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
-    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
-- claim_id: ffe50373-966c-4068-80c0-e63a5ec273c0
-  claim_hash: dbc20c30300eec43f2b2ba8db5216cd44e0858e1c46e9f02a2ffd171d86dee61
-  content: An F/A-18F Super Hornet performs a split-S vertical displacement manoeuvre,
-    rolling inverted and descending in a C-shape, in approximately 760 metres.
-  original_excerpt: a Super Hornet to do what a split S is... it does it in about
-    roughly about 2,500 feet, give or take a little.
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:05:35.0-00:06:15.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: a21d3788-a3fe-46be-ae06-0070cf820071
-  claim_hash: fad87adadcb478eb6937161db16d7b447411a988866c9ae02ae973ca544789b7
-  content: The F/A-18F Super Hornet is a two-seat aircraft used more for electronic
-    attack and full-up fighter-bomber roles.
-  original_excerpt: the F-18F Super Hornet, which is the F is a two seater and the
-    G is also a two seater, but it's more of an electronic attack by say, full up
-    fighter, bomber
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  date: null
-  date_end: null
-  location_in_record: 00:21:35.0-00:21:43.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: d4161bf8-1e93-4860-b49d-b6327cadabb4
-  claim_hash: 39ebb8e9841f1081250133824af87dc34182dd9bdf7be3cfad5f86f5207d7c85
-  content: After 2001, David Fravor shifted to flying F/A-18F Super Hornets.
-  original_excerpt: And then I shifted over and started flying the Super Hornets
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:22:07.7-00:22:09.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 79cdeaa3-fbcc-4fbf-b6cf-ab5507c588b2
-  claim_hash: dd6e7a915b4247c39635fa8b57d5a556c3470508e296c7910f09112e55b2aef7
-  content: David Fravor flew the two-seat variant of the F/A-18F Super Hornet when
-    he had command of Strike Fighter Squadron 41 (VFA-41).
-  original_excerpt: But I deployed, when I had command of VFA-41, I had the two-seat.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
-    title: Strike Fighter Squadron 41 (VFA-41)
-    slug: strike-fighter-squadron-41-vfa-41
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:22:12.0-00:22:16.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: a707cd0f-1e9b-443f-93aa-28288f16448c
-  claim_hash: 463d22a8e39084a089399963d08ea359756a6ead3cad2e5b38e44f1457ceaa6c
-  content: The introduction of the F/A-18F Super Hornet, which carries a weapon systems
-    operator in the back seat, created some friction at USA, California, Lemoore.
-  original_excerpt: he really wanted, because he knew there was a little bit of a
-    problem when the Super Hornets came into Lemoore... And now all of a sudden, you've
-    got the F-18F coming in, which has the weapon systems operators in the back.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: 6bbbf07f-eebd-474d-831f-d24907bc2498
-    title: USA, California, Lemoore
-    slug: california-lemoore-usa
-  date: null
-  date_end: null
-  location_in_record: 00:23:02.4-00:23:20.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 840ddb54-e82a-42eb-b3f5-e85b979dbd5d
-  claim_hash: 76a10715ac5d26223aecccd7cabb143a906656ac6046eab2d9e9fa9cf60099b2
-  content: Weapon systems operators in the F/A-18F Super Hornet are not pilots and
-    are a distinct role from pilots.
-  original_excerpt: that are not pilots, they're weapon systems operators, and there's
-    a difference.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  date: null
-  date_end: null
-  location_in_record: 00:23:21.1-00:23:23.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: fbfd233a-2b71-4f09-a0c7-6a3e5c6ba436
-  claim_hash: 5ee07f16306d29f288afd5b994371faf9ecbbaacc353453022c5e5af349ba7b8
-  content: In the F/A-18F Super Hornet, the weapon systems operator in the back seat
-    handles most of the aircraft's radio communications.
-  original_excerpt: most of the communications that go out of the airplane, the Wizzo
-    does all the talking, he's got actually, he uses his feet.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  date: null
-  date_end: null
-  location_in_record: 00:33:13.3-00:33:18.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 90e76de5-fae8-4d69-bf2a-201c18c880f6
-  claim_hash: b5e3eda5a58e1e1c2be87a14f6e9dec435549f1a94a1b8043d5c6691bf06add7
-  content: The F/A-18F Super Hornet has a situational awareness display linked to
-    all other aircraft in the network.
-  original_excerpt: we have a situational awareness display and it's linked to all
-    the other airplanes.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  date: null
-  date_end: null
-  location_in_record: 00:33:25.8-00:33:29.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: e5fcdf7e-0403-4270-93cd-cb25919c1430
-  claim_hash: 7a0191f81f5a86521a98afbc08354432ee7fd5e9c391ca880b6f0a04c904ac41
-  content: The block two variant of the F/A-18F Super Hornet has a display for the
-    weapon systems operator measuring approximately 20 by 25 centimetres, while the
-    pilot's display is smaller, at approximately 15 by 15 centimetres.
-  original_excerpt: the back of the Super Hornet has, well, the block twos has about
-    an eight by 10 display for the wizos... the pilots is smaller. It's down between
-    us. It's a six by six
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  date: null
-  date_end: null
-  location_in_record: 00:33:36.9-00:33:45.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 9a2bdc28-7e4b-4287-a079-ff2812971c61
-  claim_hash: c44f1924260a117211df6291ed3a310a533e5a5d2ca26f7a1b9d82fb50f60a36
-  content: Boeing was planning to redesign the pilot's display in the F/A-18F Super
-    Hornet.
-  original_excerpt: they're, they're getting ready to redesign that Boeing is.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  date: null
-  date_end: null
-  location_in_record: 00:33:46.6-00:33:49.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 2382913d-74a3-4df0-90d5-28cbc7b93247
-  claim_hash: 9e374d6e5cfe98dd80a79f29168ba7001fdb9e087894c0a6b5e596bb5bf9c61c
-  content: The F/A-18F Super Hornet's networked digital link fuses sensor data across
-    multiple aircraft, showing crews the positions of friendly and enemy aircraft
-    in real time.
-  original_excerpt: It's sending it out through the link, so all the airplanes are
-    talking to each other through this digital network... that airplane says hey i'm
-    over here and it tells us and we go oh he's right there
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  date: null
-  date_end: null
-  location_in_record: 00:34:32.8-00:34:42.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 5429237c-9980-4bb3-9cbf-39ae257e3d03
-  claim_hash: dbc47577ba683bc30eab78105412391333071b248fe2170e1b45990f47ae3615
-  content: The automation in the F/A-18F Super Hornet's flight controls is a control
-    loop enabled by digital flight controls, designed to make the aircraft easier
-    to fly.
-  original_excerpt: The AI piece would be more of a control loop because of the digital
-    flight controls. So the airplane actually, they had to make the airplane easier
-    to fly.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:35:27.5-00:35:35.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 3ba13736-4d20-4270-93a7-e744cae1ebcd
-  claim_hash: 4a7433b252b89036a0d3275f5e0e6845408e26f58c2fefe8d6d57edf252020b9
-  content: In the F/A-18F Super Hornet, a joint helmet-mounted cueing system maps
-    the magnetic field in the cockpit to track where the pilot's head is looking.
-  original_excerpt: you've got a joint helmet mounted queuing system on that basically
-    maps the magnetic field in the cockpit so it can tell where your head's at looking.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  date: null
-  date_end: null
-  location_in_record: 00:36:00.0-00:36:05.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 37ed27f4-f94c-4b8a-8298-aa2dad8305bf
-  claim_hash: a422e025e54226995686cc54ddcbd4728e8cad08062a909a1adb0ccf8955338f
-  content: In the F/A-18F Super Hornet, turning the pilot's head slews the radar and
-    targeting pod to look in the same direction.
-  original_excerpt: So if I turn my head to the right, the radar will actually look
-    to the right, the targeting flare will look to the right.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  date: null
-  date_end: null
-  location_in_record: 00:36:06.9-00:36:11.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: ae76954b-62fb-4bf5-9efc-93c7164ebaba
-  claim_hash: 1f33a80dbb1138e6f59cf5839c2375ea3b590d1dc8aab75e1e1628ccf74db46d
-  content: In the F/A-18F Super Hornet, the back-seat weapon systems operator also
-    wears a helmet that can independently slew whichever sensor he is controlling.
-  original_excerpt: the back seater has a helmet on too, so he can look to the left
-    and he can do things. So depending on what sensor he's controlling. So if he's
-    got control of the targeting pod and he looks left, the targeting pod looks left.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  date: null
-  date_end: null
-  location_in_record: 00:36:13.0-00:36:23.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: e16e37ac-2fa9-4c2b-8173-954c739beb41
-  claim_hash: c0b2e7e5c2098f869fe669807131570f027adef7c241d7e7cd5cca93618ea329
-  content: The F/A-18F Super Hornet has a phased-array radar that does not need to
-    mechanically scan.
-  original_excerpt: because it's a phased array radar now, it doesn't really scan.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  date: null
-  date_end: null
-  location_in_record: 00:36:30.6-00:36:33.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: f8f950c7-f1d4-45d5-b756-69ae7082d672
-  claim_hash: 5bdaee5fa153711dcb02b348741ae44bce992288c50c147ad5a4fc1dab7b9230
-  content: Using the helmet-cueing system and JDAM in the F/A-18F Super Hornet, David
-    Fravor can slew sensors and transfer targeting coordinates to weapons within seconds,
-    compared to a process that used to take minutes.
-  original_excerpt: i can literally slew my sensors this fast, and then mash a button
-    and transfer high-quality coordinates from a system into a joint JDAM... and then
-    let that thing fly. And I'm solving this problem in seconds, vise minutes.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: 496160fe-b4d1-4ca1-a0b2-026f34331740
-    title: Joint Direct Attack Munition (JDAM)
-    slug: joint-direct-attack-munition-jdam
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:36:53.9-00:37:10.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 263b4462-2306-4c45-a3c1-e9f8def947c7
-  claim_hash: 04b44151e71870e9f283d362dac40727d1c19d6661156abe1f8abed83683a200
-  content: David Fravor observed that the digital flight control logic in modern aircraft
-    is extremely forgiving, allowing manoeuvres that surprise even the pilot flying
-    the aircraft.
-  original_excerpt: especially since the flight control logic in modern airplanes
-    with digital flight controls, they're extremely forgiving. So you can literally,
-    I've done things in Super Hornets that literally even as a pilot inside the airplane,
-    you're just like, wow, I cannot believe it just did that.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:39:48.4-00:40:05.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 1ba0c3d6-2aff-4995-8f07-531728db1c65
-  claim_hash: 6ebcd41fb62c310120c7c1021c2a07890bc49dd8f70277cd6ea26807452fa273
-  content: David Fravor states that the F/A-18F Super Hornet is rated for 7.5 G but
-    will not overstress until 8.1 G, depending on fuel weight.
-  original_excerpt: the jet's rated at seven and a half, but it'll pull up to 8.1
-    before it overstresses, depends on fuel weight.
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:54:14.2-00:54:18.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: b6ffa9a7-6679-467c-80ae-e84a2edea4f8
-  claim_hash: df1ce875e1f44dee16ad86d5251909615a93e9040942c61e2a9d22f1d7390f4d
-  content: David Fravor states that in the F/A-18F Super Hornet he routinely experienced
-    accelerations of around 8 G.
-  original_excerpt: So, I mean, you routinely get up there towards eight G's.
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:54:19.8-00:54:21.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 8b4829dc-9fc8-4b29-8a37-22e1033aa679
-  claim_hash: aae27dd0c105689c5a9dd46dc796d90866250856f8697724c598d42e67b725a7
-  content: After completing his first Super Hornet cruise, David Fravor visited the
-    Boeing factory in St. Louis, Missouri, where his squadron's new F/A-18F Super
-    Hornets were being built.
-  original_excerpt: We had went to the Boeing factory in St. Louis, where they were
-    building my new jets that I was going to get.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: b19d9e26-a7fd-482f-931c-0600e995e73e
-    title: USA, Missouri, St. Louis
-    slug: missouri-st-louis-usa
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:54:52.2-00:54:56.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: ffc8ea23-c493-4acb-8573-b12347549e9a
-  claim_hash: e799d647fa81dacd3138b054f2b1763390b1237156e002516e6e65a32d84cf6a
-  content: David Fravor signed the inside of the wing of one of his new F/A-18F Super
-    Hornets while it was being assembled at the Boeing factory.
-  original_excerpt: And I actually signed the inside of one of the wings while they
-    were putting it together.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:54:56.3-00:54:59.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 89a58f3f-da67-4787-8555-a6f23df26331
-  claim_hash: 11ffc2ac4189f8ab358c757bf5c4239ece9fb30c7be126064a6967bb334c12d1
-  content: David Fravor has friends whose children are now flying F/A-18F Super Hornets
-    in the United States Navy.
-  original_excerpt: Like currently, I have friends of mine that we serve together.
-    Their kids are flying super hornets, right?
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-    title: United States Navy (USN)
-    slug: united-states-navy-usn
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:55:40.9-00:55:47.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 0289a0a6-3967-45ab-bc62-b15619a24ff8
-  claim_hash: 16e18871e8961471273e28ac5919671ba53f20fe27827a84d6b0a01aa74c433c
-  content: At Mach 1.78 in an F/A-18F Super Hornet with no ejection seat safety margin,
-    David Fravor realised he would not be able to eject if something went wrong, as
-    the ejection itself would kill him at that speed.
-  original_excerpt: there's no out if something happens i can't eject the ejection
-    would kill me
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 01:08:07.3-01:08:11.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 1260e19c-c38e-47e7-be4a-d3f565b462a7
-  claim_hash: b42715ff7e1e2d73e5c3d4535a3079d2d1b2f56a6fedacd68a58f9ff8e27439e
-  content: The Super Hornet flown by David Fravor during his Mach 1.78 flight was
-    unarmed, with no external pylons or pods.
-  original_excerpt: the airplane didn't have anything on it. It was a slicked-off
-    Super Hornet, so it was basically just the airplane. No pylons, no pods, no nothing.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 01:08:41.3-01:08:46.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 779837eb-f82a-4a66-abc9-e7aff7162978
-  claim_hash: 17a6d1a64a7da1285ad0b40cda4957d013b31a84700e3579cbe8fed57a15ca62
-  content: The F/A-18F Super Hornet does not have functioning speed brakes at high
-    supersonic speed, because the flight controls deform and the speed brakes cease
-    to function.
-  original_excerpt: the super horn, it really doesn't have speed brakes. It, it deforms
-    the flight controls. they don't function
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 01:08:58.9-01:09:04.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 1bd21bee-7cce-46da-9f7d-e19d6616cd2e
-  claim_hash: cede6f3f457dcae97e6308d13d1672a4784255d4dd3975125236ca7f697c660a
-  content: During the 2004 USS Nimitz UFO incident, David Fravor and three other crew
-    members flew two F/A-18F Super Hornet aircraft, two people in each jet, when their
-    training mission was cancelled.
-  original_excerpt: So originally it was the four of us. There's two jets, two people
-    in each jet. They're F-18Fs.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: '2004'
-  date_end: null
-  location_in_record: 01:15:07.6-01:15:11.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 9031b8e1-00b9-4574-b91c-d9baac8abd83
-  claim_hash: 1436709df54c2dc8313a321fb94e6b7715556175737032c38c30232ec9206dfb
-  content: Legacy F/A-18 Hornet aircraft carry less fuel than F/A-18F Super Hornet
-    aircraft.
-  original_excerpt: the little hornets the legacy hornets f-18s don't have as much
-    gas as the super hornets
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: f38b5c00-7a46-45bf-ac8d-e955dd2eff8c
-    title: F/A-18 Hornet
-    slug: fa-18-hornet
-  date: null
-  date_end: null
-  location_in_record: 01:27:25.5-01:27:29.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: bf86aeab-838c-4b05-8ec6-b2040285ab3f
-  claim_hash: d1b242885df73dee00a3d7690231c7b93046f5cb847341eea3a8013615e0a72f
-  content: The aircraft involved in filming the Gimbal video were F/A-18F Super Hornets
-    equipped with the AN/APG-79 phased array radar made by Raytheon.
-  original_excerpt: the airplanes they're flying, still Super Hornets, but they have
-    the APG-79, which is the new phased array radar that's made by Raytheon
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
-    title: Raytheon
-    slug: raytheon
+    shared_claims: 2
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: project
+    slug: advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 2
+  - node_id: 97aecdee-d37b-41de-af3a-d0a4417b3168
+    title: USA, Virginia, Virginia Beach
+    node_type: place
+    slug: virginia-virginia-beach-usa
+    shared_claims: 2
   - node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
     title: AN/APG-79 Radar
+    node_type: object
     slug: anapg-79-radar
+    shared_claims: 1
+  - node_id: f38b5c00-7a46-45bf-ac8d-e955dd2eff8c
+    title: F/A-18 Hornet
+    node_type: object
+    slug: fa-18-hornet
+    shared_claims: 1
   - node_id: e57005b4-b10f-49a9-872f-61f00312b820
     title: Gimbal video
+    node_type: document
     slug: gimbal-video
-  date: null
-  date_end: null
-  location_in_record: 02:44:59.2-02:45:05.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
-  claim_hash: 9662435c4695fce6d96b83dc5fde650b0e369fe511f7498f1dadaa4406603f45
-  content: In 2014, Ryan Graves was an F/A-18F Super Hornet pilot in Navy Fighter
-    Attack Squadron 11 (the Red Rippers), stationed at NAS Oceana in Virginia Beach.
-  original_excerpt: In 2014, I was an F–18 Foxtrot pilot in the Navy Fighter Attack
-    Squadron 11, the Red Rippers, and I was stationed at NAS Oceana in Virginia Beach.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-    title: Ryan Graves
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ryan Graves
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
+    shared_claims: 1
+  - node_id: 496160fe-b4d1-4ca1-a0b2-026f34331740
+    title: Joint Direct Attack Munition (JDAM)
+    node_type: object
+    slug: joint-direct-attack-munition-jdam
+    shared_claims: 1
+  - node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
+    title: Raytheon
+    node_type: organisation
+    slug: raytheon
+    shared_claims: 1
   - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
     title: Ryan Graves
+    node_type: person
     slug: ryan-graves
-  - node_id: 97aecdee-d37b-41de-af3a-d0a4417b3168
-    title: USA, Virginia, Virginia Beach
-    slug: virginia-virginia-beach-usa
-  - node_id: a8931da4-765a-4eba-8636-8c0b8db4f12c
-    title: Navy Fighter Attack Squadron 11 (Strike Fighter Squadron 11 (VFA-11))
-    slug: navy-fighter-attack-squadron-11-strike-fighter-squadron-11-vfa-11
+    shared_claims: 1
+  - node_id: db447e1a-9f55-43a0-a4f6-3fb121cd4ceb
+    title: Strike Fighter Squadron 11 (VFA-11)
+    node_type: organisation
+    slug: strike-fighter-squadron-11-vfa-11
+    shared_claims: 1
+  - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
+    title: Strike Fighter Squadron 41 (VFA-41)
+    node_type: organisation
+    slug: strike-fighter-squadron-41-vfa-41
+    shared_claims: 1
+  - node_id: 6bbbf07f-eebd-474d-831f-d24907bc2498
+    title: USA, California, Lemoore
+    node_type: place
+    slug: california-lemoore-usa
+    shared_claims: 1
+  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+    title: USA, California, San Diego
+    node_type: place
+    slug: california-san-diego-usa
+    shared_claims: 1
+  - node_id: b19d9e26-a7fd-482f-931c-0600e995e73e
+    title: USA, Missouri, St. Louis
+    node_type: place
+    slug: missouri-st-louis-usa
+    shared_claims: 1
   - node_id: c5781019-f0dd-4ddc-afe3-ccb1b077cbe9
     title: USA, Virginia, NAS Oceana
+    node_type: place
     slug: virginia-nas-oceana-usa
-  date: '2014-01-01'
-  date_end: null
-  location_in_record: char:33046-33186
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 63a416b2-3a51-4242-be1e-cf61f391fb01
-  claim_hash: 94bc6744caa21eed595a4949a0590e95b3890010fc1dfa60af04735bcfb7115d
-  content: During a training mission in Warning Area W-72, approximately 16 kilometres
-    off the coast of Virginia Beach, two F/A-18F Super Hornets were split apart by
-    a UAP.
-  original_excerpt: During a training mission in Warning Area W–72, 10 miles off the
-    coast of Virginia Beach, two F–18 Super Hornets were split by a UAP.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-    title: Ryan Graves
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ryan Graves
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
+    shared_claims: 1
+  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+    title: USS Nimitz (CVN-68)
+    node_type: object
+    slug: uss-nimitz-cvn-68
+    shared_claims: 1
   - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
     title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
     slug: unidentified-anomalous-phenomena-uap
-  - node_id: 97aecdee-d37b-41de-af3a-d0a4417b3168
-    title: USA, Virginia, Virginia Beach
-    slug: virginia-virginia-beach-usa
-  date: null
-  date_end: null
-  location_in_record: char:33491-33620
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 86627e17-620d-4516-84d6-9779498444a4
-  claim_hash: 767c9d0e17d705096809d0a01dbc46b705086cca575ba1ec63f658f239aa9764
-  content: The mission commander terminated the training flight immediately and returned
-    to base after the UAP encounter that split the two F/A-18F Super Hornets.
-  original_excerpt: The mission commander terminated the flight immediately and returned
-    to base.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-    title: Ryan Graves
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ryan Graves
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  date: null
-  date_end: null
-  location_in_record: char:33799-33871
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 0e75a165-6521-4ec2-a887-099d37ecc850
-  claim_hash: 3f33cf8af0bf712c7393aeed8ba11ee11d2a7419c713347c780be9ce6557dd3b
-  content: David Fravor's aircraft was an F/A-18F Super Hornet carrying pilots and
-    Weapon Systems Officers (WSO) in the backseat.
-  original_excerpt: we were an F–18F so we had pilots and WSO in the backseat
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: 2004-11
-  date_end: null
-  location_in_record: char:41667-41716
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 1
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 1
+claims:
+  - claim_id: 256731ef-c86b-4e5c-a799-74579ec38f8f
+    claim_hash: 07055014e0c7ff258f0f9f2b0177434ed393c19615d80112ef0c5ed3f05aa094
+    content: The Advanced Aerospace Threat Identification Program (AATIP) collected video and audio recordings of reported
+      UFO incidents, including footage from a Navy F/A-18 Super Hornet showing an aircraft surrounded by some kind of glowing
+      aura travelling at high speed and rotating as it moves.
+    original_excerpt: The program collected video and audio recordings of reported U.F.O. incidents, including footage from
+      a Navy F/A-18 Super Hornet showing an aircraft surrounded by some kind of glowing aura traveling at high speed and rotating
+      as it moves.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: char:10275-10507
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: e3fba71b-74a3-4946-8db4-85ff858c0891
+    claim_hash: 38a38ae99e8885ae9d394d4fcfd8ad0cd84c4829ca58e906f0e23936e6eb492f
+    content: Defense officials declined to release the location and date of the incident showing a Navy F/A-18 Super Hornet
+      encounter with an object surrounded by a glowing aura.
+    original_excerpt: Defense officials declined to release the location and date of the incident.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: char:10633-10700
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: 76b0d4cc-7365-4f96-8151-7d82dc791dfa
+    claim_hash: 43307a0bd111bd9ec24a74bb2cbf45d4a7d2a3d0e9dd9a689a298a2119d84a32
+    content: In August 2017 the Advanced Aerospace Threat Identification Program (AATIP) released a video of a whitish oval
+      object, about the size of a commercial plane, chased by two Navy F/A-18F fighter jets from the aircraft carrier USS
+      Nimitz off the coast of San Diego in 2004.
+    original_excerpt: including one released in August of a whitish oval object, about the size of a commercial plane, chased
+      by two Navy F/A-18F fighter jets from the aircraft carrier Nimitz off the coast of San Diego in 2004.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004'
+    date_end: null
+    location_in_record: char:2946-3146
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: ffe50373-966c-4068-80c0-e63a5ec273c0
+    claim_hash: dbc20c30300eec43f2b2ba8db5216cd44e0858e1c46e9f02a2ffd171d86dee61
+    content: An F/A-18F Super Hornet performs a split-S vertical displacement manoeuvre, rolling inverted and descending in
+      a C-shape, in approximately 760 metres.
+    original_excerpt: a Super Hornet to do what a split S is... it does it in about roughly about 2,500 feet, give or take
+      a little.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:05:35.0-00:06:15.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: a21d3788-a3fe-46be-ae06-0070cf820071
+    claim_hash: fad87adadcb478eb6937161db16d7b447411a988866c9ae02ae973ca544789b7
+    content: The F/A-18F Super Hornet is a two-seat aircraft used more for electronic attack and full-up fighter-bomber roles.
+    original_excerpt: the F-18F Super Hornet, which is the F is a two seater and the G is also a two seater, but it's more
+      of an electronic attack by say, full up fighter, bomber
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+    date: null
+    date_end: null
+    location_in_record: 00:21:35.0-00:21:43.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: d4161bf8-1e93-4860-b49d-b6327cadabb4
+    claim_hash: 39ebb8e9841f1081250133824af87dc34182dd9bdf7be3cfad5f86f5207d7c85
+    content: After 2001, David Fravor shifted to flying F/A-18F Super Hornets.
+    original_excerpt: And then I shifted over and started flying the Super Hornets
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:22:07.7-00:22:09.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 79cdeaa3-fbcc-4fbf-b6cf-ab5507c588b2
+    claim_hash: dd6e7a915b4247c39635fa8b57d5a556c3470508e296c7910f09112e55b2aef7
+    content: David Fravor flew the two-seat variant of the F/A-18F Super Hornet when he had command of Strike Fighter Squadron
+      41 (VFA-41).
+    original_excerpt: But I deployed, when I had command of VFA-41, I had the two-seat.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
+        title: Strike Fighter Squadron 41 (VFA-41)
+        slug: strike-fighter-squadron-41-vfa-41
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:22:12.0-00:22:16.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: a707cd0f-1e9b-443f-93aa-28288f16448c
+    claim_hash: 463d22a8e39084a089399963d08ea359756a6ead3cad2e5b38e44f1457ceaa6c
+    content: The introduction of the F/A-18F Super Hornet, which carries a weapon systems operator in the back seat, created
+      some friction at USA, California, Lemoore.
+    original_excerpt: he really wanted, because he knew there was a little bit of a problem when the Super Hornets came into
+      Lemoore... And now all of a sudden, you've got the F-18F coming in, which has the weapon systems operators in the back.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 6bbbf07f-eebd-474d-831f-d24907bc2498
+        title: USA, California, Lemoore
+        slug: california-lemoore-usa
+    date: null
+    date_end: null
+    location_in_record: 00:23:02.4-00:23:20.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 840ddb54-e82a-42eb-b3f5-e85b979dbd5d
+    claim_hash: 76a10715ac5d26223aecccd7cabb143a906656ac6046eab2d9e9fa9cf60099b2
+    content: Weapon systems operators in the F/A-18F Super Hornet are not pilots and are a distinct role from pilots.
+    original_excerpt: that are not pilots, they're weapon systems operators, and there's a difference.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+    date: null
+    date_end: null
+    location_in_record: 00:23:21.1-00:23:23.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: fbfd233a-2b71-4f09-a0c7-6a3e5c6ba436
+    claim_hash: 5ee07f16306d29f288afd5b994371faf9ecbbaacc353453022c5e5af349ba7b8
+    content: In the F/A-18F Super Hornet, the weapon systems operator in the back seat handles most of the aircraft's radio
+      communications.
+    original_excerpt: most of the communications that go out of the airplane, the Wizzo does all the talking, he's got actually,
+      he uses his feet.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+    date: null
+    date_end: null
+    location_in_record: 00:33:13.3-00:33:18.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 90e76de5-fae8-4d69-bf2a-201c18c880f6
+    claim_hash: b5e3eda5a58e1e1c2be87a14f6e9dec435549f1a94a1b8043d5c6691bf06add7
+    content: The F/A-18F Super Hornet has a situational awareness display linked to all other aircraft in the network.
+    original_excerpt: we have a situational awareness display and it's linked to all the other airplanes.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+    date: null
+    date_end: null
+    location_in_record: 00:33:25.8-00:33:29.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: e5fcdf7e-0403-4270-93cd-cb25919c1430
+    claim_hash: 7a0191f81f5a86521a98afbc08354432ee7fd5e9c391ca880b6f0a04c904ac41
+    content: The block two variant of the F/A-18F Super Hornet has a display for the weapon systems operator measuring approximately
+      20 by 25 centimetres, while the pilot's display is smaller, at approximately 15 by 15 centimetres.
+    original_excerpt: the back of the Super Hornet has, well, the block twos has about an eight by 10 display for the wizos...
+      the pilots is smaller. It's down between us. It's a six by six
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+    date: null
+    date_end: null
+    location_in_record: 00:33:36.9-00:33:45.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 9a2bdc28-7e4b-4287-a079-ff2812971c61
+    claim_hash: c44f1924260a117211df6291ed3a310a533e5a5d2ca26f7a1b9d82fb50f60a36
+    content: Boeing was planning to redesign the pilot's display in the F/A-18F Super Hornet.
+    original_excerpt: they're, they're getting ready to redesign that Boeing is.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+    date: null
+    date_end: null
+    location_in_record: 00:33:46.6-00:33:49.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 2382913d-74a3-4df0-90d5-28cbc7b93247
+    claim_hash: 9e374d6e5cfe98dd80a79f29168ba7001fdb9e087894c0a6b5e596bb5bf9c61c
+    content: The F/A-18F Super Hornet's networked digital link fuses sensor data across multiple aircraft, showing crews the
+      positions of friendly and enemy aircraft in real time.
+    original_excerpt: It's sending it out through the link, so all the airplanes are talking to each other through this digital
+      network... that airplane says hey i'm over here and it tells us and we go oh he's right there
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+    date: null
+    date_end: null
+    location_in_record: 00:34:32.8-00:34:42.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 5429237c-9980-4bb3-9cbf-39ae257e3d03
+    claim_hash: dbc47577ba683bc30eab78105412391333071b248fe2170e1b45990f47ae3615
+    content: The automation in the F/A-18F Super Hornet's flight controls is a control loop enabled by digital flight controls,
+      designed to make the aircraft easier to fly.
+    original_excerpt: The AI piece would be more of a control loop because of the digital flight controls. So the airplane
+      actually, they had to make the airplane easier to fly.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:35:27.5-00:35:35.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 3ba13736-4d20-4270-93a7-e744cae1ebcd
+    claim_hash: 4a7433b252b89036a0d3275f5e0e6845408e26f58c2fefe8d6d57edf252020b9
+    content: In the F/A-18F Super Hornet, a joint helmet-mounted cueing system maps the magnetic field in the cockpit to track
+      where the pilot's head is looking.
+    original_excerpt: you've got a joint helmet mounted queuing system on that basically maps the magnetic field in the cockpit
+      so it can tell where your head's at looking.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+    date: null
+    date_end: null
+    location_in_record: 00:36:00.0-00:36:05.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 37ed27f4-f94c-4b8a-8298-aa2dad8305bf
+    claim_hash: a422e025e54226995686cc54ddcbd4728e8cad08062a909a1adb0ccf8955338f
+    content: In the F/A-18F Super Hornet, turning the pilot's head slews the radar and targeting pod to look in the same direction.
+    original_excerpt: So if I turn my head to the right, the radar will actually look to the right, the targeting flare will
+      look to the right.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+    date: null
+    date_end: null
+    location_in_record: 00:36:06.9-00:36:11.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: ae76954b-62fb-4bf5-9efc-93c7164ebaba
+    claim_hash: 1f33a80dbb1138e6f59cf5839c2375ea3b590d1dc8aab75e1e1628ccf74db46d
+    content: In the F/A-18F Super Hornet, the back-seat weapon systems operator also wears a helmet that can independently
+      slew whichever sensor he is controlling.
+    original_excerpt: the back seater has a helmet on too, so he can look to the left and he can do things. So depending on
+      what sensor he's controlling. So if he's got control of the targeting pod and he looks left, the targeting pod looks
+      left.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+    date: null
+    date_end: null
+    location_in_record: 00:36:13.0-00:36:23.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: e16e37ac-2fa9-4c2b-8173-954c739beb41
+    claim_hash: c0b2e7e5c2098f869fe669807131570f027adef7c241d7e7cd5cca93618ea329
+    content: The F/A-18F Super Hornet has a phased-array radar that does not need to mechanically scan.
+    original_excerpt: because it's a phased array radar now, it doesn't really scan.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+    date: null
+    date_end: null
+    location_in_record: 00:36:30.6-00:36:33.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: f8f950c7-f1d4-45d5-b756-69ae7082d672
+    claim_hash: 5bdaee5fa153711dcb02b348741ae44bce992288c50c147ad5a4fc1dab7b9230
+    content: Using the helmet-cueing system and JDAM in the F/A-18F Super Hornet, David Fravor can slew sensors and transfer
+      targeting coordinates to weapons within seconds, compared to a process that used to take minutes.
+    original_excerpt: i can literally slew my sensors this fast, and then mash a button and transfer high-quality coordinates
+      from a system into a joint JDAM... and then let that thing fly. And I'm solving this problem in seconds, vise minutes.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 496160fe-b4d1-4ca1-a0b2-026f34331740
+        title: Joint Direct Attack Munition (JDAM)
+        slug: joint-direct-attack-munition-jdam
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:36:53.9-00:37:10.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 263b4462-2306-4c45-a3c1-e9f8def947c7
+    claim_hash: 04b44151e71870e9f283d362dac40727d1c19d6661156abe1f8abed83683a200
+    content: David Fravor observed that the digital flight control logic in modern aircraft is extremely forgiving, allowing
+      manoeuvres that surprise even the pilot flying the aircraft.
+    original_excerpt: especially since the flight control logic in modern airplanes with digital flight controls, they're
+      extremely forgiving. So you can literally, I've done things in Super Hornets that literally even as a pilot inside the
+      airplane, you're just like, wow, I cannot believe it just did that.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:39:48.4-00:40:05.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 1ba0c3d6-2aff-4995-8f07-531728db1c65
+    claim_hash: 6ebcd41fb62c310120c7c1021c2a07890bc49dd8f70277cd6ea26807452fa273
+    content: David Fravor states that the F/A-18F Super Hornet is rated for 7.5 G but will not overstress until 8.1 G, depending
+      on fuel weight.
+    original_excerpt: the jet's rated at seven and a half, but it'll pull up to 8.1 before it overstresses, depends on fuel
+      weight.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:54:14.2-00:54:18.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: b6ffa9a7-6679-467c-80ae-e84a2edea4f8
+    claim_hash: df1ce875e1f44dee16ad86d5251909615a93e9040942c61e2a9d22f1d7390f4d
+    content: David Fravor states that in the F/A-18F Super Hornet he routinely experienced accelerations of around 8 G.
+    original_excerpt: So, I mean, you routinely get up there towards eight G's.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:54:19.8-00:54:21.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 8b4829dc-9fc8-4b29-8a37-22e1033aa679
+    claim_hash: aae27dd0c105689c5a9dd46dc796d90866250856f8697724c598d42e67b725a7
+    content: After completing his first Super Hornet cruise, David Fravor visited the Boeing factory in St. Louis, Missouri,
+      where his squadron's new F/A-18F Super Hornets were being built.
+    original_excerpt: We had went to the Boeing factory in St. Louis, where they were building my new jets that I was going
+      to get.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: b19d9e26-a7fd-482f-931c-0600e995e73e
+        title: USA, Missouri, St. Louis
+        slug: missouri-st-louis-usa
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:54:52.2-00:54:56.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: ffc8ea23-c493-4acb-8573-b12347549e9a
+    claim_hash: e799d647fa81dacd3138b054f2b1763390b1237156e002516e6e65a32d84cf6a
+    content: David Fravor signed the inside of the wing of one of his new F/A-18F Super Hornets while it was being assembled
+      at the Boeing factory.
+    original_excerpt: And I actually signed the inside of one of the wings while they were putting it together.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:54:56.3-00:54:59.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 89a58f3f-da67-4787-8555-a6f23df26331
+    claim_hash: 11ffc2ac4189f8ab358c757bf5c4239ece9fb30c7be126064a6967bb334c12d1
+    content: David Fravor has friends whose children are now flying F/A-18F Super Hornets in the United States Navy.
+    original_excerpt: Like currently, I have friends of mine that we serve together. Their kids are flying super hornets,
+      right?
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:55:40.9-00:55:47.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 0289a0a6-3967-45ab-bc62-b15619a24ff8
+    claim_hash: 16e18871e8961471273e28ac5919671ba53f20fe27827a84d6b0a01aa74c433c
+    content: At Mach 1.78 in an F/A-18F Super Hornet with no ejection seat safety margin, David Fravor realised he would not
+      be able to eject if something went wrong, as the ejection itself would kill him at that speed.
+    original_excerpt: there's no out if something happens i can't eject the ejection would kill me
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 01:08:07.3-01:08:11.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 1260e19c-c38e-47e7-be4a-d3f565b462a7
+    claim_hash: b42715ff7e1e2d73e5c3d4535a3079d2d1b2f56a6fedacd68a58f9ff8e27439e
+    content: The Super Hornet flown by David Fravor during his Mach 1.78 flight was unarmed, with no external pylons or pods.
+    original_excerpt: the airplane didn't have anything on it. It was a slicked-off Super Hornet, so it was basically just
+      the airplane. No pylons, no pods, no nothing.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 01:08:41.3-01:08:46.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 779837eb-f82a-4a66-abc9-e7aff7162978
+    claim_hash: 17a6d1a64a7da1285ad0b40cda4957d013b31a84700e3579cbe8fed57a15ca62
+    content: The F/A-18F Super Hornet does not have functioning speed brakes at high supersonic speed, because the flight
+      controls deform and the speed brakes cease to function.
+    original_excerpt: the super horn, it really doesn't have speed brakes. It, it deforms the flight controls. they don't
+      function
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 01:08:58.9-01:09:04.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 1bd21bee-7cce-46da-9f7d-e19d6616cd2e
+    claim_hash: cede6f3f457dcae97e6308d13d1672a4784255d4dd3975125236ca7f697c660a
+    content: During the 2004 USS Nimitz UFO incident, David Fravor and three other crew members flew two F/A-18F Super Hornet
+      aircraft, two people in each jet, when their training mission was cancelled.
+    original_excerpt: So originally it was the four of us. There's two jets, two people in each jet. They're F-18Fs.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: '2004'
+    date_end: null
+    location_in_record: 01:15:07.6-01:15:11.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 9031b8e1-00b9-4574-b91c-d9baac8abd83
+    claim_hash: 1436709df54c2dc8313a321fb94e6b7715556175737032c38c30232ec9206dfb
+    content: Legacy F/A-18 Hornet aircraft carry less fuel than F/A-18F Super Hornet aircraft.
+    original_excerpt: the little hornets the legacy hornets f-18s don't have as much gas as the super hornets
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: f38b5c00-7a46-45bf-ac8d-e955dd2eff8c
+        title: F/A-18 Hornet
+        slug: fa-18-hornet
+    date: null
+    date_end: null
+    location_in_record: 01:27:25.5-01:27:29.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: bf86aeab-838c-4b05-8ec6-b2040285ab3f
+    claim_hash: d1b242885df73dee00a3d7690231c7b93046f5cb847341eea3a8013615e0a72f
+    content: The aircraft involved in filming the Gimbal video were F/A-18F Super Hornets equipped with the AN/APG-79 phased
+      array radar made by Raytheon.
+    original_excerpt: the airplanes they're flying, still Super Hornets, but they have the APG-79, which is the new phased
+      array radar that's made by Raytheon
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
+        title: Raytheon
+        slug: raytheon
+      - node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
+        title: AN/APG-79 Radar
+        slug: anapg-79-radar
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: 02:44:59.2-02:45:05.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
+    claim_hash: 9662435c4695fce6d96b83dc5fde650b0e369fe511f7498f1dadaa4406603f45
+    content: In 2014, Ryan Graves was an F/A-18F Super Hornet pilot in Navy Fighter Attack Squadron 11 (the Red Rippers),
+      stationed at NAS Oceana in Virginia Beach.
+    original_excerpt: In 2014, I was an F–18 Foxtrot pilot in the Navy Fighter Attack Squadron 11, the Red Rippers, and I
+      was stationed at NAS Oceana in Virginia Beach.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+      title: Ryan Graves
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ryan Graves
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+        title: Ryan Graves
+        slug: ryan-graves
+      - node_id: 97aecdee-d37b-41de-af3a-d0a4417b3168
+        title: USA, Virginia, Virginia Beach
+        slug: virginia-virginia-beach-usa
+      - node_id: c5781019-f0dd-4ddc-afe3-ccb1b077cbe9
+        title: USA, Virginia, NAS Oceana
+        slug: virginia-nas-oceana-usa
+      - node_id: db447e1a-9f55-43a0-a4f6-3fb121cd4ceb
+        title: Strike Fighter Squadron 11 (VFA-11)
+        slug: strike-fighter-squadron-11-vfa-11
+    date: '2014-01-01'
+    date_end: null
+    location_in_record: char:33046-33186
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 63a416b2-3a51-4242-be1e-cf61f391fb01
+    claim_hash: 94bc6744caa21eed595a4949a0590e95b3890010fc1dfa60af04735bcfb7115d
+    content: During a training mission in Warning Area W-72, approximately 16 kilometres off the coast of Virginia Beach,
+      two F/A-18F Super Hornets were split apart by a UAP.
+    original_excerpt: During a training mission in Warning Area W–72, 10 miles off the coast of Virginia Beach, two F–18 Super
+      Hornets were split by a UAP.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+      title: Ryan Graves
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ryan Graves
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 97aecdee-d37b-41de-af3a-d0a4417b3168
+        title: USA, Virginia, Virginia Beach
+        slug: virginia-virginia-beach-usa
+    date: null
+    date_end: null
+    location_in_record: char:33491-33620
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 86627e17-620d-4516-84d6-9779498444a4
+    claim_hash: 767c9d0e17d705096809d0a01dbc46b705086cca575ba1ec63f658f239aa9764
+    content: The mission commander terminated the training flight immediately and returned to base after the UAP encounter
+      that split the two F/A-18F Super Hornets.
+    original_excerpt: The mission commander terminated the flight immediately and returned to base.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+      title: Ryan Graves
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ryan Graves
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+    date: null
+    date_end: null
+    location_in_record: char:33799-33871
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 0e75a165-6521-4ec2-a887-099d37ecc850
+    claim_hash: 3f33cf8af0bf712c7393aeed8ba11ee11d2a7419c713347c780be9ce6557dd3b
+    content: David Fravor's aircraft was an F/A-18F Super Hornet carrying pilots and Weapon Systems Officers (WSO) in the
+      backseat.
+    original_excerpt: we were an F–18F so we had pilots and WSO in the backseat
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: 2004-11
+    date_end: null
+    location_in_record: char:41667-41716
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety

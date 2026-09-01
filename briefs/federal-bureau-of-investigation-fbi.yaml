@@ -1,2203 +1,2251 @@
 schema: anomalica/brief/1
-brief_hash: d3788fbc0681bd4a64154301069c5fc892de87d5abca300c469bb396e350a6d7
+brief_hash: abcd8d2e2d087bc62ad8a12962229b143e652ce800a851585c8e5ac7085a8882
 page:
   kind: entity
   node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
   node_type: organisation
   title: Federal Bureau of Investigation (FBI)
   slug: federal-bureau-of-investigation-fbi
-  claim_count: 52
-  claim_count_total: 52
+  claim_count: 53
+  claim_count_total: 53
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 53
+  tokens_estimated: 16644
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 53
 related_nodes:
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 8
-- node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
-  title: Ed Dames
-  node_type: person
-  slug: ed-dames
-  shared_claims: 3
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 3
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 3
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 3
-- node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-  title: cattle mutilations phenomenon
-  node_type: topic
-  slug: cattle-mutilations-phenomenon
-  shared_claims: 3
-- node_id: be164183-f1cf-461d-be1d-53fc0b830a84
-  title: 1947 Roswell Unidentified Aerial Phenomena (UAP) crash
-  node_type: event
-  slug: 1947-roswell-unidentified-aerial-phenomena-uap-crash
-  shared_claims: 2
-- node_id: 11534995-4b1f-41b6-a0d7-5fa6aec01cbb
-  title: 1950 Guy Hottel Federal Bureau of Investigation (FBI) memo
-  node_type: document
-  slug: 1950-guy-hottel-federal-bureau-of-investigation-fbi-memo
-  shared_claims: 2
-- node_id: b0155e35-6757-4f3e-843c-edf49933d920
-  title: 1980 Federal Bureau of Investigation (FBI) cattle mutilation investigation
-  node_type: event
-  slug: 1980-federal-bureau-of-investigation-fbi-cattle-mutilation-investigation
-  shared_claims: 2
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 2
-- node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-  title: Jay Stratton
-  node_type: person
-  slug: jay-stratton
-  shared_claims: 2
-- node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-  title: National Reconnaissance Office (NRO)
-  node_type: organisation
-  slug: national-reconnaissance-office-nro
-  shared_claims: 2
-- node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
-  title: National Security Agency (NSA)
-  node_type: organisation
-  slug: national-security-agency-nsa
-  shared_claims: 2
-- node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
-  title: Office of Naval Intelligence
-  node_type: organisation
-  slug: office-of-naval-intelligence
-  shared_claims: 2
-- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-  title: Remote Viewing (RV)
-  node_type: topic
-  slug: remote-viewing-rv
-  shared_claims: 2
-- node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
-  title: September 11 attacks
-  node_type: event
-  slug: september-11-attacks
-  shared_claims: 2
-- node_id: 31fa0086-0c60-42a7-a1c3-aedeb4e2cf06
-  title: Task Force Dagger
-  node_type: project
-  slug: task-force-dagger
-  shared_claims: 2
-- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-  title: United States Air Force (USAF)
-  node_type: organisation
-  slug: united-states-air-force-usaf
-  shared_claims: 2
-- node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
-  title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash
-    retrieval
-  node_type: event
-  slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
-  shared_claims: 1
-- node_id: 85687100-9edf-4780-9111-ae7215a839c4
-  title: Afghanistan
-  node_type: place
-  slug: afghanistan
-  shared_claims: 1
-- node_id: 60c57b85-9054-44f3-a648-658f490bc297
-  title: Afghanistan, Kandahar
-  node_type: place
-  slug: kandahar-afghanistan
-  shared_claims: 1
-- node_id: 7850827c-3e46-4655-9410-f05eb95170c8
-  title: Al Qaeda
-  node_type: organisation
-  slug: al-qaeda
-  shared_claims: 1
-- node_id: d191410c-c196-4b82-80e8-178935220d44
-  title: Avi Loeb's All-Domain Anomaly Resolution Office (AARO) science advisory council
-  node_type: project
-  slug: avi-loebs-all-domain-anomaly-resolution-office-aaro-science-advisory-council
-  shared_claims: 1
-- node_id: 503fe64e-9703-4b62-a360-e2ad35e0cdb9
-  title: Beverly Oliver
-  node_type: person
-  slug: beverly-oliver
-  shared_claims: 1
-- node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-  title: Bill Clinton
-  node_type: person
-  slug: bill-clinton
-  shared_claims: 1
-- node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
-  title: Bruce Maccabee
-  node_type: person
-  slug: bruce-maccabee
-  shared_claims: 1
-- node_id: 27dfc73a-0513-4921-b833-54ef9e9fc4c3
-  title: Bureau of Alcohol, Tobacco, and Firearms
-  node_type: organisation
-  slug: tobacco-and-firearms-bureau-of-alcohol
-  shared_claims: 1
-- node_id: 0a1e7914-82e8-48f0-ae45-7a688df8b62f
-  title: Church Committee
-  node_type: organisation
-  slug: church-committee
-  shared_claims: 1
-- node_id: fac2c1f9-2729-4cf3-aec9-bd07adf3bf06
-  title: Clarence Kelley
-  node_type: person
-  slug: clarence-kelley
-  shared_claims: 1
-- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-  title: David Charles Grusch
-  node_type: person
-  slug: david-charles-grusch
-  shared_claims: 1
-claims:
-- claim_id: 43b8ca14-9eec-4b9c-82a5-8f2ef229f069
-  claim_hash: 1ab7ebb1f98c50b23ed108188ee763e9a4d7c4d236836a5cf156e40e5e90fa91
-  content: In a news release dated 1975-09-18, Colorado Senator Floyd K. Haskell disclosed
-    that he had discussed the cattle mutilations with FBI Director Clarence Kelley
-    and his chief assistant.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Haskell News Release
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 589ae4ed-e41d-4514-85e7-72038302a442
-    title: Floyd K. Haskell
-    slug: floyd-k-haskell
-  - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-    title: cattle mutilations phenomenon
-    slug: cattle-mutilations-phenomenon
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  - node_id: fac2c1f9-2729-4cf3-aec9-bd07adf3bf06
-    title: Clarence Kelley
-    slug: clarence-kelley
-  date: '1975-09-18'
-  date_end: null
-  location_in_record: ch12:23258-23441
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 4177bf86-f094-4cd3-b337-2b4fecdfd79e
-  claim_hash: 920df5bb8bea1ff4c49506cfbb0e5a046f02f018c172f02ea09d7ca688e7843f
-  content: The Federal Bureau of Investigation concluded it had no jurisdiction to
-    enter the cattle mutilation case because there was no evidence of interstate movement.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Federal Bureau of Investigation (FBI)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-    title: cattle mutilations phenomenon
-    slug: cattle-mutilations-phenomenon
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch12:23461-23565
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 87c32ede-8449-4403-a916-6b8abd6d7d89
-  claim_hash: 35b60dc4135ed9f8d1b329fecf0848c9301b220172ed00237e6c8c1b1db739aa
-  content: Dozens of law enforcement agencies in many states, as well as the Federal
-    Bureau of Investigation and the Bureau of Alcohol, Tobacco, and Firearms, were
-    pulled into the 1975 occult mutilation investigation.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Intelligence information regarding occult activities throughout the United
-      States (1975 report)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 27dfc73a-0513-4921-b833-54ef9e9fc4c3
-    title: Bureau of Alcohol, Tobacco, and Firearms
-    slug: tobacco-and-firearms-bureau-of-alcohol
-  - node_id: 5be461f1-e45f-4484-a650-e8658e81cb02
-    title: Intelligence information regarding occult activities throughout the United
-      States (1975 report)
-    slug: intelligence-information-regarding-occult-activities-throughout-the-united-states-1975-report
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch12:32370-32567
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 57aeeceb-49c9-40bb-b7d1-abedd3fd2552
-  claim_hash: c5e6992d4c7cbf59c9364ab92f28640f903ad089f81d55c5ab5bf26baf603270
-  content: The DNA analysis method chosen for the hair sample was based on forensic
-    procedures established by the Federal Bureau of Investigation (FBI) for the accurate
-    analysis of biological evidence found at crime scenes.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a789545b-0778-4fee-80fe-0741297014c2
-    title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis
-      of Peter Khoury's alien hair sample (Phase One, hair shaft, 1998-1999)
-    slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch12:6195-6418
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: ed367632-ab5a-40b4-a2ec-ce41a840513f
-  claim_hash: 686ab1f517a75c7b91c0d30c6b895c7f439eb2816b31cb882a9fb5b184b463fe
-  content: The FBI (Federal Bureau of Investigation) and increasingly police forces
-    around the world use DNA (deoxyribonucleic acid) profiling techniques in law enforcement.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0aa7acd4-c013-4bff-9317-e4160830d0a8
-    title: Deoxyribonucleic Acid (DNA) profiling
-    slug: deoxyribonucleic-acid-dna-profiling
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch7:5063-5246
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 9f9a3c78-79bf-40f4-b467-ea487a811884
-  claim_hash: b44e627fff0ec33b2a89c7eb9e4f920d7cd59cf1cfbfe6f48cf445e0d03c132c
-  content: Beverly Oliver claimed she gave her film to Federal Bureau of Investigation
-    (FBI) agent Regis Kennedy and that it was never returned.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 503fe64e-9703-4b62-a360-e2ad35e0cdb9
-    title: Beverly Oliver
-  provenance_chain:
-    origin_kind: speaker
-    origin: Beverly Oliver
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 503fe64e-9703-4b62-a360-e2ad35e0cdb9
-    title: Beverly Oliver
-    slug: beverly-oliver
-  - node_id: a82e9e4b-ecbe-4ac4-9875-49831b353870
-    title: Regis Kennedy
-    slug: regis-kennedy
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch10:83059-83153
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: da5e1265-1c04-4fad-8bc8-f328d3811c89
-  claim_hash: b4e23e6485b06b35a24c6cfeb62c99a3a71d1e584c5530a944dcc38a4926423c
-  content: A hand-written memo obtained under the Freedom of Information Act indicates
-    Jack Parsons' occult activities came under scrutiny of the Federal Bureau of Investigation
-    (FBI) and the Office of Naval Intelligence (ONI) as early as 1940.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: a hand-written memo obtained under the Freedom of Information Act
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
-    title: Jack Parsons
-    slug: jack-parsons
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
-    title: Office of Naval Intelligence
-    slug: office-of-naval-intelligence
-  date: '1940'
-  date_end: null
-  location_in_record: ch5:20181-20378
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: a14b5e6d-6cbc-4ddb-824d-8fb17165a5bc
-  claim_hash: 8cd89a9aedc319544e551c2becccd853e8cf4b858a437eaa0bba0de5ee7bd0cc
-  content: An FBI memo from the period indicates that the Office of Naval Intelligence
-    had an informant inside the Ordo Templi Orientis / Federation of American Scientists
-    group.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: an FBI memo from the period
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
-    title: Office of Naval Intelligence
-    slug: office-of-naval-intelligence
-  date: null
-  date_end: null
-  location_in_record: ch5:22398-22509
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: d38d20fc-6748-4ee6-a4dc-d1c35023d220
-  claim_hash: e8ade72a4250ce2b3e4ebb96a06efeccd9e824b996781ba8cdca55c1acdc21dd
-  content: Joseph McMoneagle provided professional intelligence and informational
-    support to the Federal Bureau of Investigation (FBI) during his career.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-    slug: joseph-mcmoneagle
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch4:1504-1683
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: a4ceb806-34cd-45e1-b0c5-84de5bcabf17
-  claim_hash: f2665b8a587024716b743b0564109f5a0f2c30a9980a68e7f1a0dad28fc323dd
-  content: An American source claimed that federal law enforcement agencies had compiled
-    exhaustive studies of United States UFO cases.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: an American source claiming knowledge of federal UFO case studies
-    relay:
-    - Paris newsmen
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: '1964'
-  date_end: null
-  location_in_record: ch10:4153-4473
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: e548206e-ecdf-4d29-96c9-31d15ef01e87
-  claim_hash: 8a60e28fba6e96ee1915a71b79626a0cecde4fb81df18a07e6ad0af98b52ae58
-  content: The US government was interested in Elijah Muhammad and his followers,
-    and the Federal Bureau of Investigation established a file on him and his community.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  - node_id: f9614930-07c5-471a-a2c9-c535d8f16308
-    title: Elijah Muhammad
-    slug: elijah-muhammad
-  date: null
-  date_end: null
-  location_in_record: char:31798-31905
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 3a57dade-5e71-4555-8cdb-83d5530d7df4
-  claim_hash: 789cb66b1fb86c06a13877068e84cce133fed29dedbc681565fa1681e6aabd8a
-  content: The Federal Bureau of Investigation and some UAP researchers have dismissed
-    the Majestic-12 documents as an elaborate hoax.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Federal Bureau of Investigation (FBI)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch14:15850-15976
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: b19fdeef-526a-4314-9cbd-ac22e651ba3c
-  claim_hash: 4cf09df9d7a8c1f95ad2abe430a1bf201c6a2e6d2844f8fbb98e868fd3ce3f29
-  content: Raleigh Tafoya Sr was derisive about the 1980 FBI report on cattle mutilations
-    and even more derisive of the investigative ability of the FBI investigator, who
-    he said insulted the intelligence of ranchers who had lost animals to cattle mutilations
-    in the 1970s.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 9fc0f248-6b0c-4d22-84d9-4176d1aca5a7
-    title: Raleigh Tafoya Sr
-  provenance_chain:
-    origin_kind: speaker
-    origin: Raleigh Tafoya Sr
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9fc0f248-6b0c-4d22-84d9-4176d1aca5a7
-    title: Raleigh Tafoya Sr
-    slug: raleigh-tafoya-sr
-  - node_id: b0155e35-6757-4f3e-843c-edf49933d920
-    title: 1980 Federal Bureau of Investigation (FBI) cattle mutilation investigation
-    slug: 1980-federal-bureau-of-investigation-fbi-cattle-mutilation-investigation
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch15:26843-27091
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: ab0d8ddd-9e7d-4c62-b454-d1355da6c018
-  claim_hash: d4f757ac881913e8e2ee708ff1926cdaf5c55dec7ca36c060ffd09cd1fb05e0c
-  content: It is a matter of public record, observed by police, FBI agents and local
-    veterinarians, that there have continued to be thousands of physical evidence
-    reports of suspicious cattle mutilations across a huge swathe of the US for decades.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch15:3493-3752
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: f9591521-8b12-4e92-842b-8da9721c6b48
-  claim_hash: 32996c4ce8ddcd2369055e65089e44f4ced084de6606a14f9d4805000d6cd689
-  content: An FBI investigation conceded in 1980 that there were cattle mutilation
-    cases that could not be prosaically explained, while concluding without evidence
-    that the mutilations were predominantly the result of natural predation.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Federal Bureau of Investigation (FBI)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: b0155e35-6757-4f3e-843c-edf49933d920
-    title: 1980 Federal Bureau of Investigation (FBI) cattle mutilation investigation
-    slug: 1980-federal-bureau-of-investigation-fbi-cattle-mutilation-investigation
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: '1980'
-  date_end: null
-  location_in_record: ch15:6125-6337
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 7ba807c7-051e-4207-b833-5e8c54f96e55
-  claim_hash: 68f7d4513654c7579ecf43d5de145b5958c00bffc555fccd2c16481db4d209c7
-  content: A 100-agent FBI investigation into suspected human involvement in cattle
-    mutilations, demanded by three US State Attorneys-General, failed to solve the
-    mystery.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Federal Bureau of Investigation (FBI)
-    relay:
-    - Ben Mezrich
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch15:7652-7790
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 879a7419-3c8d-4c6c-af20-caa0140d273a
-  claim_hash: e425bf02d4ec03ec0ff804928c2c7c8a2587faf2580f09f688cef3d1c8b1ca38
-  content: Ross Coulthart is most sure that in 1950 there was a determined effort
-    by the FBI and the US Air Force to smear businessman and scientist Silas Newton,
-    who was pushing the story of a recovered craft at Aztec, New Mexico.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
-    title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash
-      retrieval
-    slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 3b640ddc-58be-44eb-bdf9-2bd0864f2622
-    title: Silas Newton
-    slug: silas-newton
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-    slug: ross-coulthart
-  date: '1950'
-  date_end: null
-  location_in_record: ch17:14948-15155
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: a27a2822-d617-4f37-9a46-41e05813114e
-  claim_hash: f4721a9eefb138e7d46a1639608637a222b3ce87bb6e632f151aeef28fe70c6b
-  content: Sur Novel described Nat Kobitz's facial reaction to seeing the ARV Fluxliner
-    drawing as one of surprise, not alarm, as if he recognised what it was rather
-    than treating it as something to report to the FBI or a national security threat.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
-    title: Sur Novel
-  provenance_chain:
-    origin_kind: speaker
-    origin: Sur Novel
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
-    title: Sur Novel
-    slug: sur-novel
-  - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
-    title: Nat Kobitz
-    slug: nat-kobitz
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  - node_id: fb349523-76fb-4f68-ad4c-e11301eb09f8
-    title: Fluxliner alien reproduction vehicle
-    slug: fluxliner-alien-reproduction-vehicle
-  date: null
-  date_end: null
-  location_in_record: ch27:7743-7963
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: bda76c77-8f53-4fae-969b-f4f841e94a4c
-  claim_hash: 2f14b42c4ce98f34e02d9e70d2d31e5da9ed5da341cb62a7edac2e0f80ed3522
-  content: Guy Hottel was the head of the FBI's Washington DC field office at the
-    time he wrote the 1950 memo.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 19a378eb-9e49-4fbf-957e-8c7080da2ad4
-    title: Guy Hottel
-    slug: guy-hottel
-  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-    title: USA, District of Columbia, Washington
-    slug: district-of-columbia-washington-usa
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch8:4509-4585
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 4d8fef51-4615-46fc-b29e-f7c58f0996a6
-  claim_hash: 71e821df1e9ce637296cb6eb00368ec428a089bf4f149718b336722ba146c616
-  content: The 1950 Guy Hottel FBI memo remains the most controversial and most popular
-    file in the FBI's archive.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 11534995-4b1f-41b6-a0d7-5fa6aec01cbb
-    title: 1950 Guy Hottel Federal Bureau of Investigation (FBI) memo
-    slug: 1950-guy-hottel-federal-bureau-of-investigation-fbi-memo
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch8:4593-4665
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: ce17cad1-c452-4f60-ac5f-2b56b1cad793
-  claim_hash: 6f98c0416138c3137daa317ef6dd9b5427c5dae015a29893e7f0a09ea96d47c5
-  content: The FBI's website states that the Hottel report was never confirmed or
-    investigated, and that the memo does not prove the existence of aliens.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Federal Bureau of Investigation (FBI)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 11534995-4b1f-41b6-a0d7-5fa6aec01cbb
-    title: 1950 Guy Hottel Federal Bureau of Investigation (FBI) memo
-    slug: 1950-guy-hottel-federal-bureau-of-investigation-fbi-memo
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch8:4711-4905
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 4bc30ea8-341e-43a9-8249-4edb77a19e6d
-  claim_hash: 3f9721c540ce578092fd2dc5c1b5fef184d9f8e7d9fc45b5b7d51518a9b1fd89
-  content: David Mahler said that for decades the United States Air Force, Federal
-    Bureau of Investigation, and Central Intelligence Agency maintained an official
-    policy of denying, dispelling, and debunking the UFO subject.
-  original_excerpt: Well, for decades, the Air Force, FBI, CIA, all the official agencies
-    had a policy of denial. Deny the subject, dispel the subject, debunk the subject.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 025270b1-d5bc-4fbd-a423-b5e58b124973
-    title: David Marler
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Mahler
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 025270b1-d5bc-4fbd-a423-b5e58b124973
-    title: David Marler
-    slug: david-marler
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
+    node_type: organisation
     slug: central-intelligence-agency-cia
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: 00:06:01.6-00:06:13.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-- claim_id: e124a23e-64ec-42b4-b2d7-0b561158cad9
-  claim_hash: 8b33783470bb9ea4274c365673099a31a91fca9a5bcdd7d68f615345fe8ddb76
-  content: During research for a book, the Federal Bureau of Investigation (FBI) told
-    an interviewer that there are 10,000 unsolved cattle mutilation cases across the
-    United States.
-  original_excerpt: The reality is it's real because the United States FBI, when I
-    was doing my book research, they told me that there are 10,000 unsolved cattle
-    mutilation cases across the United States, across a swathe of the United States.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Federal Bureau of Investigation (FBI)
-    relay:
-    - an interviewer's book research
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-    title: cattle mutilations phenomenon
-    slug: cattle-mutilations-phenomenon
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: 01:15:50.9-01:16:08.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-- claim_id: ce6356fb-9350-4eef-b262-cac98953bbc6
-  claim_hash: edb7ae46e63066747b73b00e5475986d104bf250d8c0199acdfb6cb953cd5bd8
-  content: Ed Dames and his organisation use remote viewing in operations, including
-    searching for FBI fugitives.
-  original_excerpt: The rest of the time we actually use remote viewing in operations.
-    ... Looking for, for instance, FBI fugitives.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
-    title: Ed Dames
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ed Dames
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 9
   - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
     title: Ed Dames
+    node_type: person
     slug: ed-dames
-  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
-    slug: remote-viewing-rv
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: 00:30:48.7-00:30:51.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
-- claim_id: fd812e7c-4b1d-4bca-92c4-3deda1cbeeab
-  claim_hash: 8d45f63192ee7b6eb3d14f27f50c9e67237608db4c83406da3ec23cc207acaa2
-  content: Ed Dames supports the United States Marshals Service with remote-viewing
-    information because they make use of it, whereas the FBI discards it.
-  original_excerpt: I support the U.S. Marshals mainly because they support me. They
-    actually use my information where the FBI just throws it away.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
-    title: Ed Dames
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ed Dames
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
-    title: Ed Dames
-    slug: ed-dames
-  - node_id: 4563669b-5ed8-4730-a072-d0f07e23df99
-    title: United States Marshals Service
-    slug: united-states-marshals-service
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: 00:30:58.8-00:31:08.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
-- claim_id: 9bff8154-c26f-4e3c-91cb-a8a6da5c20a4
-  claim_hash: 2516406ee1e0725f87043d41fc240eb0ded58b4f167d5cc8cc8a0fa0cdf4c4c7
-  content: Ed Dames independently searches for FBI fugitives using remote viewing.
-  original_excerpt: So I search for the FBI fugitives on my own.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
-    title: Ed Dames
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ed Dames
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
-    title: Ed Dames
-    slug: ed-dames
-  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
-    slug: remote-viewing-rv
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: 00:31:08.9-00:31:11.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
-- claim_id: 15c83492-fe56-4e53-9834-cc41c456b629
-  claim_hash: 0f141843e2f1f0d54795838df6d3e1df9fb983021b841d7e50cea2da128b0e84
-  content: Jason Derrick Brown is on the FBI's most wanted list.
-  original_excerpt: Jason Derrick Brown is now a face on the FBI's most wanted list.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narrator
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 16e1a583-54bc-4965-8ed6-02cb10afeeaf
-    title: Jason Derrick Brown
-    slug: jason-derrick-brown
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: 00:31:30.0-00:31:33.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
-- claim_id: d227955c-cd8d-4f91-8eeb-69e89838ebe9
-  claim_hash: 5dfef6187bdb88233a682f44fb4fc779bac8acb9dcf31ee47f51ec260744956e
-  content: The Central Intelligence Agency and the Federal Bureau of Investigation
-    have sometimes posted unclassified Unidentified Aerial Phenomena (UAP) documents
-    on their websites for the public to search for and download.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    shared_claims: 3
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch12:20721-20820
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 1a16ce6e-b476-4bb6-9b86-c5de8491bb5a
-  claim_hash: 4b269b9105d305307bdf3b66ef5f0918093025179ebefd456a5a7d8df09df82b
-  content: The Federal Bureau of Investigation investigated the 1964 Lonnie Zamora
-    UAP encounter at Socorro, New Mexico.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: 1964-04
-  date_end: null
-  location_in_record: ch12:22897-23016
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: b7c6650d-8920-404a-9cdd-d6e616f813f7
-  claim_hash: e99bab143272a1a2f2b16c88b48390648a171dc4109169d9c68830e7a0d9bb75
-  content: Edgar Mitchell's family was among the Roswell families threatened by the
-    Federal Bureau of Investigation (FBI) after the 1947 Roswell UAP crash.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: third_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: named
-    origin: Edgar Mitchell
-    relay:
-    - Harold Puthoff and Eric Davis
-    - Lue Elizondo
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 59476464-a679-46ce-9247-b0adcb287762
-    title: Edgar Mitchell
-    slug: edgar-mitchell
-  - node_id: be164183-f1cf-461d-be1d-53fc0b830a84
-    title: 1947 Roswell Unidentified Aerial Phenomena (UAP) crash
-    slug: 1947-roswell-unidentified-aerial-phenomena-uap-crash
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch12:8451-8587
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: b109f646-8c09-4d39-b776-4530fd5719c2
-  claim_hash: 53d00770e9f2037d1ee68cf1dc15147f73614d54e06a52d185a732ed2e22504d
-  content: Federal Bureau of Investigation (FBI) agents visited ranchers in the Roswell,
-    New Mexico region door-to-door to deliver the message that anyone who spoke about
-    the 1947 Roswell UAP crash would be killed.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: third_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: named
-    origin: Edgar Mitchell
-    relay:
-    - Harold Puthoff and Eric Davis
-    - Lue Elizondo
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-    title: USA, New Mexico, Roswell
-    slug: new-mexico-roswell-usa
-  - node_id: be164183-f1cf-461d-be1d-53fc0b830a84
-    title: 1947 Roswell Unidentified Aerial Phenomena (UAP) crash
-    slug: 1947-roswell-unidentified-aerial-phenomena-uap-crash
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch12:8596-8738
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 418e41b5-05d8-42dd-9c48-31fbb73a0862
-  claim_hash: c28888f610cd61ad5a082b7e18e37550810fedfa32ccdbf88c6874349f091293
-  content: In April 1964, the FBI reported finding a downed craft near Socorro, New
-    Mexico, described as "shaped like a butane tank" and about as long as a telephone
-    pole, that had narrowly missed a witness's father's farmhouse; the witness was
-    deemed "sober and frightened".
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: named
-    origin: Federal Bureau of Investigation (FBI)
-    relay:
-    - a historical report reviewed by Lue Elizondo
-  attribution_mode: unknown
-  node_refs:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
-    title: USA, New Mexico, Socorro
-    slug: new-mexico-socorro-usa
-  date: 1964-04
-  date_end: null
-  location_in_record: ch15:12691-12940
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: fae26fbd-46df-4160-a4a4-c3c86d7cc42a
-  claim_hash: 8299a4d508a0c8ab2e5472c78626285e863238d468f324c250c0c2dd1647a739
-  content: The Federal Bureau of Investigation (FBI) is responsible for handling federal
-    crimes within the continental United States.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch20:1704-1778
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: c39091df-6c5b-4177-8274-2c40bef3aebb
-  claim_hash: 4793843bec1392f438b5cdb5b25bbad88227195c92782be45ef155f012f0c878
-  content: The witnesses to the orb sighting at White Sands Missile Range in 2013
-    included scientists, security personnel, and a Federal Bureau of Investigation
-    (FBI) special agent assigned to the Albuquerque Field Office.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
-    title: USA, New Mexico, White Sands Missile Range
-    slug: new-mexico-white-sands-missile-range-usa
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: '2013'
-  date_end: null
-  location_in_record: ch20:474-590
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 69b57bbc-41eb-4480-bc6a-6d9284e7ee2f
-  claim_hash: d666087f4cb6337daf6c24a9e84165dc2e874c92a413cf677cd83dbd30423cf8
-  content: Lue Elizondo considered that the September 11 attacks could have been prevented
-    had agencies including the Central Intelligence Agency (CIA) and the Federal Bureau
-    of Investigation (FBI) shared their information about Al Qaeda together.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 7850827c-3e46-4655-9410-f05eb95170c8
-    title: Al Qaeda
-    slug: al-qaeda
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
-    title: September 11 attacks
-    slug: september-11-attacks
-  date: null
-  date_end: null
-  location_in_record: ch21:3588-3895
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 6e421200-6359-4aa4-9334-f72b412d9c4a
-  claim_hash: 7b517c0b205d58abbd755600a6fada8304c9a3392f3b77a0a4874583938e969b
-  content: Various elements in government throughout 2022 sought face-to-face meetings
-    with lawmakers to protest the Unidentified Aerial Phenomena (UAP) whistleblower-reprisal
-    legislation, arguing they must be able to prosecute whistleblowers and to have
-    the Federal Bureau of Investigation (FBI) pursue former employees who spoke out
-    of line.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: anonymous
-    origin: unnamed government officials opposed to UAP whistleblower protections
-    relay:
-    - Lue Elizondo
-  attribution_mode: unknown
-  node_refs:
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 3
   - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
     title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
     slug: unidentified-anomalous-phenomena-uap
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch31:39590-39875
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 862a7909-f591-481f-ae3d-c99172c44870
-  claim_hash: 53b373a0be642c1c696b0cc945eb7b2f726815ffd35ea83b2ff5509cdd6e69df
-  content: Jay Stratton and Luis Elizondo worked their network of friends in the US
-    military branches, Federal Bureau of Investigation (FBI), Central Intelligence
-    Agency (CIA), and the United States Department of Energy.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
-    title: United States Department of Energy (DOE)
-    slug: united-states-department-of-energy-doe
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
+    shared_claims: 3
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 3
+  - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+    title: cattle mutilations phenomenon
+    node_type: topic
+    slug: cattle-mutilations-phenomenon
+    shared_claims: 3
+  - node_id: 11534995-4b1f-41b6-a0d7-5fa6aec01cbb
+    title: 1950 Guy Hottel Federal Bureau of Investigation (FBI) memo
+    node_type: document
+    slug: 1950-guy-hottel-federal-bureau-of-investigation-fbi-memo
+    shared_claims: 2
+  - node_id: b0155e35-6757-4f3e-843c-edf49933d920
+    title: 1980 Federal Bureau of Investigation (FBI) cattle mutilation investigation
+    node_type: event
+    slug: 1980-federal-bureau-of-investigation-fbi-cattle-mutilation-investigation
+    shared_claims: 2
   - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
     title: Jay Stratton
+    node_type: person
     slug: jay-stratton
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch31:4434-4548
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
-  claim_hash: 549d5196f72c3f8b1616a6ede1ebc4ec7241dcefba974231b53ff33a56af4d77
-  content: Jay Stratton handpicked members and representatives for the new UAP task
-    force from all the intelligence agencies and civilian-led agencies, including
-    the Federal Bureau of Investigation (FBI), the National Reconnaissance Office
-    (NRO), the National Aeronautics and Space Administration (NASA), and the Federal
-    Aviation Administration (FAA).
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-    title: Jay Stratton
-    slug: jay-stratton
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 2
   - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
     title: National Reconnaissance Office (NRO)
+    node_type: organisation
     slug: national-reconnaissance-office-nro
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch31:4914-5148
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 37a07c59-551e-4275-a93c-e33b725eaeee
-  claim_hash: 09b8a4d494af2e78066f07af74a46034f79cab45eca53a86a4b1e0b95b7ae49e
-  content: As part of Task Force Dagger, Lue Elizondo met Federal Bureau of Investigation
-    (FBI) Director Robert Mueller in Kandahar, Afghanistan.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 2
+  - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+    title: National Security Agency (NSA)
+    node_type: organisation
+    slug: national-security-agency-nsa
+    shared_claims: 2
+  - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+    title: Office of Naval Intelligence
+    node_type: organisation
+    slug: office-of-naval-intelligence
+    shared_claims: 2
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    node_type: topic
+    slug: remote-viewing-rv
+    shared_claims: 2
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    node_type: event
+    slug: roswell-incident-1947
+    shared_claims: 2
+  - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+    title: September 11 attacks
+    node_type: event
+    slug: september-11-attacks
+    shared_claims: 2
   - node_id: 31fa0086-0c60-42a7-a1c3-aedeb4e2cf06
     title: Task Force Dagger
+    node_type: project
     slug: task-force-dagger
-  - node_id: 60c57b85-9054-44f3-a648-658f490bc297
-    title: Afghanistan, Kandahar
-    slug: kandahar-afghanistan
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  - node_id: c67cfe7b-5e54-4a43-9544-b4d48a298195
-    title: Robert Mueller
-    slug: robert-mueller
-  date: null
-  date_end: null
-  location_in_record: ch37:1206-1381
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 97f691b9-cf05-47e6-b77d-93284b49fd93
-  claim_hash: 0ded6ff3d1e9b182f30414e27b059e815b895371c3ca97232d8a98cc63df3cde
-  content: Task Force Dagger worked with the Federal Bureau of Investigation (FBI)
-    and other United States organisations to locate terrorist cells operating in Afghanistan.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 31fa0086-0c60-42a7-a1c3-aedeb4e2cf06
-    title: Task Force Dagger
-    slug: task-force-dagger
+    shared_claims: 2
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 2
+  - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+    title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+    node_type: event
+    slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+    shared_claims: 1
+  - node_id: d453ccde-7f73-40eb-b5fd-32c0b6319f1f
+    title: 1964 Socorro Butane-Tank UAP FBI Report
+    node_type: event
+    slug: 1964-socorro-butane-tank-uap-fbi-report
+    shared_claims: 1
+  - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+    title: 1964 Socorro UAP encounter
+    node_type: event
+    slug: 1964-socorro-uap-encounter
+    shared_claims: 1
+  - node_id: 1f332ee0-b97e-41af-a02c-7a920f224b93
+    title: 1996 Brazil Unidentified Flying Object (UFO) crash
+    node_type: event
+    slug: 1996-brazil-unidentified-flying-object-ufo-crash
+    shared_claims: 1
   - node_id: 85687100-9edf-4780-9111-ae7215a839c4
     title: Afghanistan
+    node_type: place
     slug: afghanistan
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch37:1252-1381
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 0ba97adc-5bbf-44dc-a31d-8d140da6c376
-  claim_hash: f3faf7d40e43a117c694b2af8b968e20d04d7482fa0bb40d246dc8fc1fff30f9
-  content: Thousands of lives lost in the September 11 attacks might have been spared
-    if the CIA and FBI had shared information.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-  provenance_chain:
-    origin_kind: speaker
-    origin: Christopher Mellon
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
-    title: September 11 attacks
-    slug: september-11-attacks
-  date: '2001-09-11'
-  date_end: null
-  location_in_record: ch6:14322-14471
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
-  claim_hash: b1ba0dc8a8dbe331424b2a3109e0168c1ea6b88cf0c02021151b7e8d5cba8ae4
-  content: The National Reconnaissance Office (NRO), Central Intelligence Agency (CIA),
-    National Geospatial-Intelligence Agency (NGA), Federal Bureau of Investigation
-    (FBI), and National Security Agency (NSA) appeared to hold important UAP data
-    that they were not sharing with each other.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-  provenance_chain:
-    origin_kind: speaker
-    origin: Christopher Mellon
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
-    title: National Security Agency (NSA)
-    slug: national-security-agency-nsa
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
-    title: National Geospatial-Intelligence Agency (NGA)
-    slug: national-geospatial-intelligence-agency-nga
-  - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-    title: National Reconnaissance Office (NRO)
-    slug: national-reconnaissance-office-nro
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch6:17564-17844
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 4d1a24ed-c8be-4d09-a5fa-9dd24272674a
-  claim_hash: 6be2568de54525d44896806882ff59a2ac0b792c982ca6e221b8ded4a921367f
-  content: Luis Elizondo led classified investigations worldwide with partners including
-    the Federal Bureau of Investigation (FBI), the Central Intelligence Agency (CIA),
-    and the United States Department of Homeland Security (DHS).
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
-    title: Department of Homeland Security (DHS)
-    slug: department-of-homeland-security-dhs
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch9:719-912
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: c7ecb9c5-468c-43a0-8479-dfabafa37bd1
-  claim_hash: ac3331f30f7c6d81b5a0e2f34b9fb879747bc1064ba9808202d10cc2642e29a0
-  content: The provenance of the Majestic 12 documents is officially disputed by the
-    United States Federal Bureau of Investigation (FBI) and the United States military.
-  original_excerpt: the provenance of which is still, of course, disputed officially
-    by the FBI and the US military.
-  claim_type: administrative
-  attestation: null
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 32db0378-4dbe-4ae9-bd4f-47f7906ca892
-    title: United States military
-    slug: united-states-military
-  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
-    title: Majestic 12 (MJ-12)
-    slug: majestic-12-mj-12
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: 00:17:02.4-00:17:07.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: e7f93ded-3247-4942-9f5e-e8f45180bed6
-  claim_hash: a1c3f92027f56ead6c303c34fef104044b1ca868f01f8dfd9520f2e3cc260bf0
-  content: There was no adequate United States Federal Bureau of Investigation or
-    police investigation into the allegations that Frank Sturgis confessed to Jim
-    Rothstein.
-  original_excerpt: And was there ever any kind of adequate FBI police investigation
-    into the allegations that he confessed to Rothstein? No.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jonathan Caplan
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 579e2838-2beb-4f7b-a4fd-9fc791eaa04e
-    title: Frank Sturgis
-    slug: frank-sturgis
-  - node_id: 6a2d80b2-74f1-4eaa-960a-609fcbf8dbac
-    title: Jim Rothstein
-    slug: jim-rothstein
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: 01:05:45.3-01:05:54.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: ec7a17c1-7262-4cf2-a4ff-10f12e43d537
-  claim_hash: 61d64d4554e4b05fae6d0030c436df9ef8a90e74f1e1a3e5502137ed2ee1f239
-  content: There is a governing board for Avi Loeb's science advisory council that
-    includes representatives from the Office of the Director of National Intelligence
-    (ODNI), the White House, the Federal Bureau of Investigation (FBI), and the intelligence
-    community, who have access to classified material.
-  original_excerpt: There is a governing board that includes representatives from
-    ODNI, from the White House, from the FBI, from the intelligence community. And
-    so those representatives have access, of course, to all the classified material.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
-    title: Avi Loeb
-  provenance_chain:
-    origin_kind: speaker
-    origin: Avi Loeb
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-    title: Office of the Director of National Intelligence (ODNI)
-    slug: office-of-the-director-of-national-intelligence-odni
+    shared_claims: 1
+  - node_id: 60c57b85-9054-44f3-a648-658f490bc297
+    title: Afghanistan, Kandahar
+    node_type: place
+    slug: kandahar-afghanistan
+    shared_claims: 1
+  - node_id: 7850827c-3e46-4655-9410-f05eb95170c8
+    title: Al Qaeda
+    node_type: organisation
+    slug: al-qaeda
+    shared_claims: 1
   - node_id: d191410c-c196-4b82-80e8-178935220d44
-    title: Avi Loeb's All-Domain Anomaly Resolution Office (AARO) science advisory
-      council
+    title: Avi Loeb's All-Domain Anomaly Resolution Office (AARO) science advisory council
+    node_type: project
     slug: avi-loebs-all-domain-anomaly-resolution-office-aaro-science-advisory-council
-  date: null
-  date_end: null
-  location_in_record: 00:21:38.5-00:21:53.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: 1b8cf3b4-33dc-4f1b-b6e3-077b1d580dec
-  claim_hash: 3468eb4bb961beed0a260eaa2f295f4d4a3445960212c939d60ba84e955681a7
-  content: Ronald Pandolfi advised Bill Clinton that he should be briefed by Bruce
-    Maccabee, a longtime civilian UFO researcher who had written a book about UFOs
-    and the FBI.
-  original_excerpt: Ron Pandolfi told Clinton he should get briefed by a guy named
-    Bruce Maccabee who had written about a book about UFOs and the FBI was a longtime
-    civilian researcher.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jesse Michels
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
-    title: Ronald Pandolfi
-    slug: ronald-pandolfi
-  - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
-    title: Bruce Maccabee
-    slug: bruce-maccabee
+    shared_claims: 1
+  - node_id: 503fe64e-9703-4b62-a360-e2ad35e0cdb9
+    title: Beverly Oliver
+    node_type: person
+    slug: beverly-oliver
+    shared_claims: 1
   - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
     title: Bill Clinton
+    node_type: person
     slug: bill-clinton
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: 00:47:46.2-00:47:56.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: fc4c9d3b-ec5a-40ae-aa3a-e5de120efc0e
-  claim_hash: ab3310bb24d1b071616cf1e0dea95bab0ff0a6c407fabbad1946e6aef19aec12
-  content: During the week of 2011-04, the Federal Bureau of Investigation (FBI) released
-    some of its investigation records concerning unidentified flying objects (UFOs).
-  original_excerpt: During the week of April 2011, FBI released some of its investigation
-    recording records on UFOs.
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
-    title: Maaneli "Max" Derakhshani
-  provenance_chain:
-    origin_kind: document
-    origin: Tom Jones's blog post on STS-80 UFOs
-    relay:
-    - Maaneli "Max" Derakhshani
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: 2011-04
-  date_end: null
-  location_in_record: 00:54:32.6-00:54:38.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: 88eb8ecf-ff8d-4841-8203-a086242f825a
-  claim_hash: d79186e697595697c8c2e0cd0f235fd1e8fad2b7c5e8ad1dad068997d11b6925
-  content: A spokesperson for the Office of the Intelligence Community Inspector General
-    warned that any unauthorised disclosure of protected information could result
-    in removal from federal service and referral to the Federal Bureau of Investigation
-    (FBI) or another investigative authority.
-  original_excerpt: The spokesperson also warned that any unauthorised disclosure
-    of protected information could result in removal from federal service and referral
-    to the FBI or another investigative authority
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Office of the Intelligence Community Inspector General (ICIG)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: null
-  date_end: null
-  location_in_record: char:1963-2144
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
-    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
-      Times | Reimagining Old News
-    record_date: '2026-08-11'
-    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
-    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
-    friendly_name: null
-- claim_id: c64d037b-9210-4529-bd27-9ec427dd7f65
-  claim_hash: 9dcbd42a1803bba100d8715dc3cc197654d0ad0f785f567c9245dc8871b65528
-  content: Any unauthorised disclosure of information protected by law, including
-    information that identifies or could reasonably be expected to identify a confidential
-    whistleblower, may constitute grounds for removal from federal service and may
-    also warrant referral to the Federal Bureau of Investigation (FBI) or other appropriate
-    investigative authorities.
-  original_excerpt: Any unauthorized disclosure of information protected by law, including
-    information that identifies of could reasonably be expected to identify a confidential
-    whistleblower, may constitute grounds for removal from Federal service and may
-    also warrant referral to FBI or other appropriate investigative authorities.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Office of the Intelligence Community Inspector General (ICIG)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: char:2668-2969
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
-    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
-      Times | Reimagining Old News
-    record_date: '2026-08-11'
-    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
-    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
-    friendly_name: null
-- claim_id: 36040736-14ae-4fe7-872a-d6c1cb3183b9
-  claim_hash: 8c993f39238eb3b12d84b5d2d13617b73584a1f8d0a62ded4f13ae7fb9f70cac
-  content: David Grusch considers it wrong that United States Congress lacked oversight
-    insight into Unidentified Aerial Phenomena matters comparable to the Church Committee
-    investigations of the 1970s into the Central Intelligence Agency, National Security
-    Agency and Federal Bureau of Investigation activities.
-  original_excerpt: seeing what Congress was not being told and not having appropriate
-    insight akin to the Church Committee committees of the 1970s and not having insight
-    on the CIA, NSA, and FBI's activities. I just thought it was wrong that this was
-    allowed to go unchecked for so many years.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
+  - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+    title: Bruce Maccabee
+    node_type: person
+    slug: bruce-maccabee
+    shared_claims: 1
+  - node_id: 27dfc73a-0513-4921-b833-54ef9e9fc4c3
+    title: Bureau of Alcohol, Tobacco, and Firearms
+    node_type: organisation
+    slug: tobacco-and-firearms-bureau-of-alcohol
+    shared_claims: 1
   - node_id: 0a1e7914-82e8-48f0-ae45-7a688df8b62f
     title: Church Committee
+    node_type: organisation
     slug: church-committee
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
-    title: National Security Agency (NSA)
-    slug: national-security-agency-nsa
-  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-    title: United States Congress
-    slug: united-states-congress
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: 00:03:57.3-00:04:15.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
-    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-    record_date: '2026-08-13'
-    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
-    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
-    friendly_name: null
-- claim_id: ff64e0a1-0411-440a-ae28-55e78f4fb81c
-  claim_hash: 72ac144b6aa1c3f3ea9959d9a8cc0ed0d75b4400dd301fbde787cec5151d4240
-  content: Whitley Strieber considers Guy Hicks living around the corner from his
-    family was no accident and had something to do with his father and an FBI officer
-    his father knew who lived across the street.
-  original_excerpt: And that was no accident. It had something to do with my dad and
-    FBI officer, my dad knew who lived across the street.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 558132a7-df0d-4e24-ae1e-129d29ac9c93
-    title: Guy Hicks
-    slug: guy-hicks
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: 00:38:41.3-00:38:47.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
+    shared_claims: 1
+claims:
+  - claim_id: a4804ba5-3583-4175-a6fc-3ed6853f0bd6
+    claim_hash: 6dc585580e04e508d68efb8c98d718f88c1244f78c1831e6a8e00c3754190a03
+    content: An anonymous account circulated that Brazil's military captured one or two of the alleged beings and transferred
+      them to the Central Intelligence Agency (CIA) and Federal Bureau of Investigation (FBI).
+    original_excerpt: Rumors swirled that Brazil's military captured one or two of the beings and handed them off to the CIA
+      and the FBI.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 148c7f5d-5013-463a-9262-dfa66e4cb6f6
+      title: Elizabeth Vargas
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unidentified source circulating rumours
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1f332ee0-b97e-41af-a02c-7a920f224b93
+        title: 1996 Brazil Unidentified Flying Object (UFO) crash
+        slug: 1996-brazil-unidentified-flying-object-ufo-crash
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: 1996-1996
+    date_end: null
+    location_in_record: 00:00:21.2-00:00:28.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7d93dbc6-cefd-4488-8f36-1edb53824dbb
+      record_title: Congressman seeks CIA, FBI help on Brazil's alleged 1996 UFO crash | Elizabeth Vargas Reports
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=5BwrZCx2ENw
+      content_hash: sha256:721f07db7c6e0656b8b08fa5c1b318a60b0428f3193734e864dc017d51e747cf
+      friendly_name: null
+  - claim_id: 43b8ca14-9eec-4b9c-82a5-8f2ef229f069
+    claim_hash: 1ab7ebb1f98c50b23ed108188ee763e9a4d7c4d236836a5cf156e40e5e90fa91
+    content: In a news release dated 1975-09-18, Colorado Senator Floyd K. Haskell disclosed that he had discussed the cattle
+      mutilations with FBI Director Clarence Kelley and his chief assistant.
+    original_excerpt: In a news release dated Sept. 18, 1975, the senior Senator from Colorado, Floyd K. Haskell, disclosed
+      that he had discussed the matter with FBI director Clarence Kelley and his chief assistant.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Haskell News Release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 589ae4ed-e41d-4514-85e7-72038302a442
+        title: Floyd K. Haskell
+        slug: floyd-k-haskell
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: fac2c1f9-2729-4cf3-aec9-bd07adf3bf06
+        title: Clarence Kelley
+        slug: clarence-kelley
+    date: '1975-09-18'
+    date_end: null
+    location_in_record: ch12:23258-23441
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 4177bf86-f094-4cd3-b337-2b4fecdfd79e
+    claim_hash: 920df5bb8bea1ff4c49506cfbb0e5a046f02f018c172f02ea09d7ca688e7843f
+    content: The Federal Bureau of Investigation concluded it had no jurisdiction to enter the cattle mutilation case because
+      there was no evidence of interstate movement.
+    original_excerpt: the FBI concluded it had no jurisdiction to enter the case, because there was no evidence of interstate
+      movement
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Federal Bureau of Investigation (FBI)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch12:23461-23565
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 87c32ede-8449-4403-a916-6b8abd6d7d89
+    claim_hash: 35b60dc4135ed9f8d1b329fecf0848c9301b220172ed00237e6c8c1b1db739aa
+    content: Dozens of law enforcement agencies in many states, as well as the Federal Bureau of Investigation and the Bureau
+      of Alcohol, Tobacco, and Firearms, were pulled into the 1975 occult mutilation investigation.
+    original_excerpt: dozens of law enforcement agencies in many states, as well as such federal agencies as the FBI and the
+      Bureau of Alcohol, Tobacco, and Firearms of the Treasury Department, had been pulled into the investigation
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Intelligence information regarding occult activities throughout the United States (1975 report)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 27dfc73a-0513-4921-b833-54ef9e9fc4c3
+        title: Bureau of Alcohol, Tobacco, and Firearms
+        slug: tobacco-and-firearms-bureau-of-alcohol
+      - node_id: 5be461f1-e45f-4484-a650-e8658e81cb02
+        title: Intelligence information regarding occult activities throughout the United States (1975 report)
+        slug: intelligence-information-regarding-occult-activities-throughout-the-united-states-1975-report
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch12:32370-32567
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 57aeeceb-49c9-40bb-b7d1-abedd3fd2552
+    claim_hash: c5e6992d4c7cbf59c9364ab92f28640f903ad089f81d55c5ab5bf26baf603270
+    content: The DNA analysis method chosen for the hair sample was based on forensic procedures established by the Federal
+      Bureau of Investigation (FBI) for the accurate analysis of biological evidence found at crime scenes.
+    original_excerpt: The method they chose, after considerable discussion and evaluation, was based on forensic procedures
+      established by the Federal Bureau of Investigation (FBI) for the accurate analysis of biological evidence found at crime
+      scenes.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a789545b-0778-4fee-80fe-0741297014c2
+        title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+          (Phase One, hair shaft, 1998-1999)
+        slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch12:6195-6418
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: ed367632-ab5a-40b4-a2ec-ce41a840513f
+    claim_hash: 686ab1f517a75c7b91c0d30c6b895c7f439eb2816b31cb882a9fb5b184b463fe
+    content: The FBI (Federal Bureau of Investigation) and increasingly police forces around the world use DNA (deoxyribonucleic
+      acid) profiling techniques in law enforcement.
+    original_excerpt: Our hunt for clues and answers to this alien mystery features the DNA profiling techniques used by law
+      enforcement organizations such as the FBI and increasingly by police around the world.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aa7acd4-c013-4bff-9317-e4160830d0a8
+        title: Deoxyribonucleic Acid (DNA) profiling
+        slug: deoxyribonucleic-acid-dna-profiling
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch7:5063-5246
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 9f9a3c78-79bf-40f4-b467-ea487a811884
+    claim_hash: b44e627fff0ec33b2a89c7eb9e4f920d7cd59cf1cfbfe6f48cf445e0d03c132c
+    content: Beverly Oliver claimed she gave her film to Federal Bureau of Investigation (FBI) agent Regis Kennedy and that
+      it was never returned.
+    original_excerpt: She went on to claim that she gave her film to FBI agent Regis Kennedy, and that it was never returned.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 503fe64e-9703-4b62-a360-e2ad35e0cdb9
+      title: Beverly Oliver
+    provenance_chain:
+      origin_kind: speaker
+      origin: Beverly Oliver
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 503fe64e-9703-4b62-a360-e2ad35e0cdb9
+        title: Beverly Oliver
+        slug: beverly-oliver
+      - node_id: a82e9e4b-ecbe-4ac4-9875-49831b353870
+        title: Regis Kennedy
+        slug: regis-kennedy
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch10:83059-83153
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: da5e1265-1c04-4fad-8bc8-f328d3811c89
+    claim_hash: b4e23e6485b06b35a24c6cfeb62c99a3a71d1e584c5530a944dcc38a4926423c
+    content: A hand-written memo obtained under the Freedom of Information Act indicates Jack Parsons' occult activities came
+      under scrutiny of the Federal Bureau of Investigation (FBI) and the Office of Naval Intelligence (ONI) as early as 1940.
+    original_excerpt: According to a hand written memo obtained under the Freedom of Information Act, Parsons' occult activities
+      had come under scrutiny of the FBI and the Office of Naval Intelligence (ONI) as early as 1940.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: a hand-written memo obtained under the Freedom of Information Act
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+    date: '1940'
+    date_end: null
+    location_in_record: ch5:20181-20378
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a14b5e6d-6cbc-4ddb-824d-8fb17165a5bc
+    claim_hash: 8cd89a9aedc319544e551c2becccd853e8cf4b858a437eaa0bba0de5ee7bd0cc
+    content: An FBI memo from the period indicates that the Office of Naval Intelligence had an informant inside the Ordo
+      Templi Orientis / Federation of American Scientists group.
+    original_excerpt: An FBI memo from the period also indicates that the Office of Naval Intelligence had "an informant"
+      inside the group.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: an FBI memo from the period
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+    date: null
+    date_end: null
+    location_in_record: ch5:22398-22509
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: d38d20fc-6748-4ee6-a4dc-d1c35023d220
+    claim_hash: e8ade72a4250ce2b3e4ebb96a06efeccd9e824b996781ba8cdca55c1acdc21dd
+    content: Joseph McMoneagle provided professional intelligence and informational support to the Federal Bureau of Investigation
+      (FBI) during his career.
+    original_excerpt: Joe provided professional intelligence and creative/inovative informational support to the CIA, DIA,
+      NSA, DEA, Secret Service, FBI, US Customs, the NSC, major commands within the DoD
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch4:1504-1683
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: a4ceb806-34cd-45e1-b0c5-84de5bcabf17
+    claim_hash: f2665b8a587024716b743b0564109f5a0f2c30a9980a68e7f1a0dad28fc323dd
+    content: An American source claimed that federal law enforcement agencies had compiled exhaustive studies of United States
+      UFO cases.
+    original_excerpt: Another story that circulated among Paris newsmen came from an American who claimed that federal law
+      enforcement agencies had compiled exhaustive studies of the U.S. cases, a rumor that appears at least partially true,
+      because some landing cases have had elements that brought the event within the jurisdiction of these agencies.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an American source claiming knowledge of federal UFO case studies
+      relay:
+        - Paris newsmen
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: '1964'
+    date_end: null
+    location_in_record: ch10:4153-4473
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: e548206e-ecdf-4d29-96c9-31d15ef01e87
+    claim_hash: 8a60e28fba6e96ee1915a71b79626a0cecde4fb81df18a07e6ad0af98b52ae58
+    content: The US government was interested in Elijah Muhammad and his followers, and the Federal Bureau of Investigation
+      established a file on him and his community.
+    original_excerpt: The US government was interested in Poole and his followers, and the FBI established a file on him and
+      his community.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: f9614930-07c5-471a-a2c9-c535d8f16308
+        title: Elijah Muhammad
+        slug: elijah-muhammad
+    date: null
+    date_end: null
+    location_in_record: char:31798-31905
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 3a57dade-5e71-4555-8cdb-83d5530d7df4
+    claim_hash: 789cb66b1fb86c06a13877068e84cce133fed29dedbc681565fa1681e6aabd8a
+    content: The Federal Bureau of Investigation and some UAP researchers have dismissed the Majestic-12 documents as an elaborate
+      hoax.
+    original_excerpt: However, the Federal Bureau of Investigation (FBI) and even some UAP researchers have dismissed the
+      documents as an elaborate hoax.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Federal Bureau of Investigation (FBI)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch14:15850-15976
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b19fdeef-526a-4314-9cbd-ac22e651ba3c
+    claim_hash: 4cf09df9d7a8c1f95ad2abe430a1bf201c6a2e6d2844f8fbb98e868fd3ce3f29
+    content: Raleigh Tafoya Sr was derisive about the 1980 FBI report on cattle mutilations and even more derisive of the
+      investigative ability of the FBI investigator, who he said insulted the intelligence of ranchers who had lost animals
+      to cattle mutilations in the 1970s.
+    original_excerpt: ‘was derisive about the FBI report in 1980 on cattle mutilations and even more derisive of the investigative
+      ability of the FBI investigator . . . who, he said, insulted the intelligence of ranchers who had lost animals to cattle
+      mutilations in the 1970s’.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9fc0f248-6b0c-4d22-84d9-4176d1aca5a7
+      title: Raleigh Tafoya Sr
+    provenance_chain:
+      origin_kind: speaker
+      origin: Raleigh Tafoya Sr
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fc0f248-6b0c-4d22-84d9-4176d1aca5a7
+        title: Raleigh Tafoya Sr
+        slug: raleigh-tafoya-sr
+      - node_id: b0155e35-6757-4f3e-843c-edf49933d920
+        title: 1980 Federal Bureau of Investigation (FBI) cattle mutilation investigation
+        slug: 1980-federal-bureau-of-investigation-fbi-cattle-mutilation-investigation
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch15:26843-27091
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ab0d8ddd-9e7d-4c62-b454-d1355da6c018
+    claim_hash: d4f757ac881913e8e2ee708ff1926cdaf5c55dec7ca36c060ffd09cd1fb05e0c
+    content: It is a matter of public record, observed by police, FBI agents and local veterinarians, that there have continued
+      to be thousands of physical evidence reports of suspicious cattle mutilations across a huge swathe of the US for decades.
+    original_excerpt: It is a matter of public record, observed by police, FBI agents and local veterinarians, that there
+      have continued to be thousands of physical evidence reports of what witnesses say are clearly suspicious cattle mutilations
+      across a huge swathe of the US for decades.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch15:3493-3752
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f9591521-8b12-4e92-842b-8da9721c6b48
+    claim_hash: 32996c4ce8ddcd2369055e65089e44f4ced084de6606a14f9d4805000d6cd689
+    content: An FBI investigation conceded in 1980 that there were cattle mutilation cases that could not be prosaically explained,
+      while concluding without evidence that the mutilations were predominantly the result of natural predation.
+    original_excerpt: An FBI investigation had conceded in 1980 that there were mutilation cases that could not be prosaically
+      explained, concluding, without any evidence, that the mutilations were predominantly the result of natural predation.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Federal Bureau of Investigation (FBI)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b0155e35-6757-4f3e-843c-edf49933d920
+        title: 1980 Federal Bureau of Investigation (FBI) cattle mutilation investigation
+        slug: 1980-federal-bureau-of-investigation-fbi-cattle-mutilation-investigation
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: '1980'
+    date_end: null
+    location_in_record: ch15:6125-6337
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7ba807c7-051e-4207-b833-5e8c54f96e55
+    claim_hash: 68f7d4513654c7579ecf43d5de145b5958c00bffc555fccd2c16481db4d209c7
+    content: A 100-agent FBI investigation into suspected human involvement in cattle mutilations, demanded by three US State
+      Attorneys-General, failed to solve the mystery.
+    original_excerpt: A massive 100 agent FBI investigation into suspected human involvement, demanded by three US State Attorneys-General,
+      failed to solve the mystery.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Federal Bureau of Investigation (FBI)
+      relay:
+        - Ben Mezrich
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch15:7652-7790
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 879a7419-3c8d-4c6c-af20-caa0140d273a
+    claim_hash: e425bf02d4ec03ec0ff804928c2c7c8a2587faf2580f09f688cef3d1c8b1ca38
+    content: Ross Coulthart is most sure that in 1950 there was a determined effort by the FBI and the US Air Force to smear
+      businessman and scientist Silas Newton, who was pushing the story of a recovered craft at Aztec, New Mexico.
+    original_excerpt: What I come away most sure about is that in 1950 there was a determined effort by the FBI and the air
+      force to smear businessman and scientist Silas Newton, who was pushing the story of a recovered craft at Aztec.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 3b640ddc-58be-44eb-bdf9-2bd0864f2622
+        title: Silas Newton
+        slug: silas-newton
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: '1950'
+    date_end: null
+    location_in_record: ch17:14948-15155
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a27a2822-d617-4f37-9a46-41e05813114e
+    claim_hash: f4721a9eefb138e7d46a1639608637a222b3ce87bb6e632f151aeef28fe70c6b
+    content: Sur Novel described Nat Kobitz's facial reaction to seeing the ARV Fluxliner drawing as one of surprise, not
+      alarm, as if he recognised what it was rather than treating it as something to report to the FBI or a national security
+      threat.
+    original_excerpt: '''The look on [Kobitz''] face was kind of like, what are you doing with this? It wasn''t like, call
+      the FBI and arrest this guy, national security or anything like that. It was just kind of like, you know it. You know,''
+      Sur said.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
+      title: Sur Novel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Sur Novel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
+        title: Sur Novel
+        slug: sur-novel
+      - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+        title: Nat Kobitz
+        slug: nat-kobitz
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: fb349523-76fb-4f68-ad4c-e11301eb09f8
+        title: Fluxliner alien reproduction vehicle
+        slug: fluxliner-alien-reproduction-vehicle
+    date: null
+    date_end: null
+    location_in_record: ch27:7743-7963
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bda76c77-8f53-4fae-969b-f4f841e94a4c
+    claim_hash: 2f14b42c4ce98f34e02d9e70d2d31e5da9ed5da341cb62a7edac2e0f80ed3522
+    content: Guy Hottel was the head of the FBI's Washington DC field office at the time he wrote the 1950 memo.
+    original_excerpt: The report, from Guy Hottel, the then head of the FBI's Washington DC field office
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19a378eb-9e49-4fbf-957e-8c7080da2ad4
+        title: Guy Hottel
+        slug: guy-hottel
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch8:4509-4585
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4d8fef51-4615-46fc-b29e-f7c58f0996a6
+    claim_hash: 71e821df1e9ce637296cb6eb00368ec428a089bf4f149718b336722ba146c616
+    content: The 1950 Guy Hottel FBI memo remains the most controversial and most popular file in the FBI's archive.
+    original_excerpt: remains the most controversial, and the most popular, file in the FBI's archive
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11534995-4b1f-41b6-a0d7-5fa6aec01cbb
+        title: 1950 Guy Hottel Federal Bureau of Investigation (FBI) memo
+        slug: 1950-guy-hottel-federal-bureau-of-investigation-fbi-memo
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch8:4593-4665
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ce17cad1-c452-4f60-ac5f-2b56b1cad793
+    claim_hash: 6f98c0416138c3137daa317ef6dd9b5427c5dae015a29893e7f0a09ea96d47c5
+    content: The FBI's website states that the Hottel report was never confirmed or investigated, and that the memo does not
+      prove the existence of aliens.
+    original_excerpt: the FBI, no doubt jaded by flying saucer conspiracists seizing on the memo, asserts that the Hottel
+      report was never confirmed or investigated, and that the memo does not prove the existence of aliens
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Federal Bureau of Investigation (FBI)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11534995-4b1f-41b6-a0d7-5fa6aec01cbb
+        title: 1950 Guy Hottel Federal Bureau of Investigation (FBI) memo
+        slug: 1950-guy-hottel-federal-bureau-of-investigation-fbi-memo
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch8:4711-4905
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4bc30ea8-341e-43a9-8249-4edb77a19e6d
+    claim_hash: 3f9721c540ce578092fd2dc5c1b5fef184d9f8e7d9fc45b5b7d51518a9b1fd89
+    content: David Mahler said that for decades the United States Air Force, Federal Bureau of Investigation, and Central
+      Intelligence Agency maintained an official policy of denying, dispelling, and debunking the UFO subject.
+    original_excerpt: Well, for decades, the Air Force, FBI, CIA, all the official agencies had a policy of denial. Deny the
+      subject, dispel the subject, debunk the subject.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 025270b1-d5bc-4fbd-a423-b5e58b124973
+      title: David Marler
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Mahler
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 025270b1-d5bc-4fbd-a423-b5e58b124973
+        title: David Marler
+        slug: david-marler
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: 00:06:01.6-00:06:13.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: e124a23e-64ec-42b4-b2d7-0b561158cad9
+    claim_hash: 8b33783470bb9ea4274c365673099a31a91fca9a5bcdd7d68f615345fe8ddb76
+    content: During research for a book, the Federal Bureau of Investigation (FBI) told an interviewer that there are 10,000
+      unsolved cattle mutilation cases across the United States.
+    original_excerpt: The reality is it's real because the United States FBI, when I was doing my book research, they told
+      me that there are 10,000 unsolved cattle mutilation cases across the United States, across a swathe of the United States.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Federal Bureau of Investigation (FBI)
+      relay:
+        - an interviewer's book research
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: 01:15:50.9-01:16:08.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: ce6356fb-9350-4eef-b262-cac98953bbc6
+    claim_hash: edb7ae46e63066747b73b00e5475986d104bf250d8c0199acdfb6cb953cd5bd8
+    content: Ed Dames and his organisation use remote viewing in operations, including searching for FBI fugitives.
+    original_excerpt: The rest of the time we actually use remote viewing in operations. ... Looking for, for instance, FBI
+      fugitives.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+      title: Ed Dames
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ed Dames
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+        title: Ed Dames
+        slug: ed-dames
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: 00:30:48.7-00:30:51.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: fd812e7c-4b1d-4bca-92c4-3deda1cbeeab
+    claim_hash: 8d45f63192ee7b6eb3d14f27f50c9e67237608db4c83406da3ec23cc207acaa2
+    content: Ed Dames supports the United States Marshals Service with remote-viewing information because they make use of
+      it, whereas the FBI discards it.
+    original_excerpt: I support the U.S. Marshals mainly because they support me. They actually use my information where the
+      FBI just throws it away.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+      title: Ed Dames
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ed Dames
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+        title: Ed Dames
+        slug: ed-dames
+      - node_id: 4563669b-5ed8-4730-a072-d0f07e23df99
+        title: United States Marshals Service
+        slug: united-states-marshals-service
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: 00:30:58.8-00:31:08.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 9bff8154-c26f-4e3c-91cb-a8a6da5c20a4
+    claim_hash: 2516406ee1e0725f87043d41fc240eb0ded58b4f167d5cc8cc8a0fa0cdf4c4c7
+    content: Ed Dames independently searches for FBI fugitives using remote viewing.
+    original_excerpt: So I search for the FBI fugitives on my own.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+      title: Ed Dames
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ed Dames
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+        title: Ed Dames
+        slug: ed-dames
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: 00:31:08.9-00:31:11.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 15c83492-fe56-4e53-9834-cc41c456b629
+    claim_hash: 0f141843e2f1f0d54795838df6d3e1df9fb983021b841d7e50cea2da128b0e84
+    content: Jason Derrick Brown is on the FBI's most wanted list.
+    original_excerpt: Jason Derrick Brown is now a face on the FBI's most wanted list.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narrator
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 16e1a583-54bc-4965-8ed6-02cb10afeeaf
+        title: Jason Derrick Brown
+        slug: jason-derrick-brown
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: 00:31:30.0-00:31:33.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: d227955c-cd8d-4f91-8eeb-69e89838ebe9
+    claim_hash: 5dfef6187bdb88233a682f44fb4fc779bac8acb9dcf31ee47f51ec260744956e
+    content: The Central Intelligence Agency and the Federal Bureau of Investigation have sometimes posted unclassified Unidentified
+      Aerial Phenomena (UAP) documents on their websites for the public to search for and download.
+    original_excerpt: The CIA and FBI sometimes slapped them up on their websites, for the whole world to search for and download.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch12:20721-20820
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1a16ce6e-b476-4bb6-9b86-c5de8491bb5a
+    claim_hash: 4b269b9105d305307bdf3b66ef5f0918093025179ebefd456a5a7d8df09df82b
+    content: The Federal Bureau of Investigation investigated the 1964 Lonnie Zamora UAP encounter at Socorro, New Mexico.
+    original_excerpt: The Zamora case attracted a plethora of investigators. Local law enforcement, of course. The FBI. The
+      US Army. The Air Force.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:22897-23016
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b7c6650d-8920-404a-9cdd-d6e616f813f7
+    claim_hash: e99bab143272a1a2f2b16c88b48390648a171dc4109169d9c68830e7a0d9bb75
+    content: Edgar Mitchell's family was among the Roswell families threatened by the Federal Bureau of Investigation (FBI)
+      after the 1947 Roswell UAP crash.
+    original_excerpt: He once confided to Hal and Eric that his family was among the Roswell families who were threatened
+      by the FBI after the famous Roswell crashes.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Edgar Mitchell
+      relay:
+        - Harold Puthoff and Eric Davis
+        - Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch12:8451-8587
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b109f646-8c09-4d39-b776-4530fd5719c2
+    claim_hash: 53d00770e9f2037d1ee68cf1dc15147f73614d54e06a52d185a732ed2e22504d
+    content: Federal Bureau of Investigation (FBI) agents visited ranchers in the Roswell, New Mexico region door-to-door
+      to deliver the message that anyone who spoke about the 1947 Roswell UAP crash would be killed.
+    original_excerpt: 'FBI agents visited ranchers in the region, going door-to-door to deliver the threatening message: if
+      you speak about the crashes, you will be killed.'
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Edgar Mitchell
+      relay:
+        - Harold Puthoff and Eric Davis
+        - Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch12:8596-8738
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 418e41b5-05d8-42dd-9c48-31fbb73a0862
+    claim_hash: c28888f610cd61ad5a082b7e18e37550810fedfa32ccdbf88c6874349f091293
+    content: In April 1964, the FBI reported finding a downed craft near Socorro, New Mexico, described as "shaped like a
+      butane tank" and about as long as a telephone pole, that had narrowly missed a witness's father's farmhouse; the witness
+      was deemed "sober and frightened".
+    original_excerpt: '**April 1964:** The FBI reported finding a downed craft that was “shaped like a butane tank” and about
+      as long as a telephone pole. The witness—who claimed the object narrowly missed his father’s farmhouse in Socorro, New
+      Mexico—was “deemed sober and frightened.”'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Federal Bureau of Investigation (FBI)
+      relay:
+        - a historical report reviewed by Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: d453ccde-7f73-40eb-b5fd-32c0b6319f1f
+        title: 1964 Socorro Butane-Tank UAP FBI Report
+        slug: 1964-socorro-butane-tank-uap-fbi-report
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: 1964-04
+    date_end: null
+    location_in_record: ch15:12691-12940
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: fae26fbd-46df-4160-a4a4-c3c86d7cc42a
+    claim_hash: 8299a4d508a0c8ab2e5472c78626285e863238d468f324c250c0c2dd1647a739
+    content: The Federal Bureau of Investigation (FBI) is responsible for handling federal crimes within the continental United
+      States.
+    original_excerpt: The FBI is responsible for handling federal crimes within the continental US.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch20:1704-1778
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c39091df-6c5b-4177-8274-2c40bef3aebb
+    claim_hash: 4793843bec1392f438b5cdb5b25bbad88227195c92782be45ef155f012f0c878
+    content: The witnesses to the orb sighting at White Sands Missile Range in 2013 included scientists, security personnel,
+      and a Federal Bureau of Investigation (FBI) special agent assigned to the Albuquerque Field Office.
+    original_excerpt: These witnesses included scientists, security personnel, and an FBI special agent assigned to the Albuquerque
+      Field Office.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
+        title: USA, New Mexico, White Sands Missile Range
+        slug: new-mexico-white-sands-missile-range-usa
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: '2013'
+    date_end: null
+    location_in_record: ch20:474-590
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 69b57bbc-41eb-4480-bc6a-6d9284e7ee2f
+    claim_hash: d666087f4cb6337daf6c24a9e84165dc2e874c92a413cf677cd83dbd30423cf8
+    content: Lue Elizondo considered that the September 11 attacks could have been prevented had agencies including the Central
+      Intelligence Agency (CIA) and the Federal Bureau of Investigation (FBI) shared their information about Al Qaeda together.
+    original_excerpt: I thought about 9/11 and how it could have been prevented if agencies had shared information. In that
+      case, you had CIA with information, FBI with information, other organizations with information, and frankly, if they
+      shared it all together, they may have prevented the Al Qaeda attack.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 7850827c-3e46-4655-9410-f05eb95170c8
+        title: Al Qaeda
+        slug: al-qaeda
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+        title: September 11 attacks
+        slug: september-11-attacks
+    date: null
+    date_end: null
+    location_in_record: ch21:3588-3895
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 6e421200-6359-4aa4-9334-f72b412d9c4a
+    claim_hash: 7b517c0b205d58abbd755600a6fada8304c9a3392f3b77a0a4874583938e969b
+    content: Various elements in government throughout 2022 sought face-to-face meetings with lawmakers to protest the Unidentified
+      Aerial Phenomena (UAP) whistleblower-reprisal legislation, arguing they must be able to prosecute whistleblowers and
+      to have the Federal Bureau of Investigation (FBI) pursue former employees who spoke out of line.
+    original_excerpt: various elements in government clamored for face-to-face meetings with lawmakers so they could vigorously
+      protest the UAP whistleblower reprisal language. “We must be able to prosecute whistleblowers!” they argued. “We must
+      be able to sic the FBI on former employees who talk out of line.”
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed government officials opposed to UAP whistleblower protections
+      relay:
+        - Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch31:39590-39875
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 862a7909-f591-481f-ae3d-c99172c44870
+    claim_hash: 53b373a0be642c1c696b0cc945eb7b2f726815ffd35ea83b2ff5509cdd6e69df
+    content: Jay Stratton and Luis Elizondo worked their network of friends in the US military branches, Federal Bureau of
+      Investigation (FBI), Central Intelligence Agency (CIA), and the United States Department of Energy.
+    original_excerpt: Meanwhile, Jay and I worked our network of friends in the military branches, FBI, CIA, and even the
+      Department of Energy.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+        title: United States Department of Energy (DOE)
+        slug: united-states-department-of-energy-doe
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch31:4434-4548
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
+    claim_hash: 549d5196f72c3f8b1616a6ede1ebc4ec7241dcefba974231b53ff33a56af4d77
+    content: Jay Stratton handpicked members and representatives for the new UAP task force from all the intelligence agencies
+      and civilian-led agencies, including the Federal Bureau of Investigation (FBI), the National Reconnaissance Office (NRO),
+      the National Aeronautics and Space Administration (NASA), and the Federal Aviation Administration (FAA).
+    original_excerpt: So Jay started putting that together, handpicking his members/reps from all the intelligence agencies
+      and civilian-led agencies, from the FBI to the National Reconnaissance Office (NRO) to NASA to the Federal Aviation
+      Administration (FAA).
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch31:4914-5148
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 37a07c59-551e-4275-a93c-e33b725eaeee
+    claim_hash: 09b8a4d494af2e78066f07af74a46034f79cab45eca53a86a4b1e0b95b7ae49e
+    content: As part of Task Force Dagger, Lue Elizondo met Federal Bureau of Investigation (FBI) Director Robert Mueller
+      in Kandahar, Afghanistan.
+    original_excerpt: With FBI Director Robert Mueller in Kandahar. As part of Task Force Dagger, the FBI was one of many
+      US organizations we worked with to locate terrorist cells operating in the area.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31fa0086-0c60-42a7-a1c3-aedeb4e2cf06
+        title: Task Force Dagger
+        slug: task-force-dagger
+      - node_id: 60c57b85-9054-44f3-a648-658f490bc297
+        title: Afghanistan, Kandahar
+        slug: kandahar-afghanistan
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: c67cfe7b-5e54-4a43-9544-b4d48a298195
+        title: Robert Mueller
+        slug: robert-mueller
+    date: null
+    date_end: null
+    location_in_record: ch37:1206-1381
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 97f691b9-cf05-47e6-b77d-93284b49fd93
+    claim_hash: 0ded6ff3d1e9b182f30414e27b059e815b895371c3ca97232d8a98cc63df3cde
+    content: Task Force Dagger worked with the Federal Bureau of Investigation (FBI) and other United States organisations
+      to locate terrorist cells operating in Afghanistan.
+    original_excerpt: As part of Task Force Dagger, the FBI was one of many US organizations we worked with to locate terrorist
+      cells operating in the area.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31fa0086-0c60-42a7-a1c3-aedeb4e2cf06
+        title: Task Force Dagger
+        slug: task-force-dagger
+      - node_id: 85687100-9edf-4780-9111-ae7215a839c4
+        title: Afghanistan
+        slug: afghanistan
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch37:1252-1381
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 0ba97adc-5bbf-44dc-a31d-8d140da6c376
+    claim_hash: f3faf7d40e43a117c694b2af8b968e20d04d7482fa0bb40d246dc8fc1fff30f9
+    content: Thousands of lives lost in the September 11 attacks might have been spared if the CIA and FBI had shared information.
+    original_excerpt: On September 11, 2001, America suffered the loss of thousands of lives that might have been spared if
+      the CIA and FBI had only been willing to share information.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+        title: September 11 attacks
+        slug: september-11-attacks
+    date: '2001-09-11'
+    date_end: null
+    location_in_record: ch6:14322-14471
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
+    claim_hash: b1ba0dc8a8dbe331424b2a3109e0168c1ea6b88cf0c02021151b7e8d5cba8ae4
+    content: The National Reconnaissance Office (NRO), Central Intelligence Agency (CIA), National Geospatial-Intelligence
+      Agency (NGA), Federal Bureau of Investigation (FBI), and National Security Agency (NSA) appeared to hold important UAP
+      data that they were not sharing with each other.
+    original_excerpt: Meanwhile, the National Reconnaissance Office (NRO), the Central Intelligence Agency (CIA), the National
+      Geospatial-Intelligence Agency (NGA), the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA)
+      also appeared to have important UAP data they were not sharing.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+        title: National Geospatial-Intelligence Agency (NGA)
+        slug: national-geospatial-intelligence-agency-nga
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch6:17564-17844
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 4d1a24ed-c8be-4d09-a5fa-9dd24272674a
+    claim_hash: 6be2568de54525d44896806882ff59a2ac0b792c982ca6e221b8ded4a921367f
+    content: Luis Elizondo led classified investigations worldwide with partners including the Federal Bureau of Investigation
+      (FBI), the Central Intelligence Agency (CIA), and the United States Department of Homeland Security (DHS).
+    original_excerpt: I led classified investigations worldwide with partners that included the Federal Bureau of Investigation
+      (FBI), the Central Intelligence Agency (CIA), and the Department of Homeland Security (DHS).
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+        title: Department of Homeland Security (DHS)
+        slug: department-of-homeland-security-dhs
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch9:719-912
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c7ecb9c5-468c-43a0-8479-dfabafa37bd1
+    claim_hash: ac3331f30f7c6d81b5a0e2f34b9fb879747bc1064ba9808202d10cc2642e29a0
+    content: The provenance of the Majestic 12 documents is officially disputed by the United States Federal Bureau of Investigation
+      (FBI) and the United States military.
+    original_excerpt: the provenance of which is still, of course, disputed officially by the FBI and the US military.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32db0378-4dbe-4ae9-bd4f-47f7906ca892
+        title: United States military
+        slug: united-states-military
+      - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+        title: Majestic 12 (MJ-12)
+        slug: majestic-12-mj-12
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: 00:17:02.4-00:17:07.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: e7f93ded-3247-4942-9f5e-e8f45180bed6
+    claim_hash: a1c3f92027f56ead6c303c34fef104044b1ca868f01f8dfd9520f2e3cc260bf0
+    content: There was no adequate United States Federal Bureau of Investigation or police investigation into the allegations
+      that Frank Sturgis confessed to Jim Rothstein.
+    original_excerpt: And was there ever any kind of adequate FBI police investigation into the allegations that he confessed
+      to Rothstein? No.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 579e2838-2beb-4f7b-a4fd-9fc791eaa04e
+        title: Frank Sturgis
+        slug: frank-sturgis
+      - node_id: 6a2d80b2-74f1-4eaa-960a-609fcbf8dbac
+        title: Jim Rothstein
+        slug: jim-rothstein
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: 01:05:45.3-01:05:54.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: ec7a17c1-7262-4cf2-a4ff-10f12e43d537
+    claim_hash: 61d64d4554e4b05fae6d0030c436df9ef8a90e74f1e1a3e5502137ed2ee1f239
+    content: There is a governing board for Avi Loeb's science advisory council that includes representatives from the Office
+      of the Director of National Intelligence (ODNI), the White House, the Federal Bureau of Investigation (FBI), and the
+      intelligence community, who have access to classified material.
+    original_excerpt: There is a governing board that includes representatives from ODNI, from the White House, from the FBI,
+      from the intelligence community. And so those representatives have access, of course, to all the classified material.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: speaker
+      origin: Avi Loeb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: d191410c-c196-4b82-80e8-178935220d44
+        title: Avi Loeb's All-Domain Anomaly Resolution Office (AARO) science advisory council
+        slug: avi-loebs-all-domain-anomaly-resolution-office-aaro-science-advisory-council
+    date: null
+    date_end: null
+    location_in_record: 00:21:38.5-00:21:53.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 1b8cf3b4-33dc-4f1b-b6e3-077b1d580dec
+    claim_hash: 3468eb4bb961beed0a260eaa2f295f4d4a3445960212c939d60ba84e955681a7
+    content: Ronald Pandolfi advised Bill Clinton that he should be briefed by Bruce Maccabee, a longtime civilian UFO researcher
+      who had written a book about UFOs and the FBI.
+    original_excerpt: Ron Pandolfi told Clinton he should get briefed by a guy named Bruce Maccabee who had written about
+      a book about UFOs and the FBI was a longtime civilian researcher.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+        title: Bruce Maccabee
+        slug: bruce-maccabee
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: 00:47:46.2-00:47:56.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: fc4c9d3b-ec5a-40ae-aa3a-e5de120efc0e
+    claim_hash: ab3310bb24d1b071616cf1e0dea95bab0ff0a6c407fabbad1946e6aef19aec12
+    content: During the week of 2011-04, the Federal Bureau of Investigation (FBI) released some of its investigation records
+      concerning unidentified flying objects (UFOs).
+    original_excerpt: During the week of April 2011, FBI released some of its investigation recording records on UFOs.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+      title: Maaneli "Max" Derakhshani
+    provenance_chain:
+      origin_kind: document
+      origin: Tom Jones's blog post on STS-80 UFOs
+      relay:
+        - Maaneli "Max" Derakhshani
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: 2011-04
+    date_end: null
+    location_in_record: 00:54:32.6-00:54:38.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: 88eb8ecf-ff8d-4841-8203-a086242f825a
+    claim_hash: d79186e697595697c8c2e0cd0f235fd1e8fad2b7c5e8ad1dad068997d11b6925
+    content: A spokesperson for the Office of the Intelligence Community Inspector General warned that any unauthorised disclosure
+      of protected information could result in removal from federal service and referral to the Federal Bureau of Investigation
+      (FBI) or another investigative authority.
+    original_excerpt: The spokesperson also warned that any unauthorised disclosure of protected information could result
+      in removal from federal service and referral to the FBI or another investigative authority
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Office of the Intelligence Community Inspector General (ICIG)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:1963-2144
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: c64d037b-9210-4529-bd27-9ec427dd7f65
+    claim_hash: 9dcbd42a1803bba100d8715dc3cc197654d0ad0f785f567c9245dc8871b65528
+    content: Any unauthorised disclosure of information protected by law, including information that identifies or could reasonably
+      be expected to identify a confidential whistleblower, may constitute grounds for removal from federal service and may
+      also warrant referral to the Federal Bureau of Investigation (FBI) or other appropriate investigative authorities.
+    original_excerpt: Any unauthorized disclosure of information protected by law, including information that identifies of
+      could reasonably be expected to identify a confidential whistleblower, may constitute grounds for removal from Federal
+      service and may also warrant referral to FBI or other appropriate investigative authorities.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Office of the Intelligence Community Inspector General (ICIG)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: char:2668-2969
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 36040736-14ae-4fe7-872a-d6c1cb3183b9
+    claim_hash: 8c993f39238eb3b12d84b5d2d13617b73584a1f8d0a62ded4f13ae7fb9f70cac
+    content: David Grusch considers it wrong that United States Congress lacked oversight insight into Unidentified Aerial
+      Phenomena matters comparable to the Church Committee investigations of the 1970s into the Central Intelligence Agency,
+      National Security Agency and Federal Bureau of Investigation activities.
+    original_excerpt: seeing what Congress was not being told and not having appropriate insight akin to the Church Committee
+      committees of the 1970s and not having insight on the CIA, NSA, and FBI's activities. I just thought it was wrong that
+      this was allowed to go unchecked for so many years.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0a1e7914-82e8-48f0-ae45-7a688df8b62f
+        title: Church Committee
+        slug: church-committee
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:03:57.3-00:04:15.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: ff64e0a1-0411-440a-ae28-55e78f4fb81c
+    claim_hash: 72ac144b6aa1c3f3ea9959d9a8cc0ed0d75b4400dd301fbde787cec5151d4240
+    content: Whitley Strieber considers Guy Hicks living around the corner from his family was no accident and had something
+      to do with his father and an FBI officer his father knew who lived across the street.
+    original_excerpt: And that was no accident. It had something to do with my dad and FBI officer, my dad knew who lived
+      across the street.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 558132a7-df0d-4e24-ae1e-129d29ac9c93
+        title: Guy Hicks
+        slug: guy-hicks
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: 00:38:41.3-00:38:47.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null

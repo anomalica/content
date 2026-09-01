@@ -9,260 +9,272 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1614
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
 related_nodes:
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 2
-- node_id: b053d9ca-821d-409a-bf48-ab33b2d96a0d
-  title: 1977-1978 Brazilian Air Force investigation into Colares Unidentified Flying
-    Object (UFO) incidents
-  node_type: event
-  slug: 1977-1978-brazilian-air-force-investigation-into-colares-unidentified-flying-object-ufo-incidents
-  shared_claims: 1
-- node_id: 69c58b5d-f47b-44dd-8ec6-2e6352cbc0a4
-  title: Brazil, Pará, Colares
-  node_type: place
-  slug: para-colares-brazil
-  shared_claims: 1
-- node_id: b0974e63-0c84-49e4-917c-dc8d5733fd2c
-  title: Brazil, Varginha
-  node_type: place
-  slug: varginha-brazil
-  shared_claims: 1
-- node_id: 8b7c5c94-edc4-4380-b49b-de4c9ecddc6a
-  title: Colares Incidents
-  node_type: event
-  slug: colares-incidents
-  shared_claims: 1
-- node_id: 169c1ccd-e1ee-4ad3-91f8-94de0675f903
-  title: Humanitas Hospital
-  node_type: organisation
-  slug: humanitas-hospital
-  shared_claims: 1
-- node_id: 24062290-5170-4b30-bff7-409b06300930
-  title: Institutional Act No. 5 (Brazilian Government Regulation)
-  node_type: document
-  slug: institutional-act-no-5-brazilian-government-regulation
-  shared_claims: 1
-- node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
-  title: North American Aerospace Defense Command (NORAD)
-  node_type: organisation
-  slug: north-american-aerospace-defense-command-norad
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-- node_id: 2a622a76-8084-42a8-ac0f-33b7dc5c5606
-  title: Uyrange Hollanda
-  node_type: person
-  slug: uyrange-hollanda
-  shared_claims: 1
-claims:
-- claim_id: e015d1b3-a125-4b7b-843f-f5648c52f046
-  claim_hash: 76fac52aa97cf2625171a6165f336b403cb1f8413ecbd2a3ab0bb1c38ebc9bef
-  content: Institutional Act No. 5, a Brazilian Government Regulation on state security,
-    forbade television, radio, newspapers and other news media from divulging UFO
-    reports without prior censorship by the Brazilian Air Force.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Institutional Act No. 5, Brazilian Government Regulation
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 24062290-5170-4b30-bff7-409b06300930
-    title: Institutional Act No. 5 (Brazilian Government Regulation)
-    slug: institutional-act-no-5-brazilian-government-regulation
-  - node_id: 7c2dc890-9158-4057-a773-a3439914d603
-    title: Brazilian Air Force
-    slug: brazilian-air-force
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: ch10:610-749
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: c6c4e677-8adb-4c52-9e78-8390ad15699d
-  claim_hash: 6f53d178d34828c3ec7373f6d1d0afc3148d1b1c0b16b5c7a3068955f3d2fe09
-  content: In 1977 the intelligence branch of the Brazilian Air Force sent twenty
-    investigators and physicians to the Colares region, led by Uyrange Hollanda.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2a622a76-8084-42a8-ac0f-33b7dc5c5606
-    title: Uyrange Hollanda
-    slug: uyrange-hollanda
-  - node_id: 7c2dc890-9158-4057-a773-a3439914d603
-    title: Brazilian Air Force
-    slug: brazilian-air-force
-  - node_id: 8b7c5c94-edc4-4380-b49b-de4c9ecddc6a
-    title: Colares Incidents
-    slug: colares-incidents
-  date: '1977'
-  date_end: null
-  location_in_record: ch10:7532-7691
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: cc26899d-fdb8-41a3-b854-f78917e85b6a
-  claim_hash: 83d4f81005070854703e4285497b18d76e9d3d2a49b381ce4037fca856882abc
-  content: Among Brazilian investigators, there is a suggestion that the North American
-    Aerospace Defense Command (NORAD) might have warned the Brazilian military that
-    an object was headed for the area where it fell during the 1996 Varginha incident.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: null
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: unattributed
-    origin: Brazilian investigators
-    relay:
-    - Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
-    title: North American Aerospace Defense Command (NORAD)
-    slug: north-american-aerospace-defense-command-norad
-  - node_id: 7c2dc890-9158-4057-a773-a3439914d603
-    title: Brazilian Air Force
-    slug: brazilian-air-force
   - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
     title: 2004 USS Nimitz UAP encounter
+    node_type: event
     slug: 2004-uss-nimitz-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: ch13:10240-10428
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 152e74e9-19db-4276-b195-15e79faecfa0
-  claim_hash: 34efcd42dc3cbc4f2a6f52d89f4076bedde5eda990b4f41922e9b49246376b59
-  content: The Brazilian military appeared prepared to embark on a search mission
-    in the Varginha area on the night of the 1996 incident and delivered an injured
-    person to a local hospital while stating that there was nothing unusual about
-    the case.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 169c1ccd-e1ee-4ad3-91f8-94de0675f903
-    title: Humanitas Hospital
-    slug: humanitas-hospital
-  - node_id: 7c2dc890-9158-4057-a773-a3439914d603
-    title: Brazilian Air Force
-    slug: brazilian-air-force
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: b0974e63-0c84-49e4-917c-dc8d5733fd2c
-    title: Brazil, Varginha
-    slug: varginha-brazil
-  date: null
-  date_end: null
-  location_in_record: ch13:10483-10713
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 76f00db9-2c88-4633-a811-873952df960d
-  claim_hash: 1eb7a3565088e6c1e14f786d7e0e487e82dfb143c3bd5ca28b8b4287e7b0b83a
-  content: The Brazilian Air Force conducted an extensive investigation into the Colares
-    UFO incidents in 1977 and 1978, interviewing between two hundred and three hundred
-    people.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Brazilian Air Force
-    relay:
-    - Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 2
+  - node_id: b053d9ca-821d-409a-bf48-ab33b2d96a0d
+    title: 1977-1978 Brazilian Air Force investigation into Colares Unidentified Flying Object (UFO) incidents
+    node_type: event
+    slug: 1977-1978-brazilian-air-force-investigation-into-colares-unidentified-flying-object-ufo-incidents
+    shared_claims: 1
   - node_id: 69c58b5d-f47b-44dd-8ec6-2e6352cbc0a4
     title: Brazil, Pará, Colares
+    node_type: place
     slug: para-colares-brazil
-  - node_id: 7c2dc890-9158-4057-a773-a3439914d603
-    title: Brazilian Air Force
-    slug: brazilian-air-force
-  - node_id: b053d9ca-821d-409a-bf48-ab33b2d96a0d
-    title: 1977-1978 Brazilian Air Force investigation into Colares Unidentified Flying
-      Object (UFO) incidents
-    slug: 1977-1978-brazilian-air-force-investigation-into-colares-unidentified-flying-object-ufo-incidents
-  date: '1977'
-  date_end: null
-  location_in_record: ch13:3748-3907
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: b0974e63-0c84-49e4-917c-dc8d5733fd2c
+    title: Brazil, Varginha
+    node_type: place
+    slug: varginha-brazil
+    shared_claims: 1
+  - node_id: 8b7c5c94-edc4-4380-b49b-de4c9ecddc6a
+    title: Colares Incidents
+    node_type: event
+    slug: colares-incidents
+    shared_claims: 1
+  - node_id: 169c1ccd-e1ee-4ad3-91f8-94de0675f903
+    title: Humanitas Hospital
+    node_type: organisation
+    slug: humanitas-hospital
+    shared_claims: 1
+  - node_id: 24062290-5170-4b30-bff7-409b06300930
+    title: Institutional Act No. 5 (Brazilian Government Regulation)
+    node_type: document
+    slug: institutional-act-no-5-brazilian-government-regulation
+    shared_claims: 1
+  - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+    title: North American Aerospace Defense Command (NORAD)
+    node_type: organisation
+    slug: north-american-aerospace-defense-command-norad
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 2a622a76-8084-42a8-ac0f-33b7dc5c5606
+    title: Uyrange Hollanda
+    node_type: person
+    slug: uyrange-hollanda
+    shared_claims: 1
+claims:
+  - claim_id: e015d1b3-a125-4b7b-843f-f5648c52f046
+    claim_hash: 76fac52aa97cf2625171a6165f336b403cb1f8413ecbd2a3ab0bb1c38ebc9bef
+    content: Institutional Act No. 5, a Brazilian Government Regulation on state security, forbade television, radio, newspapers
+      and other news media from divulging UFO reports without prior censorship by the Brazilian Air Force.
+    original_excerpt: It is forbidden for T.V., radio, newspapers, and other news media to divulge UFO reports without the
+      prior censorship of the Brazilian Air Force.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Institutional Act No. 5, Brazilian Government Regulation
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24062290-5170-4b30-bff7-409b06300930
+        title: Institutional Act No. 5 (Brazilian Government Regulation)
+        slug: institutional-act-no-5-brazilian-government-regulation
+      - node_id: 7c2dc890-9158-4057-a773-a3439914d603
+        title: Brazilian Air Force
+        slug: brazilian-air-force
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch10:610-749
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: c6c4e677-8adb-4c52-9e78-8390ad15699d
+    claim_hash: 6f53d178d34828c3ec7373f6d1d0afc3148d1b1c0b16b5c7a3068955f3d2fe09
+    content: In 1977 the intelligence branch of the Brazilian Air Force sent twenty investigators and physicians to the Colares
+      region, led by Uyrange Hollanda.
+    original_excerpt: In 1977, the intelligence branch of the Brazilian Air Force descended on the region with twenty investigators
+      and physicians led by Lieutenant Colonel Uyrange Hollanda.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a622a76-8084-42a8-ac0f-33b7dc5c5606
+        title: Uyrange Hollanda
+        slug: uyrange-hollanda
+      - node_id: 7c2dc890-9158-4057-a773-a3439914d603
+        title: Brazilian Air Force
+        slug: brazilian-air-force
+      - node_id: 8b7c5c94-edc4-4380-b49b-de4c9ecddc6a
+        title: Colares Incidents
+        slug: colares-incidents
+    date: '1977'
+    date_end: null
+    location_in_record: ch10:7532-7691
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: cc26899d-fdb8-41a3-b854-f78917e85b6a
+    claim_hash: 83d4f81005070854703e4285497b18d76e9d3d2a49b381ce4037fca856882abc
+    content: Among Brazilian investigators, there is a suggestion that the North American Aerospace Defense Command (NORAD)
+      might have warned the Brazilian military that an object was headed for the area where it fell during the 1996 Varginha
+      incident.
+    original_excerpt: Among Brazilian investigators, there is some suggestion that the North American Air Defense Command,
+      NORAD, might have warned the military that the object was headed for the area where it fell.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Brazilian investigators
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: 7c2dc890-9158-4057-a773-a3439914d603
+        title: Brazilian Air Force
+        slug: brazilian-air-force
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch13:10240-10428
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 152e74e9-19db-4276-b195-15e79faecfa0
+    claim_hash: 34efcd42dc3cbc4f2a6f52d89f4076bedde5eda990b4f41922e9b49246376b59
+    content: The Brazilian military appeared prepared to embark on a search mission in the Varginha area on the night of the
+      1996 incident and delivered an injured person to a local hospital while stating that there was nothing unusual about
+      the case.
+    original_excerpt: the military does seem to have been prepared to embark on a search mission of some kind in the Varginha
+      area that night. They also delivered an injured person to a local hospital, but said that there was nothing unusual
+      about the case.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 169c1ccd-e1ee-4ad3-91f8-94de0675f903
+        title: Humanitas Hospital
+        slug: humanitas-hospital
+      - node_id: 7c2dc890-9158-4057-a773-a3439914d603
+        title: Brazilian Air Force
+        slug: brazilian-air-force
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b0974e63-0c84-49e4-917c-dc8d5733fd2c
+        title: Brazil, Varginha
+        slug: varginha-brazil
+    date: null
+    date_end: null
+    location_in_record: ch13:10483-10713
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 76f00db9-2c88-4633-a811-873952df960d
+    claim_hash: 1eb7a3565088e6c1e14f786d7e0e487e82dfb143c3bd5ca28b8b4287e7b0b83a
+    content: The Brazilian Air Force conducted an extensive investigation into the Colares UFO incidents in 1977 and 1978,
+      interviewing between two hundred and three hundred people.
+    original_excerpt: There were so many cases that the Brazilian Air Force conducted an extensive investigation in 1977 and
+      1978. Between two hundred and three hundred people were interviewed.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Brazilian Air Force
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 69c58b5d-f47b-44dd-8ec6-2e6352cbc0a4
+        title: Brazil, Pará, Colares
+        slug: para-colares-brazil
+      - node_id: 7c2dc890-9158-4057-a773-a3439914d603
+        title: Brazilian Air Force
+        slug: brazilian-air-force
+      - node_id: b053d9ca-821d-409a-bf48-ab33b2d96a0d
+        title: 1977-1978 Brazilian Air Force investigation into Colares Unidentified Flying Object (UFO) incidents
+        slug: 1977-1978-brazilian-air-force-investigation-into-colares-unidentified-flying-object-ufo-incidents
+    date: '1977'
+    date_end: null
+    location_in_record: ch13:3748-3907
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind

@@ -9,330 +9,339 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2028
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
 related_nodes:
-- node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-  title: Tom DeLonge
-  node_type: person
-  slug: tom-delonge
-  shared_claims: 3
-- node_id: a925f644-b8d5-4c37-9eac-c85413dd73a3
-  title: 'SeKret Machines: Gods, Man & War'
-  node_type: document
-  slug: man-war-sekret-machines-gods
-  shared_claims: 2
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 1
-- node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-  title: Jason Samosa
-  node_type: person
-  slug: jason-samosa
-  shared_claims: 1
-- node_id: fa727cfc-9b1c-4743-b176-76256cc02fa4
-  title: Maison Rouge meeting
-  node_type: event
-  slug: maison-rouge-meeting
-  shared_claims: 1
-- node_id: 9caeaff0-3abf-4a8b-b10b-54f883a431d6
-  title: Nazi underground
-  node_type: topic
-  slug: nazi-underground
-  shared_claims: 1
-- node_id: df3080fc-fb44-4867-952a-1d2ff2a287f0
-  title: Otto Skorzeny
-  node_type: person
-  slug: otto-skorzeny
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-- node_id: 7699ee6b-266c-42ed-95b2-3b4430fd2af9
-  title: World Commerce Corporation
-  node_type: organisation
-  slug: world-commerce-corporation
-  shared_claims: 1
-claims:
-- claim_id: bf2555d0-3255-4955-a1f8-768be1ba0bc8
-  claim_hash: b37adea8fc75e634e6a5d1e21bcff4b1846d9e87b9b014f2849441cc5a95098a
-  content: 'In SeKret Machines: Gods, Man & War, Tom DeLonge and co-author Peter Levenda
-    suggest it is possible to prove there are physical effects on UAP contactees.'
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34976fe1-b7eb-44ec-8fbc-a8b8e4da546a
-    title: Peter Levenda
-    slug: peter-levenda
-  - node_id: a925f644-b8d5-4c37-9eac-c85413dd73a3
-    title: 'SeKret Machines: Gods, Man & War'
-    slug: man-war-sekret-machines-gods
   - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
     title: Tom DeLonge
+    node_type: person
     slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch18:21278-21405
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: fd79ce01-8b74-48cf-ad91-870a7cc8a2d9
-  claim_hash: 345bfdc616ff04b6807abf6ad4574a6bdf7a26513b0e66879fa41231e48ce0ee
-  content: 'In SeKret Machines: Gods, Man & War, Tom DeLonge and co-author Peter Levenda
-    suggest that people abducted by non-human intelligences show signs of post-traumatic
-    stress disorder.'
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34976fe1-b7eb-44ec-8fbc-a8b8e4da546a
-    title: Peter Levenda
-    slug: peter-levenda
+    shared_claims: 3
   - node_id: a925f644-b8d5-4c37-9eac-c85413dd73a3
     title: 'SeKret Machines: Gods, Man & War'
+    node_type: document
     slug: man-war-sekret-machines-gods
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch18:21425-21524
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 15d4dba2-7fee-4bf7-a2e7-77bc47667f43
-  claim_hash: 5cd289c5f728932e809c101588b2516f1351b44edf64d87bb1f2672830133a31
-  content: There is a demonstrable correlation between occult activity and the Unidentified
-    Flying Object (UFO) phenomenon, as shown in the work of Jacques Vallee and Peter
-    Levenda.
-  original_excerpt: And there is a correlation between occult activity and the phenomenon
-    that's demonstrable. And, you know, Vallee has demonstrated that and Peter Levenda,
-    there are so many examples of this.
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: named
-    origin: Jacques Vallee and Peter Levenda
-    relay:
-    - Jason Samosa
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 2
   - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
     title: Jacques Vallée
+    node_type: person
     slug: jacques-vallee
-  - node_id: 34976fe1-b7eb-44ec-8fbc-a8b8e4da546a
-    title: Peter Levenda
-    slug: peter-levenda
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: 00:14:02.9-00:14:13.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 767377aa-d985-4593-b4e3-3fbecca74448
-  claim_hash: 58c598d05f58e8fca4bce7a7dc035bef412b32a5d18ee3fa7e1ee03af3fa7af4
-  content: Peter Levenda, who worked closely with Tom DeLonge, said that by the time
-    he joined in November 2014 DeLonge already had ten advisers, preceding the better-known
-    group of advisers who came in 2015 and 2016.
-  original_excerpt: Peter Levander, who was someone who worked closely with DeLong,
-    he said by the time he joined, which was November, 2014, there were already 10
-    advisors.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: named
-    origin: Peter Levenda
-    relay:
-    - Jason Samosa
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34976fe1-b7eb-44ec-8fbc-a8b8e4da546a
-    title: Peter Levenda
-    slug: peter-levenda
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
+    shared_claims: 1
   - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
     title: Jason Samosa
+    node_type: person
     slug: jason-samosa
-  date: 2014-11
-  date_end: null
-  location_in_record: 00:35:09.1-00:35:17.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 87eb3393-565e-4f1d-9a13-85aec64c50bf
-  claim_hash: f4ddcbbebb4d351d2120d80f3285d8c63a83100454c7a9cd08eab0d00c5d310f
-  content: Based on documentation seen by Peter Levenda, the evacuation planned at
-    the Maison Rouge meeting was successful.
-  original_excerpt: And based on documentation that Peter Lavender's seen, they were
-    successful.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: named
-    origin: Peter Levenda
-    relay:
-    - Peter Levenda's published work read by Jason Samosa
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34976fe1-b7eb-44ec-8fbc-a8b8e4da546a
-    title: Peter Levenda
-    slug: peter-levenda
+    shared_claims: 1
   - node_id: fa727cfc-9b1c-4743-b176-76256cc02fa4
     title: Maison Rouge meeting
+    node_type: event
     slug: maison-rouge-meeting
-  date: null
-  date_end: null
-  location_in_record: 01:18:41.9-01:18:45.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 2e99ebcb-5b86-4fe9-a080-3ba8637d9437
-  claim_hash: 3c21180dd3f918dd1ef7a7ff288270d879ea0ab65804f3cf71d0151b54106611
-  content: Peter Levenda described the objective of the World Commerce Corporation
-    as facilitating trade between South America and Germany.
-  original_excerpt: Peter Lavender, when he briefly touches on it, he says the objective
-    was to facilitate trade between South America and Germany.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: named
-    origin: Peter Levenda
-    relay:
-    - Peter Levenda's published work read by Jason Samosa
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34976fe1-b7eb-44ec-8fbc-a8b8e4da546a
-    title: Peter Levenda
-    slug: peter-levenda
-  - node_id: 7699ee6b-266c-42ed-95b2-3b4430fd2af9
-    title: World Commerce Corporation
-    slug: world-commerce-corporation
-  date: null
-  date_end: null
-  location_in_record: 01:26:33.5-01:26:40.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 181a3af3-432d-48d4-b7c7-05b18299e2d5
-  claim_hash: 3e92ce7fcc5d0c90dae34b4f01c6b7cfd9a159126847ddca36706e8aab90de35
-  content: Peter Levenda describes Otto Skorzeny as the public face of a large Nazi
-    underground and as the man with the relationships to whatever escaped after the
-    war.
-  original_excerpt: Lewander talks about how Otto Skorzeny is the public face of this
-    huge Nazi underground. He's the guy with the relationships to whatever escaped
-    afterwards.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: named
-    origin: Peter Levenda
-    relay:
-    - Jason Samosa
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34976fe1-b7eb-44ec-8fbc-a8b8e4da546a
-    title: Peter Levenda
-    slug: peter-levenda
+    shared_claims: 1
   - node_id: 9caeaff0-3abf-4a8b-b10b-54f883a431d6
     title: Nazi underground
+    node_type: topic
     slug: nazi-underground
+    shared_claims: 1
   - node_id: df3080fc-fb44-4867-952a-1d2ff2a287f0
     title: Otto Skorzeny
+    node_type: person
     slug: otto-skorzeny
-  date: null
-  date_end: null
-  location_in_record: 01:35:05.1-01:35:12.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 7699ee6b-266c-42ed-95b2-3b4430fd2af9
+    title: World Commerce Corporation
+    node_type: organisation
+    slug: world-commerce-corporation
+    shared_claims: 1
+claims:
+  - claim_id: bf2555d0-3255-4955-a1f8-768be1ba0bc8
+    claim_hash: b37adea8fc75e634e6a5d1e21bcff4b1846d9e87b9b014f2849441cc5a95098a
+    content: 'In SeKret Machines: Gods, Man & War, Tom DeLonge and co-author Peter Levenda suggest it is possible to prove
+      there are physical effects on UAP contactees.'
+    original_excerpt: 'In SeKret Machines: Gods, Man & War, DeLonge and co-author Peter Levenda suggest that it is possible
+      to prove there are physical effects on UAP contactees'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34976fe1-b7eb-44ec-8fbc-a8b8e4da546a
+        title: Peter Levenda
+        slug: peter-levenda
+      - node_id: a925f644-b8d5-4c37-9eac-c85413dd73a3
+        title: 'SeKret Machines: Gods, Man & War'
+        slug: man-war-sekret-machines-gods
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch18:21278-21405
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: fd79ce01-8b74-48cf-ad91-870a7cc8a2d9
+    claim_hash: 345bfdc616ff04b6807abf6ad4574a6bdf7a26513b0e66879fa41231e48ce0ee
+    content: 'In SeKret Machines: Gods, Man & War, Tom DeLonge and co-author Peter Levenda suggest that people abducted by
+      non-human intelligences show signs of post-traumatic stress disorder.'
+    original_excerpt: those abducted (presumably by non-human intelligences/aliens?) show signs of post-traumatic stress disorder
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34976fe1-b7eb-44ec-8fbc-a8b8e4da546a
+        title: Peter Levenda
+        slug: peter-levenda
+      - node_id: a925f644-b8d5-4c37-9eac-c85413dd73a3
+        title: 'SeKret Machines: Gods, Man & War'
+        slug: man-war-sekret-machines-gods
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch18:21425-21524
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 15d4dba2-7fee-4bf7-a2e7-77bc47667f43
+    claim_hash: 5cd289c5f728932e809c101588b2516f1351b44edf64d87bb1f2672830133a31
+    content: There is a demonstrable correlation between occult activity and the Unidentified Flying Object (UFO) phenomenon,
+      as shown in the work of Jacques Vallee and Peter Levenda.
+    original_excerpt: And there is a correlation between occult activity and the phenomenon that's demonstrable. And, you
+      know, Vallee has demonstrated that and Peter Levenda, there are so many examples of this.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Jacques Vallee and Peter Levenda
+      relay:
+        - Jason Samosa
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 34976fe1-b7eb-44ec-8fbc-a8b8e4da546a
+        title: Peter Levenda
+        slug: peter-levenda
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:14:02.9-00:14:13.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 767377aa-d985-4593-b4e3-3fbecca74448
+    claim_hash: 58c598d05f58e8fca4bce7a7dc035bef412b32a5d18ee3fa7e1ee03af3fa7af4
+    content: Peter Levenda, who worked closely with Tom DeLonge, said that by the time he joined in November 2014 DeLonge
+      already had ten advisers, preceding the better-known group of advisers who came in 2015 and 2016.
+    original_excerpt: Peter Levander, who was someone who worked closely with DeLong, he said by the time he joined, which
+      was November, 2014, there were already 10 advisors.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Peter Levenda
+      relay:
+        - Jason Samosa
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34976fe1-b7eb-44ec-8fbc-a8b8e4da546a
+        title: Peter Levenda
+        slug: peter-levenda
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: 2014-11
+    date_end: null
+    location_in_record: 00:35:09.1-00:35:17.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 87eb3393-565e-4f1d-9a13-85aec64c50bf
+    claim_hash: f4ddcbbebb4d351d2120d80f3285d8c63a83100454c7a9cd08eab0d00c5d310f
+    content: Based on documentation seen by Peter Levenda, the evacuation planned at the Maison Rouge meeting was successful.
+    original_excerpt: And based on documentation that Peter Lavender's seen, they were successful.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Peter Levenda
+      relay:
+        - Peter Levenda's published work read by Jason Samosa
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34976fe1-b7eb-44ec-8fbc-a8b8e4da546a
+        title: Peter Levenda
+        slug: peter-levenda
+      - node_id: fa727cfc-9b1c-4743-b176-76256cc02fa4
+        title: Maison Rouge meeting
+        slug: maison-rouge-meeting
+    date: null
+    date_end: null
+    location_in_record: 01:18:41.9-01:18:45.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 2e99ebcb-5b86-4fe9-a080-3ba8637d9437
+    claim_hash: 3c21180dd3f918dd1ef7a7ff288270d879ea0ab65804f3cf71d0151b54106611
+    content: Peter Levenda described the objective of the World Commerce Corporation as facilitating trade between South America
+      and Germany.
+    original_excerpt: Peter Lavender, when he briefly touches on it, he says the objective was to facilitate trade between
+      South America and Germany.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Peter Levenda
+      relay:
+        - Peter Levenda's published work read by Jason Samosa
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34976fe1-b7eb-44ec-8fbc-a8b8e4da546a
+        title: Peter Levenda
+        slug: peter-levenda
+      - node_id: 7699ee6b-266c-42ed-95b2-3b4430fd2af9
+        title: World Commerce Corporation
+        slug: world-commerce-corporation
+    date: null
+    date_end: null
+    location_in_record: 01:26:33.5-01:26:40.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 181a3af3-432d-48d4-b7c7-05b18299e2d5
+    claim_hash: 3e92ce7fcc5d0c90dae34b4f01c6b7cfd9a159126847ddca36706e8aab90de35
+    content: Peter Levenda describes Otto Skorzeny as the public face of a large Nazi underground and as the man with the
+      relationships to whatever escaped after the war.
+    original_excerpt: Lewander talks about how Otto Skorzeny is the public face of this huge Nazi underground. He's the guy
+      with the relationships to whatever escaped afterwards.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Peter Levenda
+      relay:
+        - Jason Samosa
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34976fe1-b7eb-44ec-8fbc-a8b8e4da546a
+        title: Peter Levenda
+        slug: peter-levenda
+      - node_id: 9caeaff0-3abf-4a8b-b10b-54f883a431d6
+        title: Nazi underground
+        slug: nazi-underground
+      - node_id: df3080fc-fb44-4867-952a-1d2ff2a287f0
+        title: Otto Skorzeny
+        slug: otto-skorzeny
+    date: null
+    date_end: null
+    location_in_record: 01:35:05.1-01:35:12.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

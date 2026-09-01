@@ -1,0 +1,202 @@
+schema: anomalica/brief/1
+brief_hash: 457bd921b640a0760e5149912dc212c6cc9157b3c28611dc15206ff86bed49f7
+page:
+  kind: entity
+  node_id: afa8522c-cb97-4680-94e5-530d910f6bc8
+  node_type: topic
+  title: Shinto
+  slug: shinto
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1062
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: b06ea490-a6ad-4388-a7ad-6c65faa82902
+    title: Japan
+    node_type: place
+    slug: japan
+    shared_claims: 2
+  - node_id: 8db52f05-ad79-434c-96cb-976f86083be7
+    title: Zen
+    node_type: topic
+    slug: zen
+    shared_claims: 1
+  - node_id: d72eaf29-0682-4094-88bc-9b2d1c07527e
+    title: kami (Shinto nature spirits)
+    node_type: topic
+    slug: kami-shinto-nature-spirits
+    shared_claims: 1
+  - node_id: 5e00bba1-273a-43e8-84bd-bc4ad9b19358
+    title: shamanism
+    node_type: topic
+    slug: shamanism
+    shared_claims: 1
+  - node_id: dd9b1445-e42b-4165-924a-a4d526e3f597
+    title: spirits of nature
+    node_type: topic
+    slug: spirits-of-nature
+    shared_claims: 1
+claims:
+  - claim_id: 46b89065-4212-45bd-b078-02daab2ebfb8
+    claim_hash: 4872e6b34288cd96f7eb224b476cb8cbcf888d47dd097420b98c5d1a0095b433
+    content: The traditional and original religion of Japan is Shinto.
+    original_excerpt: The traditional and original religion of Japan is Shinto.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: afa8522c-cb97-4680-94e5-530d910f6bc8
+        title: Shinto
+        slug: shinto
+      - node_id: b06ea490-a6ad-4388-a7ad-6c65faa82902
+        title: Japan
+        slug: japan
+    date: null
+    date_end: null
+    location_in_record: ch11:176-226
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 51f8e800-d373-423f-a3b9-c1b701270878
+    claim_hash: 359c923f343dd4249eb5dfb4df33a143688953e75caa9a69759e8849065f8663
+    content: Shinto has no founder, no official scriptures or texts, and no dogma.
+    original_excerpt: Shinto has no founder, no official scriptures or texts, and no dogma, and even thus unencumbered has
+      survived the ages
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: afa8522c-cb97-4680-94e5-530d910f6bc8
+        title: Shinto
+        slug: shinto
+    date: null
+    date_end: null
+    location_in_record: ch11:303-417
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: bba48ab3-40ca-4447-91a6-275fad4bed67
+    claim_hash: 057ba8dd96bb8f3f941192c98eeb5d46da4b517b8240e90f1a1a38aa04e64b0c
+    content: Zen is not a system of ideas, metaphysics, or religion, and is less endowed with dogma, belief, vows, or symbols
+      than Shinto.
+    original_excerpt: It is not a system of ideas, metaphysics, or religion. It is even less endowed with dogma, belief, vows,
+      or symbols than the rest.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8db52f05-ad79-434c-96cb-976f86083be7
+        title: Zen
+        slug: zen
+      - node_id: afa8522c-cb97-4680-94e5-530d910f6bc8
+        title: Shinto
+        slug: shinto
+    date: null
+    date_end: null
+    location_in_record: ch11:659-784
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 0110d777-ed5f-47cc-b2e3-2ad7aa669a00
+    claim_hash: ce9a49c25cf34da768012e36f34aa2e8d9344e59ec3db74da3fea98621cc86b5
+    content: 'In shamanism the concept is called the spirits of nature, and in Japanese Shinto it is called the kami: a collective
+      spirit whereby everything has a spirit.'
+    original_excerpt: there's this concept in shamanism and it's called, uh, the spirits of nature or in, in Japanese or in
+      Shinto, it's called the kami. And it's basically like a collective spirit that everything has a spirit.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e00bba1-273a-43e8-84bd-bc4ad9b19358
+        title: shamanism
+        slug: shamanism
+      - node_id: afa8522c-cb97-4680-94e5-530d910f6bc8
+        title: Shinto
+        slug: shinto
+      - node_id: b06ea490-a6ad-4388-a7ad-6c65faa82902
+        title: Japan
+        slug: japan
+      - node_id: d72eaf29-0682-4094-88bc-9b2d1c07527e
+        title: kami (Shinto nature spirits)
+        slug: kami-shinto-nature-spirits
+      - node_id: dd9b1445-e42b-4165-924a-a4d526e3f597
+        title: spirits of nature
+        slug: spirits-of-nature
+    date: null
+    date_end: null
+    location_in_record: 00:38:24.2-00:38:36.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null

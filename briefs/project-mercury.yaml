@@ -9,587 +9,598 @@ page:
   claim_count: 14
   claim_count_total: 14
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 14
+  tokens_estimated: 3971
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 14
 related_nodes:
-- node_id: 4c66d918-c18c-4a0e-92c1-71aeb1e3c397
-  title: Project Gemini
-  node_type: project
-  slug: project-gemini
-  shared_claims: 5
-- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-  title: National Aeronautics and Space Administration (NASA)
-  node_type: organisation
-  slug: national-aeronautics-and-space-administration-nasa
-  shared_claims: 4
-- node_id: 511a1f25-ad2c-4b74-82cb-2df4bc604dca
-  title: Kenneth S. Kleinknecht
-  node_type: person
-  slug: kenneth-s-kleinknecht
-  shared_claims: 3
-- node_id: 86002941-4b26-48e5-8629-0d332b938ca9
-  title: Apollo 11
-  node_type: project
-  slug: apollo-11
-  shared_claims: 2
-- node_id: 1eabd894-9059-432b-990a-74c0a81eec82
-  title: Gordon Cooper
-  node_type: person
-  slug: gordon-cooper
-  shared_claims: 2
-- node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
-  title: Project Apollo
-  node_type: project
-  slug: project-apollo
-  shared_claims: 2
-- node_id: bc88a063-2bd0-4b0f-a692-bb1954d1936b
-  title: Abe Silverstein
-  node_type: person
-  slug: abe-silverstein
-  shared_claims: 1
-- node_id: a74cd0da-08b8-4d07-b8b5-4cd6cc362ac5
-  title: Deke Slayton
-  node_type: person
-  slug: deke-slayton
-  shared_claims: 1
-- node_id: 17f8929f-cd7d-4062-bf3c-d3190de62d05
-  title: James Webb
-  node_type: person
-  slug: james-webb
-  shared_claims: 1
-- node_id: f8210896-59eb-4904-b6ae-5ae0b4e51a85
-  title: Robert Gilruth
-  node_type: person
-  slug: robert-gilruth
-  shared_claims: 1
-- node_id: ab63774b-6526-48b8-9aff-358ac45f683a
-  title: USA, Texas, Houston, Manned Spacecraft Center
-  node_type: place
-  slug: texas-houston-manned-spacecraft-center-usa
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-claims:
-- claim_id: f57bfdac-b1ac-4cb2-be16-e684e50ddea2
-  claim_hash: c3adf7bf1ada95f57c8ddbe2e7bab9db1e1b55e5765b7138ab89093aad4996d0
-  content: James E. Webb appointed Kenneth S. Kleinknecht as director of Project Mercury
-    within a few months of his own appointment.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 17f8929f-cd7d-4062-bf3c-d3190de62d05
-    title: James Webb
-    slug: james-webb
-  - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
-    title: Project Mercury
-    slug: project-mercury
-  - node_id: 511a1f25-ad2c-4b74-82cb-2df4bc604dca
-    title: Kenneth S. Kleinknecht
-    slug: kenneth-s-kleinknecht
-  date: null
-  date_end: null
-  location_in_record: ch12:114919-115005
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 7e6294da-29b6-4bb4-9f73-e52f94f03099
-  claim_hash: 19027a595d668164e09dff4f38931a492c834a805b787f5864bece5f33f403bb
-  content: Kenneth S. Kleinknecht became a technical assistant to Mercury Program
-    Director Robert Gilruth in 1960.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
-    title: Project Mercury
-    slug: project-mercury
-  - node_id: 511a1f25-ad2c-4b74-82cb-2df4bc604dca
-    title: Kenneth S. Kleinknecht
-    slug: kenneth-s-kleinknecht
-  - node_id: f8210896-59eb-4904-b6ae-5ae0b4e51a85
-    title: Robert Gilruth
-    slug: robert-gilruth
-  date: '1960'
-  date_end: null
-  location_in_record: ch12:115764-115855
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 4c5035e1-35b6-4a93-9246-6ac6103aead8
-  claim_hash: ceda2a45bd85d6d3886e31cdd692eebf7057eacb9c19c2b80e2c816bfbbd9811
-  content: Kenneth S. Kleinknecht became Project Manager for Project Mercury on 1962-01-15.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
-    title: Project Mercury
-    slug: project-mercury
-  - node_id: 511a1f25-ad2c-4b74-82cb-2df4bc604dca
-    title: Kenneth S. Kleinknecht
-    slug: kenneth-s-kleinknecht
-  date: '1962-01-15'
-  date_end: null
-  location_in_record: ch12:115861-115915
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 7e36d4f1-041d-4d20-b8be-061b20863c72
-  claim_hash: f915cbfdcef5509a8995411d33bc5d4366a0423f6d4245cb67ac428aa593da38
-  content: According to Agency lore, NASA Director of Space Flight Development Abe
-    Silverstein consciously drew on Greco-Roman mythology when naming the Mercury,
-    Gemini and Apollo projects.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: NASA Agency lore
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
-    title: Project Mercury
-    slug: project-mercury
   - node_id: 4c66d918-c18c-4a0e-92c1-71aeb1e3c397
     title: Project Gemini
+    node_type: project
     slug: project-gemini
+    shared_claims: 5
   - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
     title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
     slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 4
+  - node_id: 511a1f25-ad2c-4b74-82cb-2df4bc604dca
+    title: Kenneth S. Kleinknecht
+    node_type: person
+    slug: kenneth-s-kleinknecht
+    shared_claims: 3
   - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
     title: Apollo 11
+    node_type: project
     slug: apollo-11
+    shared_claims: 2
+  - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+    title: Gordon Cooper
+    node_type: person
+    slug: gordon-cooper
+    shared_claims: 2
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    node_type: project
+    slug: project-apollo
+    shared_claims: 2
   - node_id: bc88a063-2bd0-4b0f-a692-bb1954d1936b
     title: Abe Silverstein
+    node_type: person
     slug: abe-silverstein
-  date: null
-  date_end: null
-  location_in_record: ch12:1736-1914
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: d6621b61-0309-4a6f-94b3-b6fd55a46287
-  claim_hash: 4588ae6eb3037c0bc4fabdbb29f3610d5679608675985a64bdcfa718f58d93f2
-  content: The names of Project Mercury, Project Gemini and the Apollo programme were
-    approved at a NASA conference in 1960-07.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
-    title: Project Mercury
-    slug: project-mercury
-  - node_id: 4c66d918-c18c-4a0e-92c1-71aeb1e3c397
-    title: Project Gemini
-    slug: project-gemini
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
-    title: Apollo 11
-    slug: apollo-11
-  date: 1960-07
-  date_end: null
-  location_in_record: ch12:1924-1987
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 566ee74c-d76b-48e3-9e4e-d8f1ba996483
-  claim_hash: 19cf7b76de851499d3fe3b4d44557d86175ca8a782905e5a49403fef5ef10992
-  content: The NASA symbol for Project Mercury is a representation of the element
-    mercury rather than the Greek god Mercury, and is similar to a stylised Egyptian
-    ankh.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
-    title: Project Mercury
-    slug: project-mercury
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  date: null
-  date_end: null
-  location_in_record: ch12:2243-2414
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 2e67b21b-5c85-4eac-9fd6-8c4f4c393736
-  claim_hash: 074aa200b6aadcf6d08f14872d6e33cfc4ba1dfb99c8264221c25e32228d51d1
-  content: Deke Slayton had a chronic erratic heart rate that barred him from spaceflight
-    just after his Mercury selection, and he was given the title of Chief Astronaut
-    in Houston as a symbolic consolation.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
-    title: Project Mercury
-    slug: project-mercury
+    shared_claims: 1
   - node_id: a74cd0da-08b8-4d07-b8b5-4cd6cc362ac5
     title: Deke Slayton
+    node_type: person
     slug: deke-slayton
+    shared_claims: 1
+  - node_id: 17f8929f-cd7d-4062-bf3c-d3190de62d05
+    title: James Webb
+    node_type: person
+    slug: james-webb
+    shared_claims: 1
+  - node_id: f8210896-59eb-4904-b6ae-5ae0b4e51a85
+    title: Robert Gilruth
+    node_type: person
+    slug: robert-gilruth
+    shared_claims: 1
   - node_id: ab63774b-6526-48b8-9aff-358ac45f683a
     title: USA, Texas, Houston, Manned Spacecraft Center
+    node_type: place
     slug: texas-houston-manned-spacecraft-center-usa
-  date: null
-  date_end: null
-  location_in_record: ch19:34815-35117
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 71cd5781-8142-4c97-8181-259944fe25fc
-  claim_hash: 4c79a775bc35493ba6d0de1304812045f3d8453d8bbfb268995fdb18cc0918a4
-  content: Project Mercury, America's first human space programme, made six flights.
-  original_excerpt: Project Mercury, America's first human space program made six
-    flights.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
-    title: Project Mercury
-    slug: project-mercury
-  date: null
-  date_end: null
-  location_in_record: char:127247-127309
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: a89a4f3f-3864-4eb8-801c-421c2c50ea4d
-  claim_hash: f696ee32815fc68a434a1ef2276f899fe4bb0c043f74b616998fa55249b21b50
-  content: The objectives of Project Mercury were to orbit a manned spacecraft around
-    Earth, investigate humans' ability to function in space, and recover astronauts
-    and spacecraft safely.
-  original_excerpt: The objectives of the program were to orbit a manned spacecraft
-    around Earth, investigate humans' ability to function in space, and recover astronauts
-    and spacecraft safely.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
-    title: Project Mercury
-    slug: project-mercury
-  date: null
-  date_end: null
-  location_in_record: char:127318-127484
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 4c644bda-1587-4ba3-af43-099cbfbacd9c
-  claim_hash: b3879d55cf572f233a4c2049ff8b5b3d0d2ca3da496a04d6112d10ae3c428116
-  content: The Gemini programme was a United States human spaceflight programme that
-    took place between the Mercury and Apollo programmes.
-  original_excerpt: The Gemini program was a U.S. human spaceflight program that took
-    place between the Mercury and Apollo programs.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
-    title: Project Mercury
-    slug: project-mercury
-  - node_id: 4c66d918-c18c-4a0e-92c1-71aeb1e3c397
-    title: Project Gemini
-    slug: project-gemini
-  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
-    title: Project Apollo
-    slug: project-apollo
-  date: null
-  date_end: null
-  location_in_record: char:128684-128787
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: d9deb59a-2d04-4d5a-997f-044d642f560d
-  claim_hash: fcb07a76879876cfc350d60629d9c29b6c7e93cded34be4c7cfaff6a37501515
-  content: Similar to Project Mercury, Project Gemini spacecraft were launched using
-    ballistic missiles that were designed to carry nuclear payloads.
-  original_excerpt: Similar to Project Mercury, Project Gemini spacecraft was launched
-    using ballistic missiles that were designed to carry nuclear payloads.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
-    title: Project Mercury
-    slug: project-mercury
-  - node_id: 4c66d918-c18c-4a0e-92c1-71aeb1e3c397
-    title: Project Gemini
-    slug: project-gemini
-  date: null
-  date_end: null
-  location_in_record: char:128797-128925
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: e741b1cb-7e7c-4ae5-a0e5-9c06478052ef
-  claim_hash: 234173eaeafcec6e396329a7962dc374c28479365a8e1f4fef10724fdda79f13
-  content: Project Apollo was a NASA human spaceflight programme conducted after Project
-    Mercury and Project Gemini.
-  original_excerpt: Project Apollo was a NASA human spaceflight program conducted
-    after Project Mercury and Project Gemini.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
-    title: Project Mercury
-    slug: project-mercury
-  - node_id: 4c66d918-c18c-4a0e-92c1-71aeb1e3c397
-    title: Project Gemini
-    slug: project-gemini
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
-    title: Project Apollo
-    slug: project-apollo
-  date: null
-  date_end: null
-  location_in_record: char:129287-129383
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 2728c1fb-22c8-4a2c-b703-204c6aab8478
-  claim_hash: b4d397af499e5ca090a95912b5736b35ab4bf8eee1d89f46b38d47c1c89dce11
-  content: Gordon Cooper considers Project Mercury flights to reach only a low order
-    of distance into space, on the order of a hundred miles, not far enough to make
-    observations relevant to unidentified flying objects (UFOs).
-  original_excerpt: You don't think that the comparatively short step out into space
-    that the Mercury flight will take you on is far enough out to make any observations
-    in this area? / No, I think we're still at a fairly low order of getting out into
-    space when you regard, when you speak of space and being millions of miles involved,
-    and we're only getting out a hundred miles or so.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 1eabd894-9059-432b-990a-74c0a81eec82
-    title: Gordon Cooper
-  provenance_chain:
-    origin_kind: speaker
-    origin: Gordon Cooper
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
-    title: Gordon Cooper
-    slug: gordon-cooper
-  - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
-    title: Project Mercury
-    slug: project-mercury
+    shared_claims: 1
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
+    node_type: topic
     slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: 00:01:11.0-00:01:38.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: fe743c62-5af5-4b4e-b4cd-22c1bcc00f3d
-    record_title: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1010337
-    content_hash: sha256:31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871ec64f379
-    friendly_name: null
-- claim_id: 72cef6b1-c823-4c6d-b12c-ef31bb6b9b4c
-  claim_hash: 0eb46e8c5396452b105334998364ad872f3b750666d90f2f1c7f39a80f22e4c8
-  content: Project Mercury spaceflights reach approximately 160 kilometres out into
-    space, as distinct from distances of millions of kilometres.
-  original_excerpt: we're only getting out a hundred miles or so
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: 1eabd894-9059-432b-990a-74c0a81eec82
-    title: Gordon Cooper
-  provenance_chain:
-    origin_kind: speaker
-    origin: Gordon Cooper
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
-    title: Gordon Cooper
-    slug: gordon-cooper
-  - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
-    title: Project Mercury
-    slug: project-mercury
-  date: null
-  date_end: null
-  location_in_record: 00:01:37.0-00:01:38.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: fe743c62-5af5-4b4e-b4cd-22c1bcc00f3d
-    record_title: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1010337
-    content_hash: sha256:31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871ec64f379
-    friendly_name: null
+    shared_claims: 1
+claims:
+  - claim_id: f57bfdac-b1ac-4cb2-be16-e684e50ddea2
+    claim_hash: c3adf7bf1ada95f57c8ddbe2e7bab9db1e1b55e5765b7138ab89093aad4996d0
+    content: James E. Webb appointed Kenneth S. Kleinknecht as director of Project Mercury within a few months of his own
+      appointment.
+    original_excerpt: Within a few months, Webb had appointed Kenneth S. Kleinknecht as director of Project Mercury.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17f8929f-cd7d-4062-bf3c-d3190de62d05
+        title: James Webb
+        slug: james-webb
+      - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+        title: Project Mercury
+        slug: project-mercury
+      - node_id: 511a1f25-ad2c-4b74-82cb-2df4bc604dca
+        title: Kenneth S. Kleinknecht
+        slug: kenneth-s-kleinknecht
+    date: null
+    date_end: null
+    location_in_record: ch12:114919-115005
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 7e6294da-29b6-4bb4-9f73-e52f94f03099
+    claim_hash: 19027a595d668164e09dff4f38931a492c834a805b787f5864bece5f33f403bb
+    content: Kenneth S. Kleinknecht became a technical assistant to Mercury Program Director Robert Gilruth in 1960.
+    original_excerpt: He went on to become a "technical assistant" to Mercury Program Director Robert Gilruth in 1960
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+        title: Project Mercury
+        slug: project-mercury
+      - node_id: 511a1f25-ad2c-4b74-82cb-2df4bc604dca
+        title: Kenneth S. Kleinknecht
+        slug: kenneth-s-kleinknecht
+      - node_id: f8210896-59eb-4904-b6ae-5ae0b4e51a85
+        title: Robert Gilruth
+        slug: robert-gilruth
+    date: '1960'
+    date_end: null
+    location_in_record: ch12:115764-115855
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4c5035e1-35b6-4a93-9246-6ac6103aead8
+    claim_hash: ceda2a45bd85d6d3886e31cdd692eebf7057eacb9c19c2b80e2c816bfbbd9811
+    content: Kenneth S. Kleinknecht became Project Manager for Project Mercury on 1962-01-15.
+    original_excerpt: and became Project Manager for Mercury on January 15, 1962.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+        title: Project Mercury
+        slug: project-mercury
+      - node_id: 511a1f25-ad2c-4b74-82cb-2df4bc604dca
+        title: Kenneth S. Kleinknecht
+        slug: kenneth-s-kleinknecht
+    date: '1962-01-15'
+    date_end: null
+    location_in_record: ch12:115861-115915
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 7e36d4f1-041d-4d20-b8be-061b20863c72
+    claim_hash: f915cbfdcef5509a8995411d33bc5d4366a0423f6d4245cb67ac428aa593da38
+    content: According to Agency lore, NASA Director of Space Flight Development Abe Silverstein consciously drew on Greco-Roman
+      mythology when naming the Mercury, Gemini and Apollo projects.
+    original_excerpt: According to Agency lore, NASA Director of Space Flight Development Abe Silverstein had consciously
+      tapped Greco-Roman mythology in the naming of the Mercury, Gemini and Apollo projects.
+    claim_type: hearsay
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: NASA Agency lore
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+        title: Project Mercury
+        slug: project-mercury
+      - node_id: 4c66d918-c18c-4a0e-92c1-71aeb1e3c397
+        title: Project Gemini
+        slug: project-gemini
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+        title: Apollo 11
+        slug: apollo-11
+      - node_id: bc88a063-2bd0-4b0f-a692-bb1954d1936b
+        title: Abe Silverstein
+        slug: abe-silverstein
+    date: null
+    date_end: null
+    location_in_record: ch12:1736-1914
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: d6621b61-0309-4a6f-94b3-b6fd55a46287
+    claim_hash: 4588ae6eb3037c0bc4fabdbb29f3610d5679608675985a64bdcfa718f58d93f2
+    content: The names of Project Mercury, Project Gemini and the Apollo programme were approved at a NASA conference in 1960-07.
+    original_excerpt: The projects' names were approved at a NASA conference in July 1960.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+        title: Project Mercury
+        slug: project-mercury
+      - node_id: 4c66d918-c18c-4a0e-92c1-71aeb1e3c397
+        title: Project Gemini
+        slug: project-gemini
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+        title: Apollo 11
+        slug: apollo-11
+    date: 1960-07
+    date_end: null
+    location_in_record: ch12:1924-1987
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 566ee74c-d76b-48e3-9e4e-d8f1ba996483
+    claim_hash: 19cf7b76de851499d3fe3b4d44557d86175ca8a782905e5a49403fef5ef10992
+    content: The NASA symbol for Project Mercury is a representation of the element mercury rather than the Greek god Mercury,
+      and is similar to a stylised Egyptian ankh.
+    original_excerpt: Yet the NASA symbol for Project Mercury is a representation of the element mercury, rather than the
+      Greek god Mercury, and is similar to a stylized Egyptian ankh[Fig. 5-2].
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+        title: Project Mercury
+        slug: project-mercury
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+    date: null
+    date_end: null
+    location_in_record: ch12:2243-2414
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2e67b21b-5c85-4eac-9fd6-8c4f4c393736
+    claim_hash: 074aa200b6aadcf6d08f14872d6e33cfc4ba1dfb99c8264221c25e32228d51d1
+    content: Deke Slayton had a chronic erratic heart rate that barred him from spaceflight just after his Mercury selection,
+      and he was given the title of Chief Astronaut in Houston as a symbolic consolation.
+    original_excerpt: For Slayton, it was a chronic erratic heart rate—which effectively barred him, just after his Mercury
+      selection, from *all* future spaceflights (he was given the title of "Chief Astronaut" in Houston as a symbolic consolation,
+      and the actual job of picking other astronauts to go "where he could never go."
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+        title: Project Mercury
+        slug: project-mercury
+      - node_id: a74cd0da-08b8-4d07-b8b5-4cd6cc362ac5
+        title: Deke Slayton
+        slug: deke-slayton
+      - node_id: ab63774b-6526-48b8-9aff-358ac45f683a
+        title: USA, Texas, Houston, Manned Spacecraft Center
+        slug: texas-houston-manned-spacecraft-center-usa
+    date: null
+    date_end: null
+    location_in_record: ch19:34815-35117
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 71cd5781-8142-4c97-8181-259944fe25fc
+    claim_hash: 4c79a775bc35493ba6d0de1304812045f3d8453d8bbfb268995fdb18cc0918a4
+    content: Project Mercury, America's first human space programme, made six flights.
+    original_excerpt: Project Mercury, America's first human space program made six flights.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+        title: Project Mercury
+        slug: project-mercury
+    date: null
+    date_end: null
+    location_in_record: char:127247-127309
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: a89a4f3f-3864-4eb8-801c-421c2c50ea4d
+    claim_hash: f696ee32815fc68a434a1ef2276f899fe4bb0c043f74b616998fa55249b21b50
+    content: The objectives of Project Mercury were to orbit a manned spacecraft around Earth, investigate humans' ability
+      to function in space, and recover astronauts and spacecraft safely.
+    original_excerpt: The objectives of the program were to orbit a manned spacecraft around Earth, investigate humans' ability
+      to function in space, and recover astronauts and spacecraft safely.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+        title: Project Mercury
+        slug: project-mercury
+    date: null
+    date_end: null
+    location_in_record: char:127318-127484
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 4c644bda-1587-4ba3-af43-099cbfbacd9c
+    claim_hash: b3879d55cf572f233a4c2049ff8b5b3d0d2ca3da496a04d6112d10ae3c428116
+    content: The Gemini programme was a United States human spaceflight programme that took place between the Mercury and
+      Apollo programmes.
+    original_excerpt: The Gemini program was a U.S. human spaceflight program that took place between the Mercury and Apollo
+      programs.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+        title: Project Mercury
+        slug: project-mercury
+      - node_id: 4c66d918-c18c-4a0e-92c1-71aeb1e3c397
+        title: Project Gemini
+        slug: project-gemini
+      - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+        title: Project Apollo
+        slug: project-apollo
+    date: null
+    date_end: null
+    location_in_record: char:128684-128787
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: d9deb59a-2d04-4d5a-997f-044d642f560d
+    claim_hash: fcb07a76879876cfc350d60629d9c29b6c7e93cded34be4c7cfaff6a37501515
+    content: Similar to Project Mercury, Project Gemini spacecraft were launched using ballistic missiles that were designed
+      to carry nuclear payloads.
+    original_excerpt: Similar to Project Mercury, Project Gemini spacecraft was launched using ballistic missiles that were
+      designed to carry nuclear payloads.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+        title: Project Mercury
+        slug: project-mercury
+      - node_id: 4c66d918-c18c-4a0e-92c1-71aeb1e3c397
+        title: Project Gemini
+        slug: project-gemini
+    date: null
+    date_end: null
+    location_in_record: char:128797-128925
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: e741b1cb-7e7c-4ae5-a0e5-9c06478052ef
+    claim_hash: 234173eaeafcec6e396329a7962dc374c28479365a8e1f4fef10724fdda79f13
+    content: Project Apollo was a NASA human spaceflight programme conducted after Project Mercury and Project Gemini.
+    original_excerpt: Project Apollo was a NASA human spaceflight program conducted after Project Mercury and Project Gemini.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+        title: Project Mercury
+        slug: project-mercury
+      - node_id: 4c66d918-c18c-4a0e-92c1-71aeb1e3c397
+        title: Project Gemini
+        slug: project-gemini
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+        title: Project Apollo
+        slug: project-apollo
+    date: null
+    date_end: null
+    location_in_record: char:129287-129383
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 2728c1fb-22c8-4a2c-b703-204c6aab8478
+    claim_hash: b4d397af499e5ca090a95912b5736b35ab4bf8eee1d89f46b38d47c1c89dce11
+    content: Gordon Cooper considers Project Mercury flights to reach only a low order of distance into space, on the order
+      of a hundred miles, not far enough to make observations relevant to unidentified flying objects (UFOs).
+    original_excerpt: You don't think that the comparatively short step out into space that the Mercury flight will take you
+      on is far enough out to make any observations in this area? / No, I think we're still at a fairly low order of getting
+      out into space when you regard, when you speak of space and being millions of miles involved, and we're only getting
+      out a hundred miles or so.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+      title: Gordon Cooper
+    provenance_chain:
+      origin_kind: speaker
+      origin: Gordon Cooper
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+        title: Gordon Cooper
+        slug: gordon-cooper
+      - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+        title: Project Mercury
+        slug: project-mercury
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:01:11.0-00:01:38.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fe743c62-5af5-4b4e-b4cd-22c1bcc00f3d
+      record_title: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1010337
+      content_hash: sha256:31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871ec64f379
+      friendly_name: null
+  - claim_id: 72cef6b1-c823-4c6d-b12c-ef31bb6b9b4c
+    claim_hash: 0eb46e8c5396452b105334998364ad872f3b750666d90f2f1c7f39a80f22e4c8
+    content: Project Mercury spaceflights reach approximately 160 kilometres out into space, as distinct from distances of
+      millions of kilometres.
+    original_excerpt: we're only getting out a hundred miles or so
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+      title: Gordon Cooper
+    provenance_chain:
+      origin_kind: speaker
+      origin: Gordon Cooper
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+        title: Gordon Cooper
+        slug: gordon-cooper
+      - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+        title: Project Mercury
+        slug: project-mercury
+    date: null
+    date_end: null
+    location_in_record: 00:01:37.0-00:01:38.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fe743c62-5af5-4b4e-b4cd-22c1bcc00f3d
+      record_title: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1010337
+      content_hash: sha256:31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871ec64f379
+      friendly_name: null

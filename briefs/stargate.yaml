@@ -9,703 +9,723 @@ page:
   claim_count: 16
   claim_count_total: 16
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 16
+  tokens_estimated: 4605
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 16
 related_nodes:
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 6
-- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-  title: Harold E. Puthoff
-  node_type: person
-  slug: harold-e-puthoff
-  shared_claims: 3
-- node_id: 898c410a-7789-4762-b6dd-1139ced89658
-  title: Jimmy Carter
-  node_type: person
-  slug: jimmy-carter
-  shared_claims: 2
-- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-  title: Remote Viewing (RV)
-  node_type: topic
-  slug: remote-viewing-rv
-  shared_claims: 2
-- node_id: aaa59a28-9588-4999-bf1c-fddb2607fddf
-  title: Albert Stubblebine
-  node_type: person
-  slug: albert-stubblebine
-  shared_claims: 1
-- node_id: 5260eadc-7de1-46bc-90e0-7f2241bf82d3
-  title: Dean Radin
-  node_type: person
-  slug: dean-radin
-  shared_claims: 1
-- node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
-  title: Defense Intelligence Agency (DIA)
-  node_type: organisation
-  slug: defense-intelligence-agency-dia
-  shared_claims: 1
-- node_id: 30d1ff64-b2b2-431b-89f6-7798238cebc4
-  title: Democratic Republic of the Congo
-  node_type: place
-  slug: democratic-republic-of-the-congo
-  shared_claims: 1
-- node_id: 7928b168-6841-44b4-8261-2c49f4a60918
-  title: Eugene Lessman
-  node_type: person
-  slug: eugene-lessman
-  shared_claims: 1
-- node_id: f774194b-106c-43bd-be85-5318eb56d66e
-  title: Italy
-  node_type: place
-  slug: italy
-  shared_claims: 1
-- node_id: 38146337-7013-47ca-a075-8a0ac3ef3ebc
-  title: James Dozier
-  node_type: person
-  slug: james-dozier
-  shared_claims: 1
-- node_id: 27479362-97f5-4cc6-a060-d220ce52cc5b
-  title: Kidnapping of James Lee Dozier
-  node_type: event
-  slug: kidnapping-of-james-lee-dozier
-  shared_claims: 1
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 1
-- node_id: 41da8a74-bc14-4ba1-a433-0d6b0994dfe2
-  title: Red Brigade
-  node_type: organisation
-  slug: red-brigade
-  shared_claims: 1
-- node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
-  title: Stanford University
-  node_type: organisation
-  slug: stanford-university
-  shared_claims: 1
-- node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-  title: The White House
-  node_type: organisation
-  slug: the-white-house
-  shared_claims: 1
-- node_id: f8ca3a54-32bf-492a-aac9-585dd8d647d0
-  title: US Capitol
-  node_type: object
-  slug: us-capitol
-  shared_claims: 1
-- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-  title: United States Congress
-  node_type: organisation
-  slug: united-states-congress
-  shared_claims: 1
-- node_id: eb84fff5-f42d-4831-81ae-0ea6548a0c58
-  title: weapons of mass destruction (Weapons of Mass Destruction (WMD))
-  node_type: topic
-  slug: weapons-of-mass-destruction-weapons-of-mass-destruction-wmd
-  shared_claims: 1
-claims:
-- claim_id: bdb6be9b-6721-48e4-b4ef-21db7474c76e
-  claim_hash: a74bc8b2db61e74166f085c40d0b3f9602f7f4748d924abed9aebe3aade294f9
-  content: Dean Radin worked within a classified program now known as Star Gate, investigating
-    psychic phenomena for the US government.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5260eadc-7de1-46bc-90e0-7f2241bf82d3
-    title: Dean Radin
-    slug: dean-radin
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  date: null
-  date_end: null
-  location_in_record: ch7:17942-18052
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 604d068e-8e41-4ba8-9bdd-57caa74b4808
-  claim_hash: d1d93ead343c834e2608ccf6d32b7ba36c209a40010e510a12fa8e2a3d31e55c
-  content: Eugene Lessman also recruited soldiers into Project Stargate.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7928b168-6841-44b4-8261-2c49f4a60918
-    title: Eugene Lessman
-    slug: eugene-lessman
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  date: null
-  date_end: null
-  location_in_record: ch11:24447-24620
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 0a7c699d-a5ce-40cd-811f-2c609a3892be
-  claim_hash: 6adbd0fb301e91facf8c37b3ffffd964d3d1d9f5a98ebc1b7d19ace3441bff18
-  content: Project Stargate was a US government programme embedded in the federal
-    government, run for years by the Central Intelligence Agency and later by the
-    Defense Intelligence Agency, that trained recruits to spy on enemies using psychic
-    abilities.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
-    title: Defense Intelligence Agency (DIA)
-    slug: defense-intelligence-agency-dia
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
+    node_type: organisation
     slug: central-intelligence-agency-cia
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  date: null
-  date_end: null
-  location_in_record: ch11:24728-24968
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: c17217b6-187a-479f-abcb-d31254a39eb7
-  claim_hash: b822fde59aa136aa4220a96950075994e4a75274ac1e9f8f103367210cb10e2f
-  content: The remote viewing technique used in Project Stargate was pioneered at
-    Stanford University in the late 1960s and led by Harold Puthoff.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
-    slug: remote-viewing-rv
-  - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
-    title: Stanford University
-    slug: stanford-university
+    shared_claims: 6
   - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
     title: Harold E. Puthoff
+    node_type: person
     slug: harold-e-puthoff
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  date: null
-  date_end: null
-  location_in_record: ch11:25107-25203
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 2a4f3cc7-d302-42db-9dce-536be33d2b9d
-  claim_hash: 318dc48340f308763c5bf73f237455b8ae7fc0c114e1ecd7576613621d2a37e6
-  content: Project Stargate became successful enough that Harold Puthoff reported
-    directly to the director of the Central Intelligence Agency and the White House
-    on a regular basis.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: null
-  date_end: null
-  location_in_record: ch11:25998-26111
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: a01fa97e-a848-4d6c-8fb3-c6cf2508716a
-  claim_hash: c372fa28983446266f5879f328e93d9fbe01866eb728e53a08e3382c3367ccff
-  content: A Project Stargate remote viewer located a crashed Russian supersonic jet
-    in the Democratic Republic of the Congo that US and Russian satellites had been
-    unable to locate.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 30d1ff64-b2b2-431b-89f6-7798238cebc4
-    title: Democratic Republic of the Congo
-    slug: democratic-republic-of-the-congo
-  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
-    slug: remote-viewing-rv
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  date: null
-  date_end: null
-  location_in_record: ch11:26183-26438
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: c4f05315-b400-4fce-a746-d27d47ed8b92
-  claim_hash: 84bf3fa6cbf622263ef2f8b18cffb0fa8bc7afcae2cf074dbbbb67cf2c9cf916
-  content: President Jimmy Carter referenced the case of the remote viewer locating
-    a crashed Russian jet in the Congo to the media.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Jimmy Carter
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
+    shared_claims: 3
   - node_id: 898c410a-7789-4762-b6dd-1139ced89658
     title: Jimmy Carter
+    node_type: person
     slug: jimmy-carter
-  date: null
-  date_end: null
-  location_in_record: ch11:26551-26610
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 95d3e1ac-a161-4eb6-ac2e-6f212a22493b
-  claim_hash: c0acb6a9eb9efdf05aed8cc9e656a99c526f73e628d6c286d7cebc27a3a2aefe
-  content: Project Stargate remote viewers located Brigadier General James Lee Dozier
-    after he was kidnapped in Italy by the Red Brigade in 1981.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 27479362-97f5-4cc6-a060-d220ce52cc5b
-    title: Kidnapping of James Lee Dozier
-    slug: kidnapping-of-james-lee-dozier
-  - node_id: 38146337-7013-47ca-a075-8a0ac3ef3ebc
-    title: James Dozier
-    slug: james-dozier
-  - node_id: 41da8a74-bc14-4ba1-a433-0d6b0994dfe2
-    title: Red Brigade
-    slug: red-brigade
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  - node_id: f774194b-106c-43bd-be85-5318eb56d66e
-    title: Italy
-    slug: italy
-  date: '1981-12-17'
-  date_end: null
-  location_in_record: ch11:26617-26761
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: e953e5f9-1f1c-4b78-812a-af5e904f2566
-  claim_hash: 3b74bc6b09fa265e31f345edc7c88679d88ecb48ea733be6c07bc9a4cf8989c6
-  content: During the Persian Gulf War, Project Stargate remote viewers identified
-    and located storage facilities housing chemical weapons.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  - node_id: eb84fff5-f42d-4831-81ae-0ea6548a0c58
-    title: weapons of mass destruction (Weapons of Mass Destruction (WMD))
-    slug: weapons-of-mass-destruction-weapons-of-mass-destruction-wmd
-  date: null
-  date_end: null
-  location_in_record: ch11:26767-26881
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 23dda96c-cf33-41c6-80ae-ca073dd808c4
-  claim_hash: 9347442f3c5e8c16e7a8aba1ba03ab8512e44e612d9e666a8a6e6d8941f93aed
-  content: The United States Congress pulled funding for Project Stargate prior to
-    Luis Elizondo's recruitment into remote viewing work.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-    title: United States Congress
-    slug: united-states-congress
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  date: null
-  date_end: null
-  location_in_record: ch11:27179-27260
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 401b6b38-170a-4e42-9d6e-697b04b42951
-  claim_hash: 5ba91fb56510b0660bd59ff00ce6d3074efb8c5c92160469bf517fecd996b27c
-  content: Before joining the Advanced Aerospace Weapons System Application Program
-    (AAWSAP)/Advanced Aerospace Threat Identification Program (AATIP) effort, Harold
-    Puthoff previously managed the Central Intelligence Agency (CIA)'s Stargate program.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  date: null
-  date_end: null
-  location_in_record: ch12:45073-45180
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: f5757e60-46d3-4e33-b882-f95eede7d228
-  claim_hash: b033d37663c209fe64e57323ff29e5917fbb1392ce392d3260a40a06bc07fd70
-  content: The Central Intelligence Agency (CIA)'s Stargate psychic program was eventually
-    defunded and shut down despite being valuable and accurate.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  date: null
-  date_end: null
-  location_in_record: ch12:45189-45297
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: b953c464-cfb7-4bb9-b0ec-f84ce15d092e
-  claim_hash: 921dd9286b30c9b7d6d2cec3408ba7abef87842d6ee4b68669d68b333e2fbe44
-  content: Lue Elizondo believes the Central Intelligence Agency (CIA)'s Stargate
-    program was killed because it was too effective, rather than for budget reasons
-    as some claimed.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  date: null
-  date_end: null
-  location_in_record: ch12:45303-45407
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: b995acc2-54cc-46a8-a0cf-3ef2bf6152af
-  claim_hash: 6aa07b95601208066881d658549e31f88e4d7659d36cf52f809bd6877739731a
-  content: Religious fundamentalists within the chain of command and Capitol Hill
-    began asking pointed questions about the Central Intelligence Agency (CIA)'s Stargate
-    program and its efficacy, including whether its methods were paranormal or demonic.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  - node_id: f8ca3a54-32bf-492a-aac9-585dd8d647d0
-    title: US Capitol
-    slug: us-capitol
-  date: null
-  date_end: null
-  location_in_record: ch12:45538-45740
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 6650b9d1-9bb6-47d3-b204-2e171dc2bc93
-  claim_hash: 6bd952a1fbeb43e5f9c747f1ce490b51904daf19ddec5266f33326d7f7ad8c60
-  content: Albert Stubblebine headed the Central Intelligence Agency (CIA)'s Stargate
-    psychic program.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
+    shared_claims: 2
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    node_type: topic
+    slug: remote-viewing-rv
+    shared_claims: 2
   - node_id: aaa59a28-9588-4999-bf1c-fddb2607fddf
     title: Albert Stubblebine
+    node_type: person
     slug: albert-stubblebine
-  date: null
-  date_end: null
-  location_in_record: ch12:45749-45872
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 20755b71-c92d-4085-8d39-210576f8d8e0
-  claim_hash: f9a299b5aec86ec6beb218b3b263c5b5eec235df2d642f1cbd367e54eec71ef0
-  content: Jimmy Carter matter-of-factly revealed the existence of the psychic Stargate
-    programme to the media.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    shared_claims: 1
+  - node_id: 5260eadc-7de1-46bc-90e0-7f2241bf82d3
+    title: Dean Radin
+    node_type: person
+    slug: dean-radin
+    shared_claims: 1
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    node_type: organisation
+    slug: defense-intelligence-agency-dia
+    shared_claims: 1
+  - node_id: 30d1ff64-b2b2-431b-89f6-7798238cebc4
+    title: Democratic Republic of the Congo
+    node_type: place
+    slug: democratic-republic-of-the-congo
+    shared_claims: 1
+  - node_id: 7928b168-6841-44b4-8261-2c49f4a60918
+    title: Eugene Lessman
+    node_type: person
+    slug: eugene-lessman
+    shared_claims: 1
+  - node_id: f774194b-106c-43bd-be85-5318eb56d66e
+    title: Italy
+    node_type: place
+    slug: italy
+    shared_claims: 1
+  - node_id: 38146337-7013-47ca-a075-8a0ac3ef3ebc
+    title: James Dozier
+    node_type: person
+    slug: james-dozier
+    shared_claims: 1
+  - node_id: 27479362-97f5-4cc6-a060-d220ce52cc5b
+    title: Kidnapping of James Lee Dozier
+    node_type: event
+    slug: kidnapping-of-james-lee-dozier
+    shared_claims: 1
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  date: null
-  date_end: null
-  location_in_record: ch31:16338-16494
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 1
+  - node_id: 41da8a74-bc14-4ba1-a433-0d6b0994dfe2
+    title: Red Brigade
+    node_type: organisation
+    slug: red-brigade
+    shared_claims: 1
+  - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+    title: Stanford University
+    node_type: organisation
+    slug: stanford-university
+    shared_claims: 1
+  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+    title: The White House
+    node_type: organisation
+    slug: the-white-house
+    shared_claims: 1
+  - node_id: f8ca3a54-32bf-492a-aac9-585dd8d647d0
+    title: US Capitol
+    node_type: object
+    slug: us-capitol
+    shared_claims: 1
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 1
+  - node_id: eb84fff5-f42d-4831-81ae-0ea6548a0c58
+    title: weapons of mass destruction (WMD)
+    node_type: topic
+    slug: weapons-of-mass-destruction-wmd
+    shared_claims: 1
+claims:
+  - claim_id: bdb6be9b-6721-48e4-b4ef-21db7474c76e
+    claim_hash: a74bc8b2db61e74166f085c40d0b3f9602f7f4748d924abed9aebe3aade294f9
+    content: Dean Radin worked within a classified program now known as Star Gate, investigating psychic phenomena for the
+      US government.
+    original_excerpt: He also worked within a classified program now known as Star Gate, investigating psychic phenomena for
+      the US government.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5260eadc-7de1-46bc-90e0-7f2241bf82d3
+        title: Dean Radin
+        slug: dean-radin
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+    date: null
+    date_end: null
+    location_in_record: ch7:17942-18052
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 604d068e-8e41-4ba8-9bdd-57caa74b4808
+    claim_hash: d1d93ead343c834e2608ccf6d32b7ba36c209a40010e510a12fa8e2a3d31e55c
+    content: Eugene Lessman also recruited soldiers into Project Stargate.
+    original_excerpt: I later found out that Gene also spotted and recruited soldiers into another highly secret operation
+      called Stargate, or at least what was left of it.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7928b168-6841-44b4-8261-2c49f4a60918
+        title: Eugene Lessman
+        slug: eugene-lessman
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+    date: null
+    date_end: null
+    location_in_record: ch11:24447-24620
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 0a7c699d-a5ce-40cd-811f-2c609a3892be
+    claim_hash: 6adbd0fb301e91facf8c37b3ffffd964d3d1d9f5a98ebc1b7d19ace3441bff18
+    content: Project Stargate was a US government programme embedded in the federal government, run for years by the Central
+      Intelligence Agency and later by the Defense Intelligence Agency, that trained recruits to spy on enemies using psychic
+      abilities.
+    original_excerpt: Stargate was embedded in the federal government, run for years by the CIA, and later the DIA. Recruits
+      were trained to spy upon enemies, but not in the usual way. Stargate trained "supersoldiers" to spy on hard targets
+      using their psychic gifts.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+    date: null
+    date_end: null
+    location_in_record: ch11:24728-24968
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c17217b6-187a-479f-abcb-d31254a39eb7
+    claim_hash: b822fde59aa136aa4220a96950075994e4a75274ac1e9f8f103367210cb10e2f
+    content: The remote viewing technique used in Project Stargate was pioneered at Stanford University in the late 1960s
+      and led by Harold Puthoff.
+    original_excerpt: The program, pioneered at Stanford University in the late 1960s, was led by none other than Hal Puthoff
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+    date: null
+    date_end: null
+    location_in_record: ch11:25107-25203
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 2a4f3cc7-d302-42db-9dce-536be33d2b9d
+    claim_hash: 318dc48340f308763c5bf73f237455b8ae7fc0c114e1ecd7576613621d2a37e6
+    content: Project Stargate became successful enough that Harold Puthoff reported directly to the director of the Central
+      Intelligence Agency and the White House on a regular basis.
+    original_excerpt: Stargate became so successful, Hal reported directly to the director of the CIA and the White House
+      on a regular basis.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: null
+    date_end: null
+    location_in_record: ch11:25998-26111
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: a01fa97e-a848-4d6c-8fb3-c6cf2508716a
+    claim_hash: c372fa28983446266f5879f328e93d9fbe01866eb728e53a08e3382c3367ccff
+    content: A Project Stargate remote viewer located a crashed Russian supersonic jet in the Democratic Republic of the Congo
+      that US and Russian satellites had been unable to locate.
+    original_excerpt: its psychics once located a Russian supersonic jet that crashed somewhere over Africa. Our best satellites
+      couldn't locate it, and neither could the Russians. One of our remote viewers "saw" and pinpointed the exact location
+      of the downed aircraft in the Congo.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30d1ff64-b2b2-431b-89f6-7798238cebc4
+        title: Democratic Republic of the Congo
+        slug: democratic-republic-of-the-congo
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+    date: null
+    date_end: null
+    location_in_record: ch11:26183-26438
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c4f05315-b400-4fce-a746-d27d47ed8b92
+    claim_hash: 84bf3fa6cbf622263ef2f8b18cffb0fa8bc7afcae2cf074dbbbb67cf2c9cf916
+    content: President Jimmy Carter referenced the case of the remote viewer locating a crashed Russian jet in the Congo to
+      the media.
+    original_excerpt: President Jimmy Carter famously referenced the case to the media.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Jimmy Carter
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+    date: null
+    date_end: null
+    location_in_record: ch11:26551-26610
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 95d3e1ac-a161-4eb6-ac2e-6f212a22493b
+    claim_hash: c0acb6a9eb9efdf05aed8cc9e656a99c526f73e628d6c286d7cebc27a3a2aefe
+    content: Project Stargate remote viewers located Brigadier General James Lee Dozier after he was kidnapped in Italy by
+      the Red Brigade in 1981.
+    original_excerpt: Remote viewers also located Brigadier General James Lee Dozier, who had been kidnapped in Italy by the
+      Red Brigade in 1981.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 27479362-97f5-4cc6-a060-d220ce52cc5b
+        title: Kidnapping of James Lee Dozier
+        slug: kidnapping-of-james-lee-dozier
+      - node_id: 38146337-7013-47ca-a075-8a0ac3ef3ebc
+        title: James Dozier
+        slug: james-dozier
+      - node_id: 41da8a74-bc14-4ba1-a433-0d6b0994dfe2
+        title: Red Brigade
+        slug: red-brigade
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+      - node_id: f774194b-106c-43bd-be85-5318eb56d66e
+        title: Italy
+        slug: italy
+    date: '1981-12-17'
+    date_end: null
+    location_in_record: ch11:26617-26761
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e953e5f9-1f1c-4b78-812a-af5e904f2566
+    claim_hash: 3b74bc6b09fa265e31f345edc7c88679d88ecb48ea733be6c07bc9a4cf8989c6
+    content: During the Persian Gulf War, Project Stargate remote viewers identified and located storage facilities housing
+      chemical weapons.
+    original_excerpt: In the Persian Gulf War, remote viewers identified and located storage facilities that housed deadly
+      chemical war agents.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+      - node_id: eb84fff5-f42d-4831-81ae-0ea6548a0c58
+        title: weapons of mass destruction (WMD)
+        slug: weapons-of-mass-destruction-wmd
+    date: null
+    date_end: null
+    location_in_record: ch11:26767-26881
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 23dda96c-cf33-41c6-80ae-ca073dd808c4
+    claim_hash: 9347442f3c5e8c16e7a8aba1ba03ab8512e44e612d9e666a8a6e6d8941f93aed
+    content: The United States Congress pulled funding for Project Stargate prior to Luis Elizondo's recruitment into remote
+      viewing work.
+    original_excerpt: Congress had pulled the funding for the psychic spy program sometime prior to my recruitment
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch11:27179-27260
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 401b6b38-170a-4e42-9d6e-697b04b42951
+    claim_hash: 5ba91fb56510b0660bd59ff00ce6d3074efb8c5c92160469bf517fecd996b27c
+    content: Before joining the Advanced Aerospace Weapons System Application Program (AAWSAP)/Advanced Aerospace Threat Identification
+      Program (AATIP) effort, Harold Puthoff previously managed the Central Intelligence Agency (CIA)'s Stargate program.
+    original_excerpt: The last time Hal had made this much progress on a program was during his time managing the CIA’s Stargate
+      program.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+    date: null
+    date_end: null
+    location_in_record: ch12:45073-45180
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: f5757e60-46d3-4e33-b882-f95eede7d228
+    claim_hash: b033d37663c209fe64e57323ff29e5917fbb1392ce392d3260a40a06bc07fd70
+    content: The Central Intelligence Agency (CIA)'s Stargate psychic program was eventually defunded and shut down despite
+      being valuable and accurate.
+    original_excerpt: And yet, as valuable and accurate as its efforts were, the psychic program was eventually defunded and
+      shut down.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+    date: null
+    date_end: null
+    location_in_record: ch12:45189-45297
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b953c464-cfb7-4bb9-b0ec-f84ce15d092e
+    claim_hash: 921dd9286b30c9b7d6d2cec3408ba7abef87842d6ee4b68669d68b333e2fbe44
+    content: Lue Elizondo believes the Central Intelligence Agency (CIA)'s Stargate program was killed because it was too
+      effective, rather than for budget reasons as some claimed.
+    original_excerpt: Some say the budget was the issue, but most knew the truth. They killed the program because it was too
+      effective.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+    date: null
+    date_end: null
+    location_in_record: ch12:45303-45407
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b995acc2-54cc-46a8-a0cf-3ef2bf6152af
+    claim_hash: 6aa07b95601208066881d658549e31f88e4d7659d36cf52f809bd6877739731a
+    content: Religious fundamentalists within the chain of command and Capitol Hill began asking pointed questions about the
+      Central Intelligence Agency (CIA)'s Stargate program and its efficacy, including whether its methods were paranormal
+      or demonic.
+    original_excerpt: 'Religious fundamentalists within the chain of command and Capitol Hill began asking pointed questions
+      about the program and its efficacy: more specifically, are these unusual methods paranormal or even demonic?'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+      - node_id: f8ca3a54-32bf-492a-aac9-585dd8d647d0
+        title: US Capitol
+        slug: us-capitol
+    date: null
+    date_end: null
+    location_in_record: ch12:45538-45740
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 6650b9d1-9bb6-47d3-b204-2e171dc2bc93
+    claim_hash: 6bd952a1fbeb43e5f9c747f1ce490b51904daf19ddec5266f33326d7f7ad8c60
+    content: Albert Stubblebine headed the Central Intelligence Agency (CIA)'s Stargate psychic program.
+    original_excerpt: General Albert Stubblebine, who headed up the psychic program—and was nicknamed “General Spoon Bender”—once
+      tangled with a lawmaker
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+      - node_id: aaa59a28-9588-4999-bf1c-fddb2607fddf
+        title: Albert Stubblebine
+        slug: albert-stubblebine
+    date: null
+    date_end: null
+    location_in_record: ch12:45749-45872
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 20755b71-c92d-4085-8d39-210576f8d8e0
+    claim_hash: f9a299b5aec86ec6beb218b3b263c5b5eec235df2d642f1cbd367e54eec71ef0
+    content: Jimmy Carter matter-of-factly revealed the existence of the psychic Stargate programme to the media.
+    original_excerpt: Carter came across as an open-minded, intellectually curious leader, one who matter-of-factly revealed
+      the existence of the psychic Stargate program to the media.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+    date: null
+    date_end: null
+    location_in_record: ch31:16338-16494
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

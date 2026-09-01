@@ -9,519 +9,528 @@ page:
   claim_count: 12
   claim_count_total: 12
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 12
+  tokens_estimated: 3607
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 12
 related_nodes:
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 8
-- node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
-  title: Westall High School
-  node_type: place
-  slug: westall-high-school
-  shared_claims: 3
-- node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
-  title: Office of the President of the United States
-  node_type: organisation
-  slug: office-of-the-president-of-the-united-states
-  shared_claims: 2
-- node_id: 10a35bf8-979d-43b9-9323-84f149f3068d
-  title: Clear Intent (book by Lawrence Fawcett and Barry Greenwood)
-  node_type: document
-  slug: clear-intent-book-by-lawrence-fawcett-and-barry-greenwood
-  shared_claims: 1
-- node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-  title: James MacDonald
-  node_type: person
-  slug: james-macdonald
-  shared_claims: 1
-- node_id: 8eb21313-d895-40e2-b176-8c1653cfa085
-  title: Lawrence Fawcett
-  node_type: person
-  slug: lawrence-fawcett
-  shared_claims: 1
-- node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
-  title: Robert Sarbacher
-  node_type: person
-  slug: robert-sarbacher
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-  title: United States Air Force (USAF)
-  node_type: organisation
-  slug: united-states-air-force-usaf
-  shared_claims: 1
-claims:
-- claim_id: 8aab03c3-5413-4f22-b051-8d10977f61a8
-  claim_hash: 6724b342d22b5fcf7d7743d02f9774b02c0fe4004eb4ab124aa798136d3daa53
-  content: Fawcett and Greenwood's book demonstrates that extraordinarily strange
-    things have happened and that the government has kept these things secret.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-    slug: barry-greenwood
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 8
+  - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
+    title: Westall High School
+    node_type: place
+    slug: westall-high-school
+    shared_claims: 3
+  - node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
+    title: Office of the President of the United States
+    node_type: organisation
+    slug: office-of-the-president-of-the-united-states
+    shared_claims: 2
   - node_id: 10a35bf8-979d-43b9-9323-84f149f3068d
     title: Clear Intent (book by Lawrence Fawcett and Barry Greenwood)
+    node_type: document
     slug: clear-intent-book-by-lawrence-fawcett-and-barry-greenwood
-  - node_id: 8eb21313-d895-40e2-b176-8c1653cfa085
-    title: Lawrence Fawcett
-    slug: lawrence-fawcett
-  date: null
-  date_end: null
-  location_in_record: ch14:21618-21748
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 930807a0-57c0-4c05-b9a3-316cf9f1ff8f
-  claim_hash: 43db094f629c37729f462a977eaada23cb3644395973a20a707bbe76cbcb3443
-  content: Barry Greenwood's discussions revealed that Robert I. Sarbacher did not
-    appear to know more than he stated in his letter, but was quite certain that the
-    facts he related were as he remembered them.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Barry Greenwood
-    relay:
-    - Whitley Strieber's discussion with Barry Greenwood
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-    slug: barry-greenwood
-  - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
-    title: Robert Sarbacher
-    slug: robert-sarbacher
-  date: null
-  date_end: null
-  location_in_record: ch14:9312-9492
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 258df1ac-cfab-4704-a743-a1f08a3685e2
-  claim_hash: d114faca1d22c2e1a53af17c4395dbab245aaaf48d1d605c3daae04a0d6bf653
-  content: During the 1966 Westall High School UFO sighting, Greenwood was teaching
-    a year nine science class when a student rushed in to report a flying saucer.
-  original_excerpt: I was teaching, I was teaching a year nine, I think it was, class,
-    teaching science. Just before morning tea, the door flung open, a young girl rushed
-    in.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-  provenance_chain:
-    origin_kind: speaker
-    origin: Greenwood
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
-    title: Westall High School
-    slug: westall-high-school
-  - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-    slug: barry-greenwood
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '1966'
-  date_end: null
-  location_in_record: 00:46:32.6-00:46:46.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-- claim_id: 507fcd0c-5df2-4d22-a086-fae4faa284ea
-  claim_hash: 63876653647c6f78c6d98346e9a173e72cbdc2c07e1fab222b93bb4527b5ea16
-  content: During the 1966 Westall High School UFO sighting, Greenwood looked up and
-    saw an object in the sky directly over the far side of the school oval.
-  original_excerpt: When I looked up, I could see this object in the sky. It was directly
-    over the far side of the oval.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-  provenance_chain:
-    origin_kind: speaker
-    origin: Greenwood
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
-    title: Westall High School
-    slug: westall-high-school
-  - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-    slug: barry-greenwood
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '1966'
-  date_end: null
-  location_in_record: 00:47:16.2-00:47:24.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-- claim_id: 2bc2863d-65db-4512-8491-30b7e9da3f53
-  claim_hash: fffe08da6b3d454c66a02bcd707ac01722caf4f09cc1e5cd960314350e642155
-  content: The object seen during the 1966 Westall High School UFO sighting was a
-    classic cigar-shaped object that looked like grey metal.
-  original_excerpt: It was your classic cigar-shaped object that looked like grey
-    metal. That's what it looked like.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-  provenance_chain:
-    origin_kind: speaker
-    origin: Greenwood
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-    slug: barry-greenwood
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '1966'
-  date_end: null
-  location_in_record: 00:47:39.2-00:47:46.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-- claim_id: b7f75a97-34f5-4654-bb1a-6d5766b7bfb0
-  claim_hash: e3c9fcdc39929ec706f9e51c6b6a69b11fbe04b8b7a198d1c0c0f5b70f301d56
-  content: The object seen during the 1966 Westall High School UFO sighting was grey,
-    almost cylindrical or cigar-shaped, and moved with some degree of precision in
-    the sky.
-  original_excerpt: It was a grey, almost cylindrical or cigar shaped object, which
-    moved with some degree of precision in the sky.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-  provenance_chain:
-    origin_kind: speaker
-    origin: Greenwood
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-    slug: barry-greenwood
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '1966'
-  date_end: null
-  location_in_record: 00:48:57.5-00:49:08.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-- claim_id: d5158358-80b4-4ddd-8ee3-b2421114e616
-  claim_hash: 7611ee2dacadac7c8d2ac4afa273a5efcafe010adceb2fbf6c35a8c90fc00317
-  content: During the 1966 Westall High School UFO sighting, a large number of students
-    ran across the school oval after the object appeared to move and fly down behind
-    pine trees.
-  original_excerpt: There's a significant number that then took off over the oval
-    because it had moved, flown down apparently behind some pine trees.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-  provenance_chain:
-    origin_kind: speaker
-    origin: Greenwood
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
-    title: Westall High School
-    slug: westall-high-school
-  - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-    slug: barry-greenwood
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '1966'
-  date_end: null
-  location_in_record: 00:50:06.6-00:50:14.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-- claim_id: 2cf5eb88-92f3-4a7c-a687-16e309a14962
-  claim_hash: b1e99cea4bbfff1c04cd249ba9c42dd86505537af1796629d153a1689ad1bdd2
-  content: Two weeks after the 1966 Westall High School UFO sighting, two government
-    officials, one in plain clothes and one a senior Air Force officer, visited Greenwood's
-    home and told him he had not seen anything.
-  original_excerpt: Two weeks later, a knock on the door, and when I answered it,
-    there were two people there, one in plain clothes and then the other one senior
-    air force. Obviously senior, had a good many rings on his sleeve. And they told
-    me that I was wrong, that I hadn't seen anything.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-  provenance_chain:
-    origin_kind: speaker
-    origin: Greenwood
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-    slug: barry-greenwood
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '1966'
-  date_end: null
-  location_in_record: 00:52:48.7-00:53:03.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-- claim_id: b78c5f31-13f6-470b-bdda-95febcf7f109
-  claim_hash: cd763b8dca4b2e25748280a6525f91605e8c42d61ae2471af61151c5da14a000
-  content: The officials who visited Greenwood threatened that if he continued saying
-    he had seen a UFO, it would be reported as being drunk on duty and he would lose
-    his job.
-  original_excerpt: I think the first suggestion was that you'd be ill-advised to
-    go on saying that because clearly you were drunk on duty and that will have to
-    be reported to the education department and of course you'll lose your job.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-  provenance_chain:
-    origin_kind: speaker
-    origin: Greenwood
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-    slug: barry-greenwood
-  date: null
-  date_end: null
-  location_in_record: 00:53:12.2-00:53:23.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-- claim_id: eb228ce3-95c1-4cdb-85f9-27949f150fda
-  claim_hash: 91766df81faac418e7aa375ffec0b0bd155e11dcf79a9347e9f28bf7bd80f434
-  content: Twelve months after being threatened by government officials, Greenwood
-    was approached by officials from the Office of the President of the United States
-    asking him to speak about the 1966 Westall High School UFO sighting.
-  original_excerpt: Which is quite interesting when you realise that officials from
-    another government, 12 months later, begged me to speak about it. The Office of
-    the President.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-  provenance_chain:
-    origin_kind: speaker
-    origin: Greenwood
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-    slug: barry-greenwood
-  - node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
-    title: Office of the President of the United States
-    slug: office-of-the-president-of-the-united-states
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '1967'
-  date_end: null
-  location_in_record: 00:53:33.1-00:53:42.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-- claim_id: c5c9912b-526e-477a-8a20-25ac7e941bb0
-  claim_hash: cb574f30d9b6390d04beeadac4d3f0249274d26d345c008c7db1dac3a90a5224
-  content: According to officials from the Office of the President of the United States,
-    the President of the United States had authorised the establishment of a board
-    of inquiry into unidentified flying objects.
-  original_excerpt: The President had authorised the establishment of a board of inquiry
-    or an inquiry to inquire into issues of unidentified flying objects and that they
-    were sending out somebody who I believe turned out to be a Mr...
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-  provenance_chain:
-    origin_kind: named
-    origin: Office of the President of the United States
-    relay:
-    - Greenwood
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-    slug: barry-greenwood
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
-    title: Office of the President of the United States
-    slug: office-of-the-president-of-the-united-states
-  date: null
-  date_end: null
-  location_in_record: 00:53:49.2-00:54:05.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-- claim_id: 5a22d703-fa74-4c5e-9b2d-a386834f6d1d
-  claim_hash: 015b984fd04ecbb45e5bd7c9c1e83fd59ad4a77116666b72da1fd6880fe0730e
-  content: James McDonald was sent to interview Greenwood about the 1966 Westall High
-    School UFO sighting as part of the presidentially authorised inquiry.
-  original_excerpt: I think it might have been a Professor James MacDonald. James
-    MacDonald, that's the one.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-  provenance_chain:
-    origin_kind: speaker
-    origin: Greenwood
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-    slug: barry-greenwood
+    shared_claims: 1
   - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
     title: James MacDonald
+    node_type: person
     slug: james-macdonald
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '1967'
-  date_end: null
-  location_in_record: 00:54:07.4-00:54:11.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+    shared_claims: 1
+  - node_id: 8eb21313-d895-40e2-b176-8c1653cfa085
+    title: Lawrence Fawcett
+    node_type: person
+    slug: lawrence-fawcett
+    shared_claims: 1
+  - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+    title: Robert Sarbacher
+    node_type: person
+    slug: robert-sarbacher
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
+claims:
+  - claim_id: 8aab03c3-5413-4f22-b051-8d10977f61a8
+    claim_hash: 6724b342d22b5fcf7d7743d02f9774b02c0fe4004eb4ab124aa798136d3daa53
+    content: Fawcett and Greenwood's book demonstrates that extraordinarily strange things have happened and that the government
+      has kept these things secret.
+    original_excerpt: Fawcett and Greenwood prove that some extraordinarily strange things have happened, and that the government
+      has kept these things secret.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+        title: Barry Greenwood
+        slug: barry-greenwood
+      - node_id: 10a35bf8-979d-43b9-9323-84f149f3068d
+        title: Clear Intent (book by Lawrence Fawcett and Barry Greenwood)
+        slug: clear-intent-book-by-lawrence-fawcett-and-barry-greenwood
+      - node_id: 8eb21313-d895-40e2-b176-8c1653cfa085
+        title: Lawrence Fawcett
+        slug: lawrence-fawcett
+    date: null
+    date_end: null
+    location_in_record: ch14:21618-21748
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 930807a0-57c0-4c05-b9a3-316cf9f1ff8f
+    claim_hash: 43db094f629c37729f462a977eaada23cb3644395973a20a707bbe76cbcb3443
+    content: Barry Greenwood's discussions revealed that Robert I. Sarbacher did not appear to know more than he stated in
+      his letter, but was quite certain that the facts he related were as he remembered them.
+    original_excerpt: These discussions revealed that Dr. Sarbacher did not appear to know more than he stated in his letter,
+      but he was quite certain that the facts he did relate were as he remembered them.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Barry Greenwood
+      relay:
+        - Whitley Strieber's discussion with Barry Greenwood
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+        title: Barry Greenwood
+        slug: barry-greenwood
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch14:9312-9492
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 258df1ac-cfab-4704-a743-a1f08a3685e2
+    claim_hash: d114faca1d22c2e1a53af17c4395dbab245aaaf48d1d605c3daae04a0d6bf653
+    content: During the 1966 Westall High School UFO sighting, Greenwood was teaching a year nine science class when a student
+      rushed in to report a flying saucer.
+    original_excerpt: I was teaching, I was teaching a year nine, I think it was, class, teaching science. Just before morning
+      tea, the door flung open, a young girl rushed in.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+      title: Barry Greenwood
+    provenance_chain:
+      origin_kind: speaker
+      origin: Greenwood
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
+        title: Westall High School
+        slug: westall-high-school
+      - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+        title: Barry Greenwood
+        slug: barry-greenwood
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1966'
+    date_end: null
+    location_in_record: 00:46:32.6-00:46:46.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 507fcd0c-5df2-4d22-a086-fae4faa284ea
+    claim_hash: 63876653647c6f78c6d98346e9a173e72cbdc2c07e1fab222b93bb4527b5ea16
+    content: During the 1966 Westall High School UFO sighting, Greenwood looked up and saw an object in the sky directly over
+      the far side of the school oval.
+    original_excerpt: When I looked up, I could see this object in the sky. It was directly over the far side of the oval.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+      title: Barry Greenwood
+    provenance_chain:
+      origin_kind: speaker
+      origin: Greenwood
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
+        title: Westall High School
+        slug: westall-high-school
+      - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+        title: Barry Greenwood
+        slug: barry-greenwood
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1966'
+    date_end: null
+    location_in_record: 00:47:16.2-00:47:24.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 2bc2863d-65db-4512-8491-30b7e9da3f53
+    claim_hash: fffe08da6b3d454c66a02bcd707ac01722caf4f09cc1e5cd960314350e642155
+    content: The object seen during the 1966 Westall High School UFO sighting was a classic cigar-shaped object that looked
+      like grey metal.
+    original_excerpt: It was your classic cigar-shaped object that looked like grey metal. That's what it looked like.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+      title: Barry Greenwood
+    provenance_chain:
+      origin_kind: speaker
+      origin: Greenwood
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+        title: Barry Greenwood
+        slug: barry-greenwood
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1966'
+    date_end: null
+    location_in_record: 00:47:39.2-00:47:46.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: b7f75a97-34f5-4654-bb1a-6d5766b7bfb0
+    claim_hash: e3c9fcdc39929ec706f9e51c6b6a69b11fbe04b8b7a198d1c0c0f5b70f301d56
+    content: The object seen during the 1966 Westall High School UFO sighting was grey, almost cylindrical or cigar-shaped,
+      and moved with some degree of precision in the sky.
+    original_excerpt: It was a grey, almost cylindrical or cigar shaped object, which moved with some degree of precision
+      in the sky.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+      title: Barry Greenwood
+    provenance_chain:
+      origin_kind: speaker
+      origin: Greenwood
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+        title: Barry Greenwood
+        slug: barry-greenwood
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1966'
+    date_end: null
+    location_in_record: 00:48:57.5-00:49:08.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: d5158358-80b4-4ddd-8ee3-b2421114e616
+    claim_hash: 7611ee2dacadac7c8d2ac4afa273a5efcafe010adceb2fbf6c35a8c90fc00317
+    content: During the 1966 Westall High School UFO sighting, a large number of students ran across the school oval after
+      the object appeared to move and fly down behind pine trees.
+    original_excerpt: There's a significant number that then took off over the oval because it had moved, flown down apparently
+      behind some pine trees.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+      title: Barry Greenwood
+    provenance_chain:
+      origin_kind: speaker
+      origin: Greenwood
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
+        title: Westall High School
+        slug: westall-high-school
+      - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+        title: Barry Greenwood
+        slug: barry-greenwood
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1966'
+    date_end: null
+    location_in_record: 00:50:06.6-00:50:14.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 2cf5eb88-92f3-4a7c-a687-16e309a14962
+    claim_hash: b1e99cea4bbfff1c04cd249ba9c42dd86505537af1796629d153a1689ad1bdd2
+    content: Two weeks after the 1966 Westall High School UFO sighting, two government officials, one in plain clothes and
+      one a senior Air Force officer, visited Greenwood's home and told him he had not seen anything.
+    original_excerpt: Two weeks later, a knock on the door, and when I answered it, there were two people there, one in plain
+      clothes and then the other one senior air force. Obviously senior, had a good many rings on his sleeve. And they told
+      me that I was wrong, that I hadn't seen anything.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+      title: Barry Greenwood
+    provenance_chain:
+      origin_kind: speaker
+      origin: Greenwood
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+        title: Barry Greenwood
+        slug: barry-greenwood
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1966'
+    date_end: null
+    location_in_record: 00:52:48.7-00:53:03.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: b78c5f31-13f6-470b-bdda-95febcf7f109
+    claim_hash: cd763b8dca4b2e25748280a6525f91605e8c42d61ae2471af61151c5da14a000
+    content: The officials who visited Greenwood threatened that if he continued saying he had seen a UFO, it would be reported
+      as being drunk on duty and he would lose his job.
+    original_excerpt: I think the first suggestion was that you'd be ill-advised to go on saying that because clearly you
+      were drunk on duty and that will have to be reported to the education department and of course you'll lose your job.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+      title: Barry Greenwood
+    provenance_chain:
+      origin_kind: speaker
+      origin: Greenwood
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+        title: Barry Greenwood
+        slug: barry-greenwood
+    date: null
+    date_end: null
+    location_in_record: 00:53:12.2-00:53:23.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: eb228ce3-95c1-4cdb-85f9-27949f150fda
+    claim_hash: 91766df81faac418e7aa375ffec0b0bd155e11dcf79a9347e9f28bf7bd80f434
+    content: Twelve months after being threatened by government officials, Greenwood was approached by officials from the
+      Office of the President of the United States asking him to speak about the 1966 Westall High School UFO sighting.
+    original_excerpt: Which is quite interesting when you realise that officials from another government, 12 months later,
+      begged me to speak about it. The Office of the President.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+      title: Barry Greenwood
+    provenance_chain:
+      origin_kind: speaker
+      origin: Greenwood
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+        title: Barry Greenwood
+        slug: barry-greenwood
+      - node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
+        title: Office of the President of the United States
+        slug: office-of-the-president-of-the-united-states
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1967'
+    date_end: null
+    location_in_record: 00:53:33.1-00:53:42.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: c5c9912b-526e-477a-8a20-25ac7e941bb0
+    claim_hash: cb574f30d9b6390d04beeadac4d3f0249274d26d345c008c7db1dac3a90a5224
+    content: According to officials from the Office of the President of the United States, the President of the United States
+      had authorised the establishment of a board of inquiry into unidentified flying objects.
+    original_excerpt: The President had authorised the establishment of a board of inquiry or an inquiry to inquire into issues
+      of unidentified flying objects and that they were sending out somebody who I believe turned out to be a Mr...
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+      title: Barry Greenwood
+    provenance_chain:
+      origin_kind: named
+      origin: Office of the President of the United States
+      relay:
+        - Greenwood
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+        title: Barry Greenwood
+        slug: barry-greenwood
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
+        title: Office of the President of the United States
+        slug: office-of-the-president-of-the-united-states
+    date: null
+    date_end: null
+    location_in_record: 00:53:49.2-00:54:05.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 5a22d703-fa74-4c5e-9b2d-a386834f6d1d
+    claim_hash: 015b984fd04ecbb45e5bd7c9c1e83fd59ad4a77116666b72da1fd6880fe0730e
+    content: James McDonald was sent to interview Greenwood about the 1966 Westall High School UFO sighting as part of the
+      presidentially authorised inquiry.
+    original_excerpt: I think it might have been a Professor James MacDonald. James MacDonald, that's the one.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+      title: Barry Greenwood
+    provenance_chain:
+      origin_kind: speaker
+      origin: Greenwood
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+        title: Barry Greenwood
+        slug: barry-greenwood
+      - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+        title: James MacDonald
+        slug: james-macdonald
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1967'
+    date_end: null
+    location_in_record: 00:54:07.4-00:54:11.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2

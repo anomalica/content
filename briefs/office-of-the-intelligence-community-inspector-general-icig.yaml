@@ -9,1025 +9,1004 @@ page:
   claim_count: 23
   claim_count_total: 23
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 23
+  tokens_estimated: 7507
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 23
 related_nodes:
-- node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-  title: Dylan Borland
-  node_type: person
-  slug: dylan-borland
-  shared_claims: 10
-- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-  title: David Charles Grusch
-  node_type: person
-  slug: david-charles-grusch
-  shared_claims: 5
-- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-  title: United States Congress
-  node_type: organisation
-  slug: united-states-congress
-  shared_claims: 3
-- node_id: cd25b06d-f567-45e1-b334-8f800f104c07
-  title: Compass Rose Legal Group
-  node_type: organisation
-  slug: compass-rose-legal-group
-  shared_claims: 2
-- node_id: 4fbfaa2f-1f52-4a63-aa1f-d2c746e8deef
-  title: Compass Rose press release (2023-06-09)
-  node_type: document
-  slug: compass-rose-press-release-2023-06-09
-  shared_claims: 2
-- node_id: 9cf86840-6170-4683-be91-e7d12016f16c
-  title: David Grusch 2022 whistleblower complaint to the Intelligence Community Inspector
-    General
-  node_type: document
-  slug: david-grusch-2022-whistleblower-complaint-to-the-intelligence-community-inspector-general
-  shared_claims: 2
-- node_id: 5a66c3ff-a277-4671-a7bc-49998ef2f0e6
-  title: David Grusch's federal whistleblower complaint to the Intelligence Community
-    Inspector General (ICIG)
-  node_type: event
-  slug: david-gruschs-federal-whistleblower-complaint-to-the-intelligence-community-inspector-general-icig
-  shared_claims: 2
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 2
-- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-  title: United States Department of Defense (DoD)
-  node_type: organisation
-  slug: united-states-department-of-defense-dod
-  shared_claims: 2
-- node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-  title: All-domain Anomaly Resolution Office (AARO)
-  node_type: organisation
-  slug: all-domain-anomaly-resolution-office-aaro
-  shared_claims: 1
-- node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-  title: Federal Bureau of Investigation (FBI)
-  node_type: organisation
-  slug: federal-bureau-of-investigation-fbi
-  shared_claims: 1
-- node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
-  title: Jeremy Corbell
-  node_type: person
-  slug: jeremy-corbell
-  shared_claims: 1
-- node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
-  title: National Geospatial-Intelligence Agency (NGA)
-  node_type: organisation
-  slug: national-geospatial-intelligence-agency-nga
-  shared_claims: 1
-- node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-  title: Office of the Director of National Intelligence (ODNI)
-  node_type: organisation
-  slug: office-of-the-director-of-national-intelligence-odni
-  shared_claims: 1
-- node_id: bffee154-6910-411a-bfd9-22f5ea2c43f6
-  title: The Debrief article "Intelligence Officials Say U.S. Has Retrieved Non-Human
-    Craft" (2023-06-05)
-  node_type: document
-  slug: the-debrief-article-intelligence-officials-say-us-has-retrieved-non-human-craft-2023-06-05
-  shared_claims: 1
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-- node_id: d533d5f1-774a-486d-a688-23033b701562
-  title: United States Intelligence Community
-  node_type: organisation
-  slug: united-states-intelligence-community
-  shared_claims: 1
-claims:
-- claim_id: 86b39734-c409-41e2-84c4-73d4715a7fda
-  claim_hash: 60096970476b938ba9819b1ddb1d9f2dd8e272334cba6b63c3d32234ad6bc601
-  content: After David Grusch's 2023 testimony, Dylan Borland was asked to go to the
-    Intelligence Community Inspector General (ICIG), and he did so in August 2023.
-  original_excerpt: I was then asked to go to the ICIG, and I did so in August 2023.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Dylan Borland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
   - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
     title: Dylan Borland
+    node_type: person
     slug: dylan-borland
+    shared_claims: 10
   - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
     title: David Charles Grusch
+    node_type: person
     slug: david-charles-grusch
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: 2023-08
-  date_end: null
-  location_in_record: char:4015-4074
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
-    record_title: Whistleblower Statement for the House of Representatives Task Force
-    record_date: null
-    record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
-    content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
-    friendly_name: null
-- claim_id: 28cfbac8-da20-4661-af64-6faa42c63ba2
-  claim_hash: 639ef6aa074b4da8b2e9f1688dada217df5302d5252de66d761b815acc78aa10
-  content: Dylan Borland's intake interview with the Intelligence Community Inspector
-    General (ICIG) was video recorded under oath.
-  original_excerpt: It was very clear early on during my intake interview, which was
-    video recorded under oath
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Dylan Borland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-    slug: dylan-borland
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: 2023-08
-  date_end: null
-  location_in_record: char:4080-4166
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
-    record_title: Whistleblower Statement for the House of Representatives Task Force
-    record_date: null
-    record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
-    content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
-    friendly_name: null
-- claim_id: ae2c67cf-f1a6-4b73-ab64-b19adc8d4696
-  claim_hash: b52fed2f5ab584a1d2196a09aadfadc0811211d7a0e24dc52632d3c4ccb13327
-  content: Dylan Borland assessed that the Intelligence Community Inspector General's
-    (ICIG) objective in his intake interview was solely to determine how much he knew,
-    not to move forward with an investigation based on new information.
-  original_excerpt: their objective was solely to assess just how much I know, not
-    to move forward with an investigation based on new information
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Dylan Borland
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-    slug: dylan-borland
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: 2023-08
-  date_end: null
-  location_in_record: char:4177-4291
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
-    record_title: Whistleblower Statement for the House of Representatives Task Force
-    record_date: null
-    record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
-    content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
-    friendly_name: null
-- claim_id: b89a2e82-d48c-4ee8-a91d-db2959ed4a80
-  claim_hash: 4b9ea97bea1d463fe68134876c0edc10ee822b856bd1444a09886b7aa45e187d
-  content: Since his complaint to the Intelligence Community Inspector General (ICIG),
-    Dylan Borland has been prevented from resuming his prior employment and remains
-    blacklisted from certain agencies within the United States Intelligence Community.
-  original_excerpt: Since my ICIG complaint, I have been prevented from resuming my
-    prior employment and can confirm I am still blacklisted from certain agencies
-    within the Intelligence Community.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Dylan Borland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-    slug: dylan-borland
-  - node_id: d533d5f1-774a-486d-a688-23033b701562
-    title: United States Intelligence Community
-    slug: united-states-intelligence-community
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: null
-  date_end: null
-  location_in_record: char:4371-4537
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
-    record_title: Whistleblower Statement for the House of Representatives Task Force
-    record_date: null
-    record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
-    content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
-    friendly_name: null
-- claim_id: 173e16a1-eb4c-467b-b9ab-56b741a31bf9
-  claim_hash: 373017e36919a51488602713677bc277dfec7bb570723a3e9cc1260c79bb9db1
-  content: Multiple agencies attempted phishing attacks against Dylan Borland to assess
-    what he had divulged to the Intelligence Community Inspector General (ICIG).
-  original_excerpt: multiple agencies attempted phishing attacks to assess what I
-    had divulged to the Inspector General
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Dylan Borland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-    slug: dylan-borland
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: null
-  date_end: null
-  location_in_record: char:4561-4653
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
-    record_title: Whistleblower Statement for the House of Representatives Task Force
-    record_date: null
-    record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
-    content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
-    friendly_name: null
-- claim_id: 013e88a4-a07a-4a32-89c4-45d4e7689246
-  claim_hash: c8c40f0d3995cdb4993cb63158ad506b5536efe87b3caecf64ac3e234b1cd390
-  content: In November 2024, Dylan Borland was asked to disclose details of his Intelligence
-    Community Inspector General (ICIG) complaint during a counterintelligence (CI)
-    polygraph for a position entirely unrelated to UFO/UAP matters.
-  original_excerpt: including being asked to disclose details of my ICIG complaint
-    during a CI polygraph for a position entirely unrelated to UFO/UAP matters in
-    November 2024
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Dylan Borland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-    slug: dylan-borland
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: 2024-11
-  date_end: null
-  location_in_record: char:4662-4812
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
-    record_title: Whistleblower Statement for the House of Representatives Task Force
-    record_date: null
-    record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
-    content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
-    friendly_name: null
-- claim_id: 9da8a21c-0067-428a-9240-01b247ed3272
-  claim_hash: 7cc60ee31b31b8e277f40a4aa6faf17189a697df60ad7bee686153e54858217c
-  content: Dylan Borland is a federal whistleblower who testified to the Intelligence
-    Community Inspector General (ICIG) and the All-Domain Anomaly Resolution Office
-    (AARO) with direct firsthand knowledge of and experience with craft and technologies
-    commonly known as UFO or UAP that are not of United States origin.
-  original_excerpt: I am a federal whistleblower, having testified to both the Intelligence
-    Community Inspector General (ICIG) and All-Domain Anomaly Resolution Office (AARO)
-    with direct firsthand knowledge of and experience with craft and technologies
-    (commonly known as UFO or UAP) that are not ours
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Dylan Borland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-    slug: dylan-borland
+    shared_claims: 5
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 3
+  - node_id: cd25b06d-f567-45e1-b334-8f800f104c07
+    title: Compass Rose Legal Group
+    node_type: organisation
+    slug: compass-rose-legal-group
+    shared_claims: 2
+  - node_id: 4fbfaa2f-1f52-4a63-aa1f-d2c746e8deef
+    title: Compass Rose press release (2023-06-09)
+    node_type: document
+    slug: compass-rose-press-release-2023-06-09
+    shared_claims: 2
+  - node_id: 9cf86840-6170-4683-be91-e7d12016f16c
+    title: David Grusch 2022 whistleblower complaint to the Intelligence Community Inspector General
+    node_type: document
+    slug: david-grusch-2022-whistleblower-complaint-to-the-intelligence-community-inspector-general
+    shared_claims: 2
+  - node_id: 5a66c3ff-a277-4671-a7bc-49998ef2f0e6
+    title: David Grusch's federal whistleblower complaint to the Intelligence Community Inspector General (ICIG)
+    node_type: event
+    slug: david-gruschs-federal-whistleblower-complaint-to-the-intelligence-community-inspector-general-icig
+    shared_claims: 2
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 2
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 2
   - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
     title: All-domain Anomaly Resolution Office (AARO)
+    node_type: organisation
     slug: all-domain-anomaly-resolution-office-aaro
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: null
-  date_end: null
-  location_in_record: char:814-1091
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
-    record_title: Whistleblower Statement for the House of Representatives Task Force
-    record_date: null
-    record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
-    content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
-    friendly_name: null
-- claim_id: 964786a4-8fe7-4942-a770-9baf33bc1e60
-  claim_hash: 7c2dc86b8a9010ac90786eee22f039610e7ba1990d84c0087826d5a9a6064edf
-  content: In the Compass Rose press release (2023-06-09), Compass Rose Legal Group
-    clarified that it "took no position and takes no position" on the substance of
-    the information David Grusch provided to the Intelligence Community Inspector
-    General.
-  original_excerpt: the firm that formerly represented the whistleblower clarified
-    that it “took no position and takes no position” on the substance of the explosive
-    information provided to the intelligence community inspector general, which the
-    whistleblower “has now publicly characterized.”
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
-    title: Marik von Rennenkampff
-  provenance_chain:
-    origin_kind: document
-    origin: Compass Rose press release (2023-06-09)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4fbfaa2f-1f52-4a63-aa1f-d2c746e8deef
-    title: Compass Rose press release (2023-06-09)
-    slug: compass-rose-press-release-2023-06-09
-  - node_id: cd25b06d-f567-45e1-b334-8f800f104c07
-    title: Compass Rose Legal Group
-    slug: compass-rose-legal-group
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: '2023-06-09'
-  date_end: null
-  location_in_record: char:1252-1510
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
-    record_title: Claims that UFO information was inappropriately withheld from Congress
-      deemed ‘credible,’ ‘urgent’
-    record_date: '2023-06-09'
-    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
-    content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
-    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
-- claim_id: 80f79f09-211f-41b0-8b33-376fb0119537
-  claim_hash: 84b35dd9194602d869a38649171d950f254f92e3658123ad3bf2e237025930d8
-  content: Marik von Rennenkampff considers that David Grusch and other individuals
-    who spoke to investigators appear to have little incentive to lie, given the legal
-    risk of making false statements to the Intelligence Community Inspector General.
-  original_excerpt: For their part, Grusch and other knowledgeable individuals who
-    have spoken to investigators seem to have little incentive to lie.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
-    title: Marik von Rennenkampff
-  provenance_chain:
-    origin_kind: speaker
-    origin: Marik von Rennenkampff
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: null
-  date_end: null
-  location_in_record: char:2026-2151
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
-    record_title: Claims that UFO information was inappropriately withheld from Congress
-      deemed ‘credible,’ ‘urgent’
-    record_date: '2023-06-09'
-    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
-    content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
-    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
-- claim_id: 52428234-ec1c-4463-9128-70f0339b7597
-  claim_hash: e76f5d7663d806ca40b68711acc47714e2f0816d04b8013e61e87191584a405b
-  content: Making knowingly and willfully false statements to the Intelligence Community
-    Inspector General carries the risk of financial penalties and imprisonment.
-  original_excerpt: “Knowingly and willfully making false statements” to the intelligence
-    community inspector general carries the risk of financial penalties and imprisonment.
-  claim_type: administrative
-  attestation: null
-  speaker:
-    node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
-    title: Marik von Rennenkampff
-  provenance_chain:
-    origin_kind: unattributed
-    origin: Marik von Rennenkampff's narration citing official disclosure form
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: null
-  date_end: null
-  location_in_record: char:2157-2267
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
-    record_title: Claims that UFO information was inappropriately withheld from Congress
-      deemed ‘credible,’ ‘urgent’
-    record_date: '2023-06-09'
-    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
-    content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
-    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
-- claim_id: 9a512374-dbec-4552-b5c8-b501926e0ba5
-  claim_hash: 804e3c1deed54a1fe16c628325b1942c9879908267fece81886fffaeda3a4e63
-  content: According to The Debrief article "Intelligence Officials Say U.S. Has Retrieved
-    Non-Human Craft" (2023-06-05) and a subsequent Compass Rose press release (2023-06-09),
-    the Intelligence Community Inspector General found a whistleblower's assertion
-    that UFO-related information was inappropriately concealed from United States
-    Congress to be "urgent and credible."
-  original_excerpt: the powerful internal investigative body that oversees the nation's
-    intelligence agencies found a whistleblower's assertion that UFO-related information
-    was inappropriately concealed from Congress “urgent and credible.”
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
-    title: Marik von Rennenkampff
-  provenance_chain:
-    origin_kind: document
-    origin: The Debrief article and Compass Rose press release
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-    title: United States Congress
-    slug: united-states-congress
-  - node_id: 4fbfaa2f-1f52-4a63-aa1f-d2c746e8deef
-    title: Compass Rose press release (2023-06-09)
-    slug: compass-rose-press-release-2023-06-09
-  - node_id: 9cf86840-6170-4683-be91-e7d12016f16c
-    title: David Grusch 2022 whistleblower complaint to the Intelligence Community
-      Inspector General
-    slug: david-grusch-2022-whistleblower-complaint-to-the-intelligence-community-inspector-general
-  - node_id: bffee154-6910-411a-bfd9-22f5ea2c43f6
-    title: The Debrief article "Intelligence Officials Say U.S. Has Retrieved Non-Human
-      Craft" (2023-06-05)
-    slug: the-debrief-article-intelligence-officials-say-us-has-retrieved-non-human-craft-2023-06-05
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: '2023-06-09'
-  date_end: null
-  location_in_record: char:383-603
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
-    record_title: Claims that UFO information was inappropriately withheld from Congress
-      deemed ‘credible,’ ‘urgent’
-    record_date: '2023-06-09'
-    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
-    content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
-    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
-- claim_id: 0845bc30-b347-4697-bc88-919fba54365f
-  claim_hash: 114fc6a08a89125c09d529630a698d204c6c0c2f7f293a1ae9050f104fd620bf
-  content: The managing partner of Compass Rose Legal Group, the law firm that formerly
-    represented David Grusch, reportedly co-signed the complaint submitted to the
-    Intelligence Community Inspector General.
-  original_excerpt: The managing partner of the law firm representing the whistleblower
-    reportedly co-signed the complaint submitted to the current intelligence community
-    inspector general.
-  claim_type: administrative
-  attestation: null
-  speaker:
-    node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
-    title: Marik von Rennenkampff
-  provenance_chain:
-    origin_kind: unattributed
-    origin: reported, unspecified source
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9cf86840-6170-4683-be91-e7d12016f16c
-    title: David Grusch 2022 whistleblower complaint to the Intelligence Community
-      Inspector General
-    slug: david-grusch-2022-whistleblower-complaint-to-the-intelligence-community-inspector-general
-  - node_id: cd25b06d-f567-45e1-b334-8f800f104c07
-    title: Compass Rose Legal Group
-    slug: compass-rose-legal-group
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: null
-  date_end: null
-  location_in_record: char:974-1135
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
-    record_title: Claims that UFO information was inappropriately withheld from Congress
-      deemed ‘credible,’ ‘urgent’
-    record_date: '2023-06-09'
-    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
-    content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
-    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
-- claim_id: fd6b4242-ee90-4dd9-99e5-2da25c81b6f2
-  claim_hash: f2a8c39b137d5c8a683161fe8bfbbfc61372ecbedead488061adb6e6eab2e6af
-  content: Luis Elizondo and many of his former colleagues have provided classified
-    testimony to both the United States Department of Defense (DoD) and the Intelligence
-    Community Inspector General.
-  original_excerpt: Many of my former colleagues and I have provided classified testimony
-    to both the Department of Defense and the Intelligence Community Inspector General.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Luis Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: '2024-11-13'
-  date_end: null
-  location_in_record: char:2989-3134
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 72cc1cf9-c482-4e0e-8629-c9d2fb101493
-    record_title: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena:
-      Exposing the Truth'
-    record_date: '2024-11-13'
-    record_reference: null
-    content_hash: sha256:f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce064218b64
-    friendly_name: 2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the
-- claim_id: 412478e3-782b-4049-ab68-05e092c736d3
-  claim_hash: 1d987c27e1f9189e47b4ab1fccbee4fc7f3fa8eec7d5d07f5283e0372164b405
-  content: Luis Elizondo states that many of the colleagues who provided classified
-    testimony on UAP to the United States Department of Defense (DoD) and the Intelligence
-    Community Inspector General have subsequently been targeted with threats to their
-    careers, security clearances, and lives.
-  original_excerpt: Many of us have subsequently been targeted by this cabal with
-    threats to our careers, our security clearances, and even our lives.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Luis Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: '2024-11-13'
-  date_end: null
-  location_in_record: char:3143-3267
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 72cc1cf9-c482-4e0e-8629-c9d2fb101493
-    record_title: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena:
-      Exposing the Truth'
-    record_date: '2024-11-13'
-    record_reference: null
-    content_hash: sha256:f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce064218b64
-    friendly_name: 2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the
-- claim_id: 3a22fa3f-9847-41c9-9713-18526071d93e
-  claim_hash: 17feae84aa78e998a5f30c4efad9cb5f424122462c974d3102baa2c23e7f5e12
-  content: In 2022, while at the National Geospatial-Intelligence Agency (NGA), David
-    Grusch filed a federal whistleblower complaint with the Intelligence Community
-    Inspector General (ICIG).
-  original_excerpt: In 2022 while at NGA, Mr. Grusch filed a federal whistleblower
-    complaint with the Intelligence Community Inspector General (ICIG)
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5a66c3ff-a277-4671-a7bc-49998ef2f0e6
-    title: David Grusch's federal whistleblower complaint to the Intelligence Community
-      Inspector General (ICIG)
-    slug: david-gruschs-federal-whistleblower-complaint-to-the-intelligence-community-inspector-general-icig
-  - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
-    title: National Geospatial-Intelligence Agency (NGA)
-    slug: national-geospatial-intelligence-agency-nga
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: '2022-01-01'
-  date_end: null
-  location_in_record: char:1373-1497
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
-    record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch
-      as Special Advisor
-    record_date: '2025-03-27'
-    record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
-    content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
-    friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
-- claim_id: 26813151-57c3-44c8-a598-b4fba1eac080
-  claim_hash: 0821cdbec372cf639fbfd22d4d5d05d3be3fde20ac9e6ef3f4d49e1327b0262f
-  content: David Grusch's 2022 federal whistleblower complaint to the Intelligence
-    Community Inspector General (ICIG) was found credible and urgent for reporting
-    to the Congressional intelligence committees.
-  original_excerpt: which was found "credible and urgent" for reporting to the Congressional
-    intelligence committees
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5a66c3ff-a277-4671-a7bc-49998ef2f0e6
-    title: David Grusch's federal whistleblower complaint to the Intelligence Community
-      Inspector General (ICIG)
-    slug: david-gruschs-federal-whistleblower-complaint-to-the-intelligence-community-inspector-general-icig
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: '2022-01-01'
-  date_end: null
-  location_in_record: char:1503-1589
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
-    record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch
-      as Special Advisor
-    record_date: '2025-03-27'
-    record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
-    content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
-    friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
-- claim_id: ff5211ba-96b8-4d51-821b-d79fb54e158e
-  claim_hash: 20db0156000cfd054edd666a5976665dbb8bff3a3a93584baafd529f45eec84a
-  content: In sworn testimony before the United States Congress in 2025-09, Dylan
-    Borland identified himself as a federal whistleblower who had provided information
-    to the Intelligence Community Office of the Inspector General.
-  original_excerpt: In sworn testimony before Congress in September 2025, he identified
-    himself as a federal whistleblower who had provided information to both the Intelligence
-    Community Office of the Inspector General (IC OIG) and the Pentagon’s All-domain
-    Anomaly Resolution Office (AARO) concerning alleged craft, technologies and legacy
-    UAP programs operating without congressional oversight.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Dylan Borland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-    title: United States Congress
-    slug: united-states-congress
-  - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-    slug: dylan-borland
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: 2025-09
-  date_end: null
-  location_in_record: char:1193-1559
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
-    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
-      Times | Reimagining Old News
-    record_date: '2026-08-11'
-    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
-    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
-    friendly_name: null
-- claim_id: 4c30364b-383d-4c67-abab-06b162fd1b11
-  claim_hash: 9b7d229bea87240b4bae34ae4abb4ce20098f603f1c29651a49949ae9f2af5b5
-  content: A spokesperson for the Office of the Intelligence Community Inspector General
-    declined to confirm whether Dylan Borland had provided testimony or whether any
-    investigation was underway.
-  original_excerpt: While declining to confirm whether Borland had provided testimony
-    or whether any investigation was underway, the office emphasised that it is legally
-    required to protect confidential whistleblowers and information that could reveal
-    their identities.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Office of the Intelligence Community Inspector General (ICIG)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-    slug: dylan-borland
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: null
-  date_end: null
-  location_in_record: char:1712-1950
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
-    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
-      Times | Reimagining Old News
-    record_date: '2026-08-11'
-    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
-    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
-    friendly_name: null
-- claim_id: 87fe9bf7-2104-4d79-8bf2-730d22dc43a1
-  claim_hash: 618e971f5af5ffa4706e8574b24db999394a101ab8e8ff8fd5ca5c3799b3ba81
-  content: The Office of the Intelligence Community Inspector General is legally required
-    to protect confidential whistleblowers and information that could reveal their
-    identities.
-  original_excerpt: the office emphasised that it is legally required to protect confidential
-    whistleblowers and information that could reveal their identities.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Office of the Intelligence Community Inspector General (ICIG)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: null
-  date_end: null
-  location_in_record: char:1821-1950
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
-    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
-      Times | Reimagining Old News
-    record_date: '2026-08-11'
-    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
-    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
-    friendly_name: null
-- claim_id: 88eb8ecf-ff8d-4841-8203-a086242f825a
-  claim_hash: d79186e697595697c8c2e0cd0f235fd1e8fad2b7c5e8ad1dad068997d11b6925
-  content: A spokesperson for the Office of the Intelligence Community Inspector General
-    warned that any unauthorised disclosure of protected information could result
-    in removal from federal service and referral to the Federal Bureau of Investigation
-    (FBI) or another investigative authority.
-  original_excerpt: The spokesperson also warned that any unauthorised disclosure
-    of protected information could result in removal from federal service and referral
-    to the FBI or another investigative authority
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Office of the Intelligence Community Inspector General (ICIG)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
   - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
     title: Federal Bureau of Investigation (FBI)
+    node_type: organisation
     slug: federal-bureau-of-investigation-fbi
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: null
-  date_end: null
-  location_in_record: char:1963-2144
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
-    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
-      Times | Reimagining Old News
-    record_date: '2026-08-11'
-    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
-    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
-    friendly_name: null
-- claim_id: 33017d65-6afe-4689-b719-8f56385707e7
-  claim_hash: c4236002422729295d8a8c37c41989fc38f859a351488d68d5057546d76a4b85
-  content: The Office of the Intelligence Community Inspector General is required
-    by law to protect from public disclosure the identity of confidential whistleblowers
-    and certain information that could reasonably be expected to reveal their identities,
-    subject to limited exceptions.
-  original_excerpt: Subject to limited exceptions, IC OIG is required by law to protect
-    from public disclosure the identity of confidential whistleblowers and certain
-    information that could reasonably be expected to reveal their identities. IC OIG
-    takes these obligations seriously.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Office of the Intelligence Community Inspector General (ICIG)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: null
-  date_end: null
-  location_in_record: char:2262-2514
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
-    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
-      Times | Reimagining Old News
-    record_date: '2026-08-11'
-    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
-    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
-    friendly_name: null
-- claim_id: 7af20011-d481-452f-be3d-81774801d9a7
-  claim_hash: 417019db56fc8d96e641667a3abacc04f3aeaace23814df5ca6b387cf5c928ad
-  content: Consistent with longstanding policy and practice, the Office of the Intelligence
-    Community Inspector General can neither confirm nor deny the existence of any
-    pending or ongoing investigation.
-  original_excerpt: Consistent with longstanding policy and practice, IC OIG can neither
-    confirm nor deny the existence of any pending or ongoing investigation.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Office of the Intelligence Community Inspector General (ICIG)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: null
-  date_end: null
-  location_in_record: char:2527-2653
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
-    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
-      Times | Reimagining Old News
-    record_date: '2026-08-11'
-    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
-    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
-    friendly_name: null
-- claim_id: a3fc2408-4cfe-43e4-b015-7ff2c9c5df18
-  claim_hash: 2cd59bb2a1d6d9817f6253f7543d749e1144ebe48d9423f96c1575657562fcc4
-  content: Jeremy Corbell alleged that an Office of the Director of National Intelligence
-    (ODNI) source disclosed details of testimony provided by Dylan Borland, a UAP
-    whistleblower who has made protected disclosures to the Office of the Intelligence
-    Community Inspector General and Congress.
-  original_excerpt: Investigative journalist Jeremy Corbell has alleged that an ODNI
-    source disclosed details of testimony provided by Dylan Borland, a UAP whistleblower
-    who has made protected disclosures to the IC OIG and Congress.
-  claim_type: hearsay
-  attestation: first_hand
-  speaker:
-    node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
-    title: Jeremy Corbell
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jeremy Corbell
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-    title: United States Congress
-    slug: united-states-congress
+    shared_claims: 1
   - node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
     title: Jeremy Corbell
+    node_type: person
     slug: jeremy-corbell
-  - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
-    title: Dylan Borland
-    slug: dylan-borland
+    shared_claims: 1
+  - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+    title: National Geospatial-Intelligence Agency (NGA)
+    node_type: organisation
+    slug: national-geospatial-intelligence-agency-nga
+    shared_claims: 1
   - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
     title: Office of the Director of National Intelligence (ODNI)
+    node_type: organisation
     slug: office-of-the-director-of-national-intelligence-odni
-  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
-    title: Office of the Intelligence Community Inspector General (ICIG)
-    slug: office-of-the-intelligence-community-inspector-general-icig
-  date: null
-  date_end: null
-  location_in_record: char:424-692
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
-    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
-      Times | Reimagining Old News
-    record_date: '2026-08-11'
-    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
-    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
-    friendly_name: null
+    shared_claims: 1
+  - node_id: bffee154-6910-411a-bfd9-22f5ea2c43f6
+    title: The Debrief article "Intelligence Officials Say U.S. Has Retrieved Non-Human Craft" (2023-06-05)
+    node_type: document
+    slug: the-debrief-article-intelligence-officials-say-us-has-retrieved-non-human-craft-2023-06-05
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: d533d5f1-774a-486d-a688-23033b701562
+    title: United States Intelligence Community
+    node_type: organisation
+    slug: united-states-intelligence-community
+    shared_claims: 1
+claims:
+  - claim_id: 86b39734-c409-41e2-84c4-73d4715a7fda
+    claim_hash: 60096970476b938ba9819b1ddb1d9f2dd8e272334cba6b63c3d32234ad6bc601
+    content: After David Grusch's 2023 testimony, Dylan Borland was asked to go to the Intelligence Community Inspector General
+      (ICIG), and he did so in August 2023.
+    original_excerpt: I was then asked to go to the ICIG, and I did so in August 2023.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: 2023-08
+    date_end: null
+    location_in_record: char:4015-4074
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 28cfbac8-da20-4661-af64-6faa42c63ba2
+    claim_hash: 639ef6aa074b4da8b2e9f1688dada217df5302d5252de66d761b815acc78aa10
+    content: Dylan Borland's intake interview with the Intelligence Community Inspector General (ICIG) was video recorded
+      under oath.
+    original_excerpt: It was very clear early on during my intake interview, which was video recorded under oath
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: 2023-08
+    date_end: null
+    location_in_record: char:4080-4166
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: ae2c67cf-f1a6-4b73-ab64-b19adc8d4696
+    claim_hash: b52fed2f5ab584a1d2196a09aadfadc0811211d7a0e24dc52632d3c4ccb13327
+    content: Dylan Borland assessed that the Intelligence Community Inspector General's (ICIG) objective in his intake interview
+      was solely to determine how much he knew, not to move forward with an investigation based on new information.
+    original_excerpt: their objective was solely to assess just how much I know, not to move forward with an investigation
+      based on new information
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: 2023-08
+    date_end: null
+    location_in_record: char:4177-4291
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: b89a2e82-d48c-4ee8-a91d-db2959ed4a80
+    claim_hash: 4b9ea97bea1d463fe68134876c0edc10ee822b856bd1444a09886b7aa45e187d
+    content: Since his complaint to the Intelligence Community Inspector General (ICIG), Dylan Borland has been prevented
+      from resuming his prior employment and remains blacklisted from certain agencies within the United States Intelligence
+      Community.
+    original_excerpt: Since my ICIG complaint, I have been prevented from resuming my prior employment and can confirm I am
+      still blacklisted from certain agencies within the Intelligence Community.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: d533d5f1-774a-486d-a688-23033b701562
+        title: United States Intelligence Community
+        slug: united-states-intelligence-community
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:4371-4537
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 173e16a1-eb4c-467b-b9ab-56b741a31bf9
+    claim_hash: 373017e36919a51488602713677bc277dfec7bb570723a3e9cc1260c79bb9db1
+    content: Multiple agencies attempted phishing attacks against Dylan Borland to assess what he had divulged to the Intelligence
+      Community Inspector General (ICIG).
+    original_excerpt: multiple agencies attempted phishing attacks to assess what I had divulged to the Inspector General
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:4561-4653
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 013e88a4-a07a-4a32-89c4-45d4e7689246
+    claim_hash: c8c40f0d3995cdb4993cb63158ad506b5536efe87b3caecf64ac3e234b1cd390
+    content: In November 2024, Dylan Borland was asked to disclose details of his Intelligence Community Inspector General
+      (ICIG) complaint during a counterintelligence (CI) polygraph for a position entirely unrelated to UFO/UAP matters.
+    original_excerpt: including being asked to disclose details of my ICIG complaint during a CI polygraph for a position
+      entirely unrelated to UFO/UAP matters in November 2024
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: 2024-11
+    date_end: null
+    location_in_record: char:4662-4812
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 9da8a21c-0067-428a-9240-01b247ed3272
+    claim_hash: 7cc60ee31b31b8e277f40a4aa6faf17189a697df60ad7bee686153e54858217c
+    content: Dylan Borland is a federal whistleblower who testified to the Intelligence Community Inspector General (ICIG)
+      and the All-Domain Anomaly Resolution Office (AARO) with direct firsthand knowledge of and experience with craft and
+      technologies commonly known as UFO or UAP that are not of United States origin.
+    original_excerpt: I am a federal whistleblower, having testified to both the Intelligence Community Inspector General
+      (ICIG) and All-Domain Anomaly Resolution Office (AARO) with direct firsthand knowledge of and experience with craft
+      and technologies (commonly known as UFO or UAP) that are not ours
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:814-1091
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 964786a4-8fe7-4942-a770-9baf33bc1e60
+    claim_hash: 7c2dc86b8a9010ac90786eee22f039610e7ba1990d84c0087826d5a9a6064edf
+    content: In the Compass Rose press release (2023-06-09), Compass Rose Legal Group clarified that it "took no position
+      and takes no position" on the substance of the information David Grusch provided to the Intelligence Community Inspector
+      General.
+    original_excerpt: the firm that formerly represented the whistleblower clarified that it “took no position and takes no
+      position” on the substance of the explosive information provided to the intelligence community inspector general, which
+      the whistleblower “has now publicly characterized.”
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+      title: Marik von Rennenkampff
+    provenance_chain:
+      origin_kind: document
+      origin: Compass Rose press release (2023-06-09)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fbfaa2f-1f52-4a63-aa1f-d2c746e8deef
+        title: Compass Rose press release (2023-06-09)
+        slug: compass-rose-press-release-2023-06-09
+      - node_id: cd25b06d-f567-45e1-b334-8f800f104c07
+        title: Compass Rose Legal Group
+        slug: compass-rose-legal-group
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: '2023-06-09'
+    date_end: null
+    location_in_record: char:1252-1510
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+      record_title: Claims that UFO information was inappropriately withheld from Congress deemed ‘credible,’ ‘urgent’
+      record_date: '2023-06-09'
+      record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+      content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+      friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+  - claim_id: 80f79f09-211f-41b0-8b33-376fb0119537
+    claim_hash: 84b35dd9194602d869a38649171d950f254f92e3658123ad3bf2e237025930d8
+    content: Marik von Rennenkampff considers that David Grusch and other individuals who spoke to investigators appear to
+      have little incentive to lie, given the legal risk of making false statements to the Intelligence Community Inspector
+      General.
+    original_excerpt: For their part, Grusch and other knowledgeable individuals who have spoken to investigators seem to
+      have little incentive to lie.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+      title: Marik von Rennenkampff
+    provenance_chain:
+      origin_kind: speaker
+      origin: Marik von Rennenkampff
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:2026-2151
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+      record_title: Claims that UFO information was inappropriately withheld from Congress deemed ‘credible,’ ‘urgent’
+      record_date: '2023-06-09'
+      record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+      content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+      friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+  - claim_id: 52428234-ec1c-4463-9128-70f0339b7597
+    claim_hash: e76f5d7663d806ca40b68711acc47714e2f0816d04b8013e61e87191584a405b
+    content: Making knowingly and willfully false statements to the Intelligence Community Inspector General carries the risk
+      of financial penalties and imprisonment.
+    original_excerpt: “Knowingly and willfully making false statements” to the intelligence community inspector general carries
+      the risk of financial penalties and imprisonment.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+      title: Marik von Rennenkampff
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Marik von Rennenkampff's narration citing official disclosure form
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:2157-2267
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+      record_title: Claims that UFO information was inappropriately withheld from Congress deemed ‘credible,’ ‘urgent’
+      record_date: '2023-06-09'
+      record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+      content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+      friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+  - claim_id: 9a512374-dbec-4552-b5c8-b501926e0ba5
+    claim_hash: 804e3c1deed54a1fe16c628325b1942c9879908267fece81886fffaeda3a4e63
+    content: According to The Debrief article "Intelligence Officials Say U.S. Has Retrieved Non-Human Craft" (2023-06-05)
+      and a subsequent Compass Rose press release (2023-06-09), the Intelligence Community Inspector General found a whistleblower's
+      assertion that UFO-related information was inappropriately concealed from United States Congress to be "urgent and credible."
+    original_excerpt: the powerful internal investigative body that oversees the nation's intelligence agencies found a whistleblower's
+      assertion that UFO-related information was inappropriately concealed from Congress “urgent and credible.”
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+      title: Marik von Rennenkampff
+    provenance_chain:
+      origin_kind: document
+      origin: The Debrief article and Compass Rose press release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 4fbfaa2f-1f52-4a63-aa1f-d2c746e8deef
+        title: Compass Rose press release (2023-06-09)
+        slug: compass-rose-press-release-2023-06-09
+      - node_id: 9cf86840-6170-4683-be91-e7d12016f16c
+        title: David Grusch 2022 whistleblower complaint to the Intelligence Community Inspector General
+        slug: david-grusch-2022-whistleblower-complaint-to-the-intelligence-community-inspector-general
+      - node_id: bffee154-6910-411a-bfd9-22f5ea2c43f6
+        title: The Debrief article "Intelligence Officials Say U.S. Has Retrieved Non-Human Craft" (2023-06-05)
+        slug: the-debrief-article-intelligence-officials-say-us-has-retrieved-non-human-craft-2023-06-05
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: '2023-06-09'
+    date_end: null
+    location_in_record: char:383-603
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+      record_title: Claims that UFO information was inappropriately withheld from Congress deemed ‘credible,’ ‘urgent’
+      record_date: '2023-06-09'
+      record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+      content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+      friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+  - claim_id: 0845bc30-b347-4697-bc88-919fba54365f
+    claim_hash: 114fc6a08a89125c09d529630a698d204c6c0c2f7f293a1ae9050f104fd620bf
+    content: The managing partner of Compass Rose Legal Group, the law firm that formerly represented David Grusch, reportedly
+      co-signed the complaint submitted to the Intelligence Community Inspector General.
+    original_excerpt: The managing partner of the law firm representing the whistleblower reportedly co-signed the complaint
+      submitted to the current intelligence community inspector general.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+      title: Marik von Rennenkampff
+    provenance_chain:
+      origin_kind: unattributed
+      origin: reported, unspecified source
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9cf86840-6170-4683-be91-e7d12016f16c
+        title: David Grusch 2022 whistleblower complaint to the Intelligence Community Inspector General
+        slug: david-grusch-2022-whistleblower-complaint-to-the-intelligence-community-inspector-general
+      - node_id: cd25b06d-f567-45e1-b334-8f800f104c07
+        title: Compass Rose Legal Group
+        slug: compass-rose-legal-group
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:974-1135
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+      record_title: Claims that UFO information was inappropriately withheld from Congress deemed ‘credible,’ ‘urgent’
+      record_date: '2023-06-09'
+      record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+      content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+      friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+  - claim_id: fd6b4242-ee90-4dd9-99e5-2da25c81b6f2
+    claim_hash: f2a8c39b137d5c8a683161fe8bfbbfc61372ecbedead488061adb6e6eab2e6af
+    content: Luis Elizondo and many of his former colleagues have provided classified testimony to both the United States
+      Department of Defense (DoD) and the Intelligence Community Inspector General.
+    original_excerpt: Many of my former colleagues and I have provided classified testimony to both the Department of Defense
+      and the Intelligence Community Inspector General.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: '2024-11-13'
+    date_end: null
+    location_in_record: char:2989-3134
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 72cc1cf9-c482-4e0e-8629-c9d2fb101493
+      record_title: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing the Truth'
+      record_date: '2024-11-13'
+      record_reference: null
+      content_hash: sha256:f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce064218b64
+      friendly_name: 2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the
+  - claim_id: 412478e3-782b-4049-ab68-05e092c736d3
+    claim_hash: 1d987c27e1f9189e47b4ab1fccbee4fc7f3fa8eec7d5d07f5283e0372164b405
+    content: Luis Elizondo states that many of the colleagues who provided classified testimony on UAP to the United States
+      Department of Defense (DoD) and the Intelligence Community Inspector General have subsequently been targeted with threats
+      to their careers, security clearances, and lives.
+    original_excerpt: Many of us have subsequently been targeted by this cabal with threats to our careers, our security clearances,
+      and even our lives.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: '2024-11-13'
+    date_end: null
+    location_in_record: char:3143-3267
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 72cc1cf9-c482-4e0e-8629-c9d2fb101493
+      record_title: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing the Truth'
+      record_date: '2024-11-13'
+      record_reference: null
+      content_hash: sha256:f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce064218b64
+      friendly_name: 2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the
+  - claim_id: 3a22fa3f-9847-41c9-9713-18526071d93e
+    claim_hash: 17feae84aa78e998a5f30c4efad9cb5f424122462c974d3102baa2c23e7f5e12
+    content: In 2022, while at the National Geospatial-Intelligence Agency (NGA), David Grusch filed a federal whistleblower
+      complaint with the Intelligence Community Inspector General (ICIG).
+    original_excerpt: In 2022 while at NGA, Mr. Grusch filed a federal whistleblower complaint with the Intelligence Community
+      Inspector General (ICIG)
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5a66c3ff-a277-4671-a7bc-49998ef2f0e6
+        title: David Grusch's federal whistleblower complaint to the Intelligence Community Inspector General (ICIG)
+        slug: david-gruschs-federal-whistleblower-complaint-to-the-intelligence-community-inspector-general-icig
+      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+        title: National Geospatial-Intelligence Agency (NGA)
+        slug: national-geospatial-intelligence-agency-nga
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: '2022-01-01'
+    date_end: null
+    location_in_record: char:1373-1497
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
+      record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special Advisor
+      record_date: '2025-03-27'
+      record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
+      content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
+      friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
+  - claim_id: 26813151-57c3-44c8-a598-b4fba1eac080
+    claim_hash: 0821cdbec372cf639fbfd22d4d5d05d3be3fde20ac9e6ef3f4d49e1327b0262f
+    content: David Grusch's 2022 federal whistleblower complaint to the Intelligence Community Inspector General (ICIG) was
+      found credible and urgent for reporting to the Congressional intelligence committees.
+    original_excerpt: which was found "credible and urgent" for reporting to the Congressional intelligence committees
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5a66c3ff-a277-4671-a7bc-49998ef2f0e6
+        title: David Grusch's federal whistleblower complaint to the Intelligence Community Inspector General (ICIG)
+        slug: david-gruschs-federal-whistleblower-complaint-to-the-intelligence-community-inspector-general-icig
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: '2022-01-01'
+    date_end: null
+    location_in_record: char:1503-1589
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
+      record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special Advisor
+      record_date: '2025-03-27'
+      record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
+      content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
+      friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
+  - claim_id: ff5211ba-96b8-4d51-821b-d79fb54e158e
+    claim_hash: 20db0156000cfd054edd666a5976665dbb8bff3a3a93584baafd529f45eec84a
+    content: In sworn testimony before the United States Congress in 2025-09, Dylan Borland identified himself as a federal
+      whistleblower who had provided information to the Intelligence Community Office of the Inspector General.
+    original_excerpt: In sworn testimony before Congress in September 2025, he identified himself as a federal whistleblower
+      who had provided information to both the Intelligence Community Office of the Inspector General (IC OIG) and the Pentagon’s
+      All-domain Anomaly Resolution Office (AARO) concerning alleged craft, technologies and legacy UAP programs operating
+      without congressional oversight.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: 2025-09
+    date_end: null
+    location_in_record: char:1193-1559
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 4c30364b-383d-4c67-abab-06b162fd1b11
+    claim_hash: 9b7d229bea87240b4bae34ae4abb4ce20098f603f1c29651a49949ae9f2af5b5
+    content: A spokesperson for the Office of the Intelligence Community Inspector General declined to confirm whether Dylan
+      Borland had provided testimony or whether any investigation was underway.
+    original_excerpt: While declining to confirm whether Borland had provided testimony or whether any investigation was underway,
+      the office emphasised that it is legally required to protect confidential whistleblowers and information that could
+      reveal their identities.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Office of the Intelligence Community Inspector General (ICIG)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:1712-1950
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 87fe9bf7-2104-4d79-8bf2-730d22dc43a1
+    claim_hash: 618e971f5af5ffa4706e8574b24db999394a101ab8e8ff8fd5ca5c3799b3ba81
+    content: The Office of the Intelligence Community Inspector General is legally required to protect confidential whistleblowers
+      and information that could reveal their identities.
+    original_excerpt: the office emphasised that it is legally required to protect confidential whistleblowers and information
+      that could reveal their identities.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Office of the Intelligence Community Inspector General (ICIG)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:1821-1950
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 88eb8ecf-ff8d-4841-8203-a086242f825a
+    claim_hash: d79186e697595697c8c2e0cd0f235fd1e8fad2b7c5e8ad1dad068997d11b6925
+    content: A spokesperson for the Office of the Intelligence Community Inspector General warned that any unauthorised disclosure
+      of protected information could result in removal from federal service and referral to the Federal Bureau of Investigation
+      (FBI) or another investigative authority.
+    original_excerpt: The spokesperson also warned that any unauthorised disclosure of protected information could result
+      in removal from federal service and referral to the FBI or another investigative authority
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Office of the Intelligence Community Inspector General (ICIG)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:1963-2144
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 33017d65-6afe-4689-b719-8f56385707e7
+    claim_hash: c4236002422729295d8a8c37c41989fc38f859a351488d68d5057546d76a4b85
+    content: The Office of the Intelligence Community Inspector General is required by law to protect from public disclosure
+      the identity of confidential whistleblowers and certain information that could reasonably be expected to reveal their
+      identities, subject to limited exceptions.
+    original_excerpt: Subject to limited exceptions, IC OIG is required by law to protect from public disclosure the identity
+      of confidential whistleblowers and certain information that could reasonably be expected to reveal their identities.
+      IC OIG takes these obligations seriously.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Office of the Intelligence Community Inspector General (ICIG)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:2262-2514
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 7af20011-d481-452f-be3d-81774801d9a7
+    claim_hash: 417019db56fc8d96e641667a3abacc04f3aeaace23814df5ca6b387cf5c928ad
+    content: Consistent with longstanding policy and practice, the Office of the Intelligence Community Inspector General
+      can neither confirm nor deny the existence of any pending or ongoing investigation.
+    original_excerpt: Consistent with longstanding policy and practice, IC OIG can neither confirm nor deny the existence
+      of any pending or ongoing investigation.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Office of the Intelligence Community Inspector General (ICIG)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:2527-2653
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: a3fc2408-4cfe-43e4-b015-7ff2c9c5df18
+    claim_hash: 2cd59bb2a1d6d9817f6253f7543d749e1144ebe48d9423f96c1575657562fcc4
+    content: Jeremy Corbell alleged that an Office of the Director of National Intelligence (ODNI) source disclosed details
+      of testimony provided by Dylan Borland, a UAP whistleblower who has made protected disclosures to the Office of the
+      Intelligence Community Inspector General and Congress.
+    original_excerpt: Investigative journalist Jeremy Corbell has alleged that an ODNI source disclosed details of testimony
+      provided by Dylan Borland, a UAP whistleblower who has made protected disclosures to the IC OIG and Congress.
+    claim_type: hearsay
+    attestation: first_hand
+    speaker:
+      node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+      title: Jeremy Corbell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jeremy Corbell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+        title: Jeremy Corbell
+        slug: jeremy-corbell
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:424-692
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null

@@ -9,681 +9,693 @@ page:
   claim_count: 14
   claim_count_total: 14
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 14
+  tokens_estimated: 4297
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 14
 related_nodes:
-- node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-  title: Cuban Missile Crisis (1962-10)
-  node_type: event
-  slug: cuban-missile-crisis-1962-10
-  shared_claims: 6
-- node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
-  title: John Fitzgerald Kennedy
-  node_type: person
-  slug: john-fitzgerald-kennedy
-  shared_claims: 2
-- node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
-  title: Nikita Khrushchev
-  node_type: person
-  slug: nikita-khrushchev
-  shared_claims: 2
-- node_id: d97aed00-0c54-4966-958c-c62dffcedfb9
-  title: Soviet Union
-  node_type: place
-  slug: soviet-union
-  shared_claims: 2
-- node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-  title: U Thant
-  node_type: person
-  slug: u-thant
-  shared_claims: 2
-- node_id: 95577865-f0e9-47e9-b3d8-442a80e78db2
-  title: 1897 airship mystery
-  node_type: event
-  slug: 1897-airship-mystery
-  shared_claims: 1
-- node_id: d1f6cc88-ffad-457b-bf78-802ea5429def
-  title: 6947th Security Squadron
-  node_type: organisation
-  slug: 6947th-security-squadron
-  shared_claims: 1
-- node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
-  title: Bay of Pigs Invasion 1961
-  node_type: event
-  slug: bay-of-pigs-invasion-1961
-  shared_claims: 1
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 1
-- node_id: d9217e61-9255-4fc5-bb21-e8a8e9b5f0b0
-  title: Cuban MIG-21 Unidentified Flying Object (UFO) interception incident
-  node_type: event
-  slug: cuban-mig-21-unidentified-flying-object-ufo-interception-incident
-  shared_claims: 1
-- node_id: 7aed4677-7814-4963-9610-13d46bd97440
-  title: Fidel Castro
-  node_type: person
-  slug: fidel-castro
-  shared_claims: 1
-- node_id: e2321699-4634-4f2c-9777-73cd5096211b
-  title: Frank Church
-  node_type: person
-  slug: frank-church
-  shared_claims: 1
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 1
-- node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-  title: John Podesta
-  node_type: person
-  slug: john-podesta
-  shared_claims: 1
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 1
-- node_id: 6aa15de8-e459-4884-b715-28e5a4db8080
-  title: MacDill Air Force Base
-  node_type: place
-  slug: macdill-air-force-base
-  shared_claims: 1
-- node_id: 4158984a-8066-4804-99dc-b56da01f762c
-  title: Mr. T (Universal Party leader)
-  node_type: person
-  slug: mr-t-universal-party-leader
-  shared_claims: 1
-- node_id: 0f55f132-bf9e-4f4a-adbe-535c17f1702e
-  title: RC-135 reconnaissance aircraft
-  node_type: object
-  slug: rc-135-reconnaissance-aircraft
-  shared_claims: 1
-- node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-  title: Robert Fish
-  node_type: person
-  slug: robert-fish
-  shared_claims: 1
-- node_id: f612ccb6-6742-42e5-bd05-97ab49801197
-  title: Russia, Moscow
-  node_type: place
-  slug: moscow-russia
-  shared_claims: 1
-- node_id: e4c6d02a-ee21-48da-b612-e709e570d510
-  title: USA, Florida, Boca Chica Naval Air Station
-  node_type: place
-  slug: florida-boca-chica-naval-air-station-usa
-  shared_claims: 1
-- node_id: dc23e6d8-444d-4e0e-bba8-2d5492d51c06
-  title: USA, Washington, D.C.
-  node_type: place
-  slug: washington-dc-usa
-  shared_claims: 1
-- node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
-  title: United Nations (UN)
-  node_type: organisation
-  slug: united-nations-un
-  shared_claims: 1
-- node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
-  title: United States
-  node_type: place
-  slug: united-states
-  shared_claims: 1
-claims:
-- claim_id: e3ffa34a-9ea1-4e43-926a-61207d11bedb
-  claim_hash: a3f93de36de6f97d67d0f62f9461b1c55fcfe1de2cbce42d31bec400a090a585
-  content: Mr. T (Universal Party leader) said the Saucer People would intervene if
-    Russia launched missiles at the United States from Cuba.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 4158984a-8066-4804-99dc-b56da01f762c
-    title: Mr. T (Universal Party leader)
-  provenance_chain:
-    origin_kind: speaker
-    origin: Mr. T (Universal Party leader)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: 4158984a-8066-4804-99dc-b56da01f762c
-    title: Mr. T (Universal Party leader)
-    slug: mr-t-universal-party-leader
-  date: null
-  date_end: null
-  location_in_record: ch10:40716-40894
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 45c674de-d629-4c6f-9bf7-61d26ced5387
-  claim_hash: 0fb9c8a2591acf329a4887ea732a999775499fc9ddd56972a2aeedcdcf10c224
-  content: A member of the 6947th Security Squadron at Boca Chica Naval Air Station,
-    charged with monitoring Cuban military communications, testified that Cuban military
-    installations reported a bogey approaching the Cuban land mass from the northeast
-    and that two MIG-21 interceptors were scrambled.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: a member of the 6947th Security Squadron
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: d1f6cc88-ffad-457b-bf78-802ea5429def
-    title: 6947th Security Squadron
-    slug: 6947th-security-squadron
-  - node_id: d9217e61-9255-4fc5-bb21-e8a8e9b5f0b0
-    title: Cuban MIG-21 Unidentified Flying Object (UFO) interception incident
-    slug: cuban-mig-21-unidentified-flying-object-ufo-interception-incident
-  - node_id: e4c6d02a-ee21-48da-b612-e709e570d510
-    title: USA, Florida, Boca Chica Naval Air Station
-    slug: florida-boca-chica-naval-air-station-usa
-  date: null
-  date_end: null
-  location_in_record: ch12:31197-31324
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 394e3e2e-e1d3-40e1-991a-73f08be57e23
-  claim_hash: af4489795039e0cee4150f7e301d09bc9183e4e52c6209bc0a8e8e8c49ca781d
-  content: A witness before Frank Church's Select Committee on Intelligence testified
-    there was a plan to simulate the Second Coming of Christ, using flares launched
-    from a submarine off the coast of Cuba, in the hope of contributing to the overthrow
-    of the Castro government.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a witness testifying before Frank Church's Select Committee on Intelligence
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: e2321699-4634-4f2c-9777-73cd5096211b
-    title: Frank Church
-    slug: frank-church
-  date: null
-  date_end: null
-  location_in_record: ch12:42111-42393
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: e3de8e2e-bab1-4ad7-b1e4-e99cf36716ad
-  claim_hash: 97abc3f0372cdd4cd2a524e8d222d81239dd22857c03f4f79afae3d5716dc1af
-  content: An unnamed leader of a contactee group told Jacques Vallée that the Brothers
-    would step in to help if Russia started throwing missiles at the United States
-    from Cuba.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to lead a contactee group
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  date: null
-  date_end: null
-  location_in_record: ch4:20281-20466
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: a1d5e118-afbd-4471-98ca-6537b19d39e2
-  claim_hash: 594c3c29cc8f0af6865d51406f1c69e7475ada8a59772c87a5e4f90bdfbd86fa
-  content: During the 1897 airship mystery, the occupants of the airship invited witnesses
-    to come with them to "a place where it doesn't rain," and when asked where they
-    were from replied "We're from ANYWHERE, but we shall be in Cuba tomorrow!"
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
+  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+    title: Cuban Missile Crisis (1962-10)
+    node_type: event
+    slug: cuban-missile-crisis-1962-10
+    shared_claims: 6
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    node_type: person
+    slug: john-fitzgerald-kennedy
+    shared_claims: 2
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    node_type: person
+    slug: nikita-khrushchev
+    shared_claims: 2
+  - node_id: d97aed00-0c54-4966-958c-c62dffcedfb9
+    title: Soviet Union
+    node_type: place
+    slug: soviet-union
+    shared_claims: 2
+  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+    title: U Thant
+    node_type: person
+    slug: u-thant
+    shared_claims: 2
   - node_id: 95577865-f0e9-47e9-b3d8-442a80e78db2
     title: 1897 airship mystery
+    node_type: event
     slug: 1897-airship-mystery
-  date: null
-  date_end: null
-  location_in_record: ch5:23707-23991
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: a05c997d-c1f0-4da0-8587-0c75532f0ce0
-  claim_hash: f020f24ba3aaabcdfdb8350ef2136be9458201746623a97fcb463e66cf4f9a59
-  content: In 1962-10, the Cuban Missile Crisis began when President John F. Kennedy
-    announced that the United States had discovered and photographed the setting up
-    of Soviet medium-range missiles on the island of Cuba.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
-    title: John Fitzgerald Kennedy
-    slug: john-fitzgerald-kennedy
-  - node_id: d97aed00-0c54-4966-958c-c62dffcedfb9
-    title: Soviet Union
-    slug: soviet-union
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  date: 1962-10
-  date_end: null
-  location_in_record: ch17:1173-1339
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: a30471e3-76e4-4352-82da-96e36599288e
-  claim_hash: 9c552445915990454a8644ad2cffcf1c7337922b1cd98a552efc0d12f2df8d28
-  content: During the Cuban Missile Crisis, President John F. Kennedy responded by
-    sending U.S. warships to Cuba.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
-    title: John Fitzgerald Kennedy
-    slug: john-fitzgerald-kennedy
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  date: 1962-10
-  date_end: null
-  location_in_record: ch17:1345-1389
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 9c0a5f4b-3f43-4c08-a8a6-46cb9083e8b5
-  claim_hash: 71b4eca7f4d6325644df1701ef6dc9e6dc300c0648252b9a79c06982710024c0
-  content: During the Cuban Missile Crisis, the Soviet Union and Cuba countered by
-    mobilising their armed forces.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: d97aed00-0c54-4966-958c-c62dffcedfb9
-    title: Soviet Union
-    slug: soviet-union
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  date: 1962-10
-  date_end: null
-  location_in_record: ch17:1395-1457
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
-  claim_hash: b6aa4108a781f7cdfd0459932a25478135d5bec2654486fe1401c4f6d859c068
-  content: United Nations Secretary General U Thant told the heads of state in Washington,
-    Havana, and Moscow that he would help mediate the Cuban Missile Crisis discussion,
-    at the request of forty-five other UN member nations.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
-    title: United Nations (UN)
-    slug: united-nations-un
-  - node_id: dc23e6d8-444d-4e0e-bba8-2d5492d51c06
-    title: USA, Washington, D.C.
-    slug: washington-dc-usa
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
-    title: Russia, Moscow
-    slug: moscow-russia
-  date: 1962-10
-  date_end: null
-  location_in_record: ch17:1653-1832
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 9d723809-bae4-4fbf-ba57-e261ea20aabf
-  claim_hash: be1592fffe94ea84644fce92e06a53c2f0a5a17be18c90d987522840c1c26b7d
-  content: During the Cuban Missile Crisis, tensions relaxed when Nikita Khrushchev
-    accepted U Thant's mediation offer and ordered Soviet vessels heading for Cuba
-    to change course.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
-    title: Nikita Khrushchev
-    slug: nikita-khrushchev
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  date: 1962-10
-  date_end: null
-  location_in_record: ch17:1926-2048
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: e6588c00-a9e2-4b4c-ae52-9ab8ec5d4657
-  claim_hash: 0522f70d75606f273041870df875d2e1dfba30de406b20504e51fea4c21eb52f
-  content: On 1962-10-28, Nikita Khrushchev agreed to dismantle the Soviet missiles
-    on Cuba, after extracting a guarantee from the United States that it would not
-    invade Cuba.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
-    title: Nikita Khrushchev
-    slug: nikita-khrushchev
-  - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
-    title: United States
-    slug: united-states
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  date: '1962-10-28'
-  date_end: null
-  location_in_record: ch17:2128-2255
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: a435b2f6-7f4b-4095-8056-c427837c9419
-  claim_hash: 3b8075bcef7a565f5f2fc681f96c3f5276f05e3720a07edb24b8e52b37f11314
-  content: Robert 'Bob' Fish told John Podesta about a US Air Force noncommissioned
-    officer he knew at the same classified facility who flew on RC-135 reconnaissance
-    aircraft from MacDill Air Force Base in Florida to monitor Cuba.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: third_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to be a US Air Force noncommissioned officer who flew
-      RC-135 reconnaissance missions from MacDill Air Force Base
-    relay:
-    - Robert 'Bob' Fish
-    - email to John Podesta
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0f55f132-bf9e-4f4a-adbe-535c17f1702e
-    title: RC-135 reconnaissance aircraft
-    slug: rc-135-reconnaissance-aircraft
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  - node_id: 6aa15de8-e459-4884-b715-28e5a4db8080
-    title: MacDill Air Force Base
-    slug: macdill-air-force-base
-  date: null
-  date_end: null
-  location_in_record: ch13:28654-28866
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 06b15552-5c3f-47cb-ae44-d2a2e135d6ed
-  claim_hash: e171e9b02b24e0e83bb19297ad72b21a687c838d85b6ace5235e11dfceb6ba91
-  content: During the Central Intelligence Agency's Operation Mongoose, anti-Castro
-    Cuban immigrants were covertly funded to plan the abortive invasion of Cuba at
-    the Bay of Pigs in 1961.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: d1f6cc88-ffad-457b-bf78-802ea5429def
+    title: 6947th Security Squadron
+    node_type: organisation
+    slug: 6947th-security-squadron
+    shared_claims: 1
   - node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
     title: Bay of Pigs Invasion 1961
+    node_type: event
     slug: bay-of-pigs-invasion-1961
-  date: '1961'
-  date_end: null
-  location_in_record: ch27:3588-3734
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 1902d0f1-cfe8-493d-be7f-95c2565d454e
-  claim_hash: 3749fd8d5fde7a8aeaddaf431ae0beb5af52b6f60579ab59e601a8c86699fc78
-  content: Luis Elizondo's father told him that he had once lived in Fidel Castro's
-    prisons in Cuba.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: named
-    origin: Luis Elizondo's father
-    relay:
-    - Lue Elizondo
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
+    shared_claims: 1
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: d9217e61-9255-4fc5-bb21-e8a8e9b5f0b0
+    title: Cuban MIG-21 Unidentified Flying Object (UFO) interception incident
+    node_type: event
+    slug: cuban-mig-21-unidentified-flying-object-ufo-interception-incident
+    shared_claims: 1
   - node_id: 7aed4677-7814-4963-9610-13d46bd97440
     title: Fidel Castro
+    node_type: person
     slug: fidel-castro
+    shared_claims: 1
+  - node_id: e2321699-4634-4f2c-9777-73cd5096211b
+    title: Frank Church
+    node_type: person
+    slug: frank-church
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    node_type: person
+    slug: john-podesta
+    shared_claims: 1
   - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
+    node_type: person
     slug: luis-elizondo
-  date: null
-  date_end: null
-  location_in_record: ch28:16194-16239
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 6aa15de8-e459-4884-b715-28e5a4db8080
+    title: MacDill Air Force Base
+    node_type: place
+    slug: macdill-air-force-base
+    shared_claims: 1
+  - node_id: 4158984a-8066-4804-99dc-b56da01f762c
+    title: Mr. T (Universal Party leader)
+    node_type: person
+    slug: mr-t-universal-party-leader
+    shared_claims: 1
+  - node_id: 0f55f132-bf9e-4f4a-adbe-535c17f1702e
+    title: RC-135 reconnaissance aircraft
+    node_type: object
+    slug: rc-135-reconnaissance-aircraft
+    shared_claims: 1
+  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+    title: Robert Fish
+    node_type: person
+    slug: robert-fish
+    shared_claims: 1
+  - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
+    title: Russia, Moscow
+    node_type: place
+    slug: moscow-russia
+    shared_claims: 1
+  - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+    title: USA
+    node_type: place
+    slug: usa
+    shared_claims: 1
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    node_type: place
+    slug: district-of-columbia-washington-usa
+    shared_claims: 1
+  - node_id: e4c6d02a-ee21-48da-b612-e709e570d510
+    title: USA, Florida, Boca Chica Naval Air Station
+    node_type: place
+    slug: florida-boca-chica-naval-air-station-usa
+    shared_claims: 1
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    node_type: organisation
+    slug: united-nations-un
+    shared_claims: 1
+claims:
+  - claim_id: e3ffa34a-9ea1-4e43-926a-61207d11bedb
+    claim_hash: a3f93de36de6f97d67d0f62f9461b1c55fcfe1de2cbce42d31bec400a090a585
+    content: Mr. T (Universal Party leader) said the Saucer People would intervene if Russia launched missiles at the United
+      States from Cuba.
+    original_excerpt: maybe Russia would start to throw some missiles at us, from Cuba over there, which they do have, and
+      Castro got a little out of hand, well, they might step in. They told us they would.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 4158984a-8066-4804-99dc-b56da01f762c
+      title: Mr. T (Universal Party leader)
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mr. T (Universal Party leader)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: 4158984a-8066-4804-99dc-b56da01f762c
+        title: Mr. T (Universal Party leader)
+        slug: mr-t-universal-party-leader
+    date: null
+    date_end: null
+    location_in_record: ch10:40716-40894
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 45c674de-d629-4c6f-9bf7-61d26ced5387
+    claim_hash: 0fb9c8a2591acf329a4887ea732a999775499fc9ddd56972a2aeedcdcf10c224
+    content: A member of the 6947th Security Squadron at Boca Chica Naval Air Station, charged with monitoring Cuban military
+      communications, testified that Cuban military installations reported a bogey approaching the Cuban land mass from the
+      northeast and that two MIG-21 interceptors were scrambled.
+    original_excerpt: Cuban military installations reported a bogey approaching the Cuban land mass from the northeast. Two
+      MIG-21 interceptors were scrambled...
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: a member of the 6947th Security Squadron
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: d1f6cc88-ffad-457b-bf78-802ea5429def
+        title: 6947th Security Squadron
+        slug: 6947th-security-squadron
+      - node_id: d9217e61-9255-4fc5-bb21-e8a8e9b5f0b0
+        title: Cuban MIG-21 Unidentified Flying Object (UFO) interception incident
+        slug: cuban-mig-21-unidentified-flying-object-ufo-interception-incident
+      - node_id: e4c6d02a-ee21-48da-b612-e709e570d510
+        title: USA, Florida, Boca Chica Naval Air Station
+        slug: florida-boca-chica-naval-air-station-usa
+    date: null
+    date_end: null
+    location_in_record: ch12:31197-31324
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 394e3e2e-e1d3-40e1-991a-73f08be57e23
+    claim_hash: af4489795039e0cee4150f7e301d09bc9183e4e52c6209bc0a8e8e8c49ca781d
+    content: A witness before Frank Church's Select Committee on Intelligence testified there was a plan to simulate the Second
+      Coming of Christ, using flares launched from a submarine off the coast of Cuba, in the hope of contributing to the overthrow
+      of the Castro government.
+    original_excerpt: According to a witness before Senator Frank Church's Select Committee on Intelligence, there was even
+      a harebrained plan to simulate the Second Coming of Christ, using flares launched from a submarine of the coast of Cuba,
+      in the hope of contributing to the overthrow of the Castro government.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a witness testifying before Frank Church's Select Committee on Intelligence
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: e2321699-4634-4f2c-9777-73cd5096211b
+        title: Frank Church
+        slug: frank-church
+    date: null
+    date_end: null
+    location_in_record: ch12:42111-42393
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: e3de8e2e-bab1-4ad7-b1e4-e99cf36716ad
+    claim_hash: 97abc3f0372cdd4cd2a524e8d222d81239dd22857c03f4f79afae3d5716dc1af
+    content: An unnamed leader of a contactee group told Jacques Vallée that the Brothers would step in to help if Russia
+      started throwing missiles at the United States from Cuba.
+    original_excerpt: If we get a little out of control, and maybe Russia would start to throw some missiles at us, from Cuba…
+      well, they might step in, if it got too bad, and help us out. They told us they would.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to lead a contactee group
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+    date: null
+    date_end: null
+    location_in_record: ch4:20281-20466
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: a1d5e118-afbd-4471-98ca-6537b19d39e2
+    claim_hash: 594c3c29cc8f0af6865d51406f1c69e7475ada8a59772c87a5e4f90bdfbd86fa
+    content: During the 1897 airship mystery, the occupants of the airship invited witnesses to come with them to "a place
+      where it doesn't rain," and when asked where they were from replied "We're from ANYWHERE, but we shall be in Cuba tomorrow!"
+    original_excerpt: 'The history of such identification goes back to the days of the 1897 airship, whose occupants invited
+      witnesses to come with them to “a place where it doesn’t rain.” On one occasion, asked where they were from, the strange
+      pilots replied: “Were from ANYWHERE, but we shall be in Cuba tomorrow!”'
+    claim_type: hearsay
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: 95577865-f0e9-47e9-b3d8-442a80e78db2
+        title: 1897 airship mystery
+        slug: 1897-airship-mystery
+    date: null
+    date_end: null
+    location_in_record: ch5:23707-23991
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: a05c997d-c1f0-4da0-8587-0c75532f0ce0
+    claim_hash: f020f24ba3aaabcdfdb8350ef2136be9458201746623a97fcb463e66cf4f9a59
+    content: In 1962-10, the Cuban Missile Crisis began when President John F. Kennedy announced that the United States had
+      discovered and photographed the setting up of Soviet medium-range missiles on the island of Cuba.
+    original_excerpt: The crisis was set off when President Kennedy announced that the U.S. had discovered and photographed
+      the setting up of Soviet medium-range missiles on the island of Cuba.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+      - node_id: d97aed00-0c54-4966-958c-c62dffcedfb9
+        title: Soviet Union
+        slug: soviet-union
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+    date: 1962-10
+    date_end: null
+    location_in_record: ch17:1173-1339
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: a30471e3-76e4-4352-82da-96e36599288e
+    claim_hash: 9c552445915990454a8644ad2cffcf1c7337922b1cd98a552efc0d12f2df8d28
+    content: During the Cuban Missile Crisis, President John F. Kennedy responded by sending U.S. warships to Cuba.
+    original_excerpt: Kennedy reacted by sending U.S. warships to Cuba.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+    date: 1962-10
+    date_end: null
+    location_in_record: ch17:1345-1389
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 9c0a5f4b-3f43-4c08-a8a6-46cb9083e8b5
+    claim_hash: 71b4eca7f4d6325644df1701ef6dc9e6dc300c0648252b9a79c06982710024c0
+    content: During the Cuban Missile Crisis, the Soviet Union and Cuba countered by mobilising their armed forces.
+    original_excerpt: The Soviet Union and Cuba countered by mobilizing their armed forces.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: d97aed00-0c54-4966-958c-c62dffcedfb9
+        title: Soviet Union
+        slug: soviet-union
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+    date: 1962-10
+    date_end: null
+    location_in_record: ch17:1395-1457
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
+    claim_hash: b6aa4108a781f7cdfd0459932a25478135d5bec2654486fe1401c4f6d859c068
+    content: United Nations Secretary General U Thant told the heads of state in Washington, Havana, and Moscow that he would
+      help mediate the Cuban Missile Crisis discussion, at the request of forty-five other UN member nations.
+    original_excerpt: The UN secretary general U Thant told the heads of state in Washington, Havana, and Moscow that he would
+      help mediate the discussion, at the request of forty-five other UN member nations.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+        title: United Nations (UN)
+        slug: united-nations-un
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+      - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
+        title: Russia, Moscow
+        slug: moscow-russia
+    date: 1962-10
+    date_end: null
+    location_in_record: ch17:1653-1832
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 9d723809-bae4-4fbf-ba57-e261ea20aabf
+    claim_hash: be1592fffe94ea84644fce92e06a53c2f0a5a17be18c90d987522840c1c26b7d
+    content: During the Cuban Missile Crisis, tensions relaxed when Nikita Khrushchev accepted U Thant's mediation offer and
+      ordered Soviet vessels heading for Cuba to change course.
+    original_excerpt: The tension relaxed when Nikita Khrushchev accepted U Thant's offer and ordered Soviet vessels heading
+      for Cuba to change course.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+        title: Nikita Khrushchev
+        slug: nikita-khrushchev
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+    date: 1962-10
+    date_end: null
+    location_in_record: ch17:1926-2048
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: e6588c00-a9e2-4b4c-ae52-9ab8ec5d4657
+    claim_hash: 0522f70d75606f273041870df875d2e1dfba30de406b20504e51fea4c21eb52f
+    content: On 1962-10-28, Nikita Khrushchev agreed to dismantle the Soviet missiles on Cuba, after extracting a guarantee
+      from the United States that it would not invade Cuba.
+    original_excerpt: Finally on October 28 Khrushchev agreed to this as well, after extracting a guarantee from the U.S.
+      that they would not invade Cuba.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+        title: Nikita Khrushchev
+        slug: nikita-khrushchev
+      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+        title: USA
+        slug: usa
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+    date: '1962-10-28'
+    date_end: null
+    location_in_record: ch17:2128-2255
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: a435b2f6-7f4b-4095-8056-c427837c9419
+    claim_hash: 3b8075bcef7a565f5f2fc681f96c3f5276f05e3720a07edb24b8e52b37f11314
+    content: Robert 'Bob' Fish told John Podesta about a US Air Force noncommissioned officer he knew at the same classified
+      facility who flew on RC-135 reconnaissance aircraft from MacDill Air Force Base in Florida to monitor Cuba.
+    original_excerpt: in another email, Fish told him about a US Air Force noncommissioned officer he knew at the same classified
+      facility who flew on RC-135 reconnaissance aircraft from MacDill Air Force Base in Florida to monitor Cuba.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a US Air Force noncommissioned officer who flew RC-135 reconnaissance missions from
+        MacDill Air Force Base
+      relay:
+        - Robert 'Bob' Fish
+        - email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f55f132-bf9e-4f4a-adbe-535c17f1702e
+        title: RC-135 reconnaissance aircraft
+        slug: rc-135-reconnaissance-aircraft
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 6aa15de8-e459-4884-b715-28e5a4db8080
+        title: MacDill Air Force Base
+        slug: macdill-air-force-base
+    date: null
+    date_end: null
+    location_in_record: ch13:28654-28866
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 06b15552-5c3f-47cb-ae44-d2a2e135d6ed
+    claim_hash: e171e9b02b24e0e83bb19297ad72b21a687c838d85b6ace5235e11dfceb6ba91
+    content: During the Central Intelligence Agency's Operation Mongoose, anti-Castro Cuban immigrants were covertly funded
+      to plan the abortive invasion of Cuba at the Bay of Pigs in 1961.
+    original_excerpt: When the CIA's Operation Mongoose covertly funded anti-Castro Cuban immigrants to plan an abortive invasion
+      of Cuba in the Bay of Pigs debacle in 1961
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
+        title: Bay of Pigs Invasion 1961
+        slug: bay-of-pigs-invasion-1961
+    date: '1961'
+    date_end: null
+    location_in_record: ch27:3588-3734
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1902d0f1-cfe8-493d-be7f-95c2565d454e
+    claim_hash: 3749fd8d5fde7a8aeaddaf431ae0beb5af52b6f60579ab59e601a8c86699fc78
+    content: Luis Elizondo's father told him that he had once lived in Fidel Castro's prisons in Cuba.
+    original_excerpt: '"Son, I used to live in Castro''s prisons," he said.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Luis Elizondo's father
+      relay:
+        - Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: 7aed4677-7814-4963-9610-13d46bd97440
+        title: Fidel Castro
+        slug: fidel-castro
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch28:16194-16239
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

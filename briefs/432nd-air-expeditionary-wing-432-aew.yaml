@@ -1,0 +1,153 @@
+schema: anomalica/brief/1
+brief_hash: 5a61dd9f5301987cc1bcc87fd2d4854c6a9860ba78921a6addbdfeb9a2e38586
+page:
+  kind: entity
+  node_id: fa3c9876-887c-4998-8a22-d70a78c43c73
+  node_type: organisation
+  title: 432nd Air Expeditionary Wing (432 AEW )
+  slug: 432nd-air-expeditionary-wing-432-aew
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 886
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
+related_nodes:
+- node_id: b855b6d9-0592-46c2-9bde-589e0456542d
+  title: 603rd Air Operations Center (603 AOC )
+  node_type: organisation
+  slug: 603rd-air-operations-center-603-aoc
+  shared_claims: 2
+- node_id: e67c1cdb-46fc-487a-8b8d-f1b8f623987f
+  title: 89th Attack Squadron (ATKS)
+  node_type: organisation
+  slug: 89th-attack-squadron-atks
+  shared_claims: 2
+- node_id: 1b9a3ed5-9112-42a7-a6f6-5d228ce1baef
+  title: 482nd Attack Squadron (482ATKS)
+  node_type: organisation
+  slug: 482nd-attack-squadron-482atks
+  shared_claims: 1
+- node_id: 9b61acd8-999d-415d-9b20-95b505f29940
+  title: 609th Air Operations Center (609 AOC )
+  node_type: organisation
+  slug: 609th-air-operations-center-609-aoc
+  shared_claims: 1
+claims:
+- claim_id: 617745b9-f03d-49ef-9591-376546e806fd
+  claim_hash: 1ec47413fa02e10968f553514a3fc45a75eaabe77f6ee2ce546e0be428108a48
+  content: The point of contact for this mission held the rank of Senior Airman (SrA) and belonged to the 482nd Attack Squadron (482ATKS), the 432nd Air Expeditionary Wing (432 AEW), Air Force, and worked in the 603rd Air Operations Center (603 AOC).
+  original_excerpt: '**Rank:** SrA ... **Unit:** 482ATKS ... **Wing:** 432 AEW ... **Service:** Air Force ... **Operations Center:** 603 AOC'
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Mission Report (MISREP) 4592219
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 1b9a3ed5-9112-42a7-a6f6-5d228ce1baef
+    title: 482nd Attack Squadron (482ATKS)
+    slug: 482nd-attack-squadron-482atks
+  - node_id: b855b6d9-0592-46c2-9bde-589e0456542d
+    title: 603rd Air Operations Center (603 AOC )
+    slug: 603rd-air-operations-center-603-aoc
+  - node_id: fa3c9876-887c-4998-8a22-d70a78c43c73
+    title: 432nd Air Expeditionary Wing (432 AEW )
+    slug: 432nd-air-expeditionary-wing-432-aew
+  date: null
+  date_end: null
+  location_in_record: char:1640-1867
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e3da2c6a-8270-49ce-bec2-71d7281e3943
+    record_title: Misrep 4592219
+    record_date: '2020-08-08'
+    record_reference: null
+    content_hash: sha256:39126406547c89dbc81112c5638612858fcfe7e38179dd89e6d725dc6cee13b1
+    friendly_name: null
+- claim_id: a837dd1b-c157-44e6-a600-0b034a5c0f9d
+  claim_hash: e058c9f48bc8ad74445833f203fa65c95e168293b71d819388efdac3d5f3bd96
+  content: The point of contact for the mission report was assigned to the 89th Attack Squadron (89 ATKS), part of the 432nd Air Expeditionary Wing (432 AEW), with an operations center of 603rd Air Operations Center (603 AOC).
+  original_excerpt: "Unit: 89 ATKS\n- Wing: 432 AEW\n... Operations Center: 603 AOC"
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: the mission report (MISREP)
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: b855b6d9-0592-46c2-9bde-589e0456542d
+    title: 603rd Air Operations Center (603 AOC )
+    slug: 603rd-air-operations-center-603-aoc
+  - node_id: e67c1cdb-46fc-487a-8b8d-f1b8f623987f
+    title: 89th Attack Squadron (ATKS)
+    slug: 89th-attack-squadron-atks
+  - node_id: fa3c9876-887c-4998-8a22-d70a78c43c73
+    title: 432nd Air Expeditionary Wing (432 AEW )
+    slug: 432nd-air-expeditionary-wing-432-aew
+  date: '2022-07-31'
+  date_end: null
+  location_in_record: char:1941-1961
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c323ba11-136d-424d-beec-9a09c7a603b5
+    record_title: Misrep-7816710
+    record_date: '2022-07-31'
+    record_reference: null
+    content_hash: sha256:b3b3f023d70bcce3178de9fe6a019ea6db5e5145bc7e28a49308442e190ef817
+    friendly_name: null
+- claim_id: bc69e382-2897-4247-add4-23d125ba6c13
+  claim_hash: 9d0df214e6e657b0c78420ae5f13b8c59ace62637d47cbc3e9ccfbc32bc12767
+  content: The quality control (QC) reviewer for the mission report was assigned to the 89th Attack Squadron (89 ATKS), part of the 432nd Air Expeditionary Wing (432 AEW), with an operations center of 609th Combined Air Operations Center (609 CAOC).
+  original_excerpt: "Unit: 89 ATKS\n- Wing: 432 AEW\n... Operations Center: 609 CAOC"
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: the mission report (MISREP)
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 9b61acd8-999d-415d-9b20-95b505f29940
+    title: 609th Air Operations Center (609 AOC )
+    slug: 609th-air-operations-center-609-aoc
+  - node_id: e67c1cdb-46fc-487a-8b8d-f1b8f623987f
+    title: 89th Attack Squadron (ATKS)
+    slug: 89th-attack-squadron-atks
+  - node_id: fa3c9876-887c-4998-8a22-d70a78c43c73
+    title: 432nd Air Expeditionary Wing (432 AEW )
+    slug: 432nd-air-expeditionary-wing-432-aew
+  date: '2022-07-31'
+  date_end: null
+  location_in_record: char:1941-1961
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c323ba11-136d-424d-beec-9a09c7a603b5
+    record_title: Misrep-7816710
+    record_date: '2022-07-31'
+    record_reference: null
+    content_hash: sha256:b3b3f023d70bcce3178de9fe6a019ea6db5e5145bc7e28a49308442e190ef817
+    friendly_name: null

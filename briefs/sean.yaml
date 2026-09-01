@@ -9,298 +9,309 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 7
+  tokens_estimated: 1956
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
 related_nodes:
-- node_id: a738ad53-c15b-4aa6-925f-2015c3166309
-  title: Jesse DeLuca
-  node_type: person
-  slug: jesse-deluca
-  shared_claims: 1
-- node_id: d41f1695-f15a-45c4-9b6c-62da03484381
-  title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP) encounter
-  node_type: event
-  slug: jesse-delucas-2024-05-quebec-drone-unidentified-aerial-phenomena-uap-encounter
-  shared_claims: 1
-- node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-  title: Jesse Mitchells
-  node_type: person
-  slug: jesse-mitchells
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-- node_id: 26a1ea14-513a-4a56-ad7d-bc51989c4b6c
-  title: iridium flare
-  node_type: topic
-  slug: iridium-flare
-  shared_claims: 1
-claims:
-- claim_id: 6e2e0925-cd46-4fae-af41-5f8b8873cb1d
-  claim_hash: a3c4e39ec19654922295ef98fc2c84f06c607211fe7f6ec97319ee3ebcc77b61
-  content: Sean works in the aerospace industry.
-  original_excerpt: i talked to one of my close friends uh my buddy sean and he's
-    he works in aerospace industry
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: a738ad53-c15b-4aa6-925f-2015c3166309
-    title: Jesse DeLuca
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jesse DeLuca
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
   - node_id: a738ad53-c15b-4aa6-925f-2015c3166309
     title: Jesse DeLuca
+    node_type: person
     slug: jesse-deluca
-  - node_id: e56d277c-d570-40f3-a409-73a86e5616ac
-    title: Sean
-    slug: sean
-  date: null
-  date_end: null
-  location_in_record: 00:21:54.6-00:21:59.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
-    record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
-    record_date: '2024-09-05'
-    record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
-    content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
-    friendly_name: null
-- claim_id: f5f97209-fc49-45d2-9533-7ef20485b319
-  claim_hash: e4cd5d071290299d93b16ecccbcaec859605367423d831245a9b2199ed8f7604
-  content: Sean considers an iridium flare a possible explanation for the light Jesse
-    DeLuca saw during his May 2024 Quebec drone UAP encounter.
-  original_excerpt: my buddy sean and he's he works in aerospace industry and he said
-    it's he said he thinks it's an iridium flare
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: a738ad53-c15b-4aa6-925f-2015c3166309
-    title: Jesse DeLuca
-  provenance_chain:
-    origin_kind: named
-    origin: Sean
-    relay:
-    - Jesse DeLuca
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 26a1ea14-513a-4a56-ad7d-bc51989c4b6c
-    title: iridium flare
-    slug: iridium-flare
+    shared_claims: 1
   - node_id: d41f1695-f15a-45c4-9b6c-62da03484381
-    title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP)
-      encounter
+    title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP) encounter
+    node_type: event
     slug: jesse-delucas-2024-05-quebec-drone-unidentified-aerial-phenomena-uap-encounter
-  - node_id: e56d277c-d570-40f3-a409-73a86e5616ac
-    title: Sean
-    slug: sean
-  date: null
-  date_end: null
-  location_in_record: 00:21:56.1-00:22:02.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
-    record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
-    record_date: '2024-09-05'
-    record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
-    content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
-    friendly_name: null
-- claim_id: 90ce761a-ba46-4dd9-b0e1-74f62ab41eb2
-  claim_hash: 0553b4a3aa47024f3721b5e1c1e3aae1144bd10f30200d005e793298d878d17e
-  content: Jesse Michaels's YouTube channel received a strike after the video featuring
-    David Grush was taken down.
-  original_excerpt: And not just that it got taken down and then you got a strike
-    on your channel, which is like yeah That feels like that's so extreme.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: e56d277c-d570-40f3-a409-73a86e5616ac
-    title: Sean
-  provenance_chain:
-    origin_kind: speaker
-    origin: Sean
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
   - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
     title: Jesse Mitchells
+    node_type: person
     slug: jesse-mitchells
-  date: null
-  date_end: null
-  location_in_record: 00:06:08.4-00:06:16.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
-    record_title: UAPs in Washington - I wasn't supposed to be there..
-    record_date: '2024-11-24'
-    record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
-    content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
-    friendly_name: null
-- claim_id: 0b98d3b5-f7bf-4024-b3ce-c48c82d4531c
-  claim_hash: 305c32686c44be4cbdfb5c8483aa091bbd63612cc4857e802abfdbab6c3918df
-  content: The 2024 United States congressional hearing on UAPs (13 November) was
-    held at the Rayburn House Office Building, hosted by the Oversight Committee.
-  original_excerpt: we are at rayburn house office building where the uh the oversight
-    committee hearing is going to happen on uap and ufos
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: e56d277c-d570-40f3-a409-73a86e5616ac
-    title: Sean
-  provenance_chain:
-    origin_kind: speaker
-    origin: Sean
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
-    title: United States House Committee on Oversight and Accountability
-    slug: united-states-house-committee-on-oversight-and-accountability
-  - node_id: d6c976e4-72f8-4dcd-9a97-e38804ec50a0
-    title: USA, Washington, D.C., Rayburn House Office Building
-    slug: washington-dc-rayburn-house-office-building-usa
-  - node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
-    title: 2024 United States congressional hearing on UAPs (13 November)
-    slug: 2024-united-states-congressional-hearing-on-uaps-13-november
-  date: '2024-11-13'
-  date_end: null
-  location_in_record: 00:07:03.9-00:07:12.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
-    record_title: UAPs in Washington - I wasn't supposed to be there..
-    record_date: '2024-11-24'
-    record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
-    content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
-    friendly_name: null
-- claim_id: c814924c-1084-41ba-b02b-682e7133ddf8
-  claim_hash: fe23032bef1c0f15d11c38c1f6a4bcb7cef9d1885954381fe66233987efbbc12
-  content: The 2023 United States congressional hearing on UAPs occurred on 2023-07-26,
-    about a year and a half before the 2024 United States congressional hearing on
-    UAPs (13 November).
-  original_excerpt: the last one happened july 26th 2023 it is november 13th 2024
-    so about a year and a half has passed
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: e56d277c-d570-40f3-a409-73a86e5616ac
-    title: Sean
-  provenance_chain:
-    origin_kind: speaker
-    origin: Sean
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6c793118-3395-447d-b6e6-487e94de82de
-    title: 2023 United States congressional hearing on UAPs (26 July)
-    slug: 2023-united-states-congressional-hearing-on-uaps-26-july
-  - node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
-    title: 2024 United States congressional hearing on UAPs (13 November)
-    slug: 2024-united-states-congressional-hearing-on-uaps-13-november
-  date: '2023-07-26'
-  date_end: null
-  location_in_record: 00:07:13.4-00:07:20.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
-    record_title: UAPs in Washington - I wasn't supposed to be there..
-    record_date: '2024-11-24'
-    record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
-    content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
-    friendly_name: null
-- claim_id: c61dd28a-c34a-432c-81c5-c13c80db05b7
-  claim_hash: ec542a49929bc247e06733bd6eff231562f84e591382b09c733992a04eb63b99
-  content: Public perception and public interest in the Unidentified Aerial Phenomena
-    (UAP) topic increased significantly between the 2023 United States congressional
-    hearing on UAPs (26 July) and the 2024 United States congressional hearing on
-    UAPs (13 November).
-  original_excerpt: some big big changes in public perception and even public interest
-    the topic seems to be a lot more in the zeitgeist
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e56d277c-d570-40f3-a409-73a86e5616ac
-    title: Sean
-  provenance_chain:
-    origin_kind: speaker
-    origin: Sean
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6c793118-3395-447d-b6e6-487e94de82de
-    title: 2023 United States congressional hearing on UAPs (26 July)
-    slug: 2023-united-states-congressional-hearing-on-uaps-26-july
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
-    title: 2024 United States congressional hearing on UAPs (13 November)
-    slug: 2024-united-states-congressional-hearing-on-uaps-13-november
-  date: null
-  date_end: null
-  location_in_record: 00:07:21.4-00:07:26.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
-    record_title: UAPs in Washington - I wasn't supposed to be there..
-    record_date: '2024-11-24'
-    record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
-    content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
-    friendly_name: null
-- claim_id: bfbbf7a2-6be8-4207-bb9d-5dce65d68c23
-  claim_hash: c202aacb10544afb1a757c25101255fbc9666dab5568f7469c03df5cb2c9fb83
-  content: Sean considers Jesse Michaels to be the most important voice in the UFO
-    domain, describing him as more thorough in research and more multidisciplinary
-    than others in the field.
-  original_excerpt: Jesse's the most important voice in the UFO domain right now.
-    There's nobody that researches deeper than him. There's nobody that has the multidisciplinary
-    approach that he has.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e56d277c-d570-40f3-a409-73a86e5616ac
-    title: Sean
-  provenance_chain:
-    origin_kind: speaker
-    origin: Sean
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-    slug: jesse-mitchells
+    shared_claims: 1
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
+    node_type: topic
     slug: unidentified-flying-object-ufo
-  - node_id: e56d277c-d570-40f3-a409-73a86e5616ac
-    title: Sean
-    slug: sean
-  date: null
-  date_end: null
-  location_in_record: 00:17:51.3-00:18:00.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
-    record_title: UAPs in Washington - I wasn't supposed to be there..
-    record_date: '2024-11-24'
-    record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
-    content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 26a1ea14-513a-4a56-ad7d-bc51989c4b6c
+    title: iridium flare
+    node_type: topic
+    slug: iridium-flare
+    shared_claims: 1
+claims:
+  - claim_id: 6e2e0925-cd46-4fae-af41-5f8b8873cb1d
+    claim_hash: a3c4e39ec19654922295ef98fc2c84f06c607211fe7f6ec97319ee3ebcc77b61
+    content: Sean works in the aerospace industry.
+    original_excerpt: i talked to one of my close friends uh my buddy sean and he's he works in aerospace industry
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: a738ad53-c15b-4aa6-925f-2015c3166309
+      title: Jesse DeLuca
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse DeLuca
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a738ad53-c15b-4aa6-925f-2015c3166309
+        title: Jesse DeLuca
+        slug: jesse-deluca
+      - node_id: e56d277c-d570-40f3-a409-73a86e5616ac
+        title: Sean
+        slug: sean
+    date: null
+    date_end: null
+    location_in_record: 00:21:54.6-00:21:59.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
+      record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
+      record_date: '2024-09-05'
+      record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
+      content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
+      friendly_name: null
+  - claim_id: f5f97209-fc49-45d2-9533-7ef20485b319
+    claim_hash: e4cd5d071290299d93b16ecccbcaec859605367423d831245a9b2199ed8f7604
+    content: Sean considers an iridium flare a possible explanation for the light Jesse DeLuca saw during his May 2024 Quebec
+      drone UAP encounter.
+    original_excerpt: my buddy sean and he's he works in aerospace industry and he said it's he said he thinks it's an iridium
+      flare
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: a738ad53-c15b-4aa6-925f-2015c3166309
+      title: Jesse DeLuca
+    provenance_chain:
+      origin_kind: named
+      origin: Sean
+      relay:
+        - Jesse DeLuca
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 26a1ea14-513a-4a56-ad7d-bc51989c4b6c
+        title: iridium flare
+        slug: iridium-flare
+      - node_id: d41f1695-f15a-45c4-9b6c-62da03484381
+        title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP) encounter
+        slug: jesse-delucas-2024-05-quebec-drone-unidentified-aerial-phenomena-uap-encounter
+      - node_id: e56d277c-d570-40f3-a409-73a86e5616ac
+        title: Sean
+        slug: sean
+    date: null
+    date_end: null
+    location_in_record: 00:21:56.1-00:22:02.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
+      record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
+      record_date: '2024-09-05'
+      record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
+      content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
+      friendly_name: null
+  - claim_id: 90ce761a-ba46-4dd9-b0e1-74f62ab41eb2
+    claim_hash: 0553b4a3aa47024f3721b5e1c1e3aae1144bd10f30200d005e793298d878d17e
+    content: Jesse Michaels's YouTube channel received a strike after the video featuring David Grush was taken down.
+    original_excerpt: And not just that it got taken down and then you got a strike on your channel, which is like yeah That
+      feels like that's so extreme.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e56d277c-d570-40f3-a409-73a86e5616ac
+      title: Sean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Sean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+    date: null
+    date_end: null
+    location_in_record: 00:06:08.4-00:06:16.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+      record_title: UAPs in Washington - I wasn't supposed to be there..
+      record_date: '2024-11-24'
+      record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+      content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+      friendly_name: null
+  - claim_id: 0b98d3b5-f7bf-4024-b3ce-c48c82d4531c
+    claim_hash: 305c32686c44be4cbdfb5c8483aa091bbd63612cc4857e802abfdbab6c3918df
+    content: The 2024 United States congressional hearing on UAPs (13 November) was held at the Rayburn House Office Building,
+      hosted by the Oversight Committee.
+    original_excerpt: we are at rayburn house office building where the uh the oversight committee hearing is going to happen
+      on uap and ufos
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e56d277c-d570-40f3-a409-73a86e5616ac
+      title: Sean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Sean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+        title: United States House Committee on Oversight and Accountability
+        slug: united-states-house-committee-on-oversight-and-accountability
+      - node_id: d6c976e4-72f8-4dcd-9a97-e38804ec50a0
+        title: USA, Washington, D.C., Rayburn House Office Building
+        slug: washington-dc-rayburn-house-office-building-usa
+      - node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
+        title: 2024 United States congressional hearing on UAPs (13 November)
+        slug: 2024-united-states-congressional-hearing-on-uaps-13-november
+    date: '2024-11-13'
+    date_end: null
+    location_in_record: 00:07:03.9-00:07:12.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+      record_title: UAPs in Washington - I wasn't supposed to be there..
+      record_date: '2024-11-24'
+      record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+      content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+      friendly_name: null
+  - claim_id: c814924c-1084-41ba-b02b-682e7133ddf8
+    claim_hash: fe23032bef1c0f15d11c38c1f6a4bcb7cef9d1885954381fe66233987efbbc12
+    content: The 2023 United States congressional hearing on UAPs occurred on 2023-07-26, about a year and a half before the
+      2024 United States congressional hearing on UAPs (13 November).
+    original_excerpt: the last one happened july 26th 2023 it is november 13th 2024 so about a year and a half has passed
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e56d277c-d570-40f3-a409-73a86e5616ac
+      title: Sean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Sean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c793118-3395-447d-b6e6-487e94de82de
+        title: 2023 United States congressional hearing on UAPs (26 July)
+        slug: 2023-united-states-congressional-hearing-on-uaps-26-july
+      - node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
+        title: 2024 United States congressional hearing on UAPs (13 November)
+        slug: 2024-united-states-congressional-hearing-on-uaps-13-november
+    date: '2023-07-26'
+    date_end: null
+    location_in_record: 00:07:13.4-00:07:20.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+      record_title: UAPs in Washington - I wasn't supposed to be there..
+      record_date: '2024-11-24'
+      record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+      content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+      friendly_name: null
+  - claim_id: c61dd28a-c34a-432c-81c5-c13c80db05b7
+    claim_hash: ec542a49929bc247e06733bd6eff231562f84e591382b09c733992a04eb63b99
+    content: Public perception and public interest in the Unidentified Aerial Phenomena (UAP) topic increased significantly
+      between the 2023 United States congressional hearing on UAPs (26 July) and the 2024 United States congressional hearing
+      on UAPs (13 November).
+    original_excerpt: some big big changes in public perception and even public interest the topic seems to be a lot more
+      in the zeitgeist
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e56d277c-d570-40f3-a409-73a86e5616ac
+      title: Sean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Sean
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c793118-3395-447d-b6e6-487e94de82de
+        title: 2023 United States congressional hearing on UAPs (26 July)
+        slug: 2023-united-states-congressional-hearing-on-uaps-26-july
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
+        title: 2024 United States congressional hearing on UAPs (13 November)
+        slug: 2024-united-states-congressional-hearing-on-uaps-13-november
+    date: null
+    date_end: null
+    location_in_record: 00:07:21.4-00:07:26.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+      record_title: UAPs in Washington - I wasn't supposed to be there..
+      record_date: '2024-11-24'
+      record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+      content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+      friendly_name: null
+  - claim_id: bfbbf7a2-6be8-4207-bb9d-5dce65d68c23
+    claim_hash: c202aacb10544afb1a757c25101255fbc9666dab5568f7469c03df5cb2c9fb83
+    content: Sean considers Jesse Michaels to be the most important voice in the UFO domain, describing him as more thorough
+      in research and more multidisciplinary than others in the field.
+    original_excerpt: Jesse's the most important voice in the UFO domain right now. There's nobody that researches deeper
+      than him. There's nobody that has the multidisciplinary approach that he has.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e56d277c-d570-40f3-a409-73a86e5616ac
+      title: Sean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Sean
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: e56d277c-d570-40f3-a409-73a86e5616ac
+        title: Sean
+        slug: sean
+    date: null
+    date_end: null
+    location_in_record: 00:17:51.3-00:18:00.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+      record_title: UAPs in Washington - I wasn't supposed to be there..
+      record_date: '2024-11-24'
+      record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+      content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+      friendly_name: null

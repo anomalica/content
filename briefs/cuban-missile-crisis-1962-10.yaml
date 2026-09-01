@@ -9,524 +9,536 @@ page:
   claim_count: 11
   claim_count_total: 11
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 11
+  tokens_estimated: 3233
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 11
 related_nodes:
-- node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-  title: Cuba
-  node_type: place
-  slug: cuba
-  shared_claims: 6
-- node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
-  title: John Fitzgerald Kennedy
-  node_type: person
-  slug: john-fitzgerald-kennedy
-  shared_claims: 2
-- node_id: ff3b3953-e566-48ff-933f-8c176d32db54
-  title: John XXIII
-  node_type: person
-  slug: john-xxiii
-  shared_claims: 2
-- node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
-  title: Nikita Khrushchev
-  node_type: person
-  slug: nikita-khrushchev
-  shared_claims: 2
-- node_id: f612ccb6-6742-42e5-bd05-97ab49801197
-  title: Russia, Moscow
-  node_type: place
-  slug: moscow-russia
-  shared_claims: 2
-- node_id: d97aed00-0c54-4966-958c-c62dffcedfb9
-  title: Soviet Union
-  node_type: place
-  slug: soviet-union
-  shared_claims: 2
-- node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
-  title: Third Secret of Fatima
-  node_type: document
-  slug: third-secret-of-fatima
-  shared_claims: 2
-- node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-  title: U Thant
-  node_type: person
-  slug: u-thant
-  shared_claims: 2
-- node_id: dc23e6d8-444d-4e0e-bba8-2d5492d51c06
-  title: USA, Washington, D.C.
-  node_type: place
-  slug: washington-dc-usa
-  shared_claims: 2
-- node_id: deaa3b19-d0f4-42bd-9abe-633d51bee95e
-  title: Diplomatic version of the Third Secret of Fatima (European News, 1963-10-15)
-  node_type: document
-  slug: 1963-10-15-diplomatic-version-of-the-third-secret-of-fatima-european-news
-  shared_claims: 1
-- node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-  title: Michael Hesemann
-  node_type: person
-  slug: michael-hesemann
-  shared_claims: 1
-- node_id: 06d4e2fc-77bb-4c00-bb30-de3462fb11b1
-  title: Second Vatican Council
-  node_type: event
-  slug: second-vatican-council
-  shared_claims: 1
-- node_id: 134433ac-c317-4826-9edd-5f732f74521c
-  title: United Kingdom, London
-  node_type: place
-  slug: london-united-kingdom
-  shared_claims: 1
-- node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
-  title: United Nations (UN)
-  node_type: organisation
-  slug: united-nations-un
-  shared_claims: 1
-- node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
-  title: United States
-  node_type: place
-  slug: united-states
-  shared_claims: 1
-- node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
-  title: Vatican
-  node_type: organisation
-  slug: vatican
-  shared_claims: 1
-claims:
-- claim_id: a05c997d-c1f0-4da0-8587-0c75532f0ce0
-  claim_hash: f020f24ba3aaabcdfdb8350ef2136be9458201746623a97fcb463e66cf4f9a59
-  content: In 1962-10, the Cuban Missile Crisis began when President John F. Kennedy
-    announced that the United States had discovered and photographed the setting up
-    of Soviet medium-range missiles on the island of Cuba.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
   - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
     title: Cuba
+    node_type: place
     slug: cuba
+    shared_claims: 6
   - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
     title: John Fitzgerald Kennedy
+    node_type: person
     slug: john-fitzgerald-kennedy
-  - node_id: d97aed00-0c54-4966-958c-c62dffcedfb9
-    title: Soviet Union
-    slug: soviet-union
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  date: 1962-10
-  date_end: null
-  location_in_record: ch17:1173-1339
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: a30471e3-76e4-4352-82da-96e36599288e
-  claim_hash: 9c552445915990454a8644ad2cffcf1c7337922b1cd98a552efc0d12f2df8d28
-  content: During the Cuban Missile Crisis, President John F. Kennedy responded by
-    sending U.S. warships to Cuba.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
-    title: John Fitzgerald Kennedy
-    slug: john-fitzgerald-kennedy
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  date: 1962-10
-  date_end: null
-  location_in_record: ch17:1345-1389
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 9c0a5f4b-3f43-4c08-a8a6-46cb9083e8b5
-  claim_hash: 71b4eca7f4d6325644df1701ef6dc9e6dc300c0648252b9a79c06982710024c0
-  content: During the Cuban Missile Crisis, the Soviet Union and Cuba countered by
-    mobilising their armed forces.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: d97aed00-0c54-4966-958c-c62dffcedfb9
-    title: Soviet Union
-    slug: soviet-union
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  date: 1962-10
-  date_end: null
-  location_in_record: ch17:1395-1457
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
-  claim_hash: b6aa4108a781f7cdfd0459932a25478135d5bec2654486fe1401c4f6d859c068
-  content: United Nations Secretary General U Thant told the heads of state in Washington,
-    Havana, and Moscow that he would help mediate the Cuban Missile Crisis discussion,
-    at the request of forty-five other UN member nations.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
-    title: United Nations (UN)
-    slug: united-nations-un
-  - node_id: dc23e6d8-444d-4e0e-bba8-2d5492d51c06
-    title: USA, Washington, D.C.
-    slug: washington-dc-usa
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
+    shared_claims: 2
+  - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+    title: John XXIII
+    node_type: person
+    slug: john-xxiii
+    shared_claims: 2
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    node_type: person
+    slug: nikita-khrushchev
+    shared_claims: 2
   - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
     title: Russia, Moscow
+    node_type: place
     slug: moscow-russia
-  date: 1962-10
-  date_end: null
-  location_in_record: ch17:1653-1832
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 3abbc59f-3852-477d-8f45-6e48f2e216f0
-  claim_hash: 5a674f7df808e6b883f3ffbdfcd677900e703986fde9bbf990c24728ed766772
-  content: On 1962-10-25, Pope John XXIII appealed to the world, pleading for peace
-    during the Cuban Missile Crisis.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
-    title: John XXIII
-    slug: john-xxiii
-  date: '1962-10-25'
-  date_end: null
-  location_in_record: ch17:1841-1919
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 9d723809-bae4-4fbf-ba57-e261ea20aabf
-  claim_hash: be1592fffe94ea84644fce92e06a53c2f0a5a17be18c90d987522840c1c26b7d
-  content: During the Cuban Missile Crisis, tensions relaxed when Nikita Khrushchev
-    accepted U Thant's mediation offer and ordered Soviet vessels heading for Cuba
-    to change course.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
-    title: Nikita Khrushchev
-    slug: nikita-khrushchev
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  date: 1962-10
-  date_end: null
-  location_in_record: ch17:1926-2048
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: e6588c00-a9e2-4b4c-ae52-9ab8ec5d4657
-  claim_hash: 0522f70d75606f273041870df875d2e1dfba30de406b20504e51fea4c21eb52f
-  content: On 1962-10-28, Nikita Khrushchev agreed to dismantle the Soviet missiles
-    on Cuba, after extracting a guarantee from the United States that it would not
-    invade Cuba.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
-    title: Nikita Khrushchev
-    slug: nikita-khrushchev
-  - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
-    title: United States
-    slug: united-states
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  date: '1962-10-28'
-  date_end: null
-  location_in_record: ch17:2128-2255
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 1a3112ff-7e3b-42d6-bacf-c183f578a0cc
-  claim_hash: 568de6b77bb9aac371fadfa6e8d8f90fdd501918225aece6e4970ad56f994fe3
-  content: Michael Hesemann considers it unknown whether the Fatima message actually
-    played a role in the diplomacy of the Cuban Missile Crisis.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-    title: Michael Hesemann
-  provenance_chain:
-    origin_kind: speaker
-    origin: Hesemann, Michael
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-    title: Michael Hesemann
-    slug: michael-hesemann
+    shared_claims: 2
+  - node_id: d97aed00-0c54-4966-958c-c62dffcedfb9
+    title: Soviet Union
+    node_type: place
+    slug: soviet-union
+    shared_claims: 2
   - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
     title: Third Secret of Fatima
+    node_type: document
     slug: third-secret-of-fatima
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
-    title: John XXIII
-    slug: john-xxiii
-  date: null
-  date_end: null
-  location_in_record: ch17:2349-2597
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: bb204a48-7cf7-4919-972c-1780814d51fd
-  claim_hash: b10f2794b54e717b8c565733fd5d31930a4e5b983ed7b6963b99c8605194d9c7
-  content: The diplomatic version of the Third Secret of Fatima had allegedly been
-    sent by the Vatican to the governments of Washington, London, and Moscow during
-    the height of the Cuban Missile Crisis (1962-10) a year before its publication.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: European News magazine
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 134433ac-c317-4826-9edd-5f732f74521c
-    title: United Kingdom, London
-    slug: london-united-kingdom
-  - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
-    title: Vatican
-    slug: vatican
-  - node_id: dc23e6d8-444d-4e0e-bba8-2d5492d51c06
-    title: USA, Washington, D.C.
-    slug: washington-dc-usa
+    shared_claims: 2
+  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+    title: U Thant
+    node_type: person
+    slug: u-thant
+    shared_claims: 2
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    node_type: place
+    slug: district-of-columbia-washington-usa
+    shared_claims: 2
   - node_id: deaa3b19-d0f4-42bd-9abe-633d51bee95e
     title: Diplomatic version of the Third Secret of Fatima (European News, 1963-10-15)
+    node_type: document
     slug: 1963-10-15-diplomatic-version-of-the-third-secret-of-fatima-european-news
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
-    title: Russia, Moscow
-    slug: moscow-russia
-  date: null
-  date_end: null
-  location_in_record: ch17:302-453
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 015bab1a-c776-422a-849f-7e66a1aa9d61
-  claim_hash: a9766be753d819d22f094f145e44326ab83f5cb2ffb9e8d95ac54edae6f0455f
-  content: 'During the early 1960s, two events occurred that could be relevant to
-    understanding the Third Secret of Fatima: the Cuban Missile Crisis and the Second
-    Vatican Council.'
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    shared_claims: 1
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
     title: Michael Hesemann
-  provenance_chain:
-    origin_kind: speaker
-    origin: Hesemann, Michael
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    node_type: person
+    slug: michael-hesemann
+    shared_claims: 1
   - node_id: 06d4e2fc-77bb-4c00-bb30-de3462fb11b1
     title: Second Vatican Council
+    node_type: event
     slug: second-vatican-council
-  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
-    title: Third Secret of Fatima
-    slug: third-secret-of-fatima
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  date: null
-  date_end: null
-  location_in_record: ch18:3644-3848
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: d8051965-15c7-4e8d-b1a4-f5104bc47061
-  claim_hash: 95977c43d4fcac54d59c969ed405758b31c84b30132bc25e55c5e9d073e4cb2f
-  content: The Cuban Missile Crisis in 1962 brought the United States and the Soviet
-    Union to the brink of nuclear war before both nations stepped back.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  date: 1962-10
-  date_end: null
-  location_in_record: ch10:65953-66131
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 134433ac-c317-4826-9edd-5f732f74521c
+    title: UK, London
+    node_type: place
+    slug: london-uk
+    shared_claims: 1
+  - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+    title: USA
+    node_type: place
+    slug: usa
+    shared_claims: 1
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    node_type: organisation
+    slug: united-nations-un
+    shared_claims: 1
+  - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+    title: Vatican
+    node_type: organisation
+    slug: vatican
+    shared_claims: 1
+claims:
+  - claim_id: a05c997d-c1f0-4da0-8587-0c75532f0ce0
+    claim_hash: f020f24ba3aaabcdfdb8350ef2136be9458201746623a97fcb463e66cf4f9a59
+    content: In 1962-10, the Cuban Missile Crisis began when President John F. Kennedy announced that the United States had
+      discovered and photographed the setting up of Soviet medium-range missiles on the island of Cuba.
+    original_excerpt: The crisis was set off when President Kennedy announced that the U.S. had discovered and photographed
+      the setting up of Soviet medium-range missiles on the island of Cuba.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+      - node_id: d97aed00-0c54-4966-958c-c62dffcedfb9
+        title: Soviet Union
+        slug: soviet-union
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+    date: 1962-10
+    date_end: null
+    location_in_record: ch17:1173-1339
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: a30471e3-76e4-4352-82da-96e36599288e
+    claim_hash: 9c552445915990454a8644ad2cffcf1c7337922b1cd98a552efc0d12f2df8d28
+    content: During the Cuban Missile Crisis, President John F. Kennedy responded by sending U.S. warships to Cuba.
+    original_excerpt: Kennedy reacted by sending U.S. warships to Cuba.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+    date: 1962-10
+    date_end: null
+    location_in_record: ch17:1345-1389
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 9c0a5f4b-3f43-4c08-a8a6-46cb9083e8b5
+    claim_hash: 71b4eca7f4d6325644df1701ef6dc9e6dc300c0648252b9a79c06982710024c0
+    content: During the Cuban Missile Crisis, the Soviet Union and Cuba countered by mobilising their armed forces.
+    original_excerpt: The Soviet Union and Cuba countered by mobilizing their armed forces.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: d97aed00-0c54-4966-958c-c62dffcedfb9
+        title: Soviet Union
+        slug: soviet-union
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+    date: 1962-10
+    date_end: null
+    location_in_record: ch17:1395-1457
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
+    claim_hash: b6aa4108a781f7cdfd0459932a25478135d5bec2654486fe1401c4f6d859c068
+    content: United Nations Secretary General U Thant told the heads of state in Washington, Havana, and Moscow that he would
+      help mediate the Cuban Missile Crisis discussion, at the request of forty-five other UN member nations.
+    original_excerpt: The UN secretary general U Thant told the heads of state in Washington, Havana, and Moscow that he would
+      help mediate the discussion, at the request of forty-five other UN member nations.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+        title: United Nations (UN)
+        slug: united-nations-un
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+      - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
+        title: Russia, Moscow
+        slug: moscow-russia
+    date: 1962-10
+    date_end: null
+    location_in_record: ch17:1653-1832
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 3abbc59f-3852-477d-8f45-6e48f2e216f0
+    claim_hash: 5a674f7df808e6b883f3ffbdfcd677900e703986fde9bbf990c24728ed766772
+    content: On 1962-10-25, Pope John XXIII appealed to the world, pleading for peace during the Cuban Missile Crisis.
+    original_excerpt: Pope John XXIII appealed to the world on October 25, desperately pleading for peace.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1962-10-25'
+    date_end: null
+    location_in_record: ch17:1841-1919
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 9d723809-bae4-4fbf-ba57-e261ea20aabf
+    claim_hash: be1592fffe94ea84644fce92e06a53c2f0a5a17be18c90d987522840c1c26b7d
+    content: During the Cuban Missile Crisis, tensions relaxed when Nikita Khrushchev accepted U Thant's mediation offer and
+      ordered Soviet vessels heading for Cuba to change course.
+    original_excerpt: The tension relaxed when Nikita Khrushchev accepted U Thant's offer and ordered Soviet vessels heading
+      for Cuba to change course.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+        title: Nikita Khrushchev
+        slug: nikita-khrushchev
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+    date: 1962-10
+    date_end: null
+    location_in_record: ch17:1926-2048
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: e6588c00-a9e2-4b4c-ae52-9ab8ec5d4657
+    claim_hash: 0522f70d75606f273041870df875d2e1dfba30de406b20504e51fea4c21eb52f
+    content: On 1962-10-28, Nikita Khrushchev agreed to dismantle the Soviet missiles on Cuba, after extracting a guarantee
+      from the United States that it would not invade Cuba.
+    original_excerpt: Finally on October 28 Khrushchev agreed to this as well, after extracting a guarantee from the U.S.
+      that they would not invade Cuba.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+        title: Nikita Khrushchev
+        slug: nikita-khrushchev
+      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+        title: USA
+        slug: usa
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+    date: '1962-10-28'
+    date_end: null
+    location_in_record: ch17:2128-2255
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 1a3112ff-7e3b-42d6-bacf-c183f578a0cc
+    claim_hash: 568de6b77bb9aac371fadfa6e8d8f90fdd501918225aece6e4970ad56f994fe3
+    content: Michael Hesemann considers it unknown whether the Fatima message actually played a role in the diplomacy of the
+      Cuban Missile Crisis.
+    original_excerpt: Did the Fatima message really play a role in this drama? Did John XXIII reveal some of its contents
+      to the leaders of the major powers during the Cuban crisis? And if he did, did this religious message actually have
+      an influence on them? We do not know.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch17:2349-2597
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: bb204a48-7cf7-4919-972c-1780814d51fd
+    claim_hash: b10f2794b54e717b8c565733fd5d31930a4e5b983ed7b6963b99c8605194d9c7
+    content: The diplomatic version of the Third Secret of Fatima had allegedly been sent by the Vatican to the governments
+      of Washington, London, and Moscow during the height of the Cuban Missile Crisis (1962-10) a year before its publication.
+    original_excerpt: which had allegedly been sent by the Vatican to the governments of Washington, London, and Moscow during
+      the height of the Cuban Missile Crisis a year earlier
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: European News magazine
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 134433ac-c317-4826-9edd-5f732f74521c
+        title: UK, London
+        slug: london-uk
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: deaa3b19-d0f4-42bd-9abe-633d51bee95e
+        title: Diplomatic version of the Third Secret of Fatima (European News, 1963-10-15)
+        slug: 1963-10-15-diplomatic-version-of-the-third-secret-of-fatima-european-news
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+      - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
+        title: Russia, Moscow
+        slug: moscow-russia
+    date: null
+    date_end: null
+    location_in_record: ch17:302-453
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 015bab1a-c776-422a-849f-7e66a1aa9d61
+    claim_hash: a9766be753d819d22f094f145e44326ab83f5cb2ffb9e8d95ac54edae6f0455f
+    content: 'During the early 1960s, two events occurred that could be relevant to understanding the Third Secret of Fatima:
+      the Cuban Missile Crisis and the Second Vatican Council.'
+    original_excerpt: 'During the early sixties two events occurred that could be relevant: the threat of an atomic war (the
+      Cuba crisis) and the Second Vatican Council, with its consequences regarding the beliefs of Catholics everywhere.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d4e2fc-77bb-4c00-bb30-de3462fb11b1
+        title: Second Vatican Council
+        slug: second-vatican-council
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+    date: null
+    date_end: null
+    location_in_record: ch18:3644-3848
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: d8051965-15c7-4e8d-b1a4-f5104bc47061
+    claim_hash: 95977c43d4fcac54d59c969ed405758b31c84b30132bc25e55c5e9d073e4cb2f
+    content: The Cuban Missile Crisis in 1962 brought the United States and the Soviet Union to the brink of nuclear war before
+      both nations stepped back.
+    original_excerpt: The situation was surely made worse in 1962 by the Cuban Missile Crisis, in which both nations stared
+      down the barrel of nuclear annihilation and carefully stepped back from the brink
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+    date: 1962-10
+    date_end: null
+    location_in_record: ch10:65953-66131
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null

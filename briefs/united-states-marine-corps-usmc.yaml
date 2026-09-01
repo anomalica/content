@@ -9,500 +9,508 @@ page:
   claim_count: 11
   claim_count_total: 11
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 11
+  tokens_estimated: 3022
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 11
 related_nodes:
-- node_id: c09e3558-1732-4676-a218-d67d285d98ef
-  title: David Fravor
-  node_type: person
-  slug: david-fravor
-  shared_claims: 4
-- node_id: 55f35a8b-84bc-46d6-8b9b-f131810f7262
-  title: 1st Marine Division
-  node_type: organisation
-  slug: 1st-marine-division
-  shared_claims: 1
-- node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-  title: Alex Dietrich
-  node_type: person
-  slug: alex-dietrich
-  shared_claims: 1
-- node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
-  title: Bruce Leininger
-  node_type: person
-  slug: bruce-leininger
-  shared_claims: 1
-- node_id: 86a1217c-882c-4f1e-b6a5-9afd3e3b5b4a
-  title: Corsair
-  node_type: object
-  slug: corsair
-  shared_claims: 1
-- node_id: c97d75c4-feb8-4d22-a0f0-a1da89b7007f
-  title: Cuba, Guantanamo Bay
-  node_type: place
-  slug: guantanamo-bay-cuba
-  shared_claims: 1
-- node_id: dbcfae70-6035-4ee9-92ef-076cd9b5f050
-  title: Japan, Iwo Jima
-  node_type: place
-  slug: iwo-jima-japan
-  shared_claims: 1
-- node_id: eb990ad2-d234-45c3-a47f-ce12bc2da79c
-  title: Michael Higgins
-  node_type: person
-  slug: michael-higgins
-  shared_claims: 1
-- node_id: 12a9f354-2e71-4792-8b5e-dc43bcdbdaa1
-  title: Ohio State University
-  node_type: organisation
-  slug: ohio-state-university
-  shared_claims: 1
-- node_id: b620c006-94aa-4b1c-8b71-eb2f2c7c769d
-  title: The Battle for Iwo Jima
-  node_type: document
-  slug: the-battle-for-iwo-jima
-  shared_claims: 1
-- node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
-  title: Tim Burchett
-  node_type: person
-  slug: tim-burchett
-  shared_claims: 1
-- node_id: 8643aa4c-c753-4f1d-899f-67b9548e9d31
-  title: USA, Pennsylvania
-  node_type: place
-  slug: pennsylvania-usa
-  shared_claims: 1
-- node_id: 54a79078-47bf-4ad9-969c-b9861018da0c
-  title: USS Natoma Bay
-  node_type: object
-  slug: uss-natoma-bay
-  shared_claims: 1
-- node_id: 76248a03-7d4e-4fdb-8c91-412ba73dc575
-  title: United States Naval Academy
-  node_type: organisation
-  slug: united-states-naval-academy
-  shared_claims: 1
-- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-  title: United States Navy (USN)
-  node_type: organisation
-  slug: united-states-navy-usn
-  shared_claims: 1
-claims:
-- claim_id: 43fec53b-cbf5-4e7f-a75b-a143762b79e0
-  claim_hash: 8aea8ac3583e5ec35e9815d0d0d41157b0e3d755327305e4a145242dbde72aec
-  content: Bruce Leininger ordered the book The Battle for Iwo Jima as a Christmas
-    present for his father, a former United States Marine, who lived in Pennsylvania
-    and was only at the Leininger house once during these events.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f912810-85b7-4e73-a97f-f31901933301
-    title: United States Marine Corps (USMC)
-    slug: united-states-marine-corps-usmc
-  - node_id: 8643aa4c-c753-4f1d-899f-67b9548e9d31
-    title: USA, Pennsylvania
-    slug: pennsylvania-usa
-  - node_id: b620c006-94aa-4b1c-8b71-eb2f2c7c769d
-    title: The Battle for Iwo Jima
-    slug: the-battle-for-iwo-jima
-  - node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
-    title: Bruce Leininger
-    slug: bruce-leininger
-  date: null
-  date_end: null
-  location_in_record: ch9:11260-11455
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: b877e156-1f19-4797-8584-6b9d4e15549c
-  claim_hash: 296a38aa62103900ea482ac935bb744ba423ec548a2407345be2a7c93cd88b6c
-  content: The USS Natoma Bay was at Iwo Jima, Japan to support the United States
-    Marine Corps invasion there in March 1945.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
-    title: Bruce Leininger
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bruce Leininger
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f912810-85b7-4e73-a97f-f31901933301
-    title: United States Marine Corps (USMC)
-    slug: united-states-marine-corps-usmc
-  - node_id: 54a79078-47bf-4ad9-969c-b9861018da0c
-    title: USS Natoma Bay
-    slug: uss-natoma-bay
-  - node_id: dbcfae70-6035-4ee9-92ef-076cd9b5f050
-    title: Japan, Iwo Jima
-    slug: iwo-jima-japan
-  date: 1945-03
-  date_end: null
-  location_in_record: ch9:13505-13615
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 71b4630f-c078-4438-8cd8-999b3fa8fa64
-  claim_hash: 0dd5d63ac5f1c0ef196ece158bd1644aeef5281b04272131f9695b4db95ee997
-  content: The Corsair was an American fighter aircraft used primarily by the United
-    States Marine Corps, and also the United States Navy, in World War II.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f912810-85b7-4e73-a97f-f31901933301
-    title: United States Marine Corps (USMC)
-    slug: united-states-marine-corps-usmc
-  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-    title: United States Navy (USN)
-    slug: united-states-navy-usn
-  - node_id: 86a1217c-882c-4f1e-b6a5-9afd3e3b5b4a
-    title: Corsair
-    slug: corsair
-  date: null
-  date_end: null
-  location_in_record: ch9:9968-10088
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: e0c19b31-1f03-4e51-857e-4df9696d5b2d
-  claim_hash: 59d8f6f63a48c39fd31831c2834e95b8dd9ffe59e760e8ba6b15194772f612f8
-  content: David Fravor was first enlisted in the United States Marine Corps.
-  original_excerpt: first I was in, I was enlisted. I was a Marine.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f912810-85b7-4e73-a97f-f31901933301
-    title: United States Marine Corps (USMC)
-    slug: united-states-marine-corps-usmc
   - node_id: c09e3558-1732-4676-a218-d67d285d98ef
     title: David Fravor
+    node_type: person
     slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:12:17.7-00:12:19.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 1c75f2f9-0127-47c1-a0e4-82dda115d7c9
-  claim_hash: e6c3126f99b2b9d3361a13fb03ab109ed1147a1b48b8dd4ca7e5c04db968cd0b
-  content: The United States Marine Corps recommended David Fravor to attend the United
-    States Naval Academy.
-  original_excerpt: the Marines actually sent me, recommended me to go to the Naval
-    Academy.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f912810-85b7-4e73-a97f-f31901933301
-    title: United States Marine Corps (USMC)
-    slug: united-states-marine-corps-usmc
-  - node_id: 76248a03-7d4e-4fdb-8c91-412ba73dc575
-    title: United States Naval Academy
-    slug: united-states-naval-academy
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:12:22.6-00:12:26.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: f3b805b7-51e6-417f-9deb-1211d69e0353
-  claim_hash: 814893df63970378f8f960845a6a7af647869019f956b18b8ad6264fd1ff70ae
-  content: David Fravor considered staying in the United States Marine Corps because
-    he loved the Corps and viewed it as a professional organisation.
-  original_excerpt: I was going to stay in the Marines. I really wanted to go. Man,
-    I love the Corps.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f912810-85b7-4e73-a97f-f31901933301
-    title: United States Marine Corps (USMC)
-    slug: united-states-marine-corps-usmc
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:18:11.6-00:18:15.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: cf1561e0-e851-48a9-be96-9004291b58d4
-  claim_hash: 002fbed5b5cfda5ff0dea37503c0b0b99b113f6b268640d4359ba462ce086b22
-  content: David Fravor was accepted into a natural resources programme at Ohio State
-    University before he enlisted in the United States Marine Corps.
-  original_excerpt: when I was gonna go to college before I enlisted in the Marine
-    Corps, I was accepted into natural resources at Ohio State.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f912810-85b7-4e73-a97f-f31901933301
-    title: United States Marine Corps (USMC)
-    slug: united-states-marine-corps-usmc
-  - node_id: 12a9f354-2e71-4792-8b5e-dc43bcdbdaa1
-    title: Ohio State University
-    slug: ohio-state-university
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 03:43:16.8-03:43:22.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 3b753630-8517-46bc-be0d-850e554e9679
-  claim_hash: 72e28ea0b22cb7739f3a45bfe36dd8fea87192cb1a867fc8936a7adca3fe022b
-  content: Tim Burchett's father served in the United States Marine Corps First Marine
-    Division.
-  original_excerpt: My daddy was United States Marine Corps First Marine Division.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
-    title: Tim Burchett
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tim Burchett
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f912810-85b7-4e73-a97f-f31901933301
-    title: United States Marine Corps (USMC)
-    slug: united-states-marine-corps-usmc
+    shared_claims: 4
   - node_id: 55f35a8b-84bc-46d6-8b9b-f131810f7262
     title: 1st Marine Division
+    node_type: organisation
     slug: 1st-marine-division
-  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
-    title: Tim Burchett
-    slug: tim-burchett
-  date: null
-  date_end: null
-  location_in_record: char:142136-142189
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: fb4c8734-6b64-4a99-914d-1eebe0a3490a
-  claim_hash: 5743f18286ba06898525cf713bc2aca0d6f61a243811bec5ae3b7f8fb02e1f86
-  content: Old reports existed from United States Marine Corps personnel stationed
-    at Guantanamo Bay, Cuba, describing strange lights descending along the no-man's-land
-    between the US and Cuban military zones.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: document
-    origin: reports from United States Marine Corps personnel stationed at Guantanamo
-      Bay
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0f912810-85b7-4e73-a97f-f31901933301
-    title: United States Marine Corps (USMC)
-    slug: united-states-marine-corps-usmc
-  - node_id: c97d75c4-feb8-4d22-a0f0-a1da89b7007f
-    title: Cuba, Guantanamo Bay
-    slug: guantanamo-bay-cuba
-  date: null
-  date_end: null
-  location_in_record: ch12:42443-42641
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 3b8a094e-d8f4-4f25-8b4b-b3e5158fcdeb
-  claim_hash: bb0022e5c23ea655542887d33a038f9c109a854d22ec7fab068fa80dac4d8c20
-  content: A few years after the 2004 USS Nimitz UAP encounter, Lue Elizondo heard
-    a story that Alex Dietrich had more confirmed kills in a period of time than the
-    entire United States Marine Corps.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: anonymous
-    origin: an unnamed person who told Lue Elizondo the story
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0f912810-85b7-4e73-a97f-f31901933301
-    title: United States Marine Corps (USMC)
-    slug: united-states-marine-corps-usmc
+    shared_claims: 1
   - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
     title: Alex Dietrich
+    node_type: person
     slug: alex-dietrich
-  date: null
-  date_end: null
-  location_in_record: ch15:5029-5210
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 1db5279f-3a7d-46a2-aa47-12113760e3cb
-  claim_hash: b389075eda0498ffc57e61066ad66c087739d258844b70fc08f670ed5df16d63
-  content: Michael Higgins served in the United States Marine Corps before becoming
-    an operator for a US intelligence agency.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f912810-85b7-4e73-a97f-f31901933301
-    title: United States Marine Corps (USMC)
-    slug: united-states-marine-corps-usmc
+    shared_claims: 1
+  - node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
+    title: Bruce Leininger
+    node_type: person
+    slug: bruce-leininger
+    shared_claims: 1
+  - node_id: 86a1217c-882c-4f1e-b6a5-9afd3e3b5b4a
+    title: Corsair
+    node_type: object
+    slug: corsair
+    shared_claims: 1
+  - node_id: c97d75c4-feb8-4d22-a0f0-a1da89b7007f
+    title: Cuba, Guantanamo Bay
+    node_type: place
+    slug: guantanamo-bay-cuba
+    shared_claims: 1
+  - node_id: dbcfae70-6035-4ee9-92ef-076cd9b5f050
+    title: Japan, Iwo Jima
+    node_type: place
+    slug: iwo-jima-japan
+    shared_claims: 1
   - node_id: eb990ad2-d234-45c3-a47f-ce12bc2da79c
     title: Michael Higgins
+    node_type: person
     slug: michael-higgins
-  date: null
-  date_end: null
-  location_in_record: ch16:18130-18240
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 12a9f354-2e71-4792-8b5e-dc43bcdbdaa1
+    title: Ohio State University
+    node_type: organisation
+    slug: ohio-state-university
+    shared_claims: 1
+  - node_id: b620c006-94aa-4b1c-8b71-eb2f2c7c769d
+    title: The Battle for Iwo Jima
+    node_type: document
+    slug: the-battle-for-iwo-jima
+    shared_claims: 1
+  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+    title: Tim Burchett
+    node_type: person
+    slug: tim-burchett
+    shared_claims: 1
+  - node_id: 8643aa4c-c753-4f1d-899f-67b9548e9d31
+    title: USA, Pennsylvania
+    node_type: place
+    slug: pennsylvania-usa
+    shared_claims: 1
+  - node_id: 54a79078-47bf-4ad9-969c-b9861018da0c
+    title: USS Natoma Bay
+    node_type: object
+    slug: uss-natoma-bay
+    shared_claims: 1
+  - node_id: 76248a03-7d4e-4fdb-8c91-412ba73dc575
+    title: United States Naval Academy
+    node_type: organisation
+    slug: united-states-naval-academy
+    shared_claims: 1
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 1
+claims:
+  - claim_id: 43fec53b-cbf5-4e7f-a75b-a143762b79e0
+    claim_hash: 8aea8ac3583e5ec35e9815d0d0d41157b0e3d755327305e4a145242dbde72aec
+    content: Bruce Leininger ordered the book The Battle for Iwo Jima as a Christmas present for his father, a former United
+      States Marine, who lived in Pennsylvania and was only at the Leininger house once during these events.
+    original_excerpt: which Bruce had ordered as a Christmas present for his father, a former marine. (James's grandfather
+      lived fourteen hundred miles away in Pennsylvania and was only at the house once during these events.)
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+        title: United States Marine Corps (USMC)
+        slug: united-states-marine-corps-usmc
+      - node_id: 8643aa4c-c753-4f1d-899f-67b9548e9d31
+        title: USA, Pennsylvania
+        slug: pennsylvania-usa
+      - node_id: b620c006-94aa-4b1c-8b71-eb2f2c7c769d
+        title: The Battle for Iwo Jima
+        slug: the-battle-for-iwo-jima
+      - node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
+        title: Bruce Leininger
+        slug: bruce-leininger
+    date: null
+    date_end: null
+    location_in_record: ch9:11260-11455
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b877e156-1f19-4797-8584-6b9d4e15549c
+    claim_hash: 296a38aa62103900ea482ac935bb744ba423ec548a2407345be2a7c93cd88b6c
+    content: The USS Natoma Bay was at Iwo Jima, Japan to support the United States Marine Corps invasion there in March 1945.
+    original_excerpt: he discovered that the Natoma Bay had been at Iwo Jima to support the invasion by US Marines there in
+      March 1945.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
+      title: Bruce Leininger
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bruce Leininger
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+        title: United States Marine Corps (USMC)
+        slug: united-states-marine-corps-usmc
+      - node_id: 54a79078-47bf-4ad9-969c-b9861018da0c
+        title: USS Natoma Bay
+        slug: uss-natoma-bay
+      - node_id: dbcfae70-6035-4ee9-92ef-076cd9b5f050
+        title: Japan, Iwo Jima
+        slug: iwo-jima-japan
+    date: 1945-03
+    date_end: null
+    location_in_record: ch9:13505-13615
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 71b4630f-c078-4438-8cd8-999b3fa8fa64
+    claim_hash: 0dd5d63ac5f1c0ef196ece158bd1644aeef5281b04272131f9695b4db95ee997
+    content: The Corsair was an American fighter aircraft used primarily by the United States Marine Corps, and also the United
+      States Navy, in World War II.
+    original_excerpt: The Corsair was an American fighter aircraft that was used primarily by the marines, but also the US
+      Navy, in World War II.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+        title: United States Marine Corps (USMC)
+        slug: united-states-marine-corps-usmc
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 86a1217c-882c-4f1e-b6a5-9afd3e3b5b4a
+        title: Corsair
+        slug: corsair
+    date: null
+    date_end: null
+    location_in_record: ch9:9968-10088
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: e0c19b31-1f03-4e51-857e-4df9696d5b2d
+    claim_hash: 59d8f6f63a48c39fd31831c2834e95b8dd9ffe59e760e8ba6b15194772f612f8
+    content: David Fravor was first enlisted in the United States Marine Corps.
+    original_excerpt: first I was in, I was enlisted. I was a Marine.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+        title: United States Marine Corps (USMC)
+        slug: united-states-marine-corps-usmc
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:12:17.7-00:12:19.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 1c75f2f9-0127-47c1-a0e4-82dda115d7c9
+    claim_hash: e6c3126f99b2b9d3361a13fb03ab109ed1147a1b48b8dd4ca7e5c04db968cd0b
+    content: The United States Marine Corps recommended David Fravor to attend the United States Naval Academy.
+    original_excerpt: the Marines actually sent me, recommended me to go to the Naval Academy.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+        title: United States Marine Corps (USMC)
+        slug: united-states-marine-corps-usmc
+      - node_id: 76248a03-7d4e-4fdb-8c91-412ba73dc575
+        title: United States Naval Academy
+        slug: united-states-naval-academy
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:12:22.6-00:12:26.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: f3b805b7-51e6-417f-9deb-1211d69e0353
+    claim_hash: 814893df63970378f8f960845a6a7af647869019f956b18b8ad6264fd1ff70ae
+    content: David Fravor considered staying in the United States Marine Corps because he loved the Corps and viewed it as
+      a professional organisation.
+    original_excerpt: I was going to stay in the Marines. I really wanted to go. Man, I love the Corps.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+        title: United States Marine Corps (USMC)
+        slug: united-states-marine-corps-usmc
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:18:11.6-00:18:15.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: cf1561e0-e851-48a9-be96-9004291b58d4
+    claim_hash: 002fbed5b5cfda5ff0dea37503c0b0b99b113f6b268640d4359ba462ce086b22
+    content: David Fravor was accepted into a natural resources programme at Ohio State University before he enlisted in the
+      United States Marine Corps.
+    original_excerpt: when I was gonna go to college before I enlisted in the Marine Corps, I was accepted into natural resources
+      at Ohio State.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+        title: United States Marine Corps (USMC)
+        slug: united-states-marine-corps-usmc
+      - node_id: 12a9f354-2e71-4792-8b5e-dc43bcdbdaa1
+        title: Ohio State University
+        slug: ohio-state-university
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 03:43:16.8-03:43:22.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 3b753630-8517-46bc-be0d-850e554e9679
+    claim_hash: 72e28ea0b22cb7739f3a45bfe36dd8fea87192cb1a867fc8936a7adca3fe022b
+    content: Tim Burchett's father served in the United States Marine Corps First Marine Division.
+    original_excerpt: My daddy was United States Marine Corps First Marine Division.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+      title: Tim Burchett
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tim Burchett
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+        title: United States Marine Corps (USMC)
+        slug: united-states-marine-corps-usmc
+      - node_id: 55f35a8b-84bc-46d6-8b9b-f131810f7262
+        title: 1st Marine Division
+        slug: 1st-marine-division
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+    date: null
+    date_end: null
+    location_in_record: char:142136-142189
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: fb4c8734-6b64-4a99-914d-1eebe0a3490a
+    claim_hash: 5743f18286ba06898525cf713bc2aca0d6f61a243811bec5ae3b7f8fb02e1f86
+    content: Old reports existed from United States Marine Corps personnel stationed at Guantanamo Bay, Cuba, describing strange
+      lights descending along the no-man's-land between the US and Cuban military zones.
+    original_excerpt: We even had old reports from Marines stationed at Guantanamo Bay, Cuba, who described strange lights
+      descending along the “no man’s land” between the US and Cuban military zones.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: document
+      origin: reports from United States Marine Corps personnel stationed at Guantanamo Bay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+        title: United States Marine Corps (USMC)
+        slug: united-states-marine-corps-usmc
+      - node_id: c97d75c4-feb8-4d22-a0f0-a1da89b7007f
+        title: Cuba, Guantanamo Bay
+        slug: guantanamo-bay-cuba
+    date: null
+    date_end: null
+    location_in_record: ch12:42443-42641
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 3b8a094e-d8f4-4f25-8b4b-b3e5158fcdeb
+    claim_hash: bb0022e5c23ea655542887d33a038f9c109a854d22ec7fab068fa80dac4d8c20
+    content: A few years after the 2004 USS Nimitz UAP encounter, Lue Elizondo heard a story that Alex Dietrich had more confirmed
+      kills in a period of time than the entire United States Marine Corps.
+    original_excerpt: A few years later, I heard a story that Alex had more confirmed kills in a period of time than the entire
+      US Marine Corps. I never knew if the story was true, but I would not doubt it.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed person who told Lue Elizondo the story
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+        title: United States Marine Corps (USMC)
+        slug: united-states-marine-corps-usmc
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+    date: null
+    date_end: null
+    location_in_record: ch15:5029-5210
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1db5279f-3a7d-46a2-aa47-12113760e3cb
+    claim_hash: b389075eda0498ffc57e61066ad66c087739d258844b70fc08f670ed5df16d63
+    content: Michael Higgins served in the United States Marine Corps before becoming an operator for a US intelligence agency.
+    original_excerpt: After leaving the US Marine Corps, he became an elite trigger puller for one of the three-letter intelligence
+      agencies.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+        title: United States Marine Corps (USMC)
+        slug: united-states-marine-corps-usmc
+      - node_id: eb990ad2-d234-45c3-a47f-ce12bc2da79c
+        title: Michael Higgins
+        slug: michael-higgins
+    date: null
+    date_end: null
+    location_in_record: ch16:18130-18240
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

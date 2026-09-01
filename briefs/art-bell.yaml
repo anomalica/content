@@ -1,1142 +1,1196 @@
 schema: anomalica/brief/1
-brief_hash: 701701e0433d5616696d422d00baf53c26e4629db1a61136e626dd1eac452538
+brief_hash: 3421c863ba6655d63b66f263239966de85259b16d171d8147488a2e49646ce13
 page:
   kind: entity
   node_id: 30795fa1-7470-496f-8db1-441be0c8750a
   node_type: person
   title: Art Bell
   slug: art-bell
-  claim_count: 24
-  claim_count_total: 24
+  claim_count: 25
+  claim_count_total: 25
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 25
+  tokens_estimated: 7695
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 25
 related_nodes:
-- node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
-  title: A Friend (anonymous army sergeant)
-  node_type: person
-  slug: a-friend-anonymous-army-sergeant
-  shared_claims: 6
-- node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-  title: Cydonia
-  node_type: place
-  slug: cydonia
-  shared_claims: 6
-- node_id: c43a35ec-a72d-4b83-92e7-00ff3d162195
-  title: Coast to Coast AM
-  node_type: document
-  slug: coast-to-coast-am
-  shared_claims: 4
-- node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-  title: Face on Mars
-  node_type: object
-  slug: face-on-mars
-  shared_claims: 4
-- node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-  title: Thermal Emission Imaging System (THEMIS)
-  node_type: object
-  slug: thermal-emission-imaging-system-themis
-  shared_claims: 4
-- node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
-  title: Linda Moulton Howe
-  node_type: person
-  slug: linda-moulton-howe
-  shared_claims: 3
-- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-  title: Richard C. Hoagland
-  node_type: person
-  slug: richard-c-hoagland
-  shared_claims: 3
-- node_id: ddf077eb-38b1-4883-a720-93b4169d3154
-  title: 1996 Art Bell letters from 'A Friend' about Roswell
-  node_type: document
-  slug: 1996-art-bell-letters-from-a-friend-about-roswell
-  shared_claims: 2
-- node_id: 73e6536e-c068-418a-b398-7949c6d7b2fe
-  title: 1996 Joint Endeavor military operation flight to Hungary
-  node_type: event
-  slug: 1996-joint-endeavor-military-operation-flight-to-hungary
-  shared_claims: 2
-- node_id: 5eabb492-88fd-469e-a73e-fa3927691244
-  title: 1996-11 US Defense Department scientist letter on 'Art's Parts' metal artefact
-  node_type: document
-  slug: 1996-11-us-defense-department-scientist-letter-on-arts-parts-metal-artefact
-  shared_claims: 2
-- node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
-  title: Art's Parts (alleged Roswell metal samples)
-  node_type: object
-  slug: arts-parts-alleged-roswell-metal-samples
-  shared_claims: 2
-- node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
-  title: Keith Laney
-  node_type: person
-  slug: keith-laney
-  shared_claims: 2
-- node_id: a5f91dbb-e37e-400e-b481-36757e11453d
-  title: Mission Image Processing Laboratory (MIPL) "Catbox" image of the Face on
-    Mars (National Aeronautics and Space Administration (NASA) image 22003)
-  node_type: document
-  slug: mission-image-processing-laboratory-mipl-catbox-image-of-the-face-on-mars-national-aeronautics-and-space-administration-nasa-image-22003
-  shared_claims: 2
-- node_id: 18bbaff6-4f0c-4629-8ac2-6a8e4cfa7d40
-  title: Tom Van Flandern
-  node_type: person
-  slug: tom-van-flandern
-  shared_claims: 2
-- node_id: 9133196d-51b8-4f15-b378-9aa0736caeb4
-  title: 1978-11-30 US military C-130 lightning crash
-  node_type: event
-  slug: 1978-11-30-us-military-c-130-lightning-crash
-  shared_claims: 1
-- node_id: 59476464-a679-46ce-9247-b0adcb287762
-  title: Edgar Mitchell
-  node_type: person
-  slug: edgar-mitchell
-  shared_claims: 1
-- node_id: 6c67e0aa-7f12-4062-8bd4-4183a772589a
-  title: Hungary
-  node_type: place
-  slug: hungary
-  shared_claims: 1
-- node_id: 719939f2-bec0-42d1-91e5-1299e0264cd0
-  title: John Pendry
-  node_type: person
-  slug: john-pendry
-  shared_claims: 1
-- node_id: 181fd8ea-4d27-4199-a1cf-3c5d303eebae
-  title: Metabunk
-  node_type: organisation
-  slug: metabunk
-  shared_claims: 1
-- node_id: 9d75354e-4c14-4ed8-a2e6-2b89e1c6e69a
-  title: Mick West
-  node_type: person
-  slug: mick-west
-  shared_claims: 1
-- node_id: 900c0f81-3cb6-42bd-90da-854f07cde849
-  title: Mike Siegel
-  node_type: person
-  slug: mike-siegel
-  shared_claims: 1
-- node_id: 4716f97b-3968-4b98-b6d6-8d20064fb4c5
-  title: Mission Image Processing Laboratory (MIPL)
-  node_type: organisation
-  slug: mission-image-processing-laboratory-mipl
-  shared_claims: 1
-- node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-  title: NASA Jet Propulsion Laboratory (JPL)
-  node_type: organisation
-  slug: nasa-jet-propulsion-laboratory-jpl
-  shared_claims: 1
-- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-  title: National Aeronautics and Space Administration (NASA)
-  node_type: organisation
-  slug: national-aeronautics-and-space-administration-nasa
-  shared_claims: 1
-- node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
-  title: Noel Gorelick
-  node_type: person
-  slug: noel-gorelick
-  shared_claims: 1
-- node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
-  title: Philip Christensen
-  node_type: person
-  slug: philip-christensen
-  shared_claims: 1
-- node_id: 299a6e2e-cc92-49b8-bd82-d5ef1d3858af
-  title: Phobos
-  node_type: object
-  slug: phobos
-  shared_claims: 1
-- node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-  title: Ross Coulthart
-  node_type: person
-  slug: ross-coulthart
-  shared_claims: 1
-- node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-  title: Roswell incident (1947)
-  node_type: event
-  slug: roswell-incident-1947
-  shared_claims: 1
-- node_id: eb5d9a0e-f0b9-4d9e-a175-0817bd12c734
-  title: Sirius
-  node_type: object
-  slug: sirius
-  shared_claims: 1
-claims:
-- claim_id: b58b0427-d94e-444a-985b-d65db37d4474
-  claim_hash: 9163ba0c874777cb5a3d770e04d67956c50b8f43541f994e75c7927ad1a3bcb9
-  content: On Art Bell's 1998-04-06 show, Richard C. Hoagland explained that the low
-    viewing angle in the Face on Mars image was the best that could be hoped for given
-    the distance of the spacecraft's vertical track from the Face.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-    slug: richard-c-hoagland
-  date: '1998-04-06'
-  date_end: null
-  location_in_record: ch13:18464-18605
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: ad3ef148-ed2e-4163-bb17-d005ca459665
-  claim_hash: ea0b4c4ae244ed9adfa198990f7e17534354e88285df96e855f8ab9b3354d62a
-  content: Art Bell considered it a joke that the MIPL version was the only one available
-    when the television news went to air on 1998-04-06.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-  provenance_chain:
-    origin_kind: speaker
-    origin: Art Bell
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  date: '1998-04-06'
-  date_end: null
-  location_in_record: ch13:18945-19127
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 46987c9f-3c10-4288-9e72-db8f4b73c513
-  claim_hash: 384aabda8db3d96267e8dcdc7769f41bf5f712726b6ec69e3cec30e329fba4f5
-  content: On his 1998-04-06 show, Art Bell said that looking at the MIPL image he
-    would have to conclude there was no Face on Mars, asking where it had gone.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-  provenance_chain:
-    origin_kind: speaker
-    origin: Art Bell
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  - node_id: a5f91dbb-e37e-400e-b481-36757e11453d
-    title: Mission Image Processing Laboratory (MIPL) "Catbox" image of the Face on
-      Mars (National Aeronautics and Space Administration (NASA) image 22003)
-    slug: mission-image-processing-laboratory-mipl-catbox-image-of-the-face-on-mars-national-aeronautics-and-space-administration-nasa-image-22003
-  date: '1998-04-06'
-  date_end: null
-  location_in_record: ch13:19426-19585
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 2e2d2854-09f5-4884-92d9-e6fa65cb7b69
-  claim_hash: f814a8b9da0f31cb6df386fbc237759540103cf03eff1facf89c780fd17b6d8a
-  content: Art Bell said the MIPL image reminded him of a pattern his cat might scratch
-    up in her litter box, giving rise to the name "Catbox" for that version of the
-    Face on Mars image.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-  provenance_chain:
-    origin_kind: speaker
-    origin: Art Bell
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  - node_id: a5f91dbb-e37e-400e-b481-36757e11453d
-    title: Mission Image Processing Laboratory (MIPL) "Catbox" image of the Face on
-      Mars (National Aeronautics and Space Administration (NASA) image 22003)
-    slug: mission-image-processing-laboratory-mipl-catbox-image-of-the-face-on-mars-national-aeronautics-and-space-administration-nasa-image-22003
-  date: '1998-04-06'
-  date_end: null
-  location_in_record: ch13:19591-19825
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 79f18d95-3498-4c20-a48a-a34fdaa46f68
-  claim_hash: 6352e7e64a79afc8cdf47dffef89e94597d501d975d82049f77fe894c46e26d7
-  content: Art Bell whimsically termed the Mission Image Processing Laboratory's black-and-white
-    cartoon rendering of the Face on Mars the "Catbox image."
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-  provenance_chain:
-    origin_kind: named
-    origin: Art Bell
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: 4716f97b-3968-4b98-b6d6-8d20064fb4c5
-    title: Mission Image Processing Laboratory (MIPL)
-    slug: mission-image-processing-laboratory-mipl
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  date: null
-  date_end: null
-  location_in_record: ch13:23450-23495
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: bf4d8eb8-5aec-48f6-a4e9-46972982dfca
-  claim_hash: b03706c43f977a8a168142683da6f4d882ffaced250c27e87d361e6cd5417c2b
-  content: Richard C. Hoagland's team e-mailed their prediction that the second Cydonia
-    image would be released at 6:55 p.m. Pacific Daylight Time to specific researchers
-    and members of the press, including Tom Van Flandern and Art Bell.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 18bbaff6-4f0c-4629-8ac2-6a8e4cfa7d40
-    title: Tom Van Flandern
-    slug: tom-van-flandern
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-    title: NASA Jet Propulsion Laboratory (JPL)
-    slug: nasa-jet-propulsion-laboratory-jpl
-  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-    slug: richard-c-hoagland
-  - node_id: eb5d9a0e-f0b9-4d9e-a175-0817bd12c734
-    title: Sirius
-    slug: sirius
-  date: '1998-04-14'
-  date_end: null
-  location_in_record: ch13:37252-37473
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: e6fd2fd2-1661-463f-9a3d-19a80a9c9941
-  claim_hash: 8a1d1ce93de2d5384cc9f93ea56f2bac7eab0735723802386aff5b89ccd95c30
-  content: In 1998-03, National Aeronautics and Space Administration (NASA) received
-    tens of thousands of faxes from Art Bell's Coast to Coast AM audience demanding
-    new photos of Cydonia at the first opportunity.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: c43a35ec-a72d-4b83-92e7-00ff3d162195
-    title: Coast to Coast AM
-    slug: coast-to-coast-am
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  date: 1998-03
-  date_end: null
-  location_in_record: ch13:7832-8020
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: e28fd767-90f5-4853-88dd-191bc269939f
-  claim_hash: 0bcf75e512a97ea364a754bd4cc22e4e0628c26fc2ea526c1966c6b90d77274c
-  content: Mike Siegel replaced Art Bell as host of Coast to Coast AM after Art Bell
-    abruptly retired from the air for family reasons.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: 900c0f81-3cb6-42bd-90da-854f07cde849
-    title: Mike Siegel
-    slug: mike-siegel
-  - node_id: c43a35ec-a72d-4b83-92e7-00ff3d162195
-    title: Coast to Coast AM
-    slug: coast-to-coast-am
-  date: null
-  date_end: null
-  location_in_record: ch14:24644-24768
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: c636e421-4c8c-438c-8f8f-4f3ae6c756bf
-  claim_hash: c048bfff19b0f41b4178e3d2409b722ca4eb5e95fdafa027d5fb9a457c47a974
-  content: Tom Van Flandern spent nearly 90 minutes at the April 2001 press conference
-    discussing Cydonia research already familiar to listeners of the Art Bell radio
-    show.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 18bbaff6-4f0c-4629-8ac2-6a8e4cfa7d40
-    title: Tom Van Flandern
-    slug: tom-van-flandern
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  date: null
-  date_end: null
-  location_in_record: ch15:1509-1694
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 70d11964-5d98-4c10-a905-10204160e322
-  claim_hash: e380eedad7ca109957e168a2467e4f8352bf70b854d90fb894a646a4e5bc7d8f
-  content: Art Bell had difficulty believing that Keith Laney's THEMIS Cydonia images
-    could not have been faked.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
-    title: Keith Laney
-    slug: keith-laney
-  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-    title: Thermal Emission Imaging System (THEMIS)
-    slug: thermal-emission-imaging-system-themis
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  date: null
-  date_end: null
-  location_in_record: ch17:49705-49798
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 5241d2d4-1375-47c4-82f8-fa5338de943d
-  claim_hash: e4823da9f4ed6934ead2e42e16a8f6bf4656e8ed8cd25479cd0aaddbe0a15626
-  content: Art Bell believed that Noel Gorelick or Philip Christensen had somehow
-    embedded images of buildings and structures into the THEMIS Cydonia data.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-  provenance_chain:
-    origin_kind: named
-    origin: Art Bell
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
-    title: Noel Gorelick
-    slug: noel-gorelick
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-    title: Thermal Emission Imaging System (THEMIS)
-    slug: thermal-emission-imaging-system-themis
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
-    title: Philip Christensen
-    slug: philip-christensen
-  date: null
-  date_end: null
-  location_in_record: ch17:49805-49925
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 72c7a164-328b-4142-86b4-dbe448fffd2d
-  claim_hash: 29ce0b6bfc77b0044a8c1c69964d3f3f8bd1b0526a925fa3ef05321d73b924fb
-  content: Keith Laney briefed Art Bell in detail and showed him a comparison between
-    the earlier Phobos 2 infrared image and the new THEMIS Cydonia data.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 299a6e2e-cc92-49b8-bd82-d5ef1d3858af
-    title: Phobos
-    slug: phobos
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
-    title: Keith Laney
-    slug: keith-laney
-  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-    title: Thermal Emission Imaging System (THEMIS)
-    slug: thermal-emission-imaging-system-themis
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  date: null
-  date_end: null
-  location_in_record: ch17:52638-52777
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: fbcac2d9-714b-4b9b-bd69-75e89e9806c9
-  claim_hash: 27641b357b2dd68d3de39a386bfdd0c65659b57e60002420f2f201098b295802
-  content: Art Bell returned to broadcasting after an announced retirement, and worked
-    with Richard C. Hoagland to apply public pressure for the release of the Cydonia
-    Thermal Emission Imaging System (THEMIS) data.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-    title: Thermal Emission Imaging System (THEMIS)
-    slug: thermal-emission-imaging-system-themis
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-    slug: richard-c-hoagland
-  date: null
-  date_end: null
-  location_in_record: ch17:946-1089
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 36d39e48-8642-4594-8f45-e75651455626
-  claim_hash: 762e7db5079f7ec933842c7e5ecf47d49e56e01150eac8f2665d9cdce4c934c1
-  content: The 30 November 1978 US military C-130 lightning crash occurred four years
-    after the grandfather supposedly imparted his solemn secret to his family, and
-    18 years before the anonymous sergeant wrote his letters to Art Bell and Linda
-    Moulton Howe.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
   - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
     title: A Friend (anonymous army sergeant)
+    node_type: person
     slug: a-friend-anonymous-army-sergeant
+    shared_claims: 6
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    node_type: place
+    slug: cydonia
+    shared_claims: 6
+  - node_id: c43a35ec-a72d-4b83-92e7-00ff3d162195
+    title: Coast to Coast AM
+    node_type: document
+    slug: coast-to-coast-am
+    shared_claims: 4
+  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+    title: Face on Mars
+    node_type: object
+    slug: face-on-mars
+    shared_claims: 4
+  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+    title: Thermal Emission Imaging System (THEMIS)
+    node_type: object
+    slug: thermal-emission-imaging-system-themis
+    shared_claims: 4
   - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
     title: Linda Moulton Howe
+    node_type: person
     slug: linda-moulton-howe
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
+    shared_claims: 3
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 3
+  - node_id: ddf077eb-38b1-4883-a720-93b4169d3154
+    title: 1996 Art Bell letters from 'A Friend' about Roswell
+    node_type: document
+    slug: 1996-art-bell-letters-from-a-friend-about-roswell
+    shared_claims: 2
+  - node_id: 73e6536e-c068-418a-b398-7949c6d7b2fe
+    title: 1996 Joint Endeavor military operation flight to Hungary
+    node_type: event
+    slug: 1996-joint-endeavor-military-operation-flight-to-hungary
+    shared_claims: 2
+  - node_id: 5eabb492-88fd-469e-a73e-fa3927691244
+    title: 1996-11 US Defense Department scientist letter on 'Art's Parts' metal artefact
+    node_type: document
+    slug: 1996-11-us-defense-department-scientist-letter-on-arts-parts-metal-artefact
+    shared_claims: 2
+  - node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
+    title: Art's Parts (alleged Roswell metal samples)
+    node_type: object
+    slug: arts-parts-alleged-roswell-metal-samples
+    shared_claims: 2
+  - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+    title: Keith Laney
+    node_type: person
+    slug: keith-laney
+    shared_claims: 2
+  - node_id: a5f91dbb-e37e-400e-b481-36757e11453d
+    title: Mission Image Processing Laboratory (MIPL) "Catbox" image of the Face on Mars (National Aeronautics and Space Administration
+      (NASA) image 22003)
+    node_type: document
+    slug: mission-image-processing-laboratory-mipl-catbox-image-of-the-face-on-mars-national-aeronautics-and-space-administration-nasa-image-22003
+    shared_claims: 2
+  - node_id: 18bbaff6-4f0c-4629-8ac2-6a8e4cfa7d40
+    title: Tom Van Flandern
+    node_type: person
+    slug: tom-van-flandern
+    shared_claims: 2
   - node_id: 9133196d-51b8-4f15-b378-9aa0736caeb4
     title: 1978-11-30 US military C-130 lightning crash
+    node_type: event
     slug: 1978-11-30-us-military-c-130-lightning-crash
-  date: null
-  date_end: null
-  location_in_record: ch23:10756-11057
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: be90c9b0-ec7a-4893-b64a-4f3f6a4bfb4d
-  claim_hash: 6cf1745195e1ef3ce946a5c64b23eed0c238f3c32e95b3858778633ff10a5645
-  content: In April 1996, an anonymous US Army sergeant who identified himself only
-    as 'A Friend' wrote to Art Bell, host of the radio show Coast to Coast AM, enclosing
-    a package of strange metallic samples allegedly recovered from the Roswell alien
-    spacecraft.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 1996 Art Bell letters from 'A Friend' about Roswell
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
-    title: A Friend (anonymous army sergeant)
-    slug: a-friend-anonymous-army-sergeant
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: 73e6536e-c068-418a-b398-7949c6d7b2fe
-    title: 1996 Joint Endeavor military operation flight to Hungary
-    slug: 1996-joint-endeavor-military-operation-flight-to-hungary
-  - node_id: c43a35ec-a72d-4b83-92e7-00ff3d162195
-    title: Coast to Coast AM
-    slug: coast-to-coast-am
-  - node_id: ddf077eb-38b1-4883-a720-93b4169d3154
-    title: 1996 Art Bell letters from 'A Friend' about Roswell
-    slug: 1996-art-bell-letters-from-a-friend-about-roswell
-  date: 1996-04
-  date_end: null
-  location_in_record: ch23:2950-3227
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 5c01931a-dd22-4d7d-805f-cb17c5a36dad
-  claim_hash: 30d4b1113d2a3bd8032a8efffe127240cb8cec907d293304aedaebe393ce5541
-  content: Over the following weeks after April 1996, the anonymous army sergeant
-    known as 'A Friend' sent five letters to Art Bell containing typed excerpts from
-    his grandfather's diary.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 1996 Art Bell letters from 'A Friend' about Roswell
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
-    title: A Friend (anonymous army sergeant)
-    slug: a-friend-anonymous-army-sergeant
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: ddf077eb-38b1-4883-a720-93b4169d3154
-    title: 1996 Art Bell letters from 'A Friend' about Roswell
-    slug: 1996-art-bell-letters-from-a-friend-about-roswell
-  date: '1996'
-  date_end: null
-  location_in_record: ch23:3539-3703
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: e2d71d2b-3037-4375-be3e-9d30ca8766d3
-  claim_hash: a10fea0ad98888db8c40b53ec1b26c88fe3da145cb812567c954b964c9a5a3e0
-  content: When Art Bell told the Art's Parts story letter by letter on his Coast
-    to Coast AM show, his listeners responded sceptically and did not believe it.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: c43a35ec-a72d-4b83-92e7-00ff3d162195
-    title: Coast to Coast AM
-    slug: coast-to-coast-am
-  date: null
-  date_end: null
-  location_in_record: ch23:6971-7171
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: eb11ae0f-e4aa-4a68-b878-5058ab3d2f7a
-  claim_hash: bab2e157a7276948f971b8a0e345d6c263749791d791645dbb23b59808df2a89
-  content: In a second letter to Art Bell, the anonymous sergeant wrote that he was
-    surprised by the negative and close-minded responses from some of Art Bell's listeners.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to be a US Army sergeant and grandson of a Roswell retrieval
-      team member
-    relay:
-    - a letter to Art Bell
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
-    title: A Friend (anonymous army sergeant)
-    slug: a-friend-anonymous-army-sergeant
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  date: null
-  date_end: null
-  location_in_record: ch23:7176-7381
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 6244f9cf-5fc1-481a-b6b1-da5ba2b2cd36
-  claim_hash: c0a3cc69741d3aa4606f042c4e9a7b3307e81a08552943290788b696493637d6
-  content: In his fourth letter, the anonymous sergeant admitted that during a broadcast
-    of one of Art Bell's radio shows he was on a flight to Hungary for a 1996 military
-    operation called Joint Endeavor.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to be a US Army sergeant and grandson of a Roswell retrieval
-      team member
-    relay:
-    - a letter to Art Bell
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
-    title: A Friend (anonymous army sergeant)
-    slug: a-friend-anonymous-army-sergeant
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: 6c67e0aa-7f12-4062-8bd4-4183a772589a
-    title: Hungary
-    slug: hungary
-  - node_id: 73e6536e-c068-418a-b398-7949c6d7b2fe
-    title: 1996 Joint Endeavor military operation flight to Hungary
-    slug: 1996-joint-endeavor-military-operation-flight-to-hungary
-  date: 1996-05
-  date_end: null
-  location_in_record: ch23:9063-9270
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: caaa1f88-ff17-487b-bf6c-b00cf6ed697b
-  claim_hash: c3b3aecc9184d53546bacc0350d36514e2c6882f1a5f1180007a080c26a52e53
-  content: The anonymous sergeant told Art Bell that his pilot friend was carrying
-    a Roswell sample and that C-130 aircraft do not normally get hit by lightning
-    and explode.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to be a US Army sergeant and grandson of a Roswell retrieval
-      team member
-    relay:
-    - a letter to Art Bell
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
-    title: A Friend (anonymous army sergeant)
-    slug: a-friend-anonymous-army-sergeant
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    slug: roswell-incident-1947
-  date: null
-  date_end: null
-  location_in_record: ch23:9876-10059
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 3d28a45d-b46a-4fd9-8dca-5bac666e0166
-  claim_hash: 3267ef338f8f59947a09b51640cff0482da4f66bf22188963e9baf1bb9850427
-  content: John Pendry is a British theoretical physicist who began conceiving the
-    idea of metamaterials around the mid-1990s, at the same time Art Bell received
-    the mysterious Art's Parts samples.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: unattributed narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: 719939f2-bec0-42d1-91e5-1299e0264cd0
-    title: John Pendry
-    slug: john-pendry
-  - node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
-    title: Art's Parts (alleged Roswell metal samples)
-    slug: arts-parts-alleged-roswell-metal-samples
-  date: null
-  date_end: null
-  location_in_record: ch24:1297-1470
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
-  claim_hash: 221cc060a3ce0a505291a524c05b0c2a53b32c3b6e8e1d43b2670f573e5f1aa6
-  content: The November 1996 letter about the metal artefact appeared to be written
-    to a Los Angeles-based Hollywood TV show producer, possibly one collaborating
-    with Linda Moulton Howe or Art Bell, reporting the results of scientific tests.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: document
-    origin: November 1996 US Defense Department scientist letter on 'Art's Parts'
-      metal artefact
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
-    title: Linda Moulton Howe
-    slug: linda-moulton-howe
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
-  - node_id: 5eabb492-88fd-469e-a73e-fa3927691244
-    title: 1996-11 US Defense Department scientist letter on 'Art's Parts' metal artefact
-    slug: 1996-11-us-defense-department-scientist-letter-on-arts-parts-metal-artefact
-  date: null
-  date_end: null
-  location_in_record: ch25:13360-13539
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 2248f7a6-452a-4431-9493-e12fee5807d0
-  claim_hash: d5209aa2176e37d9c11aca7df94ff8eb5b6945fb3df070538e59ca21c224f869
-  content: Ross Coulthart suspects the scientist's 1996 letter had been forwarded
-    to Edgar Mitchell by Linda Moulton Howe or Art Bell to keep Mitchell briefed,
-    with identifying information about the scientist deleted.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
-    title: Linda Moulton Howe
-    slug: linda-moulton-howe
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
+    shared_claims: 1
   - node_id: 59476464-a679-46ce-9247-b0adcb287762
     title: Edgar Mitchell
+    node_type: person
     slug: edgar-mitchell
-  - node_id: 5eabb492-88fd-469e-a73e-fa3927691244
-    title: 1996-11 US Defense Department scientist letter on 'Art's Parts' metal artefact
-    slug: 1996-11-us-defense-department-scientist-letter-on-arts-parts-metal-artefact
-  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-    slug: ross-coulthart
-  date: null
-  date_end: null
-  location_in_record: ch25:14363-14590
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 18886365-8a16-464e-ae34-a15698badaf5
-  claim_hash: 0ef19c82dc4f12d14716b9d3f5c24f8d5029322f9a8d3e2ce5b0dce92f2c1422
-  content: Mick West identified the aluminium louvered sheets from Art Bell's alleged
-    "UFO" material as heat exchanger fins.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 9d75354e-4c14-4ed8-a2e6-2b89e1c6e69a
-    title: Mick West
-  provenance_chain:
-    origin_kind: speaker
-    origin: Mick West
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
+  - node_id: 6c67e0aa-7f12-4062-8bd4-4183a772589a
+    title: Hungary
+    node_type: place
+    slug: hungary
+    shared_claims: 1
+  - node_id: 719939f2-bec0-42d1-91e5-1299e0264cd0
+    title: John Pendry
+    node_type: person
+    slug: john-pendry
+    shared_claims: 1
   - node_id: 181fd8ea-4d27-4199-a1cf-3c5d303eebae
     title: Metabunk
+    node_type: organisation
     slug: metabunk
-  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
-    title: Art Bell
-    slug: art-bell
+    shared_claims: 1
   - node_id: 9d75354e-4c14-4ed8-a2e6-2b89e1c6e69a
     title: Mick West
+    node_type: person
     slug: mick-west
-  - node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
-    title: Art's Parts (alleged Roswell metal samples)
-    slug: arts-parts-alleged-roswell-metal-samples
-  date: '2019-07-30'
-  date_end: null
-  location_in_record: ch34:49606-49718
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 900c0f81-3cb6-42bd-90da-854f07cde849
+    title: Mike Siegel
+    node_type: person
+    slug: mike-siegel
+    shared_claims: 1
+  - node_id: 4716f97b-3968-4b98-b6d6-8d20064fb4c5
+    title: Mission Image Processing Laboratory (MIPL)
+    node_type: organisation
+    slug: mission-image-processing-laboratory-mipl
+    shared_claims: 1
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    node_type: organisation
+    slug: nasa-jet-propulsion-laboratory-jpl
+    shared_claims: 1
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 1
+  - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
+    title: Noel Gorelick
+    node_type: person
+    slug: noel-gorelick
+    shared_claims: 1
+  - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+    title: Philip Christensen
+    node_type: person
+    slug: philip-christensen
+    shared_claims: 1
+  - node_id: 299a6e2e-cc92-49b8-bd82-d5ef1d3858af
+    title: Phobos
+    node_type: object
+    slug: phobos
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    node_type: event
+    slug: roswell-incident-1947
+    shared_claims: 1
+  - node_id: eb5d9a0e-f0b9-4d9e-a175-0817bd12c734
+    title: Sirius
+    node_type: object
+    slug: sirius
+    shared_claims: 1
+claims:
+  - claim_id: b58b0427-d94e-444a-985b-d65db37d4474
+    claim_hash: 9163ba0c874777cb5a3d770e04d67956c50b8f43541f994e75c7927ad1a3bcb9
+    content: On Art Bell's 1998-04-06 show, Richard C. Hoagland explained that the low viewing angle in the Face on Mars image
+      was the best that could be hoped for given the distance of the spacecraft's vertical track from the Face.
+    original_excerpt: He pointed out that, given the distance the spacecraft’s vertical track was from the Face, such a side-view
+      was the best that could be hoped for.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: '1998-04-06'
+    date_end: null
+    location_in_record: ch13:18464-18605
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ad3ef148-ed2e-4163-bb17-d005ca459665
+    claim_hash: ea0b4c4ae244ed9adfa198990f7e17534354e88285df96e855f8ab9b3354d62a
+    content: Art Bell considered it a joke that the MIPL version was the only one available when the television news went
+      to air on 1998-04-06.
+    original_excerpt: Bell, however, was indignant at the political aspects of the day. He considered it a joke that the horrible
+      “MIPL” version had been the only one available as the TV news had gone to air,
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+      title: Art Bell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Art Bell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+    date: '1998-04-06'
+    date_end: null
+    location_in_record: ch13:18945-19127
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 46987c9f-3c10-4288-9e72-db8f4b73c513
+    claim_hash: 384aabda8db3d96267e8dcdc7769f41bf5f712726b6ec69e3cec30e329fba4f5
+    content: On his 1998-04-06 show, Art Bell said that looking at the MIPL image he would have to conclude there was no Face
+      on Mars, asking where it had gone.
+    original_excerpt: “Well, looking at that image, Richard, I’d have to conclude as well that there is no Face on Mars,”
+      Bell said, “and my question now is, where the hell did it go?”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+      title: Art Bell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Art Bell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+      - node_id: a5f91dbb-e37e-400e-b481-36757e11453d
+        title: Mission Image Processing Laboratory (MIPL) "Catbox" image of the Face on Mars (National Aeronautics and Space
+          Administration (NASA) image 22003)
+        slug: mission-image-processing-laboratory-mipl-catbox-image-of-the-face-on-mars-national-aeronautics-and-space-administration-nasa-image-22003
+    date: '1998-04-06'
+    date_end: null
+    location_in_record: ch13:19426-19585
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2e2d2854-09f5-4884-92d9-e6fa65cb7b69
+    claim_hash: f814a8b9da0f31cb6df386fbc237759540103cf03eff1facf89c780fd17b6d8a
+    content: Art Bell said the MIPL image reminded him of a pattern his cat might scratch up in her litter box, giving rise
+      to the name "Catbox" for that version of the Face on Mars image.
+    original_excerpt: Bell summed up the MIPL image by saying that it reminded him of a pattern his kitty might scratch up
+      in her litter box. It was from that moment forward that the MIPL image would forever be known as the “Catbox” version
+      of the Face on Mars.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+      title: Art Bell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Art Bell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+      - node_id: a5f91dbb-e37e-400e-b481-36757e11453d
+        title: Mission Image Processing Laboratory (MIPL) "Catbox" image of the Face on Mars (National Aeronautics and Space
+          Administration (NASA) image 22003)
+        slug: mission-image-processing-laboratory-mipl-catbox-image-of-the-face-on-mars-national-aeronautics-and-space-administration-nasa-image-22003
+    date: '1998-04-06'
+    date_end: null
+    location_in_record: ch13:19591-19825
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 79f18d95-3498-4c20-a48a-a34fdaa46f68
+    claim_hash: 6352e7e64a79afc8cdf47dffef89e94597d501d975d82049f77fe894c46e26d7
+    content: Art Bell whimsically termed the Mission Image Processing Laboratory's black-and-white cartoon rendering of the
+      Face on Mars the "Catbox image."
+    original_excerpt: what Art Bell termed whimsically “the Catbox image.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+      title: Art Bell
+    provenance_chain:
+      origin_kind: named
+      origin: Art Bell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 4716f97b-3968-4b98-b6d6-8d20064fb4c5
+        title: Mission Image Processing Laboratory (MIPL)
+        slug: mission-image-processing-laboratory-mipl
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+    date: null
+    date_end: null
+    location_in_record: ch13:23450-23495
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: bf4d8eb8-5aec-48f6-a4e9-46972982dfca
+    claim_hash: b03706c43f977a8a168142683da6f4d882ffaced250c27e87d361e6cd5417c2b
+    content: Richard C. Hoagland's team e-mailed their prediction that the second Cydonia image would be released at 6:55
+      p.m. Pacific Daylight Time to specific researchers and members of the press, including Tom Van Flandern and Art Bell.
+    original_excerpt: Instead, we decided to e-mail our prediction to specific researchers and members of the press, including
+      Tom Van Flandern and Art Bell. We predicted an image release at 6:55 p.m. PDT, when Sirius was at 33º above the JPL
+      horizon.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 18bbaff6-4f0c-4629-8ac2-6a8e4cfa7d40
+        title: Tom Van Flandern
+        slug: tom-van-flandern
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+      - node_id: eb5d9a0e-f0b9-4d9e-a175-0817bd12c734
+        title: Sirius
+        slug: sirius
+    date: '1998-04-14'
+    date_end: null
+    location_in_record: ch13:37252-37473
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e6fd2fd2-1661-463f-9a3d-19a80a9c9941
+    claim_hash: 8a1d1ce93de2d5384cc9f93ea56f2bac7eab0735723802386aff5b89ccd95c30
+    content: In 1998-03, National Aeronautics and Space Administration (NASA) received tens of thousands of faxes from Art
+      Bell's Coast to Coast AM audience demanding new photos of Cydonia at the first opportunity.
+    original_excerpt: In March 1998, after receiving literally tens of thousands of faxes from Art Bell’s Coast-to-Coast AM
+      audience demanding that NASA take new photos at the first opportunity, NASA finally caved.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: c43a35ec-a72d-4b83-92e7-00ff3d162195
+        title: Coast to Coast AM
+        slug: coast-to-coast-am
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+    date: 1998-03
+    date_end: null
+    location_in_record: ch13:7832-8020
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e28fd767-90f5-4853-88dd-191bc269939f
+    claim_hash: 0bcf75e512a97ea364a754bd4cc22e4e0628c26fc2ea526c1966c6b90d77274c
+    content: Mike Siegel replaced Art Bell as host of Coast to Coast AM after Art Bell abruptly retired from the air for family
+      reasons.
+    original_excerpt: subsequently Mike Siegel, who replaced Art as host of Coast to Coast AM when Art abruptly retired from
+      the air for family reasons
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 900c0f81-3cb6-42bd-90da-854f07cde849
+        title: Mike Siegel
+        slug: mike-siegel
+      - node_id: c43a35ec-a72d-4b83-92e7-00ff3d162195
+        title: Coast to Coast AM
+        slug: coast-to-coast-am
+    date: null
+    date_end: null
+    location_in_record: ch14:24644-24768
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c636e421-4c8c-438c-8f8f-4f3ae6c756bf
+    claim_hash: c048bfff19b0f41b4178e3d2409b722ca4eb5e95fdafa027d5fb9a457c47a974
+    content: Tom Van Flandern spent nearly 90 minutes at the April 2001 press conference discussing Cydonia research already
+      familiar to listeners of the Art Bell radio show.
+    original_excerpt: He spent nearly 90 minutes ... droning on about various aspects of the Cydonia research that anyone
+      who had heard him on the Art Bell show had heard many times before
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 18bbaff6-4f0c-4629-8ac2-6a8e4cfa7d40
+        title: Tom Van Flandern
+        slug: tom-van-flandern
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+    date: null
+    date_end: null
+    location_in_record: ch15:1509-1694
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 70d11964-5d98-4c10-a905-10204160e322
+    claim_hash: e380eedad7ca109957e168a2467e4f8352bf70b854d90fb894a646a4e5bc7d8f
+    content: Art Bell had difficulty believing that Keith Laney's THEMIS Cydonia images could not have been faked.
+    original_excerpt: Art was having a hard time grasping the idea that the images Keith was getting *couldn’t* be faked.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+        title: Keith Laney
+        slug: keith-laney
+      - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+        title: Thermal Emission Imaging System (THEMIS)
+        slug: thermal-emission-imaging-system-themis
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+    date: null
+    date_end: null
+    location_in_record: ch17:49705-49798
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 5241d2d4-1375-47c4-82f8-fa5338de943d
+    claim_hash: e4823da9f4ed6934ead2e42e16a8f6bf4656e8ed8cd25479cd0aaddbe0a15626
+    content: Art Bell believed that Noel Gorelick or Philip Christensen had somehow embedded images of buildings and structures
+      into the THEMIS Cydonia data.
+    original_excerpt: He was convinced that Gorelick or Christensen had somehow embedded the images of various buildings and
+      structure in the data.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+      title: Art Bell
+    provenance_chain:
+      origin_kind: named
+      origin: Art Bell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
+        title: Noel Gorelick
+        slug: noel-gorelick
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+        title: Thermal Emission Imaging System (THEMIS)
+        slug: thermal-emission-imaging-system-themis
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+        title: Philip Christensen
+        slug: philip-christensen
+    date: null
+    date_end: null
+    location_in_record: ch17:49805-49925
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 72c7a164-328b-4142-86b4-dbe448fffd2d
+    claim_hash: 29ce0b6bfc77b0044a8c1c69964d3f3f8bd1b0526a925fa3ef05321d73b924fb
+    content: Keith Laney briefed Art Bell in detail and showed him a comparison between the earlier Phobos 2 infrared image
+      and the new THEMIS Cydonia data.
+    original_excerpt: It was arranged for Keith to brief Art in more detail, and show him a comparison between the earlier
+      Phobos 2 IR image and the new Cydonia data
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 299a6e2e-cc92-49b8-bd82-d5ef1d3858af
+        title: Phobos
+        slug: phobos
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+        title: Keith Laney
+        slug: keith-laney
+      - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+        title: Thermal Emission Imaging System (THEMIS)
+        slug: thermal-emission-imaging-system-themis
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+    date: null
+    date_end: null
+    location_in_record: ch17:52638-52777
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: fbcac2d9-714b-4b9b-bd69-75e89e9806c9
+    claim_hash: 27641b357b2dd68d3de39a386bfdd0c65659b57e60002420f2f201098b295802
+    content: Art Bell returned to broadcasting after an announced retirement, and worked with Richard C. Hoagland to apply
+      public pressure for the release of the Cydonia Thermal Emission Imaging System (THEMIS) data.
+    original_excerpt: Art Bell had returned from his abrupt “retirement,” and in concert with him Hoagland used the airwaves
+      to apply public pressure to release the data.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+        title: Thermal Emission Imaging System (THEMIS)
+        slug: thermal-emission-imaging-system-themis
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch17:946-1089
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 36d39e48-8642-4594-8f45-e75651455626
+    claim_hash: 762e7db5079f7ec933842c7e5ecf47d49e56e01150eac8f2665d9cdce4c934c1
+    content: The 30 November 1978 US military C-130 lightning crash occurred four years after the grandfather supposedly imparted
+      his solemn secret to his family, and 18 years before the anonymous sergeant wrote his letters to Art Bell and Linda
+      Moulton Howe.
+    original_excerpt: It happened in South Carolina on 30 November 1978, four years after the grandfather supposedly imparted
+      his solemn secret to his family. But, if this C-130 crash was the one he claims, then that was a full 18 years before
+      the supposed US Army sergeant wrote his letter to Art Bell and Linda Moulton Howe.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
+        title: A Friend (anonymous army sergeant)
+        slug: a-friend-anonymous-army-sergeant
+      - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+        title: Linda Moulton Howe
+        slug: linda-moulton-howe
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 9133196d-51b8-4f15-b378-9aa0736caeb4
+        title: 1978-11-30 US military C-130 lightning crash
+        slug: 1978-11-30-us-military-c-130-lightning-crash
+    date: null
+    date_end: null
+    location_in_record: ch23:10756-11057
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: be90c9b0-ec7a-4893-b64a-4f3f6a4bfb4d
+    claim_hash: 6cf1745195e1ef3ce946a5c64b23eed0c238f3c32e95b3858778633ff10a5645
+    content: In April 1996, an anonymous US Army sergeant who identified himself only as 'A Friend' wrote to Art Bell, host
+      of the radio show Coast to Coast AM, enclosing a package of strange metallic samples allegedly recovered from the Roswell
+      alien spacecraft.
+    original_excerpt: In April 1996, the young sergeant finally overcame his reservations; he sat down and wrote to Art Bell,
+      host of one of America's most popular radio shows, Coast to Coast AM... His letter included a package of strange metallic
+      samples.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 1996 Art Bell letters from 'A Friend' about Roswell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
+        title: A Friend (anonymous army sergeant)
+        slug: a-friend-anonymous-army-sergeant
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 73e6536e-c068-418a-b398-7949c6d7b2fe
+        title: 1996 Joint Endeavor military operation flight to Hungary
+        slug: 1996-joint-endeavor-military-operation-flight-to-hungary
+      - node_id: c43a35ec-a72d-4b83-92e7-00ff3d162195
+        title: Coast to Coast AM
+        slug: coast-to-coast-am
+      - node_id: ddf077eb-38b1-4883-a720-93b4169d3154
+        title: 1996 Art Bell letters from 'A Friend' about Roswell
+        slug: 1996-art-bell-letters-from-a-friend-about-roswell
+    date: 1996-04
+    date_end: null
+    location_in_record: ch23:2950-3227
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5c01931a-dd22-4d7d-805f-cb17c5a36dad
+    claim_hash: 30d4b1113d2a3bd8032a8efffe127240cb8cec907d293304aedaebe393ce5541
+    content: Over the following weeks after April 1996, the anonymous army sergeant known as 'A Friend' sent five letters
+      to Art Bell containing typed excerpts from his grandfather's diary.
+    original_excerpt: Over the following weeks, the anonymous army sergeant, who only ever identified himself as 'A Friend',
+      sent five letters with typed excerpts from his grandfather's diary.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 1996 Art Bell letters from 'A Friend' about Roswell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
+        title: A Friend (anonymous army sergeant)
+        slug: a-friend-anonymous-army-sergeant
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: ddf077eb-38b1-4883-a720-93b4169d3154
+        title: 1996 Art Bell letters from 'A Friend' about Roswell
+        slug: 1996-art-bell-letters-from-a-friend-about-roswell
+    date: '1996'
+    date_end: null
+    location_in_record: ch23:3539-3703
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e2d71d2b-3037-4375-be3e-9d30ca8766d3
+    claim_hash: a10fea0ad98888db8c40b53ec1b26c88fe3da145cb812567c954b964c9a5a3e0
+    content: When Art Bell told the Art's Parts story letter by letter on his Coast to Coast AM show, his listeners responded
+      sceptically and did not believe it.
+    original_excerpt: That is what Art Bell's listeners thought, too. When Art started telling the story, letter by letter,
+      week by week, on his Coast to Coast show, his listeners responded sceptically; they did not buy it.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: c43a35ec-a72d-4b83-92e7-00ff3d162195
+        title: Coast to Coast AM
+        slug: coast-to-coast-am
+    date: null
+    date_end: null
+    location_in_record: ch23:6971-7171
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: eb11ae0f-e4aa-4a68-b878-5058ab3d2f7a
+    claim_hash: bab2e157a7276948f971b8a0e345d6c263749791d791645dbb23b59808df2a89
+    content: In a second letter to Art Bell, the anonymous sergeant wrote that he was surprised by the negative and close-minded
+      responses from some of Art Bell's listeners.
+    original_excerpt: '''I must say that I was somewhat surprised by the negative and close-minded responses directed your
+      way, by some of your own listeners,'' the clearly peeved anonymous sergeant wrote in a second letter to Art Bell.'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a US Army sergeant and grandson of a Roswell retrieval team member
+      relay:
+        - a letter to Art Bell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
+        title: A Friend (anonymous army sergeant)
+        slug: a-friend-anonymous-army-sergeant
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+    date: null
+    date_end: null
+    location_in_record: ch23:7176-7381
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6244f9cf-5fc1-481a-b6b1-da5ba2b2cd36
+    claim_hash: c0a3cc69741d3aa4606f042c4e9a7b3307e81a08552943290788b696493637d6
+    content: In his fourth letter, the anonymous sergeant admitted that during a broadcast of one of Art Bell's radio shows
+      he was on a flight to Hungary for a 1996 military operation called Joint Endeavor.
+    original_excerpt: the purported sergeant again compromised his anonymity by admitting that, during a broadcast of one
+      of Art Bell's recent radio shows, he was on a flight to Hungary for a 1996 military operation called Joint Endeavor.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a US Army sergeant and grandson of a Roswell retrieval team member
+      relay:
+        - a letter to Art Bell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
+        title: A Friend (anonymous army sergeant)
+        slug: a-friend-anonymous-army-sergeant
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 6c67e0aa-7f12-4062-8bd4-4183a772589a
+        title: Hungary
+        slug: hungary
+      - node_id: 73e6536e-c068-418a-b398-7949c6d7b2fe
+        title: 1996 Joint Endeavor military operation flight to Hungary
+        slug: 1996-joint-endeavor-military-operation-flight-to-hungary
+    date: 1996-05
+    date_end: null
+    location_in_record: ch23:9063-9270
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: caaa1f88-ff17-487b-bf6c-b00cf6ed697b
+    claim_hash: c3b3aecc9184d53546bacc0350d36514e2c6882f1a5f1180007a080c26a52e53
+    content: The anonymous sergeant told Art Bell that his pilot friend was carrying a Roswell sample and that C-130 aircraft
+      do not normally get hit by lightning and explode.
+    original_excerpt: '''You see, Mr Bell, my friend was carrying a Roswell sample. I have reasons to be fearful. C-130s don''t
+      normally get hit by lightning and explode,'' the anonymous sergeant solemnly told Art.'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a US Army sergeant and grandson of a Roswell retrieval team member
+      relay:
+        - a letter to Art Bell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
+        title: A Friend (anonymous army sergeant)
+        slug: a-friend-anonymous-army-sergeant
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: null
+    date_end: null
+    location_in_record: ch23:9876-10059
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3d28a45d-b46a-4fd9-8dca-5bac666e0166
+    claim_hash: 3267ef338f8f59947a09b51640cff0482da4f66bf22188963e9baf1bb9850427
+    content: John Pendry is a British theoretical physicist who began conceiving the idea of metamaterials around the mid-1990s,
+      at the same time Art Bell received the mysterious Art's Parts samples.
+    original_excerpt: Around the same time that Art Bell received the mysterious samples in the mid-1990s, a British theoretical
+      physicist, Sir John Pendry, was beginning to conceive the idea of metamaterials.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unattributed narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 719939f2-bec0-42d1-91e5-1299e0264cd0
+        title: John Pendry
+        slug: john-pendry
+      - node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
+        title: Art's Parts (alleged Roswell metal samples)
+        slug: arts-parts-alleged-roswell-metal-samples
+    date: null
+    date_end: null
+    location_in_record: ch24:1297-1470
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
+    claim_hash: 221cc060a3ce0a505291a524c05b0c2a53b32c3b6e8e1d43b2670f573e5f1aa6
+    content: The November 1996 letter about the metal artefact appeared to be written to a Los Angeles-based Hollywood TV
+      show producer, possibly one collaborating with Linda Moulton Howe or Art Bell, reporting the results of scientific tests.
+    original_excerpt: It appeared to be written to a Los Angeles–based Hollywood TV show producer, perhaps one collaborating
+      with Linda Moulton Howe or Art Bell, reporting on the results of scientific tests.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: document
+      origin: November 1996 US Defense Department scientist letter on 'Art's Parts' metal artefact
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+        title: Linda Moulton Howe
+        slug: linda-moulton-howe
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 5eabb492-88fd-469e-a73e-fa3927691244
+        title: 1996-11 US Defense Department scientist letter on 'Art's Parts' metal artefact
+        slug: 1996-11-us-defense-department-scientist-letter-on-arts-parts-metal-artefact
+    date: null
+    date_end: null
+    location_in_record: ch25:13360-13539
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2248f7a6-452a-4431-9493-e12fee5807d0
+    claim_hash: d5209aa2176e37d9c11aca7df94ff8eb5b6945fb3df070538e59ca21c224f869
+    content: Ross Coulthart suspects the scientist's 1996 letter had been forwarded to Edgar Mitchell by Linda Moulton Howe
+      or Art Bell to keep Mitchell briefed, with identifying information about the scientist deleted.
+    original_excerpt: I suspect the scientist's letter had been forwarded to Edgar Mitchell by Linda Howe or Art Bell to keep
+      Mitchell briefed, but they had protected the name of the scientist by deleting a lot of the identifying information
+      in the document.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+        title: Linda Moulton Howe
+        slug: linda-moulton-howe
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: 5eabb492-88fd-469e-a73e-fa3927691244
+        title: 1996-11 US Defense Department scientist letter on 'Art's Parts' metal artefact
+        slug: 1996-11-us-defense-department-scientist-letter-on-arts-parts-metal-artefact
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: ch25:14363-14590
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 18886365-8a16-464e-ae34-a15698badaf5
+    claim_hash: 0ef19c82dc4f12d14716b9d3f5c24f8d5029322f9a8d3e2ce5b0dce92f2c1422
+    content: Mick West identified the aluminium louvered sheets from Art Bell's alleged "UFO" material as heat exchanger fins.
+    original_excerpt: 'Mick West, ''Identified: Art Bell''s "UFO" Aluminum Louvered Sheets – Heat Exchanger Fins'', Metabunk.org,
+      30 July 2019.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9d75354e-4c14-4ed8-a2e6-2b89e1c6e69a
+      title: Mick West
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mick West
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 181fd8ea-4d27-4199-a1cf-3c5d303eebae
+        title: Metabunk
+        slug: metabunk
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 9d75354e-4c14-4ed8-a2e6-2b89e1c6e69a
+        title: Mick West
+        slug: mick-west
+      - node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
+        title: Art's Parts (alleged Roswell metal samples)
+        slug: arts-parts-alleged-roswell-metal-samples
+    date: '2019-07-30'
+    date_end: null
+    location_in_record: ch34:49606-49718
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 00ffbbb8-9ac7-4b4a-8649-874c32ce2633
+    claim_hash: f1f03818b6bee41997f4f89c5333f0db351abaf7bc8b71a5dfd04db3b9495593
+    content: Whitley Strieber and Art Bell were close friends.
+    original_excerpt: Oh, God, I miss him so. He was such a friend. We were really close. He was a great guy.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+        title: Art Bell
+        slug: art-bell
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+    date: null
+    date_end: null
+    location_in_record: 01:35:52.7-01:35:57.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

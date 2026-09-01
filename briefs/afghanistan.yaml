@@ -9,524 +9,535 @@ page:
   claim_count: 12
   claim_count_total: 12
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 12
+  tokens_estimated: 3299
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 12
 related_nodes:
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 6
-- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-  title: David Charles Grusch
-  node_type: person
-  slug: david-charles-grusch
-  shared_claims: 3
-- node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
-  title: Iraq
-  node_type: place
-  slug: iraq
-  shared_claims: 2
-- node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
-  title: post-traumatic stress disorder (Post-Traumatic Stress Disorder (PTSD))
-  node_type: topic
-  slug: post-traumatic-stress-disorder-post-traumatic-stress-disorder-ptsd
-  shared_claims: 2
-- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-  title: Christopher K. Mellon
-  node_type: person
-  slug: christopher-k-mellon
-  shared_claims: 1
-- node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-  title: Federal Bureau of Investigation (FBI)
-  node_type: organisation
-  slug: federal-bureau-of-investigation-fbi
-  shared_claims: 1
-- node_id: 3df9c807-9e34-4f90-9e20-5ed0b3c0ae4c
-  title: International Security Assistance Force (ISAF)
-  node_type: organisation
-  slug: international-security-assistance-force-isaf
-  shared_claims: 1
-- node_id: 2eb3fb4b-0a45-4f9d-82f1-df49c2abe94f
-  title: James Mellon
-  node_type: person
-  slug: james-mellon
-  shared_claims: 1
-- node_id: b5685df3-49b4-442d-bfd1-423ccdc74e5f
-  title: Kuwait
-  node_type: place
-  slug: kuwait
-  shared_claims: 1
-- node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
-  title: South Korea
-  node_type: place
-  slug: south-korea
-  shared_claims: 1
-- node_id: 31fa0086-0c60-42a7-a1c3-aedeb4e2cf06
-  title: Task Force Dagger
-  node_type: project
-  slug: task-force-dagger
-  shared_claims: 1
-- node_id: 8761b44f-e46a-432c-bdc4-1360ab2cef1c
-  title: US Special Operations Command
-  node_type: organisation
-  slug: us-special-operations-command
-  shared_claims: 1
-claims:
-- claim_id: 432273c9-38ba-4519-a043-ef8550093629
-  claim_hash: 0f51a038d28630995676c191c305a0f0a1b2927ec3b69920ee2d52ad20803993
-  content: Luis D. Elizondo III understood at the time of receiving his deployment
-    orders to Karshi-Khanabad (K-2) that he was on his way to Afghanistan.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 85687100-9edf-4780-9111-ae7215a839c4
-    title: Afghanistan
-    slug: afghanistan
   - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
+    node_type: person
     slug: luis-elizondo
-  date: 2001-11
-  date_end: null
-  location_in_record: ch17:22218-22249
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 1a430b6b-91d3-4774-8adc-27e5b2bfae35
-  claim_hash: f44783b7e5bed2c2abeaaef99e27e031a1a2413d5222b5cc14eb88c307fc817c
-  content: Burn pits were a common waste disposal practice at military sites in Iraq,
-    Afghanistan and other locations the US military had occupied, causing health issues
-    for those exposed to the smoke.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 6
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 3
   - node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
     title: Iraq
+    node_type: place
     slug: iraq
-  - node_id: 85687100-9edf-4780-9111-ae7215a839c4
-    title: Afghanistan
-    slug: afghanistan
-  date: null
-  date_end: null
-  location_in_record: ch18:2043-2281
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: e8543785-5ea2-43c2-b4a3-8ead1d5d1110
-  claim_hash: 824ff17608ce43e55db3714b426294464553e805ea04bedc355ad8795eaeb962
-  content: Luis Elizondo served as the first-ever counterintelligence coordinating
-    authority in Afghanistan.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 85687100-9edf-4780-9111-ae7215a839c4
-    title: Afghanistan
-    slug: afghanistan
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  date: null
-  date_end: null
-  location_in_record: ch25:19397-19513
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: e71c414a-5ac4-400c-a22d-5d6600cd1472
-  claim_hash: e2e643732888ee741760e524ed5d4def30913398caa138bff6075906b57d3f78
-  content: In late 2001, Lue Elizondo deployed to Afghanistan, leaving behind his
-    wife and two small children.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 85687100-9edf-4780-9111-ae7215a839c4
-    title: Afghanistan
-    slug: afghanistan
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  date: '2001'
-  date_end: null
-  location_in_record: ch37:1011-1188
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 97f691b9-cf05-47e6-b77d-93284b49fd93
-  claim_hash: 0ded6ff3d1e9b182f30414e27b059e815b895371c3ca97232d8a98cc63df3cde
-  content: Task Force Dagger worked with the Federal Bureau of Investigation (FBI)
-    and other United States organisations to locate terrorist cells operating in Afghanistan.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 31fa0086-0c60-42a7-a1c3-aedeb4e2cf06
-    title: Task Force Dagger
-    slug: task-force-dagger
-  - node_id: 85687100-9edf-4780-9111-ae7215a839c4
-    title: Afghanistan
-    slug: afghanistan
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch37:1252-1381
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 6113e86d-cd0a-470e-a674-b9d0496dcf77
-  claim_hash: c856f67783d7e715b528aef1075f7039371d259a95aa24e726a4363702671aac
-  content: Luis Elizondo served in Afghanistan during his military and government
-    career.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 85687100-9edf-4780-9111-ae7215a839c4
-    title: Afghanistan
-    slug: afghanistan
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  date: null
-  date_end: null
-  location_in_record: ch38:565-712
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: f1d4901e-a144-440e-abb6-f4b1af244be6
-  claim_hash: a58f091b276ba7d63831f4987358924e95005441bd8c234cfc1af399681bb5c2
-  content: James Mellon told Christopher Mellon, when the Soviet Union invaded Afghanistan,
-    that "the Soviets will never defeat these people."
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 2eb3fb4b-0a45-4f9d-82f1-df49c2abe94f
-    title: James Mellon
-  provenance_chain:
-    origin_kind: named
-    origin: James Mellon
-    relay:
-    - Christopher Mellon's foreword
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2eb3fb4b-0a45-4f9d-82f1-df49c2abe94f
-    title: James Mellon
-    slug: james-mellon
+    shared_claims: 2
+  - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
+    title: post-traumatic stress disorder (PTSD)
+    node_type: topic
+    slug: post-traumatic-stress-disorder-ptsd
+    shared_claims: 2
   - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
     title: Christopher K. Mellon
+    node_type: person
     slug: christopher-k-mellon
-  - node_id: 85687100-9edf-4780-9111-ae7215a839c4
-    title: Afghanistan
-    slug: afghanistan
-  date: null
-  date_end: null
-  location_in_record: ch6:15868-15952
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 0ad15d16-f65d-4a33-bb01-7fe4ffd6872b
-  claim_hash: 3a0bddb3f64c2d4904d1d78938e3e0ae34c516e40561917a22bdf60462a456b7
-  content: Luis Elizondo had previously deployed to Afghanistan, Iraq, Kuwait, and
-    South Korea in his career.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
-    title: Iraq
-    slug: iraq
-  - node_id: 85687100-9edf-4780-9111-ae7215a839c4
-    title: Afghanistan
-    slug: afghanistan
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: b5685df3-49b4-442d-bfd1-423ccdc74e5f
-    title: Kuwait
-    slug: kuwait
-  - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
-    title: South Korea
-    slug: south-korea
-  date: null
-  date_end: null
-  location_in_record: ch9:15185-15309
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 8f6c728d-eba9-4046-8eac-78bbc57c5fe5
-  claim_hash: b383f35cce885958d758aca526a489f69cf57815fc1aa83f9520f438a1e6b643
-  content: Luis Elizondo completed three combat tours in Afghanistan and the Middle
-    East.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 85687100-9edf-4780-9111-ae7215a839c4
-    title: Afghanistan
-    slug: afghanistan
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  date: null
-  date_end: null
-  location_in_record: ch9:228-409
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: bc54ce8b-888e-44b2-a33a-d04312ed30e1
-  claim_hash: 3520b0ec4b237ad49b45813f5f02da3d8c307964321bf503c6b0b83cf6ad1d8a
-  content: David Grusch had a combat tour of duty in Afghanistan supporting counter-illicit
-    finance, drug, and arms-trafficking operations with Joint Special Operations Command
-    (JSOC) and International Security Assistance Force (ISAF).
-  original_excerpt: with a combat tour of duty in Afghanistan supporting counter-illicit
-    finance, drug, and arms-trafficking operations with Joint Special Operations Command
-    (JSOC) and ISAF
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
+  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+    title: Federal Bureau of Investigation (FBI)
+    node_type: organisation
+    slug: federal-bureau-of-investigation-fbi
+    shared_claims: 1
   - node_id: 3df9c807-9e34-4f90-9e20-5ed0b3c0ae4c
     title: International Security Assistance Force (ISAF)
+    node_type: organisation
     slug: international-security-assistance-force-isaf
-  - node_id: 85687100-9edf-4780-9111-ae7215a839c4
-    title: Afghanistan
-    slug: afghanistan
+    shared_claims: 1
+  - node_id: 2eb3fb4b-0a45-4f9d-82f1-df49c2abe94f
+    title: James Mellon
+    node_type: person
+    slug: james-mellon
+    shared_claims: 1
+  - node_id: b5685df3-49b4-442d-bfd1-423ccdc74e5f
+    title: Kuwait
+    node_type: place
+    slug: kuwait
+    shared_claims: 1
+  - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
+    title: South Korea
+    node_type: place
+    slug: south-korea
+    shared_claims: 1
+  - node_id: 31fa0086-0c60-42a7-a1c3-aedeb4e2cf06
+    title: Task Force Dagger
+    node_type: project
+    slug: task-force-dagger
+    shared_claims: 1
   - node_id: 8761b44f-e46a-432c-bdc4-1360ab2cef1c
     title: US Special Operations Command
+    node_type: organisation
     slug: us-special-operations-command
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: char:985-1150
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
-    record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch
-      as Special Advisor
-    record_date: '2025-03-27'
-    record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
-    content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
-    friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
-- claim_id: 8c567db8-07c3-40f7-a7ec-d1f912b904cb
-  claim_hash: a7fa657d78a4513c077f44a84cc95c2707d895eb57c50d2b9fdd201524e56cb3
-  content: David Grusch has had post-traumatic stress disorder from his service in
-    Afghanistan.
-  original_excerpt: Yes, I've had PTSD from Afghanistan.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 85687100-9edf-4780-9111-ae7215a839c4
-    title: Afghanistan
-    slug: afghanistan
-  - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
-    title: post-traumatic stress disorder (Post-Traumatic Stress Disorder (PTSD))
-    slug: post-traumatic-stress-disorder-post-traumatic-stress-disorder-ptsd
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: 00:17:32.9-00:17:36.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
-    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-    record_date: '2026-08-13'
-    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
-    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
-    friendly_name: null
-- claim_id: 8cb5ceae-1fbb-4d54-93a9-caa8dd401316
-  claim_hash: ecd2c70edee984627eefef9754d9cd2e3146b51837260b90d69886427d717af4
-  content: David Grusch has been open about his post-traumatic stress disorder (PTSD)
-    from Afghanistan.
-  original_excerpt: I know you've been, as you say, been very open about your PTSD
-    and all from Afghanistan.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
-    title: Phil McGraw
-  provenance_chain:
-    origin_kind: named
-    origin: David Grusch
-    relay:
-    - Phil McGraw
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 85687100-9edf-4780-9111-ae7215a839c4
-    title: Afghanistan
-    slug: afghanistan
-  - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
-    title: post-traumatic stress disorder (Post-Traumatic Stress Disorder (PTSD))
-    slug: post-traumatic-stress-disorder-post-traumatic-stress-disorder-ptsd
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: 00:52:25.4-00:52:32.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
-    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-    record_date: '2026-08-13'
-    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
-    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
-    friendly_name: null
+    shared_claims: 1
+claims:
+  - claim_id: 432273c9-38ba-4519-a043-ef8550093629
+    claim_hash: 0f51a038d28630995676c191c305a0f0a1b2927ec3b69920ee2d52ad20803993
+    content: Luis D. Elizondo III understood at the time of receiving his deployment orders to Karshi-Khanabad (K-2) that
+      he was on his way to Afghanistan.
+    original_excerpt: I knew then I was on my way to Afghanistan.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 85687100-9edf-4780-9111-ae7215a839c4
+        title: Afghanistan
+        slug: afghanistan
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: 2001-11
+    date_end: null
+    location_in_record: ch17:22218-22249
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1a430b6b-91d3-4774-8adc-27e5b2bfae35
+    claim_hash: f44783b7e5bed2c2abeaaef99e27e031a1a2413d5222b5cc14eb88c307fc817c
+    content: Burn pits were a common waste disposal practice at military sites in Iraq, Afghanistan and other locations the
+      US military had occupied, causing health issues for those exposed to the smoke.
+    original_excerpt: burn pits were a common disposal practice at military sites in Iraq, Afghanistan, and elsewhere the
+      military had occupied. All kinds of waste were burned in the open air and created various health issues for those who
+      had exposure to the smoke.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
+        title: Iraq
+        slug: iraq
+      - node_id: 85687100-9edf-4780-9111-ae7215a839c4
+        title: Afghanistan
+        slug: afghanistan
+    date: null
+    date_end: null
+    location_in_record: ch18:2043-2281
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e8543785-5ea2-43c2-b4a3-8ead1d5d1110
+    claim_hash: 824ff17608ce43e55db3714b426294464553e805ea04bedc355ad8795eaeb962
+    content: Luis Elizondo served as the first-ever counterintelligence coordinating authority in Afghanistan.
+    original_excerpt: Even before the position had been created, I served as the first-ever counterintelligence coordinating
+      authority in Afghanistan.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 85687100-9edf-4780-9111-ae7215a839c4
+        title: Afghanistan
+        slug: afghanistan
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch25:19397-19513
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e71c414a-5ac4-400c-a22d-5d6600cd1472
+    claim_hash: e2e643732888ee741760e524ed5d4def30913398caa138bff6075906b57d3f78
+    content: In late 2001, Lue Elizondo deployed to Afghanistan, leaving behind his wife and two small children.
+    original_excerpt: Day of deployment to Afghanistan in late 2001. Family members joined to say goodbye to their loved ones.
+      The smiles hide the real pain of leaving my wife and two small children behind.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 85687100-9edf-4780-9111-ae7215a839c4
+        title: Afghanistan
+        slug: afghanistan
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: '2001'
+    date_end: null
+    location_in_record: ch37:1011-1188
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 97f691b9-cf05-47e6-b77d-93284b49fd93
+    claim_hash: 0ded6ff3d1e9b182f30414e27b059e815b895371c3ca97232d8a98cc63df3cde
+    content: Task Force Dagger worked with the Federal Bureau of Investigation (FBI) and other United States organisations
+      to locate terrorist cells operating in Afghanistan.
+    original_excerpt: As part of Task Force Dagger, the FBI was one of many US organizations we worked with to locate terrorist
+      cells operating in the area.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31fa0086-0c60-42a7-a1c3-aedeb4e2cf06
+        title: Task Force Dagger
+        slug: task-force-dagger
+      - node_id: 85687100-9edf-4780-9111-ae7215a839c4
+        title: Afghanistan
+        slug: afghanistan
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch37:1252-1381
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 6113e86d-cd0a-470e-a674-b9d0496dcf77
+    claim_hash: c856f67783d7e715b528aef1075f7039371d259a95aa24e726a4363702671aac
+    content: Luis Elizondo served in Afghanistan during his military and government career.
+    original_excerpt: later served his country throughout the world, including South Korea, Latin America, the Caribbean,
+      Afghanistan, and other countries in the Middle East
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 85687100-9edf-4780-9111-ae7215a839c4
+        title: Afghanistan
+        slug: afghanistan
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch38:565-712
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: f1d4901e-a144-440e-abb6-f4b1af244be6
+    claim_hash: a58f091b276ba7d63831f4987358924e95005441bd8c234cfc1af399681bb5c2
+    content: James Mellon told Christopher Mellon, when the Soviet Union invaded Afghanistan, that "the Soviets will never
+      defeat these people."
+    original_excerpt: he replied immediately and without hesitation, “The Soviets will never defeat these people.”
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2eb3fb4b-0a45-4f9d-82f1-df49c2abe94f
+      title: James Mellon
+    provenance_chain:
+      origin_kind: named
+      origin: James Mellon
+      relay:
+        - Christopher Mellon's foreword
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2eb3fb4b-0a45-4f9d-82f1-df49c2abe94f
+        title: James Mellon
+        slug: james-mellon
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 85687100-9edf-4780-9111-ae7215a839c4
+        title: Afghanistan
+        slug: afghanistan
+    date: null
+    date_end: null
+    location_in_record: ch6:15868-15952
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 0ad15d16-f65d-4a33-bb01-7fe4ffd6872b
+    claim_hash: 3a0bddb3f64c2d4904d1d78938e3e0ae34c516e40561917a22bdf60462a456b7
+    content: Luis Elizondo had previously deployed to Afghanistan, Iraq, Kuwait, and South Korea in his career.
+    original_excerpt: In my previous jobs, I had been everywhere on the planet where the US engaged its enemies. Afghanistan.
+      Iraq. Kuwait. South Korea.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
+        title: Iraq
+        slug: iraq
+      - node_id: 85687100-9edf-4780-9111-ae7215a839c4
+        title: Afghanistan
+        slug: afghanistan
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: b5685df3-49b4-442d-bfd1-423ccdc74e5f
+        title: Kuwait
+        slug: kuwait
+      - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
+        title: South Korea
+        slug: south-korea
+    date: null
+    date_end: null
+    location_in_record: ch9:15185-15309
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 8f6c728d-eba9-4046-8eac-78bbc57c5fe5
+    claim_hash: b383f35cce885958d758aca526a489f69cf57815fc1aa83f9520f438a1e6b643
+    content: Luis Elizondo completed three combat tours in Afghanistan and the Middle East.
+    original_excerpt: Later in my career, I did three combat tours in Afghanistan and the Middle East and went on to work
+      all over the world with America's most elite special operations and intelligence units.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 85687100-9edf-4780-9111-ae7215a839c4
+        title: Afghanistan
+        slug: afghanistan
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch9:228-409
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: bc54ce8b-888e-44b2-a33a-d04312ed30e1
+    claim_hash: 3520b0ec4b237ad49b45813f5f02da3d8c307964321bf503c6b0b83cf6ad1d8a
+    content: David Grusch had a combat tour of duty in Afghanistan supporting counter-illicit finance, drug, and arms-trafficking
+      operations with Joint Special Operations Command (JSOC) and International Security Assistance Force (ISAF).
+    original_excerpt: with a combat tour of duty in Afghanistan supporting counter-illicit finance, drug, and arms-trafficking
+      operations with Joint Special Operations Command (JSOC) and ISAF
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3df9c807-9e34-4f90-9e20-5ed0b3c0ae4c
+        title: International Security Assistance Force (ISAF)
+        slug: international-security-assistance-force-isaf
+      - node_id: 85687100-9edf-4780-9111-ae7215a839c4
+        title: Afghanistan
+        slug: afghanistan
+      - node_id: 8761b44f-e46a-432c-bdc4-1360ab2cef1c
+        title: US Special Operations Command
+        slug: us-special-operations-command
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:985-1150
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
+      record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special Advisor
+      record_date: '2025-03-27'
+      record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
+      content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
+      friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
+  - claim_id: 8c567db8-07c3-40f7-a7ec-d1f912b904cb
+    claim_hash: a7fa657d78a4513c077f44a84cc95c2707d895eb57c50d2b9fdd201524e56cb3
+    content: David Grusch has had post-traumatic stress disorder from his service in Afghanistan.
+    original_excerpt: Yes, I've had PTSD from Afghanistan.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 85687100-9edf-4780-9111-ae7215a839c4
+        title: Afghanistan
+        slug: afghanistan
+      - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
+        title: post-traumatic stress disorder (PTSD)
+        slug: post-traumatic-stress-disorder-ptsd
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:17:32.9-00:17:36.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 8cb5ceae-1fbb-4d54-93a9-caa8dd401316
+    claim_hash: ecd2c70edee984627eefef9754d9cd2e3146b51837260b90d69886427d717af4
+    content: David Grusch has been open about his post-traumatic stress disorder (PTSD) from Afghanistan.
+    original_excerpt: I know you've been, as you say, been very open about your PTSD and all from Afghanistan.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: named
+      origin: David Grusch
+      relay:
+        - Phil McGraw
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 85687100-9edf-4780-9111-ae7215a839c4
+        title: Afghanistan
+        slug: afghanistan
+      - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
+        title: post-traumatic stress disorder (PTSD)
+        slug: post-traumatic-stress-disorder-ptsd
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:52:25.4-00:52:32.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null

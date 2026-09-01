@@ -9,695 +9,688 @@ page:
   claim_count: 14
   claim_count_total: 14
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 14
+  tokens_estimated: 4262
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 14
 related_nodes:
-- node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-  title: James MacDonald
-  node_type: person
-  slug: james-macdonald
-  shared_claims: 11
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 7
-- node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
-  title: United Nations (UN)
-  node_type: organisation
-  slug: united-nations-un
-  shared_claims: 3
-- node_id: 79798a26-5342-45d4-b0e7-a60385e4f779
-  title: Vietnam War
-  node_type: event
-  slug: vietnam-war
-  shared_claims: 3
-- node_id: 2fa8b5c8-f308-4175-bf51-be4e8c357b2f
-  title: 1967 Middle East crisis (Six-Day War)
-  node_type: event
-  slug: 1967-middle-east-crisis-six-day-war
-  shared_claims: 2
-- node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-  title: Cuba
-  node_type: place
-  slug: cuba
-  shared_claims: 2
-- node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-  title: Cuban Missile Crisis (1962-10)
-  node_type: event
-  slug: cuban-missile-crisis-1962-10
-  shared_claims: 2
-- node_id: bedf3eaf-553a-47f6-addc-de5c9e8bcc4a
-  title: Drew Pearson
-  node_type: person
-  slug: drew-pearson
-  shared_claims: 2
-- node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
-  title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying
-    Object (UFO) investigation tour
-  node_type: project
-  slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
-  shared_claims: 2
-- node_id: 75f8cf38-618c-4dd4-8629-d6b9b7d425fb
-  title: Kurt Waldheim
-  node_type: person
-  slug: kurt-waldheim
-  shared_claims: 1
-- node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
-  title: Nikita Khrushchev
-  node_type: person
-  slug: nikita-khrushchev
-  shared_claims: 1
-- node_id: f612ccb6-6742-42e5-bd05-97ab49801197
-  title: Russia, Moscow
-  node_type: place
-  slug: moscow-russia
-  shared_claims: 1
-- node_id: dc23e6d8-444d-4e0e-bba8-2d5492d51c06
-  title: USA, Washington, D.C.
-  node_type: place
-  slug: washington-dc-usa
-  shared_claims: 1
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 1
-- node_id: 9b2ab989-b9c0-48fa-83ec-82ff34ff004f
-  title: United Nations Security Council
-  node_type: organisation
-  slug: united-nations-security-council
-  shared_claims: 1
-claims:
-- claim_id: 023984ed-a622-4ea4-813b-9734cbb41b13
-  claim_hash: ff54e2324eadcc3f282cc7160c11bd8d61745f93eaa135212ad9b04105540c57
-  content: A number of scientists and people formerly associated with the UFO programme
-    appeared several times before the Secretary-General of the United Nations, first
-    U Thant and then Kurt Waldheim, to try to bring UFO information into the open.
-  original_excerpt: We tried to get the United Nations to bring this thing out into
-    the open, and a number of scientists and people formerly associated with the UFO
-    program appeared several times before the Secretary of the United Nations, U Thant,
-    and then Kurt Waldheim.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
-    title: Raymond E. Fowler
-  provenance_chain:
-    origin_kind: speaker
-    origin: Raymond Fowler
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    node_type: person
+    slug: james-macdonald
+    shared_claims: 11
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 7
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    node_type: organisation
+    slug: united-nations-un
+    shared_claims: 3
+  - node_id: 79798a26-5342-45d4-b0e7-a60385e4f779
+    title: Vietnam War
+    node_type: event
+    slug: vietnam-war
+    shared_claims: 3
+  - node_id: 2fa8b5c8-f308-4175-bf51-be4e8c357b2f
+    title: 1967 Middle East crisis (Six-Day War)
+    node_type: event
+    slug: 1967-middle-east-crisis-six-day-war
+    shared_claims: 2
+  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+    title: Cuba
+    node_type: place
+    slug: cuba
+    shared_claims: 2
+  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+    title: Cuban Missile Crisis (1962-10)
+    node_type: event
+    slug: cuban-missile-crisis-1962-10
+    shared_claims: 2
+  - node_id: bedf3eaf-553a-47f6-addc-de5c9e8bcc4a
+    title: Drew Pearson
+    node_type: person
+    slug: drew-pearson
+    shared_claims: 2
+  - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
+    title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
+    node_type: project
+    slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
+    shared_claims: 2
   - node_id: 75f8cf38-618c-4dd4-8629-d6b9b7d425fb
     title: Kurt Waldheim
+    node_type: person
     slug: kurt-waldheim
-  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
-    title: United Nations (UN)
-    slug: united-nations-un
-  date: null
-  date_end: null
-  location_in_record: 00:25:13.6-00:25:32.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
-    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
-      (Full Interview, 1987)
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
-    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
-    friendly_name: null
-- claim_id: d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
-  claim_hash: b6aa4108a781f7cdfd0459932a25478135d5bec2654486fe1401c4f6d859c068
-  content: United Nations Secretary General U Thant told the heads of state in Washington,
-    Havana, and Moscow that he would help mediate the Cuban Missile Crisis discussion,
-    at the request of forty-five other UN member nations.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
-    title: United Nations (UN)
-    slug: united-nations-un
-  - node_id: dc23e6d8-444d-4e0e-bba8-2d5492d51c06
-    title: USA, Washington, D.C.
-    slug: washington-dc-usa
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
-    title: Russia, Moscow
-    slug: moscow-russia
-  date: 1962-10
-  date_end: null
-  location_in_record: ch17:1653-1832
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 9d723809-bae4-4fbf-ba57-e261ea20aabf
-  claim_hash: be1592fffe94ea84644fce92e06a53c2f0a5a17be18c90d987522840c1c26b7d
-  content: During the Cuban Missile Crisis, tensions relaxed when Nikita Khrushchev
-    accepted U Thant's mediation offer and ordered Soviet vessels heading for Cuba
-    to change course.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
+    shared_claims: 1
   - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
     title: Nikita Khrushchev
+    node_type: person
     slug: nikita-khrushchev
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
-    title: Cuban Missile Crisis (1962-10)
-    slug: cuban-missile-crisis-1962-10
-  date: 1962-10
-  date_end: null
-  location_in_record: ch17:1926-2048
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: f281f617-9e23-47ed-a02e-3fd4feed3167
-  claim_hash: 7013418016929448b44101f0af1f6b1ab4b40116e1a7c9bb4b58332b38ebc543
-  content: James E. McDonald had an appointment to see U Thant in June 1967, but the
-    Middle East crisis prevented the meeting.
-  original_excerpt: I had a date to see U Thant, but the Mideast crisis interfered.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-  provenance_chain:
-    origin_kind: speaker
-    origin: James E. McDonald
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 2fa8b5c8-f308-4175-bf51-be4e8c357b2f
-    title: 1967 Middle East crisis (Six-Day War)
-    slug: 1967-middle-east-crisis-six-day-war
-  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-    slug: james-macdonald
-  date: 1967-06
-  date_end: null
-  location_in_record: 00:16:12.0-00:16:14.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
-    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
-      His Investigative Tour (1967)
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
-    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
-    friendly_name: null
-- claim_id: e59dc170-7140-4746-8afd-c4f59f36b5ea
-  claim_hash: d0e62184f157e6a8b2187969a60c8c97bf4eac5d5d98a32455e5b1f4d2f8c6ce
-  content: U Thant, in an exchange with Drew Pearson roughly four to six days before
-    James E. McDonald's Melbourne talkback radio appearance in 1967, said the Unidentified
-    Flying Object (UFO) problem is probably the most important international problem,
-    with the present exception of the Vietnam War.
-  original_excerpt: Subsequently, however, in some kind of an exchange with Drew Pearson,
-    U Thant made a statement now about four or five days ago, I guess six days ago,
-    that the UFO problem is probably the most important international problem, with
-    the present exception of the Vietnam War.
-  claim_type: testimony
-  attestation: third_hand
-  speaker:
-    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-  provenance_chain:
-    origin_kind: named
-    origin: U Thant
-    relay:
-    - an exchange with Drew Pearson
-    - James E. McDonald
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-    slug: james-macdonald
-  - node_id: 79798a26-5342-45d4-b0e7-a60385e4f779
-    title: Vietnam War
-    slug: vietnam-war
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: bedf3eaf-553a-47f6-addc-de5c9e8bcc4a
-    title: Drew Pearson
-    slug: drew-pearson
-  date: '1967'
-  date_end: null
-  location_in_record: 00:16:15.3-00:16:32.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
-    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
-      His Investigative Tour (1967)
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
-    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
-    friendly_name: null
-- claim_id: c39187a3-da51-468e-a9cc-2668a724a0a4
-  claim_hash: 5d796e4923a2fd22034daf957e0a301d9a416337b53fdc1aa2bc758909071417
-  content: James E. McDonald considers U Thant's statement on Unidentified Flying
-    Objects (UFOs) interesting and somewhat striking.
-  original_excerpt: rather interesting and somewhat striking statement.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-  provenance_chain:
-    origin_kind: speaker
-    origin: James E. McDonald
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-    slug: james-macdonald
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: 00:16:33.3-00:16:35.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
-    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
-      His Investigative Tour (1967)
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
-    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
-    friendly_name: null
-- claim_id: f970b7c2-3ed9-48ad-be1c-de2ae1343b0c
-  claim_hash: 395c82d669a521a989da206daaf65b92c194610cad8a471b2846b8a9f1be4309
-  content: James E. McDonald cabled U Thant a reply endorsing his statement but disagreeing
-    to the extent that, in McDonald's opinion, the Unidentified Flying Object (UFO)
-    problem is of even greater international importance than the Vietnamese situation.
-  original_excerpt: I cabled U Thant a reply, endorsing the statement, but disagreeing
-    to the extent of saying that, in my opinion, the UFO problem is probably even
-    greater in international importance than the Vietnamese situation.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-  provenance_chain:
-    origin_kind: speaker
-    origin: James E. McDonald
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-    slug: james-macdonald
-  - node_id: 79798a26-5342-45d4-b0e7-a60385e4f779
-    title: Vietnam War
-    slug: vietnam-war
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: '1967'
-  date_end: null
-  location_in_record: 00:16:36.3-00:16:50.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
-    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
-      His Investigative Tour (1967)
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
-    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
-    friendly_name: null
-- claim_id: 474219ed-4fa0-489f-9597-1edcf12368df
-  claim_hash: 337707c72b7df439a04f630e9be5fd4c19e57b32b6aa8beb5ea7ad944da5a03a
-  content: James E. McDonald had an appointment to see United Nations Secretary-General
-    U Thant but the meeting did not take place because it fell in the middle of the
-    United Nations Security Council crisis.
-  original_excerpt: I didn't get a chance to talk to U Thant. I had a date to see
-    him, but it was right in the middle of the the Security Council crisis, and he
-    couldn't see me.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-  provenance_chain:
-    origin_kind: speaker
-    origin: James E. McDonald
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 2fa8b5c8-f308-4175-bf51-be4e8c357b2f
-    title: 1967 Middle East crisis (Six-Day War)
-    slug: 1967-middle-east-crisis-six-day-war
-  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-    slug: james-macdonald
+    shared_claims: 1
+  - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
+    title: Russia, Moscow
+    node_type: place
+    slug: moscow-russia
+    shared_claims: 1
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    node_type: place
+    slug: district-of-columbia-washington-usa
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
   - node_id: 9b2ab989-b9c0-48fa-83ec-82ff34ff004f
     title: United Nations Security Council
+    node_type: organisation
     slug: united-nations-security-council
-  date: null
-  date_end: null
-  location_in_record: 00:42:19.8-00:42:28.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
-    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
-      His Investigative Tour (1967)
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
-    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
-    friendly_name: null
-- claim_id: 9a79b5de-ce8b-4a81-8157-0723d230e24b
-  claim_hash: af452b576a03c435fc2a75aa50cdb3d1490d961d8dc29a9275e13329efec481e
-  content: James E. McDonald intended to try again to meet United Nations Secretary-General
-    U Thant.
-  original_excerpt: I'm going to try again to see him.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-  provenance_chain:
-    origin_kind: speaker
-    origin: James E. McDonald
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-    slug: james-macdonald
-  date: null
-  date_end: null
-  location_in_record: 00:42:28.7-00:42:30.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
-    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
-      His Investigative Tour (1967)
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
-    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
-    friendly_name: null
-- claim_id: 754cde69-7e8b-4900-ad13-686402d31b12
-  claim_hash: ef26bd56f5854f6a12d10ee4bd96a324a7c6aefd797aa8d0898f89a2b60fdb42
-  content: United Nations Secretary-General U Thant, in a statement to Drew Pearson
-    shortly before 1967, said the problem of Unidentified Flying Objects (UFOs) is
-    the greatest international problem second only to the Vietnam War, as relayed
-    by James E. McDonald.
-  original_excerpt: But Only A Very Short Time Ago, A Very Interesting Statement Was
-    Made By U Thant To Drew Pearson That The Problem Of The UFOs. Now this is the
-    Secretary General of the United Nations speaking, saying that the problem of the
-    UFOs is the greatest international problem second only to the present one of the
-    Vietnam War.
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-  provenance_chain:
-    origin_kind: named
-    origin: U Thant
-    relay:
-    - Drew Pearson
-    - James E. McDonald
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-    slug: james-macdonald
-  - node_id: 79798a26-5342-45d4-b0e7-a60385e4f779
-    title: Vietnam War
-    slug: vietnam-war
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: bedf3eaf-553a-47f6-addc-de5c9e8bcc4a
-    title: Drew Pearson
-    slug: drew-pearson
-  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
-    title: United Nations (UN)
-    slug: united-nations-un
-  date: null
-  date_end: null
-  location_in_record: 00:42:31.2-00:42:54.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
-    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
-      His Investigative Tour (1967)
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
-    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
-    friendly_name: null
-- claim_id: 11f21d75-9d34-40dc-a83e-bae85ad26ff2
-  claim_hash: 2acb7e0083d5f68d149ac2e985edc277b8c15af2cbe781d054db0f4b8053ea9c
-  content: James E. McDonald considers U Thant's statement about Unidentified Flying
-    Objects (UFOs) being the greatest international problem after the Vietnam War
-    very interesting.
-  original_excerpt: I think that's very interesting.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-  provenance_chain:
-    origin_kind: speaker
-    origin: James E. McDonald
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-    slug: james-macdonald
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: 00:42:54.4-00:42:55.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
-    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
-      His Investigative Tour (1967)
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
-    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
-    friendly_name: null
-- claim_id: b61b532f-e237-4e6b-a104-e54b2a56cbd2
-  claim_hash: ee437f15c6f8e8068db39c52729d22c3de3e366e727901477759f99081c310a6
-  content: James E. McDonald learned of U Thant's statement about Unidentified Flying
-    Objects (UFOs) by long-distance telephone call from San Francisco while in Australia.
-  original_excerpt: I cabled in from Australia when I heard that by long distance
-    phone call from San Francisco.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-  provenance_chain:
-    origin_kind: speaker
-    origin: James E. McDonald
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
-    title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified
-      Flying Object (UFO) investigation tour
-    slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-    slug: james-macdonald
-  date: null
-  date_end: null
-  location_in_record: 00:42:56.3-00:43:02.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
-    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
-      His Investigative Tour (1967)
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
-    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
-    friendly_name: null
-- claim_id: 14cdce44-7809-4d6c-b8aa-fbaf6febeabf
-  claim_hash: 3d30c486eeaa5b179ed0f7ab2b5e97bc6a7211d56f5187af0979d42633cf0f36
-  content: James E. McDonald cabled United Nations Secretary-General U Thant from
-    Australia to endorse his statement on Unidentified Flying Objects (UFOs), while
-    expressing disagreement with part of it.
-  original_excerpt: I cabled Secretary-General U Thant and strongly endorsed his statement,
-    except I expressed disagreement.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-  provenance_chain:
-    origin_kind: speaker
-    origin: James E. McDonald
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
-    title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified
-      Flying Object (UFO) investigation tour
-    slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-    slug: james-macdonald
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: 00:43:02.7-00:43:09.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
-    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
-      His Investigative Tour (1967)
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
-    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
-    friendly_name: null
-- claim_id: a615ee33-1972-4d76-a476-3d3fdc5eed87
-  claim_hash: 0bb5e6c5d5f7417721b19bb16d74fabad1aa7ce07825183241bdc60f2d9e9671
-  content: James E. McDonald considers the Unidentified Flying Object (UFO) problem
-    to be the greatest scientific problem and the greatest international problem facing
-    the world, ranking it above the position U Thant gave it.
-  original_excerpt: In my opinion, the UFO problem is the greatest scientific problem,
-    the greatest international problem that stands before us.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-  provenance_chain:
-    origin_kind: speaker
-    origin: James E. McDonald
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
-    title: U Thant
-    slug: u-thant
-  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-    slug: james-macdonald
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: 00:43:10.6-00:43:19.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
-    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
-      His Investigative Tour (1967)
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
-    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
-    friendly_name: null
+    shared_claims: 1
+claims:
+  - claim_id: 023984ed-a622-4ea4-813b-9734cbb41b13
+    claim_hash: ff54e2324eadcc3f282cc7160c11bd8d61745f93eaa135212ad9b04105540c57
+    content: A number of scientists and people formerly associated with the UFO programme appeared several times before the
+      Secretary-General of the United Nations, first U Thant and then Kurt Waldheim, to try to bring UFO information into
+      the open.
+    original_excerpt: We tried to get the United Nations to bring this thing out into the open, and a number of scientists
+      and people formerly associated with the UFO program appeared several times before the Secretary of the United Nations,
+      U Thant, and then Kurt Waldheim.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: speaker
+      origin: Raymond Fowler
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 75f8cf38-618c-4dd4-8629-d6b9b7d425fb
+        title: Kurt Waldheim
+        slug: kurt-waldheim
+      - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+        title: United Nations (UN)
+        slug: united-nations-un
+    date: null
+    date_end: null
+    location_in_record: 00:25:13.6-00:25:32.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
+    claim_hash: b6aa4108a781f7cdfd0459932a25478135d5bec2654486fe1401c4f6d859c068
+    content: United Nations Secretary General U Thant told the heads of state in Washington, Havana, and Moscow that he would
+      help mediate the Cuban Missile Crisis discussion, at the request of forty-five other UN member nations.
+    original_excerpt: The UN secretary general U Thant told the heads of state in Washington, Havana, and Moscow that he would
+      help mediate the discussion, at the request of forty-five other UN member nations.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+        title: United Nations (UN)
+        slug: united-nations-un
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+      - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
+        title: Russia, Moscow
+        slug: moscow-russia
+    date: 1962-10
+    date_end: null
+    location_in_record: ch17:1653-1832
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 9d723809-bae4-4fbf-ba57-e261ea20aabf
+    claim_hash: be1592fffe94ea84644fce92e06a53c2f0a5a17be18c90d987522840c1c26b7d
+    content: During the Cuban Missile Crisis, tensions relaxed when Nikita Khrushchev accepted U Thant's mediation offer and
+      ordered Soviet vessels heading for Cuba to change course.
+    original_excerpt: The tension relaxed when Nikita Khrushchev accepted U Thant's offer and ordered Soviet vessels heading
+      for Cuba to change course.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+        title: Nikita Khrushchev
+        slug: nikita-khrushchev
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+    date: 1962-10
+    date_end: null
+    location_in_record: ch17:1926-2048
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: f281f617-9e23-47ed-a02e-3fd4feed3167
+    claim_hash: 7013418016929448b44101f0af1f6b1ab4b40116e1a7c9bb4b58332b38ebc543
+    content: James E. McDonald had an appointment to see U Thant in June 1967, but the Middle East crisis prevented the meeting.
+    original_excerpt: I had a date to see U Thant, but the Mideast crisis interfered.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+      title: James MacDonald
+    provenance_chain:
+      origin_kind: speaker
+      origin: James E. McDonald
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 2fa8b5c8-f308-4175-bf51-be4e8c357b2f
+        title: 1967 Middle East crisis (Six-Day War)
+        slug: 1967-middle-east-crisis-six-day-war
+      - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+        title: James MacDonald
+        slug: james-macdonald
+    date: 1967-06
+    date_end: null
+    location_in_record: 00:16:12.0-00:16:14.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+      record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His Investigative Tour (1967)
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+      content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+      friendly_name: null
+  - claim_id: e59dc170-7140-4746-8afd-c4f59f36b5ea
+    claim_hash: d0e62184f157e6a8b2187969a60c8c97bf4eac5d5d98a32455e5b1f4d2f8c6ce
+    content: U Thant, in an exchange with Drew Pearson roughly four to six days before James E. McDonald's Melbourne talkback
+      radio appearance in 1967, said the Unidentified Flying Object (UFO) problem is probably the most important international
+      problem, with the present exception of the Vietnam War.
+    original_excerpt: Subsequently, however, in some kind of an exchange with Drew Pearson, U Thant made a statement now about
+      four or five days ago, I guess six days ago, that the UFO problem is probably the most important international problem,
+      with the present exception of the Vietnam War.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+      title: James MacDonald
+    provenance_chain:
+      origin_kind: named
+      origin: U Thant
+      relay:
+        - an exchange with Drew Pearson
+        - James E. McDonald
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+        title: James MacDonald
+        slug: james-macdonald
+      - node_id: 79798a26-5342-45d4-b0e7-a60385e4f779
+        title: Vietnam War
+        slug: vietnam-war
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: bedf3eaf-553a-47f6-addc-de5c9e8bcc4a
+        title: Drew Pearson
+        slug: drew-pearson
+    date: '1967'
+    date_end: null
+    location_in_record: 00:16:15.3-00:16:32.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+      record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His Investigative Tour (1967)
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+      content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+      friendly_name: null
+  - claim_id: c39187a3-da51-468e-a9cc-2668a724a0a4
+    claim_hash: 5d796e4923a2fd22034daf957e0a301d9a416337b53fdc1aa2bc758909071417
+    content: James E. McDonald considers U Thant's statement on Unidentified Flying Objects (UFOs) interesting and somewhat
+      striking.
+    original_excerpt: rather interesting and somewhat striking statement.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+      title: James MacDonald
+    provenance_chain:
+      origin_kind: speaker
+      origin: James E. McDonald
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+        title: James MacDonald
+        slug: james-macdonald
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:16:33.3-00:16:35.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+      record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His Investigative Tour (1967)
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+      content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+      friendly_name: null
+  - claim_id: f970b7c2-3ed9-48ad-be1c-de2ae1343b0c
+    claim_hash: 395c82d669a521a989da206daaf65b92c194610cad8a471b2846b8a9f1be4309
+    content: James E. McDonald cabled U Thant a reply endorsing his statement but disagreeing to the extent that, in McDonald's
+      opinion, the Unidentified Flying Object (UFO) problem is of even greater international importance than the Vietnamese
+      situation.
+    original_excerpt: I cabled U Thant a reply, endorsing the statement, but disagreeing to the extent of saying that, in
+      my opinion, the UFO problem is probably even greater in international importance than the Vietnamese situation.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+      title: James MacDonald
+    provenance_chain:
+      origin_kind: speaker
+      origin: James E. McDonald
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+        title: James MacDonald
+        slug: james-macdonald
+      - node_id: 79798a26-5342-45d4-b0e7-a60385e4f779
+        title: Vietnam War
+        slug: vietnam-war
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: '1967'
+    date_end: null
+    location_in_record: 00:16:36.3-00:16:50.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+      record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His Investigative Tour (1967)
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+      content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+      friendly_name: null
+  - claim_id: 474219ed-4fa0-489f-9597-1edcf12368df
+    claim_hash: 337707c72b7df439a04f630e9be5fd4c19e57b32b6aa8beb5ea7ad944da5a03a
+    content: James E. McDonald had an appointment to see United Nations Secretary-General U Thant but the meeting did not
+      take place because it fell in the middle of the United Nations Security Council crisis.
+    original_excerpt: I didn't get a chance to talk to U Thant. I had a date to see him, but it was right in the middle of
+      the the Security Council crisis, and he couldn't see me.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+      title: James MacDonald
+    provenance_chain:
+      origin_kind: speaker
+      origin: James E. McDonald
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 2fa8b5c8-f308-4175-bf51-be4e8c357b2f
+        title: 1967 Middle East crisis (Six-Day War)
+        slug: 1967-middle-east-crisis-six-day-war
+      - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+        title: James MacDonald
+        slug: james-macdonald
+      - node_id: 9b2ab989-b9c0-48fa-83ec-82ff34ff004f
+        title: United Nations Security Council
+        slug: united-nations-security-council
+    date: null
+    date_end: null
+    location_in_record: 00:42:19.8-00:42:28.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+      record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His Investigative Tour (1967)
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+      content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+      friendly_name: null
+  - claim_id: 9a79b5de-ce8b-4a81-8157-0723d230e24b
+    claim_hash: af452b576a03c435fc2a75aa50cdb3d1490d961d8dc29a9275e13329efec481e
+    content: James E. McDonald intended to try again to meet United Nations Secretary-General U Thant.
+    original_excerpt: I'm going to try again to see him.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+      title: James MacDonald
+    provenance_chain:
+      origin_kind: speaker
+      origin: James E. McDonald
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+        title: James MacDonald
+        slug: james-macdonald
+    date: null
+    date_end: null
+    location_in_record: 00:42:28.7-00:42:30.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+      record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His Investigative Tour (1967)
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+      content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+      friendly_name: null
+  - claim_id: 754cde69-7e8b-4900-ad13-686402d31b12
+    claim_hash: ef26bd56f5854f6a12d10ee4bd96a324a7c6aefd797aa8d0898f89a2b60fdb42
+    content: United Nations Secretary-General U Thant, in a statement to Drew Pearson shortly before 1967, said the problem
+      of Unidentified Flying Objects (UFOs) is the greatest international problem second only to the Vietnam War, as relayed
+      by James E. McDonald.
+    original_excerpt: But Only A Very Short Time Ago, A Very Interesting Statement Was Made By U Thant To Drew Pearson That
+      The Problem Of The UFOs. Now this is the Secretary General of the United Nations speaking, saying that the problem of
+      the UFOs is the greatest international problem second only to the present one of the Vietnam War.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+      title: James MacDonald
+    provenance_chain:
+      origin_kind: named
+      origin: U Thant
+      relay:
+        - Drew Pearson
+        - James E. McDonald
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+        title: James MacDonald
+        slug: james-macdonald
+      - node_id: 79798a26-5342-45d4-b0e7-a60385e4f779
+        title: Vietnam War
+        slug: vietnam-war
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: bedf3eaf-553a-47f6-addc-de5c9e8bcc4a
+        title: Drew Pearson
+        slug: drew-pearson
+      - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+        title: United Nations (UN)
+        slug: united-nations-un
+    date: null
+    date_end: null
+    location_in_record: 00:42:31.2-00:42:54.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+      record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His Investigative Tour (1967)
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+      content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+      friendly_name: null
+  - claim_id: 11f21d75-9d34-40dc-a83e-bae85ad26ff2
+    claim_hash: 2acb7e0083d5f68d149ac2e985edc277b8c15af2cbe781d054db0f4b8053ea9c
+    content: James E. McDonald considers U Thant's statement about Unidentified Flying Objects (UFOs) being the greatest international
+      problem after the Vietnam War very interesting.
+    original_excerpt: I think that's very interesting.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+      title: James MacDonald
+    provenance_chain:
+      origin_kind: speaker
+      origin: James E. McDonald
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+        title: James MacDonald
+        slug: james-macdonald
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:42:54.4-00:42:55.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+      record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His Investigative Tour (1967)
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+      content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+      friendly_name: null
+  - claim_id: b61b532f-e237-4e6b-a104-e54b2a56cbd2
+    claim_hash: ee437f15c6f8e8068db39c52729d22c3de3e366e727901477759f99081c310a6
+    content: James E. McDonald learned of U Thant's statement about Unidentified Flying Objects (UFOs) by long-distance telephone
+      call from San Francisco while in Australia.
+    original_excerpt: I cabled in from Australia when I heard that by long distance phone call from San Francisco.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+      title: James MacDonald
+    provenance_chain:
+      origin_kind: speaker
+      origin: James E. McDonald
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
+        title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
+        slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+        title: James MacDonald
+        slug: james-macdonald
+    date: null
+    date_end: null
+    location_in_record: 00:42:56.3-00:43:02.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+      record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His Investigative Tour (1967)
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+      content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+      friendly_name: null
+  - claim_id: 14cdce44-7809-4d6c-b8aa-fbaf6febeabf
+    claim_hash: 3d30c486eeaa5b179ed0f7ab2b5e97bc6a7211d56f5187af0979d42633cf0f36
+    content: James E. McDonald cabled United Nations Secretary-General U Thant from Australia to endorse his statement on
+      Unidentified Flying Objects (UFOs), while expressing disagreement with part of it.
+    original_excerpt: I cabled Secretary-General U Thant and strongly endorsed his statement, except I expressed disagreement.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+      title: James MacDonald
+    provenance_chain:
+      origin_kind: speaker
+      origin: James E. McDonald
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
+        title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
+        slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+        title: James MacDonald
+        slug: james-macdonald
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:43:02.7-00:43:09.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+      record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His Investigative Tour (1967)
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+      content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+      friendly_name: null
+  - claim_id: a615ee33-1972-4d76-a476-3d3fdc5eed87
+    claim_hash: 0bb5e6c5d5f7417721b19bb16d74fabad1aa7ce07825183241bdc60f2d9e9671
+    content: James E. McDonald considers the Unidentified Flying Object (UFO) problem to be the greatest scientific problem
+      and the greatest international problem facing the world, ranking it above the position U Thant gave it.
+    original_excerpt: In my opinion, the UFO problem is the greatest scientific problem, the greatest international problem
+      that stands before us.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+      title: James MacDonald
+    provenance_chain:
+      origin_kind: speaker
+      origin: James E. McDonald
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+        title: U Thant
+        slug: u-thant
+      - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+        title: James MacDonald
+        slug: james-macdonald
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:43:10.6-00:43:19.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+      record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His Investigative Tour (1967)
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+      content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+      friendly_name: null

@@ -9,1080 +9,1096 @@ page:
   claim_count: 25
   claim_count_total: 25
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 25
+  tokens_estimated: 7550
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 25
 related_nodes:
-- node_id: c09e3558-1732-4676-a218-d67d285d98ef
-  title: David Fravor
-  node_type: person
-  slug: david-fravor
-  shared_claims: 6
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 3
-- node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-  title: Robert Fish
-  node_type: person
-  slug: robert-fish
-  shared_claims: 3
-- node_id: 0e7d489e-9335-4906-8687-0acb68d2818a
-  title: Dave (SR-71 pilot)
-  node_type: person
-  slug: dave-sr-71-pilot
-  shared_claims: 2
-- node_id: a2e88f4b-c3f6-45d3-aee0-82fd65df75ca
-  title: F-117A Night Hawk
-  node_type: object
-  slug: f-117a-night-hawk
-  shared_claims: 2
-- node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-  title: Lockheed Martin Skunk Works
-  node_type: organisation
-  slug: lockheed-martin-skunk-works
-  shared_claims: 2
-- node_id: d212d6ab-72c2-4dad-85ef-15a6b44d9bab
-  title: U-2
-  node_type: object
-  slug: u-2
-  shared_claims: 2
-- node_id: f0385240-27ed-4e66-bd46-348cc902df56
-  title: Aurora
-  node_type: object
-  slug: aurora
-  shared_claims: 1
-- node_id: d0c9607e-3473-4218-aa7d-e3fa6e46ce62
-  title: B-2 stealth bomber
-  node_type: object
-  slug: b-2-stealth-bomber
-  shared_claims: 1
-- node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
-  title: Bob Lazar
-  node_type: person
-  slug: bob-lazar
-  shared_claims: 1
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 1
-- node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
-  title: David Fruehauf
-  node_type: person
-  slug: david-fruehauf
-  shared_claims: 1
-- node_id: e1014d56-f0d9-46ef-b2cd-e24a45f2f8ed
-  title: F-22 Raptor
-  node_type: object
-  slug: f-22-raptor
-  shared_claims: 1
-- node_id: 847500ab-d729-4297-b379-605f40aad1bf
-  title: F-35 Lightning stealth jet
-  node_type: object
-  slug: f-35-lightning-stealth-jet
-  shared_claims: 1
-- node_id: 149a7c1a-df1c-426e-ac10-f0cdad39f0cf
-  title: Japan, Okinawa, Kadena Air Force Base
-  node_type: place
-  slug: okinawa-kadena-air-force-base-japan
-  shared_claims: 1
-- node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
-  title: Jim Goodall
-  node_type: person
-  slug: jim-goodall
-  shared_claims: 1
-- node_id: e78d0ea3-a3c6-4014-a4c6-7cf0bebe92c6
-  title: Kelly Johnson
-  node_type: person
-  slug: kelly-johnson
-  shared_claims: 1
-- node_id: 0f346560-30b4-403a-aac9-e61980a99abb
-  title: Lyndon B. Johnson
-  node_type: person
-  slug: lyndon-b-johnson
-  shared_claims: 1
-- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-  title: National Aeronautics and Space Administration (NASA)
-  node_type: organisation
-  slug: national-aeronautics-and-space-administration-nasa
-  shared_claims: 1
-- node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
-  title: Soviet Union
-  node_type: organisation
-  slug: soviet-union
-  shared_claims: 1
-- node_id: 3dcb1bdf-9e00-430b-97ed-ded13b79fd61
-  title: U-2 spy plane
-  node_type: object
-  slug: u-2-spy-plane
-  shared_claims: 1
-- node_id: a5c2e103-f1f8-4ba0-ad5c-57a766ebfc8f
-  title: USA, California, Palmdale
-  node_type: place
-  slug: california-palmdale-usa
-  shared_claims: 1
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 1
-- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-  title: United States Air Force (USAF)
-  node_type: organisation
-  slug: united-states-air-force-usaf
-  shared_claims: 1
-claims:
-- claim_id: 0a145af8-0338-4a3a-b100-5255e8e11c46
-  claim_hash: 92a503f2b90ec90546e10850677d70740c06258129a59cfd6e1458836cb62f69
-  content: David Fravor considers the SR-71 Blackbird, from a pure-speed perspective,
-    an engineering marvel, developed in the 1950s by Kelly Johnson at Lockheed Skunk
-    Works.
-  original_excerpt: From pure speed, I would say SR-71, I think it's an engineering
-    marvel that was actually developed in the 50s by Kelly Johnson, you know, Skunk
-    Works.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
   - node_id: c09e3558-1732-4676-a218-d67d285d98ef
     title: David Fravor
+    node_type: person
     slug: david-fravor
-  - node_id: e78d0ea3-a3c6-4014-a4c6-7cf0bebe92c6
-    title: Kelly Johnson
-    slug: kelly-johnson
-  date: null
-  date_end: null
-  location_in_record: 01:05:36.5-01:05:42.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 57474528-56fe-4fee-bdc6-b4eb9035d210
-  claim_hash: f918a9e24ad6fac1977fc501eb87f62d40af518d9fd84ff2e69f224e841b0390
-  content: The Central Intelligence Agency created around six shell companies to buy
-    titanium from the Soviet Union to build the SR-71 Blackbird, an aircraft made
-    largely of titanium designed to fly over the Soviet Union.
-  original_excerpt: the CIA actually made like six companies in order to buy the titanium
-    from Russia to bring it back and build an airplane out of titanium that we would
-    fly over Russia.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
-    title: Soviet Union
-    slug: soviet-union
-  date: null
-  date_end: null
-  location_in_record: 01:05:49.2-01:05:57.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 5e418e88-bb74-49b0-9274-fecfad842884
-  claim_hash: c785e5d85117b0c064b3ca8df34c9a7c3f255e7c080bcc33475e9434bd122a0f
-  content: The SR-71 Blackbird still holds the speed record of any aircraft.
-  original_excerpt: the SR-71 still holds the speed record of any plane.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 7eaac853-d863-4210-af67-e165485c02e9
-    title: Lex Fridman
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lex Fridman
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  date: null
-  date_end: null
-  location_in_record: 01:06:05.6-01:06:10.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: cc261f00-cca7-4c92-97eb-1ffa93110098
-  claim_hash: 9d871c2ff49618afaea5197e9034e7bc9d2ad20016648cce4a3f65cafee1bfe1
-  content: At high altitude, an aircraft such as the SR-71 Blackbird can show an indicated
-    airspeed of around 560 kilometres per hour while actually travelling around 4,000
-    kilometres per hour over the ground, because the air is much thinner at altitude.
-  original_excerpt: you may only be showing like 300 knots but at 300 knots you're
-    really doing 2500 miles an hour over the ground
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 01:06:41.1-01:06:48.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 0ec12ee2-fb1a-4f68-bb31-f3eaeb691295
-  claim_hash: cc2fc628ff947128bfc5fff15e526525a21edcee6032f2f7c81141e12477d589
-  content: The SR-71 Blackbird flew at altitudes above approximately 21,000 metres,
-    where the thin air reduces relative aerodynamic stress on the airframe despite
-    high true airspeed.
-  original_excerpt: when you look at an SR-71 that's flying upwards of, you know,
-    70 plus thousand feet, the air is so thin... So the stresses on the airframe are
-    not like they would be if you were down low.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 01:07:19.9-01:07:25.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: a7f0d937-8af4-49b5-b923-af674778cc3b
-  claim_hash: f86a1feb68a5212a42fd617b84fc8b3ac065162e170a47a1e1b348f26ffe9866
-  content: NASA flew SR-71 Blackbird aircraft out of Palmdale, California, on loop
-    flights up towards Washington State and Montana.
-  original_excerpt: NASA was flying them out of Palmdale and they would take off and
-    they'd go up towards Washington State and Montana and they do a loop.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: a5c2e103-f1f8-4ba0-ad5c-57a766ebfc8f
-    title: USA, California, Palmdale
-    slug: california-palmdale-usa
-  date: null
-  date_end: null
-  location_in_record: 01:09:59.2-01:10:05.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 9f7b4e34-6def-4a01-9c83-ca4dc634fd01
-  claim_hash: cba770ab371a91f3b78156a7b219dd91c7bc828e14c2ed03f92d0c760da28aa8
-  content: SR-71 Blackbird aircraft descending from above approximately 18,000 metres
-    produced visible contrails.
-  original_excerpt: they descend out of, you know, above 60,000, you'd see them, they
-    get contrails, you know, the white lines behind airplanes.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 01:10:06.7-01:10:11.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: f1c15b89-7dd4-4b47-beed-33b50b86810e
-  claim_hash: 94805ae6b5af4e7842905fd2935b2b0d0e47335ad6bda999449f143efb484b64
-  content: SR-71 Blackbird aircraft would refuel from a tanker aircraft after descending
-    from altitude and then climb back up.
-  original_excerpt: They'd come down and hit the tanker and then they'd go back up.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 01:10:12.1-01:10:14.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 53b4bfb6-8d54-49a6-944f-72be5ef90533
-  claim_hash: 7c78a3bd48ddf9627ead2a998f6c3f5a80261d406723dacd9c3f0ec3f3b000a1
-  content: The U-2 and the SR-71 Blackbird were the aircraft doing high-altitude reconnaissance
-    work in the 1950s before satellites became widely used.
-  original_excerpt: you got to remember when those things started in the 50s sputnik
-    wasn't flying around you know it was it was the u2 and the sr-71 that were out
-    there doing that work
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: d212d6ab-72c2-4dad-85ef-15a6b44d9bab
-    title: U-2
-    slug: u-2
-  date: null
-  date_end: null
-  location_in_record: 01:10:33.2-01:10:39.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 56d412c9-1e1a-4b23-aa70-e3a44a544e80
-  claim_hash: 1ac3d5f1c079345eafa6d48dc176676eb31e56e4d605a907eb9dcb5ffbd7f79d
-  content: David Fravor is not certain there is a continuing need for an aircraft
-    capable of the SR-71 Blackbird's speed, given current capabilities in space-based
-    reconnaissance.
-  original_excerpt: is there a need to pass that i go i don't know we got stuff in
-    space so
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 01:10:51.0-01:10:53.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 1aaad40b-67cd-40c1-bf11-d19fe580040d
-  claim_hash: cad4ea00535171e08204f4e9b160cb29d6a7b46e1b29455d03551f292cc41ef0
-  content: Jim Goodall has written 20 books on top-secret aircraft such as the SR-71
-    Blackbird, the F-117 stealth attack aircraft and the B-2A stealth bomber.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: a2e88f4b-c3f6-45d3-aee0-82fd65df75ca
-    title: F-117A Night Hawk
-    slug: f-117a-night-hawk
-  - node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
-    title: Jim Goodall
-    slug: jim-goodall
-  - node_id: d0c9607e-3473-4218-aa7d-e3fa6e46ce62
-    title: B-2 stealth bomber
-    slug: b-2-stealth-bomber
-  date: null
-  date_end: null
-  location_in_record: ch13:13251-13423
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 699a3e88-07e2-431c-b5ac-ee8661c12c4e
-  claim_hash: f1a29939fe0880ae2784cf963997f1e19f60f87ef325df2331827b0116d99299
-  content: Dave, a retired lieutenant colonel in the US Air Force who flew the Lockheed
-    SR-71 reconnaissance aircraft, witnessed an unidentified craft while night-flying
-    out of Kadena Air Force Base in Okinawa, Japan, in late 1972 or early 1973.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
-    title: Jim Goodall
-  provenance_chain:
-    origin_kind: named
-    origin: Dave (SR-71 pilot)
-    relay:
-    - Jim Goodall
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 6
+  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+    title: Robert Fish
+    node_type: person
+    slug: robert-fish
+    shared_claims: 3
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 2
   - node_id: 0e7d489e-9335-4906-8687-0acb68d2818a
     title: Dave (SR-71 pilot)
+    node_type: person
     slug: dave-sr-71-pilot
-  - node_id: 149a7c1a-df1c-426e-ac10-f0cdad39f0cf
-    title: Japan, Okinawa, Kadena Air Force Base
-    slug: okinawa-kadena-air-force-base-japan
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '1972'
-  date_end: null
-  location_in_record: ch13:17625-17897
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: a381a031-01cb-435d-8afb-98ea060e987e
-  claim_hash: 8fca09bc5247c3e167a7a7d51e6df22b27efd49b2c0f67ec2b55da1f1b62cc05
-  content: During the 1972 Kadena SR-71 UAP sighting, Dave advanced the throttles
-    on his SR-71 to try to intercept the object, and as he grew closer he could see
-    it was not round and had shiny metallic edges.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker:
-    node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
-    title: Jim Goodall
-  provenance_chain:
-    origin_kind: named
-    origin: Dave (SR-71 pilot)
-    relay:
-    - Jim Goodall
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0e7d489e-9335-4906-8687-0acb68d2818a
-    title: Dave (SR-71 pilot)
-    slug: dave-sr-71-pilot
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: ch13:18354-18504
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 77a80a46-3af5-4896-8f55-2f1705dd25b3
-  claim_hash: d84e107abcaadbc347762afed087694d5e8762b952ede38070c1c600a08f60e0
-  content: The fastest jet currently flying is the United States' SR-71 Blackbird,
-    with a top speed of Mach 3.3, approximately 3500 kilometres per hour.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  date: null
-  date_end: null
-  location_in_record: ch13:19088-19201
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 13282920-8ccf-48a6-95f1-8062c0345ff4
-  claim_hash: bf891d100e3d5d69330902774af1c35880708abbdae0915d673278b9f047e644
-  content: Two decades after Bob Lazar's 1989 disclosure, a former SR-71 Blackbird
-    pilot named David Fruehauf went public in a television interview, partially backing
-    Lazar's claims and calling him very credible.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
-    title: David Fruehauf
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fruehauf
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
-    title: David Fruehauf
-    slug: david-fruehauf
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
-    title: Bob Lazar
-    slug: bob-lazar
-  date: null
-  date_end: null
-  location_in_record: ch13:22093-22326
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: f9eeef63-58be-4494-8af5-6b01717b10dd
-  claim_hash: 0b1ec7ac10e5383b165bb2e741f74c7029a5415f19efd50037f7f228fe376886
-  content: In the early 1990s, while working at a high security aerospace company
-    facility, Robert 'Bob' Fish was shown digital radar tracks showing a hypersonic
-    UFO tracking alongside a US Air Force SR-71 Blackbird spy plane.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-  provenance_chain:
-    origin_kind: speaker
-    origin: Robert 'Bob' Fish
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  date: '1990'
-  date_end: null
-  location_in_record: ch13:31185-31383
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 5df5fdb3-0df3-4406-aa0c-acdb469a219f
-  claim_hash: d3f9234c2ceae9f360ecadff7a221338188a25edd9f02abff754eec7de955a79
-  content: Robert 'Bob' Fish described two images streaking through the sky at over
-    Mach 3, one in a side-chase position to the other, with the lead plane being an
-    SR-71 Blackbird and the other unidentified.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-  provenance_chain:
-    origin_kind: speaker
-    origin: Robert 'Bob' Fish
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  date: null
-  date_end: null
-  location_in_record: ch13:31400-31572
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d9728688-94b8-4b0c-8dd8-a0e3a1df0c29
-  claim_hash: 11f2f2e446211bb4e5115f91362b62c8f5d2142e4f96d46654488784579935e3
-  content: Robert 'Bob' Fish said the unidentified object seen alongside the SR-71
-    Blackbird made a 90-degree right turn, headed off in a different direction, and
-    rapidly gained altitude while maintaining its speed.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-  provenance_chain:
-    origin_kind: speaker
-    origin: Robert 'Bob' Fish
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  date: null
-  date_end: null
-  location_in_record: ch13:31586-31753
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
-  claim_hash: 55320643ed4c389934f0d4f6be7c7b3dd587965c28a2651851bf27e82d6d2f52
-  content: Skunk Works, Lockheed's advanced development programme, has a history developing
-    the U-2 and SR-71 Blackbird spy planes, the F-117A Night Hawk stealth attack aircraft,
-    the F-22 Raptor fighter, and the F-35 Lightning stealth jet.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3dcb1bdf-9e00-430b-97ed-ded13b79fd61
-    title: U-2 spy plane
-    slug: u-2-spy-plane
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: 847500ab-d729-4297-b379-605f40aad1bf
-    title: F-35 Lightning stealth jet
-    slug: f-35-lightning-stealth-jet
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
+    shared_claims: 2
   - node_id: a2e88f4b-c3f6-45d3-aee0-82fd65df75ca
     title: F-117A Night Hawk
+    node_type: object
     slug: f-117a-night-hawk
-  - node_id: e1014d56-f0d9-46ef-b2cd-e24a45f2f8ed
-    title: F-22 Raptor
-    slug: f-22-raptor
-  date: null
-  date_end: null
-  location_in_record: ch18:15942-16329
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 3687c3dd-7ce7-4b8b-926e-da5ac90caf80
-  claim_hash: fdce6c9d6f78e382dcf55ceddeda2d47a599efcac202a8ddac65f9d99c10bf4f
-  content: UAP tracked before the 2004 USS Nimitz encounter appeared on radar at approximately
-    24,000 metres altitude, above the normal envelope of aircraft except for a few
-    exceptions such as the U-2, the SR-71 Blackbird, and the alleged Aurora aircraft.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: radar operators aboard the USS Princeton
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 2
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    node_type: organisation
+    slug: lockheed-martin-skunk-works
+    shared_claims: 2
   - node_id: d212d6ab-72c2-4dad-85ef-15a6b44d9bab
     title: U-2
+    node_type: object
     slug: u-2
+    shared_claims: 2
   - node_id: f0385240-27ed-4e66-bd46-348cc902df56
     title: Aurora
+    node_type: object
     slug: aurora
-  date: null
-  date_end: null
-  location_in_record: ch15:2185-2427
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: f1cc7a47-4251-4c89-98b4-f7676657da65
-  claim_hash: 1f4f8c043fddf3010669cb099633ac232fb2e3f1c9466e0e9d60469c2a90ba04
-  content: The SR-71 Blackbird can just about reach Mach 5 at high altitudes, and
-    any faster the aircraft would be incinerated by the heat generated.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  date: null
-  date_end: null
-  location_in_record: ch20:12066-12226
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 324563a9-511d-4f5c-9114-b7159d72358f
-  claim_hash: 8e6be7a0e7b3b0604aba90e4f344d9e5e142e9a45335aacffc0ef4e460fedd05
-  content: The SR-71 Blackbird is made up almost entirely of titanium.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  date: null
-  date_end: null
-  location_in_record: ch20:12131-12226
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: ab6dafb3-ecbc-4ff8-b764-ee701c8e6206
-  claim_hash: 897010a9460ece28b66c07c16c6eeb5685652f3a5a58393bc37452212468c717
-  content: At full speed, the SR-71 Blackbird requires airspace roughly half the size
-    of the state of Ohio to complete a right- or left-hand turn.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  date: null
-  date_end: null
-  location_in_record: ch20:13078-13238
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 09c962b1-af39-4fe1-af82-591778224e5f
-  claim_hash: 181bc5323dacaedcb2bf0012e2e0aff2cc132e2d14c5b003cfedae1f8e82f875
-  content: Unidentified aerial phenomena (UAP) make immediate right-angle turns at
-    speeds up to ten times faster than the SR-71 Blackbird.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  date: null
-  date_end: null
-  location_in_record: ch20:13244-13339
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 697c81f3-829c-482a-8d35-ca95c63e94c5
-  claim_hash: fac451e6638f50c0b5aa0227b8d6a45c07b28c3139e3c6d4ed09cb933162993c
-  content: In 1968, President Lyndon B. Johnson ordered the retirement of the A-12
-    OXCART when it was replaced by the SR-71 Blackbird, itself a modified version
-    of the A-12.
-  original_excerpt: In 1968, President Johnson ordered the retirement of the A-12
-    when it was replaced by the SR-71, which itself was a modified version of the
-    A-12.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
+  - node_id: d0c9607e-3473-4218-aa7d-e3fa6e46ce62
+    title: B-2 stealth bomber
+    node_type: object
+    slug: b-2-stealth-bomber
+    shared_claims: 1
+  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+    node_type: person
+    slug: bob-lazar
+    shared_claims: 1
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+    title: David Fruehauf
+    node_type: person
+    slug: david-fruehauf
+    shared_claims: 1
+  - node_id: e1014d56-f0d9-46ef-b2cd-e24a45f2f8ed
+    title: F-22 Raptor
+    node_type: object
+    slug: f-22-raptor
+    shared_claims: 1
+  - node_id: 847500ab-d729-4297-b379-605f40aad1bf
+    title: F-35 Lightning stealth jet
+    node_type: object
+    slug: f-35-lightning-stealth-jet
+    shared_claims: 1
+  - node_id: 149a7c1a-df1c-426e-ac10-f0cdad39f0cf
+    title: Japan, Okinawa, Kadena Air Force Base
+    node_type: place
+    slug: okinawa-kadena-air-force-base-japan
+    shared_claims: 1
+  - node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
+    title: Jim Goodall
+    node_type: person
+    slug: jim-goodall
+    shared_claims: 1
+  - node_id: 471145f2-0b13-47b9-a315-8be51fb7d338
+    title: Kadena Air Force Base UAP Sighting
+    node_type: event
+    slug: kadena-air-force-base-uap-sighting
+    shared_claims: 1
+  - node_id: e78d0ea3-a3c6-4014-a4c6-7cf0bebe92c6
+    title: Kelly Johnson
+    node_type: person
+    slug: kelly-johnson
+    shared_claims: 1
   - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
     title: Lyndon B. Johnson
+    node_type: person
     slug: lyndon-b-johnson
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  date: '1968'
-  date_end: null
-  location_in_record: char:127018-127160
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+    shared_claims: 1
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 1
+  - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+    title: Soviet Union
+    node_type: organisation
+    slug: soviet-union
+    shared_claims: 1
+  - node_id: 3dcb1bdf-9e00-430b-97ed-ded13b79fd61
+    title: U-2 spy plane
+    node_type: object
+    slug: u-2-spy-plane
+    shared_claims: 1
+  - node_id: a5c2e103-f1f8-4ba0-ad5c-57a766ebfc8f
+    title: USA, California, Palmdale
+    node_type: place
+    slug: california-palmdale-usa
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
+claims:
+  - claim_id: 0a145af8-0338-4a3a-b100-5255e8e11c46
+    claim_hash: 92a503f2b90ec90546e10850677d70740c06258129a59cfd6e1458836cb62f69
+    content: David Fravor considers the SR-71 Blackbird, from a pure-speed perspective, an engineering marvel, developed in
+      the 1950s by Kelly Johnson at Lockheed Skunk Works.
+    original_excerpt: From pure speed, I would say SR-71, I think it's an engineering marvel that was actually developed in
+      the 50s by Kelly Johnson, you know, Skunk Works.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: e78d0ea3-a3c6-4014-a4c6-7cf0bebe92c6
+        title: Kelly Johnson
+        slug: kelly-johnson
+    date: null
+    date_end: null
+    location_in_record: 01:05:36.5-01:05:42.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 57474528-56fe-4fee-bdc6-b4eb9035d210
+    claim_hash: f918a9e24ad6fac1977fc501eb87f62d40af518d9fd84ff2e69f224e841b0390
+    content: The Central Intelligence Agency created around six shell companies to buy titanium from the Soviet Union to build
+      the SR-71 Blackbird, an aircraft made largely of titanium designed to fly over the Soviet Union.
+    original_excerpt: the CIA actually made like six companies in order to buy the titanium from Russia to bring it back and
+      build an airplane out of titanium that we would fly over Russia.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+        title: Soviet Union
+        slug: soviet-union
+    date: null
+    date_end: null
+    location_in_record: 01:05:49.2-01:05:57.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 5e418e88-bb74-49b0-9274-fecfad842884
+    claim_hash: c785e5d85117b0c064b3ca8df34c9a7c3f255e7c080bcc33475e9434bd122a0f
+    content: The SR-71 Blackbird still holds the speed record of any aircraft.
+    original_excerpt: the SR-71 still holds the speed record of any plane.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7eaac853-d863-4210-af67-e165485c02e9
+      title: Lex Fridman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lex Fridman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+    date: null
+    date_end: null
+    location_in_record: 01:06:05.6-01:06:10.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: cc261f00-cca7-4c92-97eb-1ffa93110098
+    claim_hash: 9d871c2ff49618afaea5197e9034e7bc9d2ad20016648cce4a3f65cafee1bfe1
+    content: At high altitude, an aircraft such as the SR-71 Blackbird can show an indicated airspeed of around 560 kilometres
+      per hour while actually travelling around 4,000 kilometres per hour over the ground, because the air is much thinner
+      at altitude.
+    original_excerpt: you may only be showing like 300 knots but at 300 knots you're really doing 2500 miles an hour over
+      the ground
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 01:06:41.1-01:06:48.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 0ec12ee2-fb1a-4f68-bb31-f3eaeb691295
+    claim_hash: cc2fc628ff947128bfc5fff15e526525a21edcee6032f2f7c81141e12477d589
+    content: The SR-71 Blackbird flew at altitudes above approximately 21,000 metres, where the thin air reduces relative
+      aerodynamic stress on the airframe despite high true airspeed.
+    original_excerpt: when you look at an SR-71 that's flying upwards of, you know, 70 plus thousand feet, the air is so thin...
+      So the stresses on the airframe are not like they would be if you were down low.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 01:07:19.9-01:07:25.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: a7f0d937-8af4-49b5-b923-af674778cc3b
+    claim_hash: f86a1feb68a5212a42fd617b84fc8b3ac065162e170a47a1e1b348f26ffe9866
+    content: NASA flew SR-71 Blackbird aircraft out of Palmdale, California, on loop flights up towards Washington State and
+      Montana.
+    original_excerpt: NASA was flying them out of Palmdale and they would take off and they'd go up towards Washington State
+      and Montana and they do a loop.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: a5c2e103-f1f8-4ba0-ad5c-57a766ebfc8f
+        title: USA, California, Palmdale
+        slug: california-palmdale-usa
+    date: null
+    date_end: null
+    location_in_record: 01:09:59.2-01:10:05.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 9f7b4e34-6def-4a01-9c83-ca4dc634fd01
+    claim_hash: cba770ab371a91f3b78156a7b219dd91c7bc828e14c2ed03f92d0c760da28aa8
+    content: SR-71 Blackbird aircraft descending from above approximately 18,000 metres produced visible contrails.
+    original_excerpt: they descend out of, you know, above 60,000, you'd see them, they get contrails, you know, the white
+      lines behind airplanes.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 01:10:06.7-01:10:11.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: f1c15b89-7dd4-4b47-beed-33b50b86810e
+    claim_hash: 94805ae6b5af4e7842905fd2935b2b0d0e47335ad6bda999449f143efb484b64
+    content: SR-71 Blackbird aircraft would refuel from a tanker aircraft after descending from altitude and then climb back
+      up.
+    original_excerpt: They'd come down and hit the tanker and then they'd go back up.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 01:10:12.1-01:10:14.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 53b4bfb6-8d54-49a6-944f-72be5ef90533
+    claim_hash: 7c78a3bd48ddf9627ead2a998f6c3f5a80261d406723dacd9c3f0ec3f3b000a1
+    content: The U-2 and the SR-71 Blackbird were the aircraft doing high-altitude reconnaissance work in the 1950s before
+      satellites became widely used.
+    original_excerpt: you got to remember when those things started in the 50s sputnik wasn't flying around you know it was
+      it was the u2 and the sr-71 that were out there doing that work
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: d212d6ab-72c2-4dad-85ef-15a6b44d9bab
+        title: U-2
+        slug: u-2
+    date: null
+    date_end: null
+    location_in_record: 01:10:33.2-01:10:39.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 56d412c9-1e1a-4b23-aa70-e3a44a544e80
+    claim_hash: 1ac3d5f1c079345eafa6d48dc176676eb31e56e4d605a907eb9dcb5ffbd7f79d
+    content: David Fravor is not certain there is a continuing need for an aircraft capable of the SR-71 Blackbird's speed,
+      given current capabilities in space-based reconnaissance.
+    original_excerpt: is there a need to pass that i go i don't know we got stuff in space so
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 01:10:51.0-01:10:53.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 1aaad40b-67cd-40c1-bf11-d19fe580040d
+    claim_hash: cad4ea00535171e08204f4e9b160cb29d6a7b46e1b29455d03551f292cc41ef0
+    content: Jim Goodall has written 20 books on top-secret aircraft such as the SR-71 Blackbird, the F-117 stealth attack
+      aircraft and the B-2A stealth bomber.
+    original_excerpt: Aviation journalist Jim Goodall has written 20 books on a plethora of top-secret craft, such as the
+      SR-71 Blackbird, the F-117 stealth attack aircraft and the B-2A stealth bomber.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: a2e88f4b-c3f6-45d3-aee0-82fd65df75ca
+        title: F-117A Night Hawk
+        slug: f-117a-night-hawk
+      - node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
+        title: Jim Goodall
+        slug: jim-goodall
+      - node_id: d0c9607e-3473-4218-aa7d-e3fa6e46ce62
+        title: B-2 stealth bomber
+        slug: b-2-stealth-bomber
+    date: null
+    date_end: null
+    location_in_record: ch13:13251-13423
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 699a3e88-07e2-431c-b5ac-ee8661c12c4e
+    claim_hash: f1a29939fe0880ae2784cf963997f1e19f60f87ef325df2331827b0116d99299
+    content: Dave, a retired lieutenant colonel in the US Air Force who flew the Lockheed SR-71 reconnaissance aircraft, witnessed
+      an unidentified craft while night-flying out of Kadena Air Force Base in Okinawa, Japan, in late 1972 or early 1973.
+    original_excerpt: He told me how 'Dave', a retired lieutenant colonel in the US Air Force who flew the high-altitude mach-3-plus
+      Lockheed SR-71 reconnaissance aircraft, witnessed an unidentified craft while night-flying out of Kadena Air Force Base
+      in Okinawa, Japan, in late 1972 or early 1973.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
+      title: Jim Goodall
+    provenance_chain:
+      origin_kind: named
+      origin: Dave (SR-71 pilot)
+      relay:
+        - Jim Goodall
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e7d489e-9335-4906-8687-0acb68d2818a
+        title: Dave (SR-71 pilot)
+        slug: dave-sr-71-pilot
+      - node_id: 149a7c1a-df1c-426e-ac10-f0cdad39f0cf
+        title: Japan, Okinawa, Kadena Air Force Base
+        slug: okinawa-kadena-air-force-base-japan
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 471145f2-0b13-47b9-a315-8be51fb7d338
+        title: Kadena Air Force Base UAP Sighting
+        slug: kadena-air-force-base-uap-sighting
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+    date: '1972'
+    date_end: null
+    location_in_record: ch13:17625-17897
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a381a031-01cb-435d-8afb-98ea060e987e
+    claim_hash: 8fca09bc5247c3e167a7a7d51e6df22b27efd49b2c0f67ec2b55da1f1b62cc05
+    content: During the 1972 Kadena SR-71 UAP sighting, Dave advanced the throttles on his SR-71 to try to intercept the object,
+      and as he grew closer he could see it was not round and had shiny metallic edges.
+    original_excerpt: He advanced the throttles on the spy-plane to try to intercept the object and as he grew closer, he
+      could see it was not round, it had shiny metallic edges.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
+      title: Jim Goodall
+    provenance_chain:
+      origin_kind: named
+      origin: Dave (SR-71 pilot)
+      relay:
+        - Jim Goodall
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e7d489e-9335-4906-8687-0acb68d2818a
+        title: Dave (SR-71 pilot)
+        slug: dave-sr-71-pilot
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch13:18354-18504
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 77a80a46-3af5-4896-8f55-2f1705dd25b3
+    claim_hash: d84e107abcaadbc347762afed087694d5e8762b952ede38070c1c600a08f60e0
+    content: The fastest jet currently flying is the United States' SR-71 Blackbird, with a top speed of Mach 3.3, approximately
+      3500 kilometres per hour.
+    original_excerpt: The fastest jet currently flying is the United States' SR-71 Blackbird, with a top speed of mach 3.3,
+      or 3500 km/h.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+    date: null
+    date_end: null
+    location_in_record: ch13:19088-19201
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 13282920-8ccf-48a6-95f1-8062c0345ff4
+    claim_hash: bf891d100e3d5d69330902774af1c35880708abbdae0915d673278b9f047e644
+    content: Two decades after Bob Lazar's 1989 disclosure, a former SR-71 Blackbird pilot named David Fruehauf went public
+      in a television interview, partially backing Lazar's claims and calling him very credible.
+    original_excerpt: Two decades later, a former SR-71 pilot, David Fruehauf (whom I surmise was Jim Goodall's confidential
+      'Dave' source), went public in a television interview, partially backing Lazar's claims. 'I think he's very credible,'
+      Fruehauf asserted.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+      title: David Fruehauf
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fruehauf
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+        title: David Fruehauf
+        slug: david-fruehauf
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+        title: Bob Lazar
+        slug: bob-lazar
+    date: null
+    date_end: null
+    location_in_record: ch13:22093-22326
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f9eeef63-58be-4494-8af5-6b01717b10dd
+    claim_hash: 0b1ec7ac10e5383b165bb2e741f74c7029a5415f19efd50037f7f228fe376886
+    content: In the early 1990s, while working at a high security aerospace company facility, Robert 'Bob' Fish was shown
+      digital radar tracks showing a hypersonic UFO tracking alongside a US Air Force SR-71 Blackbird spy plane.
+    original_excerpt: In the early 1990s, while working in a high security aerospace company facility, he was shown digital
+      radar tracks showing a hypersonic UFO tracking alongside the US Air Force's SR-71 Blackbird spy plane.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+    date: '1990'
+    date_end: null
+    location_in_record: ch13:31185-31383
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5df5fdb3-0df3-4406-aa0c-acdb469a219f
+    claim_hash: d3f9234c2ceae9f360ecadff7a221338188a25edd9f02abff754eec7de955a79
+    content: Robert 'Bob' Fish described two images streaking through the sky at over Mach 3, one in a side-chase position
+      to the other, with the lead plane being an SR-71 Blackbird and the other unidentified.
+    original_excerpt: '''There were two images streaking through the sky at Mach 3+ – one in a side-chase position to the
+      other. The lead plane was our venerable SR-71 Blackbird; the other one was unidentified.'
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+    date: null
+    date_end: null
+    location_in_record: ch13:31400-31572
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d9728688-94b8-4b0c-8dd8-a0e3a1df0c29
+    claim_hash: 11f2f2e446211bb4e5115f91362b62c8f5d2142e4f96d46654488784579935e3
+    content: Robert 'Bob' Fish said the unidentified object seen alongside the SR-71 Blackbird made a 90-degree right turn,
+      headed off in a different direction, and rapidly gained altitude while maintaining its speed.
+    original_excerpt: At one point in the trace, the unidentified object made a 90-degree right turn and headed off in a different
+      direction, rapidly gaining altitude while maintaining its speed.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+    date: null
+    date_end: null
+    location_in_record: ch13:31586-31753
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
+    claim_hash: 55320643ed4c389934f0d4f6be7c7b3dd587965c28a2651851bf27e82d6d2f52
+    content: Skunk Works, Lockheed's advanced development programme, has a history developing the U-2 and SR-71 Blackbird
+      spy planes, the F-117A Night Hawk stealth attack aircraft, the F-22 Raptor fighter, and the F-35 Lightning stealth jet.
+    original_excerpt: Skunk Works is a nickname for Lockheed's advanced development programs and it has an illustrious super-secret
+      black-budget history for its role in developing the U2 and SR-71 Blackbird spy-planes, the F-117 Nighthawk stealth attack
+      aircraft, the F-22 Raptor fighter and the F-35 Lightning stealth jet – all by far the most advanced known aerospace
+      defence technology of their day on the planet.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3dcb1bdf-9e00-430b-97ed-ded13b79fd61
+        title: U-2 spy plane
+        slug: u-2-spy-plane
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: 847500ab-d729-4297-b379-605f40aad1bf
+        title: F-35 Lightning stealth jet
+        slug: f-35-lightning-stealth-jet
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: a2e88f4b-c3f6-45d3-aee0-82fd65df75ca
+        title: F-117A Night Hawk
+        slug: f-117a-night-hawk
+      - node_id: e1014d56-f0d9-46ef-b2cd-e24a45f2f8ed
+        title: F-22 Raptor
+        slug: f-22-raptor
+    date: null
+    date_end: null
+    location_in_record: ch18:15942-16329
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3687c3dd-7ce7-4b8b-926e-da5ac90caf80
+    claim_hash: fdce6c9d6f78e382dcf55ceddeda2d47a599efcac202a8ddac65f9d99c10bf4f
+    content: UAP tracked before the 2004 USS Nimitz encounter appeared on radar at approximately 24,000 metres altitude, above
+      the normal envelope of aircraft except for a few exceptions such as the U-2, the SR-71 Blackbird, and the alleged Aurora
+      aircraft.
+    original_excerpt: They even popped up on the radar at 80,000 feet, where you begin to get into space, well above the normal
+      envelope of aircraft, even military aircraft, with only a few notable exceptions, which include the U-2, the Blackbird,
+      and the alleged Aurora.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: radar operators aboard the USS Princeton
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: d212d6ab-72c2-4dad-85ef-15a6b44d9bab
+        title: U-2
+        slug: u-2
+      - node_id: f0385240-27ed-4e66-bd46-348cc902df56
+        title: Aurora
+        slug: aurora
+    date: null
+    date_end: null
+    location_in_record: ch15:2185-2427
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: f1cc7a47-4251-4c89-98b4-f7676657da65
+    claim_hash: 1f4f8c043fddf3010669cb099633ac232fb2e3f1c9466e0e9d60469c2a90ba04
+    content: The SR-71 Blackbird can just about reach Mach 5 at high altitudes, and any faster the aircraft would be incinerated
+      by the heat generated.
+    original_excerpt: The SR-71 Blackbird can just about hit Mach 5 at high altitudes. Made up almost entirely of titanium,
+      any faster, the aircraft would be incinerated by the heat generated.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+    date: null
+    date_end: null
+    location_in_record: ch20:12066-12226
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 324563a9-511d-4f5c-9114-b7159d72358f
+    claim_hash: 8e6be7a0e7b3b0604aba90e4f344d9e5e142e9a45335aacffc0ef4e460fedd05
+    content: The SR-71 Blackbird is made up almost entirely of titanium.
+    original_excerpt: Made up almost entirely of titanium, any faster, the aircraft would be incinerated by the heat generated.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+    date: null
+    date_end: null
+    location_in_record: ch20:12131-12226
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: ab6dafb3-ecbc-4ff8-b764-ee701c8e6206
+    claim_hash: 897010a9460ece28b66c07c16c6eeb5685652f3a5a58393bc37452212468c717
+    content: At full speed, the SR-71 Blackbird requires airspace roughly half the size of the state of Ohio to complete a
+      right- or left-hand turn.
+    original_excerpt: As an example, at full speed, the SR-71, known as the Blackbird, requires airspace roughly half the
+      size of the state of Ohio to complete a right- or left-hand turn.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+    date: null
+    date_end: null
+    location_in_record: ch20:13078-13238
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 09c962b1-af39-4fe1-af82-591778224e5f
+    claim_hash: 181bc5323dacaedcb2bf0012e2e0aff2cc132e2d14c5b003cfedae1f8e82f875
+    content: Unidentified aerial phenomena (UAP) make immediate right-angle turns at speeds up to ten times faster than the
+      SR-71 Blackbird.
+    original_excerpt: By contrast, UAP make immediate right-angle turns at speeds up to ten times faster than the SR-71.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+    date: null
+    date_end: null
+    location_in_record: ch20:13244-13339
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 697c81f3-829c-482a-8d35-ca95c63e94c5
+    claim_hash: fac451e6638f50c0b5aa0227b8d6a45c07b28c3139e3c6d4ed09cb933162993c
+    content: In 1968, President Lyndon B. Johnson ordered the retirement of the A-12 OXCART when it was replaced by the SR-71
+      Blackbird, itself a modified version of the A-12.
+    original_excerpt: In 1968, President Johnson ordered the retirement of the A-12 when it was replaced by the SR-71, which
+      itself was a modified version of the A-12.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+    date: '1968'
+    date_end: null
+    location_in_record: char:127018-127160
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

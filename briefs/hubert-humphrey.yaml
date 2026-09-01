@@ -1,0 +1,171 @@
+schema: anomalica/brief/1
+brief_hash: 1e428ab2edce60af4cb0be7622360200e10bbec73d7474d0e59c8bcd7e0586c5
+page:
+  kind: entity
+  node_id: ecded690-0f62-428e-8974-55c3d052248f
+  node_type: person
+  title: Hubert Humphrey
+  slug: hubert-humphrey
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 943
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
+related_nodes:
+  - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+    title: Lyndon B. Johnson
+    node_type: person
+    slug: lyndon-b-johnson
+    shared_claims: 2
+  - node_id: e771f9fe-8342-4be6-94b3-a8afcc990d87
+    title: Albert K. Bankston
+    node_type: person
+    slug: albert-k-bankston
+    shared_claims: 1
+  - node_id: ba421139-2a59-409a-bc65-9672711dfe1b
+    title: Kim Novak
+    node_type: person
+    slug: kim-novak
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+claims:
+  - claim_id: 0a9a3187-4d7b-428b-a189-27aede457137
+    claim_hash: 1327232697beb6dd788bbd0eaae978198e33f88319d3c75bf1246b6b1905fde3
+    content: Albert K. Bankston said that some motorcycle clubs were heavily involved in the cattle mutilation operations,
+      which he said included human sacrifice, and that there was a list of prominent liberals, including Senator Hubert Humphrey
+      and actress Kim Novak, who would be assassinated by the group.
+    original_excerpt: He added that some motorcycle clubs were heavily involved in these operations, which included human
+      sacrifice. Furthermore, there was a list of prominent liberals who would be assassinated by the group, among them Senator
+      Hubert Humphrey and actress Kim Novak.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Albert K. Bankston
+      relay:
+        - a preliminary intelligence report
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ba421139-2a59-409a-bc65-9672711dfe1b
+        title: Kim Novak
+        slug: kim-novak
+      - node_id: e771f9fe-8342-4be6-94b3-a8afcc990d87
+        title: Albert K. Bankston
+        slug: albert-k-bankston
+      - node_id: ecded690-0f62-428e-8974-55c3d052248f
+        title: Hubert Humphrey
+        slug: hubert-humphrey
+    date: null
+    date_end: null
+    location_in_record: ch12:33618-33872
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 620cebb9-c769-45b5-adc6-cb5ba4d8553d
+    claim_hash: 3b6b5b355f627a4408a3d1536bdfb1ca72c11a66462a5c63cbf38dc20657eb90
+    content: Lyndon Johnson was approached by someone about the Unidentified Flying Object subject for about five minutes,
+      said he was not interested, and directed that it be taken to his vice president Hubert Humphrey.
+    original_excerpt: I know that Lyndon Johnson was approached or he said, he was, they, someone talked to him, I'm pretty
+      sure for about five minutes. And he said, I'm not interested in this. Take it to Hubert Humphrey, his vice president.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: an unattributed account relayed by Whitley Strieber
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: ecded690-0f62-428e-8974-55c3d052248f
+        title: Hubert Humphrey
+        slug: hubert-humphrey
+    date: null
+    date_end: null
+    location_in_record: 01:32:19.3-01:32:35.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 31802de0-1e72-4b3d-a6b2-78e22ec77a21
+    claim_hash: f19fa99aa2cae7c7c394f86aee9d836e7ffd5a774ab0102b3ca848038d0907dc
+    content: Hubert Humphrey was vice president under Lyndon Johnson.
+    original_excerpt: Take it to Hubert Humphrey, his vice president.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Whitley Strieber's narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: ecded690-0f62-428e-8974-55c3d052248f
+        title: Hubert Humphrey
+        slug: hubert-humphrey
+    date: null
+    date_end: null
+    location_in_record: 01:32:33.2-01:32:35.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

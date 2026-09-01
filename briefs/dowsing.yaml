@@ -1,0 +1,898 @@
+schema: anomalica/brief/1
+brief_hash: 853b1eadccd66bc7d6cb9258ff0ade3bbdb58563bbf079756a130f3a71a19add
+page:
+  kind: entity
+  node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+  node_type: topic
+  title: Dowsing
+  slug: dowsing
+  claim_count: 21
+  claim_count_total: 21
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 21
+  tokens_estimated: 7037
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 21
+related_nodes:
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    node_type: person
+    slug: joseph-mcmoneagle
+    shared_claims: 12
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    node_type: topic
+    slug: remote-viewing-rv
+    shared_claims: 6
+  - node_id: 122c5474-8b82-401b-ac82-e2a300041b32
+    title: 'Remote Viewing Secrets: A Handbook'
+    node_type: document
+    slug: remote-viewing-secrets-a-handbook
+    shared_claims: 3
+  - node_id: 7c287527-8d72-41d4-adec-5dcf0ce9ad1d
+    title: Associative Remote Viewing
+    node_type: topic
+    slug: associative-remote-viewing
+    shared_claims: 2
+  - node_id: a042fed1-7c33-4d46-8340-0b2398034858
+    title: Front-Loading (remote viewing)
+    node_type: topic
+    slug: front-loading-remote-viewing
+    shared_claims: 2
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    node_type: project
+    slug: project-stargate
+    shared_claims: 1
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    node_type: organisation
+    slug: sri-international
+    shared_claims: 1
+  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+    node_type: organisation
+    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+    shared_claims: 1
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    node_type: place
+    slug: maryland-fort-meade-usa
+    shared_claims: 1
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    node_type: organisation
+    slug: united-states-army
+    shared_claims: 1
+  - node_id: 0a475abf-7c1e-468a-a2df-760af8bafb3d
+    title: ley lines
+    node_type: topic
+    slug: ley-lines
+    shared_claims: 1
+claims:
+  - claim_id: 70645fd9-dd27-4d64-a1e1-9c35de6e22f2
+    claim_hash: 5096394eaf118a3f6b9ffc107cdc3cf66e3eee5440c26cec5d32174460aa600d
+    content: When attempting to find something paranormally using remote viewing, dowsing needs to be used as well.
+    original_excerpt: In attempting to find something paranormally, if you hope to use remote viewing, then you need to use
+      something else as well—this is called dowsing.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 122c5474-8b82-401b-ac82-e2a300041b32
+        title: 'Remote Viewing Secrets: A Handbook'
+        slug: remote-viewing-secrets-a-handbook
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch17:33905-34045
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: df7ebb06-226e-48f3-95da-f0e09b8e691d
+    claim_hash: 81ba43d42fa997eb723bc880c4b2597ce6dc9de2fa6ef14ef8438fc6baf68ed1
+    content: When using dowsing to locate something on a map after remote viewing, the remote viewing should be done first,
+      then progressively larger to smaller maps should be dowsed, narrowing from a country-level map down to a specific area,
+      so that examining map details does not front-load the viewer on what to expect.
+    original_excerpt: you probably want to do the remote viewing first... Usually this is accomplished in some sort of progressive
+      way. If you are looking for a kidnapped victim who could be anywhere in America, then you obviously have to start with
+      a map of America... You do the remote viewing first, so that looking at the map details does not front-load you on what
+      to expect.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 122c5474-8b82-401b-ac82-e2a300041b32
+        title: 'Remote Viewing Secrets: A Handbook'
+        slug: remote-viewing-secrets-a-handbook
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: a042fed1-7c33-4d46-8340-0b2398034858
+        title: Front-Loading (remote viewing)
+        slug: front-loading-remote-viewing
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch17:34900-35172
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 98b3af1f-e21e-4167-8637-f49146848458
+    claim_hash: ee977fd8eea22e1a84202a681660ad860000063021d03b63b13aa3bbda838cb6
+    content: Joseph McMoneagle once searched for nearly three years for a person he was looking for and never succeeded through
+      dowsing.
+    original_excerpt: Don't expect to be right on the money the first time you try. I once looked for nearly three years before
+      I found a person I was looking for, and never did succeed through dowsing.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch17:35678-35850
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 9cbd02bd-ef01-4a0f-ad70-171dafbd68d2
+    claim_hash: 4f48807acfd2a7e64c86948b2132e319f23a94609e148b8a0acad55147250b38
+    content: Dowsing was used by the military with a great deal of accuracy in some cases, which led to two or three of the
+      remote viewers being formally trained in dowsing.
+    original_excerpt: There are cases where dowsing was used by the military with a great deal of accuracy. This necessity
+      of locating things led to two or three of the viewers being formally trained in dowsing.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch17:35860-36041
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 1c2c0e2f-393a-4a4f-a93c-6dd7beb87e61
+    claim_hash: 9ea112fb2d7015fb4ecbfd229e92749d817647f1a3a45a969315ad181921d417
+    content: Joseph McMoneagle was originally trained in dowsing while assigned to Project STARGATE at Fort Meade, Maryland.
+    original_excerpt: I was originally trained in dowsing while assigned to the STARGATE unit at Fort Meade.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+        title: Project STARGATE
+        slug: project-stargate
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+        title: USA, Maryland, Fort Meade
+        slug: maryland-fort-meade-usa
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch17:36051-36131
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 88019d1c-91ae-40c6-898c-cdeefcb18d7f
+    claim_hash: 10f6b0fd21cbcdf1cb60b72506774cd6e377bae481bf5fd00e98b35d1215971b
+    content: Joseph McMoneagle was later formally trained in dowsing at the Cognitive Sciences Laboratory at SRI International
+      by an internationally known dowser with decades of experience.
+    original_excerpt: I was later trained formally, at the Cognitive Sciences Laboratory at SRI-International, by an internationally-known
+      dowser with decades of experience.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch17:36138-36278
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 3ac3d3fc-70a6-445a-8bb2-1526703523ac
+    claim_hash: 58b1fb88c362cf3e24f427266e5070216cde7f0cde6eb4b0ba261eee6a027822
+    content: The use of dowsing does not preclude following established remote viewing protocols, though people sometimes
+      fail to remember this when combining methodologies.
+    original_excerpt: Note that the use of dowsing does not preclude following established protocols for remote viewing. People
+      sometimes fail to remember that when they begin combining methodologies.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 122c5474-8b82-401b-ac82-e2a300041b32
+        title: 'Remote Viewing Secrets: A Handbook'
+        slug: remote-viewing-secrets-a-handbook
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch17:36369-36533
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: d5261066-64ae-4b41-8251-a0557c3545a7
+    claim_hash: 8b9015b95ee87bda51bb48647c7b20319ee35d7ec73e65d7e9d7f693cb65c492
+    content: 'There are two kinds of dowsing equipment used while remote viewing: one used in lieu of the Associative Remote
+      Viewing (ARV) method for responding to binary questions, and one used for working with locations on a map.'
+    original_excerpt: There are two kinds of dowsing equipment that are used while remote viewing. One is used in lieu of
+      the Associative Remote Viewing (ARV) method for responding to binary type questions, like "YES" and "NO,” “UP" and "DOWN,”
+      “FORWARD" and "BACKWARD," etc., and one is used for working with locations on a map.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 7c287527-8d72-41d4-adec-5dcf0ce9ad1d
+        title: Associative Remote Viewing
+        slug: associative-remote-viewing
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch25:30126-30429
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: e4ed6576-3b20-4f13-b6ce-3b351e692213
+    claim_hash: 87abd12b6f223e6a8c6b5556c1423a7bd6877d958997831cc004cd58055d856a
+    content: Joseph McMoneagle recommends that a dowsing pendulum can be made by tying a small weighted object to a short
+      string or cord.
+    original_excerpt: The least complicated instrument is the pendulum. You can make a pendulum by tying almost any small
+      weighted object to a short string or cord.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch25:30662-30799
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 213a9c08-bd88-4302-a65b-a99b88939513
+    claim_hash: f16ac8d290b2de78103188b70ce35e02357c3d9846387685cc8560b11af5af9e
+    content: Joseph McMoneagle has found that fine string or fishing line works best for a dowsing pendulum, and that using
+      a smaller but heavier weighted object performs well, especially where there might be a breeze or wind.
+    original_excerpt: I have found that the finer string or fishing line is best, and using a smaller but heavier weighted
+      object does well, especially where there might be a breeze or wind.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch25:30805-30968
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 7ab3386e-6265-4100-a361-7a64cc1d2307
+    claim_hash: 3ca4ffb5da3ead9cff0b73de7bada7eed810b5fe01f6073710c99554d6c4333a
+    content: Joseph McMoneagle's own dowsing pendulum has a small recess under the eye that can be filled with a small item
+      related to what is being searched for, such as gold, water, or threads from someone's clothing.
+    original_excerpt: I've included pictures of my own pendulum (figure 2a). It also has a small recess under the eye which
+      you can fill with a small bit of whatever you might be looking for, such as gold, water, or threads from someone's clothing
+      (fig 2b).
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch25:31181-31412
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 1c34bb8f-7a54-4e83-bfde-60da59668ea8
+    claim_hash: 3de6c4e5815b40f03dfc10bb73aded4484b093ee83e4589db49397b5ca3cdae6
+    content: Joseph McMoneagle explains that the dowsing pendulum method involves hanging the pendulum from a short string
+      over a map and allowing the subconscious to control its motion while focusing on a specific question.
+    original_excerpt: The idea is to hang the pendulum from a short string and then allow your subconscious to control the
+      action of the pendulum while focusing on a specific question.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch25:31427-31580
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: e9ee97f3-8bde-40f2-a559-d88e6a3aa95b
+    claim_hash: cae1487e523b5a57c2c40a8774f248f4201d797f7afb667da892995bfbd9ba0a
+    content: Joseph McMoneagle explains that as a dowsing pendulum crosses areas of a map where a sought object is not located
+      it produces a simple, unchanging motion, and when it crosses the correct location it suddenly changes direction.
+    original_excerpt: As the pendulum crosses areas of the map in which the ring is not located, it will produce a simple
+      motion that will not change... When you hit the place on the map in which the ring is located, it will suddenly change
+      directions.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch25:31939-32208
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: fc943a1f-4650-4b4e-8593-c6cd5ba00ef2
+    claim_hash: feb7c56a00a1a1da0db242220e1c1e865990e629cf79745a9e648a8e77e46318
+    content: Joseph McMoneagle recommends calibrating a dowsing pendulum before use by holding it over a blank sheet of paper
+      and stating "This is yes" and "This is no" to observe its differing reactions.
+    original_excerpt: A simple way to do that would be to hold the pendulum over a blank sheet of paper and simply state,
+      "This is yes," and "This is no." The pendulum should react differently for each statement.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch25:32464-32644
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: e79ff038-aea8-4c25-9d3e-c9f3c4661a5d
+    claim_hash: 7c4a6ae5eca494b2a3666f2ca199328cbd954153b5644e94712ae3e71297ce21
+    content: Joseph McMoneagle recommends using a dowsing pendulum to answer binary questions if there is no time to set up
+      an Associative Remote Viewing (ARV) protocol.
+    original_excerpt: If you don't have time to set up an ARV protocol to pursue the binary answer to something, you can use
+      your pendulum... I would only use the pendulum for this if I didn't have time to pursue an answer through the use of
+      ARV.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7c287527-8d72-41d4-adec-5dcf0ce9ad1d
+        title: Associative Remote Viewing
+        slug: associative-remote-viewing
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch25:33253-33553
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: e86de1bb-2509-4c75-b71a-8cb5b17911e4
+    claim_hash: 664f78886839a2d927e126fb61383f054e14c9d859fe59bcf3ce2e5af59e0338
+    content: A straight edge and pencil is another dowsing tool used for determining a point on a map, grid, or diagram, by
+      defining a horizontal and vertical line whose crossing point is the point of interest.
+    original_excerpt: Another simple tool that can be used for dowsing is a straight edge and pencil. These are used for determining
+      a point on a map, grid, or diagram... In order to find a specific point you need to define a horizontal and vertical
+      line. Where they cross will be the point of interest.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch25:33610-33935
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: a71342c7-62cc-40e8-b925-ec3ffacc12ef
+    claim_hash: 110f9443b8f93e98fe1f121abf57da6b4995e66c969c22dd62c3e0194b7e7f4a
+    content: Joseph McMoneagle describes a blinking method of dowsing that does not require a pendulum, where the practitioner
+      gives themselves a command not to blink unless a straight edge is directly over the correct site while sliding it across
+      a map.
+    original_excerpt: There is a shortcut to the above method that does not require a pendulum. You simply give yourself a
+      command to not blink your eyes unless the straight edge is directly over the correct site... You simply try not to blink
+      while sliding the straight edge horizontally or vertically across the map. When you do blink, that is the point at which
+      you should draw your line.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch25:34792-35221
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 828d6cc3-7a2c-4636-9fb9-e2beffb5bcd6
+    claim_hash: 4c2c3a7d9444521eae6d3ab3a491fb1a799e41ea89318d480e88a1918e239c7e
+    content: Joseph McMoneagle suggests the blinking dowsing method can be used discreetly, such as giving oneself the command
+      "Blink when this person is lying" while talking with a stranger, or "Blink when I'm looking in the right direction"
+      at a crime scene.
+    original_excerpt: For example, while talking with a stranger you've never met, give yourself the command, "Blink when
+      this person is lying." Or, while at a crime scene if you are wondering where to look for the most important evidence,
+      you might scan the surroundings while at the same time giving yourself the command, "Blink when I'm looking in the right
+      direction."
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch25:35354-35693
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: f53a71a1-4b7d-40b5-ae08-dc63dddf107e
+    claim_hash: 29c5ff732e242fc71cad5a97f03506a9076a27dec4d687720dcd1f0e9b066244
+    content: When dowsing is scheduled to precede remote viewing, it is always done blind, immediately after being handed
+      the sealed envelope or told the targeting coordinates.
+    original_excerpt: If it is done prior to the remote viewing, then the dowsing is always done blind—but immediately after
+      being handed the sealed envelope, or told the targeting coordinates.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch33:18099-18258
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 035b8671-0bbe-4cc5-adb8-1e5a8abee81e
+    claim_hash: 05b079ca63d57a9693184490d03bb676e731d08561d8cf760793ddeb61c88139
+    content: Joseph McMoneagle considers it better to perform dowsing after a remote viewing session rather than before, because
+      maps used for dowsing can front-load a viewer with information about the actual target, and performing it afterward
+      lets the remote viewer's stronger psychic sense of the target improve the dowsing results.
+    original_excerpt: Maps used for dowsing can front-load a viewer with information pertinent to the actual target they will
+      soon be remote viewing, therefore it is always better to do the dowsing after the remote viewing has been accomplished.
+      By then, the Remote Viewer will have developed a much stronger psychic sense about the target and what it might be,
+      which only improves the results of the dowsing.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: a042fed1-7c33-4d46-8340-0b2398034858
+        title: Front-Loading (remote viewing)
+        slug: front-loading-remote-viewing
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: ch33:18651-19030
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 7b08806c-0c4b-427b-8600-26a89d48d504
+    claim_hash: ec86f44d570948d26e997876a837a597c2b979d0a13d625dcb7569cd6f395554
+    content: Jason Quitt considers that energetically powerful sites were located by dowsers and other sensitive people, and
+      by physical signs such as a sweetness in the air, flowing water, plants and an abundance of life.
+    original_excerpt: there's like dowsers, people that are sensitive. ... And there's also physical signs. ... it's almost
+      like a sweetness in the air. There's water flowing, there's plants, abundance of life.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0a475abf-7c1e-468a-a2df-760af8bafb3d
+        title: ley lines
+        slug: ley-lines
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+    date: null
+    date_end: null
+    location_in_record: lines 309-333
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null

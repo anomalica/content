@@ -9,264 +9,275 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1462
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
 related_nodes:
-- node_id: 33ae3380-25ea-442a-9d60-69b285a20182
-  title: Hillary Clinton
-  node_type: person
-  slug: hillary-clinton
-  shared_claims: 2
-- node_id: 29466c1d-0375-43e7-8fbb-a86fd30bc169
-  title: 1994 Harvard review of John E. Mack
-  node_type: event
-  slug: 1994-harvard-review-of-john-e-mack
-  shared_claims: 1
-- node_id: 335f2869-3102-445f-ae63-1a13d0efe9a7
-  title: Are We Alone?
-  node_type: document
-  slug: are-we-alone
-  shared_claims: 1
-- node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-  title: Bill Clinton
-  node_type: person
-  slug: bill-clinton
-  shared_claims: 1
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 1
-- node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
-  title: Daniel Sheehan
-  node_type: person
-  slug: daniel-sheehan
-  shared_claims: 1
-- node_id: f273bab6-92d0-446a-b0a4-9d3988248228
-  title: James Woolsey
-  node_type: person
-  slug: james-woolsey
-  shared_claims: 1
-- node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
-  title: John Mack
-  node_type: person
-  slug: john-mack
-  shared_claims: 1
-- node_id: 521300b4-8a92-4419-a368-f7697c583708
-  title: Paul Davies
-  node_type: person
-  slug: paul-davies
-  shared_claims: 1
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-- node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-  title: William J. Clinton
-  node_type: person
-  slug: william-j-clinton
-  shared_claims: 1
-claims:
-- claim_id: b4a0d92a-ee97-4ee6-aa2f-4446e6fbed9b
-  claim_hash: 90f89403661035327439dd5b1a75e64bc75e1cf7180da1004ab62f4fb847ef51
-  content: Daniel Sheehan's support for John E. Mack during the 1994 Harvard review
-    was funded by billionaire Laurance Rockefeller.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+    title: Hillary Clinton
+    node_type: person
+    slug: hillary-clinton
+    shared_claims: 2
   - node_id: 29466c1d-0375-43e7-8fbb-a86fd30bc169
     title: 1994 Harvard review of John E. Mack
+    node_type: event
     slug: 1994-harvard-review-of-john-e-mack
-  - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
-    title: John Mack
-    slug: john-mack
-  - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
-    title: Laurance Rockefeller
-    slug: laurance-rockefeller
-  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
-    title: Daniel Sheehan
-    slug: daniel-sheehan
-  date: '1994'
-  date_end: null
-  location_in_record: ch11:23751-23806
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 3df658f8-ae37-4065-bd87-f55e38d1eebe
-  claim_hash: 71be9221588d47566091324083f8939b79cd253ef4c568a347984a22c1503f1f
-  content: After lobbying from billionaire businessman and UAP believer Laurance Rockefeller,
-    President Bill Clinton ordered his new CIA Director James Woolsey to release more
-    of the files on UAPs.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-    title: William J. Clinton
-    slug: william-j-clinton
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: f273bab6-92d0-446a-b0a4-9d3988248228
-    title: James Woolsey
-    slug: james-woolsey
-  - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
-    title: Laurance Rockefeller
-    slug: laurance-rockefeller
-  date: '1993'
-  date_end: null
-  location_in_record: ch14:1550-1726
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 42199e36-3096-4528-b02e-402873c460ed
-  claim_hash: f11325889e200a11ee5c682c1f514fbf07230b91f5d9f1e578f6e95e5fbbf54c
-  content: A photograph taken two years after 1993 shows Hillary Clinton conspicuously
-    carrying the book Are We Alone? by Australian professor Paul Davies, which Laurance
-    Rockefeller gave her as a gift.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
   - node_id: 335f2869-3102-445f-ae63-1a13d0efe9a7
     title: Are We Alone?
+    node_type: document
     slug: are-we-alone
-  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
-    title: Hillary Clinton
-    slug: hillary-clinton
-  - node_id: 521300b4-8a92-4419-a368-f7697c583708
-    title: Paul Davies
-    slug: paul-davies
-  - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
-    title: Laurance Rockefeller
-    slug: laurance-rockefeller
-  date: '1995'
-  date_end: null
-  location_in_record: ch14:1735-2066
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 089e1f5c-803c-4865-879a-88e525f0f546
-  claim_hash: aa02d81895022fcfab0d8eec8abdca4508361fda4bcd747c277076ef1686fa44
-  content: Laurance Rockefeller was very close with the Clintons and constantly tried
-    to interest them in UFO disclosure.
-  original_excerpt: And Laurance Rockefeller, uh, is very close with the Clintons
-    and trying to get them to do disclosure, get them more interested constantly.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jesse Michels
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
-    title: Hillary Clinton
-    slug: hillary-clinton
+    shared_claims: 1
   - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
     title: Bill Clinton
+    node_type: person
     slug: bill-clinton
+    shared_claims: 1
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Daniel Sheehan
+    node_type: person
+    slug: daniel-sheehan
+    shared_claims: 1
+  - node_id: f273bab6-92d0-446a-b0a4-9d3988248228
+    title: James Woolsey
+    node_type: person
+    slug: james-woolsey
+    shared_claims: 1
+  - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+    title: John Mack
+    node_type: person
+    slug: john-mack
+    shared_claims: 1
+  - node_id: 521300b4-8a92-4419-a368-f7697c583708
+    title: Paul Davies
+    node_type: person
+    slug: paul-davies
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
+    node_type: topic
     slug: unidentified-flying-object-ufo
-  - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
-    title: Laurance Rockefeller
-    slug: laurance-rockefeller
-  date: null
-  date_end: null
-  location_in_record: 00:48:25.7-00:48:33.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: e74fbca9-246d-4b8d-ba95-28c8e48957dc
-  claim_hash: a01c5328504921fbc8f3ba43c72ca6a3b5b1d9f415e4c46a5c315c9163f15ebe
-  content: Laurance Rockefeller was a financier, conservationist, businessman and
-    philanthropist.
-  original_excerpt: '[note: Laurance Rockefeller -- Financier, Conservationist, Businessman,
-    Philanthropist]'
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: source record annotation
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
-    title: Laurance Rockefeller
-    slug: laurance-rockefeller
-  date: null
-  date_end: null
-  location_in_record: line 153
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    node_type: person
+    slug: william-j-clinton
+    shared_claims: 1
+claims:
+  - claim_id: b4a0d92a-ee97-4ee6-aa2f-4446e6fbed9b
+    claim_hash: 90f89403661035327439dd5b1a75e64bc75e1cf7180da1004ab62f4fb847ef51
+    content: Daniel Sheehan's support for John E. Mack during the 1994 Harvard review was funded by billionaire Laurance Rockefeller.
+    original_excerpt: with Sheehan’s support (funded by billionaire Laurance Rockefeller)
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 29466c1d-0375-43e7-8fbb-a86fd30bc169
+        title: 1994 Harvard review of John E. Mack
+        slug: 1994-harvard-review-of-john-e-mack
+      - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+        title: John Mack
+        slug: john-mack
+      - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
+        title: Laurance Rockefeller
+        slug: laurance-rockefeller
+      - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+        title: Daniel Sheehan
+        slug: daniel-sheehan
+    date: '1994'
+    date_end: null
+    location_in_record: ch11:23751-23806
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3df658f8-ae37-4065-bd87-f55e38d1eebe
+    claim_hash: 71be9221588d47566091324083f8939b79cd253ef4c568a347984a22c1503f1f
+    content: After lobbying from billionaire businessman and UAP believer Laurance Rockefeller, President Bill Clinton ordered
+      his new CIA Director James Woolsey to release more of the files on UAPs.
+    original_excerpt: after lobbying from billionaire businessman and UAP believer Laurance Rockefeller, the president ordered
+      his new CIA Director James Woolsey to release more of the files on the subject.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+        title: William J. Clinton
+        slug: william-j-clinton
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: f273bab6-92d0-446a-b0a4-9d3988248228
+        title: James Woolsey
+        slug: james-woolsey
+      - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
+        title: Laurance Rockefeller
+        slug: laurance-rockefeller
+    date: '1993'
+    date_end: null
+    location_in_record: ch14:1550-1726
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 42199e36-3096-4528-b02e-402873c460ed
+    claim_hash: f11325889e200a11ee5c682c1f514fbf07230b91f5d9f1e578f6e95e5fbbf54c
+    content: A photograph taken two years after 1993 shows Hillary Clinton conspicuously carrying the book Are We Alone? by
+      Australian professor Paul Davies, which Laurance Rockefeller gave her as a gift.
+    original_excerpt: Two years later, a photograph of Hillary Clinton and Rockefeller shows her conspicuously carrying the
+      book *Are We Alone?*3 by Australian Professor Paul Davies... Rockefeller, a long-time advocate for 'UFO disclosure',
+      gave Hillary the book as a gift; it looks at the philosophical implications of the discovery of extra-terrestrial life.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 335f2869-3102-445f-ae63-1a13d0efe9a7
+        title: Are We Alone?
+        slug: are-we-alone
+      - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+        title: Hillary Clinton
+        slug: hillary-clinton
+      - node_id: 521300b4-8a92-4419-a368-f7697c583708
+        title: Paul Davies
+        slug: paul-davies
+      - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
+        title: Laurance Rockefeller
+        slug: laurance-rockefeller
+    date: '1995'
+    date_end: null
+    location_in_record: ch14:1735-2066
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 089e1f5c-803c-4865-879a-88e525f0f546
+    claim_hash: aa02d81895022fcfab0d8eec8abdca4508361fda4bcd747c277076ef1686fa44
+    content: Laurance Rockefeller was very close with the Clintons and constantly tried to interest them in UFO disclosure.
+    original_excerpt: And Laurance Rockefeller, uh, is very close with the Clintons and trying to get them to do disclosure,
+      get them more interested constantly.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+        title: Hillary Clinton
+        slug: hillary-clinton
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
+        title: Laurance Rockefeller
+        slug: laurance-rockefeller
+    date: null
+    date_end: null
+    location_in_record: 00:48:25.7-00:48:33.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: e74fbca9-246d-4b8d-ba95-28c8e48957dc
+    claim_hash: a01c5328504921fbc8f3ba43c72ca6a3b5b1d9f415e4c46a5c315c9163f15ebe
+    content: Laurance Rockefeller was a financier, conservationist, businessman and philanthropist.
+    original_excerpt: '[note: Laurance Rockefeller -- Financier, Conservationist, Businessman, Philanthropist]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source record annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
+        title: Laurance Rockefeller
+        slug: laurance-rockefeller
+    date: null
+    date_end: null
+    location_in_record: line 153
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

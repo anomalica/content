@@ -9,496 +9,508 @@ page:
   claim_count: 11
   claim_count_total: 11
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 11
+  tokens_estimated: 3567
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 11
 related_nodes:
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 7
-- node_id: c09e3558-1732-4676-a218-d67d285d98ef
-  title: David Fravor
-  node_type: person
-  slug: david-fravor
-  shared_claims: 2
-- node_id: a77966af-a350-432e-8fbc-2ca59029820b
-  title: Fox News
-  node_type: organisation
-  slug: fox-news
-  shared_claims: 2
-- node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-  title: Jesse Mitchells
-  node_type: person
-  slug: jesse-mitchells
-  shared_claims: 2
-- node_id: f24fbead-58c5-41ec-8330-85b60e0255b4
-  title: Shawn Ryan
-  node_type: person
-  slug: shawn-ryan
-  shared_claims: 2
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 2
-- node_id: 5cc7d8f1-ff08-44ad-bd22-584bfb548434
-  title: 2019-05 Fox News interview with Luis Elizondo on recovered Unidentified Flying
-    Object (UFO) debris
-  node_type: document
-  slug: 2019-05-fox-news-interview-with-luis-elizondo-on-recovered-unidentified-flying-object-ufo-debris
-  shared_claims: 1
-- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-  title: Eric Davis
-  node_type: person
-  slug: eric-davis
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-  title: United States Department of Defense (DoD)
-  node_type: organisation
-  slug: united-states-department-of-defense-dod
-  shared_claims: 1
-claims:
-- claim_id: 3b3f844a-4b2f-4cd0-b010-d77d83bf4414
-  claim_hash: f08306dcabcd8697236a148007c1b1c14b2156d2bea591ce1b16efa458141b45
-  content: David Fravor had turned down requests to appear on Tucker Carlson Tonight
-    a couple of times before eventually agreeing.
-  original_excerpt: Because I had turned Tucker down a couple of times before and
-    his producer had called me and I'm like, all right, I'll do it.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
-    title: Tucker Carlson
-    slug: tucker-carlson
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 7
   - node_id: c09e3558-1732-4676-a218-d67d285d98ef
     title: David Fravor
+    node_type: person
     slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 01:49:05.7-01:49:13.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: e33f7e3e-a7af-4e3b-9bf4-9f626da1caa1
-  claim_hash: a087b55ec8e84a74f1f329420903c7d88265c6236fda9f391113ce8d963ef0b4
-  content: David Fravor told Fox News host Tucker Carlson that the Tic Tac craft was
-    white, about 12 metres long, hovering over the water and moved forward, back,
-    left, and right with no rotor wash and no wings.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
-    title: Tucker Carlson
-    slug: tucker-carlson
+    shared_claims: 2
   - node_id: a77966af-a350-432e-8fbc-2ca59029820b
     title: Fox News
+    node_type: organisation
     slug: fox-news
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: ch16:10082-10243
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: c69c35a3-497b-4742-b319-e1994fab63c8
-  claim_hash: f73c916dd6c8e31477c85dda6e17bc0ee1d756264b219bee425a65315a62cabf
-  content: In May 2019, in an interview with Fox News' Tucker Carlson, Luis Elizondo
-    dismissed claims that unidentified aerial phenomena objects do not exist, saying
-    it is an absolute fact that they are there, but what they are, where they are
-    from, and who is behind the wheel is not known.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Luis Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
-    title: Tucker Carlson
-    slug: tucker-carlson
+    shared_claims: 2
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 2
+  - node_id: f24fbead-58c5-41ec-8330-85b60e0255b4
+    title: Shawn Ryan
+    node_type: person
+    slug: shawn-ryan
+    shared_claims: 2
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 2
   - node_id: 5cc7d8f1-ff08-44ad-bd22-584bfb548434
-    title: 2019-05 Fox News interview with Luis Elizondo on recovered Unidentified
-      Flying Object (UFO) debris
+    title: 2019-05 Fox News interview with Luis Elizondo on recovered Unidentified Flying Object (UFO) debris
+    node_type: document
     slug: 2019-05-fox-news-interview-with-luis-elizondo-on-recovered-unidentified-flying-object-ufo-debris
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: a77966af-a350-432e-8fbc-2ca59029820b
-    title: Fox News
-    slug: fox-news
-  date: 2019-05
-  date_end: null
-  location_in_record: ch24:14125-14408
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: efbf6f70-755d-43b6-a881-38ada3fbfabc
-  claim_hash: ef04e1f022cd11cfb830503cfb441aa961b79f5be15ae6d4aed78eb117257584
-  content: Luis Elizondo told Tucker Carlson it was unlikely that the unidentified
-    aerial phenomena observed were foreign country adversaries flying craft in US
-    airspace.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Luis Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
-    title: Tucker Carlson
-    slug: tucker-carlson
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  date: 2019-05
-  date_end: null
-  location_in_record: ch24:14415-14504
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: ae8bf5de-be21-46a2-846f-c68590a20e89
-  claim_hash: 7c59af3838f97199841cb6cf634407258c5ee8c572d0516070c2bd2c2742300f
-  content: Tucker Carlson asked Luis Elizondo, based on his decade serving in the
-    US government on this question, whether the US government has in its possession
-    any material from one of these aircraft, and Elizondo responded that he does.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Luis Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
-    title: Tucker Carlson
-    slug: tucker-carlson
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  date: 2019-05
-  date_end: null
-  location_in_record: ch24:14557-14815
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 019dbab0-304f-4eba-8878-190c70bfaf2b
-  claim_hash: 4c841166171808c3819adea4dcb962e7faa5d481519236f70ee0c314fa395cce
-  content: Tucker Carlson asked Luis Elizondo whether the US government has debris
-    from a UFO in its possession right now, and Elizondo answered that he had to be
-    careful of his non-disclosure agreement (NDA) and could not go into more detail.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Luis Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
-    title: Tucker Carlson
-    slug: tucker-carlson
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  date: 2019-05
-  date_end: null
-  location_in_record: ch24:14828-15148
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 58faaaaa-fd59-4c22-ab7e-27031978d926
-  claim_hash: 9770cdc1ecdca1a57ceae0fae12cd8b060cef24e987742671a10252504a45441
-  content: Tucker Carlson asked Luis Elizondo whether the US government has debris
-    from a UFO in its possession, and Elizondo answered simply put, yes.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Luis Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
-    title: Tucker Carlson
-    slug: tucker-carlson
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  date: 2019-05
-  date_end: null
-  location_in_record: ch24:15370-15463
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 857d6e68-0fac-4d16-9ec9-84acf1239fe8
-  claim_hash: 8239d733d99bbe9e20712ae52b69ae6f8066991cc26f25fb1a6afe0ca62485d6
-  content: Luis Elizondo admitted to colleagues that he received a heavy reprimand
-    from his former Department of Defence colleagues for his candour in the Tucker
-    Carlson interview.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to have heard from Luis Elizondo's colleagues
-    relay:
-    - unnamed colleagues of Luis Elizondo
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
-    title: Tucker Carlson
-    slug: tucker-carlson
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  date: null
-  date_end: null
-  location_in_record: ch24:16364-16529
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 1a93ac1b-a652-4955-b60c-42900ec90b0b
-  claim_hash: af7dfd23ae68c282c0d7e7636ed80019ced6f6d6c0a8dee9a7c01572f4ff111e
-  content: Eric Davis said Luis Elizondo's answer to Tucker Carlson's question about
-    whether the US government is in possession of recovered, crashed and landed UFO
-    technology hardware is 1,000% accurate, and that his national security non-disclosure
-    agreements prevented him from adding further comment.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-  provenance_chain:
-    origin_kind: speaker
-    origin: Eric Davis
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
-    title: Tucker Carlson
-    slug: tucker-carlson
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
+    shared_claims: 1
   - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
     title: Eric Davis
+    node_type: person
     slug: eric-davis
-  date: null
-  date_end: null
-  location_in_record: ch24:17220-17497
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 93060288-2c86-466e-be56-8d43bf31a800
-  claim_hash: f7cc5d48f06447225797ef793c4435d713fc74618fe7c9b6e517ed621d1d845f
-  content: Shawn Ryan and Tucker Carlson describe the Unidentified Flying Object (UFO)
-    phenomenon as spiritual and demonic.
-  original_excerpt: you'll hear like, um, you know, Shawn Ryan and Tucker Carlson
-    and like, we think it's spiritual. We think it's demonic.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: named
-    origin: Shawn Ryan and Tucker Carlson
-    relay:
-    - Jesse Michels recounting what he has heard them say
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-    slug: jesse-mitchells
-  - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
-    title: Tucker Carlson
-    slug: tucker-carlson
+    shared_claims: 1
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
+    node_type: topic
     slug: unidentified-flying-object-ufo
-  - node_id: f24fbead-58c5-41ec-8330-85b60e0255b4
-    title: Shawn Ryan
-    slug: shawn-ryan
-  date: null
-  date_end: null
-  location_in_record: 00:20:53.1-00:20:57.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 49e2b361-58f6-4b60-b245-cfadbe48ce1c
-  claim_hash: f22b5d30ba7bbdd5d32458010bda3fda87cf8964a45b1caf4f0f6bd906ffc418
-  content: Jesse Michels challenges those who say aliens are simply angels or demons
-    to define what an angel or a demon actually is, holding that the terms carry heavy
-    connotation without clear meaning.
-  original_excerpt: that doesn't that just has like a big you know kind of a lot of
-    baggage attached to it has a connotation attached to it but what does that actually
-    mean would be my kind of challenge to those people
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jesse Michels
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-    slug: jesse-mitchells
-  - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
-    title: Tucker Carlson
-    slug: tucker-carlson
-  - node_id: f24fbead-58c5-41ec-8330-85b60e0255b4
-    title: Shawn Ryan
-    slug: shawn-ryan
-  date: null
-  date_end: null
-  location_in_record: 00:21:13.4-00:21:23.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 1
+claims:
+  - claim_id: 3b3f844a-4b2f-4cd0-b010-d77d83bf4414
+    claim_hash: f08306dcabcd8697236a148007c1b1c14b2156d2bea591ce1b16efa458141b45
+    content: David Fravor had turned down requests to appear on Tucker Carlson Tonight a couple of times before eventually
+      agreeing.
+    original_excerpt: Because I had turned Tucker down a couple of times before and his producer had called me and I'm like,
+      all right, I'll do it.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
+        title: Tucker Carlson
+        slug: tucker-carlson
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 01:49:05.7-01:49:13.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: e33f7e3e-a7af-4e3b-9bf4-9f626da1caa1
+    claim_hash: a087b55ec8e84a74f1f329420903c7d88265c6236fda9f391113ce8d963ef0b4
+    content: David Fravor told Fox News host Tucker Carlson that the Tic Tac craft was white, about 12 metres long, hovering
+      over the water and moved forward, back, left, and right with no rotor wash and no wings.
+    original_excerpt: '''White, 40-foot long, just hovering over the water. Forward, back, left, right. There''s no rotor
+      wash, there''s no wings. Nothing,'' Fravor told Fox News'' Tucker Carlson.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
+        title: Tucker Carlson
+        slug: tucker-carlson
+      - node_id: a77966af-a350-432e-8fbc-2ca59029820b
+        title: Fox News
+        slug: fox-news
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: ch16:10082-10243
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c69c35a3-497b-4742-b319-e1994fab63c8
+    claim_hash: f73c916dd6c8e31477c85dda6e17bc0ee1d756264b219bee425a65315a62cabf
+    content: In May 2019, in an interview with Fox News' Tucker Carlson, Luis Elizondo dismissed claims that unidentified
+      aerial phenomena objects do not exist, saying it is an absolute fact that they are there, but what they are, where they
+      are from, and who is behind the wheel is not known.
+    original_excerpt: In an interview with Fox News' Tucker Carlson in May 2019, Elizondo dismissed claims that the unidentified
+      aerial phenomena objects do not exist, saying, 'It is an absolute fact that they are there. Now, what they are, where
+      they are from, who is behind the wheel, we simply don't know.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
+        title: Tucker Carlson
+        slug: tucker-carlson
+      - node_id: 5cc7d8f1-ff08-44ad-bd22-584bfb548434
+        title: 2019-05 Fox News interview with Luis Elizondo on recovered Unidentified Flying Object (UFO) debris
+        slug: 2019-05-fox-news-interview-with-luis-elizondo-on-recovered-unidentified-flying-object-ufo-debris
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a77966af-a350-432e-8fbc-2ca59029820b
+        title: Fox News
+        slug: fox-news
+    date: 2019-05
+    date_end: null
+    location_in_record: ch24:14125-14408
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: efbf6f70-755d-43b6-a881-38ada3fbfabc
+    claim_hash: ef04e1f022cd11cfb830503cfb441aa961b79f5be15ae6d4aed78eb117257584
+    content: Luis Elizondo told Tucker Carlson it was unlikely that the unidentified aerial phenomena observed were foreign
+      country adversaries flying craft in US airspace.
+    original_excerpt: He told Carlson it was unlikely they were foreign country adversaries flying craft in US airspace.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
+        title: Tucker Carlson
+        slug: tucker-carlson
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: 2019-05
+    date_end: null
+    location_in_record: ch24:14415-14504
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ae8bf5de-be21-46a2-846f-c68590a20e89
+    claim_hash: 7c59af3838f97199841cb6cf634407258c5ee8c572d0516070c2bd2c2742300f
+    content: Tucker Carlson asked Luis Elizondo, based on his decade serving in the US government on this question, whether
+      the US government has in its possession any material from one of these aircraft, and Elizondo responded that he does.
+    original_excerpt: '''Let me ask you one last question,'' Carlson asked. ''Do you believe, based on your decade of serving
+      in the US government on this question, that the US government has in its possession any material from one of these aircrafts?''
+      ''Oh . . . I do. Yes,'' Elizondo responded.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
+        title: Tucker Carlson
+        slug: tucker-carlson
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: 2019-05
+    date_end: null
+    location_in_record: ch24:14557-14815
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 019dbab0-304f-4eba-8878-190c70bfaf2b
+    claim_hash: 4c841166171808c3819adea4dcb962e7faa5d481519236f70ee0c314fa395cce
+    content: Tucker Carlson asked Luis Elizondo whether the US government has debris from a UFO in its possession right now,
+      and Elizondo answered that he had to be careful of his non-disclosure agreement (NDA) and could not go into more detail.
+    original_excerpt: '''Do you think the US government has debris from a UFO in its possession right now?'' asked Carlson,
+      clearly surprised at Elizondo''s candour. ''Unfortunately, Tucker, I really have to be careful of my NDA [non-disclosure
+      agreement],'' Elizondo answered, looking uncomfortable. ''I really can''t go into a lot more detail than that—.'''
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
+        title: Tucker Carlson
+        slug: tucker-carlson
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: 2019-05
+    date_end: null
+    location_in_record: ch24:14828-15148
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 58faaaaa-fd59-4c22-ab7e-27031978d926
+    claim_hash: 9770cdc1ecdca1a57ceae0fae12cd8b060cef24e987742671a10252504a45441
+    content: Tucker Carlson asked Luis Elizondo whether the US government has debris from a UFO in its possession, and Elizondo
+      answered simply put, yes.
+    original_excerpt: does he think the US government has debris from a UFO in its possession? 'Aaah, simply put, yes.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
+        title: Tucker Carlson
+        slug: tucker-carlson
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: 2019-05
+    date_end: null
+    location_in_record: ch24:15370-15463
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 857d6e68-0fac-4d16-9ec9-84acf1239fe8
+    claim_hash: 8239d733d99bbe9e20712ae52b69ae6f8066991cc26f25fb1a6afe0ca62485d6
+    content: Luis Elizondo admitted to colleagues that he received a heavy reprimand from his former Department of Defence
+      colleagues for his candour in the Tucker Carlson interview.
+    original_excerpt: I also hear that Elizondo admitted to colleagues he copped a heavy reprimand from his former Department
+      of Defence colleagues for his candour in that Tucker Carlson interview.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have heard from Luis Elizondo's colleagues
+      relay:
+        - unnamed colleagues of Luis Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
+        title: Tucker Carlson
+        slug: tucker-carlson
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: ch24:16364-16529
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1a93ac1b-a652-4955-b60c-42900ec90b0b
+    claim_hash: af7dfd23ae68c282c0d7e7636ed80019ced6f6d6c0a8dee9a7c01572f4ff111e
+    content: Eric Davis said Luis Elizondo's answer to Tucker Carlson's question about whether the US government is in possession
+      of recovered, crashed and landed UFO technology hardware is 1,000% accurate, and that his national security non-disclosure
+      agreements prevented him from adding further comment.
+    original_excerpt: '''Luis Elizondo''s very brief answer to Tucker Carlson''s question about whether the US government
+      is in possession of recovered, crashed and landed [my emphasis] UFO technology hardware is 1,000% accurate. My national
+      security NDAs prevent me from adding any further comment on this.'''
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+      title: Eric Davis
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Davis
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
+        title: Tucker Carlson
+        slug: tucker-carlson
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: null
+    date_end: null
+    location_in_record: ch24:17220-17497
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 93060288-2c86-466e-be56-8d43bf31a800
+    claim_hash: f7cc5d48f06447225797ef793c4435d713fc74618fe7c9b6e517ed621d1d845f
+    content: Shawn Ryan and Tucker Carlson describe the Unidentified Flying Object (UFO) phenomenon as spiritual and demonic.
+    original_excerpt: you'll hear like, um, you know, Shawn Ryan and Tucker Carlson and like, we think it's spiritual. We
+      think it's demonic.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Shawn Ryan and Tucker Carlson
+      relay:
+        - Jesse Michels recounting what he has heard them say
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
+        title: Tucker Carlson
+        slug: tucker-carlson
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: f24fbead-58c5-41ec-8330-85b60e0255b4
+        title: Shawn Ryan
+        slug: shawn-ryan
+    date: null
+    date_end: null
+    location_in_record: 00:20:53.1-00:20:57.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 49e2b361-58f6-4b60-b245-cfadbe48ce1c
+    claim_hash: f22b5d30ba7bbdd5d32458010bda3fda87cf8964a45b1caf4f0f6bd906ffc418
+    content: Jesse Michels challenges those who say aliens are simply angels or demons to define what an angel or a demon
+      actually is, holding that the terms carry heavy connotation without clear meaning.
+    original_excerpt: that doesn't that just has like a big you know kind of a lot of baggage attached to it has a connotation
+      attached to it but what does that actually mean would be my kind of challenge to those people
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
+        title: Tucker Carlson
+        slug: tucker-carlson
+      - node_id: f24fbead-58c5-41ec-8330-85b60e0255b4
+        title: Shawn Ryan
+        slug: shawn-ryan
+    date: null
+    date_end: null
+    location_in_record: 00:21:13.4-00:21:23.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

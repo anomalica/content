@@ -1,272 +1,340 @@
 schema: anomalica/brief/1
-brief_hash: ac9f9707ea45e1a5d49ae36cd014f82089abd0fa5c971c15562b357260bc374e
+brief_hash: 9637fa7fda0f018315ffdfeb0ae542644146bddf9491da662b3e880ca9d315c2
 page:
   kind: entity
   node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
   node_type: organisation
   title: Defense Office of Prepublication and Security Review
   slug: defense-office-of-prepublication-and-security-review
-  claim_count: 5
-  claim_count_total: 5
+  claim_count: 6
+  claim_count_total: 6
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1936
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
 related_nodes:
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 3
-- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-  title: David Charles Grusch
-  node_type: person
-  slug: david-charles-grusch
-  shared_claims: 2
-- node_id: 953f6232-9902-437f-ad4c-add4fd080043
-  title: Leslie Kean
-  node_type: person
-  slug: leslie-kean
-  shared_claims: 2
-- node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
-  title: Ralph Blumenthal
-  node_type: person
-  slug: ralph-blumenthal
-  shared_claims: 2
-- node_id: b9bf4e86-7ab0-4cb4-b53c-8cf60140d42e
-  title: Department of Defense (DoD) Form 1910
-  node_type: document
-  slug: department-of-defense-dod-form-1910
-  shared_claims: 1
-- node_id: e57005b4-b10f-49a9-872f-61f00312b820
-  title: Gimbal video
-  node_type: document
-  slug: gimbal-video
-  shared_claims: 1
-- node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
-  title: Go-Fast Video
-  node_type: document
-  slug: go-fast-video
-  shared_claims: 1
-- node_id: 55991bcf-937b-46da-9858-2b733307190b
-  title: Tic Tac
-  node_type: object
-  slug: tic-tac
-  shared_claims: 1
-- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-  title: United States Department of Defense (DoD)
-  node_type: organisation
-  slug: united-states-department-of-defense-dod
-  shared_claims: 1
-claims:
-- claim_id: c65f9177-4016-48a2-9dde-436b4c7ba614
-  claim_hash: d8d191371c1de626ec4986032b4f3616c1f510e7e98bb54eb69633114d7fa449
-  content: David Charles Grusch provided the Defense Office of Prepublication and
-    Security Review at the Department of Defense with the information he intended
-    to disclose to Leslie Kean and Ralph Blumenthal.
-  original_excerpt: In accordance with protocols, Grusch provided the Defense Office
-    of Prepublication and Security Review at the Department of Defense with the information
-    he intended to disclose to us.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
-    title: Defense Office of Prepublication and Security Review
-    slug: defense-office-of-prepublication-and-security-review
-  - node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
-    title: Ralph Blumenthal
-    slug: ralph-blumenthal
-  - node_id: 953f6232-9902-437f-ad4c-add4fd080043
-    title: Leslie Kean
-    slug: leslie-kean
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 3
   - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
     title: David Charles Grusch
+    node_type: person
     slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: char:2965-3145
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
-      Origin
-    record_date: '2023-06-05'
-    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-- claim_id: d49ccf7a-403b-40a3-b189-65144609fca4
-  claim_hash: 936fc9a0585dff143427f79e58d2d712f1bf49631d53d4ba9025ebde0681c9a0
-  content: David Charles Grusch's on-the-record statements were cleared for open publication
-    on 2023-04-04 and 2023-04-06 in documents provided to Leslie Kean and Ralph Blumenthal.
-  original_excerpt: His on-the-record statements were all “cleared for open publication”
-    on April 4 and 6, 2023, in documents provided to us.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Defense Office of Prepublication and Security Review clearance documents
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
-    title: Defense Office of Prepublication and Security Review
-    slug: defense-office-of-prepublication-and-security-review
-  - node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
-    title: Ralph Blumenthal
-    slug: ralph-blumenthal
+    shared_claims: 2
   - node_id: 953f6232-9902-437f-ad4c-add4fd080043
     title: Leslie Kean
+    node_type: person
     slug: leslie-kean
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: '2023-04-04'
-  date_end: null
-  location_in_record: char:3149-3267
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
-      Origin
-    record_date: '2023-06-05'
-    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-- claim_id: 5c776c56-a762-445c-88f6-e4d1a5a48b9c
-  claim_hash: 0d299cbeb8a40d341a725a41b98f062cdb1dee57af88ffd3df05f58106006fab
-  content: A few days after submitting DoD Form 1910, Lue Elizondo received an email
-    from the Department of Defense Office of Prepublication and Security Review (DoDOPSR),
-    the government body that handles declassification requests.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
-    title: Defense Office of Prepublication and Security Review
-    slug: defense-office-of-prepublication-and-security-review
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  date: null
-  date_end: null
-  location_in_record: ch27:4858-5022
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 35b6b93e-c9dd-45a5-8a56-3c0a9004930f
-  claim_hash: 0f3ff0c15037fe3c367a69540ae5f9561b01bb4fcc8d53146fbeba80571786f2
-  content: The Department of Defense Office of Prepublication and Security Review
-    (DoDOPSR) said it could not declassify the requested UAP videos for release to
-    a restricted audience, and instead urged Lue Elizondo to change the request to
-    unrestricted public release.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: named
-    origin: Department of Defense Office of Prepublication and Security Review (DoDOPSR)
-    relay:
-    - Lue Elizondo
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
-    title: Defense Office of Prepublication and Security Review
-    slug: defense-office-of-prepublication-and-security-review
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  date: null
-  date_end: null
-  location_in_record: ch27:5185-5377
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 142a480a-00e6-4c47-aa96-3b2ab61df55c
-  claim_hash: 6afc7636702f0015e2a765fa72a3ee2f1f9686bbd9662f7ef7ae5c01f2886997
-  content: The Department of Defense Office of Prepublication and Security Review
-    (DoDOPSR) officially stamped Lue Elizondo's DoD Form 1910 with the words "UNLIMITED
-    DISTRIBUTION", approving unrestricted public release of the GoFast, GIMBAL, and
-    FLIR1 (Tic Tac) videos.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
-    title: Go-Fast Video
-    slug: go-fast-video
-  - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
-    title: Defense Office of Prepublication and Security Review
-    slug: defense-office-of-prepublication-and-security-review
-  - node_id: 55991bcf-937b-46da-9858-2b733307190b
-    title: Tic Tac
-    slug: tic-tac
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
+    shared_claims: 2
+  - node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
+    title: Ralph Blumenthal
+    node_type: person
+    slug: ralph-blumenthal
+    shared_claims: 2
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    node_type: organisation
+    slug: defense-intelligence-agency-dia
+    shared_claims: 1
   - node_id: b9bf4e86-7ab0-4cb4-b53c-8cf60140d42e
     title: Department of Defense (DoD) Form 1910
+    node_type: document
     slug: department-of-defense-dod-form-1910
+    shared_claims: 1
   - node_id: e57005b4-b10f-49a9-872f-61f00312b820
     title: Gimbal video
+    node_type: document
     slug: gimbal-video
-  date: null
-  date_end: null
-  location_in_record: ch27:5617-5748
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    node_type: document
+    slug: go-fast-video
+    shared_claims: 1
+  - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+    title: James Lacatski
+    node_type: person
+    slug: james-lacatski
+    shared_claims: 1
+  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+    title: The Pentagon
+    node_type: organisation
+    slug: the-pentagon
+    shared_claims: 1
+  - node_id: 55991bcf-937b-46da-9858-2b733307190b
+    title: Tic Tac
+    node_type: object
+    slug: tic-tac
+    shared_claims: 1
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 1
+claims:
+  - claim_id: c65f9177-4016-48a2-9dde-436b4c7ba614
+    claim_hash: d8d191371c1de626ec4986032b4f3616c1f510e7e98bb54eb69633114d7fa449
+    content: David Charles Grusch provided the Defense Office of Prepublication and Security Review at the Department of Defense
+      with the information he intended to disclose to Leslie Kean and Ralph Blumenthal.
+    original_excerpt: In accordance with protocols, Grusch provided the Defense Office of Prepublication and Security Review
+      at the Department of Defense with the information he intended to disclose to us.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
+        title: Defense Office of Prepublication and Security Review
+        slug: defense-office-of-prepublication-and-security-review
+      - node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
+        title: Ralph Blumenthal
+        slug: ralph-blumenthal
+      - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+        title: Leslie Kean
+        slug: leslie-kean
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:2965-3145
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: d49ccf7a-403b-40a3-b189-65144609fca4
+    claim_hash: 936fc9a0585dff143427f79e58d2d712f1bf49631d53d4ba9025ebde0681c9a0
+    content: David Charles Grusch's on-the-record statements were cleared for open publication on 2023-04-04 and 2023-04-06
+      in documents provided to Leslie Kean and Ralph Blumenthal.
+    original_excerpt: His on-the-record statements were all “cleared for open publication” on April 4 and 6, 2023, in documents
+      provided to us.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Defense Office of Prepublication and Security Review clearance documents
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
+        title: Defense Office of Prepublication and Security Review
+        slug: defense-office-of-prepublication-and-security-review
+      - node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
+        title: Ralph Blumenthal
+        slug: ralph-blumenthal
+      - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+        title: Leslie Kean
+        slug: leslie-kean
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: '2023-04-04'
+    date_end: null
+    location_in_record: char:3149-3267
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 5c776c56-a762-445c-88f6-e4d1a5a48b9c
+    claim_hash: 0d299cbeb8a40d341a725a41b98f062cdb1dee57af88ffd3df05f58106006fab
+    content: A few days after submitting DoD Form 1910, Lue Elizondo received an email from the Department of Defense Office
+      of Prepublication and Security Review (DoDOPSR), the government body that handles declassification requests.
+    original_excerpt: A few days later, I received an email from the Department of Defense Office of Prepublication and Security
+      Review (DoDOPSR), the government body that handles these requests.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
+        title: Defense Office of Prepublication and Security Review
+        slug: defense-office-of-prepublication-and-security-review
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch27:4858-5022
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 35b6b93e-c9dd-45a5-8a56-3c0a9004930f
+    claim_hash: 0f3ff0c15037fe3c367a69540ae5f9561b01bb4fcc8d53146fbeba80571786f2
+    content: The Department of Defense Office of Prepublication and Security Review (DoDOPSR) said it could not declassify
+      the requested UAP videos for release to a restricted audience, and instead urged Lue Elizondo to change the request
+      to unrestricted public release.
+    original_excerpt: DoDOPSR said they could not declassify this kind of media for release to a restricted audience. They
+      urged us to change our request and instead request unrestricted release to make the videos public.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Department of Defense Office of Prepublication and Security Review (DoDOPSR)
+      relay:
+        - Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
+        title: Defense Office of Prepublication and Security Review
+        slug: defense-office-of-prepublication-and-security-review
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch27:5185-5377
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 142a480a-00e6-4c47-aa96-3b2ab61df55c
+    claim_hash: 6afc7636702f0015e2a765fa72a3ee2f1f9686bbd9662f7ef7ae5c01f2886997
+    content: The Department of Defense Office of Prepublication and Security Review (DoDOPSR) officially stamped Lue Elizondo's
+      DoD Form 1910 with the words "UNLIMITED DISTRIBUTION", approving unrestricted public release of the GoFast, GIMBAL,
+      and FLIR1 (Tic Tac) videos.
+    original_excerpt: 'Shortly after, the approval showed up in my inbox. DoDOPSR had officially stamped my Form 1910 with
+      the following words: UNLIMITED DISTRIBUTION.'
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
+        title: Defense Office of Prepublication and Security Review
+        slug: defense-office-of-prepublication-and-security-review
+      - node_id: 55991bcf-937b-46da-9858-2b733307190b
+        title: Tic Tac
+        slug: tic-tac
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: b9bf4e86-7ab0-4cb4-b53c-8cf60140d42e
+        title: Department of Defense (DoD) Form 1910
+        slug: department-of-defense-dod-form-1910
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch27:5617-5748
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c388035c-b71e-46c7-9c46-93d8931d2e13
+    claim_hash: d87d5a9d77c4387d7f0bef679635b46aa90ee3d991f12d01018825634ed7a69a
+    content: All three of James Lacatski's books were briefed and scrubbed by the Pentagon and the Defense Intelligence Agency
+      (DIA) through the Defense Office of Prepublication and Security Review (DOPSR) process.
+    original_excerpt: this has been sanctioned, this has been briefed and scrubbed as have all of his books, all three of
+      his books, from the Pentagon and the- ... The DOPSR Process. ... The DIA, yeah, yeah.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
+        title: Defense Office of Prepublication and Security Review
+        slug: defense-office-of-prepublication-and-security-review
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+    date: null
+    date_end: null
+    location_in_record: 00:07:46.0-00:07:56.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

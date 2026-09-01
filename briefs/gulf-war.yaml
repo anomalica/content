@@ -9,148 +9,161 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 874
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
 related_nodes:
-- node_id: 3be338eb-f5a2-4edb-957d-6f9a0006c99a
-  title: Bleeding Heart of Jesus picture, Austin, Texas (1991-01-11)
-  node_type: event
-  slug: austin-texas-1991-01-11-bleeding-heart-of-jesus-picture
-  shared_claims: 1
-- node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
-  title: George Herbert Walker Bush
-  node_type: person
-  slug: george-herbert-walker-bush
-  shared_claims: 1
-- node_id: fb23b4a4-2e7e-4432-8347-0832eaeca2da
-  title: Saddam Hussein
-  node_type: person
-  slug: saddam-hussein
-  shared_claims: 1
-- node_id: b116c42c-dedf-43ca-b1f0-3010b7c2f921
-  title: San José parish, Austin
-  node_type: organisation
-  slug: austin-san-jose-parish
-  shared_claims: 1
-- node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
-  title: USA, Texas, Austin
-  node_type: place
-  slug: texas-austin-usa
-  shared_claims: 1
-- node_id: d0cb0a3b-6a93-4390-911b-aba30e2289b3
-  title: Weeping oil-tear statue of María near Los Angeles (1991-01)
-  node_type: event
-  slug: weeping-oil-tear-statue-of-maria-near-los-angeles-1991-01
-  shared_claims: 1
-claims:
-- claim_id: 1dcca6f6-ca1c-4292-bfe0-4f0af890251a
-  claim_hash: 1a15124e8413c7f1fbe594ed633e6be164b54c58f31de1e7eb789fe78f7a51f3
-  content: A picture depicting the Heart of Jesus belonging to a member of the San
-    José parish of Austin, Texas, began to bleed on 1991-01-11, the day the Gulf War
-    started.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 01901068-df09-4d46-8c2d-aca4db216069
-    title: Gulf War
-    slug: gulf-war
   - node_id: 3be338eb-f5a2-4edb-957d-6f9a0006c99a
     title: Bleeding Heart of Jesus picture, Austin, Texas (1991-01-11)
+    node_type: event
     slug: austin-texas-1991-01-11-bleeding-heart-of-jesus-picture
-  - node_id: b116c42c-dedf-43ca-b1f0-3010b7c2f921
-    title: San José parish, Austin
-    slug: austin-san-jose-parish
-  - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
-    title: USA, Texas, Austin
-    slug: texas-austin-usa
-  date: '1991-01-11'
-  date_end: null
-  location_in_record: ch23:2724-2883
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: af1b3b08-7cde-4e8d-95c3-fb5dfd62ab64
-  claim_hash: 857469074bae1342926b12f88864785084ed97f946f4bb041cd1f043430e2946
-  content: The María statue near Los Angeles said it was weeping on account of the
-    Gulf War and asked people to pray the rosary every day at three P.M.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 01901068-df09-4d46-8c2d-aca4db216069
-    title: Gulf War
-    slug: gulf-war
-  - node_id: d0cb0a3b-6a93-4390-911b-aba30e2289b3
-    title: Weeping oil-tear statue of María near Los Angeles (1991-01)
-    slug: weeping-oil-tear-statue-of-maria-near-los-angeles-1991-01
-  date: null
-  date_end: null
-  location_in_record: ch23:4802-4924
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: ef0b9118-75b2-44cd-bc84-a0ba46d4e0af
-  claim_hash: eb751568b86d49443a5a9ff73c2527c793c69ab7663b406735f57c5b997176fd
-  content: Saddam Hussein was left in power by George Herbert Walker Bush at the conclusion
-    of the 1991 Gulf War.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 01901068-df09-4d46-8c2d-aca4db216069
-    title: Gulf War
-    slug: gulf-war
+    shared_claims: 1
   - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
     title: George Herbert Walker Bush
+    node_type: person
     slug: george-herbert-walker-bush
+    shared_claims: 1
   - node_id: fb23b4a4-2e7e-4432-8347-0832eaeca2da
     title: Saddam Hussein
+    node_type: person
     slug: saddam-hussein
-  date: '1991'
-  date_end: null
-  location_in_record: ch19:5895-6089
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: b116c42c-dedf-43ca-b1f0-3010b7c2f921
+    title: San José parish, Austin
+    node_type: organisation
+    slug: austin-san-jose-parish
+    shared_claims: 1
+  - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+    title: USA, Texas, Austin
+    node_type: place
+    slug: texas-austin-usa
+    shared_claims: 1
+  - node_id: d0cb0a3b-6a93-4390-911b-aba30e2289b3
+    title: Weeping oil-tear statue of María near Los Angeles (1991-01)
+    node_type: event
+    slug: weeping-oil-tear-statue-of-maria-near-los-angeles-1991-01
+    shared_claims: 1
+claims:
+  - claim_id: 1dcca6f6-ca1c-4292-bfe0-4f0af890251a
+    claim_hash: 1a15124e8413c7f1fbe594ed633e6be164b54c58f31de1e7eb789fe78f7a51f3
+    content: A picture depicting the Heart of Jesus belonging to a member of the San José parish of Austin, Texas, began to
+      bleed on 1991-01-11, the day the Gulf War started.
+    original_excerpt: A picture depicting the Heart of Jesus that belongs to a member of the San José parish of Austin, Texas,
+      began to bleed on January 11, 1991, when the Gulf War started.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01901068-df09-4d46-8c2d-aca4db216069
+        title: Gulf War
+        slug: gulf-war
+      - node_id: 3be338eb-f5a2-4edb-957d-6f9a0006c99a
+        title: Bleeding Heart of Jesus picture, Austin, Texas (1991-01-11)
+        slug: austin-texas-1991-01-11-bleeding-heart-of-jesus-picture
+      - node_id: b116c42c-dedf-43ca-b1f0-3010b7c2f921
+        title: San José parish, Austin
+        slug: austin-san-jose-parish
+      - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+        title: USA, Texas, Austin
+        slug: texas-austin-usa
+    date: '1991-01-11'
+    date_end: null
+    location_in_record: ch23:2724-2883
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: af1b3b08-7cde-4e8d-95c3-fb5dfd62ab64
+    claim_hash: 857469074bae1342926b12f88864785084ed97f946f4bb041cd1f043430e2946
+    content: The María statue near Los Angeles said it was weeping on account of the Gulf War and asked people to pray the
+      rosary every day at three P.M.
+    original_excerpt: and said, “I am weeping on account of the war,” meaning the Gulf War. “I want you to pray the rosary
+      every day at three P.M.”
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01901068-df09-4d46-8c2d-aca4db216069
+        title: Gulf War
+        slug: gulf-war
+      - node_id: d0cb0a3b-6a93-4390-911b-aba30e2289b3
+        title: Weeping oil-tear statue of María near Los Angeles (1991-01)
+        slug: weeping-oil-tear-statue-of-maria-near-los-angeles-1991-01
+    date: null
+    date_end: null
+    location_in_record: ch23:4802-4924
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: ef0b9118-75b2-44cd-bc84-a0ba46d4e0af
+    claim_hash: eb751568b86d49443a5a9ff73c2527c793c69ab7663b406735f57c5b997176fd
+    content: Saddam Hussein was left in power by George Herbert Walker Bush at the conclusion of the 1991 Gulf War.
+    original_excerpt: After being left in power by Bush 41 at the conclusion of the first Gulf War, Saddam had sponsored and
+      financed several attacks against the United States, including the first World Trade Center bombing.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01901068-df09-4d46-8c2d-aca4db216069
+        title: Gulf War
+        slug: gulf-war
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: fb23b4a4-2e7e-4432-8347-0832eaeca2da
+        title: Saddam Hussein
+        slug: saddam-hussein
+    date: '1991'
+    date_end: null
+    location_in_record: ch19:5895-6089
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null

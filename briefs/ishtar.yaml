@@ -1,0 +1,426 @@
+schema: anomalica/brief/1
+brief_hash: e873ff35d70c44c7f9dc788c06e78bcb34a7c6b486b326f6995089451277cdd4
+page:
+  kind: entity
+  node_id: 387071b6-4aba-45b3-ad84-59f2d187e068
+  node_type: person
+  title: Ishtar
+  slug: ishtar
+  claim_count: 10
+  claim_count_total: 10
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 10
+  tokens_estimated: 2973
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 10
+related_nodes:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 3
+  - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
+    title: the visitors (nonhuman beings)
+    node_type: topic
+    slug: the-visitors-nonhuman-beings
+    shared_claims: 3
+  - node_id: 20c11bd7-6c97-4dca-a4aa-9297e0540018
+    title: Shamash (Akkadian sun god)
+    node_type: person
+    slug: shamash-akkadian-sun-god
+    shared_claims: 2
+  - node_id: 081cb3e7-dc0c-4aa0-9a25-74355273cbc8
+    title: Astarte
+    node_type: person
+    slug: astarte
+    shared_claims: 1
+  - node_id: 3afb6735-f8f4-49bb-b0c5-84c0014d96fc
+    title: Shiva
+    node_type: person
+    slug: shiva
+    shared_claims: 1
+  - node_id: 730af453-cfa5-4c12-a8d2-70a1c4af8811
+    title: Trefuilngid
+    node_type: person
+    slug: trefuilngid
+    shared_claims: 1
+  - node_id: a64c32cb-291d-4a81-8663-e91dfbb7b803
+    title: astrotheology
+    node_type: topic
+    slug: astrotheology
+    shared_claims: 1
+claims:
+  - claim_id: c489aac0-553f-4689-9989-04e8ac62f701
+    claim_hash: 8c991e84b72b42b06263d1e9750cfedce31e339bf01a0808c420d269b084b078
+    content: The owl was thought in earliest times to embody the wisdom of Ishtar, the ancient Mesopotamian goddess with huge
+      staring eyes.
+    original_excerpt: It was thought in earliest times to embody the wisdom of Ishtar, the ancient Mesopotamian "Eve-Goddess"
+      with the huge, staring eyes.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 387071b6-4aba-45b3-ad84-59f2d187e068
+        title: Ishtar
+        slug: ishtar
+    date: null
+    date_end: null
+    location_in_record: ch12:15550-15677
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 0e6f3f6d-157c-4ad3-b143-c864e73c0472
+    claim_hash: 7670802d68ba080f7072b75b92dfaa655dfa97efe2fc26dc55fbec8e327b0a5d
+    content: Whitley Strieber wonders whether people who imagine beautiful godlike beings connected to flying saucers are
+      unable to face the fierce eyes, bad smells, dreadful food, and helplessness he associates with the visitor experience.
+    original_excerpt: These believers seem to be people who cannot face the stark reality of the visitor experience, and so
+      cloak the fierce, limitless eyes, the bad smells, the dreadful food, and the general sense of helplessness in a very
+      human mythology.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 387071b6-4aba-45b3-ad84-59f2d187e068
+        title: Ishtar
+        slug: ishtar
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
+        title: the visitors (nonhuman beings)
+        slug: the-visitors-nonhuman-beings
+    date: null
+    date_end: null
+    location_in_record: ch12:24256-24481
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 30e669d3-285b-4de1-a38e-ca5717fadfb8
+    claim_hash: b60cceee9a3a018a32021532cf5dc8d3090a7b75af5d1afeb9ad1d498d067bdc
+    content: Whitley Strieber compares the appearance of the beings he encountered to the ancient image of Ishtar with entirely
+      black eyes and no hair.
+    original_excerpt: The closest thing I have been able to find to an unadorned image of these beings is not from some modern
+      science-fiction movie, it is rather the age-old, glaring face of Ishtar. Paint her eyes entirely black, remove her hair,
+      and there is my image as u hangs before me now in my mind's eye.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 387071b6-4aba-45b3-ad84-59f2d187e068
+        title: Ishtar
+        slug: ishtar
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
+        title: the visitors (nonhuman beings)
+        slug: the-visitors-nonhuman-beings
+    date: null
+    date_end: null
+    location_in_record: ch12:28018-28304
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 828f70a7-90a1-4454-9f07-c00b857e5ca9
+    claim_hash: 2ba56d6db6913c2cd1529100eddae2f789a181de2ac412aa5ebdf656566c3307
+    content: Trefuilngid is known as the Triple Bearer of the Triple Key, an appellation also given to Shiva, Astarte, and
+      Ishtar as ancient manifestations of the Triune Goddess.
+    original_excerpt: Trefuilngid is known as the Triple Bearer of the Triple Key, which is the same appellation given Shiva,
+      Astarte, and Ishtar, three ancient manifestations of the Triune Goddess.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 081cb3e7-dc0c-4aa0-9a25-74355273cbc8
+        title: Astarte
+        slug: astarte
+      - node_id: 387071b6-4aba-45b3-ad84-59f2d187e068
+        title: Ishtar
+        slug: ishtar
+      - node_id: 3afb6735-f8f4-49bb-b0c5-84c0014d96fc
+        title: Shiva
+        slug: shiva
+      - node_id: 730af453-cfa5-4c12-a8d2-70a1c4af8811
+        title: Trefuilngid
+        slug: trefuilngid
+    date: null
+    date_end: null
+    location_in_record: ch14:126732-126900
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: ed85f9a2-17c4-4808-bd1a-36421304fc1c
+    claim_hash: 8e793472258d2e19e1097070739ef45012838c7ccf3a06bf9dc7af0936358663
+    content: Among the ancient Sumerians, Ishtar was regarded as the Triune Goddess, as among modern Christians the Trinity
+      is the central figure of the creative force, God the Father, God the Son, and God the Holy Spirit.
+    original_excerpt: Among the ancient Sumerians Ishtar was the Triune Goddess, as among modern Christians the Trinity is
+      the central figure of the creative force, God the Father, God the Son, and God the Holy Spirit.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 387071b6-4aba-45b3-ad84-59f2d187e068
+        title: Ishtar
+        slug: ishtar
+    date: null
+    date_end: null
+    location_in_record: ch14:127918-128107
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 7b8c0593-ff06-4b42-8bc9-aa34a4278aef
+    claim_hash: 7a7ba404981849c0a304a600a76ca84cba2e86ba084ba67d9f5f95a36ed4223d
+    content: The word Ishtar means "Star."
+    original_excerpt: as also the word Ishtar means "Star."
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 387071b6-4aba-45b3-ad84-59f2d187e068
+        title: Ishtar
+        slug: ishtar
+    date: null
+    date_end: null
+    location_in_record: ch14:128167-128200
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: ab17b97f-27f3-413e-a494-e6586c7cbf65
+    claim_hash: 3ea668030a15533cc75184f6785c8c386f5c6fafca5c380de2f792af8af50978
+    content: Babylonian scriptures call Ishtar the Light of the World, Opener of the Womb, Leader of Armies, Lawgiver, and
+      Forgiver of Sins.
+    original_excerpt: Babylonian scriptures call Ishtar the Light of the World, Opener of the Womb, Leader of Armies, Lawgiver,
+      Forgiver of Sins.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Babylonian scriptures
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 387071b6-4aba-45b3-ad84-59f2d187e068
+        title: Ishtar
+        slug: ishtar
+    date: null
+    date_end: null
+    location_in_record: ch14:128208-128326
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 8bcd0af7-f24c-472e-abcc-2c37e09d360e
+    claim_hash: 854e843df5f37965a850df3d2f3d430375948dcb1550bacca1e06556f44baac7
+    content: Whitley Strieber has reported that the being he has become familiar with looks like Ishtar.
+    original_excerpt: I have reported that the being I have become familiar with looks like Ishtar.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 387071b6-4aba-45b3-ad84-59f2d187e068
+        title: Ishtar
+        slug: ishtar
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
+        title: the visitors (nonhuman beings)
+        slug: the-visitors-nonhuman-beings
+    date: null
+    date_end: null
+    location_in_record: ch14:39040-39110
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: a4bae4fe-656d-4087-b291-3dc2222118c6
+    claim_hash: 8a04505eba86795f3c81d006bab0145a67831398acd36d40d13f0b49bf6d49a0
+    content: In Akkadian depictions Ishtar appears as a virgin figure holding barley in her hand, standing beside the sun
+      god Shamash who grasps her by the foot with a knife.
+    original_excerpt: he might be standing next to Ishtar. And Ishtar, like the Virgin, she's holding the barley in her hand
+      and he's grabbing her by the foot with the knife
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20c11bd7-6c97-4dca-a4aa-9297e0540018
+        title: Shamash (Akkadian sun god)
+        slug: shamash-akkadian-sun-god
+      - node_id: 387071b6-4aba-45b3-ad84-59f2d187e068
+        title: Ishtar
+        slug: ishtar
+    date: null
+    date_end: null
+    location_in_record: 01:54:44.4-01:54:54.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: ea65c65a-3552-4c73-acbb-8d26ecb16939
+    claim_hash: 8acfa2b1a0ab5b1a1522254968cb9549827ec922c07faadc98619b1d8f09214d
+    content: Jason Quitt reads the Akkadian depiction of Shamash and Ishtar as encoding the seasonal cycle of the hot time
+      of year and the harvesting of the grain, with the stars that stand in the heavens when that work must be done.
+    original_excerpt: really it's kind of like the cycle saying it's like the sun is now it's the hot time of the year and
+      he's cutting down, he's harvesting the, the wheat, you know, and these are the stars that are in the heavens when this,
+      you have to do this.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20c11bd7-6c97-4dca-a4aa-9297e0540018
+        title: Shamash (Akkadian sun god)
+        slug: shamash-akkadian-sun-god
+      - node_id: 387071b6-4aba-45b3-ad84-59f2d187e068
+        title: Ishtar
+        slug: ishtar
+      - node_id: a64c32cb-291d-4a81-8663-e91dfbb7b803
+        title: astrotheology
+        slug: astrotheology
+    date: null
+    date_end: null
+    location_in_record: 01:54:58.5-01:55:10.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null

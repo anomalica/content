@@ -9,256 +9,262 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1764
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
 related_nodes:
-- node_id: c09e3558-1732-4676-a218-d67d285d98ef
-  title: David Fravor
-  node_type: person
-  slug: david-fravor
-  shared_claims: 2
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 1
-- node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
-  title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena
-    (UAP) encounter
-  node_type: event
-  slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
-  shared_claims: 1
-- node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
-  title: AN/APG-79 Radar
-  node_type: object
-  slug: anapg-79-radar
-  shared_claims: 1
-- node_id: 34f211a3-1169-4e94-b3c6-017f77c8c3bf
-  title: F/A-18F
-  node_type: object
-  slug: fa-18f
-  shared_claims: 1
-claims:
-- claim_id: af7bd96c-8839-4724-8c8b-8d02961c8f2d
-  claim_hash: da0f1457f1505220f0a8a0a84ac2cd20459800d4b996fdd45950662a60d0503c
-  content: David Fravor's F/A-18F had an APG-73 radar set to Range While Search (RWS),
-    Range Gated High, on an 80 nautical mile scale.
-  original_excerpt: 'Their F/A-18F had an APG-73 radar and was set to the following
-    parameters: - Range While Search (RWS) - Range Gated High - 80NM scale'
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 34f211a3-1169-4e94-b3c6-017f77c8c3bf
-    title: F/A-18F
-    slug: fa-18f
-  - node_id: 787a947b-f020-4f9a-bac8-72b82e5c1475
-    title: AN/APG-73 radar
-    slug: anapg-73-radar
-  date: '2004-11-14'
-  date_end: null
-  location_in_record: char:17688-17817
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
-    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-    record_date: '2004-11-14'
-    record_reference: null
-    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
-    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
-- claim_id: 89236d41-d48c-4999-8aa0-44385ee8305b
-  claim_hash: a6802509861d7860e14e990e77376f0c62213cc0a1d0dbf14ca35a651bb54ba3
-  content: The AN/APG-73 radar used on Navy fighter aircraft at the time of the 2004
-    USS Nimitz UFO incident was a mechanically scanned radar.
-  original_excerpt: we had uh we had uh mechanically scanned radars at the time apg-73
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 787a947b-f020-4f9a-bac8-72b82e5c1475
-    title: AN/APG-73 radar
-    slug: anapg-73-radar
-  date: null
-  date_end: null
-  location_in_record: 01:16:50.7-01:16:53.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 88e733c4-8836-457e-b2f9-ddab0748cc66
-  claim_hash: 31032a3db4aff3bf80872af4682ac8d56ab4cc6c07a53c6eccd0bcc3a76fff83
-  content: David Fravor considers the AN/APG-79 radar a significantly better piece
-    of equipment than the AN/APG-73 radar.
-  original_excerpt: apg-79 new ones way better
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
-    title: AN/APG-79 Radar
-    slug: anapg-79-radar
-  - node_id: 787a947b-f020-4f9a-bac8-72b82e5c1475
-    title: AN/APG-73 radar
-    slug: anapg-73-radar
-  date: null
-  date_end: null
-  location_in_record: 01:16:55.9-01:16:57.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 882b3024-6aba-44f3-b952-8d0da6a9b903
-  claim_hash: c08598073bd1f81cfddff03a081c9cc7f7657a31439a184e2c22ce0fe3d66c2f
-  content: During the 2004 USS Nimitz UAP encounter, the Tic Tac object jammed the
-    APG-73 radar, and the radar tape of this jamming was never released and its location
-    is unknown.
-  original_excerpt: the radar tape that was never released, and we do not know where
-    it is at, of the act of jamming that the object put on an APG–73 radar
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 787a947b-f020-4f9a-bac8-72b82e5c1475
-    title: AN/APG-73 radar
-    slug: anapg-73-radar
   - node_id: c09e3558-1732-4676-a218-d67d285d98ef
     title: David Fravor
+    node_type: person
     slug: david-fravor
-  date: 2004-11
-  date_end: null
-  location_in_record: char:43300-43430
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 5b43f2e9-26e6-4ae7-822e-28e877deff94
-  claim_hash: d15767252d1c4728231cbc7218e023df66fb91cf466ac8884aff04e79b1a47c9
-  content: The radar tape from the 2004 USS Nimitz UAP encounter, which is not seen
-    in the released footage, showed jamming of the AN/APG-73 radar in David Fravor's
-    aircraft.
-  original_excerpt: What is not seen is the Radar tape that showed the jamming of
-    the APG-73 radar in the aircraft
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 787a947b-f020-4f9a-bac8-72b82e5c1475
-    title: AN/APG-73 radar
-    slug: anapg-73-radar
+    shared_claims: 2
   - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
     title: 2004 USS Nimitz UAP encounter
+    node_type: event
     slug: 2004-uss-nimitz-uap-encounter
-  date: 2004-11
-  date_end: null
-  location_in_record: char:4517-4603
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d123926b-16b5-462d-86e0-d3b77fa6b2c0
-    record_title: David Fravor Statement for the House Oversight Committee
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b9448520c64a
-    friendly_name: 2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee
-- claim_id: 2d0672f7-fbee-4326-8fc0-c281fe1f1ceb
-  claim_hash: d092dc05225fd76f8552feef0e8b14839c85e9f9ce2dfa4756445bf47ad5de88
-  content: During the 2004 USS Nimitz UAP encounter, the crew that launched after
-    David Fravor's flight landed experienced significant jamming of their APG-73 radar,
-    affecting range, velocity, and aspect data before the radar lock split and the
-    targeting pod switched to passive mode, which is how the video was obtained.
-  original_excerpt: My crew that launched after we landed experienced significant
-    jamming to the APG–73 radar, which was what we had on board, which is a mechanically
-    scan very high-end system prior to the APG–79 and, yes, it did pretty much everything
-    you could do—range, velocity, aspect—and then it split the lock, then the targeting
-    pod is passive. That is what we were able to get the video on.
-  claim_type: observation
-  attestation: second_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: named
-    origin: David Fravor's crew that launched after his flight landed
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 787a947b-f020-4f9a-bac8-72b82e5c1475
-    title: AN/APG-73 radar
-    slug: anapg-73-radar
+    shared_claims: 1
   - node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
-    title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous
-      Phenomena (UAP) encounter
+    title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) encounter
+    node_type: event
     slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: char:64768-65144
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+    shared_claims: 1
+  - node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
+    title: AN/APG-79 Radar
+    node_type: object
+    slug: anapg-79-radar
+    shared_claims: 1
+  - node_id: 34f211a3-1169-4e94-b3c6-017f77c8c3bf
+    title: F/A-18F
+    node_type: object
+    slug: fa-18f
+    shared_claims: 1
+claims:
+  - claim_id: af7bd96c-8839-4724-8c8b-8d02961c8f2d
+    claim_hash: da0f1457f1505220f0a8a0a84ac2cd20459800d4b996fdd45950662a60d0503c
+    content: David Fravor's F/A-18F had an APG-73 radar set to Range While Search (RWS), Range Gated High, on an 80 nautical
+      mile scale.
+    original_excerpt: 'Their F/A-18F had an APG-73 radar and was set to the following parameters: - Range While Search (RWS)
+      - Range Gated High - 80NM scale'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34f211a3-1169-4e94-b3c6-017f77c8c3bf
+        title: F/A-18F
+        slug: fa-18f
+      - node_id: 787a947b-f020-4f9a-bac8-72b82e5c1475
+        title: AN/APG-73 radar
+        slug: anapg-73-radar
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: char:17688-17817
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+      record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+      record_date: '2004-11-14'
+      record_reference: null
+      content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+      friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+  - claim_id: 89236d41-d48c-4999-8aa0-44385ee8305b
+    claim_hash: a6802509861d7860e14e990e77376f0c62213cc0a1d0dbf14ca35a651bb54ba3
+    content: The AN/APG-73 radar used on Navy fighter aircraft at the time of the 2004 USS Nimitz UFO incident was a mechanically
+      scanned radar.
+    original_excerpt: we had uh we had uh mechanically scanned radars at the time apg-73
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 787a947b-f020-4f9a-bac8-72b82e5c1475
+        title: AN/APG-73 radar
+        slug: anapg-73-radar
+    date: null
+    date_end: null
+    location_in_record: 01:16:50.7-01:16:53.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 88e733c4-8836-457e-b2f9-ddab0748cc66
+    claim_hash: 31032a3db4aff3bf80872af4682ac8d56ab4cc6c07a53c6eccd0bcc3a76fff83
+    content: David Fravor considers the AN/APG-79 radar a significantly better piece of equipment than the AN/APG-73 radar.
+    original_excerpt: apg-79 new ones way better
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
+        title: AN/APG-79 Radar
+        slug: anapg-79-radar
+      - node_id: 787a947b-f020-4f9a-bac8-72b82e5c1475
+        title: AN/APG-73 radar
+        slug: anapg-73-radar
+    date: null
+    date_end: null
+    location_in_record: 01:16:55.9-01:16:57.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 882b3024-6aba-44f3-b952-8d0da6a9b903
+    claim_hash: c08598073bd1f81cfddff03a081c9cc7f7657a31439a184e2c22ce0fe3d66c2f
+    content: During the 2004 USS Nimitz UAP encounter, the Tic Tac object jammed the APG-73 radar, and the radar tape of this
+      jamming was never released and its location is unknown.
+    original_excerpt: the radar tape that was never released, and we do not know where it is at, of the act of jamming that
+      the object put on an APG–73 radar
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 787a947b-f020-4f9a-bac8-72b82e5c1475
+        title: AN/APG-73 radar
+        slug: anapg-73-radar
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: 2004-11
+    date_end: null
+    location_in_record: char:43300-43430
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 5b43f2e9-26e6-4ae7-822e-28e877deff94
+    claim_hash: d15767252d1c4728231cbc7218e023df66fb91cf466ac8884aff04e79b1a47c9
+    content: The radar tape from the 2004 USS Nimitz UAP encounter, which is not seen in the released footage, showed jamming
+      of the AN/APG-73 radar in David Fravor's aircraft.
+    original_excerpt: What is not seen is the Radar tape that showed the jamming of the APG-73 radar in the aircraft
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 787a947b-f020-4f9a-bac8-72b82e5c1475
+        title: AN/APG-73 radar
+        slug: anapg-73-radar
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: 2004-11
+    date_end: null
+    location_in_record: char:4517-4603
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d123926b-16b5-462d-86e0-d3b77fa6b2c0
+      record_title: David Fravor Statement for the House Oversight Committee
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b9448520c64a
+      friendly_name: 2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee
+  - claim_id: 2d0672f7-fbee-4326-8fc0-c281fe1f1ceb
+    claim_hash: d092dc05225fd76f8552feef0e8b14839c85e9f9ce2dfa4756445bf47ad5de88
+    content: During the 2004 USS Nimitz UAP encounter, the crew that launched after David Fravor's flight landed experienced
+      significant jamming of their APG-73 radar, affecting range, velocity, and aspect data before the radar lock split and
+      the targeting pod switched to passive mode, which is how the video was obtained.
+    original_excerpt: My crew that launched after we landed experienced significant jamming to the APG–73 radar, which was
+      what we had on board, which is a mechanically scan very high-end system prior to the APG–79 and, yes, it did pretty
+      much everything you could do—range, velocity, aspect—and then it split the lock, then the targeting pod is passive.
+      That is what we were able to get the video on.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: named
+      origin: David Fravor's crew that launched after his flight landed
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 787a947b-f020-4f9a-bac8-72b82e5c1475
+        title: AN/APG-73 radar
+        slug: anapg-73-radar
+      - node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
+        title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) encounter
+        slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: char:64768-65144
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety

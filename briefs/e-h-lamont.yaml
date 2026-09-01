@@ -9,816 +9,813 @@ page:
   claim_count: 17
   claim_count_total: 17
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 17
+  tokens_estimated: 4921
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 17
 related_nodes:
-- node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
-  title: Douglas Caddy
-  node_type: person
-  slug: douglas-caddy
-  shared_claims: 7
-- node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
-  title: John F. Kennedy assassination
-  node_type: event
-  slug: john-f-kennedy-assassination
-  shared_claims: 6
-- node_id: 579e2838-2beb-4f7b-a4fd-9fc791eaa04e
-  title: Frank Sturgis
-  node_type: person
-  slug: frank-sturgis
-  shared_claims: 4
-- node_id: 2cbd3de3-7ef8-408e-b3cc-5ca6fea1a2f7
-  title: 1972 Watergate burglary
-  node_type: event
-  slug: 1972-watergate-burglary
-  shared_claims: 3
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 3
-- node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
-  title: Assassination of John F. Kennedy
-  node_type: event
-  slug: assassination-of-john-f-kennedy
-  shared_claims: 2
-- node_id: 9bc19483-e9ef-4750-aab4-34110c1e684d
-  title: Liberty Lobby
-  node_type: organisation
-  slug: liberty-lobby
-  shared_claims: 2
-- node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
-  title: Non-Human Intelligence
-  node_type: topic
-  slug: non-human-intelligence
-  shared_claims: 2
-- node_id: a72eb6bd-0f1c-4573-a8ef-ac760b189cc8
-  title: Saint John Hunt
-  node_type: person
-  slug: saint-john-hunt
-  shared_claims: 2
-- node_id: 3e00227f-4ac3-4c3c-8591-bbd5b34f0240
-  title: David Lamar Christ
-  node_type: person
-  slug: david-lamar-christ
-  shared_claims: 1
-- node_id: 3f7e1e3b-7ac6-45f2-a513-7c1ce9600ebe
-  title: Federated States of Micronesia, Pohnpei, Nan Madol
-  node_type: place
-  slug: pohnpei-nan-madol-federated-states-of-micronesia
-  shared_claims: 1
-- node_id: 6a2d80b2-74f1-4eaa-960a-609fcbf8dbac
-  title: Jim Rothstein
-  node_type: person
-  slug: jim-rothstein
-  shared_claims: 1
-- node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
-  title: John Fitzgerald Kennedy
-  node_type: person
-  slug: john-fitzgerald-kennedy
-  shared_claims: 1
-- node_id: 0f346560-30b4-403a-aac9-e61980a99abb
-  title: Lyndon B. Johnson
-  node_type: person
-  slug: lyndon-b-johnson
-  shared_claims: 1
-- node_id: d0de16db-976b-4b09-9da0-6079f971742c
-  title: Marita Lorenz
-  node_type: person
-  slug: marita-lorenz
-  shared_claims: 1
-- node_id: a3e7537a-747d-406c-87cf-826878ff6db3
-  title: Rolling Stone (magazine)
-  node_type: document
-  slug: rolling-stone-magazine
-  shared_claims: 1
-- node_id: a0adeb9e-2278-4d98-804b-b09a195edc83
-  title: Saudeleur Dynasty
-  node_type: organisation
-  slug: saudeleur-dynasty
-  shared_claims: 1
-- node_id: 9339f1ee-3e9d-468d-99ca-4924b08a49d2
-  title: USA, Texas, Dallas, Dealey Plaza
-  node_type: place
-  slug: texas-dallas-dealey-plaza-usa
-  shared_claims: 1
-- node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
-  title: Watergate scandal
-  node_type: event
-  slug: watergate-scandal
-  shared_claims: 1
-claims:
-- claim_id: 9ae83eeb-6fd0-4d1e-b3d7-36e75caad027
-  claim_hash: 5402ef164b648990cb205b937ba8986e7b81770c347f645d9aca8650c7e522ec
-  content: E. Howard Hunt was a Central Intelligence Agency (CIA) operative involved
-    in the Watergate scandal and long-rumoured to have been a key player in the assassination
-    of John F. Kennedy.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
-    title: Watergate scandal
-    slug: watergate-scandal
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
-    title: Assassination of John F. Kennedy
-    slug: assassination-of-john-f-kennedy
-  date: null
-  date_end: null
-  location_in_record: ch10:93001-93123
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 3703df3e-3d26-4cd8-a139-e46263401fdb
-  claim_hash: 2b1f9af3a2894cd9b158b6e317aa1b5b6eb32d97e88499fe85ee5ebbc10bcc8c
-  content: In a story published in Rolling Stone magazine, Saint John Hunt said his
-    father, E. Howard Hunt, admitted on tape to being one of the "three tramps" in
-    photographs of Dealey Plaza taken after the assassination of John F. Kennedy.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: a72eb6bd-0f1c-4573-a8ef-ac760b189cc8
-    title: Saint John Hunt
-  provenance_chain:
-    origin_kind: named
-    origin: E. Howard Hunt
-    relay:
-    - a deathbed confession tape
-    - Saint John Hunt
-    - Rolling Stone magazine
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9339f1ee-3e9d-468d-99ca-4924b08a49d2
-    title: USA, Texas, Dallas, Dealey Plaza
-    slug: texas-dallas-dealey-plaza-usa
-  - node_id: a3e7537a-747d-406c-87cf-826878ff6db3
-    title: Rolling Stone (magazine)
-    slug: rolling-stone-magazine
-  - node_id: a72eb6bd-0f1c-4573-a8ef-ac760b189cc8
-    title: Saint John Hunt
-    slug: saint-john-hunt
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
-    title: Assassination of John F. Kennedy
-    slug: assassination-of-john-f-kennedy
-  date: null
-  date_end: null
-  location_in_record: ch10:93192-93434
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 0f5f3fca-d1c4-4c7c-973b-1d3c5e3f441e
-  claim_hash: 1c5bdaa238611fee3485ada22772d8f5fe3cfff90a54c29069a820cb73d1cdb8
-  content: 'According to Saint John Hunt''s account of his father''s deathbed confession
-    tape, E. Howard Hunt said that the Central Intelligence Agency operatives who
-    planned and carried out the plot to kill John F. Kennedy, including Hunt himself,
-    were all directed by one "top man": Lyndon Baines Johnson.'
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: a72eb6bd-0f1c-4573-a8ef-ac760b189cc8
-    title: Saint John Hunt
-  provenance_chain:
-    origin_kind: named
-    origin: E. Howard Hunt
-    relay:
-    - a deathbed confession tape
-    - Saint John Hunt
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
-    title: Lyndon B. Johnson
-    slug: lyndon-b-johnson
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: a72eb6bd-0f1c-4573-a8ef-ac760b189cc8
-    title: Saint John Hunt
-    slug: saint-john-hunt
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
-    title: John Fitzgerald Kennedy
-    slug: john-fitzgerald-kennedy
-  date: null
-  date_end: null
-  location_in_record: ch10:93449-93760
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 9e1d7b97-f04d-4b14-8759-418fab8c6be1
-  claim_hash: 2cf0aec6eb6583305546d3aad852f454b36d7ad6ba0e941e74cde9614fb30911
-  content: When Captain E. H. Lamont found Nan Madol in the early 1850s, it was already
-    in ruins, probably having been abandoned when the Saudeleur Dynasty fell.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: E. H. Lamont
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3f7e1e3b-7ac6-45f2-a513-7c1ce9600ebe
-    title: Federated States of Micronesia, Pohnpei, Nan Madol
-    slug: pohnpei-nan-madol-federated-states-of-micronesia
-  - node_id: a0adeb9e-2278-4d98-804b-b09a195edc83
-    title: Saudeleur Dynasty
-    slug: saudeleur-dynasty
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  date: null
-  date_end: null
-  location_in_record: ch25:7249-7370
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 19897523-6da8-4001-a659-f23befab27a7
-  claim_hash: d42ac7474f3585e9b390bd3a6293c2237d2a1daebb176868d2aab8875f827d3a
-  content: Douglas Caddy was a lawyer for E. Howard Hunt.
-  original_excerpt: So Watergate principal Howard Hunt had a lawyer called Douglas
-    Caddy.
-  claim_type: administrative
-  attestation: null
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
   - node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
     title: Douglas Caddy
+    node_type: person
     slug: douglas-caddy
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  date: null
-  date_end: null
-  location_in_record: 00:49:49.7-00:49:55.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 0e50f8b9-0829-4628-bd1c-d23f5b1d4b76
-  claim_hash: 51badff58b84e001025a5b7de8ca9df7de3e5b7ddf13f44c9660aae4a0ed4fda
-  content: E. Howard Hunt called Douglas Caddy at the time the Watergate burglars,
-    or Hunt himself, had just been discovered.
-  original_excerpt: Douglas Caddy was a lawyer who was called by Howard Hunt at the
-    time that the Watergate burglars or just after the Watergate burglars had been
-    discovered.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jonathan Caplan
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2cbd3de3-7ef8-408e-b3cc-5ca6fea1a2f7
-    title: 1972 Watergate burglary
-    slug: 1972-watergate-burglary
-  - node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
-    title: Douglas Caddy
-    slug: douglas-caddy
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  date: '1972-06-17'
-  date_end: null
-  location_in_record: 00:50:04.1-00:50:15.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 07792386-5401-4a8b-9db5-402f3deeb6e5
-  claim_hash: ab194402a7217ad59acec17c7911608962f479045b30bc8d658ee660e5acfa27
-  content: E. Howard Hunt instructed Douglas Caddy to represent both the Watergate
-    burglars and himself.
-  original_excerpt: And Hunt instructed him to represent both the burglars and himself.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jonathan Caplan
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2cbd3de3-7ef8-408e-b3cc-5ca6fea1a2f7
-    title: 1972 Watergate burglary
-    slug: 1972-watergate-burglary
-  - node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
-    title: Douglas Caddy
-    slug: douglas-caddy
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  date: null
-  date_end: null
-  location_in_record: 00:50:17.2-00:50:22.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 2623c920-434d-4982-b379-ec3ba5a8e4db
-  claim_hash: 87aca30d7a89d5f47b67f444503feaa47de0f656d1c015982ada8f4ff20173fe
-  content: Douglas Caddy had a dinner with E. Howard Hunt just before Hunt was going
-    to go to prison.
-  original_excerpt: he had a dinner with Howard Hunt just before Howard Hunt was going
-    to go to prison.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: named
-    origin: Douglas Caddy
-    relay:
-    - Jonathan Caplan's research
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
-    title: Douglas Caddy
-    slug: douglas-caddy
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  date: null
-  date_end: null
-  location_in_record: 00:50:41.9-00:50:48.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: d0bdd161-8112-48ac-adc4-d1c5219f25c7
-  claim_hash: 409dd44abeb6ecea8803962643bd26d6e100424fbae59037a209f0402b3253a7
-  content: At that dinner, Douglas Caddy asked E. Howard Hunt what had been the reason
-    for going into the Watergate burglary, and Hunt said it was to do with documents
-    they believed the Democrats had obtained from the Cubans which reflected on President
-    John F. Kennedy's assassination.
-  original_excerpt: And Hunt reluctantly said, well, it was to do with some documents
-    there that we believed that the Democrats had from the Cubans, which reflected
-    on President Kennedy's assassination.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: named
-    origin: Douglas Caddy
-    relay:
-    - Jonathan Caplan's research
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 7
   - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
     title: John F. Kennedy assassination
+    node_type: event
     slug: john-f-kennedy-assassination
+    shared_claims: 6
+  - node_id: 579e2838-2beb-4f7b-a4fd-9fc791eaa04e
+    title: Frank Sturgis
+    node_type: person
+    slug: frank-sturgis
+    shared_claims: 4
   - node_id: 2cbd3de3-7ef8-408e-b3cc-5ca6fea1a2f7
     title: 1972 Watergate burglary
+    node_type: event
     slug: 1972-watergate-burglary
-  - node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
-    title: Douglas Caddy
-    slug: douglas-caddy
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  date: null
-  date_end: null
-  location_in_record: 00:50:56.7-00:51:08.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 3327c5b3-99f8-4ef5-a0b1-8cec612215d8
-  claim_hash: 6201279750b242ec939f5d9d76d9bb60cd7f855c514393b5e37547d9f1c9054e
-  content: As Douglas Caddy and E. Howard Hunt were parting on the sidewalk, with
-    Hunt going off to prison, Caddy asked why John F. Kennedy was assassinated, and
-    Hunt said it was because he was about to reveal the alien presence.
-  original_excerpt: he pressed his luck again, and he said, well, why was Kennedy
-    assassinated? And Hunt came out with the memorable phrase, because he was about
-    to reveal the alien presence.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: named
-    origin: Douglas Caddy
-    relay:
-    - Jonathan Caplan's research
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
-    title: John F. Kennedy assassination
-    slug: john-f-kennedy-assassination
-  - node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
-    title: Douglas Caddy
-    slug: douglas-caddy
+    shared_claims: 3
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 3
+  - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+    title: Assassination of John F. Kennedy
+    node_type: event
+    slug: assassination-of-john-f-kennedy
+    shared_claims: 2
+  - node_id: 9bc19483-e9ef-4750-aab4-34110c1e684d
+    title: Liberty Lobby
+    node_type: organisation
+    slug: liberty-lobby
+    shared_claims: 2
   - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
     title: Non-Human Intelligence
+    node_type: topic
     slug: non-human-intelligence
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  date: null
-  date_end: null
-  location_in_record: 00:51:22.4-00:51:33.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 75e671ae-120c-464c-896f-67b65188461b
-  claim_hash: 18dd2a9228d52fb86206fd6b1e159ec69cf8010dcc15670b8b13f425c25a7020
-  content: Jonathan Caplan considers there to be pretty conclusive evidence that E.
-    Howard Hunt and Frank Sturgis were involved in the assassination of John F. Kennedy.
-  original_excerpt: I think there is pretty conclusive evidence now that Howard Hunt
-    and a man called Frank Sturgis were involved in the Kennedy assassination
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jonathan Caplan
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
-    title: John F. Kennedy assassination
-    slug: john-f-kennedy-assassination
-  - node_id: 579e2838-2beb-4f7b-a4fd-9fc791eaa04e
-    title: Frank Sturgis
-    slug: frank-sturgis
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  date: null
-  date_end: null
-  location_in_record: 00:51:52.4-00:52:01.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 54b1e6f0-2c6d-49de-b853-78f8db8db6bf
-  claim_hash: 1513cbfc9fe6e1cdca1818d96588512f8f9a2d0a18541a6bd77eddb0e1c76d9e
-  content: Marita Lorenz said E. Howard Hunt had gone with Frank Sturgis to Dallas
-    and had handed Sturgis an envelope.
-  original_excerpt: that Hunt had gone with them and had handed Sturgis an envelope.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: named
-    origin: Marita Lorenz
-    relay:
-    - congressional committee testimony
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 579e2838-2beb-4f7b-a4fd-9fc791eaa04e
-    title: Frank Sturgis
-    slug: frank-sturgis
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  - node_id: d0de16db-976b-4b09-9da0-6079f971742c
-    title: Marita Lorenz
-    slug: marita-lorenz
-  date: null
-  date_end: null
-  location_in_record: 00:52:48.4-00:52:53.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 3c06ccfa-44c8-40bc-a15d-caccfc9303ea
-  claim_hash: 8b5229098cca0c8d9e459321baa719b319cebfa1151a3bb76cacb0ed8b6a5fb5
-  content: Frank Sturgis told Jim Rothstein that E. Howard Hunt had been involved
-    in the assassination of John F. Kennedy.
-  original_excerpt: and that Hunt had been involved.
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: named
-    origin: Frank Sturgis
-    relay:
-    - confession to Jim Rothstein
-    - Jonathan Caplan's research
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
-    title: John F. Kennedy assassination
-    slug: john-f-kennedy-assassination
-  - node_id: 579e2838-2beb-4f7b-a4fd-9fc791eaa04e
-    title: Frank Sturgis
-    slug: frank-sturgis
-  - node_id: 6a2d80b2-74f1-4eaa-960a-609fcbf8dbac
-    title: Jim Rothstein
-    slug: jim-rothstein
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  date: null
-  date_end: null
-  location_in_record: 00:53:27.7-00:53:28.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: e73fc395-4cee-43d8-b329-041705776ae4
-  claim_hash: 04e3040b5ac7b2b7e5cba6cbf629313f08aa371223d0e1000d9bf660bee70ad5
-  content: E. Howard Hunt's son reports that his father admitted to him that Frank
-    Sturgis had asked him to be involved in the assassination of John F. Kennedy,
-    but that Hunt told his son he declined.
-  original_excerpt: Hunt's son also reports that his father had admitted to him that
-    Sturgis had asked him to be involved in the assassination, but he told his son
-    he declined.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: named
-    origin: E. Howard Hunt's son
-    relay:
-    - Jonathan Caplan's research
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
-    title: John F. Kennedy assassination
-    slug: john-f-kennedy-assassination
-  - node_id: 579e2838-2beb-4f7b-a4fd-9fc791eaa04e
-    title: Frank Sturgis
-    slug: frank-sturgis
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  date: null
-  date_end: null
-  location_in_record: 00:53:31.6-00:53:42.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 72d3ddb7-1e4e-4ca3-bf2a-d86d36ed7cff
-  claim_hash: 51ffc9a6312f0cd6a5085ce23aee300f18c318f090b50dae7a9da5f8056eeea6
-  content: E. Howard Hunt sued the newspaper Liberty Lobby, and the case was litigated
-    before a jury.
-  original_excerpt: This matter had been litigated before a jury when Hunt sued a
-    newspaper called the Liberty Lobby.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jonathan Caplan
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9bc19483-e9ef-4750-aab4-34110c1e684d
-    title: Liberty Lobby
-    slug: liberty-lobby
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  date: null
-  date_end: null
-  location_in_record: 00:53:47.0-00:53:52.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 15a21861-d5ae-4903-8cdc-f6ff29ea9063
-  claim_hash: 8a14f575d97db31a72084d125e29db4dccdae82c20ee1b622dd3d133cbb20e36
-  content: In the Liberty Lobby lawsuit, the jury found against E. Howard Hunt on
-    the basis that he had been involved in the assassination of John F. Kennedy, and
-    that the Central Intelligence Agency had also been involved.
-  original_excerpt: The jury had found against Hunt on the basis that he had been
-    involved in the assassination, and so had the CIA.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jonathan Caplan
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
-    title: John F. Kennedy assassination
-    slug: john-f-kennedy-assassination
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 9bc19483-e9ef-4750-aab4-34110c1e684d
-    title: Liberty Lobby
-    slug: liberty-lobby
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  date: null
-  date_end: null
-  location_in_record: 00:53:53.6-00:54:00.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 2ebc151a-085a-4242-b2cf-370ea0416cee
-  claim_hash: 8315ef578f0a97f4fb174313e6a469fc19ae5ba4e405ea2c61f9f710f7ecd8a7
-  content: Ross Coulthart considers it implied that David Lamar Christ was aware of
-    the alien presence, as E. Howard Hunt alluded to in his conversation with Douglas
-    Caddy.
-  original_excerpt: the implication is that he was aware of the alien presence, as
-    Howard Hunt alluded in his conversation with Douglas Caddy.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 2
+  - node_id: a72eb6bd-0f1c-4573-a8ef-ac760b189cc8
+    title: Saint John Hunt
+    node_type: person
+    slug: saint-john-hunt
+    shared_claims: 2
   - node_id: 3e00227f-4ac3-4c3c-8591-bbd5b34f0240
     title: David Lamar Christ
+    node_type: person
     slug: david-lamar-christ
-  - node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
-    title: Douglas Caddy
-    slug: douglas-caddy
-  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
-    title: Non-Human Intelligence
-    slug: non-human-intelligence
-  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
-    title: E. H. Lamont
-    slug: e-h-lamont
-  date: null
-  date_end: null
-  location_in_record: 00:54:49.5-00:54:56.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 3f7e1e3b-7ac6-45f2-a513-7c1ce9600ebe
+    title: Federated States of Micronesia, Pohnpei, Nan Madol
+    node_type: place
+    slug: pohnpei-nan-madol-federated-states-of-micronesia
+    shared_claims: 1
+  - node_id: 6a2d80b2-74f1-4eaa-960a-609fcbf8dbac
+    title: Jim Rothstein
+    node_type: person
+    slug: jim-rothstein
+    shared_claims: 1
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    node_type: person
+    slug: john-fitzgerald-kennedy
+    shared_claims: 1
+  - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+    title: Lyndon B. Johnson
+    node_type: person
+    slug: lyndon-b-johnson
+    shared_claims: 1
+  - node_id: d0de16db-976b-4b09-9da0-6079f971742c
+    title: Marita Lorenz
+    node_type: person
+    slug: marita-lorenz
+    shared_claims: 1
+  - node_id: a3e7537a-747d-406c-87cf-826878ff6db3
+    title: Rolling Stone (magazine)
+    node_type: document
+    slug: rolling-stone-magazine
+    shared_claims: 1
+  - node_id: a0adeb9e-2278-4d98-804b-b09a195edc83
+    title: Saudeleur Dynasty
+    node_type: organisation
+    slug: saudeleur-dynasty
+    shared_claims: 1
+  - node_id: 9339f1ee-3e9d-468d-99ca-4924b08a49d2
+    title: USA, Texas, Dallas, Dealey Plaza
+    node_type: place
+    slug: texas-dallas-dealey-plaza-usa
+    shared_claims: 1
+  - node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
+    title: Watergate scandal
+    node_type: event
+    slug: watergate-scandal
+    shared_claims: 1
+claims:
+  - claim_id: 9ae83eeb-6fd0-4d1e-b3d7-36e75caad027
+    claim_hash: 5402ef164b648990cb205b937ba8986e7b81770c347f645d9aca8650c7e522ec
+    content: E. Howard Hunt was a Central Intelligence Agency (CIA) operative involved in the Watergate scandal and long-rumoured
+      to have been a key player in the assassination of John F. Kennedy.
+    original_excerpt: an infamous CIA operative actively involved with Watergate and long-rumored to have also been a key
+      player in the Kennedy assassination
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
+        title: Watergate scandal
+        slug: watergate-scandal
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+      - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+        title: Assassination of John F. Kennedy
+        slug: assassination-of-john-f-kennedy
+    date: null
+    date_end: null
+    location_in_record: ch10:93001-93123
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 3703df3e-3d26-4cd8-a139-e46263401fdb
+    claim_hash: 2b1f9af3a2894cd9b158b6e317aa1b5b6eb32d97e88499fe85ee5ebbc10bcc8c
+    content: In a story published in Rolling Stone magazine, Saint John Hunt said his father, E. Howard Hunt, admitted on
+      tape to being one of the "three tramps" in photographs of Dealey Plaza taken after the assassination of John F. Kennedy.
+    original_excerpt: In a story published in Rolling Stone magazine, Saint John Hunt stated his father admitted to being
+      one of the famous “three tramps” in photos of Dealy Plaza taken after the assassination and detailed specific players
+      involved in the Kennedy assassination.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: a72eb6bd-0f1c-4573-a8ef-ac760b189cc8
+      title: Saint John Hunt
+    provenance_chain:
+      origin_kind: named
+      origin: E. Howard Hunt
+      relay:
+        - a deathbed confession tape
+        - Saint John Hunt
+        - Rolling Stone magazine
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9339f1ee-3e9d-468d-99ca-4924b08a49d2
+        title: USA, Texas, Dallas, Dealey Plaza
+        slug: texas-dallas-dealey-plaza-usa
+      - node_id: a3e7537a-747d-406c-87cf-826878ff6db3
+        title: Rolling Stone (magazine)
+        slug: rolling-stone-magazine
+      - node_id: a72eb6bd-0f1c-4573-a8ef-ac760b189cc8
+        title: Saint John Hunt
+        slug: saint-john-hunt
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+      - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+        title: Assassination of John F. Kennedy
+        slug: assassination-of-john-f-kennedy
+    date: null
+    date_end: null
+    location_in_record: ch10:93192-93434
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 0f5f3fca-d1c4-4c7c-973b-1d3c5e3f441e
+    claim_hash: 1c5bdaa238611fee3485ada22772d8f5fe3cfff90a54c29069a820cb73d1cdb8
+    content: 'According to Saint John Hunt''s account of his father''s deathbed confession tape, E. Howard Hunt said that
+      the Central Intelligence Agency operatives who planned and carried out the plot to kill John F. Kennedy, including Hunt
+      himself, were all directed by one "top man": Lyndon Baines Johnson.'
+    original_excerpt: The tape contains a remarkable “confirmation” in light of the completely independent evidence presented
+      here that, above the CIA operatives (and contractors) who actually planned and carried out the plot to kill Kennedy,
+      including E. Howard Hunt himself, they were all directed by one “top man.” Lyndon Baines Johnson.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: a72eb6bd-0f1c-4573-a8ef-ac760b189cc8
+      title: Saint John Hunt
+    provenance_chain:
+      origin_kind: named
+      origin: E. Howard Hunt
+      relay:
+        - a deathbed confession tape
+        - Saint John Hunt
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: a72eb6bd-0f1c-4573-a8ef-ac760b189cc8
+        title: Saint John Hunt
+        slug: saint-john-hunt
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+    date: null
+    date_end: null
+    location_in_record: ch10:93449-93760
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 9e1d7b97-f04d-4b14-8759-418fab8c6be1
+    claim_hash: 2cf0aec6eb6583305546d3aad852f454b36d7ad6ba0e941e74cde9614fb30911
+    content: When Captain E. H. Lamont found Nan Madol in the early 1850s, it was already in ruins, probably having been abandoned
+      when the Saudeleur Dynasty fell.
+    original_excerpt: When he found it in the early 1850s, it was already in ruins, and had probably been abandoned when the
+      Saudeleur dynasty fell.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: E. H. Lamont
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3f7e1e3b-7ac6-45f2-a513-7c1ce9600ebe
+        title: Federated States of Micronesia, Pohnpei, Nan Madol
+        slug: pohnpei-nan-madol-federated-states-of-micronesia
+      - node_id: a0adeb9e-2278-4d98-804b-b09a195edc83
+        title: Saudeleur Dynasty
+        slug: saudeleur-dynasty
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+    date: null
+    date_end: null
+    location_in_record: ch25:7249-7370
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 19897523-6da8-4001-a659-f23befab27a7
+    claim_hash: d42ac7474f3585e9b390bd3a6293c2237d2a1daebb176868d2aab8875f827d3a
+    content: Douglas Caddy was a lawyer for E. Howard Hunt.
+    original_excerpt: So Watergate principal Howard Hunt had a lawyer called Douglas Caddy.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
+        title: Douglas Caddy
+        slug: douglas-caddy
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+    date: null
+    date_end: null
+    location_in_record: 00:49:49.7-00:49:55.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 0e50f8b9-0829-4628-bd1c-d23f5b1d4b76
+    claim_hash: 51badff58b84e001025a5b7de8ca9df7de3e5b7ddf13f44c9660aae4a0ed4fda
+    content: E. Howard Hunt called Douglas Caddy at the time the Watergate burglars, or Hunt himself, had just been discovered.
+    original_excerpt: Douglas Caddy was a lawyer who was called by Howard Hunt at the time that the Watergate burglars or
+      just after the Watergate burglars had been discovered.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2cbd3de3-7ef8-408e-b3cc-5ca6fea1a2f7
+        title: 1972 Watergate burglary
+        slug: 1972-watergate-burglary
+      - node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
+        title: Douglas Caddy
+        slug: douglas-caddy
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+    date: '1972-06-17'
+    date_end: null
+    location_in_record: 00:50:04.1-00:50:15.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 07792386-5401-4a8b-9db5-402f3deeb6e5
+    claim_hash: ab194402a7217ad59acec17c7911608962f479045b30bc8d658ee660e5acfa27
+    content: E. Howard Hunt instructed Douglas Caddy to represent both the Watergate burglars and himself.
+    original_excerpt: And Hunt instructed him to represent both the burglars and himself.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2cbd3de3-7ef8-408e-b3cc-5ca6fea1a2f7
+        title: 1972 Watergate burglary
+        slug: 1972-watergate-burglary
+      - node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
+        title: Douglas Caddy
+        slug: douglas-caddy
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+    date: null
+    date_end: null
+    location_in_record: 00:50:17.2-00:50:22.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 2623c920-434d-4982-b379-ec3ba5a8e4db
+    claim_hash: 87aca30d7a89d5f47b67f444503feaa47de0f656d1c015982ada8f4ff20173fe
+    content: Douglas Caddy had a dinner with E. Howard Hunt just before Hunt was going to go to prison.
+    original_excerpt: he had a dinner with Howard Hunt just before Howard Hunt was going to go to prison.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: named
+      origin: Douglas Caddy
+      relay:
+        - Jonathan Caplan's research
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
+        title: Douglas Caddy
+        slug: douglas-caddy
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+    date: null
+    date_end: null
+    location_in_record: 00:50:41.9-00:50:48.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: d0bdd161-8112-48ac-adc4-d1c5219f25c7
+    claim_hash: 409dd44abeb6ecea8803962643bd26d6e100424fbae59037a209f0402b3253a7
+    content: At that dinner, Douglas Caddy asked E. Howard Hunt what had been the reason for going into the Watergate burglary,
+      and Hunt said it was to do with documents they believed the Democrats had obtained from the Cubans which reflected on
+      President John F. Kennedy's assassination.
+    original_excerpt: And Hunt reluctantly said, well, it was to do with some documents there that we believed that the Democrats
+      had from the Cubans, which reflected on President Kennedy's assassination.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: named
+      origin: Douglas Caddy
+      relay:
+        - Jonathan Caplan's research
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
+        title: John F. Kennedy assassination
+        slug: john-f-kennedy-assassination
+      - node_id: 2cbd3de3-7ef8-408e-b3cc-5ca6fea1a2f7
+        title: 1972 Watergate burglary
+        slug: 1972-watergate-burglary
+      - node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
+        title: Douglas Caddy
+        slug: douglas-caddy
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+    date: null
+    date_end: null
+    location_in_record: 00:50:56.7-00:51:08.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 3327c5b3-99f8-4ef5-a0b1-8cec612215d8
+    claim_hash: 6201279750b242ec939f5d9d76d9bb60cd7f855c514393b5e37547d9f1c9054e
+    content: As Douglas Caddy and E. Howard Hunt were parting on the sidewalk, with Hunt going off to prison, Caddy asked
+      why John F. Kennedy was assassinated, and Hunt said it was because he was about to reveal the alien presence.
+    original_excerpt: he pressed his luck again, and he said, well, why was Kennedy assassinated? And Hunt came out with the
+      memorable phrase, because he was about to reveal the alien presence.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: named
+      origin: Douglas Caddy
+      relay:
+        - Jonathan Caplan's research
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
+        title: John F. Kennedy assassination
+        slug: john-f-kennedy-assassination
+      - node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
+        title: Douglas Caddy
+        slug: douglas-caddy
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+    date: null
+    date_end: null
+    location_in_record: 00:51:22.4-00:51:33.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 75e671ae-120c-464c-896f-67b65188461b
+    claim_hash: 18dd2a9228d52fb86206fd6b1e159ec69cf8010dcc15670b8b13f425c25a7020
+    content: Jonathan Caplan considers there to be pretty conclusive evidence that E. Howard Hunt and Frank Sturgis were involved
+      in the assassination of John F. Kennedy.
+    original_excerpt: I think there is pretty conclusive evidence now that Howard Hunt and a man called Frank Sturgis were
+      involved in the Kennedy assassination
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
+        title: John F. Kennedy assassination
+        slug: john-f-kennedy-assassination
+      - node_id: 579e2838-2beb-4f7b-a4fd-9fc791eaa04e
+        title: Frank Sturgis
+        slug: frank-sturgis
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+    date: null
+    date_end: null
+    location_in_record: 00:51:52.4-00:52:01.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 54b1e6f0-2c6d-49de-b853-78f8db8db6bf
+    claim_hash: 1513cbfc9fe6e1cdca1818d96588512f8f9a2d0a18541a6bd77eddb0e1c76d9e
+    content: Marita Lorenz said E. Howard Hunt had gone with Frank Sturgis to Dallas and had handed Sturgis an envelope.
+    original_excerpt: that Hunt had gone with them and had handed Sturgis an envelope.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: named
+      origin: Marita Lorenz
+      relay:
+        - congressional committee testimony
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 579e2838-2beb-4f7b-a4fd-9fc791eaa04e
+        title: Frank Sturgis
+        slug: frank-sturgis
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+      - node_id: d0de16db-976b-4b09-9da0-6079f971742c
+        title: Marita Lorenz
+        slug: marita-lorenz
+    date: null
+    date_end: null
+    location_in_record: 00:52:48.4-00:52:53.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 3c06ccfa-44c8-40bc-a15d-caccfc9303ea
+    claim_hash: 8b5229098cca0c8d9e459321baa719b319cebfa1151a3bb76cacb0ed8b6a5fb5
+    content: Frank Sturgis told Jim Rothstein that E. Howard Hunt had been involved in the assassination of John F. Kennedy.
+    original_excerpt: and that Hunt had been involved.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: named
+      origin: Frank Sturgis
+      relay:
+        - confession to Jim Rothstein
+        - Jonathan Caplan's research
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
+        title: John F. Kennedy assassination
+        slug: john-f-kennedy-assassination
+      - node_id: 579e2838-2beb-4f7b-a4fd-9fc791eaa04e
+        title: Frank Sturgis
+        slug: frank-sturgis
+      - node_id: 6a2d80b2-74f1-4eaa-960a-609fcbf8dbac
+        title: Jim Rothstein
+        slug: jim-rothstein
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+    date: null
+    date_end: null
+    location_in_record: 00:53:27.7-00:53:28.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: e73fc395-4cee-43d8-b329-041705776ae4
+    claim_hash: 04e3040b5ac7b2b7e5cba6cbf629313f08aa371223d0e1000d9bf660bee70ad5
+    content: E. Howard Hunt's son reports that his father admitted to him that Frank Sturgis had asked him to be involved
+      in the assassination of John F. Kennedy, but that Hunt told his son he declined.
+    original_excerpt: Hunt's son also reports that his father had admitted to him that Sturgis had asked him to be involved
+      in the assassination, but he told his son he declined.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: named
+      origin: E. Howard Hunt's son
+      relay:
+        - Jonathan Caplan's research
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
+        title: John F. Kennedy assassination
+        slug: john-f-kennedy-assassination
+      - node_id: 579e2838-2beb-4f7b-a4fd-9fc791eaa04e
+        title: Frank Sturgis
+        slug: frank-sturgis
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+    date: null
+    date_end: null
+    location_in_record: 00:53:31.6-00:53:42.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 72d3ddb7-1e4e-4ca3-bf2a-d86d36ed7cff
+    claim_hash: 51ffc9a6312f0cd6a5085ce23aee300f18c318f090b50dae7a9da5f8056eeea6
+    content: E. Howard Hunt sued the newspaper Liberty Lobby, and the case was litigated before a jury.
+    original_excerpt: This matter had been litigated before a jury when Hunt sued a newspaper called the Liberty Lobby.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9bc19483-e9ef-4750-aab4-34110c1e684d
+        title: Liberty Lobby
+        slug: liberty-lobby
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+    date: null
+    date_end: null
+    location_in_record: 00:53:47.0-00:53:52.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 15a21861-d5ae-4903-8cdc-f6ff29ea9063
+    claim_hash: 8a14f575d97db31a72084d125e29db4dccdae82c20ee1b622dd3d133cbb20e36
+    content: In the Liberty Lobby lawsuit, the jury found against E. Howard Hunt on the basis that he had been involved in
+      the assassination of John F. Kennedy, and that the Central Intelligence Agency had also been involved.
+    original_excerpt: The jury had found against Hunt on the basis that he had been involved in the assassination, and so
+      had the CIA.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
+        title: John F. Kennedy assassination
+        slug: john-f-kennedy-assassination
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 9bc19483-e9ef-4750-aab4-34110c1e684d
+        title: Liberty Lobby
+        slug: liberty-lobby
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+    date: null
+    date_end: null
+    location_in_record: 00:53:53.6-00:54:00.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 2ebc151a-085a-4242-b2cf-370ea0416cee
+    claim_hash: 8315ef578f0a97f4fb174313e6a469fc19ae5ba4e405ea2c61f9f710f7ecd8a7
+    content: Ross Coulthart considers it implied that David Lamar Christ was aware of the alien presence, as E. Howard Hunt
+      alluded to in his conversation with Douglas Caddy.
+    original_excerpt: the implication is that he was aware of the alien presence, as Howard Hunt alluded in his conversation
+      with Douglas Caddy.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e00227f-4ac3-4c3c-8591-bbd5b34f0240
+        title: David Lamar Christ
+        slug: david-lamar-christ
+      - node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
+        title: Douglas Caddy
+        slug: douglas-caddy
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+    date: null
+    date_end: null
+    location_in_record: 00:54:49.5-00:54:56.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null

@@ -9,1071 +9,1080 @@ page:
   claim_count: 26
   claim_count_total: 26
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 26
+  tokens_estimated: 8011
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 26
 related_nodes:
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 7
-- node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
-  title: psychological operations (psyop)
-  node_type: topic
-  slug: psychological-operations-psyop
-  shared_claims: 4
-- node_id: f2daae19-9351-4a8e-b466-664f83887f61
-  title: Diana Walsh Pasulka
-  node_type: person
-  slug: diana-walsh-pasulka
-  shared_claims: 3
-- node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-  title: Jason Samosa
-  node_type: person
-  slug: jason-samosa
-  shared_claims: 2
-- node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
-  title: Rey Hernandez
-  node_type: person
-  slug: rey-hernandez
-  shared_claims: 2
-- node_id: 002f2308-b73d-4076-87d4-c29b26eb6359
-  title: Brenda Denzler
-  node_type: person
-  slug: brenda-denzler
-  shared_claims: 1
-- node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
-  title: Budd Hopkins
-  node_type: person
-  slug: budd-hopkins
-  shared_claims: 1
-- node_id: 585439bb-a369-4eaa-a3a3-3cf3ea06639a
-  title: Consciousness Paradigm
-  node_type: topic
-  slug: consciousness-paradigm
-  shared_claims: 1
-- node_id: 4f3565a0-bc46-4e52-a884-d20308ffcdca
-  title: Dr. Edgar Mitchell Foundation for Research into Extraterrestrial Encounters
-    (FREE)
-  node_type: organisation
-  slug: dr-edgar-mitchell-foundation-for-research-into-extraterrestrial-encounters-free
-  shared_claims: 1
-- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-  title: Eric Davis
-  node_type: person
-  slug: eric-davis
-  shared_claims: 1
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 1
-- node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
-  title: James Master
-  node_type: person
-  slug: james-master
-  shared_claims: 1
-- node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-  title: Jesse Mitchells
-  node_type: person
-  slug: jesse-mitchells
-  shared_claims: 1
-- node_id: a7c44a76-c834-4659-934e-6599bc960f78
-  title: Massimo Teodorani
-  node_type: person
-  slug: massimo-teodorani
-  shared_claims: 1
-- node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-  title: Ronald Reagan
-  node_type: person
-  slug: ronald-reagan
-  shared_claims: 1
-- node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-  title: Tyler D.
-  node_type: person
-  slug: tyler-d
-  shared_claims: 1
-- node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
-  title: Vatican
-  node_type: organisation
-  slug: vatican
-  shared_claims: 1
-- node_id: 49286131-da81-4d49-9b69-de49065b47c5
-  title: Vatican Observatory
-  node_type: organisation
-  slug: vatican-observatory
-  shared_claims: 1
-- node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-  title: hypnotic regression
-  node_type: topic
-  slug: hypnotic-regression
-  shared_claims: 1
-claims:
-- claim_id: 3ec14aeb-c155-4b86-bbcb-63a9e8e85438
-  claim_hash: 6df30ddc6de663ea306d59a967989313d12c517bd6eadf2060d4095fd4f42ba2
-  content: D. W. Pasulka organised a small closed conference, to which Tyler D. was
-    not invited, that brought together ufologists and scientists with scholars of
-    the humanities who studied the UFO phenomenon.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 7
+  - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
+    title: psychological operations (psyop)
+    node_type: topic
+    slug: psychological-operations-psyop-a07cf4c0
+    shared_claims: 4
   - node_id: f2daae19-9351-4a8e-b466-664f83887f61
     title: Diana Walsh Pasulka
+    node_type: person
     slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch1:12136-12408
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 3e741d83-e0ee-49f8-b40a-4abdb4fb248c
-  claim_hash: 02122b5a603a417e2746c20f45c2d40d6bf96e65a38f20025a94dcad5a7fb17e
-  content: D. W. Pasulka observed that the code of conduct for scientist-ufologists
-    who study the UFO phenomenon in an official capacity differs from academic codes
-    of conduct, requiring them to keep their sources secret after being vetted and
-    taking oaths.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-    slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch1:13226-13357
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 7b24341e-2259-4cfd-990b-9d4de0abd241
-  claim_hash: d710080a900bd7a97f60ceb489a3bae73875d979bf2f48440d6a8a7d4239bfe4
-  content: James Master observed that Jacques Vallee has infuriated most ufologists
-    because he won't commit to a single explanation of the phenomenon.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
-    title: James Master
-  provenance_chain:
-    origin_kind: speaker
-    origin: James Master
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
-    title: James Master
-    slug: james-master
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: ch2:36138-36286
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: d5c7faf0-5a69-4bac-9ffa-50c672b5a168
-  claim_hash: 3af91494acc7da6e68a08079706cd7902b6dba6f66c24a648ee2c58766ca88f7
-  content: Within ufology there have arisen two main schools of thought, one emphasising
-    material issues and the other addressing subjective and spiritual issues.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: ch5:6101-6245
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 60487237-e780-4ee7-8524-cb78a7116a80
-  claim_hash: 5919092e62dd69a3ba86db109cc4b4e1f24c947adff75d1a7b66177835d82ac6
-  content: The materialist school of ufology focuses on the empirical effects of UFOs,
-    such as radiation burns on material objects or on people, blips on radar, and
-    sightings, described as "the nuts and bolts" of the UFO event.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: ch5:6253-6460
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 05f2d9c8-c8f6-4876-bb21-99ecc9f06f35
-  claim_hash: 22da80c1aaf9d46e783f357b27b3e918c82d05d58600373430c53fe058983445
-  content: The other school of ufology arose with the advent of hypnotic regression
-    applied to experiencers and the contactee and abduction movements, and it focuses
-    on the experiencers themselves and the content of extraterrestrial messages.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    slug: hypnotic-regression
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: ch5:6467-6694
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 0bbe09d2-9db9-4e26-bcad-d671da6fbadf
-  claim_hash: c17d9b59ab913c3c39fad9cc5b30812c817d340cdbe8756a2fc7c837b15d4e02
-  content: Rey Hernandez was careful to note that the Dr. Edgar Mitchell Foundation
-    for Research into Extraterrestrial Encounters (FREE) is not an organisation devoted
-    to ufology.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
-    title: Rey Hernandez
-  provenance_chain:
-    origin_kind: speaker
-    origin: Rey Hernandez
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4f3565a0-bc46-4e52-a884-d20308ffcdca
-    title: Dr. Edgar Mitchell Foundation for Research into Extraterrestrial Encounters
-      (FREE)
-    slug: dr-edgar-mitchell-foundation-for-research-into-extraterrestrial-encounters-free
+    shared_claims: 3
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    node_type: person
+    slug: jason-samosa
+    shared_claims: 2
   - node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
     title: Rey Hernandez
+    node_type: person
     slug: rey-hernandez
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: ch6:25345-25451
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 0ed47736-5788-444b-8db6-831e63e3f052
-  claim_hash: ff72842423c524fc4007f2eefc4073c82c2d8ea8f6768c7d4dfce40440d23d10
-  content: Rey Hernandez believes the ufology paradigm has revealed very little about
-    the UFO phenomenon over the last sixty years and that a new paradigm, the Consciousness
-    Paradigm, is needed.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
-    title: Rey Hernandez
-  provenance_chain:
-    origin_kind: speaker
-    origin: Rey Hernandez
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 585439bb-a369-4eaa-a3a3-3cf3ea06639a
-    title: Consciousness Paradigm
-    slug: consciousness-paradigm
-  - node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
-    title: Rey Hernandez
-    slug: rey-hernandez
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: ch6:25460-25613
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: d76c9f47-c3ec-4b03-9a43-5b18edc54313
-  claim_hash: d069f1eef14616d0e75ac385fca57a19d3b256f8c43b1ab40abbdf35a46cc6c9
-  content: Disclosure is a term used by ufologists to mean that UFOs have revealed
-    themselves, or that there is a public awareness of their presence.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: ch6:25961-26093
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: eb5e48b7-3ca2-4ee4-8e46-ac43b47fe5b5
-  claim_hash: 2e44519f560064bb284c0beee48894be0eabb9375c40e15804f5410da2bb57dc
-  content: The Jesuit scientists at the Vatican Observatory are not actively searching
-    for UFOs and are not engaged in ufology.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 49286131-da81-4d49-9b69-de49065b47c5
-    title: Vatican Observatory
-    slug: vatican-observatory
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: ch7:26241-26389
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: a28466e4-1bea-4ee1-b339-2536b7550be9
-  claim_hash: e43c1bfbb4ac00e367d0dcaf83c14160e6b8ab1109ee6770ab5c43848a0c8725
-  content: Brenda Denzler observed that ufology and the study of anomalous aerial
-    phenomena are overwhelmingly white and male and over 90 percent Anglo-American.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: named
-    origin: Brenda Denzler
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 2
   - node_id: 002f2308-b73d-4076-87d4-c29b26eb6359
     title: Brenda Denzler
+    node_type: person
     slug: brenda-denzler
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: ch7:38244-38403
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 058c4153-c84b-4a97-9947-e2a6cd4b1db1
-  claim_hash: 6ffe0f7893929838f8f323040b815c28221f4091931bf0318cbc59ff36b40614
-  content: The historians of ufology, with few exceptions, ignore the history of African
-    American and indigenous traditions of the UFO, which predate the standard assumption
-    that the UFO mythos began in 1947.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: ch7:38549-38753
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 9d673ad9-e774-4b7d-8315-6daae823096a
-  claim_hash: df0b3396f38b047b8a8ab1af9ec57e72f8ef314aaf1ff10f43a5d2f6253883f8
-  content: D. W. Pasulka conducted an ethnography of a variety of UFO believers and
-    researched UFOs and ufology.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-    slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: char:15823-16004
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 2dd4645e-1949-44e3-8a49-6a91ff784eb5
-  claim_hash: 931bad36a55adc0e8b0fa90ba219b89ffd65b599b09c98dbcab4e6c3b3a979ee
-  content: Astronomer Massimo Teodorani and physicist Eric Davis have confirmed the
-    existence of a parallel research tradition within ufology that is not known to
-    the uninitiated but is well known within the culture of ufologists.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Massimo Teodorani and Eric Davis
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-    slug: eric-davis
-  - node_id: a7c44a76-c834-4659-934e-6599bc960f78
-    title: Massimo Teodorani
-    slug: massimo-teodorani
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: char:18258-18357
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 23c255c7-50ed-4c23-835a-c5bd4e8660a0
-  claim_hash: 4271f6552a9583ce1b08e6218450b05bee69f45a1a0b9fae7ec9792462fd2173
-  content: Cult creation around a single contactee, typically involving a prophecy
-    of an event within the next few years, is a recurring pattern in ufology.
-  original_excerpt: The cult creation seems to be this thing in UFOlogy where like
-    you have this one kind of contactee, you know, and around that person is created
-    this sort of mythology and... often there's a prophecy involved
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jesse Michels
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: 00:09:53.3-00:10:09.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 49b6a5b3-13a9-4741-b599-efd48f4935f8
-  claim_hash: fc34296df7846c9c6eb7ebd2ef43cbac134ccd0aea73bc9f6cc475be5d7d535b
-  content: Running a UFO researcher as a source also turns them from active and passionate
-    into passive, waiting for sources to tell them what is going on rather than analysing
-    and piecing evidence together themselves, in Jason Samosa's assessment.
-  original_excerpt: Because I've turned you from someone who is active and passionate,
-    and you've become passive. You're waiting for the sources to tell you what's going
-    on.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
-    title: psychological operations (psyop)
-    slug: psychological-operations-psyop
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: 01:54:39.2-01:54:46.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: d2dc7aae-f9bc-4a5d-8a8c-27a763799e57
-  claim_hash: a90a616e8b2b648de62781632ec6e759fbd2d2e317c4eab7ec2131eef5280ad7
-  content: Cultivating researchers as sources is practically free as a technique,
-    and combined with flooding disinformation into the UFO community does a great
-    deal of damage, in Jason Samosa's assessment.
-  original_excerpt: it's a very simple, but it's practically free. And if you, alongside
-    that, if you just flood disinformation into the community, you'll do a wonderful
-    job of making things very difficult.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
-    title: psychological operations (psyop)
-    slug: psychological-operations-psyop
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: 01:54:59.7-01:55:09.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: ce0c8817-c392-455a-9c14-8f444b3f939c
-  claim_hash: c4d9624ccf1331fdf3b18c83b6258672bc5ae305c8bcb8e5bf7ac898d5e3a041
-  content: UFO researchers turning aggressively against each other is the easiest
-    way to destroy the research community, in Jason Samosa's assessment.
-  original_excerpt: it's like just researchers turning against each other and getting
-    so aggressive... It's the easiest way to destroy a community.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: 01:56:08.1-01:56:14.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 3c3db63f-53a0-4edf-b84a-aafcc4635ee9
-  claim_hash: bc20ab3b05c7bd4bd0eafb885eee17fa9ff5c6ff221f9fcb4303dcf20f5d778d
-  content: Infighting among UFO researchers makes the field look crazy, which is itself
-    falling prey to manufactured division, in Jesse Michels's assessment.
-  original_excerpt: We all look crazy, which then you're, you're falling prey to the
-    manufactured division.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jesse Michels
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
-    title: psychological operations (psyop)
-    slug: psychological-operations-psyop
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: 01:56:57.1-01:57:01.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 47f150d7-65f8-4abd-8814-9ad282b590a2
-  claim_hash: 2e62782a59b9a648f2b84df96ff4b9c3429fa9dddd5b1b6dd20d2c72fc3811ea
-  content: The UFO disclosure movement has an inevitable life cycle in which different
-    evangelists are needed for different audiences at different stages, in Jason Samosa's
-    assessment.
-  original_excerpt: the same people who did the first, you know, kind of movement
-    of this aren't going to be the same people who do the next one... because you
-    need different types of evangelists for different types of audiences at different
-    times. So there is an inevitable life cycle as well.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: 01:58:05.0-01:58:20.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 01b2f048-4356-4270-895e-05e5b3d7f3cc
-  claim_hash: 010183cc9b631040c86f7bb4b44e2db2582117b8f9e7b0625da9141c1b15908e
-  content: Few people in the United Kingdom talk publicly about the UFO topic, in
-    Jason Samosa's assessment.
-  original_excerpt: Like in the UK, we really don't have that many people who talk
-    about this topic.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: 01:58:23.2-01:58:26.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 013d9f15-86a6-4e0f-a520-649ec70aabb5
-  claim_hash: 7508448ee7821dc98286bc5f3a7056aabb282d1de9b4b45d0a3736e5451c7164
-  content: Jason Samosa worries about the religious component of the UFO subject and
-    about an inability to cautiously distinguish what people have experienced from
-    dogma.
-  original_excerpt: I do worry about the religious component and our inability to
-    cautiously delineate between what people have experienced and dogma.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-    slug: jason-samosa
-  date: null
-  date_end: null
-  location_in_record: 02:06:03.2-02:06:11.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 3bc81cc5-32d4-4081-9ea1-ce240f1152a2
-  claim_hash: d809d419a348f76281a196be9bfb2f5f291d8bde71f48b0f2e4ab2f64909b677
-  content: Jason Samosa observes that the role of the Vatican in the UFO subject is
-    hinted at by many researchers he respects, comes up and then disappears, with
-    no one wanting to focus on it.
-  original_excerpt: the role of the Vatican is hinted at by many people that I would
-    respect it kind of comes up and then it disappears, right? No one wants to focus
-    too much on the Vatican.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
-    title: Vatican
-    slug: vatican
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-    slug: jason-samosa
-  date: null
-  date_end: null
-  location_in_record: 02:17:57.1-02:18:04.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 711f3e12-8676-4b21-8a84-879de4b93360
-  claim_hash: 78b309f520382d4f8fe0761821a2690b355b9571b67e3c13408038791df9db95
-  content: Jesse Michels considers the biggest fallacy of UFO research to be treating
-    figures such as Ronald Reagan as though they spent most of their time on UFOs,
-    when the subject was under one per cent of their attention and their real focus
-    was geopolitics.
-  original_excerpt: And I think maybe the biggest fallacy of UFO research is we talk
-    about Reagan, like he spends all his time on UFOs. They're realizing it's sub
-    1%. And he really is just geopolitics.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jesse Michels
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-    slug: jesse-mitchells
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: 02:29:48.7-02:30:00.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 7a13c02e-cc4a-473b-ba16-6ebc4c24ecba
-  claim_hash: bb03ef85148ef700a2a1e007dda751b01f7c5b8e8c3f078ba920574fc944ae97
-  content: Budd Hopkins was an American artist, author and ufologist.
-  original_excerpt: '[note: Budd Hopkins - American artist, author, and ufologist]'
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: source annotation
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
   - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
     title: Budd Hopkins
+    node_type: person
     slug: budd-hopkins
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: line 308
-  evidence:
-    score: null
-    independent_sources: 2
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 3030db14-5100-44c8-9d8f-f90e8c4d67b0
-  claim_hash: 5ef70b95b6fd60e8873ac4c85a468e4feda4dc9033d979496e400ab7c2519d71
-  content: 'The most effective way to neutralise a UFO researcher is to run them as
-    a source: give them a few genuinely good pieces of information to build trust,
-    then feed in progressively more untrue material that spreads into the community
-    and surrounds the true information, in Jason Samosa''s assessment.'
-  original_excerpt: The really smart thing to do is sources... I give you a couple
-    of really good bits of information to start with... And you build a relationship
-    of trust with me... then I start to introduce more and more unusual, unnecessary
-    extra information, which is not true, which gets distilled into the community,
-    which then surrounds all the true information.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
-    title: psychological operations (psyop)
-    slug: psychological-operations-psyop
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: lines 150-163
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 585439bb-a369-4eaa-a3a3-3cf3ea06639a
+    title: Consciousness Paradigm
+    node_type: topic
+    slug: consciousness-paradigm
+    shared_claims: 1
+  - node_id: 4f3565a0-bc46-4e52-a884-d20308ffcdca
+    title: Dr. Edgar Mitchell Foundation for Research into Extraterrestrial Encounters (FREE)
+    node_type: organisation
+    slug: dr-edgar-mitchell-foundation-for-research-into-extraterrestrial-encounters-free
+    shared_claims: 1
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    node_type: person
+    slug: eric-davis
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
+    title: James Master
+    node_type: person
+    slug: james-master
+    shared_claims: 1
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 1
+  - node_id: a7c44a76-c834-4659-934e-6599bc960f78
+    title: Massimo Teodorani
+    node_type: person
+    slug: massimo-teodorani
+    shared_claims: 1
+  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+    title: Ronald Reagan
+    node_type: person
+    slug: ronald-reagan
+    shared_claims: 1
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    node_type: person
+    slug: tyler-d
+    shared_claims: 1
+  - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+    title: Vatican
+    node_type: organisation
+    slug: vatican
+    shared_claims: 1
+  - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+    title: Vatican Observatory
+    node_type: organisation
+    slug: vatican-observatory
+    shared_claims: 1
+  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+    title: hypnotic regression
+    node_type: topic
+    slug: hypnotic-regression
+    shared_claims: 1
+claims:
+  - claim_id: 3ec14aeb-c155-4b86-bbcb-63a9e8e85438
+    claim_hash: 6df30ddc6de663ea306d59a967989313d12c517bd6eadf2060d4095fd4f42ba2
+    content: D. W. Pasulka organised a small closed conference, to which Tyler D. was not invited, that brought together ufologists
+      and scientists with scholars of the humanities who studied the UFO phenomenon.
+    original_excerpt: A few months prior to our trip, I had organized a small conference, to which Tyler had not been invited,
+      on the phenomenon. The small, closed meeting was unique because it brought together ufologists and scientists with scholars
+      of the humanities, all of whom studied the phenomenon.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch1:12136-12408
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 3e741d83-e0ee-49f8-b40a-4abdb4fb248c
+    claim_hash: 02122b5a603a417e2746c20f45c2d40d6bf96e65a38f20025a94dcad5a7fb17e
+    content: D. W. Pasulka observed that the code of conduct for scientist-ufologists who study the UFO phenomenon in an official
+      capacity differs from academic codes of conduct, requiring them to keep their sources secret after being vetted and
+      taking oaths.
+    original_excerpt: Scientist-ufologists are vetted extensively before their employment in the field and, once hired, take
+      oaths to keep their sources secret.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch1:13226-13357
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 7b24341e-2259-4cfd-990b-9d4de0abd241
+    claim_hash: d710080a900bd7a97f60ceb489a3bae73875d979bf2f48440d6a8a7d4239bfe4
+    content: James Master observed that Jacques Vallee has infuriated most ufologists because he won't commit to a single
+      explanation of the phenomenon.
+    original_excerpt: In fact, Jacques has infuriated most ufologists because he won’t fall in line. All Jacques has ever
+      claimed is that the phenomenon seems infinitely variable.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
+      title: James Master
+    provenance_chain:
+      origin_kind: speaker
+      origin: James Master
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
+        title: James Master
+        slug: james-master
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: ch2:36138-36286
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: d5c7faf0-5a69-4bac-9ffa-50c672b5a168
+    claim_hash: 3af91494acc7da6e68a08079706cd7902b6dba6f66c24a648ee2c58766ca88f7
+    content: Within ufology there have arisen two main schools of thought, one emphasising material issues and the other addressing
+      subjective and spiritual issues.
+    original_excerpt: Within ufology, there have arisen two main schools of thought. One emphasizes material issues, and the
+      other addresses subjective and spiritual issues.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: ch5:6101-6245
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 60487237-e780-4ee7-8524-cb78a7116a80
+    claim_hash: 5919092e62dd69a3ba86db109cc4b4e1f24c947adff75d1a7b66177835d82ac6
+    content: The materialist school of ufology focuses on the empirical effects of UFOs, such as radiation burns on material
+      objects or on people, blips on radar, and sightings, described as "the nuts and bolts" of the UFO event.
+    original_excerpt: The materialist school focuses on the empirical effects of UFOs, like radiation burns on material objects
+      or on people, blips on radars, and sightings. This school focuses on "the nuts and bolts" of the UFO event.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: ch5:6253-6460
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 05f2d9c8-c8f6-4876-bb21-99ecc9f06f35
+    claim_hash: 22da80c1aaf9d46e783f357b27b3e918c82d05d58600373430c53fe058983445
+    content: The other school of ufology arose with the advent of hypnotic regression applied to experiencers and the contactee
+      and abduction movements, and it focuses on the experiencers themselves and the content of extraterrestrial messages.
+    original_excerpt: The other school arose with the advent of the application of hypnotic regression to experiencers and
+      with the contactee and abduction movements; it focuses on the experiencers themselves and the content of the extraterrestrial
+      messages.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: hypnotic regression
+        slug: hypnotic-regression
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: ch5:6467-6694
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 0bbe09d2-9db9-4e26-bcad-d671da6fbadf
+    claim_hash: c17d9b59ab913c3c39fad9cc5b30812c817d340cdbe8756a2fc7c837b15d4e02
+    content: Rey Hernandez was careful to note that the Dr. Edgar Mitchell Foundation for Research into Extraterrestrial Encounters
+      (FREE) is not an organisation devoted to ufology.
+    original_excerpt: In my discussions with him about FREE, he was careful to note that FREE is not an organization devoted
+      to ufology.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+      title: Rey Hernandez
+    provenance_chain:
+      origin_kind: speaker
+      origin: Rey Hernandez
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4f3565a0-bc46-4e52-a884-d20308ffcdca
+        title: Dr. Edgar Mitchell Foundation for Research into Extraterrestrial Encounters (FREE)
+        slug: dr-edgar-mitchell-foundation-for-research-into-extraterrestrial-encounters-free
+      - node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+        title: Rey Hernandez
+        slug: rey-hernandez
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: ch6:25345-25451
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 0ed47736-5788-444b-8db6-831e63e3f052
+    claim_hash: ff72842423c524fc4007f2eefc4073c82c2d8ea8f6768c7d4dfce40440d23d10
+    content: Rey Hernandez believes the ufology paradigm has revealed very little about the UFO phenomenon over the last sixty
+      years and that a new paradigm, the Consciousness Paradigm, is needed.
+    original_excerpt: He said, “This paradigm has revealed very little about this phenomenon over the last sixty years. A
+      new paradigm is needed and this is the Consciousness Paradigm.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+      title: Rey Hernandez
+    provenance_chain:
+      origin_kind: speaker
+      origin: Rey Hernandez
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 585439bb-a369-4eaa-a3a3-3cf3ea06639a
+        title: Consciousness Paradigm
+        slug: consciousness-paradigm
+      - node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+        title: Rey Hernandez
+        slug: rey-hernandez
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: ch6:25460-25613
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: d76c9f47-c3ec-4b03-9a43-5b18edc54313
+    claim_hash: d069f1eef14616d0e75ac385fca57a19d3b256f8c43b1ab40abbdf35a46cc6c9
+    content: Disclosure is a term used by ufologists to mean that UFOs have revealed themselves, or that there is a public
+      awareness of their presence.
+    original_excerpt: Disclosure is a term used by ufologists that means that UFOs have revealed themselves, or that there
+      is a public awareness of their presence.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: ch6:25961-26093
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: eb5e48b7-3ca2-4ee4-8e46-ac43b47fe5b5
+    claim_hash: 2e44519f560064bb284c0beee48894be0eabb9375c40e15804f5410da2bb57dc
+    content: The Jesuit scientists at the Vatican Observatory are not actively searching for UFOs and are not engaged in ufology.
+    original_excerpt: To set the record straight, the Jesuits at the Vatican Observatory are not actively searching for UFOs,
+      nor are they engaged in anything related to ufology.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: ch7:26241-26389
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: a28466e4-1bea-4ee1-b339-2536b7550be9
+    claim_hash: e43c1bfbb4ac00e367d0dcaf83c14160e6b8ab1109ee6770ab5c43848a0c8725
+    content: Brenda Denzler observed that ufology and the study of anomalous aerial phenomena are overwhelmingly white and
+      male and over 90 percent Anglo-American.
+    original_excerpt: ufology and the study of anomalous aerial phenomena, as observed by my colleague Brenda Denzler, are
+      “overwhelmingly white and male” and over 90 percent Anglo-American.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: Brenda Denzler
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 002f2308-b73d-4076-87d4-c29b26eb6359
+        title: Brenda Denzler
+        slug: brenda-denzler
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: ch7:38244-38403
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 058c4153-c84b-4a97-9947-e2a6cd4b1db1
+    claim_hash: 6ffe0f7893929838f8f323040b815c28221f4091931bf0318cbc59ff36b40614
+    content: The historians of ufology, with few exceptions, ignore the history of African American and indigenous traditions
+      of the UFO, which predate the standard assumption that the UFO mythos began in 1947.
+    original_excerpt: The historians of ufology, with few exceptions, ignore the history of African American and indigenous
+      traditions of the UFO, which predate the standard assumption that the UFO mythos was born in the year 1947.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: ch7:38549-38753
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 9d673ad9-e774-4b7d-8315-6daae823096a
+    claim_hash: df0b3396f38b047b8a8ab1af9ec57e72f8ef314aaf1ff10f43a5d2f6253883f8
+    content: D. W. Pasulka conducted an ethnography of a variety of UFO believers and researched UFOs and ufology.
+    original_excerpt: I proceeded in the conventional way in that I conducted an ethnography of a variety of believers and
+      delved into research into UFOs and ufology, a branch of research devoted to the topic.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: char:15823-16004
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 2dd4645e-1949-44e3-8a49-6a91ff784eb5
+    claim_hash: 931bad36a55adc0e8b0fa90ba219b89ffd65b599b09c98dbcab4e6c3b3a979ee
+    content: Astronomer Massimo Teodorani and physicist Eric Davis have confirmed the existence of a parallel research tradition
+      within ufology that is not known to the uninitiated but is well known within the culture of ufologists.
+    original_excerpt: Some scientists, such as astronomer Massimo Teodorani and physicist Eric Davis, have confirmed its existence.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Massimo Teodorani and Eric Davis
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: a7c44a76-c834-4659-934e-6599bc960f78
+        title: Massimo Teodorani
+        slug: massimo-teodorani
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: char:18258-18357
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 23c255c7-50ed-4c23-835a-c5bd4e8660a0
+    claim_hash: 4271f6552a9583ce1b08e6218450b05bee69f45a1a0b9fae7ec9792462fd2173
+    content: Cult creation around a single contactee, typically involving a prophecy of an event within the next few years,
+      is a recurring pattern in ufology.
+    original_excerpt: The cult creation seems to be this thing in UFOlogy where like you have this one kind of contactee,
+      you know, and around that person is created this sort of mythology and... often there's a prophecy involved
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: 00:09:53.3-00:10:09.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 49b6a5b3-13a9-4741-b599-efd48f4935f8
+    claim_hash: fc34296df7846c9c6eb7ebd2ef43cbac134ccd0aea73bc9f6cc475be5d7d535b
+    content: Running a UFO researcher as a source also turns them from active and passionate into passive, waiting for sources
+      to tell them what is going on rather than analysing and piecing evidence together themselves, in Jason Samosa's assessment.
+    original_excerpt: Because I've turned you from someone who is active and passionate, and you've become passive. You're
+      waiting for the sources to tell you what's going on.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
+        title: psychological operations (psyop)
+        slug: psychological-operations-psyop-a07cf4c0
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: 01:54:39.2-01:54:46.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: d2dc7aae-f9bc-4a5d-8a8c-27a763799e57
+    claim_hash: a90a616e8b2b648de62781632ec6e759fbd2d2e317c4eab7ec2131eef5280ad7
+    content: Cultivating researchers as sources is practically free as a technique, and combined with flooding disinformation
+      into the UFO community does a great deal of damage, in Jason Samosa's assessment.
+    original_excerpt: it's a very simple, but it's practically free. And if you, alongside that, if you just flood disinformation
+      into the community, you'll do a wonderful job of making things very difficult.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
+        title: psychological operations (psyop)
+        slug: psychological-operations-psyop-a07cf4c0
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: 01:54:59.7-01:55:09.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: ce0c8817-c392-455a-9c14-8f444b3f939c
+    claim_hash: c4d9624ccf1331fdf3b18c83b6258672bc5ae305c8bcb8e5bf7ac898d5e3a041
+    content: UFO researchers turning aggressively against each other is the easiest way to destroy the research community,
+      in Jason Samosa's assessment.
+    original_excerpt: it's like just researchers turning against each other and getting so aggressive... It's the easiest
+      way to destroy a community.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: 01:56:08.1-01:56:14.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 3c3db63f-53a0-4edf-b84a-aafcc4635ee9
+    claim_hash: bc20ab3b05c7bd4bd0eafb885eee17fa9ff5c6ff221f9fcb4303dcf20f5d778d
+    content: Infighting among UFO researchers makes the field look crazy, which is itself falling prey to manufactured division,
+      in Jesse Michels's assessment.
+    original_excerpt: We all look crazy, which then you're, you're falling prey to the manufactured division.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
+        title: psychological operations (psyop)
+        slug: psychological-operations-psyop-a07cf4c0
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: 01:56:57.1-01:57:01.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 47f150d7-65f8-4abd-8814-9ad282b590a2
+    claim_hash: 2e62782a59b9a648f2b84df96ff4b9c3429fa9dddd5b1b6dd20d2c72fc3811ea
+    content: The UFO disclosure movement has an inevitable life cycle in which different evangelists are needed for different
+      audiences at different stages, in Jason Samosa's assessment.
+    original_excerpt: the same people who did the first, you know, kind of movement of this aren't going to be the same people
+      who do the next one... because you need different types of evangelists for different types of audiences at different
+      times. So there is an inevitable life cycle as well.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: 01:58:05.0-01:58:20.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 01b2f048-4356-4270-895e-05e5b3d7f3cc
+    claim_hash: 010183cc9b631040c86f7bb4b44e2db2582117b8f9e7b0625da9141c1b15908e
+    content: Few people in the United Kingdom talk publicly about the UFO topic, in Jason Samosa's assessment.
+    original_excerpt: Like in the UK, we really don't have that many people who talk about this topic.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: 01:58:23.2-01:58:26.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 013d9f15-86a6-4e0f-a520-649ec70aabb5
+    claim_hash: 7508448ee7821dc98286bc5f3a7056aabb282d1de9b4b45d0a3736e5451c7164
+    content: Jason Samosa worries about the religious component of the UFO subject and about an inability to cautiously distinguish
+      what people have experienced from dogma.
+    original_excerpt: I do worry about the religious component and our inability to cautiously delineate between what people
+      have experienced and dogma.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:06:03.2-02:06:11.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 3bc81cc5-32d4-4081-9ea1-ce240f1152a2
+    claim_hash: d809d419a348f76281a196be9bfb2f5f291d8bde71f48b0f2e4ab2f64909b677
+    content: Jason Samosa observes that the role of the Vatican in the UFO subject is hinted at by many researchers he respects,
+      comes up and then disappears, with no one wanting to focus on it.
+    original_excerpt: the role of the Vatican is hinted at by many people that I would respect it kind of comes up and then
+      it disappears, right? No one wants to focus too much on the Vatican.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:17:57.1-02:18:04.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 711f3e12-8676-4b21-8a84-879de4b93360
+    claim_hash: 78b309f520382d4f8fe0761821a2690b355b9571b67e3c13408038791df9db95
+    content: Jesse Michels considers the biggest fallacy of UFO research to be treating figures such as Ronald Reagan as though
+      they spent most of their time on UFOs, when the subject was under one per cent of their attention and their real focus
+      was geopolitics.
+    original_excerpt: And I think maybe the biggest fallacy of UFO research is we talk about Reagan, like he spends all his
+      time on UFOs. They're realizing it's sub 1%. And he really is just geopolitics.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: 02:29:48.7-02:30:00.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 7a13c02e-cc4a-473b-ba16-6ebc4c24ecba
+    claim_hash: bb03ef85148ef700a2a1e007dda751b01f7c5b8e8c3f078ba920574fc944ae97
+    content: Budd Hopkins was an American artist, author and ufologist.
+    original_excerpt: '[note: Budd Hopkins - American artist, author, and ufologist]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+        title: Budd Hopkins
+        slug: budd-hopkins
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: line 308
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 3030db14-5100-44c8-9d8f-f90e8c4d67b0
+    claim_hash: 5ef70b95b6fd60e8873ac4c85a468e4feda4dc9033d979496e400ab7c2519d71
+    content: 'The most effective way to neutralise a UFO researcher is to run them as a source: give them a few genuinely
+      good pieces of information to build trust, then feed in progressively more untrue material that spreads into the community
+      and surrounds the true information, in Jason Samosa''s assessment.'
+    original_excerpt: The really smart thing to do is sources... I give you a couple of really good bits of information to
+      start with... And you build a relationship of trust with me... then I start to introduce more and more unusual, unnecessary
+      extra information, which is not true, which gets distilled into the community, which then surrounds all the true information.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
+        title: psychological operations (psyop)
+        slug: psychological-operations-psyop-a07cf4c0
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: lines 150-163
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

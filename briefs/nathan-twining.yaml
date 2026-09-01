@@ -1,671 +1,726 @@
 schema: anomalica/brief/1
-brief_hash: 42baee9842b66d06593f92287d194646486aaf3960058eba97645f18beb1d719
+brief_hash: 07b95d9711e8fd6325757a47a5da35b30c0f03ea1f99694a52fce6c663b61ed8
 page:
   kind: entity
   node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
   node_type: person
   title: Nathan Twining
   slug: nathan-twining
-  claim_count: 15
-  claim_count_total: 15
+  claim_count: 16
+  claim_count_total: 16
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 16
+  tokens_estimated: 4719
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 16
 related_nodes:
-- node_id: 62035516-6ced-40e6-a0bb-8aa92db2da61
-  title: 1947 Nathan Twining letter on flying discs
-  node_type: document
-  slug: 1947-nathan-twining-letter-on-flying-discs
-  shared_claims: 3
-- node_id: 109f7cb1-c509-4250-9f22-a99715f6f3a9
-  title: 15th Air Force
-  node_type: organisation
-  slug: 15th-air-force
-  shared_claims: 2
-- node_id: 2cf5787c-8ccf-4b65-9a55-67b57977de23
-  title: 1947 Roswell crash and debris retrieval
-  node_type: event
-  slug: 1947-roswell-crash-and-debris-retrieval
-  shared_claims: 2
-- node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
-  title: Air Materiel Command
-  node_type: organisation
-  slug: air-materiel-command
-  shared_claims: 2
-- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-  title: Whitley Strieber
-  node_type: person
-  slug: whitley-strieber
-  shared_claims: 2
-- node_id: a3925bc9-a1e4-4bb1-be08-39fd69b91bac
-  title: 1947 Nathan Twining assessment to the Army Air Forces
-  node_type: event
-  slug: 1947-nathan-twining-assessment-to-the-army-air-forces
-  shared_claims: 1
-- node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-  title: Arthur Exon
-  node_type: person
-  slug: arthur-exon
-  shared_claims: 1
-- node_id: 3f82152a-6631-45d6-a6b2-823f6c7f5a7e
-  title: Italy, San Giovanni Rotondo
-  node_type: place
-  slug: san-giovanni-rotondo-italy
-  shared_claims: 1
-- node_id: 0a5cbe38-519a-42fe-8f31-bb46c983b742
-  title: Nathan Twining's 1947 memo to the commander of the Army Air Forces
-  node_type: document
-  slug: nathan-twinings-1947-memo-to-the-commander-of-the-army-air-forces
-  shared_claims: 1
-- node_id: ceddae85-8b0c-43f5-b372-fee1f4bf4e7d
-  title: Padre Pio
-  node_type: person
-  slug: padre-pio
-  shared_claims: 1
-- node_id: cc888145-58ee-42f5-b3c9-7a90e71ae117
-  title: Project SAUCER
-  node_type: project
-  slug: project-saucer
-  shared_claims: 1
-- node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
-  title: Project Sign
-  node_type: project
-  slug: project-sign
-  shared_claims: 1
-- node_id: d19f9fb1-9cc7-4516-9ef0-18c1c600920e
-  title: September 23, 1947 Twining Memo
-  node_type: document
-  slug: 1947-twining-memo-september-23
-  shared_claims: 1
-- node_id: fd8b6541-d1f6-47ac-ab22-628a3613f682
-  title: USA, Ohio, Wright Field
-  node_type: place
-  slug: ohio-wright-field-usa
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-  title: United States Air Force (USAF)
-  node_type: organisation
-  slug: united-states-air-force-usaf
-  shared_claims: 1
-- node_id: c5580173-fc55-4af9-84eb-32f7911d0e7a
-  title: United States Army Air Forces Air Materiel Command
-  node_type: organisation
-  slug: united-states-army-air-forces-air-materiel-command
-  shared_claims: 1
-claims:
-- claim_id: 40d170ab-6665-47cc-8798-4ef0500e76c9
-  claim_hash: 25d9d50b635b2a5707a8484cae903717f89dbcd3a3b60a62f631a5877263c28a
-  content: Nathan Twining's 1947 memo to the commander of the Army Air Forces stated
-    that UFOs are real and not visionary, and urged that a project be set up immediately
-    to investigate what they were, where they came from, and what they were doing.
-  original_excerpt: And he said that the UFOs are real. They're not visionary. and
-    he gave him a description in this particular memo ... and urged that immediately
-    a project should be set up to investigate what they were, where they came from,
-    what they were doing here, etc.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
-    title: Raymond E. Fowler
-  provenance_chain:
-    origin_kind: document
-    origin: Nathan Twining's 1947 memo to the commander of the Army Air Forces
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0a5cbe38-519a-42fe-8f31-bb46c983b742
-    title: Nathan Twining's 1947 memo to the commander of the Army Air Forces
-    slug: nathan-twinings-1947-memo-to-the-commander-of-the-army-air-forces
-  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-    slug: nathan-twining
-  date: '1947-09-23'
-  date_end: null
-  location_in_record: 00:11:32.4-00:11:50.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
-    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
-      (Full Interview, 1987)
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
-    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
-    friendly_name: null
-- claim_id: 2b1f662f-115e-4816-8795-e10148594d81
-  claim_hash: f78cfb5146e613a1fcccda89c138b759da50eb7bcc3b53391549ba50f1c78df7
-  content: The 1947 Nathan Twining letter on flying discs stated the observed capabilities
-    'lend belief to the possibility that some of the objects are controlled either
-    manually, or remotely'.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-  provenance_chain:
-    origin_kind: document
-    origin: 1947 Nathan Twining letter on flying discs
-    relay: []
-  attribution_mode: unknown
-  node_refs:
   - node_id: 62035516-6ced-40e6-a0bb-8aa92db2da61
     title: 1947 Nathan Twining letter on flying discs
+    node_type: document
     slug: 1947-nathan-twining-letter-on-flying-discs
-  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-    slug: nathan-twining
-  date: null
-  date_end: null
-  location_in_record: ch8:1038-1136
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 41df29fa-62e9-409e-82d6-024099f70f30
-  claim_hash: fca253e4115d86754069884e4f233be2381760554b6770d8d9636959b39fab44
-  content: Nathan Twining recommended a detailed study of UAPs, which became known
-    as Project Sign.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-    slug: nathan-twining
-  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
-    title: Project Sign
-    slug: project-sign
-  date: null
-  date_end: null
-  location_in_record: ch8:1148-1223
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 212f8aec-ad2a-4dba-901e-7a9bf594acfd
-  claim_hash: e1bd40a374dbb8629d9d75f64e1f90dcf305450a687e98c4cb2b42cf86d5207e
-  content: In September 1947, Nathan Twining wrote a letter about flying discs acknowledging
-    that the phenomenon was 'something real and not visionary or fictitious'.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-  provenance_chain:
-    origin_kind: document
-    origin: 1947 Nathan Twining letter on flying discs
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 62035516-6ced-40e6-a0bb-8aa92db2da61
-    title: 1947 Nathan Twining letter on flying discs
-    slug: 1947-nathan-twining-letter-on-flying-discs
-  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-    slug: nathan-twining
-  date: 1947-09
-  date_end: null
-  location_in_record: ch8:571-795
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 2e7d818f-5bd4-42a0-8d4a-f6f4a96d59ef
-  claim_hash: 15bacaa2582d47e647af23b4e688c7ddb8bfc52ad09a36e6ba898f0ca2c1b82b
-  content: Nathan Twining was a former combat fighter pilot and World War Two commander.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-    slug: nathan-twining
-  date: null
-  date_end: null
-  location_in_record: ch8:590-716
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d2515ba4-200b-4ae5-b855-b6b4bba980e9
-  claim_hash: 1c09573f0777056b583e0abe456d06439e38881a41fc7591a9ea7a52c9f75434
-  content: Nathan Twining was the head of the United States Army Air Materiel Command.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-    slug: nathan-twining
-  - node_id: c5580173-fc55-4af9-84eb-32f7911d0e7a
-    title: United States Army Air Forces Air Materiel Command
-    slug: united-states-army-air-forces-air-materiel-command
-  date: null
-  date_end: null
-  location_in_record: ch8:673-716
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 7dcf2e53-ca25-4b3e-a1e9-870af35eb3f1
-  claim_hash: a71dd232fbd2881e08b4722ba70f1a36bdc33111af956d3cc9ca74646a36bcd8
-  content: The 1947 Nathan Twining letter on flying discs described the 'metallic'
-    looking discs as showing capabilities such as extreme rates of climb and manoeuvrability,
-    including evasion when detected.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-  provenance_chain:
-    origin_kind: document
-    origin: 1947 Nathan Twining letter on flying discs
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 62035516-6ced-40e6-a0bb-8aa92db2da61
-    title: 1947 Nathan Twining letter on flying discs
-    slug: 1947-nathan-twining-letter-on-flying-discs
-  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-    slug: nathan-twining
-  date: null
-  date_end: null
-  location_in_record: ch8:882-1028
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: b0841f7c-bafd-486b-a81c-8f4a676bbe99
-  claim_hash: 94f7f854c08f7e564377a8050ab218b8d16238b646957f218b505d70c5b315a2
-  content: According to one source, General Nathan Twining, Commander of the Air Technical
-    Services Command, established Project SAUCER on 1947-12-30 to collect and evaluate
-    all information relating to UFO sightings that could be construed as of concern
-    to national security.
-  original_excerpt: According to one source, General Nathan Twining, Commander of
-    the Air Technical Services Command, established Project SAUCER on December 30,
-    1947, to collect and evaluate all information relating to UFO sightings which
-    could be construed as of concern to the national security.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to be a knowledgeable historical source on Project SAUCER's
-      founding
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-    slug: nathan-twining
-  - node_id: cc888145-58ee-42f5-b3c9-7a90e71ae117
-    title: Project SAUCER
-    slug: project-saucer
-  date: '1947-12-30'
-  date_end: null
-  location_in_record: char:24970-25280
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: c7733738-e5d3-4be1-8d2b-879fa38664f7
-  claim_hash: 5a50817c6260eb21d3401163d9fa21a040ebe7bf4995c83cd596d0ea558e4046
-  content: According to his son, General Nathan Twining privately said that bodies
-    were delivered by Air Materiel Command along with the debris recovered near Roswell.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Nathan Twining
-    relay:
-    - Nathan Twining's son
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-    slug: nathan-twining
-  - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
-    title: Air Materiel Command
-    slug: air-materiel-command
-  date: null
-  date_end: null
-  location_in_record: ch11:1075-1202
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 54444357-ad98-4e4f-b0e3-89ee1e984807
-  claim_hash: b6a2a5bfb09e7efbfff7ed98909a8ae5be07bbe867081085997e6218316801bb
-  content: Padre Pio was reputed to have appeared above his town of San Giovanni Rotondo
-    and caused bombers of the 15th Air Force to turn back in confusion when the crews
-    saw a monk standing in the sky.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: unnamed reputation/legend
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 3
   - node_id: 109f7cb1-c509-4250-9f22-a99715f6f3a9
     title: 15th Air Force
+    node_type: organisation
     slug: 15th-air-force
-  - node_id: 3f82152a-6631-45d6-a6b2-823f6c7f5a7e
-    title: Italy, San Giovanni Rotondo
-    slug: san-giovanni-rotondo-italy
-  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-    slug: nathan-twining
-  - node_id: ceddae85-8b0c-43f5-b372-fee1f4bf4e7d
-    title: Padre Pio
-    slug: padre-pio
-  date: null
-  date_end: null
-  location_in_record: ch22:17954-18184
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: ff7a15d4-cb4b-4a5a-8695-2fc2e9672d61
-  claim_hash: 182be12dfb7e7391b296f245bfcc36eca285f68248f9a6740b93823d754ce747
-  content: The 15th Air Force was commanded by General Nathan Twining.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 109f7cb1-c509-4250-9f22-a99715f6f3a9
-    title: 15th Air Force
-    slug: 15th-air-force
-  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-    slug: nathan-twining
-  date: null
-  date_end: null
-  location_in_record: ch22:18043-18112
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: efefa49f-2a39-4aec-b069-1f3214e5646c
-  claim_hash: 9b9ae9ceb1e2e61302a6db1aa8f90a81a343b6572b36d22ecd6f0b64843428fc
-  content: In the September 23, 1947 Twining Memo, General Nathan Twining, then commanding
-    officer of the Air Materiel Command at Wright Field in Dayton, Ohio, describes
-    the objects' functionality as displaying extraordinary manoeuvrability and high
-    speed.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: document
-    origin: September 23, 1947 Twining Memo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-    slug: nathan-twining
-  - node_id: d19f9fb1-9cc7-4516-9ef0-18c1c600920e
-    title: September 23, 1947 Twining Memo
-    slug: 1947-twining-memo-september-23
+    shared_claims: 2
   - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
     title: Air Materiel Command
+    node_type: organisation
     slug: air-materiel-command
-  - node_id: fd8b6541-d1f6-47ac-ab22-628a3613f682
-    title: USA, Ohio, Wright Field
-    slug: ohio-wright-field-usa
-  date: null
-  date_end: null
-  location_in_record: ch23:9872-10077
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 770f3c59-13d2-48be-a8cc-e507a8a2faf6
-  claim_hash: d0510dcd510faeaa4e218271b06968f1eee03a278300c3d17fe6fdfa0dbb6949
-  content: In 1947, Lieutenant General Nathan Twining told the United States Army
-    Air Forces that the phenomenon under investigation was 'something real and not
-    visionary or fictitious'.
-  original_excerpt: In 1947, Lieutenant General Nathan Twining told the Army Air Forces
-    the phenomenon was, quote, something real and not visionary or fictitious was
-    going on.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
-    title: Phil McGraw
-  provenance_chain:
-    origin_kind: document
-    origin: the 1947 Nathan Twining assessment
-    relay:
-    - read by Phil McGraw
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: a3925bc9-a1e4-4bb1-be08-39fd69b91bac
-    title: 1947 Nathan Twining assessment to the Army Air Forces
-    slug: 1947-nathan-twining-assessment-to-the-army-air-forces
-  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-    slug: nathan-twining
-  date: '1947'
-  date_end: null
-  location_in_record: 00:12:45.2-00:12:58.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
-    record_title: Dr. Phil read the UAP files before the public, here's what he found
-      | Reality Check
-    record_date: '2026-07-21'
-    record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
-    content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
-    friendly_name: null
-- claim_id: 25c63220-7362-4b95-b719-5a894ba7a5ce
-  claim_hash: 3fc247bc628e9c6f2966473fe6093d188ee75fd2b8d05f25bcdd33faf2dd11a0
-  content: Whitley Strieber's uncle told him that he had been present when the Roswell
-    debris was brought in, under Nathan F. Twining, and that he had examined the debris.
-  original_excerpt: And he told us that he had been there when the debris was brought
-    in and under General Twining. And he had examined the debris
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Whitley Strieber's uncle
-    relay:
-    - told directly to Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2cf5787c-8ccf-4b65-9a55-67b57977de23
-    title: 1947 Roswell crash and debris retrieval
-    slug: 1947-roswell-crash-and-debris-retrieval
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-    slug: nathan-twining
-  date: null
-  date_end: null
-  location_in_record: 00:39:37.4-00:39:47.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: a6226f24-32e7-4829-886b-93f645f02ac2
-  claim_hash: b072f1ac795929814248f33b08ae0c06a72f5e13c28e85811219d5a0a73632ad
-  content: Arthur Ernest Exon told Whitley Strieber that Nathan F. Twining and others
-    did see the bodies recovered after the 1947 Roswell crash, although Exon himself
-    did not.
-  original_excerpt: But he said that General Twining did see them and others saw them,
-    but not him.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Arthur Ernest Exon
-    relay:
-    - told directly to Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2cf5787c-8ccf-4b65-9a55-67b57977de23
-    title: 1947 Roswell crash and debris retrieval
-    slug: 1947-roswell-crash-and-debris-retrieval
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
+    shared_claims: 2
   - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
     title: Arthur Exon
+    node_type: person
     slug: arthur-exon
-  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-    title: Nathan Twining
-    slug: nathan-twining
-  date: null
-  date_end: null
-  location_in_record: 00:40:59.9-00:41:04.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
+    shared_claims: 2
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    node_type: event
+    slug: roswell-incident-1947
+    shared_claims: 2
+  - node_id: c5580173-fc55-4af9-84eb-32f7911d0e7a
+    title: United States Army Air Forces Air Materiel Command
+    node_type: organisation
+    slug: united-states-army-air-forces-air-materiel-command
+    shared_claims: 2
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 2
+  - node_id: a3925bc9-a1e4-4bb1-be08-39fd69b91bac
+    title: 1947 Nathan Twining assessment to the Army Air Forces
+    node_type: event
+    slug: 1947-nathan-twining-assessment-to-the-army-air-forces
+    shared_claims: 1
+  - node_id: 3f82152a-6631-45d6-a6b2-823f6c7f5a7e
+    title: Italy, San Giovanni Rotondo
+    node_type: place
+    slug: san-giovanni-rotondo-italy
+    shared_claims: 1
+  - node_id: 0a5cbe38-519a-42fe-8f31-bb46c983b742
+    title: Nathan Twining's 1947 memo to the commander of the Army Air Forces
+    node_type: document
+    slug: nathan-twinings-1947-memo-to-the-commander-of-the-army-air-forces
+    shared_claims: 1
+  - node_id: ceddae85-8b0c-43f5-b372-fee1f4bf4e7d
+    title: Padre Pio
+    node_type: person
+    slug: padre-pio
+    shared_claims: 1
+  - node_id: cc888145-58ee-42f5-b3c9-7a90e71ae117
+    title: Project SAUCER
+    node_type: project
+    slug: project-saucer
+    shared_claims: 1
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    node_type: project
+    slug: project-sign
+    shared_claims: 1
+  - node_id: d19f9fb1-9cc7-4516-9ef0-18c1c600920e
+    title: September 23, 1947 Twining Memo
+    node_type: document
+    slug: 1947-twining-memo-september-23
+    shared_claims: 1
+  - node_id: fd8b6541-d1f6-47ac-ab22-628a3613f682
+    title: USA, Ohio, Wright Field
+    node_type: place
+    slug: ohio-wright-field-usa
+    shared_claims: 1
+  - node_id: acde03ee-7227-486d-854c-9673dd837619
+    title: USA, Ohio, Wright-Patterson Air Force Base
+    node_type: place
+    slug: ohio-wright-patterson-air-force-base-usa
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
+claims:
+  - claim_id: 40d170ab-6665-47cc-8798-4ef0500e76c9
+    claim_hash: 25d9d50b635b2a5707a8484cae903717f89dbcd3a3b60a62f631a5877263c28a
+    content: Nathan Twining's 1947 memo to the commander of the Army Air Forces stated that UFOs are real and not visionary,
+      and urged that a project be set up immediately to investigate what they were, where they came from, and what they were
+      doing.
+    original_excerpt: And he said that the UFOs are real. They're not visionary. and he gave him a description in this particular
+      memo ... and urged that immediately a project should be set up to investigate what they were, where they came from,
+      what they were doing here, etc.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: document
+      origin: Nathan Twining's 1947 memo to the commander of the Army Air Forces
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0a5cbe38-519a-42fe-8f31-bb46c983b742
+        title: Nathan Twining's 1947 memo to the commander of the Army Air Forces
+        slug: nathan-twinings-1947-memo-to-the-commander-of-the-army-air-forces
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+    date: '1947-09-23'
+    date_end: null
+    location_in_record: 00:11:32.4-00:11:50.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 2b1f662f-115e-4816-8795-e10148594d81
+    claim_hash: f78cfb5146e613a1fcccda89c138b759da50eb7bcc3b53391549ba50f1c78df7
+    content: The 1947 Nathan Twining letter on flying discs stated the observed capabilities 'lend belief to the possibility
+      that some of the objects are controlled either manually, or remotely'.
+    original_excerpt: which 'lend belief to the possibility that some of the objects are controlled either manually, or remotely'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+      title: Nathan Twining
+    provenance_chain:
+      origin_kind: document
+      origin: 1947 Nathan Twining letter on flying discs
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 62035516-6ced-40e6-a0bb-8aa92db2da61
+        title: 1947 Nathan Twining letter on flying discs
+        slug: 1947-nathan-twining-letter-on-flying-discs
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+    date: null
+    date_end: null
+    location_in_record: ch8:1038-1136
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 41df29fa-62e9-409e-82d6-024099f70f30
+    claim_hash: fca253e4115d86754069884e4f233be2381760554b6770d8d9636959b39fab44
+    content: Nathan Twining recommended a detailed study of UAPs, which became known as Project Sign.
+    original_excerpt: He recommended a detailed study of the UAPs, which became known as Project Sign
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+      - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+        title: Project Sign
+        slug: project-sign
+    date: null
+    date_end: null
+    location_in_record: ch8:1148-1223
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 212f8aec-ad2a-4dba-901e-7a9bf594acfd
+    claim_hash: e1bd40a374dbb8629d9d75f64e1f90dcf305450a687e98c4cb2b42cf86d5207e
+    content: In September 1947, Nathan Twining wrote a letter about flying discs acknowledging that the phenomenon was 'something
+      real and not visionary or fictitious'.
+    original_excerpt: by September 1947, General Nathan Twining ... penned a now famous letter about the flying discs, acknowledging
+      that the phenomenon, whatever it was, was 'something real and not visionary or fictitious'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+      title: Nathan Twining
+    provenance_chain:
+      origin_kind: document
+      origin: 1947 Nathan Twining letter on flying discs
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 62035516-6ced-40e6-a0bb-8aa92db2da61
+        title: 1947 Nathan Twining letter on flying discs
+        slug: 1947-nathan-twining-letter-on-flying-discs
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+    date: 1947-09
+    date_end: null
+    location_in_record: ch8:571-795
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2e7d818f-5bd4-42a0-8d4a-f6f4a96d59ef
+    claim_hash: 15bacaa2582d47e647af23b4e688c7ddb8bfc52ad09a36e6ba898f0ca2c1b82b
+    content: Nathan Twining was a former combat fighter pilot and World War Two commander.
+    original_excerpt: General Nathan Twining, a former combat fighter pilot and World War Two commander, the head of the United
+      States Air Materiel Command
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+    date: null
+    date_end: null
+    location_in_record: ch8:590-716
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d2515ba4-200b-4ae5-b855-b6b4bba980e9
+    claim_hash: 1c09573f0777056b583e0abe456d06439e38881a41fc7591a9ea7a52c9f75434
+    content: Nathan Twining was the head of the United States Army Air Materiel Command.
+    original_excerpt: the head of the United States Air Materiel Command
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+      - node_id: c5580173-fc55-4af9-84eb-32f7911d0e7a
+        title: United States Army Air Forces Air Materiel Command
+        slug: united-states-army-air-forces-air-materiel-command
+    date: null
+    date_end: null
+    location_in_record: ch8:673-716
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7dcf2e53-ca25-4b3e-a1e9-870af35eb3f1
+    claim_hash: a71dd232fbd2881e08b4722ba70f1a36bdc33111af956d3cc9ca74646a36bcd8
+    content: The 1947 Nathan Twining letter on flying discs described the 'metallic' looking discs as showing capabilities
+      such as extreme rates of climb and manoeuvrability, including evasion when detected.
+    original_excerpt: Twining described how the 'metallic' looking discs showed capabilities such as extreme rates of climb
+      and manoeuvrability, including evasion when detected
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+      title: Nathan Twining
+    provenance_chain:
+      origin_kind: document
+      origin: 1947 Nathan Twining letter on flying discs
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 62035516-6ced-40e6-a0bb-8aa92db2da61
+        title: 1947 Nathan Twining letter on flying discs
+        slug: 1947-nathan-twining-letter-on-flying-discs
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+    date: null
+    date_end: null
+    location_in_record: ch8:882-1028
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b0841f7c-bafd-486b-a81c-8f4a676bbe99
+    claim_hash: 94f7f854c08f7e564377a8050ab218b8d16238b646957f218b505d70c5b315a2
+    content: According to one source, General Nathan Twining, Commander of the Air Technical Services Command, established
+      Project SAUCER on 1947-12-30 to collect and evaluate all information relating to UFO sightings that could be construed
+      as of concern to national security.
+    original_excerpt: According to one source, General Nathan Twining, Commander of the Air Technical Services Command, established
+      Project SAUCER on December 30, 1947, to collect and evaluate all information relating to UFO sightings which could be
+      construed as of concern to the national security.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a knowledgeable historical source on Project SAUCER's founding
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+      - node_id: cc888145-58ee-42f5-b3c9-7a90e71ae117
+        title: Project SAUCER
+        slug: project-saucer
+    date: '1947-12-30'
+    date_end: null
+    location_in_record: char:24970-25280
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: c7733738-e5d3-4be1-8d2b-879fa38664f7
+    claim_hash: 5a50817c6260eb21d3401163d9fa21a040ebe7bf4995c83cd596d0ea558e4046
+    content: According to his son, General Nathan Twining privately said that bodies were delivered by Air Materiel Command
+      along with the debris recovered near Roswell.
+    original_excerpt: General Nathan Twining, according to his son, also said privately that there were bodies delivered Air
+      Materiel along with the debris.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Nathan Twining
+      relay:
+        - Nathan Twining's son
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+      - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
+        title: Air Materiel Command
+        slug: air-materiel-command
+    date: null
+    date_end: null
+    location_in_record: ch11:1075-1202
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 54444357-ad98-4e4f-b0e3-89ee1e984807
+    claim_hash: b6a2a5bfb09e7efbfff7ed98909a8ae5be07bbe867081085997e6218316801bb
+    content: Padre Pio was reputed to have appeared above his town of San Giovanni Rotondo and caused bombers of the 15th
+      Air Force to turn back in confusion when the crews saw a monk standing in the sky.
+    original_excerpt: Padre Pio was reputed to have appeared above his town of San Giovanni Rotondo and caused bombers of
+      the 15th Air Force, which was commanded by General Nathan Twining, to turn back in confusion when they saw a monk standing
+      in the sky.
+    claim_type: hearsay
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unnamed reputation/legend
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 109f7cb1-c509-4250-9f22-a99715f6f3a9
+        title: 15th Air Force
+        slug: 15th-air-force
+      - node_id: 3f82152a-6631-45d6-a6b2-823f6c7f5a7e
+        title: Italy, San Giovanni Rotondo
+        slug: san-giovanni-rotondo-italy
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+      - node_id: ceddae85-8b0c-43f5-b372-fee1f4bf4e7d
+        title: Padre Pio
+        slug: padre-pio
+    date: null
+    date_end: null
+    location_in_record: ch22:17954-18184
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: ff7a15d4-cb4b-4a5a-8695-2fc2e9672d61
+    claim_hash: 182be12dfb7e7391b296f245bfcc36eca285f68248f9a6740b93823d754ce747
+    content: The 15th Air Force was commanded by General Nathan Twining.
+    original_excerpt: bombers of the 15th Air Force, which was commanded by General Nathan Twining
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 109f7cb1-c509-4250-9f22-a99715f6f3a9
+        title: 15th Air Force
+        slug: 15th-air-force
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+    date: null
+    date_end: null
+    location_in_record: ch22:18043-18112
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: efefa49f-2a39-4aec-b069-1f3214e5646c
+    claim_hash: 9b9ae9ceb1e2e61302a6db1aa8f90a81a343b6572b36d22ecd6f0b64843428fc
+    content: In the September 23, 1947 Twining Memo, General Nathan Twining, then commanding officer of the Air Materiel Command
+      at Wright Field in Dayton, Ohio, describes the objects' functionality as displaying extraordinary manoeuvrability and
+      high speed.
+    original_excerpt: in which General Nathan Twining, then the commanding officer of the Air Materiel Command at Wright Field
+      in Dayton, Ohio, describes their functionality as displaying extraordinary maneuverability and high speed
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: document
+      origin: September 23, 1947 Twining Memo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+      - node_id: d19f9fb1-9cc7-4516-9ef0-18c1c600920e
+        title: September 23, 1947 Twining Memo
+        slug: 1947-twining-memo-september-23
+      - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
+        title: Air Materiel Command
+        slug: air-materiel-command
+      - node_id: fd8b6541-d1f6-47ac-ab22-628a3613f682
+        title: USA, Ohio, Wright Field
+        slug: ohio-wright-field-usa
+    date: null
+    date_end: null
+    location_in_record: ch23:9872-10077
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 770f3c59-13d2-48be-a8cc-e507a8a2faf6
+    claim_hash: d0510dcd510faeaa4e218271b06968f1eee03a278300c3d17fe6fdfa0dbb6949
+    content: In 1947, Lieutenant General Nathan Twining told the United States Army Air Forces that the phenomenon under investigation
+      was 'something real and not visionary or fictitious'.
+    original_excerpt: In 1947, Lieutenant General Nathan Twining told the Army Air Forces the phenomenon was, quote, something
+      real and not visionary or fictitious was going on.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: document
+      origin: the 1947 Nathan Twining assessment
+      relay:
+        - read by Phil McGraw
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: a3925bc9-a1e4-4bb1-be08-39fd69b91bac
+        title: 1947 Nathan Twining assessment to the Army Air Forces
+        slug: 1947-nathan-twining-assessment-to-the-army-air-forces
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+    date: '1947'
+    date_end: null
+    location_in_record: 00:12:45.2-00:12:58.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 0b0f0b59-1e0a-435a-9cf9-c9337e58248a
+    claim_hash: 26d0f61f9c9b85f68ad7b081d07ec27ea370ad380e4a3efe8808eb67a3e1ec88
+    content: At the time the debris and bodies were brought to Wright Field in 1947, Arthur Exon was in or worked with the
+      United States Air Force Air Materiel Command under Nathan Twining.
+    original_excerpt: under General Twining he was in the air material command or worked in this
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Exon
+      relay:
+        - a conversation with Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: acde03ee-7227-486d-854c-9673dd837619
+        title: USA, Ohio, Wright-Patterson Air Force Base
+        slug: ohio-wright-patterson-air-force-base-usa
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+      - node_id: c5580173-fc55-4af9-84eb-32f7911d0e7a
+        title: United States Army Air Forces Air Materiel Command
+        slug: united-states-army-air-forces-air-materiel-command
+    date: '1947'
+    date_end: null
+    location_in_record: 00:13:58.2-00:14:04.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 25c63220-7362-4b95-b719-5a894ba7a5ce
+    claim_hash: 3fc247bc628e9c6f2966473fe6093d188ee75fd2b8d05f25bcdd33faf2dd11a0
+    content: Whitley Strieber's uncle told him that he had been present when the Roswell debris was brought in, under Nathan
+      F. Twining, and that he had examined the debris.
+    original_excerpt: And he told us that he had been there when the debris was brought in and under General Twining. And
+      he had examined the debris
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Whitley Strieber's uncle
+      relay:
+        - told directly to Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+    date: null
+    date_end: null
+    location_in_record: 00:39:37.4-00:39:47.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: a6226f24-32e7-4829-886b-93f645f02ac2
+    claim_hash: b072f1ac795929814248f33b08ae0c06a72f5e13c28e85811219d5a0a73632ad
+    content: Arthur Ernest Exon told Whitley Strieber that Nathan F. Twining and others did see the bodies recovered after
+      the 1947 Roswell crash, although Exon himself did not.
+    original_excerpt: But he said that General Twining did see them and others saw them, but not him.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Ernest Exon
+      relay:
+        - told directly to Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+    date: null
+    date_end: null
+    location_in_record: 00:40:59.9-00:41:04.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null

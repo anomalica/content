@@ -9,1481 +9,1484 @@ page:
   claim_count: 35
   claim_count_total: 35
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 35
+  tokens_estimated: 10625
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 35
 related_nodes:
-- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-  title: Harold E. Puthoff
-  node_type: person
-  slug: harold-e-puthoff
-  shared_claims: 16
-- node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-  title: Russell Targ
-  node_type: person
-  slug: russell-targ
-  shared_claims: 15
-- node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-  title: Joseph McMoneagle
-  node_type: person
-  slug: joseph-mcmoneagle
-  shared_claims: 6
-- node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
-  title: Ingo Swann
-  node_type: person
-  slug: ingo-swann
-  shared_claims: 4
-- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-  title: Remote Viewing (RV)
-  node_type: topic
-  slug: remote-viewing-rv
-  shared_claims: 3
-- node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-  title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-  node_type: organisation
-  slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  shared_claims: 3
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 2
-- node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
-  title: Science Applications International Corporation (SAIC)
-  node_type: organisation
-  slug: science-applications-international-corporation-saic
-  shared_claims: 2
-- node_id: b83494b0-eac6-4b7c-8852-2c000d801d54
-  title: Controlled Remote Viewing (CRV)
-  node_type: topic
-  slug: controlled-remote-viewing-crv
-  shared_claims: 1
-- node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-  title: Coordinate Remote Viewing
-  node_type: topic
-  slug: coordinate-remote-viewing
-  shared_claims: 1
-- node_id: f2daae19-9351-4a8e-b466-664f83887f61
-  title: Diana Walsh Pasulka
-  node_type: person
-  slug: diana-walsh-pasulka
-  shared_claims: 1
-- node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
-  title: Dowsing
-  node_type: topic
-  slug: dowsing
-  shared_claims: 1
-- node_id: 59476464-a679-46ce-9247-b0adcb287762
-  title: Edgar Mitchell
-  node_type: person
-  slug: edgar-mitchell
-  shared_claims: 1
-- node_id: 101c26f5-00b3-4d25-9163-9b8140824acc
-  title: Ganzfeld procedure
-  node_type: topic
-  slug: ganzfeld-procedure
-  shared_claims: 1
-- node_id: 0527eb19-269f-4461-ab4c-54b4efb2fc90
-  title: General Electric
-  node_type: organisation
-  slug: general-electric
-  shared_claims: 1
-- node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
-  title: National Security Agency (NSA)
-  node_type: organisation
-  slug: national-security-agency-nsa
-  shared_claims: 1
-- node_id: 5884a8ca-9d73-4fe8-a349-9f4a0158dc26
-  title: Outbounder Remote Viewing
-  node_type: topic
-  slug: outbounder-remote-viewing
-  shared_claims: 1
-- node_id: 183e6ba7-764f-4eaf-8c81-15715949dad8
-  title: Proceedings of the Institute of Electrical and Electronics Engineers (IEEE)
-  node_type: organisation
-  slug: proceedings-of-the-institute-of-electrical-and-electronics-engineers-ieee
-  shared_claims: 1
-- node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
-  title: Project STARGATE
-  node_type: project
-  slug: project-stargate
-  shared_claims: 1
-- node_id: 32987cf1-88f7-4646-a856-740205441fda
-  title: Sperry Corporation
-  node_type: organisation
-  slug: sperry-corporation
-  shared_claims: 1
-- node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
-  title: Stanford University
-  node_type: organisation
-  slug: stanford-university
-  shared_claims: 1
-- node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
-  title: The Stargate Project
-  node_type: project
-  slug: the-stargate-project
-  shared_claims: 1
-- node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
-  title: USA, California, Menlo Park
-  node_type: place
-  slug: california-menlo-park-usa
-  shared_claims: 1
-- node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
-  title: United States Army
-  node_type: organisation
-  slug: united-states-army
-  shared_claims: 1
-claims:
-- claim_id: f84226f6-b364-44eb-a6b9-efff18d89434
-  claim_hash: bfe6326dad13b9c1065165d4b556b6d5950e7916d3d21ec80feb6f59072aa292
-  content: When organising Project STARGATE, the people involved first looked to SRI
-    International, where remote viewing had already been studied for nearly five years.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
-    title: Project STARGATE
-    slug: project-stargate
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:1216-1429
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: f657e856-f7de-4701-9de6-0e387d1399ec
-  claim_hash: d059e8bf20cbb90cf0188a3fa86e1b0faf571290d3946060b5b9bbd9d5c67368
-  content: The Institute of Electrical and Electronics Engineers (IEEE) report on
-    SRI International's remote viewing research stated that the drawings subjects
-    made were in general more accurate than their verbal descriptions.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
-      Historical Perspective and Recent Research'
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 183e6ba7-764f-4eaf-8c81-15715949dad8
-    title: Proceedings of the Institute of Electrical and Electronics Engineers (IEEE)
-    slug: proceedings-of-the-institute-of-electrical-and-electronics-engineers-ieee
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:18304-18502
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: fadb57c8-ea4e-41aa-ac48-caede7a11946
-  claim_hash: aaaeeed961456d112cc763aaf965c6a6971b465f643d53fd96ea815424750762
-  content: According to Hal Puthoff and Russell Targ's report on SRI International's
-    remote viewing research, persons with no previous exposure to remote viewing concepts,
-    such as visiting government scientists and contract monitors, learned to perform
-    well under the experimental procedure developed at SRI.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
-      Historical Perspective and Recent Research'
-    relay: []
-  attribution_mode: unknown
-  node_refs:
   - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
     title: Harold E. Puthoff
+    node_type: person
     slug: harold-e-puthoff
+    shared_claims: 16
   - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
     title: Russell Targ
+    node_type: person
     slug: russell-targ
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:2166-2423
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: b38c3f0f-e758-4bc5-bbca-248464eca087
-  claim_hash: 016f11024d6c82b90246436da64c62ae3a63b1c5892e8f9e61c8ab9b3e2c0e33
-  content: According to Hal Puthoff and Russell Targ's report, subjects who trained
-    over a one-year period performed excellently under a variety of experimental conditions
-    at SRI International.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
-      Historical Perspective and Recent Research'
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-    title: Russell Targ
-    slug: russell-targ
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:2433-2541
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 8bef8daf-91e6-4f65-bc05-f65963c367d4
-  claim_hash: 07730619a62930aab1cefa26c649fff628d78721ae4725437c75686fadd22a7d
-  content: Hal Puthoff and Russell Targ's accumulated SRI International data indicated
-    that both specially selected and unselected persons could be assisted in developing
-    remote perceptual abilities up to a level of useful information transfer.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
-      Historical Perspective and Recent Research'
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-    title: Russell Targ
-    slug: russell-targ
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:2553-2734
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 259bd5d6-c58f-4903-b4db-0b09726fcd4a
-  claim_hash: c2417c8a0454cbcfb78656730ddc610515cc7faa63c6e7a496121e10a79614a5
-  content: Joseph McMoneagle considers that "perform well" in Hal Puthoff and Russell
-    Targ's SRI International report did not imply world-class remote viewing, but
-    rather the ability to display psychic functioning under controlled conditions,
-    achieving a better-than-chance result.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
+    shared_claims: 15
   - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
     title: Joseph McMoneagle
+    node_type: person
     slug: joseph-mcmoneagle
-  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-    title: Russell Targ
-    slug: russell-targ
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:3129-3267
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: f0f06ca1-2502-415c-bab2-b490d93768f7
-  claim_hash: 6f6e84f08f479cae23f7a749b5411cec2661625ee35ec4f65d50c0a79ea6c7d2
-  content: Most of the subjects Hal Puthoff and Russell Targ worked with at SRI International
-    displayed some degree of remote viewing talent from the outset.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-    title: Russell Targ
-    slug: russell-targ
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:3847-3958
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 0a65b0eb-f7d0-467d-9cb8-a2daff7291b5
-  claim_hash: 2ea4d48eece78678892d52f730acde4421918697639b32edf59ca8663a2a3b39
-  content: Most of the subjects Hal Puthoff and Russell Targ worked with at SRI International
-    voluntarily chose to continue their involvement out of a strong personal interest
-    in remote viewing, a form of self-selection.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-    title: Russell Targ
-    slug: russell-targ
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:3967-4096
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: ff15e2e2-e2fe-4ebb-b5a6-f5ef8f86394f
-  claim_hash: cf195452ad85ca57e5d999b6160e198e57dbc7f107ed5a7c3a5b2d6ba494bcfd
-  content: According to Hal Puthoff and Russell Targ's SRI International observations,
-    remote viewing subjects should have the ability to process information within
-    a high-stimulation environment, such as a Ganzfeld setting.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
-      Historical Perspective and Recent Research'
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 101c26f5-00b3-4d25-9163-9b8140824acc
-    title: Ganzfeld procedure
-    slug: ganzfeld-procedure
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-    title: Russell Targ
-    slug: russell-targ
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:4766-4877
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: ccfd7176-87e6-4942-b781-5f369a96f05f
-  claim_hash: 8b9cac9ba5d691d022f37db69b7f3ffb9f175507e548f9eb79ce3a7d2b583d54
-  content: According to Hal Puthoff and Russell Targ's SRI International observations,
-    remote viewing subjects should be self-selected.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
-      Historical Perspective and Recent Research'
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-    title: Russell Targ
-    slug: russell-targ
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:5174-5201
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: eb3f2c64-9796-44d2-8cea-83d479dc0b0b
-  claim_hash: 65cbb1726c7d2261644a89c169dc2529b7f9b0c7c60e1c49795b48a5d731ccac
-  content: According to Hal Puthoff and Russell Targ's SRI International observations,
-    remote viewing subjects should be able to learn through example.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
-      Historical Perspective and Recent Research'
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-    title: Russell Targ
-    slug: russell-targ
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:5212-5256
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 3b0883c9-abdb-4316-b7ca-510052fa2eae
-  claim_hash: ff6f1eb44304d41b76101443a265adcf049eb7b5487198cef286d10b74d506b2
-  content: According to Hal Puthoff and Russell Targ's SRI International observations,
-    remote viewing subjects should be open to the probability of paranormal information
-    transfer.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
-      Historical Perspective and Recent Research'
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-    title: Russell Targ
-    slug: russell-targ
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:5266-5338
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: c69809bc-489e-40b4-8f46-7db1038163ab
-  claim_hash: b01fd17177ee8eade863ca60b6f2b20307b7b57a6e77be954d5f5476bb4f6791
-  content: According to Hal Puthoff and Russell Targ's SRI International observations,
-    remote viewing subjects should be able to deal with public scrutiny, negative
-    reactions of society, ridicule, and failure.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
-      Historical Perspective and Recent Research'
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-    title: Russell Targ
-    slug: russell-targ
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:5349-5465
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 76cc37d6-70fe-4dae-a94b-0143271fd681
-  claim_hash: 325fe3566744004ac2c06f78ed2d925910b0c6e4cdf3398ebe71187dbc370050
-  content: According to Hal Puthoff and Russell Targ's SRI International observations,
-    remote viewing subjects should have an artistic talent capable of expressing their
-    perceptions, such as drawing or sketching.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
-      Historical Perspective and Recent Research'
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-    title: Russell Targ
-    slug: russell-targ
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:5475-5585
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: af067927-62ee-4e17-9d7f-ddc4b37e5c6f
-  claim_hash: 39d40ed13b7995bc2b142194bf3fda14af715ab94c88bd37018b5e06bcbb87df
-  content: According to Hal Puthoff and Russell Targ's SRI International observations,
-    remote viewing subjects should be capable of providing imaginative, out-of-the-box
-    solutions to problems.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
-      Historical Perspective and Recent Research'
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-    title: Russell Targ
-    slug: russell-targ
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:5699-5784
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 67107fc6-5be5-4e79-8145-06b5323e11ef
-  claim_hash: fa5c62c9b976628c0db4747db3aa313cec81d859a4d56303d17a255d664babbe
-  content: According to Hal Puthoff and Russell Targ's SRI International observations,
-    remote viewing subjects should demonstrate right-brain specialisation characteristics,
-    such as a flair for musical rhythm and melody or a higher creative sense for shape,
-    form, and texture.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
-      Historical Perspective and Recent Research'
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-    title: Russell Targ
-    slug: russell-targ
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:5795-5965
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 7d5fb69a-fa50-4faa-a48e-47a26438ecba
-  claim_hash: 4689eedba9132828a5eb2c29e03a86e6deb84ec1c78db80e935478a431acc9bc
-  content: According to Hal Puthoff and Russell Targ's SRI International observations,
-    remote viewing subjects should have a preference for reporting non-analytic data
-    over a need to produce function or name the target.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
-      Historical Perspective and Recent Research'
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-    title: Russell Targ
-    slug: russell-targ
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch16:5975-6093
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 11171130-a8f8-4ecc-8e61-804212377dc9
-  claim_hash: 2f22761034422dbb99ca3c56fd26584dd3b0ebb4e51bb7f9554ac226e9d351ef
-  content: Ingo Swann, one of the psychics working at SRI International, suggested
-    using map coordinates to identify a specific location as a remote viewing target,
-    giving rise to the coordinate targeting system.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: named
-    origin: unnamed people involved, as related to Joseph McMoneagle
-    relay:
-    - people involved in the events
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 6
   - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
     title: Ingo Swann
+    node_type: person
     slug: ingo-swann
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch17:10096-10320
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 88019d1c-91ae-40c6-898c-cdeefcb18d7f
-  claim_hash: 10f6b0fd21cbcdf1cb60b72506774cd6e377bae481bf5fd00e98b35d1215971b
-  content: Joseph McMoneagle was later formally trained in dowsing at the Cognitive
-    Sciences Laboratory at SRI International by an internationally known dowser with
-    decades of experience.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 4
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    node_type: topic
+    slug: remote-viewing-rv
+    shared_claims: 3
   - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
     title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+    node_type: organisation
     slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-    slug: joseph-mcmoneagle
-  - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
-    title: Dowsing
-    slug: dowsing
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch17:36138-36278
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 8c0f915c-2a1a-4bf2-9f19-f3de36065f92
-  claim_hash: 8b46849aca013f0b9e2c367c8a20d2277c685caac8197d61b6492f43a222bfdb
-  content: Controlled Remote Viewing was originally developed by Ingo Swann while
-    working at SRI International.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
-    title: Ingo Swann
-    slug: ingo-swann
+    shared_claims: 3
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 2
+  - node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
+    title: Science Applications International Corporation (SAIC)
+    node_type: organisation
+    slug: science-applications-international-corporation-saic
+    shared_claims: 2
   - node_id: b83494b0-eac6-4b7c-8852-2c000d801d54
     title: Controlled Remote Viewing (CRV)
+    node_type: topic
     slug: controlled-remote-viewing-crv
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch17:50314-50466
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: bba6e5ab-c475-4bd8-8861-cf08770a55b7
-  claim_hash: 64a362227b95c9cea2548010c5618708851d8f9143f309a14350d2492083c1e0
-  content: The Outbounder Remote Viewing protocol was initially used exclusively by
-    scientists at SRI International.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5884a8ca-9d73-4fe8-a349-9f4a0158dc26
-    title: Outbounder Remote Viewing
-    slug: outbounder-remote-viewing
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch17:8858-8939
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 8964ec41-9270-4b8e-b2db-066f57ddcbdf
-  claim_hash: 6634a8d1aa5bbb0cb9797d40391d9a30627871cd4df2218eae1cd350f57e947b
-  content: Ingo Swann was a well-known psychic and remote viewer who worked with the
-    laboratory at SRI International.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
-    title: Ingo Swann
-    slug: ingo-swann
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch23:11646-11915
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 72898ce1-8342-4b80-9409-84bac99e3ccc
-  claim_hash: cfe297d5f6c785610cebf6141bef82a413733370a50e157415a91bdb198b7bf6
-  content: Ingo Swann showed no significant decline in accuracy for his outlying-planet
-    predictions compared with other targets he worked while at SRI International.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
-    title: Ingo Swann
-    slug: ingo-swann
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch23:12066-12179
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: b438f6e0-8cca-49d7-9c8c-1ec31c7ffd8f
-  claim_hash: 448f3181b82ac9e2e6c2a0bd9dbcf818c82c5203b37d4500b02d65e6ad9d85a8
-  content: Joseph McMoneagle once conducted a series of targets at SRI International
-    for which no specific time of interest was mentioned, and every one of those sessions
-    failed.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-    slug: joseph-mcmoneagle
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch23:4618-4747
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: e97dcff9-f247-4351-9d27-b5a11a1c6a59
-  claim_hash: 106bce6087ba1717d8b8d202d267a5cdceba8cc797b269daef87ebf10a0c1ba8
-  content: Joseph McMoneagle later found that buildings he had described in remote-viewing
-    sessions with no time of interest specified at SRI International were actually
-    built at those specific target sites years later.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-    slug: joseph-mcmoneagle
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch23:4755-4883
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: e88f1608-8dc9-40f7-94d8-b2d302a3059f
-  claim_hash: 4b8cca00a472fb855ed35625f687adc01fe84245e25053671bda26b757b7441f
-  content: Joseph McMoneagle observed that over the course of their careers, every
-    exceptional viewer studied at the SRI International Cognitive Sciences Laboratory
-    and Science Applications International Corporation, Inc. essentially produced
-    a near flat-line in ability, with the best remote viewers performing about as
-    well at the start of their careers as at the end.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-    slug: joseph-mcmoneagle
-  - node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
-    title: Science Applications International Corporation (SAIC)
-    slug: science-applications-international-corporation-saic
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch27:8265-8655
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 9b81cb0b-0cdd-4891-9a5e-eb08d6e8fea6
-  claim_hash: 6f600cab715b7afbdbd9890b229df25b413637dd3612f58f4ea3f393aa98be9d
-  content: The term "remote viewing" was originally coined by researchers at SRI International
-    in the early 1970s.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
-    slug: remote-viewing-rv
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch28:6838-6924
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: c192c295-77a8-4e36-bcec-4154556902f9
-  claim_hash: ebbaecc7cb38aa4951006421c14bc8159c8de58a549c4fbaf013df87e9345343
-  content: Joseph McMoneagle consulted for SRI International and Science Applications
-    International Corporation, Inc. from 1984 through 1995.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-    slug: joseph-mcmoneagle
-  - node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
-    title: Science Applications International Corporation (SAIC)
-    slug: science-applications-international-corporation-saic
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: '1984'
-  date_end: null
-  location_in_record: ch4:1171-1286
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: e01eb761-53da-4919-83e6-c6be5538af2b
-  claim_hash: 6dcaf5d1142477e7021d1a578b30c573d0003fa742d76be6b122866e49054920
-  content: The Cognitive Sciences Laboratory at SRI International received considerable
-    funding, carried out and supported extensive experimentation, and provided support
-    to intelligence operations from 1972 through 1995.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: '1972'
-  date_end: null
-  location_in_record: ch9:6863-7029
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 7392b45a-a0c1-43d2-ac31-7271b022a683
-  claim_hash: 150a8e0ceb8cbff1c1b9064cfb0feb007ae3b7f0a1490a86c0b53e5c84ed5cc0
-  content: D. W. Pasulka discovered that, like other brilliant scientists she had
-    interviewed, Edgar Mitchell had been involved with the Stanford Research Institute
-    (SRI).
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 59476464-a679-46ce-9247-b0adcb287762
-    title: Edgar Mitchell
-    slug: edgar-mitchell
+    shared_claims: 1
+  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+    title: Coordinate Remote Viewing
+    node_type: topic
+    slug: coordinate-remote-viewing
+    shared_claims: 1
   - node_id: f2daae19-9351-4a8e-b466-664f83887f61
     title: Diana Walsh Pasulka
+    node_type: person
     slug: diana-walsh-pasulka
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch6:31340-31544
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 95d91d99-f5fe-4aee-a964-9dbd0c397e10
-  claim_hash: 29935505fae8b4eb660b46c110e487d49289bc4d368ffa204c4945d952a1a76f
-  content: Jacques Vallee worked with scientists affiliated with the Stanford Research
-    Institute, now SRI International, an independent nonprofit research institute
-    in Menlo Park.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
-    title: USA, California, Menlo Park
-    slug: california-menlo-park-usa
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: char:2017-2169
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 0389e7d8-913f-412d-a210-62872a936b60
-  claim_hash: ec72b90a1d92d9868c2257c84a99412a2dd35f901f449d22160669643e755e7f
-  content: Declassified documents from the 1970s and 1980s indicate SRI International
-    was a research site for extraordinary research.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: declassified documents from the 1970s and 1980s
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: char:2237-2330
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 7a29b5c8-c041-4633-a19b-0736e0292d5f
-  claim_hash: 7856212bc207a3dd4fac293493e100f6665ec754160ad4e928fd479342b59e0b
-  content: Remote viewing, precognition, and extrasensory perception were studied
-    at Stanford Research Institute at the same time and place as Jacques Vallee's
-    early internet research.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
-    slug: remote-viewing-rv
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: char:2496-2624
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 76440ccc-aa0f-422f-9243-b14dc0e0a200
-  claim_hash: 46545a46a0e3a88f47376efd0be47780219774264ab7485473b1e8e15a1421ee
-  content: Remote viewing and related esoteric skills were studied under a classified
-    program called The Stargate Project, funded by the US military in partnership
-    with SRI International.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
-    slug: remote-viewing-rv
-  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
-    title: United States Army
-    slug: united-states-army
-  - node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
-    title: The Stargate Project
-    slug: the-stargate-project
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: char:2636-2777
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 29055d3f-19b0-4a6e-9149-aa17ec070132
-  claim_hash: 6876d9453e2d0f4b2dff2368ae34f6438fa29ac4e6ede77e69c35bfc170c7379
-  content: Harold Puthoff's professional background spans decades of research at General
-    Electric, Sperry Corporation, the National Security Agency (NSA), Stanford University,
-    and SRI International.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
+  - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+    title: Dowsing
+    node_type: topic
+    slug: dowsing
+    shared_claims: 1
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    node_type: person
+    slug: edgar-mitchell
+    shared_claims: 1
+  - node_id: 101c26f5-00b3-4d25-9163-9b8140824acc
+    title: Ganzfeld procedure
+    node_type: topic
+    slug: ganzfeld-procedure
+    shared_claims: 1
   - node_id: 0527eb19-269f-4461-ab4c-54b4efb2fc90
     title: General Electric
+    node_type: organisation
     slug: general-electric
-  - node_id: 32987cf1-88f7-4646-a856-740205441fda
-    title: Sperry Corporation
-    slug: sperry-corporation
+    shared_claims: 1
   - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
     title: National Security Agency (NSA)
+    node_type: organisation
     slug: national-security-agency-nsa
+    shared_claims: 1
+  - node_id: 5884a8ca-9d73-4fe8-a349-9f4a0158dc26
+    title: Outbounder Remote Viewing
+    node_type: topic
+    slug: outbounder-remote-viewing
+    shared_claims: 1
+  - node_id: 183e6ba7-764f-4eaf-8c81-15715949dad8
+    title: Proceedings of the Institute of Electrical and Electronics Engineers (IEEE)
+    node_type: organisation
+    slug: proceedings-of-the-institute-of-electrical-and-electronics-engineers-ieee
+    shared_claims: 1
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    node_type: project
+    slug: project-stargate
+    shared_claims: 1
+  - node_id: 32987cf1-88f7-4646-a856-740205441fda
+    title: Sperry Corporation
+    node_type: organisation
+    slug: sperry-corporation
+    shared_claims: 1
   - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
     title: Stanford University
+    node_type: organisation
     slug: stanford-university
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch10:2421-2542
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
+    title: The Stargate Project
+    node_type: project
+    slug: the-stargate-project
+    shared_claims: 1
+  - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
+    title: USA, California, Menlo Park
+    node_type: place
+    slug: california-menlo-park-usa
+    shared_claims: 1
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    node_type: organisation
+    slug: united-states-army
+    shared_claims: 1
+claims:
+  - claim_id: f84226f6-b364-44eb-a6b9-efff18d89434
+    claim_hash: bfe6326dad13b9c1065165d4b556b6d5950e7916d3d21ec80feb6f59072aa292
+    content: When organising Project STARGATE, the people involved first looked to SRI International, where remote viewing
+      had already been studied for nearly five years.
+    original_excerpt: The first place they looked, of course, was SRI-International, where remote viewing had already been
+      studied for nearly five years, and comments relative to training and gifted versus non-gifted subjects could be found.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+        title: Project STARGATE
+        slug: project-stargate
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:1216-1429
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: f657e856-f7de-4701-9de6-0e387d1399ec
+    claim_hash: d059e8bf20cbb90cf0188a3fa86e1b0faf571290d3946060b5b9bbd9d5c67368
+    content: The Institute of Electrical and Electronics Engineers (IEEE) report on SRI International's remote viewing research
+      stated that the drawings subjects made were in general more accurate than their verbal descriptions.
+    original_excerpt: There was comment in the IEEE report that suggested that people who could draw were better remote viewers
+      (". . . .drawings they make are in general more accurate than their verbal description." p. 337).
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 183e6ba7-764f-4eaf-8c81-15715949dad8
+        title: Proceedings of the Institute of Electrical and Electronics Engineers (IEEE)
+        slug: proceedings-of-the-institute-of-electrical-and-electronics-engineers-ieee
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:18304-18502
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: fadb57c8-ea4e-41aa-ac48-caede7a11946
+    claim_hash: aaaeeed961456d112cc763aaf965c6a6971b465f643d53fd96ea815424750762
+    content: According to Hal Puthoff and Russell Targ's report on SRI International's remote viewing research, persons with
+      no previous exposure to remote viewing concepts, such as visiting government scientists and contract monitors, learned
+      to perform well under the experimental procedure developed at SRI.
+    original_excerpt: The development at SRI of a successful experimental procedure to elicit this capability has evolved
+      to the point where persons such as visiting government scientists and contract monitors, with no previous exposure to
+      such concepts, have learned to perform well
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:2166-2423
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: b38c3f0f-e758-4bc5-bbca-248464eca087
+    claim_hash: 016f11024d6c82b90246436da64c62ae3a63b1c5892e8f9e61c8ab9b3e2c0e33
+    content: According to Hal Puthoff and Russell Targ's report, subjects who trained over a one-year period performed excellently
+      under a variety of experimental conditions at SRI International.
+    original_excerpt: subjects who have trained over a one-year period have performed excellently under a variety of experimental
+      conditions.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:2433-2541
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 8bef8daf-91e6-4f65-bc05-f65963c367d4
+    claim_hash: 07730619a62930aab1cefa26c649fff628d78721ae4725437c75686fadd22a7d
+    content: Hal Puthoff and Russell Targ's accumulated SRI International data indicated that both specially selected and
+      unselected persons could be assisted in developing remote perceptual abilities up to a level of useful information transfer.
+    original_excerpt: Our accumulated data thus indicate that both specially selected and unselected persons can be assisted
+      in developing remote perceptual abilities up to a level of useful information transfer.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:2553-2734
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 259bd5d6-c58f-4903-b4db-0b09726fcd4a
+    claim_hash: c2417c8a0454cbcfb78656730ddc610515cc7faa63c6e7a496121e10a79614a5
+    content: Joseph McMoneagle considers that "perform well" in Hal Puthoff and Russell Targ's SRI International report did
+      not imply world-class remote viewing, but rather the ability to display psychic functioning under controlled conditions,
+      achieving a better-than-chance result.
+    original_excerpt: What they actually mean here is the ability to display psychic functioning under controlled conditions
+      (or achieving a better than chance result).
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:3129-3267
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: f0f06ca1-2502-415c-bab2-b490d93768f7
+    claim_hash: 6f6e84f08f479cae23f7a749b5411cec2661625ee35ec4f65d50c0a79ea6c7d2
+    content: Most of the subjects Hal Puthoff and Russell Targ worked with at SRI International displayed some degree of remote
+      viewing talent from the outset.
+    original_excerpt: 'most of the people Hal and Russell worked with were the ones who: A: Displayed some degree of talent
+      from the outset.'
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:3847-3958
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 0a65b0eb-f7d0-467d-9cb8-a2daff7291b5
+    claim_hash: 2ea4d48eece78678892d52f730acde4421918697639b32edf59ca8663a2a3b39
+    content: Most of the subjects Hal Puthoff and Russell Targ worked with at SRI International voluntarily chose to continue
+      their involvement out of a strong personal interest in remote viewing, a form of self-selection.
+    original_excerpt: 'B: Voluntarily chose to continue involvement out of a strong personal interest in the subject (which
+      is obviously a form of self-selection).'
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:3967-4096
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: ff15e2e2-e2fe-4ebb-b5a6-f5ef8f86394f
+    claim_hash: cf195452ad85ca57e5d999b6160e198e57dbc7f107ed5a7c3a5b2d6ba494bcfd
+    content: According to Hal Puthoff and Russell Targ's SRI International observations, remote viewing subjects should have
+      the ability to process information within a high-stimulation environment, such as a Ganzfeld setting.
+    original_excerpt: '1: Subjects should have ability to process information within a high stimulation environment (e.g.,
+      a gansfeld setting).'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 101c26f5-00b3-4d25-9163-9b8140824acc
+        title: Ganzfeld procedure
+        slug: ganzfeld-procedure
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:4766-4877
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: ccfd7176-87e6-4942-b781-5f369a96f05f
+    claim_hash: 8b9cac9ba5d691d022f37db69b7f3ffb9f175507e548f9eb79ce3a7d2b583d54
+    content: According to Hal Puthoff and Russell Targ's SRI International observations, remote viewing subjects should be
+      self-selected.
+    original_excerpt: '2: Subjects should be self-selected.'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:5174-5201
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: eb3f2c64-9796-44d2-8cea-83d479dc0b0b
+    claim_hash: 65cbb1726c7d2261644a89c169dc2529b7f9b0c7c60e1c49795b48a5d731ccac
+    content: According to Hal Puthoff and Russell Targ's SRI International observations, remote viewing subjects should be
+      able to learn through example.
+    original_excerpt: '3: Subjects should be able to learn through example.'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:5212-5256
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 3b0883c9-abdb-4316-b7ca-510052fa2eae
+    claim_hash: ff6f1eb44304d41b76101443a265adcf049eb7b5487198cef286d10b74d506b2
+    content: According to Hal Puthoff and Russell Targ's SRI International observations, remote viewing subjects should be
+      open to the probability of paranormal information transfer.
+    original_excerpt: '4: Subjects should be open to the probability of paranormal information transfer.'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:5266-5338
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: c69809bc-489e-40b4-8f46-7db1038163ab
+    claim_hash: b01fd17177ee8eade863ca60b6f2b20307b7b57a6e77be954d5f5476bb4f6791
+    content: According to Hal Puthoff and Russell Targ's SRI International observations, remote viewing subjects should be
+      able to deal with public scrutiny, negative reactions of society, ridicule, and failure.
+    original_excerpt: '5: Subjects should be able to deal with public scrutiny, the negative reactions of society, and ridicule
+      as well as failure.'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:5349-5465
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 76cc37d6-70fe-4dae-a94b-0143271fd681
+    claim_hash: 325fe3566744004ac2c06f78ed2d925910b0c6e4cdf3398ebe71187dbc370050
+    content: According to Hal Puthoff and Russell Targ's SRI International observations, remote viewing subjects should have
+      an artistic talent capable of expressing their perceptions, such as drawing or sketching.
+    original_excerpt: '6: Subjects should have an artistic talent capable of expressing their perceptions, e.g., drawing,
+      sketching, etc.'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:5475-5585
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: af067927-62ee-4e17-9d7f-ddc4b37e5c6f
+    claim_hash: 39d40ed13b7995bc2b142194bf3fda14af715ab94c88bd37018b5e06bcbb87df
+    content: According to Hal Puthoff and Russell Targ's SRI International observations, remote viewing subjects should be
+      capable of providing imaginative, out-of-the-box solutions to problems.
+    original_excerpt: '7: Subjects should be capable of providing imaginative (out of the box) solutions to problems.'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:5699-5784
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 67107fc6-5be5-4e79-8145-06b5323e11ef
+    claim_hash: fa5c62c9b976628c0db4747db3aa313cec81d859a4d56303d17a255d664babbe
+    content: According to Hal Puthoff and Russell Targ's SRI International observations, remote viewing subjects should demonstrate
+      right-brain specialisation characteristics, such as a flair for musical rhythm and melody or a higher creative sense
+      for shape, form, and texture.
+    original_excerpt: '8: Subjects should demonstrate right brain specialization characteristics, such as a flair for musical
+      rhythm and melody, or a higher creative sense for shape, form, and texture.'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:5795-5965
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 7d5fb69a-fa50-4faa-a48e-47a26438ecba
+    claim_hash: 4689eedba9132828a5eb2c29e03a86e6deb84ec1c78db80e935478a431acc9bc
+    content: According to Hal Puthoff and Russell Targ's SRI International observations, remote viewing subjects should have
+      a preference for reporting non-analytic data over a need to produce function or name the target.
+    original_excerpt: '9: Subjects should have a preference for reporting non-analytic data over a need for producing function
+      or naming the target.'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch16:5975-6093
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 11171130-a8f8-4ecc-8e61-804212377dc9
+    claim_hash: 2f22761034422dbb99ca3c56fd26584dd3b0ebb4e51bb7f9554ac226e9d351ef
+    content: Ingo Swann, one of the psychics working at SRI International, suggested using map coordinates to identify a specific
+      location as a remote viewing target, giving rise to the coordinate targeting system.
+    original_excerpt: As I understand it, one of the psychics working at the lab, Ingo Swann, suggested the answer. They could
+      use map coordinates to identify a specific location on the ground. Hence was born what is now known as the "coordinate
+      system."
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: named
+      origin: unnamed people involved, as related to Joseph McMoneagle
+      relay:
+        - people involved in the events
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch17:10096-10320
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 88019d1c-91ae-40c6-898c-cdeefcb18d7f
+    claim_hash: 10f6b0fd21cbcdf1cb60b72506774cd6e377bae481bf5fd00e98b35d1215971b
+    content: Joseph McMoneagle was later formally trained in dowsing at the Cognitive Sciences Laboratory at SRI International
+      by an internationally known dowser with decades of experience.
+    original_excerpt: I was later trained formally, at the Cognitive Sciences Laboratory at SRI-International, by an internationally-known
+      dowser with decades of experience.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch17:36138-36278
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 8c0f915c-2a1a-4bf2-9f19-f3de36065f92
+    claim_hash: 8b46849aca013f0b9e2c367c8a20d2277c685caac8197d61b6492f43a222bfdb
+    content: Controlled Remote Viewing was originally developed by Ingo Swann while working at SRI International.
+    original_excerpt: Originally developed by Ingo Swann while working at SRI-International, this is now the most commonly
+      referred to or generally accepted method of remote viewing
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: b83494b0-eac6-4b7c-8852-2c000d801d54
+        title: Controlled Remote Viewing (CRV)
+        slug: controlled-remote-viewing-crv
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch17:50314-50466
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: bba6e5ab-c475-4bd8-8861-cf08770a55b7
+    claim_hash: 64a362227b95c9cea2548010c5618708851d8f9143f309a14350d2492083c1e0
+    content: The Outbounder Remote Viewing protocol was initially used exclusively by scientists at SRI International.
+    original_excerpt: Initially, the Outbounder protocol was used exclusively by the SRI-International scientists.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5884a8ca-9d73-4fe8-a349-9f4a0158dc26
+        title: Outbounder Remote Viewing
+        slug: outbounder-remote-viewing
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch17:8858-8939
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 8964ec41-9270-4b8e-b2db-066f57ddcbdf
+    claim_hash: 6634a8d1aa5bbb0cb9797d40391d9a30627871cd4df2218eae1cd350f57e947b
+    content: Ingo Swann was a well-known psychic and remote viewer who worked with the laboratory at SRI International.
+    original_excerpt: Ingo Swann, a well-known psychic and remote viewer with the laboratory at SRI-International, and one
+      of the original participants in the CIA evaluations of remote viewing back in the early 1970s, made astounding predictions
+      concerning the outlying planets in our solar system.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch23:11646-11915
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 72898ce1-8342-4b80-9409-84bac99e3ccc
+    claim_hash: cfe297d5f6c785610cebf6141bef82a413733370a50e157415a91bdb198b7bf6
+    content: Ingo Swann showed no significant decline in accuracy for his outlying-planet predictions compared with other
+      targets he worked while at SRI International.
+    original_excerpt: There was no significant decline in his accuracy for these targets over any other targets he worked
+      while at SRI-International.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch23:12066-12179
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: b438f6e0-8cca-49d7-9c8c-1ec31c7ffd8f
+    claim_hash: 448f3181b82ac9e2e6c2a0bd9dbcf818c82c5203b37d4500b02d65e6ad9d85a8
+    content: Joseph McMoneagle once conducted a series of targets at SRI International for which no specific time of interest
+      was mentioned, and every one of those sessions failed.
+    original_excerpt: I once did a whole series of targets at SRI-International for which no specific time of interest was
+      mentioned. Every single one failed.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch23:4618-4747
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: e97dcff9-f247-4351-9d27-b5a11a1c6a59
+    claim_hash: 106bce6087ba1717d8b8d202d267a5cdceba8cc797b269daef87ebf10a0c1ba8
+    content: Joseph McMoneagle later found that buildings he had described in remote-viewing sessions with no time of interest
+      specified at SRI International were actually built at those specific target sites years later.
+    original_excerpt: It was years later that buildings I had described in those remote-viewing sessions were actually built
+      at those specific target sites.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch23:4755-4883
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: e88f1608-8dc9-40f7-94d8-b2d302a3059f
+    claim_hash: 4b8cca00a472fb855ed35625f687adc01fe84245e25053671bda26b757b7441f
+    content: Joseph McMoneagle observed that over the course of their careers, every exceptional viewer studied at the SRI
+      International Cognitive Sciences Laboratory and Science Applications International Corporation, Inc. essentially produced
+      a near flat-line in ability, with the best remote viewers performing about as well at the start of their careers as
+      at the end.
+    original_excerpt: Over the course of their careers, every exceptional viewer studied in the cognitive sciences labs at
+      SRI-International (SRI-I) and Science Applications International Corporation (SAIC) have essentially produced a near
+      flat-line in terms of ability... They are as good walking in the door as they are when they exit.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
+        title: Science Applications International Corporation (SAIC)
+        slug: science-applications-international-corporation-saic
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch27:8265-8655
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 9b81cb0b-0cdd-4891-9a5e-eb08d6e8fea6
+    claim_hash: 6f600cab715b7afbdbd9890b229df25b413637dd3612f58f4ea3f393aa98be9d
+    content: The term "remote viewing" was originally coined by researchers at SRI International in the early 1970s.
+    original_excerpt: '(Note: The term was originally coined by researchers at SRI-International in the early 1970s.)'
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch28:6838-6924
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: c192c295-77a8-4e36-bcec-4154556902f9
+    claim_hash: ebbaecc7cb38aa4951006421c14bc8159c8de58a549c4fbaf013df87e9345343
+    content: Joseph McMoneagle consulted for SRI International and Science Applications International Corporation, Inc. from
+      1984 through 1995.
+    original_excerpt: He also consulted for SRI-International and Science Applications International Corporation, Inc. from
+      1984 through 1995
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
+        title: Science Applications International Corporation (SAIC)
+        slug: science-applications-international-corporation-saic
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: '1984'
+    date_end: null
+    location_in_record: ch4:1171-1286
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: e01eb761-53da-4919-83e6-c6be5538af2b
+    claim_hash: 6dcaf5d1142477e7021d1a578b30c573d0003fa742d76be6b122866e49054920
+    content: The Cognitive Sciences Laboratory at SRI International received considerable funding, carried out and supported
+      extensive experimentation, and provided support to intelligence operations from 1972 through 1995.
+    original_excerpt: CSL received a considerable amount of funding, carried out and supported extensive experimentation,
+      and provided support to intelligence operations from 1972 through 1995.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: '1972'
+    date_end: null
+    location_in_record: ch9:6863-7029
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 7392b45a-a0c1-43d2-ac31-7271b022a683
+    claim_hash: 150a8e0ceb8cbff1c1b9064cfb0feb007ae3b7f0a1490a86c0b53e5c84ed5cc0
+    content: D. W. Pasulka discovered that, like other brilliant scientists she had interviewed, Edgar Mitchell had been involved
+      with the Stanford Research Institute (SRI).
+    original_excerpt: Beforehand I found out everything I could about him and was surprised to learn that, just like the other
+      brilliant scientists I had interviewed, he had been involved with the Stanford Research Institute (SRI).
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch6:31340-31544
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 95d91d99-f5fe-4aee-a964-9dbd0c397e10
+    claim_hash: 29935505fae8b4eb660b46c110e487d49289bc4d368ffa204c4945d952a1a76f
+    content: Jacques Vallee worked with scientists affiliated with the Stanford Research Institute, now SRI International,
+      an independent nonprofit research institute in Menlo Park.
+    original_excerpt: He worked with scientists affiliated with the Stanford Research Institute, now SRI International, an
+      independent, nonprofit research institute in Menlo Park.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
+        title: USA, California, Menlo Park
+        slug: california-menlo-park-usa
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: char:2017-2169
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 0389e7d8-913f-412d-a210-62872a936b60
+    claim_hash: ec72b90a1d92d9868c2257c84a99412a2dd35f901f449d22160669643e755e7f
+    content: Declassified documents from the 1970s and 1980s indicate SRI International was a research site for extraordinary
+      research.
+    original_excerpt: declassified documents from the 1970s and 1980s indicate that it was a research site for the extraordinary
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: declassified documents from the 1970s and 1980s
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: char:2237-2330
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 7a29b5c8-c041-4633-a19b-0736e0292d5f
+    claim_hash: 7856212bc207a3dd4fac293493e100f6665ec754160ad4e928fd479342b59e0b
+    content: Remote viewing, precognition, and extrasensory perception were studied at Stanford Research Institute at the
+      same time and place as Jacques Vallee's early internet research.
+    original_excerpt: This research was happening at the same time and in the same place as studies of remote viewing, precognition,
+      and extrasensory perception.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: char:2496-2624
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 76440ccc-aa0f-422f-9243-b14dc0e0a200
+    claim_hash: 46545a46a0e3a88f47376efd0be47780219774264ab7485473b1e8e15a1421ee
+    content: Remote viewing and related esoteric skills were studied under a classified program called The Stargate Project,
+      funded by the US military in partnership with SRI International.
+    original_excerpt: These esoteric skills were studied under a classified program called The Stargate Project, funded by
+      the US military in partnership with the SRI.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+      - node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
+        title: The Stargate Project
+        slug: the-stargate-project
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: char:2636-2777
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 29055d3f-19b0-4a6e-9149-aa17ec070132
+    claim_hash: 6876d9453e2d0f4b2dff2368ae34f6438fa29ac4e6ede77e69c35bfc170c7379
+    content: Harold Puthoff's professional background spans decades of research at General Electric, Sperry Corporation, the
+      National Security Agency (NSA), Stanford University, and SRI International.
+    original_excerpt: His professional background spans decades of research at General Electric, Sperry, the NSA, Stanford
+      University, and SRI International
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0527eb19-269f-4461-ab4c-54b4efb2fc90
+        title: General Electric
+        slug: general-electric
+      - node_id: 32987cf1-88f7-4646-a856-740205441fda
+        title: Sperry Corporation
+        slug: sperry-corporation
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch10:2421-2542
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

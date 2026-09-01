@@ -9,1261 +9,1271 @@ page:
   claim_count: 27
   claim_count_total: 27
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 27
+  tokens_estimated: 8405
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 27
 related_nodes:
-- node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
-  title: Paul Hudson
-  node_type: person
-  slug: paul-hudson
-  shared_claims: 6
-- node_id: c09e3558-1732-4676-a218-d67d285d98ef
-  title: David Fravor
-  node_type: person
-  slug: david-fravor
-  shared_claims: 4
-- node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
-  title: George Herbert Walker Bush
-  node_type: person
-  slug: george-herbert-walker-bush
-  shared_claims: 4
-- node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-  title: F/A-18F Super Hornet
-  node_type: object
-  slug: fa-18f-super-hornet
-  shared_claims: 3
-- node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
-  title: Mike Bara
-  node_type: person
-  slug: mike-bara
-  shared_claims: 3
-- node_id: c08687d3-db82-43e7-86aa-dd3516a74265
-  title: Northrop Grumman
-  node_type: organisation
-  slug: northrop-grumman
-  shared_claims: 3
-- node_id: e3f2ec33-f1bb-49ec-bb41-80e0a406e50b
-  title: 1989 White House Mars Exploration Program poster (Boeing)
-  node_type: document
-  slug: 1989-white-house-mars-exploration-program-poster-boeing
-  shared_claims: 2
-- node_id: dd9890a7-b835-4013-b3ff-49fe72d9a784
-  title: Boeing Phantom Works
-  node_type: organisation
-  slug: boeing-phantom-works
-  shared_claims: 2
-- node_id: 6814b080-a222-4c03-9e18-877cf868e816
-  title: Lockheed
-  node_type: organisation
-  slug: lockheed
-  shared_claims: 2
-- node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
-  title: Lockheed Martin
-  node_type: organisation
-  slug: lockheed-martin
-  shared_claims: 2
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 2
-- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-  title: National Aeronautics and Space Administration (NASA)
-  node_type: organisation
-  slug: national-aeronautics-and-space-administration-nasa
-  shared_claims: 2
-- node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
-  title: Raytheon
-  node_type: organisation
-  slug: raytheon
-  shared_claims: 2
-- node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-  title: Ryan Graves
-  node_type: person
-  slug: ryan-graves
-  shared_claims: 2
-- node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
-  title: TRW Inc.
-  node_type: organisation
-  slug: trw-inc
-  shared_claims: 2
-- node_id: 785548fb-ff5e-444f-8db9-5de154ea4cf1
-  title: 2003 Vandenberg Air Force Base Unidentified Aerial Phenomena / Unidentified
-    Anomalous Phenomena (UAP) incident
-  node_type: event
-  slug: 2003-vandenberg-air-force-base-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-incident
-  shared_claims: 1
-- node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
-  title: Aerospace Corporation
-  node_type: organisation
-  slug: aerospace-corporation
-  shared_claims: 1
-- node_id: 0017e9ea-ba2f-4c15-9767-6f5a0f4035a0
-  title: BAE Systems
-  node_type: organisation
-  slug: bae-systems
-  shared_claims: 1
-- node_id: d4849f89-98f8-4e76-9c42-0c3fdad61a0d
-  title: Blair Cuspids
-  node_type: place
-  slug: blair-cuspids
-  shared_claims: 1
-- node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
-  title: Crew Exploration Vehicle (CEV)
-  node_type: object
-  slug: crew-exploration-vehicle-cev
-  shared_claims: 1
-- node_id: 6ed8cca1-7933-45ad-94ca-0718946c8cb2
-  title: Dark Star
-  node_type: object
-  slug: dark-star
-  shared_claims: 1
-- node_id: 4f980f8f-1048-4232-9e77-8faeaaf6a63f
-  title: Dave Bara
-  node_type: person
-  slug: dave-bara
-  shared_claims: 1
-- node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
-  title: Defense Advanced Research Projects Agency (DARPA)
-  node_type: organisation
-  slug: defense-advanced-research-projects-agency-darpa
-  shared_claims: 1
-- node_id: c8e068c2-9087-4ccf-a9ad-55978d1d02b0
-  title: Elon Musk
-  node_type: person
-  slug: elon-musk
-  shared_claims: 1
-- node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
-  title: Ken Johnston
-  node_type: person
-  slug: ken-johnston
-  shared_claims: 1
-- node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
-  title: Legacy Program
-  node_type: project
-  slug: legacy-program
-  shared_claims: 1
-- node_id: d3f1910c-f3bf-4eff-b952-3d38b54e9876
-  title: McDonnell Douglas
-  node_type: organisation
-  slug: mcdonnell-douglas
-  shared_claims: 1
-- node_id: ccfa75c2-84fd-4ac9-8caf-79c371b1be4b
-  title: Planetary Society
-  node_type: organisation
-  slug: planetary-society
-  shared_claims: 1
-- node_id: 69da6665-d8ec-490c-b589-47e35e6598f2
-  title: SpaceX
-  node_type: organisation
-  slug: spacex
-  shared_claims: 1
-- node_id: cebb3847-2c0f-4a3d-9d58-b58c41653a6c
-  title: The Cliff (Cydonia)
-  node_type: place
-  slug: the-cliff-cydonia
-  shared_claims: 1
-claims:
-- claim_id: 908abf28-41ba-4aaf-8a4d-9d61ba48b085
-  claim_hash: 4672902b3d93c4543bae8614b8f193d3eb4128f75cffdc39e55ac7a04808e13c
-  content: Ken Johnston was a Boeing engineer and a licensed pilot at the time he
-    met Richard C. Hoagland.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
-    title: Ken Johnston
-    slug: ken-johnston
-  date: null
-  date_end: null
-  location_in_record: ch11:75549-75615
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 2909aefe-359c-4b38-b2c0-4882c3ccfab6
-  claim_hash: a9b20c52237429269055f676e254c53adb332bcbeefed1c64db3dfbb4f8230e1
-  content: In 1997, Dave Bara, the brother of one of the authors of Dark Mission,
-    was walking through a vacated office area of the Boeing Company in Renton, Washington,
-    and spotted a poster from the 1989 White House Mars Exploration Program.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Dave Bara
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34f6fb01-4897-42df-9ce9-b7a964e7275f
-    title: USA, Washington, Renton, Boeing Company office
-    slug: washington-renton-boeing-company-office-usa
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: 4f980f8f-1048-4232-9e77-8faeaaf6a63f
-    title: Dave Bara
-    slug: dave-bara
+  - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+    title: Paul Hudson
+    node_type: person
+    slug: paul-hudson
+    shared_claims: 6
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    node_type: person
+    slug: david-fravor
+    shared_claims: 4
   - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
     title: George Herbert Walker Bush
+    node_type: person
     slug: george-herbert-walker-bush
-  - node_id: e3f2ec33-f1bb-49ec-bb41-80e0a406e50b
-    title: 1989 White House Mars Exploration Program poster (Boeing)
-    slug: 1989-white-house-mars-exploration-program-poster-boeing
-  date: '1997'
-  date_end: null
-  location_in_record: ch19:13738-14121
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 2f41a971-ff9c-4802-a6fb-2f38247c896a
-  claim_hash: a2f6ef8df3ffdb94cf3a7a88f19bf62aed39d24eded1b58a67542a1e092c667e
-  content: The 1989 White House Mars Exploration Program poster was commissioned by
-    the Boeing Company and depicted National Aeronautics and Space Administration
-    (NASA) astronauts ascending a cliff and encountering artificial ruins.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: cebb3847-2c0f-4a3d-9d58-b58c41653a6c
-    title: The Cliff (Cydonia)
-    slug: the-cliff-cydonia
-  - node_id: e3f2ec33-f1bb-49ec-bb41-80e0a406e50b
-    title: 1989 White House Mars Exploration Program poster (Boeing)
-    slug: 1989-white-house-mars-exploration-program-poster-boeing
-  date: '1989'
-  date_end: null
-  location_in_record: ch19:14127-14565
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: f7b82c88-30ae-4318-a71c-8dfbff6c4a7b
-  claim_hash: 0c53844aab45052b3135ab96c9c7e23fa00308f2ff232cc1df0bf300f7515771
-  content: By spring 2006 all signs pointed to Northrop Grumman and Boeing winning
-    the initial Crew Exploration Vehicle (CEV) contract.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
-    title: Crew Exploration Vehicle (CEV)
-    slug: crew-exploration-vehicle-cev
+    shared_claims: 4
+  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+    title: F/A-18F Super Hornet
+    node_type: object
+    slug: fa-18f-super-hornet
+    shared_claims: 3
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    node_type: person
+    slug: mike-bara
+    shared_claims: 3
   - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
     title: Northrop Grumman
+    node_type: organisation
     slug: northrop-grumman
-  date: 2006-03
-  date_end: null
-  location_in_record: ch19:80349-80445
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: bf513a25-ad19-4c4d-8486-97c0302d82ed
-  claim_hash: 6bf67e4c9c29274afabd823e06cbe0277bbea67e4d18b87046f4d76ccdd97eb0
-  content: Mike Bara wrote to Professor Paul Hudson asking about the Boeing Mars poster,
-    noting that a version of the poster used by the Planetary Society had the artifacts
-    removed because they felt it was not appropriate.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
-    title: Mike Bara
-  provenance_chain:
-    origin_kind: speaker
-    origin: Mike Bara
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
-    title: Mike Bara
-    slug: mike-bara
-  - node_id: ccfa75c2-84fd-4ac9-8caf-79c371b1be4b
-    title: Planetary Society
-    slug: planetary-society
-  date: null
-  date_end: null
-  location_in_record: ch5:24539-24670
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: aecd8401-7413-4d30-8623-6318d3cc8d1c
-  claim_hash: 7eca3d91d388c6967140cf6505bb1ec71d395757036aa0d96bdc60f9b52665c2
-  content: The commission for the Boeing Mars poster painting came through President
-    George Herbert Walker Bush's office via Boeing Aerospace, around 1985, while Paul
-    Hudson was working for Boeing.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
-    title: Paul Hudson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Paul Hudson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
-    title: George Herbert Walker Bush
-    slug: george-herbert-walker-bush
-  - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
-    title: Paul Hudson
-    slug: paul-hudson
-  date: '1985'
-  date_end: null
-  location_in_record: ch5:25600-25768
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 43b9de95-64ce-49ab-9291-876a214ce3a1
-  claim_hash: 2e3a006e949508b7d80da919b11b55c967f8b00efb5f2a01e80179125e827d05
-  content: Paul Hudson submitted rough concept drawings for the Boeing Mars poster
-    through Boeing, was accepted, and completed the painting.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
-    title: Paul Hudson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Paul Hudson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
-    title: Paul Hudson
-    slug: paul-hudson
-  date: null
-  date_end: null
-  location_in_record: ch5:26170-26297
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 4feed9f6-b645-479a-9c15-9e401e26d76d
-  claim_hash: 7d8b35e0434740ca33d39fb5f860a2669f4408cdbb9fe1b6cc3474fb641ee765
-  content: Boeing was told not to give out the Boeing Mars posters at any of the trade
-    shows, and no one knew what became of the original painting or the posters.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
-    title: Paul Hudson
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to know the disposition of the Boeing Mars poster distribution
-    relay:
-    - Paul Hudson
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  date: null
-  date_end: null
-  location_in_record: ch5:27205-27410
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: a0cb7975-108d-4fd3-a886-8356d22b57ff
-  claim_hash: 8a6ed8af3f7f1becee6dbea9c3c50914abded958fa812c98b3df4123e53cb52e
-  content: Paul Hudson noted that the Boeing Mars poster image has been used to bolster
-    claims of George Herbert Walker Bush's Nazi heritage and Masonic membership, alleging
-    he wanted to send men to Mars to return the Brotherhood to the old stomping grounds
-    of the Aryan race.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
-    title: Paul Hudson
-  provenance_chain:
-    origin_kind: anonymous
-    origin: unnamed theorists who claim the Boeing Mars poster evidences George Herbert
-      Walker Bush's Nazi heritage and Masonic membership
-    relay:
-    - Paul Hudson
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
-    title: George Herbert Walker Bush
-    slug: george-herbert-walker-bush
-  date: null
-  date_end: null
-  location_in_record: ch5:27577-27843
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 6939279d-343e-44f9-a1ca-5359487817f6
-  claim_hash: 1c3891ada03851af25f2d8d2a65d94eb5535031e16ab8670e32ae43338e63f25
-  content: Paul Hudson stated that there are Masonic symbols embedded in the Boeing
-    Mars poster painting but that if there is credence to related theories, they were
-    included by accident or without his knowledge.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
-    title: Paul Hudson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Paul Hudson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
-    title: Paul Hudson
-    slug: paul-hudson
-  date: null
-  date_end: null
-  location_in_record: ch5:27920-28129
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: e980a36b-d275-4394-a26c-b474972afb25
-  claim_hash: 6333ea063e45a8b0fe3dfeba863b46ceb35228870c69689b09d45d104dd0cb53
-  content: Paul Hudson confirmed that an apparent image of a black man depicted among
-    the stack of pillars in the Boeing Mars poster painting was intentional.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
-    title: Paul Hudson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Paul Hudson
-    relay:
-    - Mike Bara
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
-    title: Paul Hudson
-    slug: paul-hudson
-  date: null
-  date_end: null
-  location_in_record: ch5:28441-28601
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: c3c80f6d-d9d0-4f65-ba14-df7b328dd929
-  claim_hash: 72e159d46652f4bc8dc508d50a5dd42fe989987b1f29c795f4945866959726bc
-  content: Mike Bara considers it improbable that Paul Hudson did not notice the Masonic
-    symbols in the Boeing Mars poster painting he painted himself, despite Hudson
-    denying knowledge of them.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
-    title: Mike Bara
-  provenance_chain:
-    origin_kind: speaker
-    origin: Mike Bara
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
-    title: Mike Bara
-    slug: mike-bara
-  - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
-    title: Paul Hudson
-    slug: paul-hudson
-  date: null
-  date_end: null
-  location_in_record: ch5:28754-28954
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 48ab2b11-9178-4edc-bb7f-11f841573dd9
-  claim_hash: bcd21f6b8928f18d32db742afcfc9ce49419f5c5d9f90bf37b75f31d977d2fc4
-  content: Mike Bara observed that Paul Hudson seemed anxious to dispel any notion
-    that the George Herbert Walker Bush administration supported his Boeing Mars poster
-    work, even though Hudson submitted a detailed proposal before starting the painting.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
-    title: Mike Bara
-  provenance_chain:
-    origin_kind: speaker
-    origin: Mike Bara
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
-    title: Mike Bara
-    slug: mike-bara
-  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
-    title: George Herbert Walker Bush
-    slug: george-herbert-walker-bush
-  - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
-    title: Paul Hudson
-    slug: paul-hudson
-  date: null
-  date_end: null
-  location_in_record: ch5:28960-29120
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: d015db9f-9c48-4603-b17f-859a7862a9e9
-  claim_hash: f2a79b9054d62830d41dbf9438fe88ae790f67d2e1f637959de6a977ca2cd9c0
-  content: According to a Boeing study, only about one-third of the population can
-    rotate two-dimensional images in their brains and perceive the three-dimensional
-    geometric structures present in those images.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: third_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: a Boeing study
-    relay:
-    - Mike Bara
-    - Richard C. Hoagland
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  date: null
-  date_end: null
-  location_in_record: ch6:8006-8212
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: b6c9228f-b037-4c60-b33e-f5294abb4575
-  claim_hash: b1476239807f674c7c98dc5358bc2b2a032b43897b739c2e16c95dcc8ae7fa8d
-  content: William Blair, a Boeing anthropologist, observed that the Blair Cuspids
-    had a series of contextual, geometric relationships to each other.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: b3ed18fc-8a8f-4826-8049-e40f5e78798f
-    title: William Blair
-  provenance_chain:
-    origin_kind: speaker
-    origin: William Blair
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: b3ed18fc-8a8f-4826-8049-e40f5e78798f
-    title: William Blair
-    slug: william-blair
-  - node_id: d4849f89-98f8-4e76-9c42-0c3fdad61a0d
-    title: Blair Cuspids
-    slug: blair-cuspids
-  date: null
-  date_end: null
-  location_in_record: ch8:22463-22587
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 9a2bdc28-7e4b-4287-a079-ff2812971c61
-  claim_hash: c44f1924260a117211df6291ed3a310a533e5a5d2ca26f7a1b9d82fb50f60a36
-  content: Boeing was planning to redesign the pilot's display in the F/A-18F Super
-    Hornet.
-  original_excerpt: they're, they're getting ready to redesign that Boeing is.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  date: null
-  date_end: null
-  location_in_record: 00:33:46.6-00:33:49.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 8b4829dc-9fc8-4b29-8a37-22e1033aa679
-  claim_hash: aae27dd0c105689c5a9dd46dc796d90866250856f8697724c598d42e67b725a7
-  content: After completing his first Super Hornet cruise, David Fravor visited the
-    Boeing factory in St. Louis, Missouri, where his squadron's new F/A-18F Super
-    Hornets were being built.
-  original_excerpt: We had went to the Boeing factory in St. Louis, where they were
-    building my new jets that I was going to get.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: b19d9e26-a7fd-482f-931c-0600e995e73e
-    title: USA, Missouri, St. Louis
-    slug: missouri-st-louis-usa
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:54:52.2-00:54:56.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: ffc8ea23-c493-4acb-8573-b12347549e9a
-  claim_hash: e799d647fa81dacd3138b054f2b1763390b1237156e002516e6e65a32d84cf6a
-  content: David Fravor signed the inside of the wing of one of his new F/A-18F Super
-    Hornets while it was being assembled at the Boeing factory.
-  original_excerpt: And I actually signed the inside of one of the wings while they
-    were putting it together.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:54:56.3-00:54:59.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 43130faf-5eb5-42b4-8861-c28b2737d2a0
-  claim_hash: 14f23774f455d0759e1681f4b694a6399655394551800eb17247319d1081123a
-  content: David Fravor considers Northrop Grumman, Lockheed Martin, and Boeing to
-    be the big three companies in the United States defence industry.
-  original_excerpt: there's the big three in defense, which is really, you know, Northrop,
-    Lockheed, and Boeing.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
-    title: Lockheed Martin
-    slug: lockheed-martin
-  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
-    title: Northrop Grumman
-    slug: northrop-grumman
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 02:17:17.4-02:17:22.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 78dfe87d-e972-4f39-997c-86557385215c
-  claim_hash: 46d7aa64cf333418398699ab44b512b0732e992250b02da57c53944ef5591ed9
-  content: David Fravor considers Elon Musk's SpaceX to have delivered a project that
-    Boeing had been contracted to do, but in less time and for half the cost.
-  original_excerpt: Elon did what Boeing has contracted to do in less time for half
-    the money.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: 69da6665-d8ec-490c-b589-47e35e6598f2
-    title: SpaceX
-    slug: spacex
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  - node_id: c8e068c2-9087-4ccf-a9ad-55978d1d02b0
-    title: Elon Musk
-    slug: elon-musk
-  date: null
-  date_end: null
-  location_in_record: 02:18:15.8-02:18:20.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 406b4c0a-9bbe-4be1-8d8f-bb00c035c258
-  claim_hash: d8a69885aebeb8488bff528bb762a25c7c8d92625bee3ede6e52b2671028fb55
-  content: In 2003, a large group of Boeing contractors operating near a launch facility
-    at Vandenberg Air Force Base observed a large, approximately 90-metre red square
-    object approach the base from the ocean and hover at low altitude over one of
-    the launch facilities.
-  original_excerpt: In the 2003 timeframe, a large group of Boeing contractors were
-    operating near one of the launch facilities at Vandenberg Air Force Base when
-    they observed a very large 100-yard sighted red square approach the base from
-    the ocean and hover at low altitude over one of the launch facilities.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-    title: Ryan Graves
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a group of Boeing contractors present at Vandenberg Air Force Base in
-      2003
-    relay:
-    - a witness who approached Ryan Graves at Americans for Safe Aerospace
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-    title: Ryan Graves
-    slug: ryan-graves
-  - node_id: 785548fb-ff5e-444f-8db9-5de154ea4cf1
-    title: 2003 Vandenberg Air Force Base Unidentified Aerial Phenomena / Unidentified
-      Anomalous Phenomena (UAP) incident
-    slug: 2003-vandenberg-air-force-base-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-incident
-  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
-    title: USA, California, Edwards Air Force Base
-    slug: california-edwards-air-force-base-usa
-  date: '2003'
-  date_end: null
-  location_in_record: char:73551-73830
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: a85682b5-4712-4b84-8f6b-044b8eb77b69
-  claim_hash: 6adc0a99dacffbde14f7998399aba6839e9ac0e62254dd4cfc188339e0beb6cf
-  content: The information about contractors involved in the red cube incident that
-    Ryan Graves mentioned was provided by a witness, and Ryan Graves has no particular
-    detail on that relationship.
-  original_excerpt: So, I will just say that the information about the contractors
-    themselves were provided by a witness and I have no particular detail in that
-    relationship.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-    title: Ryan Graves
-  provenance_chain:
-    origin_kind: anonymous
-    origin: an unnamed witness who spoke to Ryan Graves
-    relay:
-    - Ryan Graves
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-    title: Ryan Graves
-    slug: ryan-graves
-  date: null
-  date_end: null
-  location_in_record: char:97034-97175
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: e59c0f57-d34c-4691-b499-4cc425233baf
-  claim_hash: c0cee287df4fa09d0c029bb8c9b7a178207cc4032a6dc46291c54fd5e894f2ec
-  content: Luis Elizondo's primary job in counterintelligence was to lock down sensitive,
-    top secret technology from foreign spies targeting major defence contractors including
-    TRW, Raytheon, Boeing, and Lockheed.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
-    title: Raytheon
-    slug: raytheon
+    shared_claims: 3
+  - node_id: e3f2ec33-f1bb-49ec-bb41-80e0a406e50b
+    title: 1989 White House Mars Exploration Program poster (Boeing)
+    node_type: document
+    slug: 1989-white-house-mars-exploration-program-poster-boeing
+    shared_claims: 2
+  - node_id: dd9890a7-b835-4013-b3ff-49fe72d9a784
+    title: Boeing Phantom Works
+    node_type: organisation
+    slug: boeing-phantom-works
+    shared_claims: 2
   - node_id: 6814b080-a222-4c03-9e18-877cf868e816
     title: Lockheed
+    node_type: organisation
     slug: lockheed
-  - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
-    title: TRW Inc.
-    slug: trw-inc
+    shared_claims: 2
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    node_type: organisation
+    slug: lockheed-martin
+    shared_claims: 2
   - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
+    node_type: person
     slug: luis-elizondo
-  date: null
-  date_end: null
-  location_in_record: ch11:20529-20690
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: a7f3a152-7714-45c3-8e1e-ff2cbc757810
-  claim_hash: 281fc939cb04016c833f8699869b5933f65d4b0429016c9e9d48e0317178588c
-  content: Lockheed Martin, TRW, McDonnell Douglas, Northrop Grumman, Boeing, Raytheon,
-    BAE Systems, and the Aerospace Corporation were named by senior officials as aerospace
-    and defence companies involved in the Legacy Program to retrieve and reverse-engineer
-    crash materials.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: anonymous
-    origin: persons claiming to be senior officials
-    relay:
-    - told confidentially to Lue Elizondo
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0017e9ea-ba2f-4c15-9767-6f5a0f4035a0
-    title: BAE Systems
-    slug: bae-systems
+    shared_claims: 2
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 2
+  - node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
+    title: Raytheon
+    node_type: organisation
+    slug: raytheon
+    shared_claims: 2
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+    node_type: person
+    slug: ryan-graves
+    shared_claims: 2
+  - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+    title: TRW Inc.
+    node_type: organisation
+    slug: trw-inc
+    shared_claims: 2
+  - node_id: 785548fb-ff5e-444f-8db9-5de154ea4cf1
+    title: 2003 Vandenberg Air Force Base Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) incident
+    node_type: event
+    slug: 2003-vandenberg-air-force-base-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-incident
+    shared_claims: 1
   - node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
     title: Aerospace Corporation
+    node_type: organisation
     slug: aerospace-corporation
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
-    title: Raytheon
-    slug: raytheon
-  - node_id: 6814b080-a222-4c03-9e18-877cf868e816
-    title: Lockheed
-    slug: lockheed
-  - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
-    title: TRW Inc.
-    slug: trw-inc
-  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
-    title: Northrop Grumman
-    slug: northrop-grumman
-  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
-    title: Legacy Program
-    slug: legacy-program
-  - node_id: d3f1910c-f3bf-4eff-b952-3d38b54e9876
-    title: McDonnell Douglas
-    slug: mcdonnell-douglas
-  date: null
-  date_end: null
-  location_in_record: ch21:4633-4853
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: d99d03f6-993f-42ce-b30d-6b4355c8dfa1
-  claim_hash: ba138708660537ca69ff306e15fcef188023ed46144e838ba14eb56d474f681f
-  content: Luis Elizondo had an office in a building in Arlington, Virginia that the
-    Pentagon rented, which also housed departments of Boeing Aerospace, including
-    Boeing Phantom Works.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: 71ae2783-8dfd-431b-9c63-81094e7cea5e
-    title: USA, Virginia, Arlington
-    slug: virginia-arlington-usa
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: c2161b8f-ab11-449c-8521-174024cb0552
-    title: USA, Washington DC, Pentagon
-    slug: washington-dc-pentagon-usa
-  - node_id: dd9890a7-b835-4013-b3ff-49fe72d9a784
-    title: Boeing Phantom Works
-    slug: boeing-phantom-works
-  date: null
-  date_end: null
-  location_in_record: ch9:1871-2184
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 6de6d7f2-c5f8-4c32-85c7-559824bb8432
-  claim_hash: 8ac30087cb6e4046c5165413ded9690f6201d189fdaf374602a407e256f96b96
-  content: Boeing Phantom Works is the Boeing division charged with developing Boeing's
-    future technology.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
-  - node_id: dd9890a7-b835-4013-b3ff-49fe72d9a784
-    title: Boeing Phantom Works
-    slug: boeing-phantom-works
-  date: null
-  date_end: null
-  location_in_record: ch9:2036-2184
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: b5c87687-4878-4768-b435-084dc902ecea
-  claim_hash: 9ccb2013a6cf08d6aa37456d640053033cb1ab3a218ac064c808df1be38b2ee5
-  content: Lockheed Martin, Boeing, and the Defense Advanced Research Projects Agency
-    (DARPA) developed the RQ-3 Dark Star in the mid-to-late 1990s.
-  original_excerpt: Lockheed Martin, Boeing, and DARPA developed Dark Star in the
-    mid-to-late 1990s.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-    title: Boeing
-    slug: boeing
+    shared_claims: 1
+  - node_id: 0017e9ea-ba2f-4c15-9767-6f5a0f4035a0
+    title: BAE Systems
+    node_type: organisation
+    slug: bae-systems
+    shared_claims: 1
+  - node_id: d4849f89-98f8-4e76-9c42-0c3fdad61a0d
+    title: Blair Cuspids
+    node_type: place
+    slug: blair-cuspids
+    shared_claims: 1
+  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+    title: Crew Exploration Vehicle (CEV)
+    node_type: object
+    slug: crew-exploration-vehicle-cev
+    shared_claims: 1
   - node_id: 6ed8cca1-7933-45ad-94ca-0718946c8cb2
     title: Dark Star
+    node_type: object
     slug: dark-star
-  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
-    title: Lockheed Martin
-    slug: lockheed-martin
+    shared_claims: 1
+  - node_id: 4f980f8f-1048-4232-9e77-8faeaaf6a63f
+    title: Dave Bara
+    node_type: person
+    slug: dave-bara
+    shared_claims: 1
   - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
     title: Defense Advanced Research Projects Agency (DARPA)
+    node_type: organisation
     slug: defense-advanced-research-projects-agency-darpa
-  date: null
-  date_end: null
-  location_in_record: char:141208-141282
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+    shared_claims: 1
+  - node_id: c8e068c2-9087-4ccf-a9ad-55978d1d02b0
+    title: Elon Musk
+    node_type: person
+    slug: elon-musk
+    shared_claims: 1
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    node_type: person
+    slug: ken-johnston
+    shared_claims: 1
+  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+    title: Legacy Program
+    node_type: project
+    slug: legacy-program
+    shared_claims: 1
+  - node_id: d3f1910c-f3bf-4eff-b952-3d38b54e9876
+    title: McDonnell Douglas
+    node_type: organisation
+    slug: mcdonnell-douglas
+    shared_claims: 1
+  - node_id: ccfa75c2-84fd-4ac9-8caf-79c371b1be4b
+    title: Planetary Society
+    node_type: organisation
+    slug: planetary-society
+    shared_claims: 1
+  - node_id: 69da6665-d8ec-490c-b589-47e35e6598f2
+    title: SpaceX
+    node_type: organisation
+    slug: spacex
+    shared_claims: 1
+  - node_id: cebb3847-2c0f-4a3d-9d58-b58c41653a6c
+    title: The Cliff (Cydonia)
+    node_type: place
+    slug: the-cliff-cydonia
+    shared_claims: 1
+claims:
+  - claim_id: 908abf28-41ba-4aaf-8a4d-9d61ba48b085
+    claim_hash: 4672902b3d93c4543bae8614b8f193d3eb4128f75cffdc39e55ac7a04808e13c
+    content: Ken Johnston was a Boeing engineer and a licensed pilot at the time he met Richard C. Hoagland.
+    original_excerpt: he met Ken Johnston, a Boeing engineer at the time and a licensed pilot
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+        title: Ken Johnston
+        slug: ken-johnston
+    date: null
+    date_end: null
+    location_in_record: ch11:75549-75615
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2909aefe-359c-4b38-b2c0-4882c3ccfab6
+    claim_hash: a9b20c52237429269055f676e254c53adb332bcbeefed1c64db3dfbb4f8230e1
+    content: In 1997, Dave Bara, the brother of one of the authors of Dark Mission, was walking through a vacated office area
+      of the Boeing Company in Renton, Washington, and spotted a poster from the 1989 White House Mars Exploration Program.
+    original_excerpt: In 1997, the brother of one of the authors, Dave Bara, was walking through an office area of the Boeing
+      Company in Renton, Washington, which had just been vacated by a relocated organization. On the wall of an abandoned
+      cubicle, he spotted a poster that he instantly knew to be highly significant. It was from the 1989 White House Mars
+      Exploration Program proposed by then-President Bush.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Dave Bara
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34f6fb01-4897-42df-9ce9-b7a964e7275f
+        title: USA, Washington, Renton, Boeing Company office
+        slug: washington-renton-boeing-company-office-usa
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 4f980f8f-1048-4232-9e77-8faeaaf6a63f
+        title: Dave Bara
+        slug: dave-bara
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: e3f2ec33-f1bb-49ec-bb41-80e0a406e50b
+        title: 1989 White House Mars Exploration Program poster (Boeing)
+        slug: 1989-white-house-mars-exploration-program-poster-boeing
+    date: '1997'
+    date_end: null
+    location_in_record: ch19:13738-14121
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2f41a971-ff9c-4802-a6fb-2f38247c896a
+    claim_hash: a2f6ef8df3ffdb94cf3a7a88f19bf62aed39d24eded1b58a67542a1e092c667e
+    content: The 1989 White House Mars Exploration Program poster was commissioned by the Boeing Company and depicted National
+      Aeronautics and Space Administration (NASA) astronauts ascending a cliff and encountering artificial ruins.
+    original_excerpt: The poster had been commissioned by the Boeing Company and designed, as all such materials are, to raise
+      awareness and inspire enthusiasm for a given program. In this case, the artists saw fit to inspire their workers and
+      the public by creating a depiction of NASA astronauts ascending a cliff (perhaps the Cliff, as there is a suspiciously
+      "Face-like" edifice in the background) and encountering nothing less than clearly artificial ruins
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: cebb3847-2c0f-4a3d-9d58-b58c41653a6c
+        title: The Cliff (Cydonia)
+        slug: the-cliff-cydonia
+      - node_id: e3f2ec33-f1bb-49ec-bb41-80e0a406e50b
+        title: 1989 White House Mars Exploration Program poster (Boeing)
+        slug: 1989-white-house-mars-exploration-program-poster-boeing
+    date: '1989'
+    date_end: null
+    location_in_record: ch19:14127-14565
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f7b82c88-30ae-4318-a71c-8dfbff6c4a7b
+    claim_hash: 0c53844aab45052b3135ab96c9c7e23fa00308f2ff232cc1df0bf300f7515771
+    content: By spring 2006 all signs pointed to Northrop Grumman and Boeing winning the initial Crew Exploration Vehicle
+      (CEV) contract.
+    original_excerpt: As the spring of 2006 bloomed, all signs pointed to Northrop-Grumman-Boeing getting the initial contract.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+        title: Crew Exploration Vehicle (CEV)
+        slug: crew-exploration-vehicle-cev
+      - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+        title: Northrop Grumman
+        slug: northrop-grumman
+    date: 2006-03
+    date_end: null
+    location_in_record: ch19:80349-80445
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: bf513a25-ad19-4c4d-8486-97c0302d82ed
+    claim_hash: 6bf67e4c9c29274afabd823e06cbe0277bbea67e4d18b87046f4d76ccdd97eb0
+    content: Mike Bara wrote to Professor Paul Hudson asking about the Boeing Mars poster, noting that a version of the poster
+      used by the Planetary Society had the artifacts removed because they felt it was not appropriate.
+    original_excerpt: I've even seen a version of this poster used by the Planetary Society but with the artifacts removed,
+      because they felt it wasn't "appropriate."
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+      title: Mike Bara
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mike Bara
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+        title: Mike Bara
+        slug: mike-bara
+      - node_id: ccfa75c2-84fd-4ac9-8caf-79c371b1be4b
+        title: Planetary Society
+        slug: planetary-society
+    date: null
+    date_end: null
+    location_in_record: ch5:24539-24670
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: aecd8401-7413-4d30-8623-6318d3cc8d1c
+    claim_hash: 7eca3d91d388c6967140cf6505bb1ec71d395757036aa0d96bdc60f9b52665c2
+    content: The commission for the Boeing Mars poster painting came through President George Herbert Walker Bush's office
+      via Boeing Aerospace, around 1985, while Paul Hudson was working for Boeing.
+    original_excerpt: The commission for the painting came through the President's [George Herbert Walker Bush] office via
+      Boeing Aerospace, with whom I was working for at the time (1985 or so?)
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+      title: Paul Hudson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Paul Hudson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+        title: Paul Hudson
+        slug: paul-hudson
+    date: '1985'
+    date_end: null
+    location_in_record: ch5:25600-25768
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 43b9de95-64ce-49ab-9291-876a214ce3a1
+    claim_hash: 2e3a006e949508b7d80da919b11b55c967f8b00efb5f2a01e80179125e827d05
+    content: Paul Hudson submitted rough concept drawings for the Boeing Mars poster through Boeing, was accepted, and completed
+      the painting.
+    original_excerpt: I submitted the rough concept drawings through Boeing, was accepted, and continued on to finish the
+      painting as you see in the poster.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+      title: Paul Hudson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Paul Hudson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+        title: Paul Hudson
+        slug: paul-hudson
+    date: null
+    date_end: null
+    location_in_record: ch5:26170-26297
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4feed9f6-b645-479a-9c15-9e401e26d76d
+    claim_hash: 7d8b35e0434740ca33d39fb5f860a2669f4408cdbb9fe1b6cc3474fb641ee765
+    content: Boeing was told not to give out the Boeing Mars posters at any of the trade shows, and no one knew what became
+      of the original painting or the posters.
+    original_excerpt: as far as I was told, no one knew what ever became of the original painting or all of the posters (again,
+      if I remember correctly, Boeing was told not to give the posters out at any of the numerable trade shows)
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+      title: Paul Hudson
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to know the disposition of the Boeing Mars poster distribution
+      relay:
+        - Paul Hudson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+    date: null
+    date_end: null
+    location_in_record: ch5:27205-27410
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a0cb7975-108d-4fd3-a886-8356d22b57ff
+    claim_hash: 8a6ed8af3f7f1becee6dbea9c3c50914abded958fa812c98b3df4123e53cb52e
+    content: Paul Hudson noted that the Boeing Mars poster image has been used to bolster claims of George Herbert Walker
+      Bush's Nazi heritage and Masonic membership, alleging he wanted to send men to Mars to return the Brotherhood to the
+      old stomping grounds of the Aryan race.
+    original_excerpt: it has come to my attention that the image is used to bolster claims of the President's Nazi heritage,
+      and that, being both a Mason and a Nazi, the only reason he wanted to send men to Mars was to return the Brotherhood
+      back to the old stomping grounds of the Aryan race
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+      title: Paul Hudson
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed theorists who claim the Boeing Mars poster evidences George Herbert Walker Bush's Nazi heritage and
+        Masonic membership
+      relay:
+        - Paul Hudson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: ch5:27577-27843
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 6939279d-343e-44f9-a1ca-5359487817f6
+    claim_hash: 1c3891ada03851af25f2d8d2a65d94eb5535031e16ab8670e32ae43338e63f25
+    content: Paul Hudson stated that there are Masonic symbols embedded in the Boeing Mars poster painting but that if there
+      is credence to related theories, they were included by accident or without his knowledge.
+    original_excerpt: Apparently there are quite a few Masonic symbols embedded in the painting as well... if there is any
+      credence to these theories, they were quite by accident, or entirely without my knowing.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+      title: Paul Hudson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Paul Hudson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+        title: Paul Hudson
+        slug: paul-hudson
+    date: null
+    date_end: null
+    location_in_record: ch5:27920-28129
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e980a36b-d275-4394-a26c-b474972afb25
+    claim_hash: 6333ea063e45a8b0fe3dfeba863b46ceb35228870c69689b09d45d104dd0cb53
+    content: Paul Hudson confirmed that an apparent image of a black man depicted among the stack of pillars in the Boeing
+      Mars poster painting was intentional.
+    original_excerpt: We had one further communication regarding the apparent image of a black man in the stack of pillars
+      in the painting, and he confirmed that the ethnic take was intentional.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+      title: Paul Hudson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Paul Hudson
+      relay:
+        - Mike Bara
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+        title: Paul Hudson
+        slug: paul-hudson
+    date: null
+    date_end: null
+    location_in_record: ch5:28441-28601
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c3c80f6d-d9d0-4f65-ba14-df7b328dd929
+    claim_hash: 72e159d46652f4bc8dc508d50a5dd42fe989987b1f29c795f4945866959726bc
+    content: Mike Bara considers it improbable that Paul Hudson did not notice the Masonic symbols in the Boeing Mars poster
+      painting he painted himself, despite Hudson denying knowledge of them.
+    original_excerpt: I found it fascinating that he volunteered information about Masonic symbols on his own work, which
+      he denied knowing were there. It seems improbable that he didn't notice them; after all, he painted them.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+      title: Mike Bara
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mike Bara
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+        title: Mike Bara
+        slug: mike-bara
+      - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+        title: Paul Hudson
+        slug: paul-hudson
+    date: null
+    date_end: null
+    location_in_record: ch5:28754-28954
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 48ab2b11-9178-4edc-bb7f-11f841573dd9
+    claim_hash: bcd21f6b8928f18d32db742afcfc9ce49419f5c5d9f90bf37b75f31d977d2fc4
+    content: Mike Bara observed that Paul Hudson seemed anxious to dispel any notion that the George Herbert Walker Bush administration
+      supported his Boeing Mars poster work, even though Hudson submitted a detailed proposal before starting the painting.
+    original_excerpt: He seemed anxious to dispel any notion that the Bush administration supported his work, even though
+      he submitted a detailed proposal before starting the actual painting.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+      title: Mike Bara
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mike Bara
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+        title: Mike Bara
+        slug: mike-bara
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+        title: Paul Hudson
+        slug: paul-hudson
+    date: null
+    date_end: null
+    location_in_record: ch5:28960-29120
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: d015db9f-9c48-4603-b17f-859a7862a9e9
+    claim_hash: f2a79b9054d62830d41dbf9438fe88ae790f67d2e1f637959de6a977ca2cd9c0
+    content: According to a Boeing study, only about one-third of the population can rotate two-dimensional images in their
+      brains and perceive the three-dimensional geometric structures present in those images.
+    original_excerpt: According to a Boeing Study (that Mike reminds me about constantly), only about one-third of the population
+      can rotate 2-D images in their brains, and then see the 3-D geometric structures present in those images
+    claim_type: measurement
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: a Boeing study
+      relay:
+        - Mike Bara
+        - Richard C. Hoagland
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+    date: null
+    date_end: null
+    location_in_record: ch6:8006-8212
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b6c9228f-b037-4c60-b33e-f5294abb4575
+    claim_hash: b1476239807f674c7c98dc5358bc2b2a032b43897b739c2e16c95dcc8ae7fa8d
+    content: William Blair, a Boeing anthropologist, observed that the Blair Cuspids had a series of contextual, geometric
+      relationships to each other.
+    original_excerpt: William Blair, a Boeing anthropologist, noted that the "spires" had a series of contextual, geometric
+      relationships to each other.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: b3ed18fc-8a8f-4826-8049-e40f5e78798f
+      title: William Blair
+    provenance_chain:
+      origin_kind: speaker
+      origin: William Blair
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: b3ed18fc-8a8f-4826-8049-e40f5e78798f
+        title: William Blair
+        slug: william-blair
+      - node_id: d4849f89-98f8-4e76-9c42-0c3fdad61a0d
+        title: Blair Cuspids
+        slug: blair-cuspids
+    date: null
+    date_end: null
+    location_in_record: ch8:22463-22587
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 9a2bdc28-7e4b-4287-a079-ff2812971c61
+    claim_hash: c44f1924260a117211df6291ed3a310a533e5a5d2ca26f7a1b9d82fb50f60a36
+    content: Boeing was planning to redesign the pilot's display in the F/A-18F Super Hornet.
+    original_excerpt: they're, they're getting ready to redesign that Boeing is.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+    date: null
+    date_end: null
+    location_in_record: 00:33:46.6-00:33:49.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 8b4829dc-9fc8-4b29-8a37-22e1033aa679
+    claim_hash: aae27dd0c105689c5a9dd46dc796d90866250856f8697724c598d42e67b725a7
+    content: After completing his first Super Hornet cruise, David Fravor visited the Boeing factory in St. Louis, Missouri,
+      where his squadron's new F/A-18F Super Hornets were being built.
+    original_excerpt: We had went to the Boeing factory in St. Louis, where they were building my new jets that I was going
+      to get.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: b19d9e26-a7fd-482f-931c-0600e995e73e
+        title: USA, Missouri, St. Louis
+        slug: missouri-st-louis-usa
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:54:52.2-00:54:56.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: ffc8ea23-c493-4acb-8573-b12347549e9a
+    claim_hash: e799d647fa81dacd3138b054f2b1763390b1237156e002516e6e65a32d84cf6a
+    content: David Fravor signed the inside of the wing of one of his new F/A-18F Super Hornets while it was being assembled
+      at the Boeing factory.
+    original_excerpt: And I actually signed the inside of one of the wings while they were putting it together.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:54:56.3-00:54:59.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 43130faf-5eb5-42b4-8861-c28b2737d2a0
+    claim_hash: 14f23774f455d0759e1681f4b694a6399655394551800eb17247319d1081123a
+    content: David Fravor considers Northrop Grumman, Lockheed Martin, and Boeing to be the big three companies in the United
+      States defence industry.
+    original_excerpt: there's the big three in defense, which is really, you know, Northrop, Lockheed, and Boeing.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+        title: Lockheed Martin
+        slug: lockheed-martin
+      - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+        title: Northrop Grumman
+        slug: northrop-grumman
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 02:17:17.4-02:17:22.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 78dfe87d-e972-4f39-997c-86557385215c
+    claim_hash: 46d7aa64cf333418398699ab44b512b0732e992250b02da57c53944ef5591ed9
+    content: David Fravor considers Elon Musk's SpaceX to have delivered a project that Boeing had been contracted to do,
+      but in less time and for half the cost.
+    original_excerpt: Elon did what Boeing has contracted to do in less time for half the money.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 69da6665-d8ec-490c-b589-47e35e6598f2
+        title: SpaceX
+        slug: spacex
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: c8e068c2-9087-4ccf-a9ad-55978d1d02b0
+        title: Elon Musk
+        slug: elon-musk
+    date: null
+    date_end: null
+    location_in_record: 02:18:15.8-02:18:20.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 406b4c0a-9bbe-4be1-8d8f-bb00c035c258
+    claim_hash: d8a69885aebeb8488bff528bb762a25c7c8d92625bee3ede6e52b2671028fb55
+    content: In 2003, a large group of Boeing contractors operating near a launch facility at Vandenberg Air Force Base observed
+      a large, approximately 90-metre red square object approach the base from the ocean and hover at low altitude over one
+      of the launch facilities.
+    original_excerpt: In the 2003 timeframe, a large group of Boeing contractors were operating near one of the launch facilities
+      at Vandenberg Air Force Base when they observed a very large 100-yard sighted red square approach the base from the
+      ocean and hover at low altitude over one of the launch facilities.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+      title: Ryan Graves
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a group of Boeing contractors present at Vandenberg Air Force Base in 2003
+      relay:
+        - a witness who approached Ryan Graves at Americans for Safe Aerospace
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+        title: Ryan Graves
+        slug: ryan-graves
+      - node_id: 785548fb-ff5e-444f-8db9-5de154ea4cf1
+        title: 2003 Vandenberg Air Force Base Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) incident
+        slug: 2003-vandenberg-air-force-base-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-incident
+      - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+        title: USA, California, Edwards Air Force Base
+        slug: california-edwards-air-force-base-usa
+    date: '2003'
+    date_end: null
+    location_in_record: char:73551-73830
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: a85682b5-4712-4b84-8f6b-044b8eb77b69
+    claim_hash: 6adc0a99dacffbde14f7998399aba6839e9ac0e62254dd4cfc188339e0beb6cf
+    content: The information about contractors involved in the red cube incident that Ryan Graves mentioned was provided by
+      a witness, and Ryan Graves has no particular detail on that relationship.
+    original_excerpt: So, I will just say that the information about the contractors themselves were provided by a witness
+      and I have no particular detail in that relationship.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+      title: Ryan Graves
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed witness who spoke to Ryan Graves
+      relay:
+        - Ryan Graves
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+        title: Ryan Graves
+        slug: ryan-graves
+    date: null
+    date_end: null
+    location_in_record: char:97034-97175
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: e59c0f57-d34c-4691-b499-4cc425233baf
+    claim_hash: c0cee287df4fa09d0c029bb8c9b7a178207cc4032a6dc46291c54fd5e894f2ec
+    content: Luis Elizondo's primary job in counterintelligence was to lock down sensitive, top secret technology from foreign
+      spies targeting major defence contractors including TRW, Raytheon, Boeing, and Lockheed.
+    original_excerpt: My primary job was to lock down sensitive, top secret technology from foreign spies who were targeting
+      major defense contractors like TRW, Raytheon, Boeing, and Lockheed.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
+        title: Raytheon
+        slug: raytheon
+      - node_id: 6814b080-a222-4c03-9e18-877cf868e816
+        title: Lockheed
+        slug: lockheed
+      - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+        title: TRW Inc.
+        slug: trw-inc
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch11:20529-20690
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: a7f3a152-7714-45c3-8e1e-ff2cbc757810
+    claim_hash: 281fc939cb04016c833f8699869b5933f65d4b0429016c9e9d48e0317178588c
+    content: Lockheed Martin, TRW, McDonnell Douglas, Northrop Grumman, Boeing, Raytheon, BAE Systems, and the Aerospace Corporation
+      were named by senior officials as aerospace and defence companies involved in the Legacy Program to retrieve and reverse-engineer
+      crash materials.
+    original_excerpt: The big names included Lockheed Martin, TRW, McDonnell Douglas, Northrop Grumman, Boeing, Raytheon,
+      BAE Systems, and the Aerospace Corporation, all of which have long been principal members of the US military-industrial
+      complex.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: anonymous
+      origin: persons claiming to be senior officials
+      relay:
+        - told confidentially to Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0017e9ea-ba2f-4c15-9767-6f5a0f4035a0
+        title: BAE Systems
+        slug: bae-systems
+      - node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
+        title: Aerospace Corporation
+        slug: aerospace-corporation
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
+        title: Raytheon
+        slug: raytheon
+      - node_id: 6814b080-a222-4c03-9e18-877cf868e816
+        title: Lockheed
+        slug: lockheed
+      - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+        title: TRW Inc.
+        slug: trw-inc
+      - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+        title: Northrop Grumman
+        slug: northrop-grumman
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+      - node_id: d3f1910c-f3bf-4eff-b952-3d38b54e9876
+        title: McDonnell Douglas
+        slug: mcdonnell-douglas
+    date: null
+    date_end: null
+    location_in_record: ch21:4633-4853
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: d99d03f6-993f-42ce-b30d-6b4355c8dfa1
+    claim_hash: ba138708660537ca69ff306e15fcef188023ed46144e838ba14eb56d474f681f
+    content: Luis Elizondo had an office in a building in Arlington, Virginia that the Pentagon rented, which also housed
+      departments of Boeing Aerospace, including Boeing Phantom Works.
+    original_excerpt: 'At the time, I had a large corner office in a building the Pentagon rented in {{redacted: ~3 words}}
+      {{redacted: ~2 words}} Arlington, Virginia. Among other things, the building housed various departments of Boeing Aerospace,
+      including Phantom Works, the division that is charged with dreaming up Boeing''s future tech.'
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 71ae2783-8dfd-431b-9c63-81094e7cea5e
+        title: USA, Virginia, Arlington
+        slug: virginia-arlington-usa
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+        title: USA, Washington DC, Pentagon
+        slug: washington-dc-pentagon-usa
+      - node_id: dd9890a7-b835-4013-b3ff-49fe72d9a784
+        title: Boeing Phantom Works
+        slug: boeing-phantom-works
+    date: null
+    date_end: null
+    location_in_record: ch9:1871-2184
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 6de6d7f2-c5f8-4c32-85c7-559824bb8432
+    claim_hash: 8ac30087cb6e4046c5165413ded9690f6201d189fdaf374602a407e256f96b96
+    content: Boeing Phantom Works is the Boeing division charged with developing Boeing's future technology.
+    original_excerpt: the building housed various departments of Boeing Aerospace, including Phantom Works, the division that
+      is charged with dreaming up Boeing's future tech.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: dd9890a7-b835-4013-b3ff-49fe72d9a784
+        title: Boeing Phantom Works
+        slug: boeing-phantom-works
+    date: null
+    date_end: null
+    location_in_record: ch9:2036-2184
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b5c87687-4878-4768-b435-084dc902ecea
+    claim_hash: 9ccb2013a6cf08d6aa37456d640053033cb1ab3a218ac064c808df1be38b2ee5
+    content: Lockheed Martin, Boeing, and the Defense Advanced Research Projects Agency (DARPA) developed the RQ-3 Dark Star
+      in the mid-to-late 1990s.
+    original_excerpt: Lockheed Martin, Boeing, and DARPA developed Dark Star in the mid-to-late 1990s.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 6ed8cca1-7933-45ad-94ca-0718946c8cb2
+        title: Dark Star
+        slug: dark-star
+      - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+        title: Lockheed Martin
+        slug: lockheed-martin
+      - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
+        title: Defense Advanced Research Projects Agency (DARPA)
+        slug: defense-advanced-research-projects-agency-darpa
+    date: null
+    date_end: null
+    location_in_record: char:141208-141282
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

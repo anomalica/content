@@ -9,1916 +9,1939 @@ page:
   claim_count: 48
   claim_count_total: 48
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 48
+  tokens_estimated: 14015
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 48
 related_nodes:
-- node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-  title: Lois
-  node_type: person
-  slug: lois
-  shared_claims: 32
-- node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-  title: Loyd Auerbach
-  node_type: person
-  slug: loyd-auerbach
-  shared_claims: 12
-- node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
-  title: Paul
-  node_type: person
-  slug: paul
-  shared_claims: 6
-- node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-  title: Laura Lynne Jackson
-  node_type: person
-  slug: laura-lynne-jackson
-  shared_claims: 5
-- node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
-  title: Pat
-  node_type: person
-  slug: pat
-  shared_claims: 5
-- node_id: d41f1695-f15a-45c4-9b6c-62da03484381
-  title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP) encounter
-  node_type: event
-  slug: jesse-delucas-2024-05-quebec-drone-unidentified-aerial-phenomena-uap-encounter
-  shared_claims: 3
-- node_id: be99e640-236f-4613-9b0a-393419a52b63
-  title: DJI Mini 3 Pro
-  node_type: object
-  slug: dji-mini-3-pro
-  shared_claims: 1
-- node_id: 4eefef8a-edab-4269-8859-10e28ce598d5
-  title: Joanna Rix
-  node_type: person
-  slug: joanna-rix
-  shared_claims: 1
-- node_id: cb66c377-11dc-4ef7-9d53-6b058c982b46
-  title: Kip Leyser
-  node_type: person
-  slug: kip-leyser
-  shared_claims: 1
-- node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-  title: Precognition
-  node_type: topic
-  slug: precognition
-  shared_claims: 1
-- node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-  title: clairvoyance
-  node_type: topic
-  slug: clairvoyance
-  shared_claims: 1
-- node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
-  title: perceptual insertion
-  node_type: topic
-  slug: perceptual-insertion
-  shared_claims: 1
-- node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-  title: telepathy
-  node_type: topic
-  slug: telepathy
-  shared_claims: 1
-- node_id: ba0c3542-ce21-4be8-b13d-89820c11475f
-  title: trance mediumship
-  node_type: topic
-  slug: trance-mediumship
-  shared_claims: 1
-claims:
-- claim_id: 013b02a6-cd44-4e35-89f5-a2a9382f3758
-  claim_hash: 059c9126b882bf597e2bf646f3bb09b60100c99a125589eafebd9364fc95f019
-  content: During this reading, Laura Lynne Jackson heard the name Chris and told
-    her sitter, Paul, that someone by that name was present.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-    title: Laura Lynne Jackson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Laura Lynne Jackson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
-    title: Paul
-    slug: paul
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-    title: Laura Lynne Jackson
-    slug: laura-lynne-jackson
-  date: null
-  date_end: null
-  location_in_record: ch26:7254-7337
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: c1dbac5a-724a-4bcb-a259-d248f0b666b6
-  claim_hash: 3b10a2d499c1919f72ef7d11b355c591cd4d7633d3154def3f83f0755ca6437c
-  content: Laura Lynne Jackson was astonished by how specific and intimate the details
-    coming from Chris were, mainly concerning Paul's girlfriend rather than Paul himself,
-    which confused her.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-    title: Laura Lynne Jackson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Laura Lynne Jackson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
-    title: Paul
-    slug: paul
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-    title: Laura Lynne Jackson
-    slug: laura-lynne-jackson
-  date: null
-  date_end: null
-  location_in_record: ch26:7346-7504
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: e3ab2e1a-6425-42b7-b2da-c0e558d41899
-  claim_hash: e410047b8cc952291555564a994ff6afba3358850d422c3a1a32502687001829
-  content: Paul told Laura Lynne Jackson that all the details she had given were accurate,
-    and that Chris was his girlfriend's former boyfriend.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
-    title: Paul
-  provenance_chain:
-    origin_kind: speaker
-    origin: Paul
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
-    title: Paul
-    slug: paul
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-    title: Laura Lynne Jackson
-    slug: laura-lynne-jackson
-  date: null
-  date_end: null
-  location_in_record: ch26:7510-7615
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 1a2960c0-514b-458d-bc45-16d8f2df76d1
-  claim_hash: e9a680e49019ea81d4237bda6512d040c045e7f854f63710c9178852b2489ebf
-  content: Paul's girlfriend had been in the car with Chris when it crashed, and Chris
-    died in the crash.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
-    title: Paul
-  provenance_chain:
-    origin_kind: named
-    origin: Paul
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
-    title: Paul
-    slug: paul
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch26:7626-7702
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 54108a60-55c9-458c-82d5-98dfffcca4f1
-  claim_hash: ead24a5978218f5a498c7863b9d05f0066bf04c9e267ef764faefa2b5dd89015
-  content: According to the reading, Chris was giving Paul his blessing for the relationship
-    with his ex-girlfriend.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-    title: Laura Lynne Jackson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Laura Lynne Jackson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
-    title: Paul
-    slug: paul
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-    title: Laura Lynne Jackson
-    slug: laura-lynne-jackson
-  date: null
-  date_end: null
-  location_in_record: ch26:7708-7776
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: f4a6e774-86fe-449b-84f2-32193e4f179d
-  claim_hash: 473858deeb4806eb4cbd5d90f25fe6ed1dc259c0134a4e69572cdb557323dd9e
-  content: When Paul confirmed the accuracy of the reading, Laura Lynne Jackson felt
-    a chill run through her body and felt awe, questioning whether Chris was communicating
-    from beyond and whether she was hearing a dead person as clearly as if he were
-    in her apartment.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-    title: Laura Lynne Jackson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Laura Lynne Jackson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
-    title: Paul
-    slug: paul
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-    title: Laura Lynne Jackson
-    slug: laura-lynne-jackson
-  date: null
-  date_end: null
-  location_in_record: ch26:8087-8302
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: e7c023ae-8ae4-4eaf-9612-f4ae8f1604b2
-  claim_hash: 6fa17bdb23cd41826af9cbdf1a736bdecea17dd68676ec78de83ea4163fb9330
-  content: Chris told Loyd Auerbach that he had been seeing the apparition Lois almost
-    every day for more than a year and a half since he first waved back at her.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Chris
-    relay: []
-  attribution_mode: unknown
-  node_refs:
   - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
     title: Lois
+    node_type: person
     slug: lois
+    shared_claims: 32
   - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
     title: Loyd Auerbach
+    node_type: person
     slug: loyd-auerbach
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:20995-21154
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 4f5cbc72-0cb5-47d5-8868-630d60bf06d0
-  claim_hash: 38a164c0eb0663a7bf6336b3f926b312892761130847365ec05c1a03e06a7cd5
-  content: According to Chris, the apparition Lois did not always appear as an old
-    woman, but shifted her appearance to look like a teenager, a six-year-old, a woman
-    in her thirties, and sometimes middle-aged.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Chris
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:21212-21333
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: fc845ca0-4d78-44a7-abb3-4cf8c673c541
-  claim_hash: b70b8956b8fa8d2ea0fe483eeef02badebbe0d64763547dd57b13a0ce2070e98
-  content: Chris told Loyd Auerbach that Lois's clothing changed all the time.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Chris
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:21339-21407
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: dd6dfc50-cbb4-46ed-b108-acc7af51fa41
-  claim_hash: 31f91c845149a7429f1ada60f55067a41a2ba03a3f837801b305f1116491da27
-  content: Chris, a twelve-year-old boy, related history of Lois, her family, and
-    the house, which he said he learned from Lois.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Chris
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:21813-21997
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 99a7177d-03e1-496f-9b5c-eaafa4adc6c2
-  claim_hash: 77282ba377dd8145960810f9a869d848b69d6f6adefd34ff97de34fd33e84691
-  content: Chris (relaying Lois) included stories about Lois's family and activities
-    that took place outside the home, beyond what could be explained by psychometric
-    perception of the house alone.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: speaker
-    origin: Loyd Auerbach
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
+    shared_claims: 12
+  - node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
+    title: Paul
+    node_type: person
+    slug: paul
+    shared_claims: 6
+  - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+    title: Laura Lynne Jackson
+    node_type: person
+    slug: laura-lynne-jackson
+    shared_claims: 5
   - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
     title: Pat
+    node_type: person
     slug: pat
-  date: null
-  date_end: null
-  location_in_record: ch31:22432-22566
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: d1581fa0-3ace-4a62-b1e6-5953f95997f6
-  claim_hash: 41e25ae3004ee6f8e714da7a0186efd2e89fb588ca551cc06acf898b1378c0e7
-  content: Pat considered whether Chris had found and memorised diaries that could
-    account for his stories about Lois, but could not imagine how that was possible.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Pat
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
-    title: Pat
-    slug: pat
-  date: null
-  date_end: null
-  location_in_record: ch31:22572-22715
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 8b45fee1-b5dd-4bb8-8a3d-265a0356467d
-  claim_hash: c4a35a430b3f9ccf4a652f4bd94b8e4deffccc1ebd3818839369b1520a7a78fa
-  content: According to Chris, the apparition Lois communicated with him on a daily
-    basis and was by his side the entire time the group toured the house.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Chris
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:22884-22999
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 72663252-1415-4f2f-97f7-e1d422aca530
-  claim_hash: b7ac94dfd58a58b80a4ea8f41ca2bc13823c8ea3c4e7b3522091adbd7c612c57
-  content: During the visit, the group sat in a semicircle facing Chris, who was seated
-    next to an empty easy chair he identified as Lois's favourite spot to sit, in
-    order to ask Lois questions.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: speaker
-    origin: Loyd Auerbach
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-    slug: loyd-auerbach
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:23114-23302
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: f24589ca-6540-46fb-bc2a-70ae3b1ed140
-  claim_hash: 677c35846909836ad187ae41b6d8602831e133b95b44a2652478603a96094edd
-  content: Chris functioned as a medium during the sitting, translating answers from
-    Lois, though he was not in any kind of trance state.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: speaker
-    origin: Loyd Auerbach
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: ba0c3542-ce21-4be8-b13d-89820c11475f
-    title: trance mediumship
-    slug: trance-mediumship
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:23611-23847
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: b3a2b9a9-434f-40df-9347-948b10d64a37
-  claim_hash: 269d1768ef188ff192212d32925c99192e7f5451e486775a29f35c562daf5153
-  content: According to Lois (relayed through Chris), a cousin who was executor of
-    Lois's estate had an attorney who blocked Pat from any personal contact.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Lois (relayed via Chris)
-    relay:
-    - Chris
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
-    title: Pat
-    slug: pat
-  date: null
-  date_end: null
-  location_in_record: ch31:23856-24053
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 5b1094ac-c312-4119-99ea-3c21795f3173
-  claim_hash: 4d572e2b87b89b1ab13abc271a56d4aa2814fd5eb036614cebaf7bff2e8c4973
-  content: According to Lois (relayed through Chris), she had been a local social
-    butterfly who often hosted parties at her home throughout her life.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Lois (relayed via Chris)
-    relay:
-    - Chris
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:24270-24427
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 62af5e8e-d8e4-46c0-94ff-962bd2c5a682
-  claim_hash: 3710b94bb71db1b6df9ec4a7639f26948be4f6da43da14b95b8c37583e6c351c
-  content: According to Lois (relayed through Chris), most of her relatives had died,
-    but she thought one or two might still be alive besides the cousin responsible
-    for selling the house.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Lois (relayed via Chris)
-    relay:
-    - Chris
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:24433-24574
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: faa1a217-9302-4a28-9757-103ed68c9eb7
-  claim_hash: 4023bbb62252cd5b531301c9cdc0146af3846e186825daa5dede544342793d55
-  content: Through Chris, Lois said she believed she did not have a physical form,
-    but was some kind of "ball of energy" able to communicate by projecting her thoughts
-    to others.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Lois (relayed via Chris)
-    relay:
-    - Chris
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:24840-25017
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: b2e7a555-8ce4-4255-af3f-55e95f68630a
-  claim_hash: f4db74b3ba2dc136e387d95a2c19d2ab1509919060f36795503fab8c15e0d2c2
-  content: Through Chris, Lois said her projected thoughts included visual and verbal
-    information that she would project into the minds of others so they would see
-    and hear her as if she were really there.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Lois (relayed via Chris)
-    relay:
-    - Chris
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:25025-25186
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: f9931998-42d9-430b-8538-8f733d00435e
-  claim_hash: 9e9bc3d4cefdf2e7ce78d0aafc2a3b192cdbfab8696abe030d44d3a18597f290
-  content: 'Loyd Auerbach considers the perceptual insertion explanation of apparitions
-    to make sense: that Lois was aware she was telling Chris''s mind what to perceive,
-    rather than being visually or aurally seen or heard directly.'
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: speaker
-    origin: Loyd Auerbach
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
-    title: perceptual insertion
-    slug: perceptual-insertion
-  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-    slug: loyd-auerbach
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:25338-25520
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: a99b0b80-ccc7-4354-9938-69ee9bdb544e
-  claim_hash: 0fdb6972cff7daac3ba6d0929a95bef50aecbfc5d4765d705a7e9e3234b8aa90
-  content: Through Chris, Lois said she appeared in different forms and clothing because
-    that was how she felt that day.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Lois (relayed via Chris)
-    relay:
-    - Chris
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:26120-26162
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 502bbe96-29fb-4764-a65c-21aa23d9838c
-  claim_hash: 5e3e1d9cd1b0b4caaea7616b10a2d79c5059c3c1af2aea0898ea2dde3b0d31a1
-  content: Through Chris, Lois declined to appear visually to the group during the
-    sitting, saying she still did not quite trust them.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Lois (relayed via Chris)
-    relay:
-    - Chris
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:26466-26712
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 7a6a6c1c-63d7-4038-84f0-0ce7b4d976a9
-  claim_hash: fce5802c315e73c4905058c102d2275a3931609aac25fe68df50b5ef41f4cca3
-  content: According to Chris's mother, Chris had never read anything on ghosts, making
-    his description of an apparition's nature unexpected from a twelve-year-old boy.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: anonymous
-    origin: Chris's mother
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:27001-27131
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 5f5ea822-572d-409d-9ee4-3763ac6962c3
-  claim_hash: 00d6556c29d633a64b517bc6c95ca5079729d16875a2178979f15d200c87920c
-  content: Through Chris, Lois said she was still at her old house because she had
-    done much socialising and partying in her life and had not been an avid churchgoer,
-    and worried that too much partying and not enough church might see her go to hell.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Lois (relayed via Chris)
-    relay:
-    - Chris
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:27228-27478
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 5538267f-540b-4de7-babe-caf1c5c78095
-  claim_hash: 1a6cd9269e32f8cde251a12b9f3e6de28685ee461c6fe4941494588e3906505c
-  content: Through Chris, Lois said that from her deathbed in the hospital she focused
-    on being back at home, felt herself slipping away, and then found herself in the
-    house.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Lois (relayed via Chris)
-    relay:
-    - Chris
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:27486-27631
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 59a46a9c-70b1-4b21-8a39-1b09cf0726f1
-  claim_hash: f07fc6176e6c7429097c477425c33a5ecfe2909d85ceb29f99ee272f9032b5fb
-  content: Through Chris, Lois said she did not see "the light" and knew nothing of
-    what was ultimately the afterlife.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Lois (relayed via Chris)
-    relay:
-    - Chris
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:27638-27736
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: a254ccdd-da67-4cd3-be3a-1b79d017782f
-  claim_hash: 5c3690b33fffcc4e972dd0f7f09031815f79cab957a5cc911fb5bf5d4f44de20
-  content: Through Chris, Lois said that when the new family moved into the house
-    she had further reason to stay, since she liked them and felt very happy with
-    them, especially Chris.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Lois (relayed via Chris)
-    relay:
-    - Chris
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:27747-27871
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 0e03f6ec-0f9d-45b7-96f5-ead9dae59fcb
-  claim_hash: 0cfd169814c8385da7b59a023a227ae97fe0ef491c62899ccf061746c24ef8c9
-  content: Through Chris, Lois asked Loyd Auerbach if he had decided on a colour for
-    the new car he wanted to buy.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Lois (relayed via Chris)
-    relay:
-    - Chris
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-    slug: loyd-auerbach
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:28055-28129
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 5989e1e6-fc87-4abc-9828-47f18aa71b67
-  claim_hash: 1ff59937f471919fb186b5aac8d47a84fc698505ef2586b54bee4cfdee15e4b8
-  content: Through Chris, Lois asked Joanna Rix whether she had really thought about
-    the kind of job she wanted after quitting her current one.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Lois (relayed via Chris)
-    relay:
-    - Chris
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
+    shared_claims: 5
+  - node_id: d41f1695-f15a-45c4-9b6c-62da03484381
+    title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP) encounter
+    node_type: event
+    slug: jesse-delucas-2024-05-quebec-drone-unidentified-aerial-phenomena-uap-encounter
+    shared_claims: 3
+  - node_id: be99e640-236f-4613-9b0a-393419a52b63
+    title: DJI Mini 3 Pro
+    node_type: object
+    slug: dji-mini-3-pro
+    shared_claims: 1
   - node_id: 4eefef8a-edab-4269-8859-10e28ce598d5
     title: Joanna Rix
+    node_type: person
     slug: joanna-rix
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:28137-28227
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 96e034c7-6cb5-4410-8aa9-2e59f37dd328
-  claim_hash: 4706a24db962a7f95ca873e75deba5f1bcf2c240a8e923b6431a13ce8744885d
-  content: Through Chris, Lois asked Kip Leyser how long he had been a professional
-    dancer.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Lois (relayed via Chris)
-    relay:
-    - Chris
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
+    shared_claims: 1
   - node_id: cb66c377-11dc-4ef7-9d53-6b058c982b46
     title: Kip Leyser
+    node_type: person
     slug: kip-leyser
-  date: null
-  date_end: null
-  location_in_record: ch31:28235-28273
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 31906c9e-b535-49df-8300-2f028d59f5e2
-  claim_hash: 6da65223927b7e03560496a7102fffe4aeff59546d997f7afb02d19496a5311c
-  content: Chris told the group that Lois had hitched a ride with them and eavesdropped
-    on their in-transit conversation to make sure they were not bringing "blasters"
-    to get rid of her.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Chris
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:28602-28760
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 8f18dad1-6c30-4d00-8e48-1f1be1fbfacd
-  claim_hash: 7f764353ce2d6cf885ed7a585d4daa4b1cc7d95c285af9e3c7249e184feb6601
-  content: Loyd Auerbach concluded that either Chris or Lois read the group's minds
-    while at the house, or that Lois was really present in the car with them, and
-    that telepathy by either would be a reasonable explanation.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: speaker
-    origin: Loyd Auerbach
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-    slug: loyd-auerbach
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-    title: telepathy
-    slug: telepathy
-  date: null
-  date_end: null
-  location_in_record: ch31:29086-29334
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 3b88733d-d6da-4bb0-b35e-c766072ca734
-  claim_hash: 849fcf7cbc7b420f9a4b5cf788d51f2232a4130588ab774d818bb0419b9a28ef
-  content: The elderly cousin verified as true the information about Lois's youth,
-    life, family, and house that Chris said Lois had provided.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: anonymous
-    origin: the elderly cousin who arranged the sale of the house
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-    slug: loyd-auerbach
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:29564-29723
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 6ea3e573-f570-4e06-9d02-c5ed66ec8120
-  claim_hash: 4092d6d477629cefcc62115c20c6ee82154cb58b56e82f18835a35a2b8ecadb6
-  content: Loyd Auerbach and his companions recorded the information Chris provided
-    from Lois on tape before any attempts were made to verify it.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: speaker
-    origin: Loyd Auerbach
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-    slug: loyd-auerbach
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:29734-29867
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 3dde9ae3-4d71-468b-a157-fbd5ca0408ff
-  claim_hash: 8bf8ca2ef641dd1f03b5a4a2981d58e0d8f5cf8e0d2668536cb0bb96f0943dd7
-  content: In a number of instances, as Loyd Auerbach began some of the family-related
-    anecdotes to the cousin, the cousin finished the stories in a manner corresponding
-    to the information Chris had given.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: speaker
-    origin: Loyd Auerbach
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-    slug: loyd-auerbach
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:30296-30468
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: a85671e2-fee0-457d-9542-b59a42bcb51a
-  claim_hash: 9bd619971bc1c803de4a55f617325b1f521a3402b8562be49df30d65ef946ab5
-  content: Pat conducted thorough checks to see if Chris had found diaries or other
-    papers Lois might have left behind, and none was ever found.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: named
-    origin: Pat
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
-    title: Pat
-    slug: pat
-  date: null
-  date_end: null
-  location_in_record: ch31:30472-30613
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: c64313e7-ee5e-4fc6-b542-7c3266df8aab
-  claim_hash: 3202a5b48f7cf1940c84b74c2c3268207f7e6c477404a7c2d12f72b4afb09e6d
-  content: Chris continued to see Lois on a daily basis for a while, but lost interest
-    as he grew up and discovered real girls.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:30621-30760
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: a8d9d24a-5759-46e8-8bef-6c737d69f8aa
-  claim_hash: 09282b0f2183813c139f1e3ff33685d4a3f3e7f963e8dc0dc06f13e00592e289
-  content: Loyd Auerbach was informed that Lois continued to help Chris with schoolwork
-    and offered advice about his girlfriends.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: anonymous
-    origin: an unnamed person who informed Loyd Auerbach
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-    slug: loyd-auerbach
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:30767-30874
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: f3f085e9-7fd0-4f27-a820-bd8c014d6ff1
-  claim_hash: ed4e9c81ca16601edd9001839539b1deef8ec19655ca1c5372d910140e53a307
-  content: Loyd Auerbach considers the verified information from the Lois case sufficient
-    to rule out normal sources of information.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: speaker
-    origin: Loyd Auerbach
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
-  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-    slug: loyd-auerbach
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:31230-31362
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: d6e9a6b3-8174-4ff2-9ce6-9e8874feed92
-  claim_hash: e7199ce6509c66e51723e9079285d1bcf0d310e354f7f84b389b2166b91bb54b
-  content: Loyd Auerbach considers it more likely, given corroborating witnesses to
-    Lois manifesting visually and Chris's lack of any other psychic perceptions, that
-    Lois was an interacting apparition rather than Chris being a super-psychic accessing
-    information through clairvoyance or retrocognition.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: speaker
-    origin: Loyd Auerbach
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    slug: lois
+    shared_claims: 1
   - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
     title: Precognition
+    node_type: topic
     slug: precognition
+    shared_claims: 1
   - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
     title: clairvoyance
+    node_type: topic
     slug: clairvoyance
-  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-    slug: loyd-auerbach
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: ch31:31549-31880
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: d45c9907-32b1-43ba-9dc9-d7daa5237c28
-  claim_hash: 4a96e3006f662dc03e6162a26906170b862ae2f04311397fd978e6fe7d1ffece
-  content: Loyd Auerbach observed that the family involved in the Lois case were well
-    adjusted, got along well with one another, and were without psychological issues
-    about the recurring apparition visits.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-  provenance_chain:
-    origin_kind: speaker
-    origin: Loyd Auerbach
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-    slug: loyd-auerbach
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
-    title: Pat
-    slug: pat
-  date: null
-  date_end: null
-  location_in_record: ch31:31890-32053
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 5936a2c1-b75c-4079-aaec-6db10615c9bc
-  claim_hash: 9a890cb431ae8a02e42ad215d531151e3f45436cbe4510416460e1022f77342e
-  content: Jesse DeLuca is from Quebec, Canada, and films wildlife with a drone and
-    cameras.
-  original_excerpt: jesse's also from quebec and he likes to go out there and film
-    sort of like wildlife with his drone or with his cameras and take a lot of photos
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chris
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a738ad53-c15b-4aa6-925f-2015c3166309
-    title: Jesse DeLuca
-    slug: jesse-deluca
-  - node_id: b3bc0649-58cb-4ada-a8af-9c42319ee829
-    title: Canada, Quebec
-    slug: quebec-canada
-  date: null
-  date_end: null
-  location_in_record: 00:02:12.9-00:02:21.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
-    record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
-    record_date: '2024-09-05'
-    record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
-    content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
-    friendly_name: null
-- claim_id: 40690d56-f3d8-440d-ad0e-5e3511036d8f
-  claim_hash: f35fc37b75d90da326ef5d56e2eee18ec121e4051b6ac6f17597f612397d4189
-  content: The DJI Mini 3 Pro footage of the May 2024 Quebec drone UAP encounter was
-    recorded in 4K resolution at 30 frames per second.
-  original_excerpt: oh great so this is 4k 4k 30 frames per second
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chris
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: be99e640-236f-4613-9b0a-393419a52b63
-    title: DJI Mini 3 Pro
-    slug: dji-mini-3-pro
-  - node_id: d41f1695-f15a-45c4-9b6c-62da03484381
-    title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP)
-      encounter
-    slug: jesse-delucas-2024-05-quebec-drone-unidentified-aerial-phenomena-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: 00:06:21.3-00:06:24.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
-    record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
-    record_date: '2024-09-05'
-    record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
-    content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
-    friendly_name: null
-- claim_id: 1755a0da-5106-42b5-8f06-4591a55d1de0
-  claim_hash: f4a2b4d2b483a500c02bf77b4f494bf71680f8b04de3f575083999d4b41b2b34
-  content: Chris considers the movement of the object in the May 2024 Quebec drone
-    UAP encounter, once down near the ground, to resemble an insect grazing or hanging
-    out rather than a bird's natural flight trajectory.
-  original_excerpt: there is a point where it looks like it's kind of grazing or it's
-    kind of like hanging out down there we don't really know what it's doing... To
-    me, it is moving around like an insect would.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chris
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  - node_id: d41f1695-f15a-45c4-9b6c-62da03484381
-    title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP)
-      encounter
-    slug: jesse-delucas-2024-05-quebec-drone-unidentified-aerial-phenomena-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: 00:12:19.6-00:12:30.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
-    record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
-    record_date: '2024-09-05'
-    record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
-    content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
-    friendly_name: null
-- claim_id: 7d8e1926-8a48-42de-bcaf-2d6be5df6846
-  claim_hash: 2a2b91fd13f183d077b2324e0fc739dbae33acb57c0c8feb09291aff037dfd46
-  content: In the May 2024 Quebec drone UAP encounter, the object travelled from about
-    400 to 500 metres away to right beside the drone within about two seconds.
-  original_excerpt: But this is you were you're a quarter mile away. And within two
-    seconds, It is right beside the drone.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chris
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  - node_id: d41f1695-f15a-45c4-9b6c-62da03484381
-    title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP)
-      encounter
-    slug: jesse-delucas-2024-05-quebec-drone-unidentified-aerial-phenomena-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: 00:13:07.5-00:13:18.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
-    record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
-    record_date: '2024-09-05'
-    record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
-    content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
-    friendly_name: null
-- claim_id: edebd5ab-af71-47d4-810f-666f8386b724
-  claim_hash: 1a8df6419e9f8ffcdc4303df586cfe594ed2826a91bec1798454c11ce154176c
-  content: At half playback speed, the object in the May 2024 Quebec drone UAP encounter
-    covers the field and shoots away in about four seconds.
-  original_excerpt: This is half speed right now. ... Half speed, you just saw it
-    in the field. And at half speed, it's about four seconds. ... It goes up and then
-    just shoots in a straight line.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chris
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  - node_id: d41f1695-f15a-45c4-9b6c-62da03484381
-    title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP)
-      encounter
-    slug: jesse-delucas-2024-05-quebec-drone-unidentified-aerial-phenomena-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: 00:13:39.4-00:13:57.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
-    record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
-    record_date: '2024-09-05'
-    record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
-    content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
-    friendly_name: null
-- claim_id: c986b731-64c8-49ab-8640-56c8900d72c4
-  claim_hash: d375c50838dc4a45a15d10cfb3ddd750fb55ba761a2bb593601475589b59807d
-  content: The DJI Mini 3 Pro drone does not record audio.
-  original_excerpt: no i mean the drone doesn't record sound right of course so no
-    there's no there's no audio unfortunately
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chris
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: be99e640-236f-4613-9b0a-393419a52b63
-    title: DJI Mini 3 Pro
-    slug: dji-mini-3-pro
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    slug: chris
-  date: null
-  date_end: null
-  location_in_record: 00:15:18.8-00:15:23.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
-    record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
-    record_date: '2024-09-05'
-    record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
-    content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
+    title: perceptual insertion
+    node_type: topic
+    slug: perceptual-insertion
+    shared_claims: 1
+  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+    title: telepathy
+    node_type: topic
+    slug: telepathy
+    shared_claims: 1
+  - node_id: ba0c3542-ce21-4be8-b13d-89820c11475f
+    title: trance mediumship
+    node_type: topic
+    slug: trance-mediumship
+    shared_claims: 1
+claims:
+  - claim_id: 013b02a6-cd44-4e35-89f5-a2a9382f3758
+    claim_hash: 059c9126b882bf597e2bf646f3bb09b60100c99a125589eafebd9364fc95f019
+    content: During this reading, Laura Lynne Jackson heard the name Chris and told her sitter, Paul, that someone by that
+      name was present.
+    original_excerpt: She heard the name Chris, and told her sitter, Paul, that someone by that name was present.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+      title: Laura Lynne Jackson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Laura Lynne Jackson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
+        title: Paul
+        slug: paul
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+      - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+        title: Laura Lynne Jackson
+        slug: laura-lynne-jackson
+    date: null
+    date_end: null
+    location_in_record: ch26:7254-7337
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: c1dbac5a-724a-4bcb-a259-d248f0b666b6
+    claim_hash: 3b10a2d499c1919f72ef7d11b355c591cd4d7633d3154def3f83f0755ca6437c
+    content: Laura Lynne Jackson was astonished by how specific and intimate the details coming from Chris were, mainly concerning
+      Paul's girlfriend rather than Paul himself, which confused her.
+    original_excerpt: She was astonished by how specific and intimate the details were, coming from Chris, mainly about Paul’s
+      girlfriend rather than Paul, which confused her even more.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+      title: Laura Lynne Jackson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Laura Lynne Jackson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
+        title: Paul
+        slug: paul
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+      - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+        title: Laura Lynne Jackson
+        slug: laura-lynne-jackson
+    date: null
+    date_end: null
+    location_in_record: ch26:7346-7504
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: e3ab2e1a-6425-42b7-b2da-c0e558d41899
+    claim_hash: e410047b8cc952291555564a994ff6afba3358850d422c3a1a32502687001829
+    content: Paul told Laura Lynne Jackson that all the details she had given were accurate, and that Chris was his girlfriend's
+      former boyfriend.
+    original_excerpt: Eventually, Paul told her that all the details were accurate, and that Chris was his girlfriend’s former
+      boyfriend.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
+      title: Paul
+    provenance_chain:
+      origin_kind: speaker
+      origin: Paul
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
+        title: Paul
+        slug: paul
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+      - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+        title: Laura Lynne Jackson
+        slug: laura-lynne-jackson
+    date: null
+    date_end: null
+    location_in_record: ch26:7510-7615
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 1a2960c0-514b-458d-bc45-16d8f2df76d1
+    claim_hash: e9a680e49019ea81d4237bda6512d040c045e7f854f63710c9178852b2489ebf
+    content: Paul's girlfriend had been in the car with Chris when it crashed, and Chris died in the crash.
+    original_excerpt: Paul’s girlfriend had been in the car with Chris when it crashed, and Chris died.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
+      title: Paul
+    provenance_chain:
+      origin_kind: named
+      origin: Paul
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
+        title: Paul
+        slug: paul
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch26:7626-7702
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 54108a60-55c9-458c-82d5-98dfffcca4f1
+    claim_hash: ead24a5978218f5a498c7863b9d05f0066bf04c9e267ef764faefa2b5dd89015
+    content: According to the reading, Chris was giving Paul his blessing for the relationship with his ex-girlfriend.
+    original_excerpt: Chris was giving Paul his blessing for the relationship with his ex-girlfriend.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+      title: Laura Lynne Jackson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Laura Lynne Jackson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
+        title: Paul
+        slug: paul
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+      - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+        title: Laura Lynne Jackson
+        slug: laura-lynne-jackson
+    date: null
+    date_end: null
+    location_in_record: ch26:7708-7776
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: f4a6e774-86fe-449b-84f2-32193e4f179d
+    claim_hash: 473858deeb4806eb4cbd5d90f25fe6ed1dc259c0134a4e69572cdb557323dd9e
+    content: When Paul confirmed the accuracy of the reading, Laura Lynne Jackson felt a chill run through her body and felt
+      awe, questioning whether Chris was communicating from beyond and whether she was hearing a dead person as clearly as
+      if he were in her apartment.
+    original_excerpt: I felt a chill run through my body. What was Paul telling me? That Chris was coming to me from the beyond?
+      That I was hearing from a dead person as clearly as if he was right in my apartment? At that moment, I felt awe.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+      title: Laura Lynne Jackson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Laura Lynne Jackson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3342ec06-13b0-4fb7-beeb-2be2d9642c68
+        title: Paul
+        slug: paul
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+      - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+        title: Laura Lynne Jackson
+        slug: laura-lynne-jackson
+    date: null
+    date_end: null
+    location_in_record: ch26:8087-8302
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: e7c023ae-8ae4-4eaf-9612-f4ae8f1604b2
+    claim_hash: 6fa17bdb23cd41826af9cbdf1a736bdecea17dd68676ec78de83ea4163fb9330
+    content: Chris told Loyd Auerbach that he had been seeing the apparition Lois almost every day for more than a year and
+      a half since he first waved back at her.
+    original_excerpt: Chris, on the other hand, told me himself that he had been seeing her almost every day for more than
+      a year and a half, since that first time he waved back at her.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Chris
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+        title: Loyd Auerbach
+        slug: loyd-auerbach
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:20995-21154
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 4f5cbc72-0cb5-47d5-8868-630d60bf06d0
+    claim_hash: 38a164c0eb0663a7bf6336b3f926b312892761130847365ec05c1a03e06a7cd5
+    content: According to Chris, the apparition Lois did not always appear as an old woman, but shifted her appearance to
+      look like a teenager, a six-year-old, a woman in her thirties, and sometimes middle-aged.
+    original_excerpt: She often shifted her appearance, looking like a teenager, a six-year-old, a woman in her thirties,
+      and sometimes middle-aged.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Chris
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:21212-21333
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: fc845ca0-4d78-44a7-abb3-4cf8c673c541
+    claim_hash: b70b8956b8fa8d2ea0fe483eeef02badebbe0d64763547dd57b13a0ce2070e98
+    content: Chris told Loyd Auerbach that Lois's clothing changed all the time.
+    original_excerpt: When I asked him about her clothes, Chris said they changed all the time.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Chris
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:21339-21407
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: dd6dfc50-cbb4-46ed-b108-acc7af51fa41
+    claim_hash: 31f91c845149a7429f1ada60f55067a41a2ba03a3f837801b305f1116491da27
+    content: Chris, a twelve-year-old boy, related history of Lois, her family, and the house, which he said he learned from
+      Lois.
+    original_excerpt: We finished the tour, which included hearing some history of Lois, her family, and the house, which
+      Chris learned from Lois. For a twelve-year-old, Chris was an articulate purveyor of anecdote.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Chris
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:21813-21997
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 99a7177d-03e1-496f-9b5c-eaafa4adc6c2
+    claim_hash: 77282ba377dd8145960810f9a869d848b69d6f6adefd34ff97de34fd33e84691
+    content: Chris (relaying Lois) included stories about Lois's family and activities that took place outside the home, beyond
+      what could be explained by psychometric perception of the house alone.
+    original_excerpt: However, Chris (really Lois, through Chris) was including some stories about Lois’s family and activities
+      that took place outside the home.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: speaker
+      origin: Loyd Auerbach
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+      - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
+        title: Pat
+        slug: pat
+    date: null
+    date_end: null
+    location_in_record: ch31:22432-22566
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: d1581fa0-3ace-4a62-b1e6-5953f95997f6
+    claim_hash: 41e25ae3004ee6f8e714da7a0186efd2e89fb588ca551cc06acf898b1378c0e7
+    content: Pat considered whether Chris had found and memorised diaries that could account for his stories about Lois, but
+      could not imagine how that was possible.
+    original_excerpt: Pat had considered whether Chris had found and memorized diaries that would have provided such stories,
+      but she could not imagine how that was possible.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Pat
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+      - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
+        title: Pat
+        slug: pat
+    date: null
+    date_end: null
+    location_in_record: ch31:22572-22715
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 8b45fee1-b5dd-4bb8-8a3d-265a0356467d
+    claim_hash: c4a35a430b3f9ccf4a652f4bd94b8e4deffccc1ebd3818839369b1520a7a78fa
+    content: According to Chris, the apparition Lois communicated with him on a daily basis and was by his side the entire
+      time the group toured the house.
+    original_excerpt: According to Chris, the communications were on a daily basis, and she was by his side the whole time
+      we toured the house.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Chris
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:22884-22999
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 72663252-1415-4f2f-97f7-e1d422aca530
+    claim_hash: b7ac94dfd58a58b80a4ea8f41ca2bc13823c8ea3c4e7b3522091adbd7c612c57
+    content: During the visit, the group sat in a semicircle facing Chris, who was seated next to an empty easy chair he identified
+      as Lois's favourite spot to sit, in order to ask Lois questions.
+    original_excerpt: We ended up in the living room and sat down in a semicircle facing Chris, to ask Lois some questions.
+      Chris was seated next to an empty easy chair he identified as Lois’s favorite spot to sit.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: speaker
+      origin: Loyd Auerbach
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+        title: Loyd Auerbach
+        slug: loyd-auerbach
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:23114-23302
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: f24589ca-6540-46fb-bc2a-70ae3b1ed140
+    claim_hash: 677c35846909836ad187ae41b6d8602831e133b95b44a2652478603a96094edd
+    content: Chris functioned as a medium during the sitting, translating answers from Lois, though he was not in any kind
+      of trance state.
+    original_excerpt: In essence, he was functioning as a medium, even though most mental mediumistic interactions with ostensible
+      deceased spirits do not involve extensive, clear, two-way conversations like this one (and Chris was not in any kind
+      of trance state).
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: speaker
+      origin: Loyd Auerbach
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: ba0c3542-ce21-4be8-b13d-89820c11475f
+        title: trance mediumship
+        slug: trance-mediumship
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:23611-23847
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b3a2b9a9-434f-40df-9347-948b10d64a37
+    claim_hash: 269d1768ef188ff192212d32925c99192e7f5451e486775a29f35c562daf5153
+    content: According to Lois (relayed through Chris), a cousin who was executor of Lois's estate had an attorney who blocked
+      Pat from any personal contact.
+    original_excerpt: Joanna and Kip asked questions more related to Lois when she was alive, including any information on
+      the cousin who was executor of the estate, and whose attorney had blocked Pat from any personal contact.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Lois (relayed via Chris)
+      relay:
+        - Chris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+      - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
+        title: Pat
+        slug: pat
+    date: null
+    date_end: null
+    location_in_record: ch31:23856-24053
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 5b1094ac-c312-4119-99ea-3c21795f3173
+    claim_hash: 4d572e2b87b89b1ab13abc271a56d4aa2814fd5eb036614cebaf7bff2e8c4973
+    content: According to Lois (relayed through Chris), she had been a local social butterfly who often hosted parties at
+      her home throughout her life.
+    original_excerpt: More and more information came out about Lois, giving us the picture that she was a local social butterfly,
+      often hosting parties at her home throughout her life.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Lois (relayed via Chris)
+      relay:
+        - Chris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:24270-24427
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 62af5e8e-d8e4-46c0-94ff-962bd2c5a682
+    claim_hash: 3710b94bb71db1b6df9ec4a7639f26948be4f6da43da14b95b8c37583e6c351c
+    content: According to Lois (relayed through Chris), most of her relatives had died, but she thought one or two might still
+      be alive besides the cousin responsible for selling the house.
+    original_excerpt: Most of her relatives had died, but she thought there might be one or two still alive besides the cousin
+      who was responsible for selling the house.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Lois (relayed via Chris)
+      relay:
+        - Chris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:24433-24574
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: faa1a217-9302-4a28-9757-103ed68c9eb7
+    claim_hash: 4023bbb62252cd5b531301c9cdc0146af3846e186825daa5dede544342793d55
+    content: Through Chris, Lois said she believed she did not have a physical form, but was some kind of "ball of energy"
+      able to communicate by projecting her thoughts to others.
+    original_excerpt: Through Chris, Lois said she believed she did not have a “form.” She believed she was some kind of “ball
+      of energy” that was able to communicate by “projecting her thoughts” to others.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Lois (relayed via Chris)
+      relay:
+        - Chris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:24840-25017
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b2e7a555-8ce4-4255-af3f-55e95f68630a
+    claim_hash: f4db74b3ba2dc136e387d95a2c19d2ab1509919060f36795503fab8c15e0d2c2
+    content: Through Chris, Lois said her projected thoughts included visual and verbal information that she would project
+      into the minds of others so they would see and hear her as if she were really there.
+    original_excerpt: These thoughts included visual and verbal information that she would “project into the minds of others”
+      so they would “see” and “hear” her as if she were really there.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Lois (relayed via Chris)
+      relay:
+        - Chris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:25025-25186
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: f9931998-42d9-430b-8538-8f733d00435e
+    claim_hash: 9e9bc3d4cefdf2e7ce78d0aafc2a3b192cdbfab8696abe030d44d3a18597f290
+    content: 'Loyd Auerbach considers the perceptual insertion explanation of apparitions to make sense: that Lois was aware
+      she was telling Chris''s mind what to perceive, rather than being visually or aurally seen or heard directly.'
+    original_excerpt: To me, this explanation made much sense. It meant that Lois was aware that she was literally telling
+      Chris’s mind what to perceive. They were not really, visually, seeing or hearing Lois.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: speaker
+      origin: Loyd Auerbach
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
+        title: perceptual insertion
+        slug: perceptual-insertion
+      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+        title: Loyd Auerbach
+        slug: loyd-auerbach
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:25338-25520
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a99b0b80-ccc7-4354-9938-69ee9bdb544e
+    claim_hash: 0fdb6972cff7daac3ba6d0929a95bef50aecbfc5d4765d705a7e9e3234b8aa90
+    content: Through Chris, Lois said she appeared in different forms and clothing because that was how she felt that day.
+    original_excerpt: “Because that’s how she felt that day,” he replied.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Lois (relayed via Chris)
+      relay:
+        - Chris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:26120-26162
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 502bbe96-29fb-4764-a65c-21aa23d9838c
+    claim_hash: 5e3e1d9cd1b0b4caaea7616b10a2d79c5059c3c1af2aea0898ea2dde3b0d31a1
+    content: Through Chris, Lois declined to appear visually to the group during the sitting, saying she still did not quite
+      trust them.
+    original_excerpt: Lois declined to appear to us (she still didn’t quite trust us, she said), and admitted she wasn’t even
+      sure she really could, telling us that the family seeing her might have to do with their current attachment to the house
+      and how psychic they were.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Lois (relayed via Chris)
+      relay:
+        - Chris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:26466-26712
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 7a6a6c1c-63d7-4038-84f0-0ce7b4d976a9
+    claim_hash: fce5802c315e73c4905058c102d2275a3931609aac25fe68df50b5ef41f4cca3
+    content: According to Chris's mother, Chris had never read anything on ghosts, making his description of an apparition's
+      nature unexpected from a twelve-year-old boy.
+    original_excerpt: This description was not something I expected from a twelve-year-old boy who, according to his mother,
+      had never read anything on ghosts.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: anonymous
+      origin: Chris's mother
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:27001-27131
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 5f5ea822-572d-409d-9ee4-3763ac6962c3
+    claim_hash: 00d6556c29d633a64b517bc6c95ca5079729d16875a2178979f15d200c87920c
+    content: Through Chris, Lois said she was still at her old house because she had done much socialising and partying in
+      her life and had not been an avid churchgoer, and worried that too much partying and not enough church might see her
+      go to hell.
+    original_excerpt: The answer was that she had done much socializing, had many parties in her life, and hadn’t been an
+      avid churchgoer. A believer in heaven and hell, she thought too much partying and not enough church might see her to
+      hell, so she figured, why take a chance?
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Lois (relayed via Chris)
+      relay:
+        - Chris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:27228-27478
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 5538267f-540b-4de7-babe-caf1c5c78095
+    claim_hash: 1a6cd9269e32f8cde251a12b9f3e6de28685ee461c6fe4941494588e3906505c
+    content: Through Chris, Lois said that from her deathbed in the hospital she focused on being back at home, felt herself
+      slipping away, and then found herself in the house.
+    original_excerpt: From her deathbed in the hospital, she focused on being back at home. She felt herself slipping away
+      and the next thing she knew, she was in the house.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Lois (relayed via Chris)
+      relay:
+        - Chris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:27486-27631
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 59a46a9c-70b1-4b21-8a39-1b09cf0726f1
+    claim_hash: f07fc6176e6c7429097c477425c33a5ecfe2909d85ceb29f99ee272f9032b5fb
+    content: Through Chris, Lois said she did not see "the light" and knew nothing of what was ultimately the afterlife.
+    original_excerpt: In case you’re wondering, she did not see “the light” and knew nothing of what was ultimately the afterlife.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Lois (relayed via Chris)
+      relay:
+        - Chris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:27638-27736
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a254ccdd-da67-4cd3-be3a-1b79d017782f
+    claim_hash: 5c3690b33fffcc4e972dd0f7f09031815f79cab957a5cc911fb5bf5d4f44de20
+    content: Through Chris, Lois said that when the new family moved into the house she had further reason to stay, since
+      she liked them and felt very happy with them, especially Chris.
+    original_excerpt: When the family moved in, she had further reason to stay—she liked the new family and felt very happy
+      with them, especially Chris.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Lois (relayed via Chris)
+      relay:
+        - Chris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:27747-27871
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 0e03f6ec-0f9d-45b7-96f5-ead9dae59fcb
+    claim_hash: 0cfd169814c8385da7b59a023a227ae97fe0ef491c62899ccf061746c24ef8c9
+    content: Through Chris, Lois asked Loyd Auerbach if he had decided on a colour for the new car he wanted to buy.
+    original_excerpt: “Loyd, she wants to know if you’ve decided on a color for that new car you want.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Lois (relayed via Chris)
+      relay:
+        - Chris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+        title: Loyd Auerbach
+        slug: loyd-auerbach
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:28055-28129
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 5989e1e6-fc87-4abc-9828-47f18aa71b67
+    claim_hash: 1ff59937f471919fb186b5aac8d47a84fc698505ef2586b54bee4cfdee15e4b8
+    content: Through Chris, Lois asked Joanna Rix whether she had really thought about the kind of job she wanted after quitting
+      her current one.
+    original_excerpt: “Joanna, have you really thought about the kind of job you want after you quit the one you have?
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Lois (relayed via Chris)
+      relay:
+        - Chris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: 4eefef8a-edab-4269-8859-10e28ce598d5
+        title: Joanna Rix
+        slug: joanna-rix
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:28137-28227
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 96e034c7-6cb5-4410-8aa9-2e59f37dd328
+    claim_hash: 4706a24db962a7f95ca873e75deba5f1bcf2c240a8e923b6431a13ce8744885d
+    content: Through Chris, Lois asked Kip Leyser how long he had been a professional dancer.
+    original_excerpt: “Kip, how long were you a professional dancer?”
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Lois (relayed via Chris)
+      relay:
+        - Chris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+      - node_id: cb66c377-11dc-4ef7-9d53-6b058c982b46
+        title: Kip Leyser
+        slug: kip-leyser
+    date: null
+    date_end: null
+    location_in_record: ch31:28235-28273
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 31906c9e-b535-49df-8300-2f028d59f5e2
+    claim_hash: 6da65223927b7e03560496a7102fffe4aeff59546d997f7afb02d19496a5311c
+    content: Chris told the group that Lois had hitched a ride with them and eavesdropped on their in-transit conversation
+      to make sure they were not bringing "blasters" to get rid of her.
+    original_excerpt: “You’re probably not going to like this, but Lois wanted to make sure you weren’t bringing blasters
+      to get rid of her, so she hitched a ride with you here and eavesdropped.”
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Chris
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:28602-28760
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 8f18dad1-6c30-4d00-8e48-1f1be1fbfacd
+    claim_hash: 7f764353ce2d6cf885ed7a585d4daa4b1cc7d95c285af9e3c7249e184feb6601
+    content: Loyd Auerbach concluded that either Chris or Lois read the group's minds while at the house, or that Lois was
+      really present in the car with them, and that telepathy by either would be a reasonable explanation.
+    original_excerpt: We concluded that either Chris (or Lois) read our minds while we were there or that Lois somehow really
+      was present in the car with us. No matter what, telepathy by either Chris or Lois would have been enough to explain
+      this and seems a reasonable interpretation.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: speaker
+      origin: Loyd Auerbach
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+        title: Loyd Auerbach
+        slug: loyd-auerbach
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+      - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+        title: telepathy
+        slug: telepathy
+    date: null
+    date_end: null
+    location_in_record: ch31:29086-29334
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 3b88733d-d6da-4bb0-b35e-c766072ca734
+    claim_hash: 849fcf7cbc7b420f9a4b5cf788d51f2232a4130588ab774d818bb0419b9a28ef
+    content: The elderly cousin verified as true the information about Lois's youth, life, family, and house that Chris said
+      Lois had provided.
+    original_excerpt: I spoke with him, and he verified the information about Lois’s youth and life as true, as well as facts
+      about the family and Lois’s house that Chris said Lois provided.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: anonymous
+      origin: the elderly cousin who arranged the sale of the house
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+        title: Loyd Auerbach
+        slug: loyd-auerbach
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:29564-29723
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 6ea3e573-f570-4e06-9d02-c5ed66ec8120
+    claim_hash: 4092d6d477629cefcc62115c20c6ee82154cb58b56e82f18835a35a2b8ecadb6
+    content: Loyd Auerbach and his companions recorded the information Chris provided from Lois on tape before any attempts
+      were made to verify it.
+    original_excerpt: We had a tape of the information Chris provided from Lois, recorded when we were present before any
+      attempts were made to verify the information.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: speaker
+      origin: Loyd Auerbach
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+        title: Loyd Auerbach
+        slug: loyd-auerbach
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:29734-29867
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 3dde9ae3-4d71-468b-a157-fbd5ca0408ff
+    claim_hash: 8bf8ca2ef641dd1f03b5a4a2981d58e0d8f5cf8e0d2668536cb0bb96f0943dd7
+    content: In a number of instances, as Loyd Auerbach began some of the family-related anecdotes to the cousin, the cousin
+      finished the stories in a manner corresponding to the information Chris had given.
+    original_excerpt: In a number of instances, as I began some of the family-related anecdotes, he finished the stories for
+      me, in a manner that corresponded to the information Chris had given me.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: speaker
+      origin: Loyd Auerbach
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+        title: Loyd Auerbach
+        slug: loyd-auerbach
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:30296-30468
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a85671e2-fee0-457d-9542-b59a42bcb51a
+    claim_hash: 9bd619971bc1c803de4a55f617325b1f521a3402b8562be49df30d65ef946ab5
+    content: Pat conducted thorough checks to see if Chris had found diaries or other papers Lois might have left behind,
+      and none was ever found.
+    original_excerpt: Pat conducted even more thorough checks to see if Chris had somehow found diaries or other papers Lois
+      might have left behind. None was ever found.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: named
+      origin: Pat
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+      - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
+        title: Pat
+        slug: pat
+    date: null
+    date_end: null
+    location_in_record: ch31:30472-30613
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: c64313e7-ee5e-4fc6-b542-7c3266df8aab
+    claim_hash: 3202a5b48f7cf1940c84b74c2c3268207f7e6c477404a7c2d12f72b4afb09e6d
+    content: Chris continued to see Lois on a daily basis for a while, but lost interest as he grew up and discovered real
+      girls.
+    original_excerpt: Chris continued to see Lois on a daily basis for a while, but then lost interest as he grew up and discovered
+      (and was discovered by) real girls.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:30621-30760
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a8d9d24a-5759-46e8-8bef-6c737d69f8aa
+    claim_hash: 09282b0f2183813c139f1e3ff33685d4a3f3e7f963e8dc0dc06f13e00592e289
+    content: Loyd Auerbach was informed that Lois continued to help Chris with schoolwork and offered advice about his girlfriends.
+    original_excerpt: However, I was informed that Lois continued to help him with schoolwork, and even offered advice about
+      his girlfriends.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed person who informed Loyd Auerbach
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+        title: Loyd Auerbach
+        slug: loyd-auerbach
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:30767-30874
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: f3f085e9-7fd0-4f27-a820-bd8c014d6ff1
+    claim_hash: ed4e9c81ca16601edd9001839539b1deef8ec19655ca1c5372d910140e53a307
+    content: Loyd Auerbach considers the verified information from the Lois case sufficient to rule out normal sources of
+      information.
+    original_excerpt: First, the verified information was enough under the circumstances to convince me that normal sources
+      of information could be ruled out.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: speaker
+      origin: Loyd Auerbach
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+        title: Loyd Auerbach
+        slug: loyd-auerbach
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:31230-31362
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: d6e9a6b3-8174-4ff2-9ce6-9e8874feed92
+    claim_hash: e7199ce6509c66e51723e9079285d1bcf0d310e354f7f84b389b2166b91bb54b
+    content: Loyd Auerbach considers it more likely, given corroborating witnesses to Lois manifesting visually and Chris's
+      lack of any other psychic perceptions, that Lois was an interacting apparition rather than Chris being a super-psychic
+      accessing information through clairvoyance or retrocognition.
+    original_excerpt: But since there were other witnesses to Lois actually manifesting visually, a heavier emphasis can legitimately
+      be placed on the former possibility rather than the latter. Add to that Chris’s utter lack of any other psychic perceptions
+      or experiences, and I think we’re left with a likely apparition as opposed to a one-note super-psychic.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: speaker
+      origin: Loyd Auerbach
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+        title: Precognition
+        slug: precognition
+      - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+        title: clairvoyance
+        slug: clairvoyance
+      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+        title: Loyd Auerbach
+        slug: loyd-auerbach
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:31549-31880
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: d45c9907-32b1-43ba-9dc9-d7daa5237c28
+    claim_hash: 4a96e3006f662dc03e6162a26906170b862ae2f04311397fd978e6fe7d1ffece
+    content: Loyd Auerbach observed that the family involved in the Lois case were well adjusted, got along well with one
+      another, and were without psychological issues about the recurring apparition visits.
+    original_excerpt: The family members were well adjusted, got along well with one another, and were seemingly without psychological
+      issues about the unusual recurring visits by this apparition.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: speaker
+      origin: Loyd Auerbach
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+        title: Loyd Auerbach
+        slug: loyd-auerbach
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+      - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
+        title: Pat
+        slug: pat
+    date: null
+    date_end: null
+    location_in_record: ch31:31890-32053
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 5936a2c1-b75c-4079-aaec-6db10615c9bc
+    claim_hash: 9a890cb431ae8a02e42ad215d531151e3f45436cbe4510416460e1022f77342e
+    content: Jesse DeLuca is from Quebec, Canada, and films wildlife with a drone and cameras.
+    original_excerpt: jesse's also from quebec and he likes to go out there and film sort of like wildlife with his drone
+      or with his cameras and take a lot of photos
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+      title: Chris
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a738ad53-c15b-4aa6-925f-2015c3166309
+        title: Jesse DeLuca
+        slug: jesse-deluca
+      - node_id: b3bc0649-58cb-4ada-a8af-9c42319ee829
+        title: Canada, Quebec
+        slug: quebec-canada
+    date: null
+    date_end: null
+    location_in_record: 00:02:12.9-00:02:21.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
+      record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
+      record_date: '2024-09-05'
+      record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
+      content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
+      friendly_name: null
+  - claim_id: 40690d56-f3d8-440d-ad0e-5e3511036d8f
+    claim_hash: f35fc37b75d90da326ef5d56e2eee18ec121e4051b6ac6f17597f612397d4189
+    content: The DJI Mini 3 Pro footage of the May 2024 Quebec drone UAP encounter was recorded in 4K resolution at 30 frames
+      per second.
+    original_excerpt: oh great so this is 4k 4k 30 frames per second
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+      title: Chris
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: be99e640-236f-4613-9b0a-393419a52b63
+        title: DJI Mini 3 Pro
+        slug: dji-mini-3-pro
+      - node_id: d41f1695-f15a-45c4-9b6c-62da03484381
+        title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP) encounter
+        slug: jesse-delucas-2024-05-quebec-drone-unidentified-aerial-phenomena-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: 00:06:21.3-00:06:24.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
+      record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
+      record_date: '2024-09-05'
+      record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
+      content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
+      friendly_name: null
+  - claim_id: 1755a0da-5106-42b5-8f06-4591a55d1de0
+    claim_hash: f4a2b4d2b483a500c02bf77b4f494bf71680f8b04de3f575083999d4b41b2b34
+    content: Chris considers the movement of the object in the May 2024 Quebec drone UAP encounter, once down near the ground,
+      to resemble an insect grazing or hanging out rather than a bird's natural flight trajectory.
+    original_excerpt: there is a point where it looks like it's kind of grazing or it's kind of like hanging out down there
+      we don't really know what it's doing... To me, it is moving around like an insect would.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+      title: Chris
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+      - node_id: d41f1695-f15a-45c4-9b6c-62da03484381
+        title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP) encounter
+        slug: jesse-delucas-2024-05-quebec-drone-unidentified-aerial-phenomena-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: 00:12:19.6-00:12:30.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
+      record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
+      record_date: '2024-09-05'
+      record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
+      content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
+      friendly_name: null
+  - claim_id: 7d8e1926-8a48-42de-bcaf-2d6be5df6846
+    claim_hash: 2a2b91fd13f183d077b2324e0fc739dbae33acb57c0c8feb09291aff037dfd46
+    content: In the May 2024 Quebec drone UAP encounter, the object travelled from about 400 to 500 metres away to right beside
+      the drone within about two seconds.
+    original_excerpt: But this is you were you're a quarter mile away. And within two seconds, It is right beside the drone.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+      title: Chris
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+      - node_id: d41f1695-f15a-45c4-9b6c-62da03484381
+        title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP) encounter
+        slug: jesse-delucas-2024-05-quebec-drone-unidentified-aerial-phenomena-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: 00:13:07.5-00:13:18.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
+      record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
+      record_date: '2024-09-05'
+      record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
+      content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
+      friendly_name: null
+  - claim_id: edebd5ab-af71-47d4-810f-666f8386b724
+    claim_hash: 1a8df6419e9f8ffcdc4303df586cfe594ed2826a91bec1798454c11ce154176c
+    content: At half playback speed, the object in the May 2024 Quebec drone UAP encounter covers the field and shoots away
+      in about four seconds.
+    original_excerpt: This is half speed right now. ... Half speed, you just saw it in the field. And at half speed, it's
+      about four seconds. ... It goes up and then just shoots in a straight line.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+      title: Chris
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+      - node_id: d41f1695-f15a-45c4-9b6c-62da03484381
+        title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP) encounter
+        slug: jesse-delucas-2024-05-quebec-drone-unidentified-aerial-phenomena-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: 00:13:39.4-00:13:57.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
+      record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
+      record_date: '2024-09-05'
+      record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
+      content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
+      friendly_name: null
+  - claim_id: c986b731-64c8-49ab-8640-56c8900d72c4
+    claim_hash: d375c50838dc4a45a15d10cfb3ddd750fb55ba761a2bb593601475589b59807d
+    content: The DJI Mini 3 Pro drone does not record audio.
+    original_excerpt: no i mean the drone doesn't record sound right of course so no there's no there's no audio unfortunately
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+      title: Chris
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: be99e640-236f-4613-9b0a-393419a52b63
+        title: DJI Mini 3 Pro
+        slug: dji-mini-3-pro
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: 00:15:18.8-00:15:23.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
+      record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
+      record_date: '2024-09-05'
+      record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
+      content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
+      friendly_name: null

@@ -1,2157 +1,2335 @@
 schema: anomalica/brief/1
-brief_hash: fa94244fc72da2a4d9827b17220006549c7d96d4cb775e3aad95154f72717b5f
+brief_hash: 66743dcb819e4c970d9e3d9e70a02fb7aa7d1482aeefd39a32ab45fc86c0ad2a
 page:
   kind: entity
   node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
   node_type: event
   title: World War II
   slug: world-war-ii
-  claim_count: 50
-  claim_count_total: 50
+  claim_count: 54
+  claim_count_total: 54
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 54
+  tokens_estimated: 16823
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 54
 related_nodes:
-- node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
-  title: Germany
-  node_type: place
-  slug: germany
-  shared_claims: 5
-- node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
-  title: Jacinta Marto
-  node_type: person
-  slug: jacinta-marto
-  shared_claims: 4
-- node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
-  title: Lúcia (Fatima seer)
-  node_type: person
-  slug: lucia-fatima-seer
-  shared_claims: 4
-- node_id: 60e50716-fa79-45d6-991c-49d084ff4183
-  title: Second Secret of Fatima
-  node_type: document
-  slug: second-secret-of-fatima
-  shared_claims: 4
-- node_id: f52851d1-6388-4961-b21d-d5ef7454c950
-  title: Communism
-  node_type: topic
-  slug: communism
-  shared_claims: 3
-- node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-  title: France
-  node_type: place
-  slug: france
-  shared_claims: 3
-- node_id: db1308aa-6589-47e7-a7d9-a8f32e30d850
-  title: Great Britain
-  node_type: place
-  slug: great-britain
-  shared_claims: 3
-- node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-  title: Michael Hesemann
-  node_type: person
-  slug: michael-hesemann
-  shared_claims: 3
-- node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
-  title: Office of Strategic Services (OSS)
-  node_type: organisation
-  slug: office-of-strategic-services-oss
-  shared_claims: 3
-- node_id: 234f3b6a-653c-4f00-936a-a4b58fad4d9a
-  title: 1938 aurora event
-  node_type: event
-  slug: 1938-aurora-event
-  shared_claims: 2
-- node_id: dea35210-38f0-4797-8438-84a5a9f42661
-  title: Allen Dulles
-  node_type: person
-  slug: allen-dulles
-  shared_claims: 2
-- node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
-  title: Fatima apparitions (1917)
-  node_type: event
-  slug: fatima-apparitions-1917
-  shared_claims: 2
-- node_id: 380c9103-7810-4d02-a45f-031ec0f0a59a
-  title: Germany, Berlin
-  node_type: place
-  slug: berlin-germany
-  shared_claims: 2
-- node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-  title: Jason Samosa
-  node_type: person
-  slug: jason-samosa
-  shared_claims: 2
-- node_id: fa727cfc-9b1c-4743-b176-76256cc02fa4
-  title: Maison Rouge meeting
-  node_type: event
-  slug: maison-rouge-meeting
-  shared_claims: 2
-- node_id: ea3e7b89-6994-43a0-9d5c-a95036c69a23
-  title: Pius XI
-  node_type: person
-  slug: pius-xi
-  shared_claims: 2
-- node_id: 79277187-1caf-4840-a135-5819bc771321
-  title: Portugal, Fatima, Cova da Iria
-  node_type: place
-  slug: fatima-cova-da-iria-portugal
-  shared_claims: 2
-- node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
-  title: Spanish Civil War
-  node_type: event
-  slug: spanish-civil-war
-  shared_claims: 2
-- node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
-  title: Third Secret of Fatima
-  node_type: document
-  slug: third-secret-of-fatima
-  shared_claims: 2
-- node_id: 1bb7c7bf-2b76-49c9-a3de-cbd4be00910c
-  title: USA, Czech Republic, Pilsen
-  node_type: place
-  slug: czech-republic-pilsen-usa
-  shared_claims: 2
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 2
-- node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-  title: crash retrieval and reverse engineering
-  node_type: topic
-  slug: crash-retrieval-and-reverse-engineering
-  shared_claims: 2
-- node_id: 60dcc104-e9bd-4292-95fe-2584aa68ce44
-  title: Act of Consecration of Russia and the World to the Immaculate Heart of Mary
-    (1984-03-25)
-  node_type: event
-  slug: act-of-consecration-of-russia-and-the-world-to-the-immaculate-heart-of-mary-1984-03-25
-  shared_claims: 1
-- node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
-  title: Anti-Gravity Propulsion
-  node_type: topic
-  slug: anti-gravity-propulsion
-  shared_claims: 1
-- node_id: 7afe3a5e-5d91-4a48-b48f-3c8c079f2521
-  title: Austria
-  node_type: place
-  slug: austria
-  shared_claims: 1
-- node_id: 9909a3a9-aa87-44f5-a762-31d1d802ceb9
-  title: Battle of Stalingrad (1942-12-08 to 1943-02-02)
-  node_type: event
-  slug: battle-of-stalingrad-1942-12-08-to-1943-02-02
-  shared_claims: 1
-- node_id: 77cc9b26-f63f-41c7-9b05-737616bcfed9
-  title: Benedict XV
-  node_type: person
-  slug: benedict-xv
-  shared_claims: 1
-- node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-  title: Bill Clinton
-  node_type: person
-  slug: bill-clinton
-  shared_claims: 1
-- node_id: 9226fab8-c0ef-4729-a71f-7dbf03ad72d3
-  title: Britain and France declaration of war on Germany (1939-09-03)
-  node_type: event
-  slug: britain-and-france-declaration-of-war-on-germany-1939-09-03
-  shared_claims: 1
-- node_id: 886d13f0-bdfe-443d-b92c-9fbe1114b477
-  title: British Security Co-ordination (BSC)
-  node_type: organisation
-  slug: british-security-co-ordination-bsc
-  shared_claims: 1
-claims:
-- claim_id: 1e783aee-332f-43d1-b9fd-1c6a41087928
-  claim_hash: df435989de1217f1e8a0bf877bc1dfd3c94da0eef4778cd18ca1aa747a6284fb
-  content: During the Third apparition of Our Lady of Fatima, the Lady asked the children
-    to return to the Cova da Iria on the thirteenth of the following month, to continue
-    praying the rosary every day, to bring peace to the world and end World War I.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+  - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
+    title: Germany
+    node_type: place
+    slug: germany
+    shared_claims: 5
+  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+    title: Jacinta Marto
+    node_type: person
+    slug: jacinta-marto
+    shared_claims: 4
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
     title: Lúcia (Fatima seer)
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lúcia (Fatima seer)
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 79277187-1caf-4840-a135-5819bc771321
-    title: Portugal, Fatima, Cova da Iria
-    slug: fatima-cova-da-iria-portugal
-  - node_id: 912ba4ce-83e0-4026-8832-15dec8956ec0
-    title: Third apparition of Our Lady of Fatima (1917-07-13)
-    slug: third-apparition-of-our-lady-of-fatima-1917-07-13
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: '1917-07-13'
-  date_end: null
-  location_in_record: ch10:4586-4735
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: a5c1df52-01f0-4bcd-bdc9-06883e1c3b72
-  claim_hash: 00364b6998b868911d4c6431316166d0b69db4a413962352547256725c1fbcd7
-  content: In the Second Secret of Fatima, the Lady said World War I would end, but
-    if people did not stop offending God, another, even more terrible war would begin
-    during the reign of Pius XI.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: the Lady (as reported by Lúcia)
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    node_type: person
+    slug: lucia-fatima-seer
+    shared_claims: 4
   - node_id: 60e50716-fa79-45d6-991c-49d084ff4183
     title: Second Secret of Fatima
+    node_type: document
     slug: second-secret-of-fatima
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  - node_id: ea3e7b89-6994-43a0-9d5c-a95036c69a23
-    title: Pius XI
-    slug: pius-xi
-  date: '1917-07-13'
-  date_end: null
-  location_in_record: ch10:6152-6281
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: e166b584-f125-4968-a39f-6905fb96b1a2
-  claim_hash: a6bbeb913292ba41333803384dbc3a35ba4eaa065b18fb612e32eeaa6af05227
-  content: The Third Secret of Fatima included revelations about disasters of the
-    twentieth century, including communist revolutions, the Spanish Civil War, Nazi
-    terror, World War II, the Cold War, the arms race, the nuclear threat, and the
-    spread of atheism.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Hesemann, Michael
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
-    title: Spanish Civil War
-    slug: spanish-civil-war
-  - node_id: 19a3601f-bc98-49bb-8d34-aa41b0e9f4bb
-    title: Cold War
-    slug: cold-war
-  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
-    title: Third Secret of Fatima
-    slug: third-secret-of-fatima
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
+    shared_claims: 4
   - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
     title: Communism
+    node_type: topic
     slug: communism
-  date: null
-  date_end: null
-  location_in_record: ch10:8768-9065
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 3c5d0985-6e7d-47d8-b334-f312e7ad4b4a
-  claim_hash: 49fe383f73697ac2b3815619d6d39afd63d0057ab959fa65c568cc44fa8d2baa
-  content: Pilgrims at Portugal, Fatima, Cova da Iria in September 1917 shouted requests
-    such as asking Our Lady to cure a crippled son, heal a blind child, and bring
-    a husband and son home alive from World War I.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narrator
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 79277187-1caf-4840-a135-5819bc771321
-    title: Portugal, Fatima, Cova da Iria
-    slug: fatima-cova-da-iria-portugal
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: 1917-09
-  date_end: null
-  location_in_record: ch11:3340-3576
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 093d2c40-ba99-4e89-907c-4552647a2e0d
-  claim_hash: 54fd2bc9ffe13b5a2dad6d20ba32053a35ca3d592dd7ef0f544b91c9cb97b781
-  content: During the Fifth apparition of Our Lady of Fatima (1917-09-13), the Lady
-    told the children to continue praying the rosary to end World War I.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
-    title: Lúcia (Fatima seer)
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lúcia (Fatima seer)
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 8d83ccfd-24f3-493c-9f08-2365e9bbfd80
-    title: Fifth apparition of Our Lady of Fatima (1917-09-13)
-    slug: fifth-apparition-of-our-lady-of-fatima-1917-09-13
-  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
-    title: Lúcia (Fatima seer)
-    slug: lucia-fatima-seer
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: '1917-09-13'
-  date_end: null
-  location_in_record: ch11:4565-4729
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 73d5086d-7390-4c12-949b-2977706a17d5
-  claim_hash: 67b4e2bd554e6bcc32e4db967930105944343530f6efedd33a7fc662d6f68663
-  content: Lúcia and Jacinta Marto told the crowd after the 1917-10-13 apparition
-    that the war would end that day and the soldiers would return shortly, though
-    the war did not in fact end until roughly a year later.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Lúcia (Fatima seer) and Jacinta Marto
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
-    title: Lúcia (Fatima seer)
-    slug: lucia-fatima-seer
-  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
-    title: Jacinta Marto
-    slug: jacinta-marto
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: '1917-10-13'
-  date_end: null
-  location_in_record: ch12:18170-18400
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 89ab5f13-fc5b-4ed0-85bb-19934b751353
-  claim_hash: b20496d9103f030d8cc6f0b4ed6c7743763bf0b6764fdc9d5d7342d492f92083
-  content: At the sixth apparition on 1917-10-13, Our Lady told Lúcia she wished a
-    chapel built in her honour at the Cova da Iria, identified herself as the Lady
-    of the Rosary, asked that the rosary continue to be prayed daily, and said the
-    war would end and the soldiers would return home.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
-    title: Lúcia (Fatima seer)
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lúcia (Fatima seer)
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
-    title: Lúcia (Fatima seer)
-    slug: lucia-fatima-seer
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: '1917-10-13'
-  date_end: null
-  location_in_record: ch12:6299-6498
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 7695ac36-fe1d-4cd8-9c17-b2eb66208d82
-  claim_hash: 6ea3db8b74bca4aea0748942f0614cdd5371e0eb84585ca771676104dbcb7e9f
-  content: Since World War I had just ended when Jacinta Marto spoke of a coming war,
-    her mother could not have known what she was talking about, but the Second World
-    War was on the horizon.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-    title: Michael Hesemann
-  provenance_chain:
-    origin_kind: speaker
-    origin: Hesemann, Michael
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
-    title: Jacinta Marto
-    slug: jacinta-marto
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: ch13:4626-4764
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 10d9cd0a-4f65-40b5-9f38-8ff17c0b6038
-  claim_hash: 4a3feb9a08e7cd86f484c1cd2466e0412460b28378fcab66e2759b54ed7113be
-  content: Michael Hesemann considers Jacinta Marto's prediction of a punishment beginning
-    in Spain to have predicted the Spanish Civil War, which started in 1936 and preceded
-    the Second World War.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-    title: Michael Hesemann
-  provenance_chain:
-    origin_kind: speaker
-    origin: Hesemann, Michael
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
-    title: Spanish Civil War
-    slug: spanish-civil-war
-  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
-    title: Jacinta Marto
-    slug: jacinta-marto
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: ch13:7728-7831
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: febd1d8e-e83c-4c18-9f17-806c37e60179
-  claim_hash: 9a28b9de81214aa8bc4b5673fb6dedc5f0483ccc967c3cd320cf54469a81e1b7
-  content: Jacinta Marto once mentioned terrible events that would happen around 1940,
-    which Michael Hesemann interprets as referring to the Second World War.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-    title: Michael Hesemann
-  provenance_chain:
-    origin_kind: speaker
-    origin: Hesemann, Michael
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
-    title: Jacinta Marto
-    slug: jacinta-marto
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: ch13:7836-7941
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: da89784a-a305-40be-9895-ce44283b97aa
-  claim_hash: 07b4b0aaabb6c5db48cb35b7c1ae99f9d79883d58a7ba21a204702e48b814ee8
-  content: World War II cost over fifty-five million people their lives.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: ch15:4035-4108
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 44e25b90-9fa4-4b2e-9733-7e06df045e6f
-  claim_hash: b4d4c40f422a438e0bd0f84ab19c4d053a5fc2f706c9a3f3b388100c57413400
-  content: On 1938-03-12, German troops crossed into Austria for the first time since
-    the end of World War I, in order to bring Austria back into the Reich.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 55a2ac06-b202-4f96-8370-6b42d6a96d49
-    title: German annexation of Austria (1938-03-12)
-    slug: german-annexation-of-austria-1938-03-12
-  - node_id: 7afe3a5e-5d91-4a48-b48f-3c8c079f2521
-    title: Austria
-    slug: austria
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: '1938-03-12'
-  date_end: null
-  location_in_record: ch15:4259-4417
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 3ece73e1-dfb4-42d2-9d5a-8a240bbca483
-  claim_hash: cc59a4ecbba0b615b71767d983bf5b836c663d7699b6534fca773e2f19534431
-  content: World War II began under the rule of Pius XI, exactly as prophesied at
-    Fatima.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
-    title: Fatima apparitions (1917)
-    slug: fatima-apparitions-1917
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  - node_id: ea3e7b89-6994-43a0-9d5c-a95036c69a23
-    title: Pius XI
-    slug: pius-xi
-  date: null
-  date_end: null
-  location_in_record: ch15:4515-4599
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 12ff0950-e2f8-416d-a5f7-0f5e2e5aef08
-  claim_hash: c01be8c0f82310bf7197ce3a4f9a147b58e602984699d511b625eddfa44dc39f
-  content: When Hitler ignored the ultimatum, Great Britain and France declared war
-    on Germany, officially beginning the Second World War.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
-    title: Germany
-    slug: germany
-  - node_id: 9226fab8-c0ef-4729-a71f-7dbf03ad72d3
-    title: Britain and France declaration of war on Germany (1939-09-03)
-    slug: britain-and-france-declaration-of-war-on-germany-1939-09-03
+    shared_claims: 3
   - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
     title: France
+    node_type: place
     slug: france
-  - node_id: db1308aa-6589-47e7-a7d9-a8f32e30d850
-    title: Great Britain
-    slug: great-britain
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: '1939-09-03'
-  date_end: null
-  location_in_record: ch15:6243-6348
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 4e2057cb-db5c-43af-b0be-48b2a11e17aa
-  claim_hash: bf56a58792d04ac335523111c30a43a5539377850a0b951fef3dad74f0c2ba34
-  content: Toward the end of 1942, the Second World War took a sudden and unexpected
-    turn, giving hope that the march of evil could be stopped.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: '1942'
-  date_end: null
-  location_in_record: ch15:9547-9678
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: ab6df9bd-c7b5-41ab-ba00-c4fab2031d63
-  claim_hash: b9cadbfc874dde5c6630e6ae0b6d5719ba07af5d0f7d924d09ca5d5f2871df73
-  content: On 1942-12-08, the day Pope Pius XII repeated the consecration, the Battle
-    of Stalingrad began, which ended the German march to the east and is considered
-    the turning point of World War II.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f9aa10e-8dfd-4ae9-a03f-750a51ef7dda
-    title: Pius XII repetition of the consecration (1942-12-08)
-    slug: pius-xii-repetition-of-the-consecration-1942-12-08
-  - node_id: 9909a3a9-aa87-44f5-a762-31d1d802ceb9
-    title: Battle of Stalingrad (1942-12-08 to 1943-02-02)
-    slug: battle-of-stalingrad-1942-12-08-to-1943-02-02
-  - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
-    title: Pius XII
-    slug: pius-xii
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: '1942-12-08'
-  date_end: null
-  location_in_record: ch15:9991-10184
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 95981954-fbb1-48b9-8b2d-60506b261261
-  claim_hash: 14bbfb83d2d8cafea82f04f0b2e2ac7e3782f822346d11f36f3fedb196e6a0f1
-  content: In 1941 Sister Lúcia wrote down the first two parts of the Fatima secret,
-    which related to the end of World War I, the rise of Russia, and the outbreak
-    of World War II.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
-    title: Lúcia (Fatima seer)
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lúcia (Fatima seer)
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 60e50716-fa79-45d6-991c-49d084ff4183
-    title: Second Secret of Fatima
-    slug: second-secret-of-fatima
-  - node_id: 8f62f81d-1cad-4f12-b268-fe1a4ceabd96
-    title: First Secret of Fatima
-    slug: first-secret-of-fatima
-  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
-    title: Lúcia (Fatima seer)
-    slug: lucia-fatima-seer
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: '1941'
-  date_end: null
-  location_in_record: ch16:340-489
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: d351c3d9-2926-48a6-9544-fbcae0e74068
-  claim_hash: e75f35f4d980328fbd7400329f7a762aa7218a537ca30717d4954ccf8ec281fe
-  content: Mrs. Emrich told Hans Bender that the visiting priest was a reader of European
-    News and had kept issues in which Louis Emrich had predicted the Second World
-    War.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 7e8f1051-0b50-49bd-a3bd-aa13db6e3820
-    title: Emrich (Mrs., widow of Louis Emrich)
-  provenance_chain:
-    origin_kind: named
-    origin: Emrich (Mrs., widow of Louis Emrich)
-    relay:
-    - Hans Bender's summary
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1fd5c28b-115a-4d35-8edd-26c7cca5f06a
-    title: European News
-    slug: european-news
-  - node_id: 688c96b1-566b-48fe-a7be-98d95e9d4691
-    title: Louis Emrich
-    slug: louis-emrich
-  - node_id: 7e8f1051-0b50-49bd-a3bd-aa13db6e3820
-    title: Emrich (Mrs., widow of Louis Emrich)
-    slug: widow-of-louis-emrich-emrich-mrs
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: ch17:7763-7867
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 95ceb96c-b35c-48c4-9ed6-d750618d136b
-  claim_hash: 76d5eea98af77490814c700df7b561374714beda3aa89e7b8975338ff3586295
-  content: The Third Secret of Fatima must have some relation, in time sequence, to
-    the other two parts of the revelation, which refer to the end of World War I and
-    to the outbreak of another, even worse war announced by an unknown light in the
-    sky.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-    title: Michael Hesemann
-  provenance_chain:
-    origin_kind: speaker
-    origin: Hesemann, Michael
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 234f3b6a-653c-4f00-936a-a4b58fad4d9a
-    title: 1938 aurora event
-    slug: 1938-aurora-event
-  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
-    title: Third Secret of Fatima
-    slug: third-secret-of-fatima
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: ch18:3065-3300
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 6faae249-ec2c-46c6-8b75-a5f07de861ec
-  claim_hash: 2b3c41bdd2d57595afb195d204dac49dcc507e364c9406c0962d575ca724e49e
-  content: During Pope Benedict XV's pontificate there was a general reduction of
-    the Christian population in Europe, owing to World War I, the Spanish flu pandemic,
-    and bloody revolutions.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 77cc9b26-f63f-41c7-9b05-737616bcfed9
-    title: Benedict XV
-    slug: benedict-xv
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  - node_id: e3c7ba94-3bb7-4b2a-a462-eff09cbd7954
-    title: Spanish flu pandemic (1918)
-    slug: spanish-flu-pandemic-1918
-  date: null
-  date_end: null
-  location_in_record: ch21:10227-10393
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 4aba8528-db64-45af-81d3-d212cbb91399
-  claim_hash: 9efe57f3b91c7f0e6286aa44023dbca75b0d44e78ab1351bdf14f1fd6a0e4222
-  content: Michael Hesemann considers that the Madonna correctly predicted the beginning
-    of the Second World War, with the blood-red aurora borealis as its herald.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-    title: Michael Hesemann
-  provenance_chain:
-    origin_kind: speaker
-    origin: Michael Hesemann
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 234f3b6a-653c-4f00-936a-a4b58fad4d9a
-    title: 1938 aurora event
-    slug: 1938-aurora-event
+    shared_claims: 3
   - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
     title: Michael Hesemann
+    node_type: person
     slug: michael-hesemann
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: ch23:6412-6530
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: d6489b1e-3883-4607-9714-393cf9bfe831
-  claim_hash: eb9b3aa0521a43cba99173c74d8ecdddfb09349bb680c59e40a066ae626f56d2
-  content: Michael Hesemann considers that the decisive turning points of the Second
-    World War, and Gorbachev's perestroika, followed immediately after the consecration
-    of the world and Russia to the Immaculate Heart of Mary as demanded in the Fatima
-    visions.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-    title: Michael Hesemann
-  provenance_chain:
-    origin_kind: speaker
-    origin: Michael Hesemann
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 60dcc104-e9bd-4292-95fe-2584aa68ce44
-    title: Act of Consecration of Russia and the World to the Immaculate Heart of
-      Mary (1984-03-25)
-    slug: act-of-consecration-of-russia-and-the-world-to-the-immaculate-heart-of-mary-1984-03-25
-  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-    title: Michael Hesemann
-    slug: michael-hesemann
-  - node_id: b9e40648-f7d0-4ef5-8f55-8e9aab7c38b5
-    title: Perestroika
-    slug: perestroika
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  - node_id: e6230a06-a7e5-4aff-b935-22b5c592a349
-    title: Mikhail Gorbachev
-    slug: mikhail-gorbachev
-  date: null
-  date_end: null
-  location_in_record: ch23:6944-7132
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: fba62ae6-bc65-4a52-bc96-fe385bb36d5a
-  claim_hash: c06842757ac699dbf2c81cb08037b2211d6ee56e1e78848628de809234868820
-  content: It can be argued that the Second Secret of Fatima's specific reference
-    to the end of World War I could have been added later, since the secret was not
-    made public until long after the war ended.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 60e50716-fa79-45d6-991c-49d084ff4183
-    title: Second Secret of Fatima
-    slug: second-secret-of-fatima
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: ch4:1302-1481
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 7491a257-2a93-40fe-8eed-dcc745224208
-  claim_hash: 164f79df848907604f25fe23ccc9e9e8cf2fe38eb840d3466a05650c015cbfe6
-  content: Since the Guadalupe apparition, Marian apparitions have become more frequent,
-    appealing for churches to be built, offering moral advice and warnings, expressing
-    concern about Communism, and apparently sending a sign warning of the imminent
-    outbreak of World War II.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
-    title: Marian apparitions
-    slug: marian-apparitions
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
-    title: Communism
-    slug: communism
-  date: null
-  date_end: null
-  location_in_record: ch4:14069-14352
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: f2c680cd-24da-4887-8693-5bc9cfd24e26
-  claim_hash: 6f561f1a71f1fd9de43242e5c5a85b228911d0c6e05271fb60f19110eea35088
-  content: In March 1938 Germany annexed the Sudetenland from Czechoslovakia, effectively
-    beginning World War II.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 244adc10-5353-442a-96cc-423531ecbeca
-    title: Germany annexation of the Sudetenland (1938-03)
-    slug: germany-annexation-of-the-sudetenland-1938-03
-  - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
-    title: Germany
-    slug: germany
-  - node_id: 9c6d548c-8d8a-4461-af45-647d66503513
-    title: Czechoslovakia, Sudetenland
-    slug: sudetenland-czechoslovakia
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: 1938-03
-  date_end: null
-  location_in_record: ch4:1903-2005
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 2f64c82b-8960-4404-9505-0d6d0816d73b
-  claim_hash: 40db291c0037901416a24aea8cf38b23ac7bc515ef85f8dc6389d1c3a2a19d28
-  content: The Second Secret of Fatima stated that World War I would end, but if people
-    did not stop offending God another and worse war would break out, and warned of
-    a night illuminated by an unknown light as a sign that God would punish the world
-    by war, hunger, and persecution of the Church.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Second Secret of Fatima
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 60e50716-fa79-45d6-991c-49d084ff4183
-    title: Second Secret of Fatima
-    slug: second-secret-of-fatima
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: ch4:989-1255
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 27127544-08c0-40df-a53f-1f0971505e6d
-  claim_hash: f6a18dfab62cac0ee7103f97bad44f79090af194f81127f55ec75947e34e5fda
-  content: The Fatima apparitions of 1917 included predictions of the Russian Revolution,
-    the spread of Communism, and World War II, which were beyond the imaginations
-    of three young uneducated children.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-    title: Michael Hesemann
-  provenance_chain:
-    origin_kind: speaker
-    origin: Michael Hesemann
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 08969615-e1e3-42ae-a729-5e9a1c5b37aa
-    title: Russian Revolution (1917)
-    slug: russian-revolution-1917
-  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-    title: Michael Hesemann
-    slug: michael-hesemann
-  - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
-    title: Fatima apparitions (1917)
-    slug: fatima-apparitions-1917
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
-    title: Communism
-    slug: communism
-  date: null
-  date_end: null
-  location_in_record: ch7:9072-9278
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 98a67d15-1f49-4a99-ab63-50eb78109af1
-  claim_hash: dac8926b962f2622b1f03f25cd4e2c87fc06ee077664df81b9818930ac227d42
-  content: At the outbreak of World War I, Germany marched against France, causing
-    Britain to declare war on the German Reich.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
-    title: Germany
-    slug: germany
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  - node_id: db1308aa-6589-47e7-a7d9-a8f32e30d850
-    title: Great Britain
-    slug: great-britain
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: ch8:7148-7237
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 5717d87b-f70e-42fc-be02-9f9b9086284e
-  claim_hash: 87af12e59e3cab09ee2de2a68da8e4a46d2597186c4d66de9491605108d91aab
-  content: The allied troops of France and England stopped the German advance after
-    four weeks in World War I, but over 600,000 German and French soldiers had lost
-    their lives by that point.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
-    title: Germany
-    slug: germany
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  - node_id: db1308aa-6589-47e7-a7d9-a8f32e30d850
-    title: Great Britain
-    slug: great-britain
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: ch8:7244-7421
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: e3153332-fb58-4918-9000-139d6543fe18
-  claim_hash: 0182c190cbd636e5a0fc78213ab523371f7329dbcf394c14d747b2537a057568
-  content: The United States officially declared war on Germany on 1917-04-06.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
-    title: United States
-    slug: united-states
-  - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
-    title: Germany
-    slug: germany
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: '1917-04-06'
-  date_end: null
-  location_in_record: ch8:7509-7565
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 7ba3df45-37ca-459a-a5ae-dd7f6c0d870a
-  claim_hash: c3f4c4a16734ae570e01410f83e94bca3f32ce6051d82c1845f03895512516db
-  content: By the end of World War I, eight million people were dead.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: ch8:7817-7895
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: ad2c4c0a-c2ef-4be3-a09b-9d8d61f50a82
-  claim_hash: f970fd8d8a19573b2adac20da07f0ecf5b8475fce422055f024413bbd6263c49
-  content: The administrations preceding Bill Clinton's were staffed with quite religious
-    people, including Collins Elite types, members of The Family and the Knights of
-    Malta, connected to a broader establishment tracing back to the Office of Strategic
-    Services in World War II, in Jason Samosa's assessment.
-  original_excerpt: the former few administrations had been actually stuffed full
-    of quite religious people. Some of these Collins Elite types figures, we talked
-    about the family, there's also the Knights of Malta, and they're connected to
-    a broader establishment that goes back to the OSS, the Office of Strategic Services
-    in World War II.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 3
   - node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
     title: Office of Strategic Services (OSS)
+    node_type: organisation
     slug: office-of-strategic-services-oss
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-    title: Bill Clinton
-    slug: bill-clinton
-  - node_id: 9d32a2ba-3862-4abe-983f-4abd38c728ea
-    title: The Family (The Fellowship)
-    slug: the-family-the-fellowship
-  - node_id: b9230db2-eef8-4526-86aa-97f693336b1a
-    title: Knights of Malta
-    slug: knights-of-malta
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  - node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
-    title: Collins Elite
-    slug: collins-elite
-  date: null
-  date_end: null
-  location_in_record: 00:50:17.0-00:50:32.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: e353db4c-2510-4aef-baf1-0031b1251902
-  claim_hash: 667d01a516f1b426415e7740457b1dc39af51b37e9892d3d47dae52cf4282e76
-  content: Jesse Michels previously suspected a conflation between an anti-gravity
-    exotic propulsion lineage possibly created in Nazi Germany or during World War
-    II and reports of alien craft.
-  original_excerpt: i thought you know there was a conflation maybe going on between
-    kind of some anti-gravity lineage of you know some exotic propulsion that maybe
-    uh was created in nazi germany or you know maybe world war ii and then ... they
-    conflate it with these alien things
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jesse Michels
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-    slug: jesse-mitchells
+    shared_claims: 3
+  - node_id: e2e54c56-bb2e-404b-acde-395745fc950c
+    title: UK
+    node_type: place
+    slug: uk
+    shared_claims: 3
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 3
+  - node_id: 234f3b6a-653c-4f00-936a-a4b58fad4d9a
+    title: 1938 aurora event
+    node_type: event
+    slug: 1938-aurora-event
+    shared_claims: 2
+  - node_id: dea35210-38f0-4797-8438-84a5a9f42661
+    title: Allen Dulles
+    node_type: person
+    slug: allen-dulles
+    shared_claims: 2
+  - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+    title: Fatima apparitions (1917)
+    node_type: event
+    slug: fatima-apparitions-1917
+    shared_claims: 2
+  - node_id: 380c9103-7810-4d02-a45f-031ec0f0a59a
+    title: Germany, Berlin
+    node_type: place
+    slug: berlin-germany
+    shared_claims: 2
+  - node_id: 7c0fb053-a549-4708-ad43-36c596382880
+    title: In Hitler's House (Whitley Strieber)
+    node_type: document
+    slug: in-hitlers-house-whitley-strieber
+    shared_claims: 2
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    node_type: person
+    slug: jason-samosa
+    shared_claims: 2
+  - node_id: fa727cfc-9b1c-4743-b176-76256cc02fa4
+    title: Maison Rouge meeting
+    node_type: event
+    slug: maison-rouge-meeting
+    shared_claims: 2
+  - node_id: ea3e7b89-6994-43a0-9d5c-a95036c69a23
+    title: Pius XI
+    node_type: person
+    slug: pius-xi
+    shared_claims: 2
+  - node_id: 79277187-1caf-4840-a135-5819bc771321
+    title: Portugal, Fatima, Cova da Iria
+    node_type: place
+    slug: fatima-cova-da-iria-portugal
+    shared_claims: 2
+  - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
+    title: Spanish Civil War
+    node_type: event
+    slug: spanish-civil-war
+    shared_claims: 2
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    node_type: document
+    slug: third-secret-of-fatima
+    shared_claims: 2
+  - node_id: 1bb7c7bf-2b76-49c9-a3de-cbd4be00910c
+    title: USA, Czech Republic, Pilsen
+    node_type: place
+    slug: czech-republic-pilsen-usa
+    shared_claims: 2
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+    title: crash retrieval and reverse engineering
+    node_type: topic
+    slug: crash-retrieval-and-reverse-engineering
+    shared_claims: 2
+  - node_id: 3fea44f6-262c-4077-bac8-78b8f2e3ba6e
+    title: 2026 United States war with Iran
+    node_type: event
+    slug: 2026-united-states-war-with-iran
+    shared_claims: 1
+  - node_id: 60dcc104-e9bd-4292-95fe-2584aa68ce44
+    title: Act of Consecration of Russia and the World to the Immaculate Heart of Mary (1984-03-25)
+    node_type: event
+    slug: act-of-consecration-of-russia-and-the-world-to-the-immaculate-heart-of-mary-1984-03-25
+    shared_claims: 1
+  - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+    title: Adolf Hitler
+    node_type: person
+    slug: adolf-hitler
+    shared_claims: 1
+  - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+    title: Anne Strieber
+    node_type: person
+    slug: anne-strieber
+    shared_claims: 1
   - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
     title: Anti-Gravity Propulsion
+    node_type: topic
     slug: anti-gravity-propulsion
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: 01:01:10.8-01:01:26.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: d1cbd260-ded8-428c-9a0c-f5fd1b5f10b6
-  claim_hash: 528c1bcd255671191a0971bf4d3f849fd99826f95e1df27550429264ed994f03
-  content: 'Jason Samosa considers the middle-ground position more interesting than
-    an either-or view of Nazi disc technology: that they were experimenting with building
-    such craft and some may have been half successful by the time the war was ending.'
-  original_excerpt: Whereas I think a middle ground is more interesting that they
-    are experimenting with making these for whatever reason ... And some of them may
-    have been somewhat interesting and half successful by the time the war was closing
-    out.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9caeaff0-3abf-4a8b-b10b-54f883a431d6
-    title: Nazi underground
-    slug: nazi-underground
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-    slug: jason-samosa
-  date: null
-  date_end: null
-  location_in_record: 01:12:46.9-01:12:59.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 58175e44-fd69-46d8-98aa-b06e429da474
-  claim_hash: e54dae45626cdc833ecf4369611bdba1420664fd103290b8ff06dc6eb9f798fc
-  content: In an apocryphal account, John Warner IV recounted that over a third martini
-    Paul Mellon told him he and Allen Dulles had been on a technology retrieval operation
-    in Nazi Germany around 1944 or 1945, standing atop a huge saucer-like UFO in Czechoslovakia.
-  original_excerpt: I think you even have an apocryphal story where Paul Mellon ...
-    And he talks about, he said he's on his third martini with Paul Mellon. And Paul
-    Mellon tells him that he and Allen Dulles were on this like, you know, tech retrieval
-    operation deep in, you know, post-World War II, you know, Nazi Germany, or maybe
-    it was like '44, '45. And they're saying that they're standing atop this huge
-    saucer-like UFO in Czechoslova
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: named
-    origin: Paul Mellon
-    relay:
-    - John Warner IV
-    - Jesse Michels
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-    title: crash retrieval and reverse engineering
-    slug: crash-retrieval-and-reverse-engineering
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: c6260730-daaa-425f-94a4-6d74920fb46b
-    title: Paul Mellon
-    slug: paul-mellon
-  - node_id: d60d84cb-b177-4c7d-9e89-5bb39f5397fc
-    title: John Warner IV
-    slug: john-warner-iv
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  - node_id: dea35210-38f0-4797-8438-84a5a9f42661
-    title: Allen Dulles
-    slug: allen-dulles
-  date: null
-  date_end: null
-  location_in_record: 01:13:32.6-01:14:03.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: e873484e-bbf3-4892-86f7-dfbf7e7d7c9c
-  claim_hash: b80ba350d2adbd6dd99178cade2be15f33b3c2421286766aebc0b8495d508e42
-  content: At the end of World War II the United States was less interested in Berlin
-    than in reaching Pilsen, where Nazi Germany's secret weapons programme was housed.
-  original_excerpt: For whatever reason, the U.S. was less interested in Berlin than
-    they were in going to Pilsen, which is where this secret weapons program was housed
-    for Nazi Germany.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jesse Michels
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1bb7c7bf-2b76-49c9-a3de-cbd4be00910c
-    title: USA, Czech Republic, Pilsen
-    slug: czech-republic-pilsen-usa
-  - node_id: 380c9103-7810-4d02-a45f-031ec0f0a59a
-    title: Germany, Berlin
-    slug: berlin-germany
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: 01:14:15.4-01:14:23.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 54f285b2-59ae-4b6f-bc5d-bb07780be2b4
-  claim_hash: 12f00fc447ce094e131a3c400290d2aab008a155ebb2ff215c960557f968e9de
-  content: George S. Patton's army advanced to Pilsen before going to Berlin at the
-    end of World War II.
-  original_excerpt: you see General Patton's army arrive and they steamroll, like
-    you said, to Pilsen before going to Berlin
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1bb7c7bf-2b76-49c9-a3de-cbd4be00910c
-    title: USA, Czech Republic, Pilsen
-    slug: czech-republic-pilsen-usa
-  - node_id: 380c9103-7810-4d02-a45f-031ec0f0a59a
-    title: Germany, Berlin
-    slug: berlin-germany
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  - node_id: f63662d6-29e3-474f-9432-80f844c66917
-    title: George Patton
-    slug: george-patton
-  date: null
-  date_end: null
-  location_in_record: 01:14:28.0-01:14:32.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: dda5b8c9-1a9e-4124-9616-f4a397f70045
-  claim_hash: acc7baa7922dbd53e8c3d6843c22775c12078d61f10391c100c0775b2b7dccb4
-  content: Nearly a year before the end of World War II the Nazis planned to leave
-    Europe and take their sensitive material with them.
-  original_excerpt: nearly a year earlier, the Nazis had planned to get out of Europe
-    and to take all of their sensitive stuff.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  - node_id: fa727cfc-9b1c-4743-b176-76256cc02fa4
-    title: Maison Rouge meeting
-    slug: maison-rouge-meeting
-  date: null
-  date_end: null
-  location_in_record: 01:14:37.6-01:14:42.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 924ed01b-5333-49c7-8757-5bb350ae20dd
-  claim_hash: 39470778b259ea529464a681c241d2c1061b2b64216e1d7783c040b06dc694c0
-  content: Viktor Schauberger was an Austrian forester who developed a reverse impeller,
-    and material of his was recovered by the United States at the end of World War
-    II.
-  original_excerpt: And who's the guy who made the reverse impeller Viktor Schauberger.
-    ... We got some Schauberger stuff.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  - node_id: f99baff7-0fd1-45c4-a00b-c3dc9ca0376d
-    title: Viktor Schauberger
-    slug: viktor-schauberger
-  date: null
-  date_end: null
-  location_in_record: 01:14:46.4-01:14:52.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 835c3d76-9d40-4a50-bde6-77071532a52a
-  claim_hash: b721e955fe0e6e32158afb978fe3f33f4c65549055a99d6e6a6b80666555cdb1
-  content: 'Alongside the division of German technology between the Soviets and the
-    United States there may have been a third element: a mass evacuation of technology,
-    people, gold and money beginning around 1943 and certainly by 1944 with the Maison
-    Rouge meeting.'
-  original_excerpt: there may have been a third part to this, which is the mass evacuation
-    of technology and people and gold and money starting in, well, 1943, but certainly
-    1944 with the Maison Rouge meeting.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  - node_id: fa727cfc-9b1c-4743-b176-76256cc02fa4
-    title: Maison Rouge meeting
-    slug: maison-rouge-meeting
-  date: null
-  date_end: null
-  location_in_record: 01:15:01.1-01:15:11.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: a7bc5432-64f3-4d96-aa68-91a30f7952e0
-  claim_hash: 19d6d1a57950da9552c312ddf8458bc916fe2b0487f29ee2c3e2ff70d9249d95
-  content: Before World War II, IG Farben and Standard Oil agreed mutual monopolies
-    under which Standard Oil would dominate oil on both sides of the Atlantic and
-    IG Farben the petrochemical side.
-  original_excerpt: IG Farben and Standard Oil had come to an arrangement where they
-    would have mutual monopolies before the war. So Standard Oil would dominate oil
-    across both sides of the Atlantic. IG Farmer would do the petrochemical side.
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration by Jason Samosa
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 57030b2f-1104-4589-9cfa-3a44f020dae7
-    title: IG Farben
-    slug: ig-farben
-  - node_id: ba271350-3f14-4f58-aac0-f6ee45023c57
-    title: Standard Oil
-    slug: standard-oil
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: 01:20:00.2-01:20:11.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 4390e984-6ef2-4d37-97fe-2b511d5807b1
-  claim_hash: 29ab7e7aa7757fb2ab7a7cb5657c9fbcc06e758fdbe078d3f8962a5877c64d09
-  content: Allen Dulles helped with Nazi financing while based in Switzerland during
-    World War II.
-  original_excerpt: And then Dulles was, you know, helping out with, you know, some
-    Nazi financing. ... Hanging out in Switzerland.
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration by Jesse Michels
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  - node_id: dea35210-38f0-4797-8438-84a5a9f42661
-    title: Allen Dulles
-    slug: allen-dulles
-  date: null
-  date_end: null
-  location_in_record: 01:21:19.2-01:21:23.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 4dbb53bb-b0d7-498d-abda-6df9f7702a2b
-  claim_hash: 30fa779f882ae49dbe0e9d6e02831a31b719582c3da18c67479571a839969656
-  content: When the United Kingdom needed engines for its fighter aircraft, Ford Motor
-    Company refused, saying it was prioritising production for Nazi Germany.
-  original_excerpt: when the UK was trying to get into the war, they needed to create
-    engines for their jets, for their fighter pilots. And Ford said, no, we're not
-    going to do that. We're prioritizing the trunks for Nazi Germany.
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration by Jason Samosa
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0984362b-19eb-4a0b-894e-1bdad2b81241
-    title: Ford Motor Company
-    slug: ford-motor-company
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: 01:21:38.9-01:21:50.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 2c73f43d-474e-4fd8-bc55-f78de4c09732
-  claim_hash: d1e6b8ec01b9836fc5631b4712a5c6811eafa1089a0bb23b383e27075080375b
-  content: The financiers and industrialists who were commercially entangled with
-    German industry before and during World War II were the same people running the
-    intelligence networks that would enable the evacuation of that technology.
-  original_excerpt: And the very people who should be keeping their eyes on them are
-    running the intelligence networks, which are going to enable them to evacuate
-    all of this technology.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
-    title: Office of Strategic Services (OSS)
-    slug: office-of-strategic-services-oss
-  - node_id: 886d13f0-bdfe-443d-b92c-9fbe1114b477
-    title: British Security Co-ordination (BSC)
-    slug: british-security-co-ordination-bsc
-  - node_id: a7aa4b7b-cc5a-4683-939a-dfd7314bdb32
-    title: Special Operations Executive (SOE)
-    slug: special-operations-executive-soe
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: 01:23:52.4-01:23:58.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: ddc1cd3b-cf31-4d56-83a4-03e83f72abbd
-  claim_hash: 04ff3ca8789e752ca8bfea6f3bda482095f37bd36f5b6866b381b821e45da6b0
-  content: Tom Hill, a United Kingdom member of the World Commerce Corporation, said
-    the goal was to take advantage of the relationships accrued during World War II.
-  original_excerpt: one of the people, I think it was Tom Hill. He was one of the
-    UK members of WCC. He said, the goal was to take advantage of the relationships
-    we'd accrued during the war.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: named
-    origin: Tom Hill
-    relay:
-    - Jason Samosa's research
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 39627a98-b227-4fb5-9262-589c4f9579b6
-    title: Tom Hill
-    slug: tom-hill
-  - node_id: 7699ee6b-266c-42ed-95b2-3b4430fd2af9
-    title: World Commerce Corporation
-    slug: world-commerce-corporation
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: 01:26:23.4-01:26:32.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 4f5610c5-4616-45d1-9272-1f12e6004ab6
-  claim_hash: 87785bafefc0932cad2e3925b71183a84f2bf66e63c87a0f53d0160d931f9ad1
-  content: In Messengers of Deception, an anonymous source identified only as Major
-    Murphy suggested to Jacques Vallee that people may have created flying saucers
-    during World War II, pointing to 1943, and that the real advantage of the technology
-    was not its flight capability but its psychotronic effect.
-  original_excerpt: He's talking with Vallee about, what if it's possible that people
-    created flying saucers during the war? And he points to 1943 and he says, you
-    know, what if someone was experimenting with this technology? It turns out its
-    real advantage wasn't its flight capabilities, but its psychotronic effect.
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to be a senior military officer, identified in Messengers
-      of Deception only as Major Murphy
-    relay:
-    - Jacques Vallee
-    - Messengers of Deception
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 4e89510d-db19-43b9-84d0-6d3fe06ca7f8
-    title: Messengers of Deception
-    slug: messengers-of-deception
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: 01:27:48.1-01:28:04.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 6f5336a0-bf7c-416e-a193-ed2072051e55
-  claim_hash: 49db39b172b12298f62bf35d485b05444a1eb889b67bcc7dcdfcadb993110525
-  content: Thomas Townsend Brown carried out a technology retrieval mission behind
-    enemy lines during World War II.
-  original_excerpt: when Thomas Townsend Brown did a tech retrieval mission in behind
-    enemy lines in world war two
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jesse Michels
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-    title: crash retrieval and reverse engineering
-    slug: crash-retrieval-and-reverse-engineering
-  - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
-    title: Thomas Townsend Brown
-    slug: thomas-townsend-brown
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: 01:30:04.3-01:30:10.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: ae7b6db4-ce3b-4739-bd2e-6c4f9d2a801e
-  claim_hash: 34705866f9f51ef093dc9da5cdbc80526589e28e11efa05ac1ecc492266d4ddf
-  content: Ricardo Sicre was a Spanish spy during World War II employed by the Office
-    of Strategic Services (OSS).
-  original_excerpt: he was essentially, I think, a Spanish guy, Spanish spy during
-    World War II, who was basically employed by the OSS
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
-    title: Office of Strategic Services (OSS)
-    slug: office-of-strategic-services-oss
-  - node_id: b4639fd0-3119-4df0-8016-6caeac24da38
-    title: Ricardo Sicre
-    slug: ricardo-sicre
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: 01:33:19.2-01:33:25.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: d9b72449-b1ec-4196-93df-08d0a77b3de0
-  claim_hash: 3831f446c1bd06e3a24a327b0d1144f1c7309e6648b1e14ebb478338287faeae
-  content: Robert Maxwell interrogated Nazi scientists after the Second World War,
-    according to Jesse Michels.
-  original_excerpt: So you have this MI6 guy in Robert Maxwell, who I also don't think
-    anybody knows, interrogated Nazi scientists post-World War II.
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: unattributed
-    origin: Jesse Michels narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 95ca8e63-159b-439a-9cd6-f52a171edd74
-    title: Robert Maxwell
-    slug: robert-maxwell
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: 01:47:13.5-01:47:22.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 421f0ff6-55eb-4f4f-8dfc-00eacf220f54
-  claim_hash: 8d988d7557ad6cfdd55fcf43344043cbf66ea40bbec4e8bad795db18872076ed
-  content: Jason Samosa characterises the Holocaust in World War II as an attempt
-    to exterminate a specific lineage of people and their DNA from the planet.
-  original_excerpt: So in World War II, Everything that happened in terms of the Holocaust
-    was basically about trying to exterminate a specific lineage, right? A specific
-    group of people and their DNA from the planet.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 93c3f513-e320-4d7e-bb43-a343cd220d03
-    title: the Holocaust
-    slug: the-holocaust
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  - node_id: eb16ca39-c2e7-4102-ba7d-9b127e88a047
-    title: genocide
-    slug: genocide
-  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-    slug: jason-samosa
-  date: null
-  date_end: null
-  location_in_record: 02:10:15.6-02:10:26.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 7afe3a5e-5d91-4a48-b48f-3c8c079f2521
+    title: Austria
+    node_type: place
+    slug: austria
+    shared_claims: 1
+claims:
+  - claim_id: 1e783aee-332f-43d1-b9fd-1c6a41087928
+    claim_hash: df435989de1217f1e8a0bf877bc1dfd3c94da0eef4778cd18ca1aa747a6284fb
+    content: During the Third apparition of Our Lady of Fatima, the Lady asked the children to return to the Cova da Iria
+      on the thirteenth of the following month, to continue praying the rosary every day, to bring peace to the world and
+      end World War I.
+    original_excerpt: “I want you to come here on the thirteenth of next month and to continue to pray the rosary every day,
+      to bring peace to the world and the end of the war.”
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+      title: Lúcia (Fatima seer)
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lúcia (Fatima seer)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 79277187-1caf-4840-a135-5819bc771321
+        title: Portugal, Fatima, Cova da Iria
+        slug: fatima-cova-da-iria-portugal
+      - node_id: 912ba4ce-83e0-4026-8832-15dec8956ec0
+        title: Third apparition of Our Lady of Fatima (1917-07-13)
+        slug: third-apparition-of-our-lady-of-fatima-1917-07-13
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: '1917-07-13'
+    date_end: null
+    location_in_record: ch10:4586-4735
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: a5c1df52-01f0-4bcd-bdc9-06883e1c3b72
+    claim_hash: 00364b6998b868911d4c6431316166d0b69db4a413962352547256725c1fbcd7
+    content: In the Second Secret of Fatima, the Lady said World War I would end, but if people did not stop offending God,
+      another, even more terrible war would begin during the reign of Pius XI.
+    original_excerpt: “The war is going to end. But if people do not stop offending God, another even more terrible war will
+      begin in the reign of Pius XI.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: the Lady (as reported by Lúcia)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 60e50716-fa79-45d6-991c-49d084ff4183
+        title: Second Secret of Fatima
+        slug: second-secret-of-fatima
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: ea3e7b89-6994-43a0-9d5c-a95036c69a23
+        title: Pius XI
+        slug: pius-xi
+    date: '1917-07-13'
+    date_end: null
+    location_in_record: ch10:6152-6281
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: e166b584-f125-4968-a39f-6905fb96b1a2
+    claim_hash: a6bbeb913292ba41333803384dbc3a35ba4eaa065b18fb612e32eeaa6af05227
+    content: The Third Secret of Fatima included revelations about disasters of the twentieth century, including communist
+      revolutions, the Spanish Civil War, Nazi terror, World War II, the Cold War, the arms race, the nuclear threat, and
+      the spread of atheism.
+    original_excerpt: They had also been told about the real hell that would happen on earth during the twentieth century—the
+      hell of Communist revolutions and the Spanish Civil War, of the Nazi terror and the Second World War, with the Cold
+      War following it; of the arms race and the nuclear threat, and the spread of atheism.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
+        title: Spanish Civil War
+        slug: spanish-civil-war
+      - node_id: 19a3601f-bc98-49bb-8d34-aa41b0e9f4bb
+        title: Cold War
+        slug: cold-war
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
+        title: Communism
+        slug: communism
+    date: null
+    date_end: null
+    location_in_record: ch10:8768-9065
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 3c5d0985-6e7d-47d8-b334-f312e7ad4b4a
+    claim_hash: 49fe383f73697ac2b3815619d6d39afd63d0057ab959fa65c568cc44fa8d2baa
+    content: Pilgrims at Portugal, Fatima, Cova da Iria in September 1917 shouted requests such as asking Our Lady to cure
+      a crippled son, heal a blind child, and bring a husband and son home alive from World War I.
+    original_excerpt: Others, who could not reach the children, shouted out requests like “For the love of God, beg Our Lady
+      to cure my crippled son,” or “May she heal my blind child!” or “Please, may she bring my husband and my son back home
+      alive from the war!”
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narrator
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 79277187-1caf-4840-a135-5819bc771321
+        title: Portugal, Fatima, Cova da Iria
+        slug: fatima-cova-da-iria-portugal
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: 1917-09
+    date_end: null
+    location_in_record: ch11:3340-3576
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 093d2c40-ba99-4e89-907c-4552647a2e0d
+    claim_hash: 54fd2bc9ffe13b5a2dad6d20ba32053a35ca3d592dd7ef0f544b91c9cb97b781
+    content: During the Fifth apparition of Our Lady of Fatima (1917-09-13), the Lady told the children to continue praying
+      the rosary to end World War I.
+    original_excerpt: “ ‘Continue to pray the rosary to end the war. God is pleased with your sacrifices, but He does not
+      want you to sleep tied with the strings; wear them only during the day.’
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+      title: Lúcia (Fatima seer)
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lúcia (Fatima seer)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d83ccfd-24f3-493c-9f08-2365e9bbfd80
+        title: Fifth apparition of Our Lady of Fatima (1917-09-13)
+        slug: fifth-apparition-of-our-lady-of-fatima-1917-09-13
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: '1917-09-13'
+    date_end: null
+    location_in_record: ch11:4565-4729
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 73d5086d-7390-4c12-949b-2977706a17d5
+    claim_hash: 67b4e2bd554e6bcc32e4db967930105944343530f6efedd33a7fc662d6f68663
+    content: Lúcia and Jacinta Marto told the crowd after the 1917-10-13 apparition that the war would end that day and the
+      soldiers would return shortly, though the war did not in fact end until roughly a year later.
+    original_excerpt: '''The war will come to an end today, and you can expect the soldiers to return shortly,'' answered
+      Lúcia and Jacinta... The war did not come to an end that day, but went on for another year.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lúcia (Fatima seer) and Jacinta Marto
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch12:18170-18400
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 89ab5f13-fc5b-4ed0-85bb-19934b751353
+    claim_hash: b20496d9103f030d8cc6f0b4ed6c7743763bf0b6764fdc9d5d7342d492f92083
+    content: At the sixth apparition on 1917-10-13, Our Lady told Lúcia she wished a chapel built in her honour at the Cova
+      da Iria, identified herself as the Lady of the Rosary, asked that the rosary continue to be prayed daily, and said the
+      war would end and the soldiers would return home.
+    original_excerpt: '''I wish to tell you that I want a chapel built here in my honor. I am the Lady of the Rosary. Continue
+      to pray the rosary every day. The war is going to end and the soldiers will soon return to their homes.'''
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+      title: Lúcia (Fatima seer)
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lúcia (Fatima seer)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch12:6299-6498
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 7695ac36-fe1d-4cd8-9c17-b2eb66208d82
+    claim_hash: 6ea3db8b74bca4aea0748942f0614cdd5371e0eb84585ca771676104dbcb7e9f
+    content: Since World War I had just ended when Jacinta Marto spoke of a coming war, her mother could not have known what
+      she was talking about, but the Second World War was on the horizon.
+    original_excerpt: Since World War I had just come to an end, her mother couldn’t have known what she was talking about.
+      But the Second World War was on the horizon.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: ch13:4626-4764
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 10d9cd0a-4f65-40b5-9f38-8ff17c0b6038
+    claim_hash: 4a3feb9a08e7cd86f484c1cd2466e0412460b28378fcab66e2759b54ed7113be
+    content: Michael Hesemann considers Jacinta Marto's prediction of a punishment beginning in Spain to have predicted the
+      Spanish Civil War, which started in 1936 and preceded the Second World War.
+    original_excerpt: With that Jacinta predicted the Spanish Civil War, which started in 1936 and preceded the Second World
+      War.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
+        title: Spanish Civil War
+        slug: spanish-civil-war
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: ch13:7728-7831
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: febd1d8e-e83c-4c18-9f17-806c37e60179
+    claim_hash: 9a28b9de81214aa8bc4b5673fb6dedc5f0483ccc967c3cd320cf54469a81e1b7
+    content: Jacinta Marto once mentioned terrible events that would happen around 1940, which Michael Hesemann interprets
+      as referring to the Second World War.
+    original_excerpt: Once Jacinta mentioned “the terrible events that will happen around 1940,” referring to the Second World
+      War.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: ch13:7836-7941
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: da89784a-a305-40be-9895-ce44283b97aa
+    claim_hash: 07b4b0aaabb6c5db48cb35b7c1ae99f9d79883d58a7ba21a204702e48b814ee8
+    content: World War II cost over fifty-five million people their lives.
+    original_excerpt: the war that cost over fifty-five million people their lives had already begun
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: ch15:4035-4108
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 44e25b90-9fa4-4b2e-9733-7e06df045e6f
+    claim_hash: b4d4c40f422a438e0bd0f84ab19c4d053a5fc2f706c9a3f3b388100c57413400
+    content: On 1938-03-12, German troops crossed into Austria for the first time since the end of World War I, in order to
+      bring Austria back into the Reich.
+    original_excerpt: On March 12, 1938, German troops crossed the border for the first time since the end of World War I,
+      and entered Austria, in order to "bring it back into the Reich."
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55a2ac06-b202-4f96-8370-6b42d6a96d49
+        title: German annexation of Austria (1938-03-12)
+        slug: german-annexation-of-austria-1938-03-12
+      - node_id: 7afe3a5e-5d91-4a48-b48f-3c8c079f2521
+        title: Austria
+        slug: austria
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: '1938-03-12'
+    date_end: null
+    location_in_record: ch15:4259-4417
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 3ece73e1-dfb4-42d2-9d5a-8a240bbca483
+    claim_hash: cc59a4ecbba0b615b71767d983bf5b836c663d7699b6534fca773e2f19534431
+    content: World War II began under the rule of Pius XI, exactly as prophesied at Fatima.
+    original_excerpt: World War II really began then, under the rule of Pius XI, exactly as prophesied at Fatima.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: ea3e7b89-6994-43a0-9d5c-a95036c69a23
+        title: Pius XI
+        slug: pius-xi
+    date: null
+    date_end: null
+    location_in_record: ch15:4515-4599
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 12ff0950-e2f8-416d-a5f7-0f5e2e5aef08
+    claim_hash: c01be8c0f82310bf7197ce3a4f9a147b58e602984699d511b625eddfa44dc39f
+    content: When Hitler ignored the ultimatum, Great Britain and France declared war on Germany, officially beginning the
+      Second World War.
+    original_excerpt: When it was ignored, both nations declared war on Germany. With this the Second World War had officially
+      begun.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
+        title: Germany
+        slug: germany
+      - node_id: 9226fab8-c0ef-4729-a71f-7dbf03ad72d3
+        title: Britain and France declaration of war on Germany (1939-09-03)
+        slug: britain-and-france-declaration-of-war-on-germany-1939-09-03
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: e2e54c56-bb2e-404b-acde-395745fc950c
+        title: UK
+        slug: uk
+    date: '1939-09-03'
+    date_end: null
+    location_in_record: ch15:6243-6348
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 4e2057cb-db5c-43af-b0be-48b2a11e17aa
+    claim_hash: bf56a58792d04ac335523111c30a43a5539377850a0b951fef3dad74f0c2ba34
+    content: Toward the end of 1942, the Second World War took a sudden and unexpected turn, giving hope that the march of
+      evil could be stopped.
+    original_excerpt: Toward the end of 1942 the Second World War took a sudden and unexpected turn, giving hope that perhaps
+      the march of evil could be stopped.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: '1942'
+    date_end: null
+    location_in_record: ch15:9547-9678
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: ab6df9bd-c7b5-41ab-ba00-c4fab2031d63
+    claim_hash: b9cadbfc874dde5c6630e6ae0b6d5719ba07af5d0f7d924d09ca5d5f2871df73
+    content: On 1942-12-08, the day Pope Pius XII repeated the consecration, the Battle of Stalingrad began, which ended the
+      German march to the east and is considered the turning point of World War II.
+    original_excerpt: On the day when Pope Pius repeated the consecration, December 8, 1942, the battle of Stalingrad began,
+      which ended the German march to the east and is considered the turning point of World War II.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f9aa10e-8dfd-4ae9-a03f-750a51ef7dda
+        title: Pius XII repetition of the consecration (1942-12-08)
+        slug: pius-xii-repetition-of-the-consecration-1942-12-08
+      - node_id: 9909a3a9-aa87-44f5-a762-31d1d802ceb9
+        title: Battle of Stalingrad (1942-12-08 to 1943-02-02)
+        slug: battle-of-stalingrad-1942-12-08-to-1943-02-02
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: '1942-12-08'
+    date_end: null
+    location_in_record: ch15:9991-10184
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 95981954-fbb1-48b9-8b2d-60506b261261
+    claim_hash: 14bbfb83d2d8cafea82f04f0b2e2ac7e3782f822346d11f36f3fedb196e6a0f1
+    content: In 1941 Sister Lúcia wrote down the first two parts of the Fatima secret, which related to the end of World War
+      I, the rise of Russia, and the outbreak of World War II.
+    original_excerpt: At that time she wrote down the first two prophecies, which related to the end of World War I, the rise
+      of Russia, and the breaking out of World War II.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+      title: Lúcia (Fatima seer)
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lúcia (Fatima seer)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 60e50716-fa79-45d6-991c-49d084ff4183
+        title: Second Secret of Fatima
+        slug: second-secret-of-fatima
+      - node_id: 8f62f81d-1cad-4f12-b268-fe1a4ceabd96
+        title: First Secret of Fatima
+        slug: first-secret-of-fatima
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: '1941'
+    date_end: null
+    location_in_record: ch16:340-489
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: d351c3d9-2926-48a6-9544-fbcae0e74068
+    claim_hash: e75f35f4d980328fbd7400329f7a762aa7218a537ca30717d4954ccf8ec281fe
+    content: Mrs. Emrich told Hans Bender that the visiting priest was a reader of European News and had kept issues in which
+      Louis Emrich had predicted the Second World War.
+    original_excerpt: He was a reader of European News and had kept issues in which my husband had predicted the Second World
+      War.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7e8f1051-0b50-49bd-a3bd-aa13db6e3820
+      title: Emrich (Mrs., widow of Louis Emrich)
+    provenance_chain:
+      origin_kind: named
+      origin: Emrich (Mrs., widow of Louis Emrich)
+      relay:
+        - Hans Bender's summary
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1fd5c28b-115a-4d35-8edd-26c7cca5f06a
+        title: European News
+        slug: european-news
+      - node_id: 688c96b1-566b-48fe-a7be-98d95e9d4691
+        title: Louis Emrich
+        slug: louis-emrich
+      - node_id: 7e8f1051-0b50-49bd-a3bd-aa13db6e3820
+        title: Emrich (Mrs., widow of Louis Emrich)
+        slug: widow-of-louis-emrich-emrich-mrs
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: ch17:7763-7867
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 95ceb96c-b35c-48c4-9ed6-d750618d136b
+    claim_hash: 76d5eea98af77490814c700df7b561374714beda3aa89e7b8975338ff3586295
+    content: The Third Secret of Fatima must have some relation, in time sequence, to the other two parts of the revelation,
+      which refer to the end of World War I and to the outbreak of another, even worse war announced by an unknown light in
+      the sky.
+    original_excerpt: First, it must have some relation, with regard to time sequence, to the other two parts of the revelation,
+      which refer to the end of World War I, and to the outbreak of “another, even worse war,” announced by “an unknown light”
+      in the sky.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 234f3b6a-653c-4f00-936a-a4b58fad4d9a
+        title: 1938 aurora event
+        slug: 1938-aurora-event
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: ch18:3065-3300
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 6faae249-ec2c-46c6-8b75-a5f07de861ec
+    claim_hash: 2b3c41bdd2d57595afb195d204dac49dcc507e364c9406c0962d575ca724e49e
+    content: During Pope Benedict XV's pontificate there was a general reduction of the Christian population in Europe, owing
+      to World War I, the Spanish flu pandemic, and bloody revolutions.
+    original_excerpt: During his pontificate there was a general reduction of the Christian population in Europe, owing to
+      the First World War and the Spanish influenza, as well as bloody revolutions.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 77cc9b26-f63f-41c7-9b05-737616bcfed9
+        title: Benedict XV
+        slug: benedict-xv
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: e3c7ba94-3bb7-4b2a-a462-eff09cbd7954
+        title: Spanish flu pandemic (1918)
+        slug: spanish-flu-pandemic-1918
+    date: null
+    date_end: null
+    location_in_record: ch21:10227-10393
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 4aba8528-db64-45af-81d3-d212cbb91399
+    claim_hash: 9efe57f3b91c7f0e6286aa44023dbca75b0d44e78ab1351bdf14f1fd6a0e4222
+    content: Michael Hesemann considers that the Madonna correctly predicted the beginning of the Second World War, with the
+      blood-red aurora borealis as its herald.
+    original_excerpt: Also, the Madonna correctly predicted the beginning of the Second World War, with the bloodred aurora
+      borealis as its herald.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 234f3b6a-653c-4f00-936a-a4b58fad4d9a
+        title: 1938 aurora event
+        slug: 1938-aurora-event
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: ch23:6412-6530
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: d6489b1e-3883-4607-9714-393cf9bfe831
+    claim_hash: eb9b3aa0521a43cba99173c74d8ecdddfb09349bb680c59e40a066ae626f56d2
+    content: Michael Hesemann considers that the decisive turning points of the Second World War, and Gorbachev's perestroika,
+      followed immediately after the consecration of the world and Russia to the Immaculate Heart of Mary as demanded in the
+      Fatima visions.
+    original_excerpt: The decisive turning points of World War II, and Gorbachev’s “perestroika,” followed immediately after
+      the consecration of the world and Russia to the Immaculate Heart, as demanded in the visions.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 60dcc104-e9bd-4292-95fe-2584aa68ce44
+        title: Act of Consecration of Russia and the World to the Immaculate Heart of Mary (1984-03-25)
+        slug: act-of-consecration-of-russia-and-the-world-to-the-immaculate-heart-of-mary-1984-03-25
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: b9e40648-f7d0-4ef5-8f55-8e9aab7c38b5
+        title: Perestroika
+        slug: perestroika
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: e6230a06-a7e5-4aff-b935-22b5c592a349
+        title: Mikhail Gorbachev
+        slug: mikhail-gorbachev
+    date: null
+    date_end: null
+    location_in_record: ch23:6944-7132
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: fba62ae6-bc65-4a52-bc96-fe385bb36d5a
+    claim_hash: c06842757ac699dbf2c81cb08037b2211d6ee56e1e78848628de809234868820
+    content: It can be argued that the Second Secret of Fatima's specific reference to the end of World War I could have been
+      added later, since the secret was not made public until long after the war ended.
+    original_excerpt: it can be argued that its specific reference to the fact that World War I would end could have been
+      added later, since the secret was not made public until long after the war was over.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 60e50716-fa79-45d6-991c-49d084ff4183
+        title: Second Secret of Fatima
+        slug: second-secret-of-fatima
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: ch4:1302-1481
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 7491a257-2a93-40fe-8eed-dcc745224208
+    claim_hash: 164f79df848907604f25fe23ccc9e9e8cf2fe38eb840d3466a05650c015cbfe6
+    content: Since the Guadalupe apparition, Marian apparitions have become more frequent, appealing for churches to be built,
+      offering moral advice and warnings, expressing concern about Communism, and apparently sending a sign warning of the
+      imminent outbreak of World War II.
+    original_excerpt: Since Guadalupe, Marian apparitions have become more frequent. The visions have appealed for churches
+      to be built, offered moral advice and warnings, expressed direct concern about Communism, and even promised and apparently
+      sent a sign warning of the imminent outbreak of World War II.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
+        title: Communism
+        slug: communism
+    date: null
+    date_end: null
+    location_in_record: ch4:14069-14352
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: f2c680cd-24da-4887-8693-5bc9cfd24e26
+    claim_hash: 6f561f1a71f1fd9de43242e5c5a85b228911d0c6e05271fb60f19110eea35088
+    content: In March 1938 Germany annexed the Sudetenland from Czechoslovakia, effectively beginning World War II.
+    original_excerpt: In March of 1938 Germany annexed the Sudetenland from Czechoslovakia, effectively beginning World War
+      II.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 244adc10-5353-442a-96cc-423531ecbeca
+        title: Germany annexation of the Sudetenland (1938-03)
+        slug: germany-annexation-of-the-sudetenland-1938-03
+      - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
+        title: Germany
+        slug: germany
+      - node_id: 9c6d548c-8d8a-4461-af45-647d66503513
+        title: Czechoslovakia, Sudetenland
+        slug: sudetenland-czechoslovakia
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: 1938-03
+    date_end: null
+    location_in_record: ch4:1903-2005
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 2f64c82b-8960-4404-9505-0d6d0816d73b
+    claim_hash: 40db291c0037901416a24aea8cf38b23ac7bc515ef85f8dc6389d1c3a2a19d28
+    content: The Second Secret of Fatima stated that World War I would end, but if people did not stop offending God another
+      and worse war would break out, and warned of a night illuminated by an unknown light as a sign that God would punish
+      the world by war, hunger, and persecution of the Church.
+    original_excerpt: “This war is going to end. But if they do not stop offending God, another and worse war will break out.…
+      When you see a night illuminated by an unknown light, know that God … is going to punish the world for its crimes by
+      means of war, hunger, and persecution of the Church.”
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Second Secret of Fatima
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 60e50716-fa79-45d6-991c-49d084ff4183
+        title: Second Secret of Fatima
+        slug: second-secret-of-fatima
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: ch4:989-1255
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 27127544-08c0-40df-a53f-1f0971505e6d
+    claim_hash: f6a18dfab62cac0ee7103f97bad44f79090af194f81127f55ec75947e34e5fda
+    content: The Fatima apparitions of 1917 included predictions of the Russian Revolution, the spread of Communism, and World
+      War II, which were beyond the imaginations of three young uneducated children.
+    original_excerpt: 'there were the predictions about political and meteorological events that were far beyond the imaginations
+      of three young uneducated children: the Russian Revolution, the spread of Communism, and World War II'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08969615-e1e3-42ae-a729-5e9a1c5b37aa
+        title: Russian Revolution (1917)
+        slug: russian-revolution-1917
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
+        title: Communism
+        slug: communism
+    date: null
+    date_end: null
+    location_in_record: ch7:9072-9278
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 98a67d15-1f49-4a99-ab63-50eb78109af1
+    claim_hash: dac8926b962f2622b1f03f25cd4e2c87fc06ee077664df81b9818930ac227d42
+    content: At the outbreak of World War I, Germany marched against France, causing Britain to declare war on the German
+      Reich.
+    original_excerpt: Germany reacted by marching against France, causing Britain to declare war on the German Reich.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
+        title: Germany
+        slug: germany
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: e2e54c56-bb2e-404b-acde-395745fc950c
+        title: UK
+        slug: uk
+    date: null
+    date_end: null
+    location_in_record: ch8:7148-7237
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 5717d87b-f70e-42fc-be02-9f9b9086284e
+    claim_hash: 87af12e59e3cab09ee2de2a68da8e4a46d2597186c4d66de9491605108d91aab
+    content: The allied troops of France and England stopped the German advance after four weeks in World War I, but over
+      600,000 German and French soldiers had lost their lives by that point.
+    original_excerpt: The allied troops of France and England succeeded in stopping the German advance after four weeks, but
+      not until over six hundred thousand German and French soldiers lost their lives.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
+        title: Germany
+        slug: germany
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: e2e54c56-bb2e-404b-acde-395745fc950c
+        title: UK
+        slug: uk
+    date: null
+    date_end: null
+    location_in_record: ch8:7244-7421
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: e3153332-fb58-4918-9000-139d6543fe18
+    claim_hash: 0182c190cbd636e5a0fc78213ab523371f7329dbcf394c14d747b2537a057568
+    content: The United States officially declared war on Germany on 1917-04-06.
+    original_excerpt: The U.S. officially declared war on Germany on April 6, 1917.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+        title: USA
+        slug: usa
+      - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
+        title: Germany
+        slug: germany
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: '1917-04-06'
+    date_end: null
+    location_in_record: ch8:7509-7565
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 7ba3df45-37ca-459a-a5ae-dd7f6c0d870a
+    claim_hash: c3f4c4a16734ae570e01410f83e94bca3f32ce6051d82c1845f03895512516db
+    content: By the end of World War I, eight million people were dead.
+    original_excerpt: By the time the First World War ended a year later, eight million people were dead.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: ch8:7817-7895
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: ad2c4c0a-c2ef-4be3-a09b-9d8d61f50a82
+    claim_hash: f970fd8d8a19573b2adac20da07f0ecf5b8475fce422055f024413bbd6263c49
+    content: The administrations preceding Bill Clinton's were staffed with quite religious people, including Collins Elite
+      types, members of The Family and the Knights of Malta, connected to a broader establishment tracing back to the Office
+      of Strategic Services in World War II, in Jason Samosa's assessment.
+    original_excerpt: the former few administrations had been actually stuffed full of quite religious people. Some of these
+      Collins Elite types figures, we talked about the family, there's also the Knights of Malta, and they're connected to
+      a broader establishment that goes back to the OSS, the Office of Strategic Services in World War II.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
+        title: Office of Strategic Services (OSS)
+        slug: office-of-strategic-services-oss
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 9d32a2ba-3862-4abe-983f-4abd38c728ea
+        title: The Family (The Fellowship)
+        slug: the-family-the-fellowship
+      - node_id: b9230db2-eef8-4526-86aa-97f693336b1a
+        title: Knights of Malta
+        slug: knights-of-malta
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
+        title: Collins Elite
+        slug: collins-elite
+    date: null
+    date_end: null
+    location_in_record: 00:50:17.0-00:50:32.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: e353db4c-2510-4aef-baf1-0031b1251902
+    claim_hash: 667d01a516f1b426415e7740457b1dc39af51b37e9892d3d47dae52cf4282e76
+    content: Jesse Michels previously suspected a conflation between an anti-gravity exotic propulsion lineage possibly created
+      in Nazi Germany or during World War II and reports of alien craft.
+    original_excerpt: i thought you know there was a conflation maybe going on between kind of some anti-gravity lineage of
+      you know some exotic propulsion that maybe uh was created in nazi germany or you know maybe world war ii and then ...
+      they conflate it with these alien things
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+        title: Anti-Gravity Propulsion
+        slug: anti-gravity-propulsion
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: 01:01:10.8-01:01:26.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: d1cbd260-ded8-428c-9a0c-f5fd1b5f10b6
+    claim_hash: 528c1bcd255671191a0971bf4d3f849fd99826f95e1df27550429264ed994f03
+    content: 'Jason Samosa considers the middle-ground position more interesting than an either-or view of Nazi disc technology:
+      that they were experimenting with building such craft and some may have been half successful by the time the war was
+      ending.'
+    original_excerpt: Whereas I think a middle ground is more interesting that they are experimenting with making these for
+      whatever reason ... And some of them may have been somewhat interesting and half successful by the time the war was
+      closing out.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9caeaff0-3abf-4a8b-b10b-54f883a431d6
+        title: Nazi underground
+        slug: nazi-underground
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 01:12:46.9-01:12:59.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 58175e44-fd69-46d8-98aa-b06e429da474
+    claim_hash: e54dae45626cdc833ecf4369611bdba1420664fd103290b8ff06dc6eb9f798fc
+    content: In an apocryphal account, John Warner IV recounted that over a third martini Paul Mellon told him he and Allen
+      Dulles had been on a technology retrieval operation in Nazi Germany around 1944 or 1945, standing atop a huge saucer-like
+      UFO in Czechoslovakia.
+    original_excerpt: I think you even have an apocryphal story where Paul Mellon ... And he talks about, he said he's on
+      his third martini with Paul Mellon. And Paul Mellon tells him that he and Allen Dulles were on this like, you know,
+      tech retrieval operation deep in, you know, post-World War II, you know, Nazi Germany, or maybe it was like '44, '45.
+      And they're saying that they're standing atop this huge saucer-like UFO in Czechoslova
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Mellon
+      relay:
+        - John Warner IV
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+        title: crash retrieval and reverse engineering
+        slug: crash-retrieval-and-reverse-engineering
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c6260730-daaa-425f-94a4-6d74920fb46b
+        title: Paul Mellon
+        slug: paul-mellon
+      - node_id: d60d84cb-b177-4c7d-9e89-5bb39f5397fc
+        title: John Warner IV
+        slug: john-warner-iv
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: dea35210-38f0-4797-8438-84a5a9f42661
+        title: Allen Dulles
+        slug: allen-dulles
+    date: null
+    date_end: null
+    location_in_record: 01:13:32.6-01:14:03.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: e873484e-bbf3-4892-86f7-dfbf7e7d7c9c
+    claim_hash: b80ba350d2adbd6dd99178cade2be15f33b3c2421286766aebc0b8495d508e42
+    content: At the end of World War II the United States was less interested in Berlin than in reaching Pilsen, where Nazi
+      Germany's secret weapons programme was housed.
+    original_excerpt: For whatever reason, the U.S. was less interested in Berlin than they were in going to Pilsen, which
+      is where this secret weapons program was housed for Nazi Germany.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1bb7c7bf-2b76-49c9-a3de-cbd4be00910c
+        title: USA, Czech Republic, Pilsen
+        slug: czech-republic-pilsen-usa
+      - node_id: 380c9103-7810-4d02-a45f-031ec0f0a59a
+        title: Germany, Berlin
+        slug: berlin-germany
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: 01:14:15.4-01:14:23.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 54f285b2-59ae-4b6f-bc5d-bb07780be2b4
+    claim_hash: 12f00fc447ce094e131a3c400290d2aab008a155ebb2ff215c960557f968e9de
+    content: George S. Patton's army advanced to Pilsen before going to Berlin at the end of World War II.
+    original_excerpt: you see General Patton's army arrive and they steamroll, like you said, to Pilsen before going to Berlin
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1bb7c7bf-2b76-49c9-a3de-cbd4be00910c
+        title: USA, Czech Republic, Pilsen
+        slug: czech-republic-pilsen-usa
+      - node_id: 380c9103-7810-4d02-a45f-031ec0f0a59a
+        title: Germany, Berlin
+        slug: berlin-germany
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: f63662d6-29e3-474f-9432-80f844c66917
+        title: George Patton
+        slug: george-patton
+    date: null
+    date_end: null
+    location_in_record: 01:14:28.0-01:14:32.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: dda5b8c9-1a9e-4124-9616-f4a397f70045
+    claim_hash: acc7baa7922dbd53e8c3d6843c22775c12078d61f10391c100c0775b2b7dccb4
+    content: Nearly a year before the end of World War II the Nazis planned to leave Europe and take their sensitive material
+      with them.
+    original_excerpt: nearly a year earlier, the Nazis had planned to get out of Europe and to take all of their sensitive
+      stuff.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: fa727cfc-9b1c-4743-b176-76256cc02fa4
+        title: Maison Rouge meeting
+        slug: maison-rouge-meeting
+    date: null
+    date_end: null
+    location_in_record: 01:14:37.6-01:14:42.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 924ed01b-5333-49c7-8757-5bb350ae20dd
+    claim_hash: 39470778b259ea529464a681c241d2c1061b2b64216e1d7783c040b06dc694c0
+    content: Viktor Schauberger was an Austrian forester who developed a reverse impeller, and material of his was recovered
+      by the United States at the end of World War II.
+    original_excerpt: And who's the guy who made the reverse impeller Viktor Schauberger. ... We got some Schauberger stuff.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: f99baff7-0fd1-45c4-a00b-c3dc9ca0376d
+        title: Viktor Schauberger
+        slug: viktor-schauberger
+    date: null
+    date_end: null
+    location_in_record: 01:14:46.4-01:14:52.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 835c3d76-9d40-4a50-bde6-77071532a52a
+    claim_hash: b721e955fe0e6e32158afb978fe3f33f4c65549055a99d6e6a6b80666555cdb1
+    content: 'Alongside the division of German technology between the Soviets and the United States there may have been a
+      third element: a mass evacuation of technology, people, gold and money beginning around 1943 and certainly by 1944 with
+      the Maison Rouge meeting.'
+    original_excerpt: there may have been a third part to this, which is the mass evacuation of technology and people and
+      gold and money starting in, well, 1943, but certainly 1944 with the Maison Rouge meeting.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: fa727cfc-9b1c-4743-b176-76256cc02fa4
+        title: Maison Rouge meeting
+        slug: maison-rouge-meeting
+    date: null
+    date_end: null
+    location_in_record: 01:15:01.1-01:15:11.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: a7bc5432-64f3-4d96-aa68-91a30f7952e0
+    claim_hash: 19d6d1a57950da9552c312ddf8458bc916fe2b0487f29ee2c3e2ff70d9249d95
+    content: Before World War II, IG Farben and Standard Oil agreed mutual monopolies under which Standard Oil would dominate
+      oil on both sides of the Atlantic and IG Farben the petrochemical side.
+    original_excerpt: IG Farben and Standard Oil had come to an arrangement where they would have mutual monopolies before
+      the war. So Standard Oil would dominate oil across both sides of the Atlantic. IG Farmer would do the petrochemical
+      side.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 57030b2f-1104-4589-9cfa-3a44f020dae7
+        title: IG Farben
+        slug: ig-farben
+      - node_id: ba271350-3f14-4f58-aac0-f6ee45023c57
+        title: Standard Oil
+        slug: standard-oil
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: 01:20:00.2-01:20:11.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 4390e984-6ef2-4d37-97fe-2b511d5807b1
+    claim_hash: 29ab7e7aa7757fb2ab7a7cb5657c9fbcc06e758fdbe078d3f8962a5877c64d09
+    content: Allen Dulles helped with Nazi financing while based in Switzerland during World War II.
+    original_excerpt: And then Dulles was, you know, helping out with, you know, some Nazi financing. ... Hanging out in Switzerland.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: dea35210-38f0-4797-8438-84a5a9f42661
+        title: Allen Dulles
+        slug: allen-dulles
+    date: null
+    date_end: null
+    location_in_record: 01:21:19.2-01:21:23.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 4dbb53bb-b0d7-498d-abda-6df9f7702a2b
+    claim_hash: 30fa779f882ae49dbe0e9d6e02831a31b719582c3da18c67479571a839969656
+    content: When the United Kingdom needed engines for its fighter aircraft, Ford Motor Company refused, saying it was prioritising
+      production for Nazi Germany.
+    original_excerpt: when the UK was trying to get into the war, they needed to create engines for their jets, for their
+      fighter pilots. And Ford said, no, we're not going to do that. We're prioritizing the trunks for Nazi Germany.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0984362b-19eb-4a0b-894e-1bdad2b81241
+        title: Ford Motor Company
+        slug: ford-motor-company
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: 01:21:38.9-01:21:50.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 2c73f43d-474e-4fd8-bc55-f78de4c09732
+    claim_hash: d1e6b8ec01b9836fc5631b4712a5c6811eafa1089a0bb23b383e27075080375b
+    content: The financiers and industrialists who were commercially entangled with German industry before and during World
+      War II were the same people running the intelligence networks that would enable the evacuation of that technology.
+    original_excerpt: And the very people who should be keeping their eyes on them are running the intelligence networks,
+      which are going to enable them to evacuate all of this technology.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
+        title: Office of Strategic Services (OSS)
+        slug: office-of-strategic-services-oss
+      - node_id: 886d13f0-bdfe-443d-b92c-9fbe1114b477
+        title: British Security Co-ordination (BSC)
+        slug: british-security-co-ordination-bsc
+      - node_id: a7aa4b7b-cc5a-4683-939a-dfd7314bdb32
+        title: Special Operations Executive (SOE)
+        slug: special-operations-executive-soe
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: 01:23:52.4-01:23:58.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: ddc1cd3b-cf31-4d56-83a4-03e83f72abbd
+    claim_hash: 04ff3ca8789e752ca8bfea6f3bda482095f37bd36f5b6866b381b821e45da6b0
+    content: Tom Hill, a United Kingdom member of the World Commerce Corporation, said the goal was to take advantage of the
+      relationships accrued during World War II.
+    original_excerpt: one of the people, I think it was Tom Hill. He was one of the UK members of WCC. He said, the goal was
+      to take advantage of the relationships we'd accrued during the war.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Tom Hill
+      relay:
+        - Jason Samosa's research
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39627a98-b227-4fb5-9262-589c4f9579b6
+        title: Tom Hill
+        slug: tom-hill
+      - node_id: 7699ee6b-266c-42ed-95b2-3b4430fd2af9
+        title: World Commerce Corporation
+        slug: world-commerce-corporation
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: 01:26:23.4-01:26:32.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 4f5610c5-4616-45d1-9272-1f12e6004ab6
+    claim_hash: 87785bafefc0932cad2e3925b71183a84f2bf66e63c87a0f53d0160d931f9ad1
+    content: In Messengers of Deception, an anonymous source identified only as Major Murphy suggested to Jacques Vallee that
+      people may have created flying saucers during World War II, pointing to 1943, and that the real advantage of the technology
+      was not its flight capability but its psychotronic effect.
+    original_excerpt: He's talking with Vallee about, what if it's possible that people created flying saucers during the
+      war? And he points to 1943 and he says, you know, what if someone was experimenting with this technology? It turns out
+      its real advantage wasn't its flight capabilities, but its psychotronic effect.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a senior military officer, identified in Messengers of Deception only as Major Murphy
+      relay:
+        - Jacques Vallee
+        - Messengers of Deception
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 4e89510d-db19-43b9-84d0-6d3fe06ca7f8
+        title: Messengers of Deception
+        slug: messengers-of-deception
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: 01:27:48.1-01:28:04.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 6f5336a0-bf7c-416e-a193-ed2072051e55
+    claim_hash: 49db39b172b12298f62bf35d485b05444a1eb889b67bcc7dcdfcadb993110525
+    content: Thomas Townsend Brown carried out a technology retrieval mission behind enemy lines during World War II.
+    original_excerpt: when Thomas Townsend Brown did a tech retrieval mission in behind enemy lines in world war two
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+        title: crash retrieval and reverse engineering
+        slug: crash-retrieval-and-reverse-engineering
+      - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
+        title: Thomas Townsend Brown
+        slug: thomas-townsend-brown
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: 01:30:04.3-01:30:10.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: ae7b6db4-ce3b-4739-bd2e-6c4f9d2a801e
+    claim_hash: 34705866f9f51ef093dc9da5cdbc80526589e28e11efa05ac1ecc492266d4ddf
+    content: Ricardo Sicre was a Spanish spy during World War II employed by the Office of Strategic Services (OSS).
+    original_excerpt: he was essentially, I think, a Spanish guy, Spanish spy during World War II, who was basically employed
+      by the OSS
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
+        title: Office of Strategic Services (OSS)
+        slug: office-of-strategic-services-oss
+      - node_id: b4639fd0-3119-4df0-8016-6caeac24da38
+        title: Ricardo Sicre
+        slug: ricardo-sicre
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: 01:33:19.2-01:33:25.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: d9b72449-b1ec-4196-93df-08d0a77b3de0
+    claim_hash: 3831f446c1bd06e3a24a327b0d1144f1c7309e6648b1e14ebb478338287faeae
+    content: Robert Maxwell interrogated Nazi scientists after the Second World War, according to Jesse Michels.
+    original_excerpt: So you have this MI6 guy in Robert Maxwell, who I also don't think anybody knows, interrogated Nazi
+      scientists post-World War II.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Jesse Michels narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95ca8e63-159b-439a-9cd6-f52a171edd74
+        title: Robert Maxwell
+        slug: robert-maxwell
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: 01:47:13.5-01:47:22.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 421f0ff6-55eb-4f4f-8dfc-00eacf220f54
+    claim_hash: 8d988d7557ad6cfdd55fcf43344043cbf66ea40bbec4e8bad795db18872076ed
+    content: Jason Samosa characterises the Holocaust in World War II as an attempt to exterminate a specific lineage of people
+      and their DNA from the planet.
+    original_excerpt: So in World War II, Everything that happened in terms of the Holocaust was basically about trying to
+      exterminate a specific lineage, right? A specific group of people and their DNA from the planet.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 93c3f513-e320-4d7e-bb43-a343cd220d03
+        title: the Holocaust
+        slug: the-holocaust
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: eb16ca39-c2e7-4102-ba7d-9b127e88a047
+        title: genocide
+        slug: genocide
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:10:15.6-02:10:26.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 858591b6-9657-410a-a4d9-5f6571bb8faf
+    claim_hash: d81e1dba7e0445395d32ee80972ae561fbeba0042365f76b346ed7a923534da8
+    content: Whitley Strieber began writing the book In Hitler's House shortly after Anne Strieber died, because he was unable
+      to write anything on the close encounter subject at that time and history, particularly World War II history, is one
+      of his interests.
+    original_excerpt: I wrote a book. called In Hitler's House. I started it right after Annie passed away because I wasn't
+      able to write anything in this subject, and I'm interested in history. And in World War II history in particular, it's
+      one of my interests.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+        title: Anne Strieber
+        slug: anne-strieber
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 7c0fb053-a549-4708-ad43-36c596382880
+        title: In Hitler's House (Whitley Strieber)
+        slug: in-hitlers-house-whitley-strieber
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: 02:09:31.3-02:09:49.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 39984a5d-1019-4712-9775-cbc8ff83d8b9
+    claim_hash: 035dbe3b06cad5294a7705b281f190381f874283ac62c4dd87333bdb1b0277b3
+    content: Whitley Strieber's book In Hitler's House is written from the viewpoint of someone who was with Adolf Hitler
+      before and during World War II, and required perfect period detail of clothing, food, pens, bed linen and toiletries.
+    original_excerpt: So I'm writing this book and it's from the viewpoint of someone who was there with Hitler. before and
+      during the World War. So it's gotta be, the verisimilitude has to be perfect. It's not just a historical novel, you've
+      got to know what kind of suits they wore, what kind of things they ate, what kind of pens they used, what their bed
+      linen felt like, what they bathed with, what kind of toothpaste they used, all of that stuff.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 7c0fb053-a549-4708-ad43-36c596382880
+        title: In Hitler's House (Whitley Strieber)
+        slug: in-hitlers-house-whitley-strieber
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: 02:12:01.4-02:12:36.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 90af08d2-e333-4242-bf00-716b2564f0cc
+    claim_hash: ed89532f23b57a52ec8d24975ca49bbf643c3cadf516e6b17d6480e8b34e6eeb
+    content: In the information Whitley Strieber received through his implant, a war with Iran would escalate to worldwide
+      nuclear conflict not because anyone wanted it but because, as in World War I, the parties would be unable to stop once
+      war had started.
+    original_excerpt: Not because anyone wanted it to, but because it would happen like World War I happened, where they couldn't
+      stop going to war once they started.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20f74902-e650-4d8b-a454-8e37e7cd471c
+        title: Whitley Strieber's alien implant
+        slug: whitley-striebers-alien-implant
+      - node_id: 3fea44f6-262c-4077-bac8-78b8f2e3ba6e
+        title: 2026 United States war with Iran
+        slug: 2026-united-states-war-with-iran
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: 02:24:12.9-02:24:23.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: eefbd167-a8a2-48c5-b2f4-667d46064717
+    claim_hash: 57d3969b68f742163b6cd468046a9368ba8b7cffa6a1ec4b92e6358b41fed590
+    content: On 1914-08-01 the general view was that there was merely some trouble in the Balkans, and by 1914-09-01 the entire
+      world was unexpectedly at war.
+    original_excerpt: on August the 1st, 1914, Everyone thought, well, there's some trouble in the Balkans. On September the
+      1st, the entire world was unexpectedly at war.
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: asserted without attribution
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: '1914-08-01'
+    date_end: null
+    location_in_record: 02:24:56.6-02:25:09.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

@@ -9,1166 +9,1168 @@ page:
   claim_count: 28
   claim_count_total: 28
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 28
+  tokens_estimated: 9048
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 28
 related_nodes:
-- node_id: efc0bdff-6708-489d-8d9e-cc001ef5456d
-  title: 1823 Joseph Smith vision of Angel Moroni
-  node_type: event
-  slug: 1823-joseph-smith-vision-of-angel-moroni
-  shared_claims: 4
-- node_id: e797c874-6da5-4c82-bba8-a1657f4d16b0
-  title: Angel Moroni
-  node_type: person
-  slug: angel-moroni
-  shared_claims: 4
-- node_id: daf7515b-81dc-4255-af30-0004050b05dd
-  title: Book of Mormon
-  node_type: document
-  slug: book-of-mormon
-  shared_claims: 3
-- node_id: dc484071-faa6-4247-bc85-f8ee81ec5402
-  title: Evans-Wentz
-  node_type: person
-  slug: evans-wentz
-  shared_claims: 3
-- node_id: e56783fe-0326-4a28-8945-7c275b3d0492
-  title: Martin Harris
-  node_type: person
-  slug: martin-harris
-  shared_claims: 3
-- node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
-  title: Charlie Hickson
-  node_type: person
-  slug: charlie-hickson
-  shared_claims: 2
-- node_id: 0e66a0b2-04ea-4a26-a9b7-cbd062a131c0
-  title: USA, New York
-  node_type: place
-  slug: new-york-usa
-  shared_claims: 2
-- node_id: 95a42060-1537-4177-90aa-d2ff8e1b7362
-  title: 1823 Joseph Smith vision of golden plates, New York
-  node_type: event
-  slug: new-york-1823-joseph-smith-vision-of-golden-plates
-  shared_claims: 1
-- node_id: 511be6e9-f6d4-4832-b199-2076bb502069
-  title: 1829 Joseph Smith and companions' vision of angel with plates
-  node_type: event
-  slug: 1829-joseph-smith-and-companions-vision-of-angel-with-plates
-  shared_claims: 1
-- node_id: a62562f8-6cee-47d0-81a1-ec52158de11f
-  title: 1844 lynching of Joseph Smith, Illinois
-  node_type: event
-  slug: illinois-1844-lynching-of-joseph-smith
-  shared_claims: 1
-- node_id: ebbea786-6328-4806-9f9e-4ebcc01f6aa6
-  title: Chicago Democrat
-  node_type: organisation
-  slug: chicago-democrat
-  shared_claims: 1
-- node_id: ec8bc36a-c2d7-4788-9f16-e37959984e63
-  title: Church of Jesus Christ of Latter-Day Saints
-  node_type: organisation
-  slug: church-of-jesus-christ-of-latter-day-saints
-  shared_claims: 1
-- node_id: 7a2f8a54-aaa4-45e0-adf0-bbabbf46a4cb
-  title: Colonel Wentworth
-  node_type: person
-  slug: colonel-wentworth
-  shared_claims: 1
-- node_id: 0a755bc6-c87c-464a-a385-7d048f20d654
-  title: David Whitmer
-  node_type: person
-  slug: david-whitmer
-  shared_claims: 1
-- node_id: fff9022b-3ccd-497f-876a-5cd36c1ebac5
-  title: Devas (Shining Beings)
-  node_type: topic
-  slug: devas-shining-beings
-  shared_claims: 1
-- node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
-  title: Edgar Cayce
-  node_type: person
-  slug: edgar-cayce
-  shared_claims: 1
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 1
-- node_id: f7fbff31-55ae-4ab9-9955-4ab6930f7418
-  title: Joan of Arc
-  node_type: person
-  slug: joan-of-arc
-  shared_claims: 1
-- node_id: bebf1928-ffbe-4cb2-b16a-8dd06d56beeb
-  title: Men in Black (Unidentified Flying Object (UFO) lore)
-  node_type: topic
-  slug: men-in-black-unidentified-flying-object-ufo-lore
-  shared_claims: 1
-- node_id: 706060a7-5c5c-4e84-93e6-52176145fee0
-  title: Mormon Church
-  node_type: organisation
-  slug: mormon-church
-  shared_claims: 1
-- node_id: 7cb583d0-1fb6-4786-b85d-980d4e6683f5
-  title: Oliver Cowdery
-  node_type: person
-  slug: oliver-cowdery
-  shared_claims: 1
-- node_id: f7bc65d9-0331-485f-bcc3-548f399939ba
-  title: The Three Nephites
-  node_type: topic
-  slug: the-three-nephites
-  shared_claims: 1
-- node_id: 38f90f5b-3826-41be-b9ac-b19f83b27ba6
-  title: USA, Illinois
-  node_type: place
-  slug: illinois-usa
-  shared_claims: 1
-- node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
-  title: Uri Geller
-  node_type: person
-  slug: uri-geller
-  shared_claims: 1
-claims:
-- claim_id: b93f2376-6408-4eef-ba98-92db0cd9b9f2
-  claim_hash: cc52b95480e447795c4266b0f88c0fbdbcf0b3deda097dad3a7d7e615dc2d1b9
-  content: Joseph Smith founded the Mormon Church in the nineteenth century after
-    following orders given to him by an angel of light named Moroni.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 706060a7-5c5c-4e84-93e6-52176145fee0
-    title: Mormon Church
-    slug: mormon-church
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch4:22953-23142
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 195b98b9-8c81-48b0-889a-dfbebe0538d6
-  claim_hash: c1eed3fb05befab920188a37abb55d49870e990a49e90f3a70134803232e98a4
-  content: Jacques Vallée classifies Joan of Arc, Joseph Smith, Edgar Cayce, and Uri
-    Geller as historical direct contactees.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
-    title: Edgar Cayce
-    slug: edgar-cayce
-  - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
-    title: Uri Geller
-    slug: uri-geller
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  - node_id: f7fbff31-55ae-4ab9-9955-4ab6930f7418
-    title: Joan of Arc
-    slug: joan-of-arc
-  date: null
-  date_end: null
-  location_in_record: ch6:13676-13804
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: eeb0e41d-c1f8-484f-97ba-3114fcb2f4b2
-  claim_hash: 860168c5141e3b3bd12c4e1f93d05934820345581bd47abfd2be2ad60c50295f
-  content: Evans-Wentz believed the vision of God and Jesus experienced by Joseph
-    Smith, the founder of the Church of Jesus Christ of Latter-Day Saints, was in
-    fact a vision of the Shining Beings, known elsewhere as Devas.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: dc484071-faa6-4247-bc85-f8ee81ec5402
-    title: Evans-Wentz
-  provenance_chain:
-    origin_kind: named
-    origin: Evans-Wentz
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+  - node_id: efc0bdff-6708-489d-8d9e-cc001ef5456d
+    title: 1823 Joseph Smith vision of Angel Moroni
+    node_type: event
+    slug: 1823-joseph-smith-vision-of-angel-moroni
+    shared_claims: 4
+  - node_id: e797c874-6da5-4c82-bba8-a1657f4d16b0
+    title: Angel Moroni
+    node_type: person
+    slug: angel-moroni
+    shared_claims: 4
+  - node_id: daf7515b-81dc-4255-af30-0004050b05dd
+    title: Book of Mormon
+    node_type: document
+    slug: book-of-mormon
+    shared_claims: 3
   - node_id: dc484071-faa6-4247-bc85-f8ee81ec5402
     title: Evans-Wentz
+    node_type: person
     slug: evans-wentz
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  - node_id: ec8bc36a-c2d7-4788-9f16-e37959984e63
-    title: Church of Jesus Christ of Latter-Day Saints
-    slug: church-of-jesus-christ-of-latter-day-saints
-  - node_id: fff9022b-3ccd-497f-876a-5cd36c1ebac5
-    title: Devas (Shining Beings)
-    slug: devas-shining-beings
-  date: null
-  date_end: null
-  location_in_record: ch15:44660-44869
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 8d01c040-f513-4f8e-893e-1eb5d3cb9b4a
-  claim_hash: cdfa3226a603bd01c0dec5c9538dd69bf0dc943dc789b1a868d9437789328392
-  content: On the night of 1823-09-21, Joseph Smith reported a light appearing in
-    his room that grew until it was lighter than at noonday, followed by a personage
-    standing in the air beside his bed, whose feet did not touch the floor.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Joseph Smith
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 3
+  - node_id: e56783fe-0326-4a28-8945-7c275b3d0492
+    title: Martin Harris
+    node_type: person
+    slug: martin-harris
+    shared_claims: 3
+  - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+    title: Charlie Hickson
+    node_type: person
+    slug: charlie-hickson
+    shared_claims: 2
+  - node_id: 0e66a0b2-04ea-4a26-a9b7-cbd062a131c0
+    title: USA, New York
+    node_type: place
+    slug: new-york-usa
+    shared_claims: 2
   - node_id: 95a42060-1537-4177-90aa-d2ff8e1b7362
     title: 1823 Joseph Smith vision of golden plates, New York
+    node_type: event
     slug: new-york-1823-joseph-smith-vision-of-golden-plates
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: '1823-09-21'
-  date_end: null
-  location_in_record: ch15:46720-46940
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: aa5c250d-2b0c-43f0-a1a9-4bcecb76c5c8
-  claim_hash: de307f1bb9068ed69390fa2dd96e1eebc74c4af2a845796aaf1aa3ba052baa11
-  content: Joseph Smith reported that the personage identified himself as Moroni,
-    a messenger sent from the presence of God, and said that Smith's name would become
-    known for good and evil among all nations.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Joseph Smith
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: e797c874-6da5-4c82-bba8-a1657f4d16b0
-    title: Angel Moroni
-    slug: angel-moroni
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  - node_id: efc0bdff-6708-489d-8d9e-cc001ef5456d
-    title: 1823 Joseph Smith vision of Angel Moroni
-    slug: 1823-joseph-smith-vision-of-angel-moroni
-  date: '1823-09-21'
-  date_end: null
-  location_in_record: ch15:46949-47194
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: ce81e87b-7e86-4a68-9b49-107d7226ec8a
-  claim_hash: c66123e5a3ddba293dc5e362003b1b33cfc4ede9e6187ecdf8d7d3f594995c9a
-  content: The revelation of the Book of Mormon began on the night of 1823-09-21 between
-    Joseph Smith and an angel.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: daf7515b-81dc-4255-af30-0004050b05dd
-    title: Book of Mormon
-    slug: book-of-mormon
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  - node_id: efc0bdff-6708-489d-8d9e-cc001ef5456d
-    title: 1823 Joseph Smith vision of Angel Moroni
-    slug: 1823-joseph-smith-vision-of-angel-moroni
-  date: '1823-09-21'
-  date_end: null
-  location_in_record: ch15:47205-47367
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: e8eb22c5-f5e4-40f6-b4a3-eb0810722b83
-  claim_hash: 4498d091bd8c1e03e414ed962a490be376ea1604871035fb07e58e2825fb01e9
-  content: The angel stated that the Book of Mormon was in the form of gold plates
-    buried at a certain spot, to be translated with the help of two stones in silver
-    bows buried with the plates.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Joseph Smith
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: daf7515b-81dc-4255-af30-0004050b05dd
-    title: Book of Mormon
-    slug: book-of-mormon
-  - node_id: e797c874-6da5-4c82-bba8-a1657f4d16b0
-    title: Angel Moroni
-    slug: angel-moroni
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch15:47374-47569
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: ba6c16fd-129b-4f51-a8b8-b036797e7fab
-  claim_hash: 253fa1a308bce3234304b1b59b3b66cd215200037ca2b1dad22793cddd3b2cef
-  content: Joseph Smith reported that after the communication, the light gathered
-    around the personage until the room went dark except around him, and he saw what
-    appeared to be a conduit open into heaven, through which the personage ascended
-    and disappeared.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Joseph Smith
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: e797c874-6da5-4c82-bba8-a1657f4d16b0
-    title: Angel Moroni
-    slug: angel-moroni
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: '1823-09-21'
-  date_end: null
-  location_in_record: ch15:47578-47859
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 9f6af8f4-7ff9-4a53-8e10-ce71e6170b9c
-  claim_hash: cb8874fd85a2d18a063e69503c1baec340026a066de974447607db281448ee2a
-  content: In 1842, at the request of Colonel Wentworth of the Chicago Democrat, Joseph
-    Smith wrote a sketch of the history of the Mormon Church containing additional
-    details on the apparition.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7a2f8a54-aaa4-45e0-adf0-bbabbf46a4cb
-    title: Colonel Wentworth
-    slug: colonel-wentworth
-  - node_id: ebbea786-6328-4806-9f9e-4ebcc01f6aa6
-    title: Chicago Democrat
-    slug: chicago-democrat
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: '1842'
-  date_end: null
-  location_in_record: ch15:47920-48097
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 560ccfb5-5058-4421-baee-7065710636b2
-  claim_hash: 4b01ab053511c2dde7c2ee7dbe0d8a6972d1b6a94ce47765886a274be34361da
-  content: Joseph Smith described a light bursting into the room brighter than that
-    of day, producing a shock affecting his whole body, followed by a personage standing
-    before him surrounded by an even greater glory.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Joseph Smith
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch15:48110-48415
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 3096ddbc-4245-4a94-be23-9f08948bebcf
-  claim_hash: 9df6e13cb042674e77cc5f524e35f8eb287cd470366f667304afe1f5484c3ee9
-  content: Joseph Smith reported being told of plates deposited nearby engraved with
-    an abridgement of records of ancient peoples on the American continent, and that
-    the angel appeared to him three times the same night, repeating the same message.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Joseph Smith
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch15:48498-48734
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 4c92bee6-5303-4dcf-8eae-f7c56cdb6e04
-  claim_hash: 3f3731ae383ba68a3a2d759f6284b49febdb4c134a248e70c61b9af92a9acb99
-  content: The 1823 vision of Angel Moroni was not Joseph Smith's first vision; he
-    had earlier claimed a mystical revelation at age 14 while alone in the wilderness,
-    which led him to be forbidden from joining any religious sect.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  - node_id: efc0bdff-6708-489d-8d9e-cc001ef5456d
-    title: 1823 Joseph Smith vision of Angel Moroni
-    slug: 1823-joseph-smith-vision-of-angel-moroni
-  date: null
-  date_end: null
-  location_in_record: ch15:48773-49018
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 9cfc6bbb-7113-4e0a-baeb-56b5e31003b7
-  claim_hash: bc877f67ce9d37c0d236ccdec47117ea627b20520acea0971359d0744fdd5017
-  content: Angel Moroni appeared to Joseph Smith three times during the night of 1823-09-21,
-    which happened to be the Autumn Equinox, repeating exactly the same words each
-    time.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: e797c874-6da5-4c82-bba8-a1657f4d16b0
-    title: Angel Moroni
-    slug: angel-moroni
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  - node_id: efc0bdff-6708-489d-8d9e-cc001ef5456d
-    title: 1823 Joseph Smith vision of Angel Moroni
-    slug: 1823-joseph-smith-vision-of-angel-moroni
-  date: '1823-09-21'
-  date_end: null
-  location_in_record: ch15:49209-49348
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 138d6550-11c4-4c61-86f3-6c1bd316280d
-  claim_hash: 5a22685fcc23c94560130cb19691afdefc6253e00cd0cc3fdafb762ee2f0bfef
-  content: After the angel's third appearance, Joseph Smith was surprised to hear
-    a cock crow and find daylight approaching, so that the interviews had occupied
-    the whole night.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Joseph Smith
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch15:49355-49523
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 5efbe429-47f0-4aee-adf8-294b2d92e702
-  claim_hash: 36f81cc52cae252d4b67420de8c05f05aec27b8fb7b9349e1a7abcb859c06cfc
-  content: After the vision, Joseph Smith found himself too exhausted to work at his
-    normal chores, collapsed unconscious while crossing a fence, and the angel appeared
-    to him again, telling him to reveal his instructions to his father.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch15:49532-49879
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: efbe38a4-17af-46c9-a82e-fc00c7375283
-  claim_hash: 81321c7dca8f9b7f76dd9f087dbf6b075fe2b53b1f800ca2bd672e63b30ad828
-  content: Joseph Smith's father told him to go and do as he had been commanded, saying
-    the instructions were of God.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch15:49926-50019
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 0e81020a-ca65-4922-8352-de83ee0c40fb
-  claim_hash: 418e8abb01a2e15b1c566f9b98d6eac529fa6ad57e8bb36a8e6882bd498e0937
-  content: Joseph Smith found the buried plates inside a stone box which he could
-    open, but was unable to remove the plates; the angel told him to return in one
-    year, and each year after, until he would be permitted to take them four years
-    later.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch15:50110-50384
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: cc6a02b2-c027-4935-b4fd-4c79d5f26318
-  claim_hash: 55b2ea0a31d56cc4740720cd47ab5a78b9aa6ae6624f63fec7d078c138a91364
-  content: Martin Harris, a wealthy farmer, helped Joseph Smith work on the translation
-    of the golden plates using special stones Smith had found in the box.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: e56783fe-0326-4a28-8945-7c275b3d0492
-    title: Martin Harris
-    slug: martin-harris
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch15:50435-50625
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: dfb43757-fb6b-4fc7-bc66-bd46379ea23c
-  claim_hash: dd21f973277301df96e5760a3b16e1f1e6057c2314057d28fa466f1441820d11
-  content: When Martin Harris took the plates and the beginning of the translation
-    to Professor Charles Anthon of New York, Anthon stated the translation was correct,
-    more so than any he had seen translated from Egyptian.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Charles Anthon
-    relay:
-    - Martin Harris
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0e66a0b2-04ea-4a26-a9b7-cbd062a131c0
-    title: USA, New York
-    slug: new-york-usa
-  - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
-    title: Charlie Hickson
-    slug: charlie-hickson
-  - node_id: e56783fe-0326-4a28-8945-7c275b3d0492
-    title: Martin Harris
-    slug: martin-harris
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch15:50630-50857
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 913c12bc-9389-4e11-8038-6512c153acd9
-  claim_hash: 075ae631158e90fecdfa0191bd0e1f0ebc98264c8c87255a14267f4149db3ea3
-  content: Charles Anthon said the untranslated plates appeared to be Egyptian, Chaldaic,
-    Assyrian, and Arabic, and signed a statement to that effect, which he later tore
-    up upon learning Smith had found the plates on an angel's instructions.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Charles Anthon
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
-    title: Charlie Hickson
-    slug: charlie-hickson
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch15:50868-51154
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: a83deb37-1365-4b6d-a53c-f4b7ea8bc77e
-  claim_hash: ae8d6e472000f3b3602bdb4f0f0af636803760844a504c0898c064dfefb52f63
-  content: Eleven persons stated that they saw the golden plates unearthed by Joseph
-    Smith.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch15:51164-51236
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: a3329f8f-7ba3-416d-af07-ab56bf3c0957
-  claim_hash: 96e236170ca13ea2a33e5588a2463647da59cb18851d0e5adfd3a9b66b0f2609
-  content: In June 1829, Joseph Smith, accompanied by Martin Harris, David Whitmer,
-    and Oliver Cowdery, retired to the woods to pray for a vision of the plates.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0a755bc6-c87c-464a-a385-7d048f20d654
-    title: David Whitmer
-    slug: david-whitmer
+    shared_claims: 1
   - node_id: 511be6e9-f6d4-4832-b199-2076bb502069
     title: 1829 Joseph Smith and companions' vision of angel with plates
+    node_type: event
     slug: 1829-joseph-smith-and-companions-vision-of-angel-with-plates
-  - node_id: 7cb583d0-1fb6-4786-b85d-980d4e6683f5
-    title: Oliver Cowdery
-    slug: oliver-cowdery
-  - node_id: e56783fe-0326-4a28-8945-7c275b3d0492
-    title: Martin Harris
-    slug: martin-harris
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: 1829-06
-  date_end: null
-  location_in_record: ch15:51243-51474
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: c8b09734-2c4d-42a4-9f54-79aa8492f0d0
-  claim_hash: c21a0836569c82089c4a0c53e50f6c7de6ef55a983bd146eb861d2d231298afc
-  content: Jacques Vallee considers the transformation of an ordinary farmboy from
-    rural New York State into an unchallenged leader of multitudes, referring to Joseph
-    Smith, an unusual fact deserving investigation.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallee
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 0e66a0b2-04ea-4a26-a9b7-cbd062a131c0
-    title: USA, New York
-    slug: new-york-usa
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch15:53784-53941
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: bd527e11-300b-4603-9b28-c13fb3d327f8
-  claim_hash: f5cd7af25fe78dc79a453b703c544adcccf477559473ca6bcc3d1f06f71447a4
-  content: Evans-Wentz was intrigued by Joseph Smith's first vision, which was of
-    two entities whose names Smith was not privileged to learn, and which took place
-    during Smith's fifteenth year while he was praying in a wood.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: dc484071-faa6-4247-bc85-f8ee81ec5402
-    title: Evans-Wentz
-    slug: evans-wentz
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch15:54309-54545
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 84b363dc-82d0-44a2-99f8-99f586ea9307
-  claim_hash: 6bf324ca4257af71be264dd8745e907b13483ac4cdced97a60fee2329969fcb2
-  content: Joseph Smith reported that a pillar of light descended over his head, brighter
-    than the sun, until it fell upon him, whereupon he saw two personages of indescribable
-    brightness and glory standing above him in the air, one of whom spoke to him.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Joseph Smith
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch15:54552-54834
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 8af3bd27-3cd7-459a-9e82-e31b452b478f
-  claim_hash: dfeaf9e74ccc3ce3b32c7f24b6d64c03a95ec425bd367d72aebc4deaad7773ab
-  content: Evans-Wentz, as translator of the Tibetan Book of the Dead, recognised
-    that Joseph Smith's role in bringing out the Book of Mormon was similar to that
-    of the Tertons, the 'takers-out' of secreted scriptures in Tibet.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: dc484071-faa6-4247-bc85-f8ee81ec5402
-    title: Evans-Wentz
-  provenance_chain:
-    origin_kind: named
-    origin: Evans-Wentz
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: daf7515b-81dc-4255-af30-0004050b05dd
-    title: Book of Mormon
-    slug: book-of-mormon
-  - node_id: dc484071-faa6-4247-bc85-f8ee81ec5402
-    title: Evans-Wentz
-    slug: evans-wentz
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch15:54841-55061
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 5c024409-53c4-4067-8dd3-ea9d64cc89af
-  claim_hash: e0907c213f62dee50713dcaa7b8f28ab0100b292a7c00497085119af0f97f0cc
-  content: The Three Nephites of Mormon lore have been seen several times since the
-    days of Joseph Smith and form a counterpart to the Three Men in Black of modern
-    UFO lore.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: bebf1928-ffbe-4cb2-b16a-8dd06d56beeb
-    title: Men in Black (Unidentified Flying Object (UFO) lore)
-    slug: men-in-black-unidentified-flying-object-ufo-lore
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  - node_id: f7bc65d9-0331-485f-bcc3-548f399939ba
-    title: The Three Nephites
-    slug: the-three-nephites
-  date: null
-  date_end: null
-  location_in_record: ch15:55896-56065
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: f9b8c89e-b7b2-437d-a526-82fab1b7b981
-  claim_hash: 919eede8e31b1693fbed0eb8b057d9a2c581e3c8e5ca0c0d22a4b72710fe8955
-  content: Joseph Smith was lynched by a crowd in Illinois.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38f90f5b-3826-41be-b9ac-b19f83b27ba6
-    title: USA, Illinois
-    slug: illinois-usa
+    shared_claims: 1
   - node_id: a62562f8-6cee-47d0-81a1-ec52158de11f
     title: 1844 lynching of Joseph Smith, Illinois
+    node_type: event
     slug: illinois-1844-lynching-of-joseph-smith
-  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
-    title: Joseph Smith
-    slug: joseph-smith
-  date: null
-  date_end: null
-  location_in_record: ch15:60045-60084
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: ebbea786-6328-4806-9f9e-4ebcc01f6aa6
+    title: Chicago Democrat
+    node_type: organisation
+    slug: chicago-democrat
+    shared_claims: 1
+  - node_id: ec8bc36a-c2d7-4788-9f16-e37959984e63
+    title: Church of Jesus Christ of Latter-Day Saints
+    node_type: organisation
+    slug: church-of-jesus-christ-of-latter-day-saints
+    shared_claims: 1
+  - node_id: 7a2f8a54-aaa4-45e0-adf0-bbabbf46a4cb
+    title: Colonel Wentworth
+    node_type: person
+    slug: colonel-wentworth
+    shared_claims: 1
+  - node_id: 0a755bc6-c87c-464a-a385-7d048f20d654
+    title: David Whitmer
+    node_type: person
+    slug: david-whitmer
+    shared_claims: 1
+  - node_id: fff9022b-3ccd-497f-876a-5cd36c1ebac5
+    title: Devas (Shining Beings)
+    node_type: topic
+    slug: devas-shining-beings
+    shared_claims: 1
+  - node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
+    title: Edgar Cayce
+    node_type: person
+    slug: edgar-cayce
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: f7fbff31-55ae-4ab9-9955-4ab6930f7418
+    title: Joan of Arc
+    node_type: person
+    slug: joan-of-arc
+    shared_claims: 1
+  - node_id: bebf1928-ffbe-4cb2-b16a-8dd06d56beeb
+    title: Men in Black (UFO lore)
+    node_type: topic
+    slug: men-in-black-ufo-lore
+    shared_claims: 1
+  - node_id: 706060a7-5c5c-4e84-93e6-52176145fee0
+    title: Mormon Church
+    node_type: organisation
+    slug: mormon-church
+    shared_claims: 1
+  - node_id: 7cb583d0-1fb6-4786-b85d-980d4e6683f5
+    title: Oliver Cowdery
+    node_type: person
+    slug: oliver-cowdery
+    shared_claims: 1
+  - node_id: f7bc65d9-0331-485f-bcc3-548f399939ba
+    title: The Three Nephites
+    node_type: topic
+    slug: the-three-nephites
+    shared_claims: 1
+  - node_id: 38f90f5b-3826-41be-b9ac-b19f83b27ba6
+    title: USA, Illinois
+    node_type: place
+    slug: illinois-usa
+    shared_claims: 1
+  - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+    title: Uri Geller
+    node_type: person
+    slug: uri-geller
+    shared_claims: 1
+claims:
+  - claim_id: b93f2376-6408-4eef-ba98-92db0cd9b9f2
+    claim_hash: cc52b95480e447795c4266b0f88c0fbdbcf0b3deda097dad3a7d7e615dc2d1b9
+    content: Joseph Smith founded the Mormon Church in the nineteenth century after following orders given to him by an angel
+      of light named Moroni.
+    original_excerpt: In the nineteenth century, the religious establishment laughed when a young man named Joseph Smith followed
+      the orders given to him by an angel of light named Moroni and founded the Mormon Church.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 706060a7-5c5c-4e84-93e6-52176145fee0
+        title: Mormon Church
+        slug: mormon-church
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch4:22953-23142
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 195b98b9-8c81-48b0-889a-dfbebe0538d6
+    claim_hash: c1eed3fb05befab920188a37abb55d49870e990a49e90f3a70134803232e98a4
+    content: Jacques Vallée classifies Joan of Arc, Joseph Smith, Edgar Cayce, and Uri Geller as historical direct contactees.
+    original_excerpt: Under this definition, such historical figures as Joan of Arc or Joseph Smith are direct contactees.
+      So are Edgar Cayce and Uri Geller.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
+        title: Edgar Cayce
+        slug: edgar-cayce
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+      - node_id: f7fbff31-55ae-4ab9-9955-4ab6930f7418
+        title: Joan of Arc
+        slug: joan-of-arc
+    date: null
+    date_end: null
+    location_in_record: ch6:13676-13804
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: eeb0e41d-c1f8-484f-97ba-3114fcb2f4b2
+    claim_hash: 860168c5141e3b3bd12c4e1f93d05934820345581bd47abfd2be2ad60c50295f
+    content: Evans-Wentz believed the vision of God and Jesus experienced by Joseph Smith, the founder of the Church of Jesus
+      Christ of Latter-Day Saints, was in fact a vision of the Shining Beings, known elsewhere as Devas.
+    original_excerpt: The vision of God and Jesus experienced by Joseph Smith, the founder of the Church of Latter-Day Saints,
+      was in fact, Evans-Wentz believes, a vision of the Shining Beings (known in other parts of the world as Devas).
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: dc484071-faa6-4247-bc85-f8ee81ec5402
+      title: Evans-Wentz
+    provenance_chain:
+      origin_kind: named
+      origin: Evans-Wentz
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: dc484071-faa6-4247-bc85-f8ee81ec5402
+        title: Evans-Wentz
+        slug: evans-wentz
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+      - node_id: ec8bc36a-c2d7-4788-9f16-e37959984e63
+        title: Church of Jesus Christ of Latter-Day Saints
+        slug: church-of-jesus-christ-of-latter-day-saints
+      - node_id: fff9022b-3ccd-497f-876a-5cd36c1ebac5
+        title: Devas (Shining Beings)
+        slug: devas-shining-beings
+    date: null
+    date_end: null
+    location_in_record: ch15:44660-44869
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 8d01c040-f513-4f8e-893e-1eb5d3cb9b4a
+    claim_hash: cdfa3226a603bd01c0dec5c9538dd69bf0dc943dc789b1a868d9437789328392
+    content: On the night of 1823-09-21, Joseph Smith reported a light appearing in his room that grew until it was lighter
+      than at noonday, followed by a personage standing in the air beside his bed, whose feet did not touch the floor.
+    original_excerpt: I discovered a light appearing in my room, which continued to increase until the room was lighter than
+      at noonday, when immediately a personage appeared at my bedside, standing in the air, for his feet did not touch the
+      floor….
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Joseph Smith
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95a42060-1537-4177-90aa-d2ff8e1b7362
+        title: 1823 Joseph Smith vision of golden plates, New York
+        slug: new-york-1823-joseph-smith-vision-of-golden-plates
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: '1823-09-21'
+    date_end: null
+    location_in_record: ch15:46720-46940
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: aa5c250d-2b0c-43f0-a1a9-4bcecb76c5c8
+    claim_hash: de307f1bb9068ed69390fa2dd96e1eebc74c4af2a845796aaf1aa3ba052baa11
+    content: Joseph Smith reported that the personage identified himself as Moroni, a messenger sent from the presence of
+      God, and said that Smith's name would become known for good and evil among all nations.
+    original_excerpt: He called me by name, and said unto me that he was a messenger sent from the presence of God to me,
+      and that his name was Moroni; that God had a work for me to do; and that my name should be had for good and evil among
+      all nations, kindreds and tongues….
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Joseph Smith
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e797c874-6da5-4c82-bba8-a1657f4d16b0
+        title: Angel Moroni
+        slug: angel-moroni
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+      - node_id: efc0bdff-6708-489d-8d9e-cc001ef5456d
+        title: 1823 Joseph Smith vision of Angel Moroni
+        slug: 1823-joseph-smith-vision-of-angel-moroni
+    date: '1823-09-21'
+    date_end: null
+    location_in_record: ch15:46949-47194
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: ce81e87b-7e86-4a68-9b49-107d7226ec8a
+    claim_hash: c66123e5a3ddba293dc5e362003b1b33cfc4ede9e6187ecdf8d7d3f594995c9a
+    content: The revelation of the Book of Mormon began on the night of 1823-09-21 between Joseph Smith and an angel.
+    original_excerpt: Thus begins the account of the revelation of the Book of Mormon with the story of what transpired on
+      the night of September 21, 1823, between Joseph Smith and an angel.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: daf7515b-81dc-4255-af30-0004050b05dd
+        title: Book of Mormon
+        slug: book-of-mormon
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+      - node_id: efc0bdff-6708-489d-8d9e-cc001ef5456d
+        title: 1823 Joseph Smith vision of Angel Moroni
+        slug: 1823-joseph-smith-vision-of-angel-moroni
+    date: '1823-09-21'
+    date_end: null
+    location_in_record: ch15:47205-47367
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: e8eb22c5-f5e4-40f6-b4a3-eb0810722b83
+    claim_hash: 4498d091bd8c1e03e414ed962a490be376ea1604871035fb07e58e2825fb01e9
+    content: The angel stated that the Book of Mormon was in the form of gold plates buried at a certain spot, to be translated
+      with the help of two stones in silver bows buried with the plates.
+    original_excerpt: The book itself, the angel stated, was in the form of gold plates that lay buried at a certain spot,
+      and could be translated with the help of two stones in silver bows, that were buried with the plates.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Joseph Smith
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: daf7515b-81dc-4255-af30-0004050b05dd
+        title: Book of Mormon
+        slug: book-of-mormon
+      - node_id: e797c874-6da5-4c82-bba8-a1657f4d16b0
+        title: Angel Moroni
+        slug: angel-moroni
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:47374-47569
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: ba6c16fd-129b-4f51-a8b8-b036797e7fab
+    claim_hash: 253fa1a308bce3234304b1b59b3b66cd215200037ca2b1dad22793cddd3b2cef
+    content: Joseph Smith reported that after the communication, the light gathered around the personage until the room went
+      dark except around him, and he saw what appeared to be a conduit open into heaven, through which the personage ascended
+      and disappeared.
+    original_excerpt: After this communication, I saw the light in the room begin to gather immediately around the person
+      of him who had been speaking to me...I saw, as it were, a conduit open right up into heaven, and he ascended until he
+      entirely disappeared.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Joseph Smith
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e797c874-6da5-4c82-bba8-a1657f4d16b0
+        title: Angel Moroni
+        slug: angel-moroni
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: '1823-09-21'
+    date_end: null
+    location_in_record: ch15:47578-47859
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 9f6af8f4-7ff9-4a53-8e10-ce71e6170b9c
+    claim_hash: cb8874fd85a2d18a063e69503c1baec340026a066de974447607db281448ee2a
+    content: In 1842, at the request of Colonel Wentworth of the Chicago Democrat, Joseph Smith wrote a sketch of the history
+      of the Mormon Church containing additional details on the apparition.
+    original_excerpt: 'In 1842, at the request of Colonel Wentworth of the *Chicago Democrat,* Joseph Smith wrote a sketch
+      of the history of the Mormon Church that contained additional details on the apparition:'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a2f8a54-aaa4-45e0-adf0-bbabbf46a4cb
+        title: Colonel Wentworth
+        slug: colonel-wentworth
+      - node_id: ebbea786-6328-4806-9f9e-4ebcc01f6aa6
+        title: Chicago Democrat
+        slug: chicago-democrat
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: '1842'
+    date_end: null
+    location_in_record: ch15:47920-48097
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 560ccfb5-5058-4421-baee-7065710636b2
+    claim_hash: 4b01ab053511c2dde7c2ee7dbe0d8a6972d1b6a94ce47765886a274be34361da
+    content: Joseph Smith described a light bursting into the room brighter than that of day, producing a shock affecting
+      his whole body, followed by a personage standing before him surrounded by an even greater glory.
+    original_excerpt: On a sudden a light like that of day, only of a far purer and more glorious appearance and brightness,
+      burst into the room...In a moment a personage stood before me surrounded with a glory yet greater than that by which
+      I was already surrounded….
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Joseph Smith
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:48110-48415
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 3096ddbc-4245-4a94-be23-9f08948bebcf
+    claim_hash: 9df6e13cb042674e77cc5f524e35f8eb287cd470366f667304afe1f5484c3ee9
+    content: Joseph Smith reported being told of plates deposited nearby engraved with an abridgement of records of ancient
+      peoples on the American continent, and that the angel appeared to him three times the same night, repeating the same
+      message.
+    original_excerpt: I was told where there were deposited some plates, on which was engraved an abridgement of the records
+      of the ancient peoples that had existed on this continent. The angel appeared to me three times the same night and unfolded
+      the same things.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Joseph Smith
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:48498-48734
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 4c92bee6-5303-4dcf-8eae-f7c56cdb6e04
+    claim_hash: 3f3731ae383ba68a3a2d759f6284b49febdb4c134a248e70c61b9af92a9acb99
+    content: The 1823 vision of Angel Moroni was not Joseph Smith's first vision; he had earlier claimed a mystical revelation
+      at age 14 while alone in the wilderness, which led him to be forbidden from joining any religious sect.
+    original_excerpt: this apparition was not Joseph’s first vision. Indeed he had “been forbidden to join any of the religious
+      sects of the day” because he had claimed to have been favored by a mystical revelation while he was alone in the wilderness
+      at the age of 14
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+      - node_id: efc0bdff-6708-489d-8d9e-cc001ef5456d
+        title: 1823 Joseph Smith vision of Angel Moroni
+        slug: 1823-joseph-smith-vision-of-angel-moroni
+    date: null
+    date_end: null
+    location_in_record: ch15:48773-49018
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 9cfc6bbb-7113-4e0a-baeb-56b5e31003b7
+    claim_hash: bc877f67ce9d37c0d236ccdec47117ea627b20520acea0971359d0744fdd5017
+    content: Angel Moroni appeared to Joseph Smith three times during the night of 1823-09-21, which happened to be the Autumn
+      Equinox, repeating exactly the same words each time.
+    original_excerpt: The angel appeared three times during the night of September 21, 1823 (which happens to be the Autumn
+      Equinox), repeating exactly the same words.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e797c874-6da5-4c82-bba8-a1657f4d16b0
+        title: Angel Moroni
+        slug: angel-moroni
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+      - node_id: efc0bdff-6708-489d-8d9e-cc001ef5456d
+        title: 1823 Joseph Smith vision of Angel Moroni
+        slug: 1823-joseph-smith-vision-of-angel-moroni
+    date: '1823-09-21'
+    date_end: null
+    location_in_record: ch15:49209-49348
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 138d6550-11c4-4c61-86f3-6c1bd316280d
+    claim_hash: 5a22685fcc23c94560130cb19691afdefc6253e00cd0cc3fdafb762ee2f0bfef
+    content: After the angel's third appearance, Joseph Smith was surprised to hear a cock crow and find daylight approaching,
+      so that the interviews had occupied the whole night.
+    original_excerpt: After the third time Joseph was surprised to hear the cock crow and to find that daylight was approaching,
+      “so that our interviews must have occupied the whole of that night.”
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Joseph Smith
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:49355-49523
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 5efbe429-47f0-4aee-adf8-294b2d92e702
+    claim_hash: 36f81cc52cae252d4b67420de8c05f05aec27b8fb7b9349e1a7abcb859c06cfc
+    content: After the vision, Joseph Smith found himself too exhausted to work at his normal chores, collapsed unconscious
+      while crossing a fence, and the angel appeared to him again, telling him to reveal his instructions to his father.
+    original_excerpt: Joseph Smith got up and began his normal chores, but he found himself so exhausted that he couldn’t
+      work in any useful way...he fell to the ground when trying to cross a fence, and remained unconscious. The angel then
+      appeared to him once more and told him to repeat his words to his father
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:49532-49879
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: efbe38a4-17af-46c9-a82e-fc00c7375283
+    claim_hash: 81321c7dca8f9b7f76dd9f087dbf6b075fe2b53b1f800ca2bd672e63b30ad828
+    content: Joseph Smith's father told him to go and do as he had been commanded, saying the instructions were of God.
+    original_excerpt: The father told Joseph to go and do as he had been commanded, and that “these things were of God.”
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:49926-50019
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 0e81020a-ca65-4922-8352-de83ee0c40fb
+    claim_hash: 418e8abb01a2e15b1c566f9b98d6eac529fa6ad57e8bb36a8e6882bd498e0937
+    content: Joseph Smith found the buried plates inside a stone box which he could open, but was unable to remove the plates;
+      the angel told him to return in one year, and each year after, until he would be permitted to take them four years later.
+    original_excerpt: he found them inside a stone box which he had no difficulty opening, but he was unable to take the plates
+      out of the box. Again the angel appeared, and told him to come back precisely in one year and every year after that;
+      four years later he would be permitted to take the plates.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:50110-50384
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: cc6a02b2-c027-4935-b4fd-4c79d5f26318
+    claim_hash: 55b2ea0a31d56cc4740720cd47ab5a78b9aa6ae6624f63fec7d078c138a91364
+    content: Martin Harris, a wealthy farmer, helped Joseph Smith work on the translation of the golden plates using special
+      stones Smith had found in the box.
+    original_excerpt: Thanks to the help of a wealthy farmer named Martin Harris, Smith was able to work on the translation
+      of the golden plates, which he read with the help of special stones he had found in the box.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e56783fe-0326-4a28-8945-7c275b3d0492
+        title: Martin Harris
+        slug: martin-harris
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:50435-50625
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: dfb43757-fb6b-4fc7-bc66-bd46379ea23c
+    claim_hash: dd21f973277301df96e5760a3b16e1f1e6057c2314057d28fa466f1441820d11
+    content: When Martin Harris took the plates and the beginning of the translation to Professor Charles Anthon of New York,
+      Anthon stated the translation was correct, more so than any he had seen translated from Egyptian.
+    original_excerpt: When Harris took the plates and the beginning of the translation to Professor Charles Anthon of New
+      York, this learned gentleman stated that the translation was correct, “more so than any he had before seen translated
+      from the Egyptian.”
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Charles Anthon
+      relay:
+        - Martin Harris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e66a0b2-04ea-4a26-a9b7-cbd062a131c0
+        title: USA, New York
+        slug: new-york-usa
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: e56783fe-0326-4a28-8945-7c275b3d0492
+        title: Martin Harris
+        slug: martin-harris
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:50630-50857
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 913c12bc-9389-4e11-8038-6512c153acd9
+    claim_hash: 075ae631158e90fecdfa0191bd0e1f0ebc98264c8c87255a14267f4149db3ea3
+    content: Charles Anthon said the untranslated plates appeared to be Egyptian, Chaldaic, Assyrian, and Arabic, and signed
+      a statement to that effect, which he later tore up upon learning Smith had found the plates on an angel's instructions.
+    original_excerpt: Looking at the plates that had not yet been translated, he said that they were Egyptian, Chaldaic, As-
+      Syrian, and Arabic, and signed a statement to that effect (which he later tore to pieces, however, when he learned that
+      the young man had found the plates upon the instructions of an angel!).
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Charles Anthon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:50868-51154
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: a83deb37-1365-4b6d-a53c-f4b7ea8bc77e
+    claim_hash: ae8d6e472000f3b3602bdb4f0f0af636803760844a504c0898c064dfefb52f63
+    content: Eleven persons stated that they saw the golden plates unearthed by Joseph Smith.
+    original_excerpt: Eleven persons have stated that they saw the plates unearthed by Joseph Smith.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:51164-51236
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: a3329f8f-7ba3-416d-af07-ab56bf3c0957
+    claim_hash: 96e236170ca13ea2a33e5588a2463647da59cb18851d0e5adfd3a9b66b0f2609
+    content: In June 1829, Joseph Smith, accompanied by Martin Harris, David Whitmer, and Oliver Cowdery, retired to the woods
+      to pray for a vision of the plates.
+    original_excerpt: In June, 1829, in response to a communication obtained by Smith, the Mormon prophet retired to the woods
+      accompanied by Martin Harris, David Whitmer, Oliver Cowdery, and knelt “in fervent prayer,” hoping to receive a vision
+      of the plates.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0a755bc6-c87c-464a-a385-7d048f20d654
+        title: David Whitmer
+        slug: david-whitmer
+      - node_id: 511be6e9-f6d4-4832-b199-2076bb502069
+        title: 1829 Joseph Smith and companions' vision of angel with plates
+        slug: 1829-joseph-smith-and-companions-vision-of-angel-with-plates
+      - node_id: 7cb583d0-1fb6-4786-b85d-980d4e6683f5
+        title: Oliver Cowdery
+        slug: oliver-cowdery
+      - node_id: e56783fe-0326-4a28-8945-7c275b3d0492
+        title: Martin Harris
+        slug: martin-harris
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: 1829-06
+    date_end: null
+    location_in_record: ch15:51243-51474
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: c8b09734-2c4d-42a4-9f54-79aa8492f0d0
+    claim_hash: c21a0836569c82089c4a0c53e50f6c7de6ef55a983bd146eb861d2d231298afc
+    content: Jacques Vallee considers the transformation of an ordinary farmboy from rural New York State into an unchallenged
+      leader of multitudes, referring to Joseph Smith, an unusual fact deserving investigation.
+    original_excerpt: The transformation of an ordinary farmboy from rural New York State into an unchallenged leader of multitudes
+      is, in my view, an unusual fact which deserves investigation.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 0e66a0b2-04ea-4a26-a9b7-cbd062a131c0
+        title: USA, New York
+        slug: new-york-usa
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:53784-53941
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: bd527e11-300b-4603-9b28-c13fb3d327f8
+    claim_hash: f5cd7af25fe78dc79a453b703c544adcccf477559473ca6bcc3d1f06f71447a4
+    content: Evans-Wentz was intrigued by Joseph Smith's first vision, which was of two entities whose names Smith was not
+      privileged to learn, and which took place during Smith's fifteenth year while he was praying in a wood.
+    original_excerpt: Evans-Wentz was intrigued by Joseph Smith’s first vision, which was not an apparition of Angel Moroni
+      but of two entities whose names he was not privileged to learn. This took place during Smith’s fifteenth year, as he
+      was praying in a wood
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: dc484071-faa6-4247-bc85-f8ee81ec5402
+        title: Evans-Wentz
+        slug: evans-wentz
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:54309-54545
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 84b363dc-82d0-44a2-99f8-99f586ea9307
+    claim_hash: 6bf324ca4257af71be264dd8745e907b13483ac4cdced97a60fee2329969fcb2
+    content: Joseph Smith reported that a pillar of light descended over his head, brighter than the sun, until it fell upon
+      him, whereupon he saw two personages of indescribable brightness and glory standing above him in the air, one of whom
+      spoke to him.
+    original_excerpt: I saw a pillar of light exactly over my head, above the brightness of the sun, which descended gradually
+      until it fell upon me…. When the light rested on me I saw two personages, whose brightness and glory defy all descriptions,
+      standing above me in the air. One of them spake unto me.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Joseph Smith
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:54552-54834
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 8af3bd27-3cd7-459a-9e82-e31b452b478f
+    claim_hash: dfeaf9e74ccc3ce3b32c7f24b6d64c03a95ec425bd367d72aebc4deaad7773ab
+    content: Evans-Wentz, as translator of the Tibetan Book of the Dead, recognised that Joseph Smith's role in bringing out
+      the Book of Mormon was similar to that of the Tertons, the 'takers-out' of secreted scriptures in Tibet.
+    original_excerpt: As the translator of the Tibetan Book of the Dead, Evans-Wentz recognized that the role played by Smith
+      in bringing out the Book of Mormon was similar to that of the *Tertons,* the “takers-out” of secreted scriptures in
+      Tibet.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: dc484071-faa6-4247-bc85-f8ee81ec5402
+      title: Evans-Wentz
+    provenance_chain:
+      origin_kind: named
+      origin: Evans-Wentz
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: daf7515b-81dc-4255-af30-0004050b05dd
+        title: Book of Mormon
+        slug: book-of-mormon
+      - node_id: dc484071-faa6-4247-bc85-f8ee81ec5402
+        title: Evans-Wentz
+        slug: evans-wentz
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:54841-55061
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 5c024409-53c4-4067-8dd3-ea9d64cc89af
+    claim_hash: e0907c213f62dee50713dcaa7b8f28ab0100b292a7c00497085119af0f97f0cc
+    content: The Three Nephites of Mormon lore have been seen several times since the days of Joseph Smith and form a counterpart
+      to the Three Men in Black of modern UFO lore.
+    original_excerpt: The Three Nephites have been seen several times since the days of Joseph Smith, and form an interesting
+      and colorful counterpart to the Three Men in Black of modern UFO lore.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: bebf1928-ffbe-4cb2-b16a-8dd06d56beeb
+        title: Men in Black (UFO lore)
+        slug: men-in-black-ufo-lore
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+      - node_id: f7bc65d9-0331-485f-bcc3-548f399939ba
+        title: The Three Nephites
+        slug: the-three-nephites
+    date: null
+    date_end: null
+    location_in_record: ch15:55896-56065
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: f9b8c89e-b7b2-437d-a526-82fab1b7b981
+    claim_hash: 919eede8e31b1693fbed0eb8b057d9a2c581e3c8e5ca0c0d22a4b72710fe8955
+    content: Joseph Smith was lynched by a crowd in Illinois.
+    original_excerpt: Joseph Smith was lynched by a crowd in Illinois
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38f90f5b-3826-41be-b9ac-b19f83b27ba6
+        title: USA, Illinois
+        slug: illinois-usa
+      - node_id: a62562f8-6cee-47d0-81a1-ec52158de11f
+        title: 1844 lynching of Joseph Smith, Illinois
+        slug: illinois-1844-lynching-of-joseph-smith
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:60045-60084
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has

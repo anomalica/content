@@ -9,715 +9,722 @@ page:
   claim_count: 16
   claim_count_total: 16
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 16
+  tokens_estimated: 4487
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 16
 related_nodes:
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 6
-- node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-  title: Politico
-  node_type: organisation
-  slug: politico
-  shared_claims: 6
-- node_id: 4e27fbb1-9f35-4400-a67e-753f9219b80c
-  title: Bryan Bender Tweet of June 2, 2019 on Forthcoming Pentagon Statement
-  node_type: document
-  slug: 2019-on-forthcoming-pentagon-statement-bryan-bender-tweet-of-june-2
-  shared_claims: 2
-- node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
-  title: The Pentagon
-  node_type: organisation
-  slug: the-pentagon
-  shared_claims: 2
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 2
-- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-  title: United States Navy (USN)
-  node_type: organisation
-  slug: united-states-navy-usn
-  shared_claims: 2
-- node_id: e48b0e13-039f-47e2-940c-794c5ff68bb1
-  title: 2019-04 Politico story on new US Navy Unidentified Aerial Phenomena (UAP)
-    reporting guidelines
-  node_type: document
-  slug: 2019-04-politico-story-on-new-us-navy-unidentified-aerial-phenomena-uap-reporting-guidelines
-  shared_claims: 1
-- node_id: 554e7db9-4b17-4708-8248-16e62687cd16
-  title: 2021-03 Politico story on US Air Force blocking Unidentified Aerial Phenomena
-    (UAP) cataloguing
-  node_type: document
-  slug: 2021-03-politico-story-on-us-air-force-blocking-unidentified-aerial-phenomena-uap-cataloguing
-  shared_claims: 1
-- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-  title: Advanced Aerospace Threat Identification Program (AATIP)
-  node_type: project
-  slug: advanced-aerospace-threat-identification-program-aatip
-  shared_claims: 1
-- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-  title: Christopher K. Mellon
-  node_type: person
-  slug: christopher-k-mellon
-  shared_claims: 1
-- node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
-  title: Dana White
-  node_type: person
-  slug: dana-white
-  shared_claims: 1
-- node_id: 4f2546c9-27ea-451b-a8c0-71bb256080c8
-  title: USA, Maryland, Annapolis
-  node_type: place
-  slug: maryland-annapolis-usa
-  shared_claims: 1
-- node_id: dc23e6d8-444d-4e0e-bba8-2d5492d51c06
-  title: USA, Washington, D.C.
-  node_type: place
-  slug: washington-dc-usa
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-- node_id: 2658cc67-2b0a-4b7f-a324-f1fa16dc21b7
-  title: 'Unidentified: Inside America''s UFO Investigation'
-  node_type: document
-  slug: unidentified-inside-americas-ufo-investigation
-  shared_claims: 1
-- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-  title: United States Congress
-  node_type: organisation
-  slug: united-states-congress
-  shared_claims: 1
-- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-  title: United States Department of Defense (DoD)
-  node_type: organisation
-  slug: united-states-department-of-defense-dod
-  shared_claims: 1
-claims:
-- claim_id: 8513e7bd-cccc-4495-9700-c60d4e6e0f75
-  claim_hash: de56e634a16fe8327269ebbd1b7f22148e6322d4abaab072569bb61b2c675df8
-  content: 'Bryan Bender describes Luis Elizondo in "Unidentified: Inside America''s
-    UFO Investigation" as an enigma, a guy who spent decades in the intelligence community.'
-  original_excerpt: Bender describes Elizondo as “in many ways, an enigma. Here is
-    a guy who spent decades in the intelligence community.”
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bryan Bender
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2658cc67-2b0a-4b7f-a324-f1fa16dc21b7
-    title: 'Unidentified: Inside America''s UFO Investigation'
-    slug: unidentified-inside-americas-ufo-investigation
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
   - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
+    node_type: person
     slug: luis-elizondo
-  date: null
-  date_end: null
-  location_in_record: char:18314-18421
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
-    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
-      Pentagon Program. Did He?
-    record_date: '2019-06-01'
-    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
-    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
-    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
-- claim_id: b5d84c79-a65d-447c-ad4f-e771b168b50d
-  claim_hash: 97a20a68f4ca3494e811a71226f839b84d3e38bbbf8b5eff69e6e823b3ae4745
-  content: Pentagon spokeswoman Dana White confirmed to Politico that the Advanced
-    Aerospace Threat Identification Program (AATIP) existed and was run by Luis Elizondo.
-  original_excerpt: “Pentagon spokeswoman Dana White confirmed to Politico that the
-    program existed and was run by Elizondo,” Bryan Bender wrote in December 2017.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
-    title: Dana White
-  provenance_chain:
-    origin_kind: speaker
-    origin: Dana White
-    relay:
-    - Bryan Bender's Politico article
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
+    shared_claims: 6
   - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
     title: Politico
+    node_type: organisation
     slug: politico
+    shared_claims: 6
+  - node_id: 4e27fbb1-9f35-4400-a67e-753f9219b80c
+    title: Bryan Bender Tweet of June 2, 2019 on Forthcoming Pentagon Statement
+    node_type: document
+    slug: 2019-on-forthcoming-pentagon-statement-bryan-bender-tweet-of-june-2
+    shared_claims: 2
+  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+    title: The Pentagon
+    node_type: organisation
+    slug: the-pentagon
+    shared_claims: 2
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 2
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 2
+  - node_id: e48b0e13-039f-47e2-940c-794c5ff68bb1
+    title: 2019-04 Politico story on new US Navy Unidentified Aerial Phenomena (UAP) reporting guidelines
+    node_type: document
+    slug: 2019-04-politico-story-on-new-us-navy-unidentified-aerial-phenomena-uap-reporting-guidelines
+    shared_claims: 1
+  - node_id: 554e7db9-4b17-4708-8248-16e62687cd16
+    title: 2021-03 Politico story on US Air Force blocking Unidentified Aerial Phenomena (UAP) cataloguing
+    node_type: document
+    slug: 2021-03-politico-story-on-us-air-force-blocking-unidentified-aerial-phenomena-uap-cataloguing
+    shared_claims: 1
   - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
     title: Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: project
     slug: advanced-aerospace-threat-identification-program-aatip
-  - node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
-    title: Dana White
-    slug: dana-white
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  date: '2017-12-01'
-  date_end: null
-  location_in_record: char:6931-7097
-  evidence:
-    score: null
-    independent_sources: 3
-  provenance:
-    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
-    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
-      Pentagon Program. Did He?
-    record_date: '2019-06-01'
-    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
-    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
-    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
-- claim_id: 10987c5e-0261-4def-849f-1a0418370e38
-  claim_hash: 74021503f4abaf6c8a0f27a1743da2b536db84281baac596d5f8a3931f44704f
-  content: Bryan Bender is Politico's defense editor.
-  original_excerpt: Bender, who is Politico’s defense editor,
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
-  date: null
-  date_end: null
-  location_in_record: char:7590-7624
-  evidence:
-    score: null
-    independent_sources: 2
-  provenance:
-    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
-    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
-      Pentagon Program. Did He?
-    record_date: '2019-06-01'
-    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
-    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
-    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
-- claim_id: a768d42f-51cd-4189-9420-46c88f54a07e
-  claim_hash: e08e834f3f27da8abfcc5a11e479cec2f4537dbd8d81d924f391156ddda6ca13
-  content: Bryan Bender considers Luis Elizondo and Chris Mellon part of an unmatched
-    team of former high-level government officials to come forward on the UFO issue,
-    noting they still have security clearances and networks in Washington, D.C.
-  original_excerpt: “If you were trying to come up with the A-team of former, high-level
-    government officials who would come forward on this issue, you can’t really think
-    of a better team,” Bender says in the screener. “Lue Elizondo, Chris Mellon —
-    these guys still have security clearances, still have networks in Washington,
-    still are in the business, if you will.”
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bryan Bender
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
+    shared_claims: 1
   - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
     title: Christopher K. Mellon
+    node_type: person
     slug: christopher-k-mellon
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: dc23e6d8-444d-4e0e-bba8-2d5492d51c06
-    title: USA, Washington, D.C.
-    slug: washington-dc-usa
-  date: null
-  date_end: null
-  location_in_record: char:7829-8169
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
-    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
-      Pentagon Program. Did He?
-    record_date: '2019-06-01'
-    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
-    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
-    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
-- claim_id: ce9c91ab-5bc2-4776-a7de-a2569ab2795b
-  claim_hash: 73b1e140c785d690684a97a56ed4d37d8245f050c5ef1ba5f1a48723b88125c5
-  content: Bryan Bender is the defense editor for Politico.
-  original_excerpt: Mr. Bryan Bender, defense editor for Politico
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
-  date: null
-  date_end: null
-  location_in_record: char:4518-4555
-  evidence:
-    score: null
-    independent_sources: 2
-  provenance:
-    record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
-    record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities”
-      on AATIP; Senator Harry Reid’s 2009 Memo Changes Nothing - The Black Vault
-    record_date: '2019-06-14'
-    record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
-    content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
-    friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
-- claim_id: 753cf68d-74dc-489a-a037-205dcc70878a
-  claim_hash: e688bca6fbbccc67673f0e6a6291b988029c001d51c9924f8cb2c6e649017b9e
-  content: Bryan Bender deleted his June 2, 2019 tweet predicting a forthcoming Pentagon
-    statement, some time after it was pointed out that the Pentagon statement was
-    not issued the week he claimed.
-  original_excerpt: Mr. Bender has since deleted this tweet, some time after it was
-    pointed out the Pentagon statement was not issued the week that he claimed.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 4e27fbb1-9f35-4400-a67e-753f9219b80c
-    title: Bryan Bender Tweet of June 2, 2019 on Forthcoming Pentagon Statement
-    slug: 2019-on-forthcoming-pentagon-statement-bryan-bender-tweet-of-june-2
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  date: null
-  date_end: null
-  location_in_record: char:5008-5217
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
-    record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities”
-      on AATIP; Senator Harry Reid’s 2009 Memo Changes Nothing - The Black Vault
-    record_date: '2019-06-14'
-    record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
-    content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
-    friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
-- claim_id: 9d7a1a8b-2288-4852-92e7-b3b01c98f628
-  claim_hash: 0d212765f80632db6e50341c40d3fa46c1a0736dafaad7716574075149268991
-  content: Bryan Bender declined to comment on why he deleted his tweet about a forthcoming
-    Pentagon statement.
-  original_excerpt: Mr. Bender declined to comment on why he deleted the tweet.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 4e27fbb1-9f35-4400-a67e-753f9219b80c
-    title: Bryan Bender Tweet of June 2, 2019 on Forthcoming Pentagon Statement
-    slug: 2019-on-forthcoming-pentagon-statement-bryan-bender-tweet-of-june-2
-  date: null
-  date_end: null
-  location_in_record: char:5255-5308
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
-    record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities”
-      on AATIP; Senator Harry Reid’s 2009 Memo Changes Nothing - The Black Vault
-    record_date: '2019-06-14'
-    record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
-    content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
-    friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
-- claim_id: 38a429be-6684-470c-bc6c-5a09dd3873d6
-  claim_hash: e758f31bb2557799c20f03a02d21824da7ac9fa4958eeae1aa4b6825ac76686e
-  content: Bryan Bender clarified that the US Navy was not endorsing the idea that
-    its sailors have encountered alien spacecraft, but was acknowledging there have
-    been enough strange sightings by credible and highly trained military personnel
-    that they need to be recorded in the official record and studied rather than dismissed
-    as science-fiction phenomena.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bryan Bender
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-    title: United States Navy (USN)
-    slug: united-states-navy-usn
-  date: null
-  date_end: null
-  location_in_record: ch22:16081-16449
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 8f6c60a4-d0b2-4236-a200-10df34c1b65a
-  claim_hash: 7a948d9f90a3332d7b83a5bf8468ca922cc7411e8db532537c00ac851ed5463e
-  content: Unidentified Flying Objects (UFOs) are now on the agenda.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bryan Bender
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: ch28:26990-27051
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 708e7f7f-e5d6-47b0-92a0-2f45d9854889
-  claim_hash: 0a1c06f110e0cb121df4c4588feedc406db39257a90a62dd08a87ceb4229ed03
-  content: Bryan Bender reported on 2021-03-25 that military and intelligence agencies
-    had been accused of stiff-arming investigators on UFO sightings.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Politico article by Bryan Bender
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
-  - node_id: 554e7db9-4b17-4708-8248-16e62687cd16
-    title: 2021-03 Politico story on US Air Force blocking Unidentified Aerial Phenomena
-      (UAP) cataloguing
-    slug: 2021-03-politico-story-on-us-air-force-blocking-unidentified-aerial-phenomena-uap-cataloguing
-  date: '2021-03-25'
-  date_end: null
-  location_in_record: ch34:47995-48102
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 4f8d398c-24a5-406c-b506-d3120b4574b8
-  claim_hash: 0d15edd9f907147b5f7de8efb9629d76a88d15bfebe52f5d415c85dce76376c4
-  content: On 2019-04-23, Bryan Bender reported that the US Navy was drafting new
-    guidelines for reporting UFOs.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Politico article by Bryan Bender
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
-  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-    title: United States Navy (USN)
-    slug: united-states-navy-usn
-  - node_id: e48b0e13-039f-47e2-940c-794c5ff68bb1
-    title: 2019-04 Politico story on new US Navy Unidentified Aerial Phenomena (UAP)
-      reporting guidelines
-    slug: 2019-04-politico-story-on-new-us-navy-unidentified-aerial-phenomena-uap-reporting-guidelines
-  date: '2019-04-23'
-  date_end: null
-  location_in_record: ch34:48339-48430
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 06699dc3-004c-47c3-98a8-19a6991cc180
-  claim_hash: 287b825d02c2b21a685b38b3b62961c1775e1017047a6b548f00908324b5f391
-  content: Luis Elizondo met Bryan Bender once or twice over coffee in Annapolis,
-    Maryland.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
+    shared_claims: 1
+  - node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
+    title: Dana White
+    node_type: person
+    slug: dana-white
+    shared_claims: 1
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    node_type: place
+    slug: district-of-columbia-washington-usa
+    shared_claims: 1
   - node_id: 4f2546c9-27ea-451b-a8c0-71bb256080c8
     title: USA, Maryland, Annapolis
+    node_type: place
     slug: maryland-annapolis-usa
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  date: null
-  date_end: null
-  location_in_record: ch29:20365-20406
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 097c2173-2164-4fa4-a132-75bec74e479f
-  claim_hash: df07f2bfbe79541b82e439a94cc42f4df696e2c05f2b762e8b7f1d3a32f431cd
-  content: Luis Elizondo considers Bryan Bender a shrewd reporter who knew the workings
-    of the Pentagon better than most people who worked there.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
-    title: The Pentagon
-    slug: the-pentagon
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  date: null
-  date_end: null
-  location_in_record: ch29:20417-20524
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: b516a556-6376-4a75-a85f-9807debfccb5
-  claim_hash: 6f3dca04b285fb8d6c74a273431a316e8af1f4ffd2ef049a7561224b05962efe
-  content: Luis Elizondo observed that Bryan Bender had a large pool of sources that
-    Bender never revealed to Elizondo.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  date: null
-  date_end: null
-  location_in_record: ch29:20531-20616
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: dc3987a4-8711-47ec-b584-7c3f3c795d95
-  claim_hash: 26b95862cb3c1e8f66784a6c04a35759e96076c1fa1ff07127c19231308944ac
-  content: Bryan Bender was more interested in the national security aspect and potential
-    threat posed by Unidentified Aerial Phenomena (UAP) than in the phenomenon itself.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  date: null
-  date_end: null
-  location_in_record: ch29:20687-20762
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 1fb5f84b-2e87-4e83-98d3-30699c510c71
-  claim_hash: b22d331ff3a2b3e9ece947ea1552c7460c2ac6496974a7c7a65fcf6ec95bd888
-  content: Bryan Bender did not come across as a believer in Unidentified Aerial Phenomena
-    (UAP), but rather seemed interested in whether the Pentagon had a programme that
-    was never disclosed to the public or Congress.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
-    title: The Pentagon
-    slug: the-pentagon
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 2658cc67-2b0a-4b7f-a324-f1fa16dc21b7
+    title: 'Unidentified: Inside America''s UFO Investigation'
+    node_type: document
+    slug: unidentified-inside-americas-ufo-investigation
+    shared_claims: 1
   - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
     title: United States Congress
+    node_type: organisation
     slug: united-states-congress
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  date: null
-  date_end: null
-  location_in_record: ch29:21100-21304
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 1
+claims:
+  - claim_id: 8513e7bd-cccc-4495-9700-c60d4e6e0f75
+    claim_hash: de56e634a16fe8327269ebbd1b7f22148e6322d4abaab072569bb61b2c675df8
+    content: 'Bryan Bender describes Luis Elizondo in "Unidentified: Inside America''s UFO Investigation" as an enigma, a
+      guy who spent decades in the intelligence community.'
+    original_excerpt: Bender describes Elizondo as “in many ways, an enigma. Here is a guy who spent decades in the intelligence
+      community.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+      title: Bryan Bender
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bryan Bender
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2658cc67-2b0a-4b7f-a324-f1fa16dc21b7
+        title: 'Unidentified: Inside America''s UFO Investigation'
+        slug: unidentified-inside-americas-ufo-investigation
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: char:18314-18421
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+      record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?
+      record_date: '2019-06-01'
+      record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+      content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+      friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  - claim_id: b5d84c79-a65d-447c-ad4f-e771b168b50d
+    claim_hash: 97a20a68f4ca3494e811a71226f839b84d3e38bbbf8b5eff69e6e823b3ae4745
+    content: Pentagon spokeswoman Dana White confirmed to Politico that the Advanced Aerospace Threat Identification Program
+      (AATIP) existed and was run by Luis Elizondo.
+    original_excerpt: “Pentagon spokeswoman Dana White confirmed to Politico that the program existed and was run by Elizondo,”
+      Bryan Bender wrote in December 2017.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
+      title: Dana White
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dana White
+      relay:
+        - Bryan Bender's Politico article
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
+        title: Dana White
+        slug: dana-white
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: '2017-12-01'
+    date_end: null
+    location_in_record: char:6931-7097
+    evidence:
+      score: null
+      independent_sources: 3
+    provenance:
+      record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+      record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?
+      record_date: '2019-06-01'
+      record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+      content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+      friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  - claim_id: 10987c5e-0261-4def-849f-1a0418370e38
+    claim_hash: 74021503f4abaf6c8a0f27a1743da2b536db84281baac596d5f8a3931f44704f
+    content: Bryan Bender is Politico's defense editor.
+    original_excerpt: Bender, who is Politico’s defense editor,
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+    date: null
+    date_end: null
+    location_in_record: char:7590-7624
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+      record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?
+      record_date: '2019-06-01'
+      record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+      content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+      friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  - claim_id: a768d42f-51cd-4189-9420-46c88f54a07e
+    claim_hash: e08e834f3f27da8abfcc5a11e479cec2f4537dbd8d81d924f391156ddda6ca13
+    content: Bryan Bender considers Luis Elizondo and Chris Mellon part of an unmatched team of former high-level government
+      officials to come forward on the UFO issue, noting they still have security clearances and networks in Washington, D.C.
+    original_excerpt: “If you were trying to come up with the A-team of former, high-level government officials who would
+      come forward on this issue, you can’t really think of a better team,” Bender says in the screener. “Lue Elizondo, Chris
+      Mellon — these guys still have security clearances, still have networks in Washington, still are in the business, if
+      you will.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+      title: Bryan Bender
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bryan Bender
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+    date: null
+    date_end: null
+    location_in_record: char:7829-8169
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+      record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?
+      record_date: '2019-06-01'
+      record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+      content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+      friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  - claim_id: ce9c91ab-5bc2-4776-a7de-a2569ab2795b
+    claim_hash: 73b1e140c785d690684a97a56ed4d37d8245f050c5ef1ba5f1a48723b88125c5
+    content: Bryan Bender is the defense editor for Politico.
+    original_excerpt: Mr. Bryan Bender, defense editor for Politico
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+    date: null
+    date_end: null
+    location_in_record: char:4518-4555
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+      record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
+        Changes Nothing - The Black Vault
+      record_date: '2019-06-14'
+      record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+      content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+      friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: 753cf68d-74dc-489a-a037-205dcc70878a
+    claim_hash: e688bca6fbbccc67673f0e6a6291b988029c001d51c9924f8cb2c6e649017b9e
+    content: Bryan Bender deleted his June 2, 2019 tweet predicting a forthcoming Pentagon statement, some time after it was
+      pointed out that the Pentagon statement was not issued the week he claimed.
+    original_excerpt: Mr. Bender has since deleted this tweet, some time after it was pointed out the Pentagon statement was
+      not issued the week that he claimed.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 4e27fbb1-9f35-4400-a67e-753f9219b80c
+        title: Bryan Bender Tweet of June 2, 2019 on Forthcoming Pentagon Statement
+        slug: 2019-on-forthcoming-pentagon-statement-bryan-bender-tweet-of-june-2
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: char:5008-5217
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+      record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
+        Changes Nothing - The Black Vault
+      record_date: '2019-06-14'
+      record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+      content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+      friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: 9d7a1a8b-2288-4852-92e7-b3b01c98f628
+    claim_hash: 0d212765f80632db6e50341c40d3fa46c1a0736dafaad7716574075149268991
+    content: Bryan Bender declined to comment on why he deleted his tweet about a forthcoming Pentagon statement.
+    original_excerpt: Mr. Bender declined to comment on why he deleted the tweet.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 4e27fbb1-9f35-4400-a67e-753f9219b80c
+        title: Bryan Bender Tweet of June 2, 2019 on Forthcoming Pentagon Statement
+        slug: 2019-on-forthcoming-pentagon-statement-bryan-bender-tweet-of-june-2
+    date: null
+    date_end: null
+    location_in_record: char:5255-5308
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+      record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
+        Changes Nothing - The Black Vault
+      record_date: '2019-06-14'
+      record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+      content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+      friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: 38a429be-6684-470c-bc6c-5a09dd3873d6
+    claim_hash: e758f31bb2557799c20f03a02d21824da7ac9fa4958eeae1aa4b6825ac76686e
+    content: Bryan Bender clarified that the US Navy was not endorsing the idea that its sailors have encountered alien spacecraft,
+      but was acknowledging there have been enough strange sightings by credible and highly trained military personnel that
+      they need to be recorded in the official record and studied rather than dismissed as science-fiction phenomena.
+    original_excerpt: ‘To be clear, the navy isn’t endorsing the idea that its sailors have encountered alien spacecraft,’
+      Bender clarified. ‘But it is acknowledging there have been enough strange sightings by credible and highly trained military
+      personnel that they need to be recorded in the official record and studied – rather than dismissed as kooky phenomena
+      from the realm of science-fiction.’
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+      title: Bryan Bender
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bryan Bender
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+    date: null
+    date_end: null
+    location_in_record: ch22:16081-16449
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 8f6c60a4-d0b2-4236-a200-10df34c1b65a
+    claim_hash: 7a948d9f90a3332d7b83a5bf8468ca922cc7411e8db532537c00ac851ed5463e
+    content: Unidentified Flying Objects (UFOs) are now on the agenda.
+    original_excerpt: as Politico's Bryan Bender commented, 'UFOs are now on the agenda.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+      title: Bryan Bender
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bryan Bender
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch28:26990-27051
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 708e7f7f-e5d6-47b0-92a0-2f45d9854889
+    claim_hash: 0a1c06f110e0cb121df4c4588feedc406db39257a90a62dd08a87ceb4229ed03
+    content: Bryan Bender reported on 2021-03-25 that military and intelligence agencies had been accused of stiff-arming
+      investigators on UFO sightings.
+    original_excerpt: Bryan Bender, 'Military and Spy Agencies Accused of Stiff-arming Investigators on UFO Sightings', 25
+      March 2021.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Politico article by Bryan Bender
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+      - node_id: 554e7db9-4b17-4708-8248-16e62687cd16
+        title: 2021-03 Politico story on US Air Force blocking Unidentified Aerial Phenomena (UAP) cataloguing
+        slug: 2021-03-politico-story-on-us-air-force-blocking-unidentified-aerial-phenomena-uap-cataloguing
+    date: '2021-03-25'
+    date_end: null
+    location_in_record: ch34:47995-48102
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4f8d398c-24a5-406c-b506-d3120b4574b8
+    claim_hash: 0d15edd9f907147b5f7de8efb9629d76a88d15bfebe52f5d415c85dce76376c4
+    content: On 2019-04-23, Bryan Bender reported that the US Navy was drafting new guidelines for reporting UFOs.
+    original_excerpt: Bryan Bender, 'U.S. Navy Drafting New Guidelines for Reporting UFOs', Politico, 23 April 2019.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Politico article by Bryan Bender
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: e48b0e13-039f-47e2-940c-794c5ff68bb1
+        title: 2019-04 Politico story on new US Navy Unidentified Aerial Phenomena (UAP) reporting guidelines
+        slug: 2019-04-politico-story-on-new-us-navy-unidentified-aerial-phenomena-uap-reporting-guidelines
+    date: '2019-04-23'
+    date_end: null
+    location_in_record: ch34:48339-48430
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 06699dc3-004c-47c3-98a8-19a6991cc180
+    claim_hash: 287b825d02c2b21a685b38b3b62961c1775e1017047a6b548f00908324b5f391
+    content: Luis Elizondo met Bryan Bender once or twice over coffee in Annapolis, Maryland.
+    original_excerpt: I met Bryan once or twice over coffee in Annapolis.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 4f2546c9-27ea-451b-a8c0-71bb256080c8
+        title: USA, Maryland, Annapolis
+        slug: maryland-annapolis-usa
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch29:20365-20406
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 097c2173-2164-4fa4-a132-75bec74e479f
+    claim_hash: df07f2bfbe79541b82e439a94cc42f4df696e2c05f2b762e8b7f1d3a32f431cd
+    content: Luis Elizondo considers Bryan Bender a shrewd reporter who knew the workings of the Pentagon better than most
+      people who worked there.
+    original_excerpt: He was a very shrewd reporter who knew the ins and outs of the Pentagon better than most people who
+      worked there.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch29:20417-20524
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b516a556-6376-4a75-a85f-9807debfccb5
+    claim_hash: 6f3dca04b285fb8d6c74a273431a316e8af1f4ffd2ef049a7561224b05962efe
+    content: Luis Elizondo observed that Bryan Bender had a large pool of sources that Bender never revealed to Elizondo.
+    original_excerpt: He had a huge pool of sources to tap into, although he never revealed any of them to me.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch29:20531-20616
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: dc3987a4-8711-47ec-b584-7c3f3c795d95
+    claim_hash: 26b95862cb3c1e8f66784a6c04a35759e96076c1fa1ff07127c19231308944ac
+    content: Bryan Bender was more interested in the national security aspect and potential threat posed by Unidentified Aerial
+      Phenomena (UAP) than in the phenomenon itself.
+    original_excerpt: Bryan seemed more interested in the national security aspect and potential threat.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch29:20687-20762
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1fb5f84b-2e87-4e83-98d3-30699c510c71
+    claim_hash: b22d331ff3a2b3e9ece947ea1552c7460c2ac6496974a7c7a65fcf6ec95bd888
+    content: Bryan Bender did not come across as a believer in Unidentified Aerial Phenomena (UAP), but rather seemed interested
+      in whether the Pentagon had a programme that was never disclosed to the public or Congress.
+    original_excerpt: Bryan didn't come across as a "UAP believer." Rather, he seemed interested in the Pentagon having a
+      program that wasn't ever disclosed to the public or Congress, but I could be wrong.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch29:21100-21304
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

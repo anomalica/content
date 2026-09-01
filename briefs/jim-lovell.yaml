@@ -9,251 +9,266 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1583
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
 related_nodes:
-- node_id: d6415a22-f8c8-4c29-8126-e380ab45350a
-  title: Aquarius (Apollo 13 Lunar Module)
-  node_type: object
-  slug: aquarius-apollo-13-lunar-module
-  shared_claims: 2
-- node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
-  title: Gemini 7 (spacecraft)
-  node_type: object
-  slug: gemini-7-spacecraft
-  shared_claims: 2
-- node_id: eaf4ccc7-67d6-4af3-96f0-4d0f552a1731
-  title: Titan II GLV booster
-  node_type: object
-  slug: titan-ii-glv-booster
-  shared_claims: 2
-- node_id: 34552508-15df-4575-b1ee-16f20c026e18
-  title: Apollo 13
-  node_type: project
-  slug: apollo-13
-  shared_claims: 1
-- node_id: f6212cc4-f65f-4ec2-8c95-eaca7c3397d2
-  title: Apollo 8
-  node_type: project
-  slug: apollo-8
-  shared_claims: 1
-- node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-  title: Frank Borman
-  node_type: person
-  slug: frank-borman
-  shared_claims: 1
-- node_id: 4063d842-f9c0-46f8-b720-6cf5f2abb1dd
-  title: Fred Haise
-  node_type: person
-  slug: fred-haise
-  shared_claims: 1
-- node_id: 6f350daa-cd27-4abb-9fec-c4ca18fb4464
-  title: Jack Swigert
-  node_type: person
-  slug: jack-swigert
-  shared_claims: 1
-- node_id: c240e735-0871-40a5-80d2-88aceaeba773
-  title: William Anders
-  node_type: person
-  slug: william-anders
-  shared_claims: 1
-claims:
-- claim_id: fe76c365-76b9-46f1-a795-f32913800d99
-  claim_hash: 56d5f2966357a2ec380df31486e342ad01c06c594442549c2a125157cadf030b
-  content: The Apollo 13 Lunar Module, which served as a lifeboat and saved the lives
-    of Jim Lovell, Jack Swigert and Fred Haise, was named "Aquarius."
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+  - node_id: d6415a22-f8c8-4c29-8126-e380ab45350a
+    title: Aquarius (Apollo 13 Lunar Module)
+    node_type: object
+    slug: aquarius-apollo-13-lunar-module
+    shared_claims: 2
+  - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
+    title: Gemini 7 (spacecraft)
+    node_type: object
+    slug: gemini-7-spacecraft
+    shared_claims: 2
+  - node_id: eaf4ccc7-67d6-4af3-96f0-4d0f552a1731
+    title: Titan II GLV booster
+    node_type: object
+    slug: titan-ii-glv-booster
+    shared_claims: 2
   - node_id: 34552508-15df-4575-b1ee-16f20c026e18
     title: Apollo 13
+    node_type: project
     slug: apollo-13
-  - node_id: 4063d842-f9c0-46f8-b720-6cf5f2abb1dd
-    title: Fred Haise
-    slug: fred-haise
-  - node_id: 6f350daa-cd27-4abb-9fec-c4ca18fb4464
-    title: Jack Swigert
-    slug: jack-swigert
-  - node_id: cd02423b-895b-4fe8-8929-7738d1069314
-    title: Jim Lovell
-    slug: jim-lovell
-  - node_id: d6415a22-f8c8-4c29-8126-e380ab45350a
-    title: Aquarius (Apollo 13 Lunar Module)
-    slug: aquarius-apollo-13-lunar-module
-  date: null
-  date_end: null
-  location_in_record: ch12:18678-18804
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: a75bc7be-022b-46b8-a524-d9f224f50cc9
-  claim_hash: 160846458087d88d283a396b087944fbf05eb027f89ce14e0ab2d5d7493f08ae
-  content: Jim Lovell said the Apollo 13 Lunar Module Aquarius was not named after
-    the song in the play Hair, but after the Egyptian god Aquarius, symbolised as
-    a water carrier who brought fertility, life and knowledge to the Nile Valley,
-    mirroring the hope that the Lunar Module would bring life back from the Moon.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: cd02423b-895b-4fe8-8929-7738d1069314
-    title: Jim Lovell
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jim Lovell
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: cd02423b-895b-4fe8-8929-7738d1069314
-    title: Jim Lovell
-    slug: jim-lovell
-  - node_id: d6415a22-f8c8-4c29-8126-e380ab45350a
-    title: Aquarius (Apollo 13 Lunar Module)
-    slug: aquarius-apollo-13-lunar-module
-  date: null
-  date_end: null
-  location_in_record: ch12:18866-19181
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: eb6845ec-afd2-4003-8f61-1b3ce20f0990
-  claim_hash: e8f000dc8bced2f355f97baab0ffb2f975873e2230a29a59f9759c3051180dc7
-  content: The Apollo 8 crew of Frank Borman, Jim Lovell and William Anders became
-    the first humans to leave the gravitational influence of Earth and circumnavigate
-    the Moon, proving that a voyage to and return from the Moon was possible.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-    title: Frank Borman
-    slug: frank-borman
-  - node_id: c240e735-0871-40a5-80d2-88aceaeba773
-    title: William Anders
-    slug: william-anders
-  - node_id: cd02423b-895b-4fe8-8929-7738d1069314
-    title: Jim Lovell
-    slug: jim-lovell
+    shared_claims: 1
   - node_id: f6212cc4-f65f-4ec2-8c95-eaca7c3397d2
     title: Apollo 8
+    node_type: project
     slug: apollo-8
-  date: null
-  date_end: null
-  location_in_record: ch12:25997-26198
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 760c2628-e966-4582-a91d-0e2d355d8352
-  claim_hash: cb96c7d86249dccf46c885e4166487de1f3a9c55a3391be274d4eb7089d3b6f7
-  content: Jim Lovell reported seeing the Titan II GLV booster on his side of Gemini
-    7 (spacecraft), appearing as a brilliant body against the sun with a black background
-    and various particles around it.
-  original_excerpt: I have the uh booster on my side there's a brilliant body of the
-    sun [inaudible] back uh black background with various particles around it.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: cd02423b-895b-4fe8-8929-7738d1069314
-    title: Jim Lovell
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jim Lovell
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
-    title: Gemini 7 (spacecraft)
-    slug: gemini-7-spacecraft
-  - node_id: cd02423b-895b-4fe8-8929-7738d1069314
-    title: Jim Lovell
-    slug: jim-lovell
-  - node_id: eaf4ccc7-67d6-4af3-96f0-4d0f552a1731
-    title: Titan II GLV booster
-    slug: titan-ii-glv-booster
-  date: null
-  date_end: null
-  location_in_record: 00:03:15.2-00:03:22.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
-    record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1006119
-    content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
-    friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
-- claim_id: ec7f1ced-82dc-4e03-a072-90f0014721ce
-  claim_hash: c2638feaddbbcd6d47a685f158b5b0b371e32e7765776c1799fa36318d214b39
-  content: Jim Lovell reported that the Titan II GLV booster was at his 2 o'clock
-    position, ahead of Gemini 7 (spacecraft) and slowly tumbling.
-  original_excerpt: It's ahead of us at 2 o'clock, slowly tumbling.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: cd02423b-895b-4fe8-8929-7738d1069314
-    title: Jim Lovell
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jim Lovell
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
-    title: Gemini 7 (spacecraft)
-    slug: gemini-7-spacecraft
-  - node_id: cd02423b-895b-4fe8-8929-7738d1069314
-    title: Jim Lovell
-    slug: jim-lovell
-  - node_id: eaf4ccc7-67d6-4af3-96f0-4d0f552a1731
-    title: Titan II GLV booster
-    slug: titan-ii-glv-booster
-  date: null
-  date_end: null
-  location_in_record: 00:03:37.2-00:03:39.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
-    record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1006119
-    content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
-    friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
+    shared_claims: 1
+  - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+    title: Frank Borman
+    node_type: person
+    slug: frank-borman
+    shared_claims: 1
+  - node_id: 4063d842-f9c0-46f8-b720-6cf5f2abb1dd
+    title: Fred Haise
+    node_type: person
+    slug: fred-haise
+    shared_claims: 1
+  - node_id: 6f350daa-cd27-4abb-9fec-c4ca18fb4464
+    title: Jack Swigert
+    node_type: person
+    slug: jack-swigert
+    shared_claims: 1
+  - node_id: c240e735-0871-40a5-80d2-88aceaeba773
+    title: William Anders
+    node_type: person
+    slug: william-anders
+    shared_claims: 1
+claims:
+  - claim_id: fe76c365-76b9-46f1-a795-f32913800d99
+    claim_hash: 56d5f2966357a2ec380df31486e342ad01c06c594442549c2a125157cadf030b
+    content: The Apollo 13 Lunar Module, which served as a lifeboat and saved the lives of Jim Lovell, Jack Swigert and Fred
+      Haise, was named "Aquarius."
+    original_excerpt: Also, Apollo 13’s Lunar Module, which served as a lifeboat—literally saving the lives of Lovell, Swigert
+      and Haise—was named “Aquarius.”
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34552508-15df-4575-b1ee-16f20c026e18
+        title: Apollo 13
+        slug: apollo-13
+      - node_id: 4063d842-f9c0-46f8-b720-6cf5f2abb1dd
+        title: Fred Haise
+        slug: fred-haise
+      - node_id: 6f350daa-cd27-4abb-9fec-c4ca18fb4464
+        title: Jack Swigert
+        slug: jack-swigert
+      - node_id: cd02423b-895b-4fe8-8929-7738d1069314
+        title: Jim Lovell
+        slug: jim-lovell
+      - node_id: d6415a22-f8c8-4c29-8126-e380ab45350a
+        title: Aquarius (Apollo 13 Lunar Module)
+        slug: aquarius-apollo-13-lunar-module
+    date: null
+    date_end: null
+    location_in_record: ch12:18678-18804
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a75bc7be-022b-46b8-a524-d9f224f50cc9
+    claim_hash: 160846458087d88d283a396b087944fbf05eb027f89ce14e0ab2d5d7493f08ae
+    content: Jim Lovell said the Apollo 13 Lunar Module Aquarius was not named after the song in the play Hair, but after
+      the Egyptian god Aquarius, symbolised as a water carrier who brought fertility, life and knowledge to the Nile Valley,
+      mirroring the hope that the Lunar Module would bring life back from the Moon.
+    original_excerpt: “Contrary to popular belief, it was not named after the song in the play Hair, but after the Egyptian
+      God Aquarius. She was symbolized as a water carrier who brought fertility, and therefore, life and knowledge to the
+      Nile Valley, as we hoped our Lunar Module, Aquarius, would bring life back from the Moon.”88
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: cd02423b-895b-4fe8-8929-7738d1069314
+      title: Jim Lovell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Lovell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cd02423b-895b-4fe8-8929-7738d1069314
+        title: Jim Lovell
+        slug: jim-lovell
+      - node_id: d6415a22-f8c8-4c29-8126-e380ab45350a
+        title: Aquarius (Apollo 13 Lunar Module)
+        slug: aquarius-apollo-13-lunar-module
+    date: null
+    date_end: null
+    location_in_record: ch12:18866-19181
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: eb6845ec-afd2-4003-8f61-1b3ce20f0990
+    claim_hash: e8f000dc8bced2f355f97baab0ffb2f975873e2230a29a59f9759c3051180dc7
+    content: The Apollo 8 crew of Frank Borman, Jim Lovell and William Anders became the first humans to leave the gravitational
+      influence of Earth and circumnavigate the Moon, proving that a voyage to and return from the Moon was possible.
+    original_excerpt: The Apollo 8 crew of Borman, Lovell and Anders became the first humans to leave the gravitational influence
+      of the Earth and circumnavigate the Moon, proving that the voyage and return to the Moon was possible.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+        title: Frank Borman
+        slug: frank-borman
+      - node_id: c240e735-0871-40a5-80d2-88aceaeba773
+        title: William Anders
+        slug: william-anders
+      - node_id: cd02423b-895b-4fe8-8929-7738d1069314
+        title: Jim Lovell
+        slug: jim-lovell
+      - node_id: f6212cc4-f65f-4ec2-8c95-eaca7c3397d2
+        title: Apollo 8
+        slug: apollo-8
+    date: null
+    date_end: null
+    location_in_record: ch12:25997-26198
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 760c2628-e966-4582-a91d-0e2d355d8352
+    claim_hash: cb96c7d86249dccf46c885e4166487de1f3a9c55a3391be274d4eb7089d3b6f7
+    content: Jim Lovell reported seeing the Titan II GLV booster on his side of Gemini 7 (spacecraft), appearing as a brilliant
+      body against the sun with a black background and various particles around it.
+    original_excerpt: I have the uh booster on my side there's a brilliant body of the sun [inaudible] back uh black background
+      with various particles around it.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: cd02423b-895b-4fe8-8929-7738d1069314
+      title: Jim Lovell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Lovell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
+        title: Gemini 7 (spacecraft)
+        slug: gemini-7-spacecraft
+      - node_id: cd02423b-895b-4fe8-8929-7738d1069314
+        title: Jim Lovell
+        slug: jim-lovell
+      - node_id: eaf4ccc7-67d6-4af3-96f0-4d0f552a1731
+        title: Titan II GLV booster
+        slug: titan-ii-glv-booster
+    date: null
+    date_end: null
+    location_in_record: 00:03:15.2-00:03:22.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
+      record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1006119
+      content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
+      friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
+  - claim_id: ec7f1ced-82dc-4e03-a072-90f0014721ce
+    claim_hash: c2638feaddbbcd6d47a685f158b5b0b371e32e7765776c1799fa36318d214b39
+    content: Jim Lovell reported that the Titan II GLV booster was at his 2 o'clock position, ahead of Gemini 7 (spacecraft)
+      and slowly tumbling.
+    original_excerpt: It's ahead of us at 2 o'clock, slowly tumbling.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: cd02423b-895b-4fe8-8929-7738d1069314
+      title: Jim Lovell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Lovell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
+        title: Gemini 7 (spacecraft)
+        slug: gemini-7-spacecraft
+      - node_id: cd02423b-895b-4fe8-8929-7738d1069314
+        title: Jim Lovell
+        slug: jim-lovell
+      - node_id: eaf4ccc7-67d6-4af3-96f0-4d0f552a1731
+        title: Titan II GLV booster
+        slug: titan-ii-glv-booster
+    date: null
+    date_end: null
+    location_in_record: 00:03:37.2-00:03:39.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
+      record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1006119
+      content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
+      friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2

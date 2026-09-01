@@ -9,145 +9,154 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 935
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
 related_nodes:
-- node_id: c5025e21-b806-4c9f-9fed-20c72443705b
-  title: Barry Jones
-  node_type: person
-  slug: barry-jones
-  shared_claims: 1
-- node_id: d6975c8c-453e-46cc-8f02-395d0940cf77
-  title: Carl Gustav Jung
-  node_type: person
-  slug: carl-gustav-jung
-  shared_claims: 1
-- node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-  title: Julia Mossbridge
-  node_type: person
-  slug: julia-mossbridge
-  shared_claims: 1
-- node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-  title: nonlocal consciousness
-  node_type: topic
-  slug: nonlocal-consciousness
-  shared_claims: 1
-claims:
-- claim_id: 8ecbda1b-e5ee-450e-9b5e-3e4416534edb
-  claim_hash: 3e80aa2d13e609da2707926d2b05450cad9c3fa9724fd1f64a15ac4816f72deb
-  content: Carl Gustav Jung was a disciple of Sigmund Freud who broke away somewhat
-    from Freud's teachings when he reached middle life.
-  original_excerpt: He was, of course, the disciple of Freud, but he's neither the
-    first or the last disciple to break away somewhat from the teachings of his master,
-    which he did when he reached middle life.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c5025e21-b806-4c9f-9fed-20c72443705b
-    title: Barry Jones
-  provenance_chain:
-    origin_kind: speaker
-    origin: Barry Jones
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6a14e481-40a1-43c8-aa57-2def9a30a1fa
-    title: Sigmund Freud
-    slug: sigmund-freud
   - node_id: c5025e21-b806-4c9f-9fed-20c72443705b
     title: Barry Jones
+    node_type: person
     slug: barry-jones
+    shared_claims: 1
   - node_id: d6975c8c-453e-46cc-8f02-395d0940cf77
     title: Carl Gustav Jung
+    node_type: person
     slug: carl-gustav-jung
-  date: null
-  date_end: null
-  location_in_record: 00:17:11.9-00:17:21.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
-    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
-      His Investigative Tour (1967)
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
-    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
-    friendly_name: null
-- claim_id: 5d744f18-9c7a-4c8e-b753-ed9011786b21
-  claim_hash: 580a42987e98c6a159136081aba9fe65048d7fa1221d9a5bd23f30bbd431b5cc
-  content: Julia Mossbridge considers the deeper source of resistance to non-local
-    consciousness to be a fear of being subsumed - of discovering that one is not
-    separate.
-  original_excerpt: sort of, I want to call it fear of being subsumed. Like fear of,
-    Freud talks about this... the fear that both men and women have, this is not just
-    a male thing, of the mother bringing you back into her womb. Like not being separate.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Julia Mossbridge
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6a14e481-40a1-43c8-aa57-2def9a30a1fa
-    title: Sigmund Freud
-    slug: sigmund-freud
+    shared_claims: 1
   - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
     title: Julia Mossbridge
+    node_type: person
     slug: julia-mossbridge
+    shared_claims: 1
   - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
     title: nonlocal consciousness
+    node_type: topic
     slug: nonlocal-consciousness
-  date: null
-  date_end: null
-  location_in_record: 01:33:42.7-01:34:02.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
-- claim_id: 6261ca82-40f9-4b57-b9f1-c034b427a587
-  claim_hash: 9051130cb9cf4d3bd48c396189bd9a0bce45b9254202eb1c2ad78a5ac4608a33
-  content: Sigmund Freud described a fear, held by both men and women, of the mother
-    bringing a person back into her womb and of not being separate.
-  original_excerpt: Freud talks about this. Freud was right about a couple things.
-    And one thing I think he was right about is the fear that both men and women have,
-    this is not just a male thing, of the mother bringing you back into her womb.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: named
-    origin: Sigmund Freud
-    relay:
-    - Julia Mossbridge
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6a14e481-40a1-43c8-aa57-2def9a30a1fa
-    title: Sigmund Freud
-    slug: sigmund-freud
-  date: null
-  date_end: null
-  location_in_record: 01:33:49.2-01:34:02.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
+    shared_claims: 1
+claims:
+  - claim_id: 8ecbda1b-e5ee-450e-9b5e-3e4416534edb
+    claim_hash: 3e80aa2d13e609da2707926d2b05450cad9c3fa9724fd1f64a15ac4816f72deb
+    content: Carl Gustav Jung was a disciple of Sigmund Freud who broke away somewhat from Freud's teachings when he reached
+      middle life.
+    original_excerpt: He was, of course, the disciple of Freud, but he's neither the first or the last disciple to break away
+      somewhat from the teachings of his master, which he did when he reached middle life.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c5025e21-b806-4c9f-9fed-20c72443705b
+      title: Barry Jones
+    provenance_chain:
+      origin_kind: speaker
+      origin: Barry Jones
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6a14e481-40a1-43c8-aa57-2def9a30a1fa
+        title: Sigmund Freud
+        slug: sigmund-freud
+      - node_id: c5025e21-b806-4c9f-9fed-20c72443705b
+        title: Barry Jones
+        slug: barry-jones
+      - node_id: d6975c8c-453e-46cc-8f02-395d0940cf77
+        title: Carl Gustav Jung
+        slug: carl-gustav-jung
+    date: null
+    date_end: null
+    location_in_record: 00:17:11.9-00:17:21.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+      record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His Investigative Tour (1967)
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+      content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+      friendly_name: null
+  - claim_id: 5d744f18-9c7a-4c8e-b753-ed9011786b21
+    claim_hash: 580a42987e98c6a159136081aba9fe65048d7fa1221d9a5bd23f30bbd431b5cc
+    content: Julia Mossbridge considers the deeper source of resistance to non-local consciousness to be a fear of being subsumed
+      - of discovering that one is not separate.
+    original_excerpt: sort of, I want to call it fear of being subsumed. Like fear of, Freud talks about this... the fear
+      that both men and women have, this is not just a male thing, of the mother bringing you back into her womb. Like not
+      being separate.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6a14e481-40a1-43c8-aa57-2def9a30a1fa
+        title: Sigmund Freud
+        slug: sigmund-freud
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 01:33:42.7-01:34:02.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 6261ca82-40f9-4b57-b9f1-c034b427a587
+    claim_hash: 9051130cb9cf4d3bd48c396189bd9a0bce45b9254202eb1c2ad78a5ac4608a33
+    content: Sigmund Freud described a fear, held by both men and women, of the mother bringing a person back into her womb
+      and of not being separate.
+    original_excerpt: Freud talks about this. Freud was right about a couple things. And one thing I think he was right about
+      is the fear that both men and women have, this is not just a male thing, of the mother bringing you back into her womb.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: named
+      origin: Sigmund Freud
+      relay:
+        - Julia Mossbridge
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6a14e481-40a1-43c8-aa57-2def9a30a1fa
+        title: Sigmund Freud
+        slug: sigmund-freud
+    date: null
+    date_end: null
+    location_in_record: 01:33:49.2-01:34:02.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

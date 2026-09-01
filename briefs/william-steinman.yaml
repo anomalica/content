@@ -9,310 +9,318 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1669
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
 related_nodes:
-- node_id: d269fa64-4dac-4deb-b3a0-b26de757f820
-  title: Eric Henry Wang
-  node_type: person
-  slug: eric-henry-wang
-  shared_claims: 2
-- node_id: aac6ac17-3ea8-44be-9c2a-6a13c645d282
-  title: Maria Wang
-  node_type: person
-  slug: maria-wang
-  shared_claims: 2
-- node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
-  title: Robert Sarbacher
-  node_type: person
-  slug: robert-sarbacher
-  shared_claims: 2
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 1
-- node_id: 418ccd0f-4646-46ee-9f02-5c344fa277d1
-  title: Eric Walker
-  node_type: person
-  slug: eric-walker
-  shared_claims: 1
-- node_id: 0c444899-f412-4dd4-aa47-0d6677ec405c
-  title: Henry Kissinger
-  node_type: person
-  slug: henry-kissinger
-  shared_claims: 1
-- node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
-  title: J. Robert Oppenheimer
-  node_type: person
-  slug: j-robert-oppenheimer
-  shared_claims: 1
-- node_id: 26448fd2-26bf-4101-b653-420bf22433d8
-  title: John von Neumann
-  node_type: person
-  slug: john-von-neumann
-  shared_claims: 1
-- node_id: 93df8d48-8068-409a-a198-27e923af6cde
-  title: Majestic 12 (MJ-12)
-  node_type: project
-  slug: majestic-12-mj-12
-  shared_claims: 1
-- node_id: be0f7797-340f-49e0-a9d2-60eabb4e5d15
-  title: The Crash at Aztec (book by William Steinman)
-  node_type: document
-  slug: the-crash-at-aztec-book-by-william-steinman
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-claims:
-- claim_id: 9a3f870d-d687-41b7-be25-5eeb2bf6a374
-  claim_hash: 5a160f4da4d605ffe003808d37db94731cebb04b0708423445a906270f9d7fe1
-  content: Three years before his death, Dr Robert Sarbacher wrote to researcher William
-    Steinman.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
-    title: William Steinman
-    slug: william-steinman
+  - node_id: d269fa64-4dac-4deb-b3a0-b26de757f820
+    title: Eric Henry Wang
+    node_type: person
+    slug: eric-henry-wang
+    shared_claims: 2
+  - node_id: aac6ac17-3ea8-44be-9c2a-6a13c645d282
+    title: Maria Wang
+    node_type: person
+    slug: maria-wang
+    shared_claims: 2
   - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
     title: Robert Sarbacher
+    node_type: person
     slug: robert-sarbacher
-  date: '1983'
-  date_end: null
-  location_in_record: ch8:8643-8684
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: eee9a7cd-e280-49bc-a688-dbdea4eec3fc
-  claim_hash: 74479ef715f6db63397483110e8b7370a6a76c814d364fe2c59667a88f1210c1
-  content: In his letter to William Steinman, Robert Sarbacher wrote that he had no
-    association with any of the people involved in the recovery of flying saucers
-    and had no knowledge of the dates of the recoveries.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
-    title: Robert Sarbacher
-  provenance_chain:
-    origin_kind: speaker
-    origin: Robert Sarbacher
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
-    title: William Steinman
-    slug: william-steinman
-  - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
-    title: Robert Sarbacher
-    slug: robert-sarbacher
-  date: null
-  date_end: null
-  location_in_record: ch8:8761-8879
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 3686158e-b007-4c0c-af4b-23373b470d47
-  claim_hash: 7c2e36410f24f095b2ecb2b27e7949c68bf144425186cfd5440aa5bd772579c3
-  content: William Steinman's book The Crash at Aztec briefly mentions J. Robert Oppenheimer
-    as tangentially related to the 1947 Aztec, New Mexico UFO crash and suggests he
-    might have been part of a crash retrieval team.
-  original_excerpt: the crash at aztec by steinman he does briefly mention oppenheimer
-    being tangentially related to this somehow and suggests that he might have even
-    been part of a crash retrieval team
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-    title: Chris Ramsay
-  provenance_chain:
-    origin_kind: document
-    origin: The Crash at Aztec (book by William Steinman)
-    relay:
-    - Chris Ramsey's narration
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
-    title: William Steinman
-    slug: william-steinman
-  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
-    title: J. Robert Oppenheimer
-    slug: j-robert-oppenheimer
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: be0f7797-340f-49e0-a9d2-60eabb4e5d15
-    title: The Crash at Aztec (book by William Steinman)
-    slug: the-crash-at-aztec-book-by-william-steinman
-  date: null
-  date_end: null
-  location_in_record: 00:15:04.1-00:15:14.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
-    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
-      33
-    record_date: '2025-04-11'
-    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
-    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
-    friendly_name: null
-- claim_id: 38a59bb5-2d96-45a4-b096-bc46da9362fb
-  claim_hash: 8cebe6d05d4d5fc390b483925f5f572700ed5511949e657b05ca4f1eb53e7bce
-  content: Eric Walker has told other ufologists, including William Steinman, that
-    John von Neumann was working at Majestic 12.
-  original_excerpt: from other sources we know um that um for example uh dr eric walker
-    has spoken to other uh ufologists many years ago william steinman to confirm um
-    that van neumann actually was working at MJ-12
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: named
-    origin: Eric Walker
-    relay:
-    - William Steinman and other ufologists
-    - Jonathan Caplan
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
-    title: John von Neumann
-    slug: john-von-neumann
-  - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
-    title: William Steinman
-    slug: william-steinman
+    shared_claims: 2
+  - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+    title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+    node_type: event
+    slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+    shared_claims: 1
   - node_id: 418ccd0f-4646-46ee-9f02-5c344fa277d1
     title: Eric Walker
+    node_type: person
     slug: eric-walker
-  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
-    title: Majestic 12 (MJ-12)
-    slug: majestic-12-mj-12
-  date: null
-  date_end: null
-  location_in_record: 00:46:05.1-00:46:20.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 0458488e-72ac-4ccd-9f6a-d8ac1981f090
-  claim_hash: 29df715cba106e61c0382520a33b9d1d9b20b5c021a160a2c24dcf751848fcb3
-  content: William Steinman visited the house of Eric Henry Wang and met Wang's widow
-    Maria Wang.
-  original_excerpt: William Steinman yeah you know goes to um the house of uh Eric
-    Henry Wang ... and he meets with uh Wang's uh widow uh Maria Wang
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jesse Michels
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
-    title: William Steinman
-    slug: william-steinman
-  - node_id: aac6ac17-3ea8-44be-9c2a-6a13c645d282
-    title: Maria Wang
-    slug: maria-wang
-  - node_id: d269fa64-4dac-4deb-b3a0-b26de757f820
-    title: Eric Henry Wang
-    slug: eric-henry-wang
-  date: null
-  date_end: null
-  location_in_record: 01:32:17.7-01:32:30.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 552c59cb-9442-4f0f-be9b-021cee2bf3c6
-  claim_hash: 1447160283cc031676110f3f901406dc1038e91bf5254a50a2bfa0a7b6e3231e
-  content: Maria Wang told William Steinman that her husband Eric Henry Wang had worked
-    on UFOs and that his boss was Henry Kissinger.
-  original_excerpt: and she's like yes my husband did work on ufos and his boss was
-    Henry Kissinger
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: named
-    origin: Maria Wang
-    relay:
-    - William Steinman
-    - Jesse Michels
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
   - node_id: 0c444899-f412-4dd4-aa47-0d6677ec405c
     title: Henry Kissinger
+    node_type: person
     slug: henry-kissinger
-  - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
-    title: William Steinman
-    slug: william-steinman
+    shared_claims: 1
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    node_type: person
+    slug: j-robert-oppenheimer
+    shared_claims: 1
+  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+    node_type: person
+    slug: john-von-neumann
+    shared_claims: 1
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    node_type: project
+    slug: majestic-12-mj-12
+    shared_claims: 1
+  - node_id: be0f7797-340f-49e0-a9d2-60eabb4e5d15
+    title: The Crash at Aztec (book by William Steinman)
+    node_type: document
+    slug: the-crash-at-aztec-book-by-william-steinman
+    shared_claims: 1
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
+    node_type: topic
     slug: unidentified-flying-object-ufo
-  - node_id: aac6ac17-3ea8-44be-9c2a-6a13c645d282
-    title: Maria Wang
-    slug: maria-wang
-  - node_id: d269fa64-4dac-4deb-b3a0-b26de757f820
-    title: Eric Henry Wang
-    slug: eric-henry-wang
-  date: null
-  date_end: null
-  location_in_record: 01:32:31.8-01:32:37.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
+    shared_claims: 1
+claims:
+  - claim_id: 9a3f870d-d687-41b7-be25-5eeb2bf6a374
+    claim_hash: 5a160f4da4d605ffe003808d37db94731cebb04b0708423445a906270f9d7fe1
+    content: Three years before his death, Dr Robert Sarbacher wrote to researcher William Steinman.
+    original_excerpt: Dr Sarbacher wrote to researcher William Steinman
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
+        title: William Steinman
+        slug: william-steinman
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: '1983'
+    date_end: null
+    location_in_record: ch8:8643-8684
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: eee9a7cd-e280-49bc-a688-dbdea4eec3fc
+    claim_hash: 74479ef715f6db63397483110e8b7370a6a76c814d364fe2c59667a88f1210c1
+    content: In his letter to William Steinman, Robert Sarbacher wrote that he had no association with any of the people involved
+      in the recovery of flying saucers and had no knowledge of the dates of the recoveries.
+    original_excerpt: I had no association with any of the people involved in the recovery and have no knowledge regarding
+      the dates of the recoveries
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+      title: Robert Sarbacher
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Sarbacher
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
+        title: William Steinman
+        slug: william-steinman
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch8:8761-8879
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3686158e-b007-4c0c-af4b-23373b470d47
+    claim_hash: 7c2e36410f24f095b2ecb2b27e7949c68bf144425186cfd5440aa5bd772579c3
+    content: William Steinman's book The Crash at Aztec briefly mentions J. Robert Oppenheimer as tangentially related to
+      the 1947 Aztec, New Mexico UFO crash and suggests he might have been part of a crash retrieval team.
+    original_excerpt: the crash at aztec by steinman he does briefly mention oppenheimer being tangentially related to this
+      somehow and suggests that he might have even been part of a crash retrieval team
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: document
+      origin: The Crash at Aztec (book by William Steinman)
+      relay:
+        - Chris Ramsey's narration
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+      - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
+        title: William Steinman
+        slug: william-steinman
+      - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+        title: J. Robert Oppenheimer
+        slug: j-robert-oppenheimer
+      - node_id: be0f7797-340f-49e0-a9d2-60eabb4e5d15
+        title: The Crash at Aztec (book by William Steinman)
+        slug: the-crash-at-aztec-book-by-william-steinman
+    date: null
+    date_end: null
+    location_in_record: 00:15:04.1-00:15:14.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null
+  - claim_id: 38a59bb5-2d96-45a4-b096-bc46da9362fb
+    claim_hash: 8cebe6d05d4d5fc390b483925f5f572700ed5511949e657b05ca4f1eb53e7bce
+    content: Eric Walker has told other ufologists, including William Steinman, that John von Neumann was working at Majestic
+      12.
+    original_excerpt: from other sources we know um that um for example uh dr eric walker has spoken to other uh ufologists
+      many years ago william steinman to confirm um that van neumann actually was working at MJ-12
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: named
+      origin: Eric Walker
+      relay:
+        - William Steinman and other ufologists
+        - Jonathan Caplan
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+        title: John von Neumann
+        slug: john-von-neumann
+      - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
+        title: William Steinman
+        slug: william-steinman
+      - node_id: 418ccd0f-4646-46ee-9f02-5c344fa277d1
+        title: Eric Walker
+        slug: eric-walker
+      - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+        title: Majestic 12 (MJ-12)
+        slug: majestic-12-mj-12
+    date: null
+    date_end: null
+    location_in_record: 00:46:05.1-00:46:20.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 0458488e-72ac-4ccd-9f6a-d8ac1981f090
+    claim_hash: 29df715cba106e61c0382520a33b9d1d9b20b5c021a160a2c24dcf751848fcb3
+    content: William Steinman visited the house of Eric Henry Wang and met Wang's widow Maria Wang.
+    original_excerpt: William Steinman yeah you know goes to um the house of uh Eric Henry Wang ... and he meets with uh Wang's
+      uh widow uh Maria Wang
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
+        title: William Steinman
+        slug: william-steinman
+      - node_id: aac6ac17-3ea8-44be-9c2a-6a13c645d282
+        title: Maria Wang
+        slug: maria-wang
+      - node_id: d269fa64-4dac-4deb-b3a0-b26de757f820
+        title: Eric Henry Wang
+        slug: eric-henry-wang
+    date: null
+    date_end: null
+    location_in_record: 01:32:17.7-01:32:30.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 552c59cb-9442-4f0f-be9b-021cee2bf3c6
+    claim_hash: 1447160283cc031676110f3f901406dc1038e91bf5254a50a2bfa0a7b6e3231e
+    content: Maria Wang told William Steinman that her husband Eric Henry Wang had worked on UFOs and that his boss was Henry
+      Kissinger.
+    original_excerpt: and she's like yes my husband did work on ufos and his boss was Henry Kissinger
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Maria Wang
+      relay:
+        - William Steinman
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c444899-f412-4dd4-aa47-0d6677ec405c
+        title: Henry Kissinger
+        slug: henry-kissinger
+      - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
+        title: William Steinman
+        slug: william-steinman
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: aac6ac17-3ea8-44be-9c2a-6a13c645d282
+        title: Maria Wang
+        slug: maria-wang
+      - node_id: d269fa64-4dac-4deb-b3a0-b26de757f820
+        title: Eric Henry Wang
+        slug: eric-henry-wang
+    date: null
+    date_end: null
+    location_in_record: 01:32:31.8-01:32:37.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

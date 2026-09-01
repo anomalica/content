@@ -9,138 +9,145 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 896
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
 related_nodes:
-- node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
-  title: J. Robert Oppenheimer
-  node_type: person
-  slug: j-robert-oppenheimer
-  shared_claims: 2
-- node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
-  title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-  node_type: document
-  slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
-  shared_claims: 2
-- node_id: 1cec988f-9fd5-43e9-a8e4-5ae5e3e60cc3
-  title: Gordon Gray
-  node_type: person
-  slug: gordon-gray
-  shared_claims: 1
-claims:
-- claim_id: 531f746a-35bf-44a9-95da-b66b81375599
-  claim_hash: 1366054257ead5981563e54e2bcc0388ee2042879b51185b914a27db3a3fb041
-  content: An unnamed annotator understood that J. Robert Oppenheimer approached George
-    Marshall while they attended a ceremony, to discuss the document with the President,
-    but Marshall rebuffed the idea.
-  original_excerpt: I understand Oppenheimer approached Marshall while they attended
-    ceremony at {{illegible}} As I understand it Marshall rebuffed the idea of Oppenheimer
-    discussing this with the President.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: an unnamed annotator relaying an understanding of an encounter between
-      J. Robert Oppenheimer and George Marshall
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1b39e286-453b-4bcf-a051-771c436feaf5
-    title: George Marshall
-    slug: george-marshall
   - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
     title: J. Robert Oppenheimer
+    node_type: person
     slug: j-robert-oppenheimer
-  date: null
-  date_end: null
-  location_in_record: char:12250-12427
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
-    record_title: Relationships with Inhabitants of Celestial Bodies
-    record_date: 1947-06
-    record_reference: null
-    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
-    friendly_name: null
-- claim_id: e2c13489-9c0a-4de6-9875-55caa83c8fea
-  claim_hash: 20e0c3f9871762fc0ff1d96259ebb9444680a92db9907eb477a8931f7e31cc02
-  content: A recorded response beneath The Relationships with Inhabitants of Celestial
-    Bodies (1947 document) states that George Marshall rebuffed the idea of J. Robert
-    Oppenheimer discussing the document's contents with the President.
-  original_excerpt: marshall rebuffed the idea of oppenheimer discussing this with
-    the president
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    relay:
-    - Chris Ramsey reading the document aloud
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1b39e286-453b-4bcf-a051-771c436feaf5
-    title: George Marshall
-    slug: george-marshall
-  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
-    title: J. Robert Oppenheimer
-    slug: j-robert-oppenheimer
+    shared_claims: 2
   - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
     title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    node_type: document
     slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
-  date: null
-  date_end: null
-  location_in_record: 00:34:53.6-00:34:57.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
-    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
-      33
-    record_date: '2025-04-11'
-    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
-    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
-    friendly_name: null
-- claim_id: 09bf5723-ee55-42b8-b208-746f22e7667f
-  claim_hash: 7d0aaf55426ebb0a86f5647dee019457d456617b4da09020d46eeab7f166b979
-  content: A recorded response beneath The Relationships with Inhabitants of Celestial
-    Bodies (1947 document) states that its author replied to Gordon Gray, who agreed
-    with George Marshall's rebuff of the idea of discussing the document with the
-    President.
-  original_excerpt: i replied to gordon and he agreed
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    relay:
-    - Chris Ramsey reading the document aloud
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1b39e286-453b-4bcf-a051-771c436feaf5
-    title: George Marshall
-    slug: george-marshall
+    shared_claims: 2
   - node_id: 1cec988f-9fd5-43e9-a8e4-5ae5e3e60cc3
     title: Gordon Gray
+    node_type: person
     slug: gordon-gray
-  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
-    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
-  date: null
-  date_end: null
-  location_in_record: 00:34:58.2-00:34:59.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
-    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
-      33
-    record_date: '2025-04-11'
-    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
-    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
-    friendly_name: null
+    shared_claims: 1
+claims:
+  - claim_id: 531f746a-35bf-44a9-95da-b66b81375599
+    claim_hash: 1366054257ead5981563e54e2bcc0388ee2042879b51185b914a27db3a3fb041
+    content: An unnamed annotator understood that J. Robert Oppenheimer approached George Marshall while they attended a ceremony,
+      to discuss the document with the President, but Marshall rebuffed the idea.
+    original_excerpt: I understand Oppenheimer approached Marshall while they attended ceremony at {{illegible}} As I understand
+      it Marshall rebuffed the idea of Oppenheimer discussing this with the President.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed annotator relaying an understanding of an encounter between J. Robert Oppenheimer and George Marshall
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b39e286-453b-4bcf-a051-771c436feaf5
+        title: George Marshall
+        slug: george-marshall
+      - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+        title: J. Robert Oppenheimer
+        slug: j-robert-oppenheimer
+    date: null
+    date_end: null
+    location_in_record: char:12250-12427
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+      record_title: Relationships with Inhabitants of Celestial Bodies
+      record_date: 1947-06
+      record_reference: null
+      content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+      friendly_name: null
+  - claim_id: e2c13489-9c0a-4de6-9875-55caa83c8fea
+    claim_hash: 20e0c3f9871762fc0ff1d96259ebb9444680a92db9907eb477a8931f7e31cc02
+    content: A recorded response beneath The Relationships with Inhabitants of Celestial Bodies (1947 document) states that
+      George Marshall rebuffed the idea of J. Robert Oppenheimer discussing the document's contents with the President.
+    original_excerpt: marshall rebuffed the idea of oppenheimer discussing this with the president
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+      relay:
+        - Chris Ramsey reading the document aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b39e286-453b-4bcf-a051-771c436feaf5
+        title: George Marshall
+        slug: george-marshall
+      - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+        title: J. Robert Oppenheimer
+        slug: j-robert-oppenheimer
+      - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+        title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+        slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+    date: null
+    date_end: null
+    location_in_record: 00:34:53.6-00:34:57.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null
+  - claim_id: 09bf5723-ee55-42b8-b208-746f22e7667f
+    claim_hash: 7d0aaf55426ebb0a86f5647dee019457d456617b4da09020d46eeab7f166b979
+    content: A recorded response beneath The Relationships with Inhabitants of Celestial Bodies (1947 document) states that
+      its author replied to Gordon Gray, who agreed with George Marshall's rebuff of the idea of discussing the document with
+      the President.
+    original_excerpt: i replied to gordon and he agreed
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+      relay:
+        - Chris Ramsey reading the document aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b39e286-453b-4bcf-a051-771c436feaf5
+        title: George Marshall
+        slug: george-marshall
+      - node_id: 1cec988f-9fd5-43e9-a8e4-5ae5e3e60cc3
+        title: Gordon Gray
+        slug: gordon-gray
+      - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+        title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+        slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+    date: null
+    date_end: null
+    location_in_record: 00:34:58.2-00:34:59.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null

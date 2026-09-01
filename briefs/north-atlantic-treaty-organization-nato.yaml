@@ -9,319 +9,325 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2245
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
 related_nodes:
-- node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
-  title: United Nations (UN)
-  node_type: organisation
-  slug: united-nations-un
-  shared_claims: 2
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 1
-- node_id: c2d58d98-057c-4fb4-b4a3-aa1b4d445aae
-  title: Bosnia
-  node_type: place
-  slug: bosnia
-  shared_claims: 1
-- node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
-  title: Donald Trump
-  node_type: person
-  slug: donald-trump
-  shared_claims: 1
-- node_id: b4b6d509-b7dd-4e45-ae2f-c287aa314a6c
-  title: Falkland Islands
-  node_type: place
-  slug: falkland-islands
-  shared_claims: 1
-- node_id: a6121d8f-c4ae-4518-8c6d-92cd60d67dde
-  title: Five Eyes (FVEY)
-  node_type: organisation
-  slug: five-eyes-fvey
-  shared_claims: 1
-- node_id: 435a9455-09bd-484b-a515-5ede8f27e97f
-  title: Predator unmanned aerial vehicle (UAV)
-  node_type: object
-  slug: predator-unmanned-aerial-vehicle-uav
-  shared_claims: 1
-- node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
-  title: Scott W. Bray
-  node_type: person
-  slug: scott-w-bray
-  shared_claims: 1
-- node_id: 2993e6e0-6c79-4c60-a1d3-f2f023ea2957
-  title: UK, England, RAF Bentwaters
-  node_type: place
-  slug: england-raf-bentwaters-uk
-  shared_claims: 1
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 1
-claims:
-- claim_id: 6e4c201a-bb1d-4ba0-b5e5-767c57da05be
-  claim_hash: d9f828148b003619fa93bcafcf08e55b13f8c99806ac6e366f897e823b3feafc
-  content: The sighting report of the two Unidentified Aerial Phenomena (UAP) moving
-    south at approximately 440 kilometres per hour near grid coordinate 35SQT3423692957
-    was classified SECRET, releasable to the United States, Finland, Sweden, Five
-    Eyes (FVEY), and North Atlantic Treaty Organization (NATO).
-  original_excerpt: '{{classification: "SECRET//REL TO USA, FIN, SWE, FVEY, NATO"}}
-    AT 1653Z, {{redacted: ~3 words}} OBS 2X UAPS DYNAMIC SOUTH AT APPROX 240NM/HOUR
-    IVO 35SQT3423692957.'
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: the UAP sighting report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
-    title: North Atlantic Treaty Organization (NATO)
-    slug: north-atlantic-treaty-organization-nato
-  - node_id: a6121d8f-c4ae-4518-8c6d-92cd60d67dde
-    title: Five Eyes (FVEY)
-    slug: five-eyes-fvey
-  date: null
-  date_end: null
-  location_in_record: char:1514-1675
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b882ef00-995c-4bf0-825f-8237662daf1f
-    record_title: UAP Sighting Report
-    record_date: null
-    record_reference: null
-    content_hash: sha256:0a8548a845c3b45f90ee512bdfd8eac1af073072228e7e4d24e779d12025886c
-    friendly_name: undated-pdf-uap-sighting-report
-- claim_id: 24892690-59bc-4ec9-942b-8a991143641c
-  claim_hash: 1cc6d79d893ac97b1569e7924ba3d784591da40d05c93b99c2ac43e0c1eed331
-  content: On 1956-08-13, radar operators at the NATO base RAF Bentwaters in Suffolk,
-    England, which was known to be armed with nuclear weapons, tracked an object soaring
-    towards them at speeds of up to approximately 14,500 kilometres per hour.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: radar records from RAF Bentwaters
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2993e6e0-6c79-4c60-a1d3-f2f023ea2957
-    title: UK, England, RAF Bentwaters
-    slug: england-raf-bentwaters-uk
-  - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
-    title: North Atlantic Treaty Organization (NATO)
-    slug: north-atlantic-treaty-organization-nato
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '1956-08-13'
-  date_end: null
-  location_in_record: ch9:2110-2314
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: e277c8ec-8ce1-43d7-ab06-8a0867059774
-  claim_hash: 8593b804299ff2f5da065bd7a500bbc41d59fde134938d0c034e3dee5fd47afb
-  content: Scott Bray holds the position of Assistant Secretary General for Intelligence
-    and Security at the North Atlantic Treaty Organization (NATO).
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
-    title: North Atlantic Treaty Organization (NATO)
-    slug: north-atlantic-treaty-organization-nato
-  - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
-    title: Scott W. Bray
-    slug: scott-w-bray
-  date: null
-  date_end: null
-  location_in_record: ch35:5443-5511
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 8d60814d-0fb7-4552-b897-4514a20308da
-  claim_hash: b5b639681e0d45c1c5e21fb7563c2e1ae30d6f580646428ec4c8bf9d5b34e140
-  content: The Predator UAV was used to support United Nations and North Atlantic
-    Treaty Organization efforts in Bosnia and was widely used in counterterrorism
-    operations.
-  original_excerpt: It was used to support United Nations and North Atlantic Treaty
-    Organization efforts in Bosnia and was widely used in counterterrorism operations.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 435a9455-09bd-484b-a515-5ede8f27e97f
-    title: Predator unmanned aerial vehicle (UAV)
-    slug: predator-unmanned-aerial-vehicle-uav
-  - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
-    title: North Atlantic Treaty Organization (NATO)
-    slug: north-atlantic-treaty-organization-nato
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    node_type: organisation
+    slug: united-nations-un
+    shared_claims: 2
   - node_id: c2d58d98-057c-4fb4-b4a3-aa1b4d445aae
     title: Bosnia
+    node_type: place
     slug: bosnia
-  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
-    title: United Nations (UN)
-    slug: united-nations-un
-  date: null
-  date_end: null
-  location_in_record: char:138479-138614
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 91b6a59c-52e5-48cb-b803-acf618ac400d
-  claim_hash: 7e3e3e86d51b748958e784c62bdd49c7864774198ef786d16bf2daa916ecdf23
-  content: Norway, Sweden and Finland all joined NATO, bringing the North Atlantic
-    Treaty Organisation (NATO) to Russia's borders, which clarified the prophecy's
-    reasoning about Russian attacks on Scandinavia.
-  original_excerpt: Norway, Sweden, Finland, all joined NATO, inviting NATO to these
-    borders and coming in.
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
-    title: Michael Horn
-  provenance_chain: null
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
-    title: North Atlantic Treaty Organization (NATO)
-    slug: north-atlantic-treaty-organization-nato
-  date: null
-  date_end: null
-  location_in_record: 01:22:04.8-01:22:16.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
-    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
-      ep. 92
-    record_date: '2026-06-12'
-    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
-    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
-    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
-- claim_id: 316bd87d-e07e-43fb-a41b-d95e608034e6
-  claim_hash: f6aa1bf5053c504717941e224c6ca5de3770ad0158571da8aa9313ddd35fffd8
-  content: The Henoch Prophecies foretold that Switzerland would abandon its true
-    neutrality and align itself with the United Nations and/or the North Atlantic
-    Treaty Organisation, opening it to being ultimately attacked and invaded by powers
-    from the East, meaning China and Russia.
-  original_excerpt: Switzerland, the land of peace and neutrality, is going to make
-    a big mistake. They will abandon their true neutrality and align themselves and
-    work with the UN and or NATO, which will open them to being ultimately attacked
-    and invaded by the powers from the East, meaning ... China ... and Russia
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
-    title: Michael Horn
-  provenance_chain: null
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
-    title: North Atlantic Treaty Organization (NATO)
-    slug: north-atlantic-treaty-organization-nato
-  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
-    title: United Nations (UN)
-    slug: united-nations-un
-  date: null
-  date_end: null
-  location_in_record: 01:40:41.1-01:41:15.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
-    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
-      ep. 92
-    record_date: '2026-06-12'
-    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
-    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
-    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
-- claim_id: 42be0720-22f2-497c-b61a-b2f25281e505
-  claim_hash: fca315001ac32ae2bba60bc31788189c2878ee9b2975db8b180859f447af8a0a
-  content: Within the week to ten days before the interview, an article in the American
-    news reported that Donald Trump had an issue with the North Atlantic Treaty Organisation
-    and that the Falklands had come up again.
-  original_excerpt: There was an article that passed something in the American news
-    about Trump. ... He's got an issue with NATO, and there's something about the
-    Falklands has come up again.
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
-    title: Michael Horn
-  provenance_chain: null
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
   - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
     title: Donald Trump
+    node_type: person
     slug: donald-trump
-  - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
-    title: North Atlantic Treaty Organization (NATO)
-    slug: north-atlantic-treaty-organization-nato
+    shared_claims: 1
   - node_id: b4b6d509-b7dd-4e45-ae2f-c287aa314a6c
     title: Falkland Islands
+    node_type: place
     slug: falkland-islands
-  date: null
-  date_end: null
-  location_in_record: 01:46:52.5-01:47:08.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
-    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
-      ep. 92
-    record_date: '2026-06-12'
-    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
-    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
-    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+    shared_claims: 1
+  - node_id: a6121d8f-c4ae-4518-8c6d-92cd60d67dde
+    title: Five Eyes (FVEY)
+    node_type: organisation
+    slug: five-eyes-fvey
+    shared_claims: 1
+  - node_id: 435a9455-09bd-484b-a515-5ede8f27e97f
+    title: Predator unmanned aerial vehicle (UAV)
+    node_type: object
+    slug: predator-unmanned-aerial-vehicle-uav
+    shared_claims: 1
+  - node_id: 1df6323e-2a18-496a-b9cd-e73cb7f90b53
+    title: RAF Bentwaters UAP Sighting 1956
+    node_type: event
+    slug: raf-bentwaters-uap-sighting-1956
+    shared_claims: 1
+  - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+    title: Scott W. Bray
+    node_type: person
+    slug: scott-w-bray
+    shared_claims: 1
+  - node_id: 2993e6e0-6c79-4c60-a1d3-f2f023ea2957
+    title: UK, England, RAF Bentwaters
+    node_type: place
+    slug: england-raf-bentwaters-uk
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+claims:
+  - claim_id: 6e4c201a-bb1d-4ba0-b5e5-767c57da05be
+    claim_hash: d9f828148b003619fa93bcafcf08e55b13f8c99806ac6e366f897e823b3feafc
+    content: The sighting report of the two Unidentified Aerial Phenomena (UAP) moving south at approximately 440 kilometres
+      per hour near grid coordinate 35SQT3423692957 was classified SECRET, releasable to the United States, Finland, Sweden,
+      Five Eyes (FVEY), and North Atlantic Treaty Organization (NATO).
+    original_excerpt: '{{classification: "SECRET//REL TO USA, FIN, SWE, FVEY, NATO"}} AT 1653Z, {{redacted: ~3 words}} OBS
+      2X UAPS DYNAMIC SOUTH AT APPROX 240NM/HOUR IVO 35SQT3423692957.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: the UAP sighting report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
+        title: North Atlantic Treaty Organization (NATO)
+        slug: north-atlantic-treaty-organization-nato
+      - node_id: a6121d8f-c4ae-4518-8c6d-92cd60d67dde
+        title: Five Eyes (FVEY)
+        slug: five-eyes-fvey
+    date: null
+    date_end: null
+    location_in_record: char:1514-1675
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b882ef00-995c-4bf0-825f-8237662daf1f
+      record_title: UAP Sighting Report
+      record_date: null
+      record_reference: null
+      content_hash: sha256:0a8548a845c3b45f90ee512bdfd8eac1af073072228e7e4d24e779d12025886c
+      friendly_name: undated-pdf-uap-sighting-report
+  - claim_id: 24892690-59bc-4ec9-942b-8a991143641c
+    claim_hash: 1cc6d79d893ac97b1569e7924ba3d784591da40d05c93b99c2ac43e0c1eed331
+    content: On 1956-08-13, radar operators at the NATO base RAF Bentwaters in Suffolk, England, which was known to be armed
+      with nuclear weapons, tracked an object soaring towards them at speeds of up to approximately 14,500 kilometres per
+      hour.
+    original_excerpt: On 13 August 1956, radar operators at the Suffolk NATO base RAF Bentwaters (known to be armed with nuclear
+      weapons) tracked an object soaring towards them at speeds of up to 9000 miles an hour (14,500 km/h).
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: radar records from RAF Bentwaters
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1df6323e-2a18-496a-b9cd-e73cb7f90b53
+        title: RAF Bentwaters UAP Sighting 1956
+        slug: raf-bentwaters-uap-sighting-1956
+      - node_id: 2993e6e0-6c79-4c60-a1d3-f2f023ea2957
+        title: UK, England, RAF Bentwaters
+        slug: england-raf-bentwaters-uk
+      - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
+        title: North Atlantic Treaty Organization (NATO)
+        slug: north-atlantic-treaty-organization-nato
+    date: '1956-08-13'
+    date_end: null
+    location_in_record: ch9:2110-2314
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e277c8ec-8ce1-43d7-ab06-8a0867059774
+    claim_hash: 8593b804299ff2f5da065bd7a500bbc41d59fde134938d0c034e3dee5fd47afb
+    content: Scott Bray holds the position of Assistant Secretary General for Intelligence and Security at the North Atlantic
+      Treaty Organization (NATO).
+    original_excerpt: —Scott Bray, NATO’s Assistant Secretary General for Intelligence and Security
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
+        title: North Atlantic Treaty Organization (NATO)
+        slug: north-atlantic-treaty-organization-nato
+      - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+        title: Scott W. Bray
+        slug: scott-w-bray
+    date: null
+    date_end: null
+    location_in_record: ch35:5443-5511
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 8d60814d-0fb7-4552-b897-4514a20308da
+    claim_hash: b5b639681e0d45c1c5e21fb7563c2e1ae30d6f580646428ec4c8bf9d5b34e140
+    content: The Predator UAV was used to support United Nations and North Atlantic Treaty Organization efforts in Bosnia
+      and was widely used in counterterrorism operations.
+    original_excerpt: It was used to support United Nations and North Atlantic Treaty Organization efforts in Bosnia and was
+      widely used in counterterrorism operations.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 435a9455-09bd-484b-a515-5ede8f27e97f
+        title: Predator unmanned aerial vehicle (UAV)
+        slug: predator-unmanned-aerial-vehicle-uav
+      - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
+        title: North Atlantic Treaty Organization (NATO)
+        slug: north-atlantic-treaty-organization-nato
+      - node_id: c2d58d98-057c-4fb4-b4a3-aa1b4d445aae
+        title: Bosnia
+        slug: bosnia
+      - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+        title: United Nations (UN)
+        slug: united-nations-un
+    date: null
+    date_end: null
+    location_in_record: char:138479-138614
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 91b6a59c-52e5-48cb-b803-acf618ac400d
+    claim_hash: 7e3e3e86d51b748958e784c62bdd49c7864774198ef786d16bf2daa916ecdf23
+    content: Norway, Sweden and Finland all joined NATO, bringing the North Atlantic Treaty Organisation (NATO) to Russia's
+      borders, which clarified the prophecy's reasoning about Russian attacks on Scandinavia.
+    original_excerpt: Norway, Sweden, Finland, all joined NATO, inviting NATO to these borders and coming in.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
+        title: North Atlantic Treaty Organization (NATO)
+        slug: north-atlantic-treaty-organization-nato
+    date: null
+    date_end: null
+    location_in_record: 01:22:04.8-01:22:16.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+  - claim_id: 316bd87d-e07e-43fb-a41b-d95e608034e6
+    claim_hash: f6aa1bf5053c504717941e224c6ca5de3770ad0158571da8aa9313ddd35fffd8
+    content: The Henoch Prophecies foretold that Switzerland would abandon its true neutrality and align itself with the United
+      Nations and/or the North Atlantic Treaty Organisation, opening it to being ultimately attacked and invaded by powers
+      from the East, meaning China and Russia.
+    original_excerpt: Switzerland, the land of peace and neutrality, is going to make a big mistake. They will abandon their
+      true neutrality and align themselves and work with the UN and or NATO, which will open them to being ultimately attacked
+      and invaded by the powers from the East, meaning ... China ... and Russia
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
+        title: North Atlantic Treaty Organization (NATO)
+        slug: north-atlantic-treaty-organization-nato
+      - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+        title: United Nations (UN)
+        slug: united-nations-un
+    date: null
+    date_end: null
+    location_in_record: 01:40:41.1-01:41:15.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+  - claim_id: 42be0720-22f2-497c-b61a-b2f25281e505
+    claim_hash: fca315001ac32ae2bba60bc31788189c2878ee9b2975db8b180859f447af8a0a
+    content: Within the week to ten days before the interview, an article in the American news reported that Donald Trump
+      had an issue with the North Atlantic Treaty Organisation and that the Falklands had come up again.
+    original_excerpt: There was an article that passed something in the American news about Trump. ... He's got an issue with
+      NATO, and there's something about the Falklands has come up again.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
+        title: North Atlantic Treaty Organization (NATO)
+        slug: north-atlantic-treaty-organization-nato
+      - node_id: b4b6d509-b7dd-4e45-ae2f-c287aa314a6c
+        title: Falkland Islands
+        slug: falkland-islands
+    date: null
+    date_end: null
+    location_in_record: 01:46:52.5-01:47:08.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2

@@ -1,0 +1,3762 @@
+schema: anomalica/brief/1
+brief_hash: 7d9788e9c7891ba858c0d317e4d9bc8e2dc57fed089d7bb60ea25fdd3bc02bdd
+page:
+  kind: entity
+  node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+  node_type: person
+  title: Pim van Lommel
+  slug: pim-van-lommel
+  claim_count: 99
+  claim_count_total: 99
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 99
+  tokens_estimated: 30307
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 99
+related_nodes:
+  - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+    title: near-death experience (NDE)
+    node_type: topic
+    slug: near-death-experience-nde
+    shared_claims: 17
+  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+    title: nonlocal consciousness
+    node_type: topic
+    slug: nonlocal-consciousness
+    shared_claims: 15
+  - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
+    title: materialist paradigm of consciousness
+    node_type: topic
+    slug: materialist-paradigm-of-consciousness
+    shared_claims: 5
+  - node_id: 2191a476-b188-481c-bf57-95fc089afbe3
+    title: van Lommel et al. 2001 Lancet study on near-death experiences
+    node_type: document
+    slug: van-lommel-et-al-2001-lancet-study-on-near-death-experiences
+    shared_claims: 4
+  - node_id: 0994420f-7645-4f8c-b2ea-7d18f2e0146d
+    title: Peter Fenwick
+    node_type: person
+    slug: peter-fenwick
+    shared_claims: 2
+  - node_id: 8d46574b-05d7-4112-b31f-339f93b3d360
+    title: quantum nonlocality
+    node_type: topic
+    slug: quantum-nonlocality
+    shared_claims: 2
+  - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+    title: survival hypothesis
+    node_type: topic
+    slug: survival-hypothesis
+    shared_claims: 2
+  - node_id: ec527113-0912-4b33-81d6-d58f7df79dc1
+    title: After-death communication (ADC)
+    node_type: topic
+    slug: after-death-communication-adc
+    shared_claims: 1
+  - node_id: bb57f245-f237-4c9d-9d6c-6ae3a14b4a55
+    title: Bigelow Institute for Consciousness Studies essay contest 2021
+    node_type: project
+    slug: bigelow-institute-for-consciousness-studies-essay-contest-2021
+    shared_claims: 1
+  - node_id: c96d3e9f-da2f-46c2-97d4-1687811cd62e
+    title: C. Renckens
+    node_type: person
+    slug: c-renckens
+    shared_claims: 1
+  - node_id: b7348a0c-d166-49d5-a163-7ee3f0cc4443
+    title: 'Consciousness Beyond Life: The Science of the Near-Death Experience (book by Pim van Lommel)'
+    node_type: document
+    slug: consciousness-beyond-life-the-science-of-the-near-death-experience-book-by-pim-van-lommel
+    shared_claims: 1
+  - node_id: 2271e97d-2520-4a9f-8322-f4a332eb1654
+    title: Dutch Association Against Quackery
+    node_type: organisation
+    slug: dutch-association-against-quackery
+    shared_claims: 1
+  - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+    node_type: person
+    slug: leslie-kean
+    shared_claims: 1
+  - node_id: 74cf1eab-233d-422a-b745-73d252fbf249
+    title: Netherlands, Arnhem
+    node_type: place
+    slug: arnhem-netherlands
+    shared_claims: 1
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    node_type: topic
+    slug: out-of-body-experience-obe
+    shared_claims: 1
+  - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+    title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+    node_type: project
+    slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    shared_claims: 1
+  - node_id: 297a7748-8fd4-494a-9253-305c6e06b003
+    title: SKEPP
+    node_type: organisation
+    slug: skepp
+    shared_claims: 1
+  - node_id: 0355fa70-a4ea-4e6c-b0f6-ed9d5f8a2d52
+    title: Science (journal)
+    node_type: organisation
+    slug: science-journal
+    shared_claims: 1
+  - node_id: ae205f2c-0eff-4111-bae9-72e3322a9fb0
+    title: The Lancet
+    node_type: organisation
+    slug: the-lancet
+    shared_claims: 1
+  - node_id: 6ee34082-2037-42ee-9cfe-8c01ec50348b
+    title: W. Betz
+    node_type: person
+    slug: w-betz
+    shared_claims: 1
+  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+    title: electroencephalography (EEG)
+    node_type: topic
+    slug: electroencephalography-eeg
+    shared_claims: 1
+  - node_id: 14da1dc7-1325-4a1b-aa81-15e85474c49c
+    title: end-of-life experiences
+    node_type: topic
+    slug: end-of-life-experiences
+    shared_claims: 1
+  - node_id: 7d6bde80-2ab3-46e4-a31e-f8ef5b02b1cb
+    title: unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
+    node_type: event
+    slug: unnamed-coronary-care-unit-patients-veridical-out-of-body-experience-of-dentures-removal
+    shared_claims: 1
+  - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
+    title: veridical out-of-body perception
+    node_type: topic
+    slug: veridical-out-of-body-perception
+    shared_claims: 1
+claims:
+  - claim_id: bc21c507-6a67-45e8-865f-9d98803accc9
+    claim_hash: 51655c0dad9bc1fb1e395d669e795c16d62ca21205c10f624f8e1376d51f91ad
+    content: In 1969, a patient at Pim van Lommel's coronary care unit suffered a cardiac arrest from ventricular fibrillation
+      following a heart attack, became unresponsive, and was defibrillated twice before his cardiac rhythm was reestablished
+      and he regained consciousness more than a minute later, after about four minutes of unconsciousness.
+    original_excerpt: A patient with a heart attack had a cardiac arrest (ventricular fibrillation), and was no longer responsive...
+      Then the patient was defibrillated for the second time. This time his cardiac rhythm was reestablished, and more than
+      a minute later, he regained consciousness, after being unconsciousness for about four minutes.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: '1969'
+    date_end: null
+    location_in_record: 00022-00023
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: bc8eb689-efda-4fed-b793-8881788d11ad
+    claim_hash: c469befe8cd6057db982c0406d136fb24c8203688e31a39cd18fcdf0232a9c42
+    content: In Pim van Lommel's Dutch prospective study, of the patients with a near-death experience, 41 (66 percent) had
+      a deep core experience while 21 (34 percent) had a more superficial one.
+    original_excerpt: Of these, 41 (66 percent) had a deep core experience while 21 (34 percent) had a more superficial one.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:10006-10104
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 21b73e2d-7639-4b96-93d6-fbd65814ca61
+    claim_hash: 3262b17f32071850698d1856d0455a6ee503e9c787bd46b8e66c2295f938cd5f
+    content: In Pim van Lommel's Dutch prospective study, 50 percent of near-death experiencers reported an awareness of being
+      dead.
+    original_excerpt: All the typical elements were reported, such as 50 percent reporting an awareness of being dead
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:10226-10317
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 725a4ae7-7ed7-46b4-af55-d115fb14d50c
+    claim_hash: 60fb4a933ed10b258f23b9694840281232b6cd8079ae1fb55462ee57eefab7c5
+    content: In Pim van Lommel's Dutch prospective study, 56 percent of near-death experiencers reported positive emotions.
+    original_excerpt: 56 percent positive emotions
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:10323-10343
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: dc4e775c-e29f-4b0f-95e6-189f5516f598
+    claim_hash: fe4ca7428373628f47fe55ef09c87417af26866317400b3c9dd73a69ee33aab0
+    content: In Pim van Lommel's Dutch prospective study, 25 percent of near-death experiencers reported an out-of-body experience
+      (OBE).
+    original_excerpt: 25 percent an out-of-body experience (OBE)
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:10353-10391
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 3d3129da-34aa-4135-bdb8-758f79780188
+    claim_hash: 43ea631130f7ef301509117b2e3db8ef8e1e55a70d4d58ae64f8fb3c22525be2
+    content: In Pim van Lommel's Dutch prospective study, 31 percent of near-death experiencers reported going through a tunnel.
+    original_excerpt: 31 percent going through a tunnel
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:10397-10424
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: e97a9a32-4232-4749-8028-66f71f8cbba4
+    claim_hash: 90f83e5feeacc5c3377891aa76f28ebd6a4cda49a418572a20a643749582dd6d
+    content: In Pim van Lommel's Dutch prospective study, 23 percent of near-death experiencers reported communication with
+      the light.
+    original_excerpt: 23 percent communication with the light
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:10436-10470
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 5528043c-27c2-4a44-b7df-95137ea82e72
+    claim_hash: 41442eed10ceda05b0cc765472adfbc764107162b0b0fcdc05624db8822dce74
+    content: Pim van Lommel and colleagues interviewed all survivors of cardiac arrest with a near-death experience, along
+      with a matched control group of survivors without one, two and eight years following their incident to study the resulting
+      transformation.
+    original_excerpt: To study the resulting transformation afterward we interviewed all survivors of cardiac arrest with
+      an NDE two and eight years following their incident, with a matched control group of patients who survived cardiac arrest
+      without NDE.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:10478-10708
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 4a83615a-9eed-4c78-ac30-3866a454e75c
+    claim_hash: 9c95211bb16956ca5332b6dd64756c4643a18fb8326ae0f9123a1ee1cc406977
+    content: Experiencers of near-death experiences in Pim van Lommel's follow-up study had no fear of death anymore and were
+      convinced of the reality of an afterlife.
+    original_excerpt: Experiencers of NDEs had no fear of death anymore, and were convinced of the reality of an afterlife.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:10795-10886
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 1708f12b-e5c9-4199-b4bf-58b2bf305729
+    claim_hash: ac479324cfb44cd7c348c5a96e8045086fd3184507970197bfe756821b571134
+    content: Experiencers of near-death experiences in Pim van Lommel's follow-up study had greater intuitive sensitivity
+      and meaning in their lives, coupled with long periods of homesickness, loneliness, and depression caused by the inability
+      to share their experience with others.
+    original_excerpt: They had greater intuitive sensitivity and meaning in their lives, coupled with long periods of homesickness,
+      loneliness, and depression caused by the inability to share their impressive and life-changing experience with others.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:10897-11118
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 390d8dbd-14b8-46f7-bdbf-37c1824c4089
+    claim_hash: 8ec668ebc33182fad3e0520c1e91eb7cc68dd8f6e0baa6ad2541a5da3456a9a6
+    content: Pim van Lommel's study found that neither the duration of unconsciousness nor of the cardiac arrest, nor medication,
+      nor fear of death, had an effect on whether a patient reported a near-death experience.
+    original_excerpt: To our big surprise we found that neither the duration of unconsciousness nor of the cardiac arrest
+      (the severity or gravity of lack of oxygen in the brain), nor any other factors such as medication or a fear of death,
+      had an effect.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:11283-11509
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 461c2e21-d0a7-4890-9e01-00575e0e173a
+    claim_hash: aecb238641daf2fafeeccc507585821359f397d0af6a01b7d66b1a24644c002c
+    content: Pim van Lommel's study found that gender, foreknowledge of near-death experiences, religion, and education had
+      no effect on the occurrence, frequency, or quality of a near-death experience.
+    original_excerpt: Nothing seemed to play a role in determining the occurrence, frequency, or quality of an NDE—not gender,
+      foreknowledge of NDEs, religion, or education.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:11517-11658
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 501c2b53-43ca-430d-ace2-80cd0ba7aaaa
+    claim_hash: 9e56e572d3d589a4d034ae8fa9b202fb8eb199d2389675a72a4a028d054f7d38
+    content: Pim van Lommel's study was the first and largest prospective study on near-death experiences, and it excluded
+      physiological, psychological, or pharmacological factors as the cause of these experiences during cardiac arrest.
+    original_excerpt: Thus, the first and largest prospective study on NDEs ever could exclude that physiological, psychological,
+      or pharmacological factors caused these experiences during cardiac arrest.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:11670-11845
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: cc896841-3f13-4ab4-9330-2752c56cca85
+    claim_hash: ad4e0586f92f22ac5a883a4f7555e48d98cf575ed828ba44e67f1b6b834ca7dc
+    content: Pim van Lommel considers that, beyond a reasonable doubt, there is a continuity of consciousness after the death
+      of the physical body.
+    original_excerpt: After many years of research, it has become clear to me that, beyond a reasonable doubt, there is a
+      continuity of consciousness after the death of our physical body.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:1191-1345
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: c2798c6d-196d-43ab-abcf-7265524e8c9f
+    claim_hash: 21cfa6166333549f936591075ee8534da90327dea8e7ed840b5a9ece8f86b8bc
+    content: Pim van Lommel had to cancel all appointments for a couple of days to comply with requests for interviews with
+      national and international newspapers, radio, and television after publication of his 2001 Lancet study.
+    original_excerpt: For a couple of days I had to cancel all appointments to comply with requests for interviews with national
+      and international newspapers, radio, and television.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2191a476-b188-481c-bf57-95fc089afbe3
+        title: van Lommel et al. 2001 Lancet study on near-death experiences
+        slug: van-lommel-et-al-2001-lancet-study-on-near-death-experiences
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: 2001-12
+    date_end: null
+    location_in_record: ch18:12714-12862
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 8da9dbd1-a4b0-4bc1-a5e2-1895661c0327
+    claim_hash: 2f759f229bfe44533e050c093bee67000e3f5feca976db966a0972cdab3bc580
+    content: Pim van Lommel received hundreds of emails with positive responses from near-death experiencers who felt supported
+      and recognised by his 2001 Lancet study, including doctors who had experienced a near-death experience themselves.
+    original_excerpt: We received hundreds of emails with positive responses from NDErs who felt supported and recognized
+      by this study. Even doctors who had experienced an NDE themselves but had never been able to discuss it with colleagues
+      contacted us.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: 2191a476-b188-481c-bf57-95fc089afbe3
+        title: van Lommel et al. 2001 Lancet study on near-death experiences
+        slug: van-lommel-et-al-2001-lancet-study-on-near-death-experiences
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:12874-13104
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 4ede0a09-e9f3-4dc4-89d3-de2cc3094407
+    claim_hash: 59b1e9e76158b5fe1a0f5a9d0b8b7cec9cf742b28728122281836eace02c58fb
+    content: C. Renckens, a gynaecologist and chair of the Dutch Association Against Quackery, linked Pim van Lommel's near-death
+      experience study with multiple personality disorder, chronic fatigue syndrome, fibromyalgia, and alien abduction syndrome,
+      and described van Lommel as "a failed prophet with the personality of a pre-morbid quack."
+    original_excerpt: In the Netherlands, Dr. C. Renckens, gynecologist and chair of the Dutch Association Against Quackery,
+      linked our study with “multiple personality disorder, chronic fatigue syndrome, fibromyalgia, and alien abduction syndrome.”
+      He described me as “a failed prophet with the personality of a pre-morbid quack.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: named
+      origin: C. Renckens
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2191a476-b188-481c-bf57-95fc089afbe3
+        title: van Lommel et al. 2001 Lancet study on near-death experiences
+        slug: van-lommel-et-al-2001-lancet-study-on-near-death-experiences
+      - node_id: 2271e97d-2520-4a9f-8322-f4a332eb1654
+        title: Dutch Association Against Quackery
+        slug: dutch-association-against-quackery
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: c96d3e9f-da2f-46c2-97d4-1687811cd62e
+        title: C. Renckens
+        slug: c-renckens
+    date: null
+    date_end: null
+    location_in_record: ch18:13213-13515
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: e2f02e4a-8315-4877-b185-003379966b72
+    claim_hash: d17c72fb2c0475a4a84b0d9f96722f4269ef836427e45c90b0976b731eb26662
+    content: W. Betz, professor of family medicine and a member of SKEPP, told the Belgian press "When scientists start spouting
+      nonsense, the public must be warned. Van Lommel belongs to a sect," and associated the research with astral bodies,
+      the paranormal, and graphology.
+    original_excerpt: And from Belgium, W. Betz, professor of family medicine and a member of SKEPP (a group for the critical
+      evaluation of pseudoscience and the paranormal), told the Belgian press that “When scientists start spouting nonsense,
+      the public must be warned. Van Lommel belongs to a sect.” He associated the research with “astral bodies, the paranormal,
+      and graphology.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: named
+      origin: W. Betz
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2191a476-b188-481c-bf57-95fc089afbe3
+        title: van Lommel et al. 2001 Lancet study on near-death experiences
+        slug: van-lommel-et-al-2001-lancet-study-on-near-death-experiences
+      - node_id: 297a7748-8fd4-494a-9253-305c6e06b003
+        title: SKEPP
+        slug: skepp
+      - node_id: 6ee34082-2037-42ee-9cfe-8c01ec50348b
+        title: W. Betz
+        slug: w-betz
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:13523-13872
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 4a2b95bb-96d4-4d83-a37a-29d328ec1754
+    claim_hash: 184a1faca9288a651700db8e33e75a05a707c958795811260768ddf1df41bd4f
+    content: Three additional prospective studies with an identical design to Pim van Lommel's Dutch study documented about
+      the same percentage of near-death experiences during cardiac arrest, bringing the total to four studies involving approximately
+      562 survivors of cardiac arrest.
+    original_excerpt: But three additional prospective studies with an identical design as our Dutch one followed, and these
+      documented about the same percentage of NDEs during cardiac arrest as ours. We now had four studies involving a total
+      of approximately 562 survivors of cardiac arrest.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:13886-14149
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 8be59977-13bc-4642-a7b3-15e62fd2826d
+    claim_hash: 9bcfe55c31e2c4159a04428439bead67a8127ac32dc87ba845826a429b67cd3f
+    content: Pim van Lommel is a Dutch cardiologist.
+    original_excerpt: Pim van Lommel is a Dutch cardiologist who worked at a teaching hospital in Arnhem in the Netherlands
+      for many years
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:141-252
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: cd1001cd-4e41-41ca-9e8b-62b678c890f5
+    claim_hash: 5a5c23a395974670ab63fd8a0e026d195d68fb55d12b3cabac7808853c101dae
+    content: The four prospective near-death experience studies by independent groups all reached the conclusion that there
+      were no physiological or psychological explanations for near-death experiences occurring during cardiac arrest with
+      complete loss of brain function.
+    original_excerpt: 'The four prospective NDE studies by independent groups all reached the same conclusion: there were
+      no physiological or psychological explanations for the NDEs, which took place during cardiac arrest when the patient
+      had complete loss of brain function.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: 3b62adb4-0814-4889-ae74-bb8a60c26541
+        title: Greyson 2003 American prospective Near-Death Experience (NDE) study
+        slug: greyson-2003-american-prospective-near-death-experience-nde-study
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:14598-14841
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: f574c368-4d1d-4b17-8f04-ecebf44e0afa
+    claim_hash: da66b7d9a96516b60d6e4309238e1c834876a8037c97fc4554359aea91d91cb5
+    content: Pim van Lommel considers that enhanced consciousness with memories and perception from a position out of and
+      above the lifeless body can be experienced during a period of unconsciousness, independently of the brain and body.
+    original_excerpt: Enhanced consciousness, with memories and perception from a position out of and above the lifeless body,
+      can be experienced during a period of unconsciousness, independently of the brain and body.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:14851-15042
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 8e868b0f-a335-4338-9e96-d183f83debb0
+    claim_hash: 8ff3dc32df51abdd888ca5823936622ff9769fb22437dd2545757a2ba3887173
+    content: Pim van Lommel's conclusion that near-death experiences occur during clinical death, and not shortly before or
+      after cardiac arrest, was based on compelling evidence enabled by the prospective design of the studies, involving complete
+      medical data.
+    original_excerpt: This conclusion was reached on the basis of compelling evidence that the NDE occurs during the period
+      of clinical death and not shortly before or after the cardiac arrest. It was the studies’ prospective design, involving
+      complete medical data, that enabled this conclusion.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+    date: null
+    date_end: null
+    location_in_record: ch18:15048-15311
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: bf03c13e-891d-4b84-b0b6-ef9a8b47966c
+    claim_hash: bc92e90e01b403676bfca4204c0ed89fd3637a77966f3eab28a6f17782abfe52
+    content: Pim van Lommel's interest in near-death experiences began in 1969 during his first year of hospital cardiology
+      training.
+    original_excerpt: My interest in this began in 1969 during my first year of hospital cardiology training.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: '1969'
+    date_end: null
+    location_in_record: ch18:1544-1622
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 63a430ca-2d1f-4bfc-81bd-6cb971f0dbd7
+    claim_hash: 82d9bd9ad4b1bc927bcb78fa1ca065dfddf3f153a7f34f1c0851026d6295557a
+    content: Pim van Lommel considers the veridical out-of-body experience of Maria in Seattle to provide the strongest evidence
+      for the existence of consciousness outside and separate from the body.
+    original_excerpt: In fact, veridical OBEs, such as that of the well-known case of Maria in Seattle, provide the strongest
+      evidence for the existence of consciousness outside and separate from the body.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
+        title: veridical out-of-body perception
+        slug: veridical-out-of-body-perception
+      - node_id: 7d618f64-556b-469c-b75e-3a7b103bdb81
+        title: Maria
+        slug: maria
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+    date: null
+    date_end: null
+    location_in_record: ch18:15527-15705
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 2c5b4c94-6cd2-43ef-895e-afcb29cfe093
+    claim_hash: 09f37a9f5fb90f4466c998fa54ade4dab37b3f5c8052b3ad124c9c6740c93e9d
+    content: Even people blind from birth have described veridical near-death experiences in which they "see" in a way that
+      was not possible from their bodies.
+    original_excerpt: Even people blind from birth have described veridical NDEs in which they “see” in a way that was not
+      possible from their bodies.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
+        title: veridical out-of-body perception
+        slug: veridical-out-of-body-perception
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+    date: null
+    date_end: null
+    location_in_record: ch18:15877-15998
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 03c22314-5c21-4f79-8e82-c1d716b1844f
+    claim_hash: ccb5014d0a9ff54d03b222a51984606fe7216fb8b9a77d4e4e8315cdaa75d107
+    content: Colour-blind people have perceived colours during near-death experiences.
+    original_excerpt: Color-blind people have perceived colors.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+    date: null
+    date_end: null
+    location_in_record: ch18:16006-16040
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: fa4b6b4c-f29b-4402-868b-6f7cc8c604f0
+    claim_hash: 2f55fcf2ee4ad830f1d7636414eb816623f2213651543ac4042c5723f6e60cdc
+    content: During a near-death experience, the range of vision can extend to 360 degrees with bird's-eye views.
+    original_excerpt: The range of vision can extend to 360 degrees with bird’s-eye views.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: null
+    date_end: null
+    location_in_record: ch18:16183-16245
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: dee0a6a9-3e6d-4cd8-a839-0af59f753ea4
+    claim_hash: 9f995d6c77f37f1c537598cc2e604dd22c00720a974b89896cac9583ed990fd2
+    content: In Janice Holden's report on about 100 out-of-body experiences occurring during a near-death experience, 8 percent
+      contained minor errors and 2 percent were false.
+    original_excerpt: 8 percent contained minor errors, and 2 percent were false.
+    claim_type: measurement
+    attestation: second_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: named
+      origin: Janice Holden
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+      - node_id: 9d39a962-a69b-4343-beea-420a3c444ace
+        title: Janice Holden
+        slug: janice-holden
+      - node_id: cbdee52a-1fed-45cd-8c38-c24812e37eab
+        title: Holden 2009 paper "Veridical Perception in Near-Death Experiences"
+        slug: holden-2009-paper-veridical-perception-in-near-death-experiences
+    date: null
+    date_end: null
+    location_in_record: ch18:16399-16452
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: bb3bd66f-d9f3-4628-95a0-1f718e28e613
+    claim_hash: 15f522fb7b3a2e9f46f98807cca71c0daee3d88dbf35a7394794062e856dfa76
+    content: Pim van Lommel considers that correct perceptions during out-of-body experiences cannot be hallucinations, because
+      they correspond with reality in detail, whereas hallucinations caused by psychosis, delusion, or drugs have no basis
+      in reality.
+    original_excerpt: These reports cannot be hallucinations because these correct perceptions during OBE correspond with
+      reality in detail, while hallucinations, such as those caused by psychosis, delusion, or drugs, have no basis in reality.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
+        title: veridical out-of-body perception
+        slug: veridical-out-of-body-perception
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: null
+    date_end: null
+    location_in_record: ch18:16459-16672
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a3722341-bcaf-4499-9544-56287696e1d7
+    claim_hash: 751877061e5e5f911e13852eaa6f527caa132eeac0af13d9326d80396f3b8c68
+    content: Pim van Lommel considers that one needs a functioning brain to hallucinate, and during cardiac arrest the function
+      of the brain has ceased.
+    original_excerpt: Moreover, one needs a functioning brain to hallucinate, and during cardiac arrest the function of the
+      brain has ceased.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs: []
+    date: null
+    date_end: null
+    location_in_record: ch18:16807-16919
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 0f50b8fc-301a-41fa-8d11-1753adf4163e
+    claim_hash: e2aa0514cf347e6ae068eab29e595d1ef42c21e6af06b30a1a5bf44a99fa2c0a
+    content: During the pilot phase of Pim van Lommel's study, a coronary-care-unit nurse reported a veridical out-of-body
+      experience of a forty-four-year-old resuscitated patient found in a meadow by passersby, which van Lommel published
+      in The Lancet.
+    original_excerpt: During the pilot phase of our study in one of the hospitals, a coronary-care-unit nurse reported a veridical
+      out-of-body experience of a forty-four-year-old resuscitated patient, found in a meadow by passersby, which I published
+      in The Lancet.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: named
+      origin: an unnamed coronary-care-unit nurse
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
+        title: veridical out-of-body perception
+        slug: veridical-out-of-body-perception
+      - node_id: 7d6bde80-2ab3-46e4-a31e-f8ef5b02b1cb
+        title: unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
+        slug: unnamed-coronary-care-unit-patients-veridical-out-of-body-experience-of-dentures-removal
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: ae205f2c-0eff-4111-bae9-72e3322a9fb0
+        title: The Lancet
+        slug: the-lancet
+    date: null
+    date_end: null
+    location_in_record: ch18:16928-17165
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 0b4965d6-1423-46ac-96cb-6231cc0f7229
+    claim_hash: f84b9068f7fd192b7b659feb8d4ade8187279321e2a8418ef4086e5a7fa656ac
+    content: While the meadow patient was cyanotic, comatose, and still in cardiac arrest, the nurse removed his dentures
+      to intubate him, and CPR continued for more than ninety minutes before he was transferred to the intensive care unit,
+      still comatose but with heart rhythm restored.
+    original_excerpt: While the patient was cyanotic and comatose, and still in cardiac arrest, the nurse removed his dentures
+      in order to intubate him, and the CPR continued for more than ninety minutes. Still comatose but with heart rhythm,
+      he was eventually transferred to the intensive care unit.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: named
+      origin: an unnamed coronary-care-unit nurse
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d6bde80-2ab3-46e4-a31e-f8ef5b02b1cb
+        title: unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
+        slug: unnamed-coronary-care-unit-patients-veridical-out-of-body-experience-of-dentures-removal
+    date: null
+    date_end: null
+    location_in_record: ch18:17174-17447
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: eca36d19-4a72-4827-9e56-5d3c91350eed
+    claim_hash: bba04c4208d285e5a71801c84d76df1eff8a4fd21f5dc6dc72d6340963b17cf8
+    content: A coronary-care-unit nurse reported that, after more than a week in coma, the meadow patient recognised her and
+      correctly recalled that she had removed his dentures and placed them on a cart with bottles and a sliding drawer during
+      his admission to hospital.
+    original_excerpt: 'Only after more than a week in coma do I meet again with the patient... The moment he sees me he says:
+      “Oh, that nurse knows where my dentures are.”... “Yes, you were there when I was brought into hospital and you took
+      my dentures out of my mouth and put them onto that cart, it had all these bottles on it and there was this sliding drawer
+      underneath and there you put my teeth.”'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: named
+      origin: an unnamed coronary-care-unit nurse
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d6bde80-2ab3-46e4-a31e-f8ef5b02b1cb
+        title: unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
+        slug: unnamed-coronary-care-unit-patients-veridical-out-of-body-experience-of-dentures-removal
+    date: null
+    date_end: null
+    location_in_record: ch18:17474-17945
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 1578d130-b280-4953-9464-7afdd8602607
+    claim_hash: c8744930414580aa75196dce2d377a86ab258d0e4c816cf8f3739f73d7d4bb80
+    content: Pim van Lommel worked at a teaching hospital in Arnhem, Netherlands for many years.
+    original_excerpt: who worked at a teaching hospital in Arnhem in the Netherlands for many years
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 74cf1eab-233d-422a-b745-73d252fbf249
+        title: Netherlands, Arnhem
+        slug: arnhem-netherlands
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:180-252
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 8ddbca5f-7c0c-4966-82f9-3ebe743cdd1d
+    claim_hash: 31e63a97c34825cd851c80f7ee9c039c28991b147a5f5579285f26ba8c494a4d
+    content: The meadow patient had seen himself lying in bed from above, perceived nurses and doctors performing CPR, and
+      correctly described in detail the small room in which he had been resuscitated and the appearance of those present.
+    original_excerpt: When I asked further, it appeared the man had seen himself lying in bed, that he had perceived from
+      above how nurses and doctors had been busy with CPR. He was also able to describe correctly and in detail the small
+      room in which he had been resuscitated as well as the appearance of those present like myself.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: named
+      origin: an unnamed coronary-care-unit nurse
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
+        title: veridical out-of-body perception
+        slug: veridical-out-of-body-perception
+      - node_id: 7d6bde80-2ab3-46e4-a31e-f8ef5b02b1cb
+        title: unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
+        slug: unnamed-coronary-care-unit-patients-veridical-out-of-body-experience-of-dentures-removal
+    date: null
+    date_end: null
+    location_in_record: ch18:18078-18381
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 4087ec98-575b-4823-b2cb-35f45354707c
+    claim_hash: 5688c5860f41d4adcd71c3f0b02f16a11cc2fced0211ba883bc6968fc1b10d2b
+    content: The meadow patient reported that he had desperately and unsuccessfully tried to make it clear to the medical
+      staff that he was still alive and that they should continue CPR.
+    original_excerpt: The patient tells me that he desperately and unsuccessfully tried to make it clear to us that he was
+      still alive and that we should continue CPR.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: named
+      origin: an unnamed coronary-care-unit nurse
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d6bde80-2ab3-46e4-a31e-f8ef5b02b1cb
+        title: unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
+        slug: unnamed-coronary-care-unit-patients-veridical-out-of-body-experience-of-dentures-removal
+    date: null
+    date_end: null
+    location_in_record: ch18:18637-18778
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 8cefc840-2565-4b58-ad1b-58a132122dc5
+    claim_hash: 5529eee3007dc5e88e5786425ec4cd3ed61a3bffb5067592169c27d35895f674
+    content: The meadow patient left hospital as a healthy man four weeks after his cardiac arrest.
+    original_excerpt: Four weeks later he left hospital as a healthy man.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: named
+      origin: an unnamed coronary-care-unit nurse
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d6bde80-2ab3-46e4-a31e-f8ef5b02b1cb
+        title: unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
+        slug: unnamed-coronary-care-unit-patients-veridical-out-of-body-experience-of-dentures-removal
+    date: null
+    date_end: null
+    location_in_record: ch18:18868-18915
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 66ad161c-9c7f-4c97-88a2-5658bc5b8fb3
+    claim_hash: cb45451f77d6cf4b1ba9b88f49ce7a68ea756c3cad0465c1f215d20151c4f224
+    content: Pim van Lommel considers that, based on cases of corroborated out-of-body experiences, there are good reasons
+      to assume that consciousness does not always coincide with the functioning of the brain.
+    original_excerpt: Based on these cases of corroborated OBEs, I think that there are good reasons to assume that our consciousness
+      does not always coincide with the functioning of our brain.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:18921-19086
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b037b7c6-fbb0-4156-be86-f26262883f06
+    claim_hash: 3df45d9d4d156b70e3cdd507621dc1fc84712e5527e8ee42f81cfa79b7d30a08
+    content: Pim van Lommel considers that consciousness, not the eye or the brain, is what perceives.
+    original_excerpt: Who or what is seeing? Not the eye and not the brain... It is our consciousness that perceives.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:19093-19140
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: ef845120-53dc-4e85-8a61-8bcf377d0c31
+    claim_hash: 10e527210de4318f3d9aa64d714dc7167de26723988e840a67dee913110983c1
+    content: Pim van Lommel considers that the current view of the relationship between the brain and consciousness held by
+      most physicians, philosophers, and psychologists is too restricted for a proper understanding of the near-death experience
+      phenomenon.
+    original_excerpt: The current view of the relationship between the brain and consciousness held by most physicians, philosophers,
+      and psychologists is too restricted for a proper understanding of this phenomenon.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
+        title: materialist paradigm of consciousness
+        slug: materialist-paradigm-of-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:19529-19712
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 54410b5e-2fb5-4836-832a-94d324ca3be7
+    claim_hash: 7e4d14150e74bb565574dae1eee7ea1986464c5bf22321d079c3d36c0498cbe9
+    content: Pim van Lommel concludes that the brain most likely has a facilitating or receiving, and not a producing, function
+      in the experience of consciousness.
+    original_excerpt: I have come to the inevitable conclusion that most likely the brain has a facilitating or receiving
+      and not a producing function in the experience of consciousness.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
+        title: materialist paradigm of consciousness
+        slug: materialist-paradigm-of-consciousness
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:19724-19874
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: d68f63c6-d73a-4c6a-ac76-f463eb7c9388
+    claim_hash: ee839af3a7d101f40895dda741f7019aaeb578ff00d946a9c9cb36eb55f88168
+    content: Pim van Lommel considers his conclusions about near-death experiences (NDEs) not always in conformity with the
+      currently widely accepted materialist paradigm of consciousness in Western science.
+    original_excerpt: My conclusions are not always in conformity with the currently widely accepted materialistic paradigm
+      of Western science.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
+        title: materialist paradigm of consciousness
+        slug: materialist-paradigm-of-consciousness
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:20013-20126
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: aa123a42-8115-4bb7-ba21-e575ed474a62
+    claim_hash: 79df9cb83c547cd24613cde7d1b1a789283bf3d802c962afab15af30deac1f27
+    content: Pim van Lommel considers that scientific research on near-death experiences (NDEs) still gives rise to many unbelieving
+      and critical questions, especially from physicians and neuroscientists.
+    original_excerpt: This is why scientific research on NDEs still gives rise to many unbelieving and critical questions,
+      especially by physicians and neuroscientists.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:20135-20265
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 577d5eec-2bbc-4e5e-b0b0-6e56e9e65590
+    claim_hash: af390bdcee1d35226e34af2b3a23fe02dd019ce92cf7deab8f13e7d599b28db8
+    content: Electroencephalography (EEG), magnetoencephalography (MEG), and positron emission tomography (PET) scans measure
+      electrical, magnetic, and chemical activity in the brain.
+    original_excerpt: We can measure only the electrical, magnetic, chemical activities in the brain by EEG-, MEG-, and PET-scan
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:20608-20710
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b0aa7458-65f9-4030-b5dc-671f11f21972
+    claim_hash: 4e7d0deda287a6eb96ec77ce45435025a64822fe7d1974299b437e72dbaf6066
+    content: Functional magnetic resonance imaging (fMRI) measures changes in blood flow in the brain.
+    original_excerpt: we can measure changes in blood flow in the brain by fMRI
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:20720-20773
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: d67d11f0-d8b5-44fc-b68f-e9b0189d835f
+    claim_hash: 16ae2fefa6de27c5a27af5830ac9ef399fdf9f155b52b82912780f04928c0d7c
+    content: Pim van Lommel considers that brain measurements such as EEG, MEG, PET, and fMRI show only neural correlates
+      of consciousness, not an explanation of how consciousness is produced.
+    original_excerpt: but these are only neural correlates of consciousness. These measurements do not explain anything about
+      the production nor about the content of consciousness.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
+        title: materialist paradigm of consciousness
+        slug: materialist-paradigm-of-consciousness
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:20779-20923
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b466bd4c-d1be-447f-8493-b26c0df5ccd2
+    claim_hash: 6148c058d3b8efd73bad2a95845ca0a5f4f0ef6eebd184dd7818899a3dc8ad54
+    content: Pim van Lommel considers that the widely accepted assumption that consciousness and memories are produced by,
+      and localised in, large groups of neurons in the brain should be reconsidered.
+    original_excerpt: The widely accepted assumption that consciousness and memories are produced by large groups of neurons
+      and are localized in the brain should now be reconsidered
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
+        title: materialist paradigm of consciousness
+        slug: materialist-paradigm-of-consciousness
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:21213-21361
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 76bfe2ba-b60f-4f2f-a710-85107a06ea37
+    claim_hash: ade0e6e9b3804158925cb0583e7ae03a8b6b995014875502a15b3445c8137dc3
+    content: In 2005, the journal Science published a list of 125 questions that scientists had so far failed to answer.
+    original_excerpt: In 2005, the journal *Science* published 125 questions that scientists have so far failed to answer.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: document
+      origin: Science (journal), 2005
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0355fa70-a4ea-4e6c-b0f6-ed9d5f8a2d52
+        title: Science (journal)
+        slug: science-journal
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: '2005'
+    date_end: null
+    location_in_record: ch18:22281-22374
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 83e1623a-1a8f-488b-a503-f960307c817a
+    claim_hash: c42ecaab6df01f04e433629f6c17c5060c2bad7e272be2fed2a894eff4d49f64
+    content: The most important unanswered question in Science's 2005 list of 125 unanswered questions was "What is the universe
+      made of?"
+    original_excerpt: The most important unanswered question was “What is the universe made of?”
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: document
+      origin: Science (journal), 2005
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0355fa70-a4ea-4e6c-b0f6-ed9d5f8a2d52
+        title: Science (journal)
+        slug: science-journal
+    date: '2005'
+    date_end: null
+    location_in_record: ch18:22382-22452
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: bb18861f-902a-4b86-9a68-a26b0d8f9143
+    claim_hash: 16bc2f4cc903de895829e1eefaaaa6db721754637bdd09d7d83341109e4838e0
+    content: The second most important unanswered question in Science's 2005 list of 125 unanswered questions was "What is
+      the biological basis of consciousness?"
+    original_excerpt: That was followed by “What is the biological basis of consciousness?”
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: document
+      origin: Science (journal), 2005
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0355fa70-a4ea-4e6c-b0f6-ed9d5f8a2d52
+        title: Science (journal)
+        slug: science-journal
+    date: '2005'
+    date_end: null
+    location_in_record: ch18:22457-22511
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 1f5f75ff-cbc0-48bc-bf29-fadcd2866d97
+    claim_hash: 29df93d7f180ab31dee92265a76242b704a52e13c965ee389d5772f5ca326696
+    content: Pim van Lommel proposes reformulating the question "What is the biological basis of consciousness?" as "Does
+      consciousness have a biological basis at all?"
+    original_excerpt: 'But I would like to reformulate this second question as follows: “Does consciousness have a biological
+      basis at all?”'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:22527-22639
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: dd291437-29c2-4fd5-ba13-ec8404f464d6
+    claim_hash: 61d17ade05ff89b094daf8f540d0a16da862cc7acf471f2e5a0516a9496f7d72
+    content: Pim van Lommel proposes that, based on universally reported aspects of consciousness experienced during cardiac
+      arrest, the informational fields of consciousness likely consist of waves rooted in an invisible realm beyond time and
+      space (nonlocality) that are always present around and through the body.
+    original_excerpt: Based on the universal reported aspects of consciousness experienced during cardiac arrest, we can surmise
+      that the informational fields of our consciousness, likely consisting of waves, are rooted in an invisible realm beyond
+      time and space (nonlocality), and are always present around and through us, permeating our body.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d46574b-05d7-4112-b31f-339f93b3d360
+        title: quantum nonlocality
+        slug: quantum-nonlocality
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:22646-22964
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 1d5da064-fcfb-4168-976c-3092fa214f15
+    claim_hash: 6054882e04a5a48131f6da4df2dfa49e86839e09fbd66786330ac1a86dfbb7f3
+    content: Pim van Lommel proposes that normal waking consciousness has a biological basis because the body acts as an interface
+      for a larger, nonlocal field of consciousness.
+    original_excerpt: Our normal, waking consciousness has a biological basis, because our body is an interface for it. But
+      it is one small part of our larger field of consciousness.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:23123-23269
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 64104c81-54de-4cc5-8a90-2f6940ed3413
+    claim_hash: e2a626148a71b1998c865ef49aa01de9c91662449f56ec2e9a2d0844f40ef329
+    content: Pim van Lommel considers that, in his concept, consciousness is not physically rooted, and continues to exist
+      even after brain function has been lost, though the ability to receive it into waking awareness is lost.
+    original_excerpt: as soon as the function of the brain has been lost, like turning off the TV, memories and consciousness
+      do still exist, but the reception ability is lost; the connection, or interface, is interrupted. Yet consciousness can
+      be experienced during such a period of a nonfunctioning brain, and this is what we call an NDE. So in my concept, consciousness
+      is not physically rooted.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:23560-23929
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 0450ead7-1e99-414a-985a-034fee89e3d5
+    claim_hash: 717c844444206055fe5f0f4418cfecdcc56262ee625860fcb5232202c40cccb7
+    content: Pim van Lommel refers to consciousness that exists beyond time and space, with no material or biological basis,
+      as "nonlocal consciousness".
+    original_excerpt: I refer to this consciousness beyond time and space, which has no material or biological basis, as “nonlocal
+      consciousness.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:23938-24047
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: ab3deb30-2688-4f09-a823-348d307318af
+    claim_hash: 6ef9c3bf85579ec2ae69771cf7dafa318d4ab5c2f5def86ea3cb55beb7e0507b
+    content: Pim van Lommel proposes that nonlocal consciousness features an interconnectedness that offers the chance of
+      communication with the thoughts and feelings of others, including deceased friends and relatives.
+    original_excerpt: It features an interconnectedness that offers the chance of communication with the thoughts and feelings
+      of others, and with those of deceased friends and relatives.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+      - node_id: ec527113-0912-4b33-81d6-d58f7df79dc1
+        title: After-death communication (ADC)
+        slug: after-death-communication-adc
+    date: null
+    date_end: null
+    location_in_record: ch18:24063-24218
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: ca0abaa2-c3dc-4187-a5c2-8244c356585e
+    claim_hash: d715698017c05795abc9f9af189397700136474591b01c1590f4e8f56354adab
+    content: It was not until 1967 that techniques for resuscitation became available, and before that year all patients with
+      cardiac arrest had died.
+    original_excerpt: It was not until 1967 that techniques for resuscitation were available, and before that year all patients
+      with cardiac arrest had died.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs: []
+    date: '1967'
+    date_end: null
+    location_in_record: ch18:2448-2578
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 7339dbc8-965d-4d50-a5d0-a63378ee4650
+    claim_hash: a4f02bc4121185f5069448560ac244cd246ca8d739021872f2b6eb2aaf0b0dbc
+    content: Pim van Lommel considers that aspects of quantum mechanics, such as nonlocality, help explain how consciousness
+      functions.
+    original_excerpt: Aspects of quantum mechanics like nonlocality help us to understand how consciousness actually functions.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d46574b-05d7-4112-b31f-339f93b3d360
+        title: quantum nonlocality
+        slug: quantum-nonlocality
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:25538-25633
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 64f51652-3cd9-4963-a590-fafce5b94877
+    claim_hash: af2d8e03b49b27d475f926cc8210d24095b49f55ee1039482cdf5cbeed66a3cd
+    content: Pim van Lommel considers that the near-death experience (NDE) can be explained in all its elements as an experience
+      of nonlocal consciousness.
+    original_excerpt: such as the NDE, which can be explained in all its elements as an experience of nonlocal consciousness.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:25727-25816
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: fcbb01ff-012c-4a6f-a5bd-8deb17fef059
+    claim_hash: 3332415b97ebd8cdf1a371df37f5d2203c3cc68c5a89a62dcbf2fd65e77962f1
+    content: Pim van Lommel considers that the conclusion that consciousness can be experienced independently of brain function
+      should induce a large change in the scientific paradigm of Western medicine.
+    original_excerpt: The inevitable conclusion that consciousness can be experienced independently of brain function, and
+      what that implies, should induce a huge change in the scientific paradigm in Western medicine.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
+        title: materialist paradigm of consciousness
+        slug: materialist-paradigm-of-consciousness
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:25832-26018
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 7170013b-7f67-49e8-9146-f5325cbe86de
+    claim_hash: 9b06cf0d618969c6fcbedaf59644221d20ffdc0861c8c7331887c99e89dfe957
+    content: Pim van Lommel considers that a changed understanding of consciousness could have practical implications for
+      medical and ethical issues including the care of comatose or dying patients, euthanasia, abortion, and organ removal
+      for transplantation from a person in the dying process with a beating heart in a warm body but diagnosed with brain
+      death.
+    original_excerpt: It could have practical implications in actual medical and ethical problems such as the care of comatose
+      or dying patients, euthanasia, abortion, and the removal of organs for transplantation from somebody in the dying process
+      with a beating heart in a warm body but with a diagnosis of brain death.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:26028-26321
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 91c4015f-cb42-420a-8e05-3e7253ca9bca
+    claim_hash: d99110e128df9ba4a0b5d94578e6f8d24777a9c80b24aa5c666303303d40d944
+    content: Pim van Lommel published several professional papers on cardiology.
+    original_excerpt: published several professional papers on cardiology
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:262-303
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 8f39930c-239f-4149-afe6-91ab84bff15e
+    claim_hash: 7d35be8339b609a516799ed3708d27a9d288c44cf52883ffe18f0728753b8766
+    content: Pim van Lommel believes that at the time of physical death, consciousness continues to be experienced in another
+      dimension, in an invisible and immaterial world containing all past, present, and future.
+    original_excerpt: because of the almost unavoidable conclusion that at the time of physical death consciousness will continue
+      to be experienced in another dimension, in an invisible and immaterial world, in which all past, present, and future
+      is enclosed.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:26401-26629
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 62a4acd9-da74-44d7-ab4b-d7f3146416ec
+    claim_hash: 379bb646245356b5f042a0fb4786a16f9075af408cddeb9607f825d298db7aaf
+    content: The resuscitated patient at Pim van Lommel's coronary care unit in 1969 was disappointed to have revived and
+      described going through a tunnel, seeing a light and beautiful colours, and hearing music.
+    original_excerpt: But to our surprise, the patient seemed to be very, very disappointed. With great emotion, he told us
+      about going through a tunnel, seeing a light and beautiful colors, and hearing music.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: '1969'
+    date_end: null
+    location_in_record: ch18:2666-2847
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: d325e06a-3b00-42f5-acf6-ece4ad5ede1d
+    claim_hash: a0d891f330d7d5284192caf261e93e7354ecb30dbf3845bb515ff04a46e25843
+    content: Pim van Lommel believes that death, like birth, is merely a passing from one state of consciousness into another.
+    original_excerpt: I have come to believe that presumably death, like birth, is a mere passing from one state of consciousness
+      into another.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:26768-26881
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 0268272f-52ce-4372-8c75-34c13973bff1
+    claim_hash: 713b6b13a178db00cd65eb0a5502706cc9368d7c7eea7c262b76a36529dd5be7
+    content: Pim van Lommel believes that death is only the end of the physical body, and that people have a body but are
+      consciousness.
+    original_excerpt: 'Death is only the end of our physical body. In other words: we have a body, but we are consciousness.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:26985-27072
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 2db4dc75-df9a-40c3-ab2c-139a7370259f
+    claim_hash: dfe31c11146eb2a0a79384e1e582adf49b041690ee032c0fb3dbe804559f2e49
+    content: Pim van Lommel believes that essential consciousness existed before birth and will exist after death, with no
+      beginning and no end.
+    original_excerpt: It is hard to avoid the conclusion that our essential consciousness existed before our birth and will
+      exist after we die. It has no beginning and no end.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:27087-27236
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 7fa4d7ce-3e79-441c-8613-3ba0f3c45fe3
+    claim_hash: 1583c632cb59c7fc083ce69b092f8fca5d262801c2094767321840da8730a7b2
+    content: Pim van Lommel considers that materialist Western scientific worldview has not yet responsibly addressed the
+      challenge posed by research suggestive of the survival of consciousness beyond physical death.
+    original_excerpt: This materialistic worldview has so far not responsibly addressed the challenge provided by research
+      suggestive of the survival of consciousness beyond physical death.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+        title: survival hypothesis
+        slug: survival-hypothesis
+      - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
+        title: materialist paradigm of consciousness
+        slug: materialist-paradigm-of-consciousness
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:28090-28251
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 5cb77135-5eea-4493-afa0-1763cf4f7353
+    claim_hash: 6db071e6f8e480ee6f3337a1a9806d7144d4a1800f1752afca81a5db9ace8c81
+    content: In 1986, Pim van Lommel began studying near-death experiences (NDEs) in patients who survived a cardiac arrest.
+    original_excerpt: In 1986, he began studying near-death experiences in patients who survived a cardiac arrest.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: '1986'
+    date_end: null
+    location_in_record: ch18:315-400
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: e707f1f0-ddc7-4c3f-91b1-f0211f8826da
+    claim_hash: 3e8be6b77f4301c1493d39106ff877a6f3acbdac3fe8c646b5db0d07f1b24559
+    content: Pim van Lommel began interviewing his patients who had survived a cardiac arrest to learn more about near-death
+      experiences, out of scientific curiosity.
+    original_excerpt: I wanted to find out more, so I started to interview my patients who had survived a cardiac arrest.
+      It all started for me by scientific curiosity.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:4635-4771
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: db49b5ab-53c7-4375-b689-c08200ff480e
+    claim_hash: fe1a29056b477a65a44a84cd8151c2b6a50e5a2d5589e001995d3dbaebaf5e54
+    content: Within two years of Pim van Lommel starting to interview cardiac arrest survivors, twelve out of fifty survivors
+      told him about their near-death experiences.
+    original_excerpt: within two years, twelve patients out of fifty survivors told me about their near-death experiences,
+      and I learned much more about them.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:4808-4939
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 493205cb-b6b1-4c61-9cad-fe8bb0ad28a5
+    claim_hash: 61102075c560b8672459113f448ee2a7a899983ca910358e08d52eda6560cac7
+    content: Pim van Lommel considers that most people who experience a near-death experience do not want to return because
+      of the joy and beauty inherent in the experience.
+    original_excerpt: Like the first NDE patient I knew in 1969, most do not want to return because of the joy and beauty
+      inherent in the experience.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:5208-5324
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 88f578e7-04b1-4836-b8ed-7c42b376abba
+    claim_hash: 19afd7cf5778f87558bf35fbb196cd5bbb4a88d5abd8f281c4edf932b258b4c2
+    content: Pim van Lommel defines a near-death experience as the reported memory of a range of impressions during a special
+      state of consciousness, including being out of the body, going through a tunnel, seeing a bright light, meeting deceased
+      relatives, having a life review, and making a conscious return into the body.
+    original_excerpt: I define it as the reported memory of a range of impressions during a special state of consciousness,
+      including a number of universal elements, such as being out of the body, going through a tunnel, seeing a bright light,
+      meeting deceased relatives, having a life review, and making a conscious return into the body.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:5662-5973
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: e69e29be-2548-4bc5-bd7e-5d68ba0b42be
+    claim_hash: d75393c86b354acba39747d127706860a4b214a3805ac5e165ce4f1db688af0f
+    content: Near-death experiences occur mostly during a critical medical situation like cardiac arrest or other life-threatening
+      situations, but can also occur in nonthreatening situations, sometimes without any obvious reason.
+    original_excerpt: These occur mostly during a critical medical situation like cardiac arrest or in other life-threatening
+      situations, but they can also occur in nonthreatening situations, sometimes even without any obvious reason, where the
+      brain is functional and the person is not near death.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+    date: null
+    date_end: null
+    location_in_record: ch18:5979-6249
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: aab54939-eba5-4791-8e22-69bdc127d1e5
+    claim_hash: 375a6261273413e6787f439284fbb60d8d438ed925ff5499c22a0b5eeaadc51f
+    content: Pim van Lommel considers that near-death experiences occurring during cardiac arrest or deep coma are the most
+      interesting to science.
+    original_excerpt: The cases occurring during cardiac arrest or deep coma are the most interesting to science.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+    date: null
+    date_end: null
+    location_in_record: ch18:6256-6339
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 9ffc99f1-833b-42d9-ae4b-0fc59078f4a0
+    claim_hash: 91085302e5e96f00ab6f418d1d487de55cdb26e3770b93d806c892fc4c2d0b5a
+    content: The near-death experience is almost always transformational, causing enhanced intuitive sensitivity, profound
+      insights and reevaluations of life, and a loss of fear of death.
+    original_excerpt: The NDE is almost always transformational, causing enhanced intuitive sensitivity, profound insights
+      and reevaluations of life, and a loss of a fear of death.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+    date: null
+    date_end: null
+    location_in_record: ch18:6349-6501
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 667fb6fa-8f9a-41cc-82fd-05a08cb3f709
+    claim_hash: 34f25f3724467c14650a9088bea056cde83ca937c569bc8515b856bfaf259484
+    content: The content of the near-death experience and its effects on patients appear similar worldwide, across all cultures
+      and all times.
+    original_excerpt: The content of the NDE and its effects on patients seem similar worldwide, across all cultures and all
+      times.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+    date: null
+    date_end: null
+    location_in_record: ch18:6653-6756
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 449573c0-fed3-4336-b60d-bbfabe880423
+    claim_hash: 055f20c09d20bbfd92998afc60c0949ee32f2f58b8c71fe470a4fd1bc4bc69f5
+    content: Individual cultural and religious factors determine the vocabulary and interpretation of the near-death experience,
+      because of the subjective nature and absence of a frame of reference for the experience.
+    original_excerpt: the subjective nature and the absence of a frame of reference for this near-ineffable experience has
+      meant that individual cultural and religious factors determine the vocabulary and interpretation of the experience.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+    date: null
+    date_end: null
+    location_in_record: ch18:6772-6977
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 264aa359-4476-4d46-8e3b-6ee9f4e7a780
+    claim_hash: 4d981e4ae843503ba6658779e655e0b921f3359d0d9f8676b2c1ad8a7b26af9d
+    content: Pim van Lommel found that no prior theory explained the near-death experience of enhanced consciousness with
+      lucid thoughts, emotions, memories from earliest childhood, visions of the future, and perception from a position outside
+      and above the body.
+    original_excerpt: But none explained the experience of an enhanced consciousness, with lucid thoughts, emotions, memories
+      from earliest childhood, visions of the future, and the possibility of perception from a position outside and above
+      the body.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+    date: null
+    date_end: null
+    location_in_record: ch18:7092-7316
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 32ceed1d-f7b6-4abc-852f-2098b0003531
+    claim_hash: e81dba90da1d55090a19f9e52f5454252148aa89489ac38492bc7f65b6bb3cfb
+    content: There appeared to be an inverse relationship between the clarity of consciousness and the loss of brain function
+      during near-death experiences.
+    original_excerpt: In fact, there appeared to be an inverse relationship between the clarity of consciousness and the loss
+      of brain function.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+    date: null
+    date_end: null
+    location_in_record: ch18:7676-7789
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b934b99e-5333-4185-a9f1-eeb331077f8a
+    claim_hash: c36c25a6ac2eaf41299cfdd7b5c12b35eaa98d06612be19e20d7d7b089ee663e
+    content: Pim van Lommel is recognised as a world authority on near-death experiences and has lectured on the topic all
+      over the world.
+    original_excerpt: he is now recognized as a world authority on near-death experiences. He has lectured on this topic all
+      over the world.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:771-883
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 6433952d-7e4b-49d1-9d81-e1ee8c5cff52
+    claim_hash: dece86e88cc02540181b2caefe80e891ca13928a51cc73fa0873db3532fc9305
+    content: Most existing theories about near-death experiences were based on anecdotal evidence and retrospective studies
+      with self-selected patients and did not include accurate medical data.
+    original_excerpt: Most theories were based on anecdotal evidence and retrospective studies with self-selected patients
+      and did not include accurate medical data.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+    date: null
+    date_end: null
+    location_in_record: ch18:7944-8082
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 9478c35a-d1e0-43a2-9f97-4eb174e12149
+    claim_hash: 59976ba8f0ebd30cb809b14a6846d0e70ded86d29ef7470499f275789b1fe6e9
+    content: In 1988, Pim van Lommel joined with two psychologists in the Netherlands to launch a prospective study of the
+      frequency, cause, and content of near-death experiences.
+    original_excerpt: In order to find more definitive answers, I joined with two psychologists in the Netherlands and in
+      1988 we launched a comprehensive and scientifically sound prospective study of the frequency, cause, and content of
+      near-death experiences.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: '1988'
+    date_end: null
+    location_in_record: ch18:8088-8315
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 65bf2455-d3bc-4f7c-a70b-ef96a089ead6
+    claim_hash: c31348a94e11bd91d0ea097eff40899295f7f1f5224111f39da39bd12071268d
+    content: Before Pim van Lommel's 1988 study, no large-scale prospective near-death experience studies had been undertaken
+      anywhere in the world.
+    original_excerpt: At that point, no large-scale prospective NDE studies had been undertaken anywhere in the world.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:8482-8572
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: d91ec0a4-3aca-425f-a197-b65d8a99be0b
+    claim_hash: ff12a4e73a4cda1de18ae62dec85529371945285d5d0cda59337b067b6e82c13
+    content: Pim van Lommel's Dutch prospective study involved 344 consecutive cardiac arrest survivors in ten Dutch hospitals.
+    original_excerpt: The study involved 344 consecutive cardiac arrest survivors in ten Dutch hospitals.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+      - node_id: cd0ff0fe-9941-417a-b0c8-7ce505297c80
+        title: Netherlands
+        slug: netherlands
+    date: null
+    date_end: null
+    location_in_record: ch18:8580-8653
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: c84835fd-0741-4151-a5b9-565ccaad737f
+    claim_hash: fe9dacd7f3f459cfd7a3b7ab6e173893f0c6c3304a7c57602eef71df947103ec
+    content: In the Dutch prospective study, patients were asked within a few days of resuscitation whether they had any memories
+      from the period of their cardiac arrest.
+    original_excerpt: Within a few days of their resuscitation, the patients were asked whether they had any memories from
+      the period of their cardiac arrest, during their time of unconsciousness.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:8664-8822
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: e0647d5f-2466-43c3-8afa-8f869cd4a065
+    claim_hash: 9541f789c823116510d34646f9b2068633b1e18caff3c6ae1b17d54ba034da9e
+    content: Clinical death is defined as a period of unconsciousness caused by anoxia (a lack of oxygen to the brain) due
+      to the arrest of circulation and breathing, in which the person has no palpable pulse or measurable blood pressure,
+      no body reflexes, and no brain stem reflexes.
+    original_excerpt: This is defined as a period of unconsciousness caused by anoxia (a lack of oxygen to the brain) due
+      to the arrest of circulation and breathing. The person has no palpable pulse or measurable blood pressure, no body reflexes,
+      and no brain stem reflexes.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs: []
+    date: null
+    date_end: null
+    location_in_record: ch18:9382-9625
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 4aaa0bfb-31cd-4b98-a8b4-3fbd1b1e4642
+    claim_hash: 3c37114930e14c194ca2ead6ad22a232128dd197385a8196b0ac0f9b8dace07c
+    content: If cardiopulmonary resuscitation (CPR) is not started within five to ten minutes of cardiac arrest, irreversible
+      brain damage occurs and the patient will die.
+    original_excerpt: If CPR is not started within five to ten minutes, irreversible damage of the brain occurs and the patient
+      will die.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs: []
+    date: null
+    date_end: null
+    location_in_record: ch18:9635-9746
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 17bd84a1-f42f-485a-af00-d9ddc50a13cb
+    claim_hash: 796e1cf5e80662f9e4d954132d3b811db41f09813a60ed723333b0dc2539fc18
+    content: In Pim van Lommel's Dutch prospective study, 282 patients, or 82 percent, had no recollections from their period
+      of unconsciousness during cardiac arrest.
+    original_excerpt: Our results showed 282 patients, or 82 percent, had no recollections at all from their time of unconsciousness
+      while in cardiac arrest.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:9801-9929
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a6300c32-0066-4f6b-8f21-875e0ea969fd
+    claim_hash: 0ece23e4cabca0e09be7f37c3e401d4b017029385d5007c73cffaa6cf0c9f772
+    content: In Pim van Lommel's Dutch prospective study, 62 patients, or 18 percent, had some recollection of a near-death
+      experience.
+    original_excerpt: However 62 patients, or 18 percent, had some recollection of an NDE.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
+        title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
+        slug: pim-van-lommels-1988-2001-dutch-prospective-near-death-experience-nde-study
+    date: null
+    date_end: null
+    location_in_record: ch18:9937-10001
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 940b6602-e0ca-48e8-b08e-396a634228f5
+    claim_hash: 600bcbb06d3e2b5fd226555858f3aeeea0277f90fb0be8940c7b4938ef92e841
+    content: 'End-of-life experiences contain many of the elements described by Pim van Lommel and others in the Western near-death
+      experience (NDE): a beautiful place where the dying meet dead relatives and spiritual beings who help them, a bright
+      light, and wide transcendent feelings.'
+    original_excerpt: These ELEs contain many of the elements described by Pim van Lommel and others in the Western NDE—a
+      beautiful place where they meet dead relatives and spiritual beings to help them, a bright light, and wide transcendent
+      feelings.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 14da1dc7-1325-4a1b-aa81-15e85474c49c
+        title: end-of-life experiences
+        slug: end-of-life-experiences
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch20:13377-13597
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a1e0ad83-3360-4212-b248-a8e4d1cd3173
+    claim_hash: cb3d84f6d335e59f9f0e1bec4896cead378a3d632029d05c4614609542385bcf
+    content: Peter Fenwick considers that all end-of-life experiences bearing a relationship to the near-death experience
+      (NDE) or the survival of consciousness after death suggest that consciousness is nonlocal, as Pim van Lommel describes
+      it, more a field structure than something created by the brain.
+    original_excerpt: All of them suggest that consciousness is nonlocal, as Pim van Lommel describes—more a field structure
+      than something created by the brain.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0994420f-7645-4f8c-b2ea-7d18f2e0146d
+      title: Peter Fenwick
+    provenance_chain:
+      origin_kind: speaker
+      origin: Peter Fenwick
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0994420f-7645-4f8c-b2ea-7d18f2e0146d
+        title: Peter Fenwick
+        slug: peter-fenwick
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch20:6424-6557
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a8dad1e7-69cb-455c-8cef-571476158407
+    claim_hash: c1b6be4e2cbe5635814cd341cb9168edfe010398df0f3ce8d96a721cc18a928a
+    content: Pim van Lommel described nonlocal consciousness as featuring an interconnectedness that offers the chance of
+      communication with the thoughts and feelings of others and of deceased friends and relatives, with roots in another
+      invisible, immaterial realm that is always in us and around us.
+    original_excerpt: Van Lommel described nonlocal consciousness as featuring “an interconnectedness that offers the chance
+      of communication with the thoughts and feelings of others, and with those of deceased friends and relatives. Its roots
+      lie in another invisible, immaterial realm that is always in us and around us.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch23:1407-1704
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 7c7a65a8-aece-4251-b844-c4a04829dffc
+    claim_hash: 48fce06adaec079dd1d9c28cd35ab3c03de9513efde8695acfb6ee6fe93d852d
+    content: Pim van Lommel and others proposed the theory of nonlocal consciousness, which postulates that deeper consciousness
+      is not generated by the brain.
+    original_excerpt: Pim van Lommel and others have provided what may be the first step in that direction with the theory
+      of nonlocal consciousness, postulating that our deeper consciousness is not generated by the brain.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch23:681-875
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: fdc86d81-6f40-4e20-8e6f-61cd34b3729e
+    claim_hash: acca086d4ad76acf07745883f3c57bb2470044a3055fbf30221632d841cf52b6
+    content: Leslie Kean considers that if consciousness can function independently of the brain, as described by Pim van
+      Lommel and Peter Fenwick, the survival hypothesis becomes a simpler and preferable explanation for cases suggestive
+      of survival after death.
+    original_excerpt: If one deduces, as Pim van Lommel and Peter Fenwick described earlier, that consciousness can function
+      independently of the brain, survival seems to be a simpler explanation, and certainly a preferable one (since we all
+      die, don’t we?).
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 953f6232-9902-437f-ad4c-add4fd080043
+      title: Leslie Kean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0994420f-7645-4f8c-b2ea-7d18f2e0146d
+        title: Peter Fenwick
+        slug: peter-fenwick
+      - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+        title: survival hypothesis
+        slug: survival-hypothesis
+      - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+        title: Leslie Kean
+        slug: leslie-kean
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch31:40114-40345
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: c134ac8a-0002-4626-864f-5081d4501056
+    claim_hash: fae3f7b2c9c0731e38f8b136caab329d14704cc92e0006627090b1d55f2eaaea
+    content: Pim van Lommel wrote in Consciousness Beyond Life that a cardiac arrest patient left hospital four weeks later
+      as a healthy man.
+    original_excerpt: '"Four weeks later he left hospital as a healthy man" / van Lommel, Consciousness Beyond Life.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: b7348a0c-d166-49d5-a163-7ee3f0cc4443
+        title: 'Consciousness Beyond Life: The Science of the Near-Death Experience (book by Pim van Lommel)'
+        slug: consciousness-beyond-life-the-science-of-the-near-death-experience-book-by-pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch41:24905-24991
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 65f78f52-bba6-4b71-bb55-c8d897b74fcc
+    claim_hash: ee5076641e13b46e550c00fdc5b67b2f69ce0b908c1cf3c82679e224ee85b349
+    content: Pim van Lommel won second place in the Bigelow Institute for Consciousness Studies essay contest 2021.
+    original_excerpt: and then Pim van Lommel uh Pim van Lommel the dutch doctor uh he won second place
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: bb57f245-f237-4c9d-9d6c-6ae3a14b4a55
+        title: Bigelow Institute for Consciousness Studies essay contest 2021
+        slug: bigelow-institute-for-consciousness-studies-essay-contest-2021
+    date: null
+    date_end: null
+    location_in_record: 00:25:58.6-00:26:04.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 60a173f3-395a-49d7-9526-e75d1a397bd8
+    claim_hash: b3221ec4c82af841aefb313c1711ef7d612b7fb9f4b4ff6bee24fb8d2775c040
+    content: Pim van Lommel is a Dutch doctor.
+    original_excerpt: Pim van Lommel the dutch doctor
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: 00:26:01.0-00:26:02.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

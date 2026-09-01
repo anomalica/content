@@ -9,575 +9,583 @@ page:
   claim_count: 12
   claim_count_total: 12
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 12
+  tokens_estimated: 3477
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 12
 related_nodes:
-- node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-  title: Bryan Bender
-  node_type: person
-  slug: bryan-bender
-  shared_claims: 6
-- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-  title: Advanced Aerospace Threat Identification Program (AATIP)
-  node_type: project
-  slug: advanced-aerospace-threat-identification-program-aatip
-  shared_claims: 5
-- node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
-  title: Dana White
-  node_type: person
-  slug: dana-white
-  shared_claims: 3
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 3
-- node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
-  title: The New York Times
-  node_type: organisation
-  slug: the-new-york-times
-  shared_claims: 2
-- node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
-  title: Washington Post
-  node_type: organisation
-  slug: washington-post
-  shared_claims: 2
-- node_id: 80394f2d-e519-4db9-9c86-e270a8ae52dc
-  title: 2017-12 New York Times Advanced Aerospace Threat Identification Program (AATIP)
-    disclosure story
-  node_type: document
-  slug: 2017-12-new-york-times-advanced-aerospace-threat-identification-program-aatip-disclosure-story
-  shared_claims: 1
-- node_id: e48b0e13-039f-47e2-940c-794c5ff68bb1
-  title: 2019-04 Politico story on new US Navy Unidentified Aerial Phenomena (UAP)
-    reporting guidelines
-  node_type: document
-  slug: 2019-04-politico-story-on-new-us-navy-unidentified-aerial-phenomena-uap-reporting-guidelines
-  shared_claims: 1
-- node_id: 554e7db9-4b17-4708-8248-16e62687cd16
-  title: 2021-03 Politico story on US Air Force blocking Unidentified Aerial Phenomena
-    (UAP) cataloguing
-  node_type: document
-  slug: 2021-03-politico-story-on-us-air-force-blocking-unidentified-aerial-phenomena-uap-cataloguing
-  shared_claims: 1
-- node_id: 582b4795-d48a-4bbb-a971-da33a0a09f81
-  title: Mark Walker
-  node_type: person
-  slug: mark-walker
-  shared_claims: 1
-- node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
-  title: The Pentagon
-  node_type: organisation
-  slug: the-pentagon
-  shared_claims: 1
-- node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-  title: To the Stars Academy of Arts and Science (TTSA)
-  node_type: organisation
-  slug: to-the-stars-academy-of-arts-and-science-ttsa
-  shared_claims: 1
-- node_id: c2161b8f-ab11-449c-8521-174024cb0552
-  title: USA, Washington DC, Pentagon
-  node_type: place
-  slug: washington-dc-pentagon-usa
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-  title: United States Department of Defense (DoD)
-  node_type: organisation
-  slug: united-states-department-of-defense-dod
-  shared_claims: 1
-- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-  title: United States Navy (USN)
-  node_type: organisation
-  slug: united-states-navy-usn
-  shared_claims: 1
-claims:
-- claim_id: b5d84c79-a65d-447c-ad4f-e771b168b50d
-  claim_hash: 97a20a68f4ca3494e811a71226f839b84d3e38bbbf8b5eff69e6e823b3ae4745
-  content: Pentagon spokeswoman Dana White confirmed to Politico that the Advanced
-    Aerospace Threat Identification Program (AATIP) existed and was run by Luis Elizondo.
-  original_excerpt: “Pentagon spokeswoman Dana White confirmed to Politico that the
-    program existed and was run by Elizondo,” Bryan Bender wrote in December 2017.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
-    title: Dana White
-  provenance_chain:
-    origin_kind: speaker
-    origin: Dana White
-    relay:
-    - Bryan Bender's Politico article
-  attribution_mode: unknown
-  node_refs:
   - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
     title: Bryan Bender
+    node_type: person
     slug: bryan-bender
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
+    shared_claims: 6
   - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
     title: Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: project
     slug: advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 5
   - node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
     title: Dana White
+    node_type: person
     slug: dana-white
+    shared_claims: 3
   - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
+    node_type: person
     slug: luis-elizondo
-  date: '2017-12-01'
-  date_end: null
-  location_in_record: char:6931-7097
-  evidence:
-    score: null
-    independent_sources: 3
-  provenance:
-    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
-    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
-      Pentagon Program. Did He?
-    record_date: '2019-06-01'
-    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
-    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
-    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
-- claim_id: 10987c5e-0261-4def-849f-1a0418370e38
-  claim_hash: 74021503f4abaf6c8a0f27a1743da2b536db84281baac596d5f8a3931f44704f
-  content: Bryan Bender is Politico's defense editor.
-  original_excerpt: Bender, who is Politico’s defense editor,
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
-  date: null
-  date_end: null
-  location_in_record: char:7590-7624
-  evidence:
-    score: null
-    independent_sources: 2
-  provenance:
-    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
-    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
-      Pentagon Program. Did He?
-    record_date: '2019-06-01'
-    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
-    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
-    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
-- claim_id: ce9c91ab-5bc2-4776-a7de-a2569ab2795b
-  claim_hash: 73b1e140c785d690684a97a56ed4d37d8245f050c5ef1ba5f1a48723b88125c5
-  content: Bryan Bender is the defense editor for Politico.
-  original_excerpt: Mr. Bryan Bender, defense editor for Politico
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
-  date: null
-  date_end: null
-  location_in_record: char:4518-4555
-  evidence:
-    score: null
-    independent_sources: 2
-  provenance:
-    record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
-    record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities”
-      on AATIP; Senator Harry Reid’s 2009 Memo Changes Nothing - The Black Vault
-    record_date: '2019-06-14'
-    record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
-    content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
-    friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
-- claim_id: e750fbc7-e29d-4e03-aed8-20b3a35ba394
-  claim_hash: 834e0045797f43ad6b8bf53747e7348b8cc068e25e791afbcab1b1ae6520c084
-  content: Robert 'Bob' Fish's story in Politico raised one possible theory that a
-    foreign power, perhaps China or Russia, had developed next-generation technologies
-    that could threaten the United States.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
-  date: null
-  date_end: null
-  location_in_record: ch21:19991-20212
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 9898cf75-2714-46d8-bb85-c5020299e488
-  claim_hash: 6b7c4d8af9dd59a0d8a46c6513e97bbed9c9c762657011259f62a69d9e8a2183
-  content: The first two Defence Department UAP videos posted by To The Stars Academy
-    of Arts & Sciences were posted in mid-December 2017, timed for impact when Politico,
-    The Washington Post, and The New York Times broke the story of the Department
-    of Defense's Advanced Aerospace Threat Identification Program (AATIP) investigations
-    into UAP.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
-  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-    title: Advanced Aerospace Threat Identification Program (AATIP)
-    slug: advanced-aerospace-threat-identification-program-aatip
-  - node_id: 80394f2d-e519-4db9-9c86-e270a8ae52dc
-    title: 2017-12 New York Times Advanced Aerospace Threat Identification Program
-      (AATIP) disclosure story
-    slug: 2017-12-new-york-times-advanced-aerospace-threat-identification-program-aatip-disclosure-story
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
-    title: Washington Post
-    slug: washington-post
+    shared_claims: 3
   - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
     title: The New York Times
+    node_type: organisation
     slug: the-new-york-times
-  date: 2017-12
-  date_end: null
-  location_in_record: ch21:20924-21123
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 34f7d5bf-2a5f-4062-9184-2edcb3590621
-  claim_hash: cc012818e880675f07bf453027f61d969c5eeef810ecb0176eacf50db644644e
-  content: Mark Walker told Politico, 'While I am encouraged the Under Secretary of
-    the Navy confirmed that UAP encounters are fully investigated, there is frustration
-    with the lack of answers to specific questions about the threat that superior
-    aircraft flying in United States airspace may pose.'
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 582b4795-d48a-4bbb-a971-da33a0a09f81
-    title: Mark Walker
-  provenance_chain:
-    origin_kind: speaker
-    origin: Mark Walker
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
+    shared_claims: 2
+  - node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
+    title: Washington Post
+    node_type: organisation
+    slug: washington-post
+    shared_claims: 2
+  - node_id: 80394f2d-e519-4db9-9c86-e270a8ae52dc
+    title: 2017-12 New York Times Advanced Aerospace Threat Identification Program (AATIP) disclosure story
+    node_type: document
+    slug: 2017-12-new-york-times-advanced-aerospace-threat-identification-program-aatip-disclosure-story
+    shared_claims: 1
+  - node_id: e48b0e13-039f-47e2-940c-794c5ff68bb1
+    title: 2019-04 Politico story on new US Navy Unidentified Aerial Phenomena (UAP) reporting guidelines
+    node_type: document
+    slug: 2019-04-politico-story-on-new-us-navy-unidentified-aerial-phenomena-uap-reporting-guidelines
+    shared_claims: 1
+  - node_id: 554e7db9-4b17-4708-8248-16e62687cd16
+    title: 2021-03 Politico story on US Air Force blocking Unidentified Aerial Phenomena (UAP) cataloguing
+    node_type: document
+    slug: 2021-03-politico-story-on-us-air-force-blocking-unidentified-aerial-phenomena-uap-cataloguing
+    shared_claims: 1
   - node_id: 582b4795-d48a-4bbb-a971-da33a0a09f81
     title: Mark Walker
+    node_type: person
     slug: mark-walker
-  date: null
-  date_end: null
-  location_in_record: ch22:9870-10139
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 8f6c60a4-d0b2-4236-a200-10df34c1b65a
-  claim_hash: 7a948d9f90a3332d7b83a5bf8468ca922cc7411e8db532537c00ac851ed5463e
-  content: Unidentified Flying Objects (UFOs) are now on the agenda.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bryan Bender
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: ch28:26990-27051
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 708e7f7f-e5d6-47b0-92a0-2f45d9854889
-  claim_hash: 0a1c06f110e0cb121df4c4588feedc406db39257a90a62dd08a87ceb4229ed03
-  content: Bryan Bender reported on 2021-03-25 that military and intelligence agencies
-    had been accused of stiff-arming investigators on UFO sightings.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Politico article by Bryan Bender
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
-  - node_id: 554e7db9-4b17-4708-8248-16e62687cd16
-    title: 2021-03 Politico story on US Air Force blocking Unidentified Aerial Phenomena
-      (UAP) cataloguing
-    slug: 2021-03-politico-story-on-us-air-force-blocking-unidentified-aerial-phenomena-uap-cataloguing
-  date: '2021-03-25'
-  date_end: null
-  location_in_record: ch34:47995-48102
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 4f8d398c-24a5-406c-b506-d3120b4574b8
-  claim_hash: 0d15edd9f907147b5f7de8efb9629d76a88d15bfebe52f5d415c85dce76376c4
-  content: On 2019-04-23, Bryan Bender reported that the US Navy was drafting new
-    guidelines for reporting UFOs.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Politico article by Bryan Bender
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
-    title: Bryan Bender
-    slug: bryan-bender
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
-  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-    title: United States Navy (USN)
-    slug: united-states-navy-usn
-  - node_id: e48b0e13-039f-47e2-940c-794c5ff68bb1
-    title: 2019-04 Politico story on new US Navy Unidentified Aerial Phenomena (UAP)
-      reporting guidelines
-    slug: 2019-04-politico-story-on-new-us-navy-unidentified-aerial-phenomena-uap-reporting-guidelines
-  date: '2019-04-23'
-  date_end: null
-  location_in_record: ch34:48339-48430
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 2d5d0286-272e-4904-b5dc-914d633d3389
-  claim_hash: 51b9cac21de74be24982c2a0e7f7b698d61e73c59721a936dec75095255c8ad5
-  content: On the afternoon of 2017-12-16, the New York Times broke online news of
-    the Advanced Aerospace Threat Identification Program (AATIP), followed seconds
-    later by Politico and then the Washington Post.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
-  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-    title: Advanced Aerospace Threat Identification Program (AATIP)
-    slug: advanced-aerospace-threat-identification-program-aatip
-  - node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
-    title: Washington Post
-    slug: washington-post
-  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
-    title: The New York Times
-    slug: the-new-york-times
-  date: '2017-12-16'
-  date_end: null
-  location_in_record: ch29:21978-22122
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
-  claim_hash: 5d7b2797c7cd2eecfd56d504fd49902dcacaa053bbc7f7078c2c013da40cdc8f
-  content: The Politico article about the Advanced Aerospace Threat Identification
-    Program (AATIP) stated that Pentagon spokesperson Dana White confirmed Luis Elizondo's
-    role in the programme.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: the Politico article on AATIP
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
+    shared_claims: 1
   - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
     title: The Pentagon
+    node_type: organisation
     slug: the-pentagon
-  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-    title: Advanced Aerospace Threat Identification Program (AATIP)
-    slug: advanced-aerospace-threat-identification-program-aatip
-  - node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
-    title: Dana White
-    slug: dana-white
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  date: null
-  date_end: null
-  location_in_record: ch29:23060-23182
-  evidence:
-    score: null
-    independent_sources: 2
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 24ab5866-164f-4e22-8474-1ebedb0af4a1
-  claim_hash: e9ee5dd7df76bc4e22673192ca8edb20ff79a26fa603d47dc4130c9939cff224
-  content: Pentagon spokesperson Dana White had confirmed Lue Elizondo's leader role
-    in the Advanced Aerospace Threat Identification Program (AATIP) for a Politico
-    article, before leaving the Pentagon.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
-    title: Politico
-    slug: politico
-  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-    title: Advanced Aerospace Threat Identification Program (AATIP)
-    slug: advanced-aerospace-threat-identification-program-aatip
-  - node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
-    title: Dana White
-    slug: dana-white
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
+    shared_claims: 1
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    node_type: organisation
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+    shared_claims: 1
   - node_id: c2161b8f-ab11-449c-8521-174024cb0552
     title: USA, Washington DC, Pentagon
+    node_type: place
     slug: washington-dc-pentagon-usa
-  date: null
-  date_end: null
-  location_in_record: ch30:4398-4515
-  evidence:
-    score: null
-    independent_sources: 2
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 1
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 1
+claims:
+  - claim_id: b5d84c79-a65d-447c-ad4f-e771b168b50d
+    claim_hash: 97a20a68f4ca3494e811a71226f839b84d3e38bbbf8b5eff69e6e823b3ae4745
+    content: Pentagon spokeswoman Dana White confirmed to Politico that the Advanced Aerospace Threat Identification Program
+      (AATIP) existed and was run by Luis Elizondo.
+    original_excerpt: “Pentagon spokeswoman Dana White confirmed to Politico that the program existed and was run by Elizondo,”
+      Bryan Bender wrote in December 2017.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
+      title: Dana White
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dana White
+      relay:
+        - Bryan Bender's Politico article
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
+        title: Dana White
+        slug: dana-white
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: '2017-12-01'
+    date_end: null
+    location_in_record: char:6931-7097
+    evidence:
+      score: null
+      independent_sources: 3
+    provenance:
+      record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+      record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?
+      record_date: '2019-06-01'
+      record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+      content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+      friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  - claim_id: 10987c5e-0261-4def-849f-1a0418370e38
+    claim_hash: 74021503f4abaf6c8a0f27a1743da2b536db84281baac596d5f8a3931f44704f
+    content: Bryan Bender is Politico's defense editor.
+    original_excerpt: Bender, who is Politico’s defense editor,
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+    date: null
+    date_end: null
+    location_in_record: char:7590-7624
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+      record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?
+      record_date: '2019-06-01'
+      record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+      content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+      friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  - claim_id: ce9c91ab-5bc2-4776-a7de-a2569ab2795b
+    claim_hash: 73b1e140c785d690684a97a56ed4d37d8245f050c5ef1ba5f1a48723b88125c5
+    content: Bryan Bender is the defense editor for Politico.
+    original_excerpt: Mr. Bryan Bender, defense editor for Politico
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+    date: null
+    date_end: null
+    location_in_record: char:4518-4555
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+      record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
+        Changes Nothing - The Black Vault
+      record_date: '2019-06-14'
+      record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+      content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+      friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: e750fbc7-e29d-4e03-aed8-20b3a35ba394
+    claim_hash: 834e0045797f43ad6b8bf53747e7348b8cc068e25e791afbcab1b1ae6520c084
+    content: Robert 'Bob' Fish's story in Politico raised one possible theory that a foreign power, perhaps China or Russia,
+      had developed next-generation technologies that could threaten the United States.
+    original_excerpt: knowledged that one possible theory to explain the unusual sightings of these unknown craft was 'that
+      a foreign power – perhaps the Chinese or the Russians – had developed next-generation technologies that could threaten
+      the United States'.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+    date: null
+    date_end: null
+    location_in_record: ch21:19991-20212
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9898cf75-2714-46d8-bb85-c5020299e488
+    claim_hash: 6b7c4d8af9dd59a0d8a46c6513e97bbed9c9c762657011259f62a69d9e8a2183
+    content: The first two Defence Department UAP videos posted by To The Stars Academy of Arts & Sciences were posted in
+      mid-December 2017, timed for impact when Politico, The Washington Post, and The New York Times broke the story of the
+      Department of Defense's Advanced Aerospace Threat Identification Program (AATIP) investigations into UAP.
+    original_excerpt: The first two were posted in mid-December 2017, timed for impact when Politico, The Washington Post
+      and The New York Times broke the story of the Defence Department's AATIP investigations into UAPs.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 80394f2d-e519-4db9-9c86-e270a8ae52dc
+        title: 2017-12 New York Times Advanced Aerospace Threat Identification Program (AATIP) disclosure story
+        slug: 2017-12-new-york-times-advanced-aerospace-threat-identification-program-aatip-disclosure-story
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
+        title: Washington Post
+        slug: washington-post
+      - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+        title: The New York Times
+        slug: the-new-york-times
+    date: 2017-12
+    date_end: null
+    location_in_record: ch21:20924-21123
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 34f7d5bf-2a5f-4062-9184-2edcb3590621
+    claim_hash: cc012818e880675f07bf453027f61d969c5eeef810ecb0176eacf50db644644e
+    content: Mark Walker told Politico, 'While I am encouraged the Under Secretary of the Navy confirmed that UAP encounters
+      are fully investigated, there is frustration with the lack of answers to specific questions about the threat that superior
+      aircraft flying in United States airspace may pose.'
+    original_excerpt: ‘While I am encouraged the Under Secretary of the Navy confirmed that UAP encounters are fully investigated,
+      there is frustration with the lack of answers to specific questions about the threat that superior aircraft flying in
+      United States airspace may pose,’ he told Politico.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 582b4795-d48a-4bbb-a971-da33a0a09f81
+      title: Mark Walker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mark Walker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+      - node_id: 582b4795-d48a-4bbb-a971-da33a0a09f81
+        title: Mark Walker
+        slug: mark-walker
+    date: null
+    date_end: null
+    location_in_record: ch22:9870-10139
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 8f6c60a4-d0b2-4236-a200-10df34c1b65a
+    claim_hash: 7a948d9f90a3332d7b83a5bf8468ca922cc7411e8db532537c00ac851ed5463e
+    content: Unidentified Flying Objects (UFOs) are now on the agenda.
+    original_excerpt: as Politico's Bryan Bender commented, 'UFOs are now on the agenda.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+      title: Bryan Bender
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bryan Bender
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch28:26990-27051
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 708e7f7f-e5d6-47b0-92a0-2f45d9854889
+    claim_hash: 0a1c06f110e0cb121df4c4588feedc406db39257a90a62dd08a87ceb4229ed03
+    content: Bryan Bender reported on 2021-03-25 that military and intelligence agencies had been accused of stiff-arming
+      investigators on UFO sightings.
+    original_excerpt: Bryan Bender, 'Military and Spy Agencies Accused of Stiff-arming Investigators on UFO Sightings', 25
+      March 2021.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Politico article by Bryan Bender
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+      - node_id: 554e7db9-4b17-4708-8248-16e62687cd16
+        title: 2021-03 Politico story on US Air Force blocking Unidentified Aerial Phenomena (UAP) cataloguing
+        slug: 2021-03-politico-story-on-us-air-force-blocking-unidentified-aerial-phenomena-uap-cataloguing
+    date: '2021-03-25'
+    date_end: null
+    location_in_record: ch34:47995-48102
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4f8d398c-24a5-406c-b506-d3120b4574b8
+    claim_hash: 0d15edd9f907147b5f7de8efb9629d76a88d15bfebe52f5d415c85dce76376c4
+    content: On 2019-04-23, Bryan Bender reported that the US Navy was drafting new guidelines for reporting UFOs.
+    original_excerpt: Bryan Bender, 'U.S. Navy Drafting New Guidelines for Reporting UFOs', Politico, 23 April 2019.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Politico article by Bryan Bender
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: e48b0e13-039f-47e2-940c-794c5ff68bb1
+        title: 2019-04 Politico story on new US Navy Unidentified Aerial Phenomena (UAP) reporting guidelines
+        slug: 2019-04-politico-story-on-new-us-navy-unidentified-aerial-phenomena-uap-reporting-guidelines
+    date: '2019-04-23'
+    date_end: null
+    location_in_record: ch34:48339-48430
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2d5d0286-272e-4904-b5dc-914d633d3389
+    claim_hash: 51b9cac21de74be24982c2a0e7f7b698d61e73c59721a936dec75095255c8ad5
+    content: On the afternoon of 2017-12-16, the New York Times broke online news of the Advanced Aerospace Threat Identification
+      Program (AATIP), followed seconds later by Politico and then the Washington Post.
+    original_excerpt: The news exploded that afternoon. The New York Times broke the news online and was followed seconds
+      later by Politico, then the Washington Post.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
+        title: Washington Post
+        slug: washington-post
+      - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+        title: The New York Times
+        slug: the-new-york-times
+    date: '2017-12-16'
+    date_end: null
+    location_in_record: ch29:21978-22122
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
+    claim_hash: 5d7b2797c7cd2eecfd56d504fd49902dcacaa053bbc7f7078c2c013da40cdc8f
+    content: The Politico article about the Advanced Aerospace Threat Identification Program (AATIP) stated that Pentagon
+      spokesperson Dana White confirmed Luis Elizondo's role in the programme.
+    original_excerpt: The Politico piece in particular spelled out that the Pentagon's spokesperson, Dana White, had confirmed
+      my role in the program.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: the Politico article on AATIP
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
+        title: Dana White
+        slug: dana-white
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch29:23060-23182
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 24ab5866-164f-4e22-8474-1ebedb0af4a1
+    claim_hash: e9ee5dd7df76bc4e22673192ca8edb20ff79a26fa603d47dc4130c9939cff224
+    content: Pentagon spokesperson Dana White had confirmed Lue Elizondo's leader role in the Advanced Aerospace Threat Identification
+      Program (AATIP) for a Politico article, before leaving the Pentagon.
+    original_excerpt: Pentagon spokesperson Dana White, who had confirmed my leader role in AATIP for the Politico article,
+      had left the Pentagon.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
+        title: Dana White
+        slug: dana-white
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+        title: USA, Washington DC, Pentagon
+        slug: washington-dc-pentagon-usa
+    date: null
+    date_end: null
+    location_in_record: ch30:4398-4515
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

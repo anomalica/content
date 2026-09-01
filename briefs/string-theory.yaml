@@ -1,214 +1,312 @@
 schema: anomalica/brief/1
-brief_hash: 58ce20473955ff23a4257edae04f19e38dbbdb25149cbaec10e5e94642998436
+brief_hash: e03cef12e2741f5b042cba6ec88ae677690b16428af11f7c3c2df4aec5a8b1c0
 page:
   kind: entity
   node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
   node_type: topic
   title: string theory
   slug: string-theory
-  claim_count: 5
-  claim_count_total: 5
+  claim_count: 7
+  claim_count_total: 7
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2037
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
 related_nodes:
-- node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-  title: Julia Mossbridge
-  node_type: person
-  slug: julia-mossbridge
-  shared_claims: 1
-- node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-  title: informational substrate
-  node_type: topic
-  slug: informational-substrate
-  shared_claims: 1
-- node_id: 2a7e99da-a52b-42f0-ae13-32841e4a3bc8
-  title: quantum gravity
-  node_type: topic
-  slug: quantum-gravity
-  shared_claims: 1
-- node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
-  title: quantum mechanics
-  node_type: topic
-  slug: quantum-mechanics
-  shared_claims: 1
-claims:
-- claim_id: f0e981e4-e770-4e15-b5dd-6ae747bcdf85
-  claim_hash: 2340667516719e707acaff14bea25aa6632a1f1623a159858d39edf1b33a1b3b
-  content: String theory postulates an eleven-dimensional reality.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-    title: string theory
-    slug: string-theory
-  date: null
-  date_end: null
-  location_in_record: ch20:27227-27289
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 29712b40-a833-4fb7-bab7-9533081a9f5f
-  claim_hash: 79e1360b61fe104fa4276699993ab0dd6a1c6f655a9418dc74750a0ecae1655a
-  content: String theory was a popular idea for about 50 years, proposing extra dimensions
-    in order to reconcile quantum mechanics and gravity.
-  original_excerpt: in terms of extra dimensions, that was a popular idea for 50 years
-    that string theory suggested in order to marry quantum mechanics and gravity.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
-    title: Avi Loeb
-  provenance_chain:
-    origin_kind: speaker
-    origin: Avi Loeb
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-    title: string theory
-    slug: string-theory
-  - node_id: 2a7e99da-a52b-42f0-ae13-32841e4a3bc8
-    title: quantum gravity
-    slug: quantum-gravity
-  - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
-    title: quantum mechanics
-    slug: quantum-mechanics
-  date: null
-  date_end: null
-  location_in_record: 00:41:35.9-00:41:45.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: 545b56c4-fdc4-43e7-b322-82d3b5b575ee
-  claim_hash: a48ce610c2b4b300acb1379d54299740a1e5cf364b3348f42f43eca249a014e6
-  content: No evidence has been detected that string theory is correct.
-  original_excerpt: we haven't detected any evidence that string theory is right,
-    okay?
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
-    title: Avi Loeb
-  provenance_chain:
-    origin_kind: speaker
-    origin: Avi Loeb
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-    title: string theory
-    slug: string-theory
-  date: null
-  date_end: null
-  location_in_record: 00:41:59.6-00:42:06.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: e3495787-9c47-4ecd-bd29-5bebee63f478
-  claim_hash: a403d4c44a11315eadc67bc69e5226b73e63bef8d94402eb977795a5bdaa865c
-  content: Laboratory experiments attempting to measure the existence of extra dimensions
-    concluded that any extra dimension must be curled up to less than one millimetre
-    in size, because otherwise gravity would not follow an inverse square law.
-  original_excerpt: people have tried to measure the existence of extra dimensions
-    in the laboratory, there are laboratory experiments, and they concluded that any
-    extra dimension must be curled up, tiny, to less than a millimeter in size because
-    otherwise gravity would not be an inverse square law.
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
-    title: Avi Loeb
-  provenance_chain:
-    origin_kind: speaker
-    origin: Avi Loeb
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-    title: string theory
-    slug: string-theory
-  date: null
-  date_end: null
-  location_in_record: 00:42:07.6-00:42:23.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: 20900f08-1ca1-4874-80ff-f614a7a2aed1
-  claim_hash: b01cb150146bd1fd45caca60094a6cee13f62a0b0923d2050bffdbae2561f131
-  content: Julia Mossbridge considers dimensions a concept only useful for thinking
-    about space, and prefers to describe non-spatial dimensions such as information
-    or time as geometry.
-  original_excerpt: The way I think of it is dimensions are only useful to think about
-    with space because literally dimension is about space. And so when you start talking
-    about dimensions that aren't space, like information or time, I think it's better
-    to talk about them as geometry.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Julia Mossbridge
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-    title: string theory
-    slug: string-theory
-  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-    title: informational substrate
-    slug: informational-substrate
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    node_type: person
+    slug: robert-bigelow
+    shared_claims: 2
+  - node_id: 1bfa25f7-5076-44ce-8cea-de00c2b8a39f
+    title: Big Bang theory
+    node_type: topic
+    slug: big-bang-theory
+    shared_claims: 1
   - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
     title: Julia Mossbridge
+    node_type: person
     slug: julia-mossbridge
-  date: null
-  date_end: null
-  location_in_record: 02:23:08.8-02:23:26.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+    title: informational substrate
+    node_type: topic
+    slug: informational-substrate
+    shared_claims: 1
+  - node_id: 2a7e99da-a52b-42f0-ae13-32841e4a3bc8
+    title: quantum gravity
+    node_type: topic
+    slug: quantum-gravity
+    shared_claims: 1
+  - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
+    title: quantum mechanics
+    node_type: topic
+    slug: quantum-mechanics
+    shared_claims: 1
+claims:
+  - claim_id: f0e981e4-e770-4e15-b5dd-6ae747bcdf85
+    claim_hash: 2340667516719e707acaff14bea25aa6632a1f1623a159858d39edf1b33a1b3b
+    content: String theory postulates an eleven-dimensional reality.
+    original_excerpt: the string theory of reality postulates an eleven-dimensional reality
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
+        title: string theory
+        slug: string-theory
+    date: null
+    date_end: null
+    location_in_record: ch20:27227-27289
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 29712b40-a833-4fb7-bab7-9533081a9f5f
+    claim_hash: 79e1360b61fe104fa4276699993ab0dd6a1c6f655a9418dc74750a0ecae1655a
+    content: String theory was a popular idea for about 50 years, proposing extra dimensions in order to reconcile quantum
+      mechanics and gravity.
+    original_excerpt: in terms of extra dimensions, that was a popular idea for 50 years that string theory suggested in order
+      to marry quantum mechanics and gravity.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: speaker
+      origin: Avi Loeb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
+        title: string theory
+        slug: string-theory
+      - node_id: 2a7e99da-a52b-42f0-ae13-32841e4a3bc8
+        title: quantum gravity
+        slug: quantum-gravity
+      - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
+        title: quantum mechanics
+        slug: quantum-mechanics
+    date: null
+    date_end: null
+    location_in_record: 00:41:35.9-00:41:45.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 545b56c4-fdc4-43e7-b322-82d3b5b575ee
+    claim_hash: a48ce610c2b4b300acb1379d54299740a1e5cf364b3348f42f43eca249a014e6
+    content: No evidence has been detected that string theory is correct.
+    original_excerpt: we haven't detected any evidence that string theory is right, okay?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: speaker
+      origin: Avi Loeb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
+        title: string theory
+        slug: string-theory
+    date: null
+    date_end: null
+    location_in_record: 00:41:59.6-00:42:06.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: e3495787-9c47-4ecd-bd29-5bebee63f478
+    claim_hash: a403d4c44a11315eadc67bc69e5226b73e63bef8d94402eb977795a5bdaa865c
+    content: Laboratory experiments attempting to measure the existence of extra dimensions concluded that any extra dimension
+      must be curled up to less than one millimetre in size, because otherwise gravity would not follow an inverse square
+      law.
+    original_excerpt: people have tried to measure the existence of extra dimensions in the laboratory, there are laboratory
+      experiments, and they concluded that any extra dimension must be curled up, tiny, to less than a millimeter in size
+      because otherwise gravity would not be an inverse square law.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: speaker
+      origin: Avi Loeb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
+        title: string theory
+        slug: string-theory
+    date: null
+    date_end: null
+    location_in_record: 00:42:07.6-00:42:23.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 41995395-e899-4acb-ad9c-c22251ab21d7
+    claim_hash: 96b3069d84675c87cf3e3baf2afda8d9d8fa660d427c153b2de01cb43de00233
+    content: Robert Bigelow considers that string theory required about eleven different theories to be able to function and
+      close the loop.
+    original_excerpt: And it took about, what, 11 different theories for string theory to even to be able to function, to
+      close the donut, to close the loop, to make it work.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
+        title: string theory
+        slug: string-theory
+    date: null
+    date_end: null
+    location_in_record: 00:20:48.1-00:20:58.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: be49d8a5-bca7-48a7-8668-ae9cb17035b8
+    claim_hash: 442f5571a7ec624e457280e55177e9e619741748869dbe17cf881dc965777b53
+    content: Robert Bigelow considers that string theory proponents used hand calculations, a euphemism for forcing the mathematics
+      to work, and made up the constants for what existed before the Big Bang.
+    original_excerpt: And they used hand calcs, which is a euphemism for forcing the math to work. And they made up the constants
+      as to what existed pre-bang.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 1bfa25f7-5076-44ce-8cea-de00c2b8a39f
+        title: Big Bang theory
+        slug: big-bang-theory
+      - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
+        title: string theory
+        slug: string-theory
+    date: null
+    date_end: null
+    location_in_record: 00:20:59.1-00:21:12.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 20900f08-1ca1-4874-80ff-f614a7a2aed1
+    claim_hash: b01cb150146bd1fd45caca60094a6cee13f62a0b0923d2050bffdbae2561f131
+    content: Julia Mossbridge considers dimensions a concept only useful for thinking about space, and prefers to describe
+      non-spatial dimensions such as information or time as geometry.
+    original_excerpt: The way I think of it is dimensions are only useful to think about with space because literally dimension
+      is about space. And so when you start talking about dimensions that aren't space, like information or time, I think
+      it's better to talk about them as geometry.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
+        title: string theory
+        slug: string-theory
+      - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+        title: informational substrate
+        slug: informational-substrate
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 02:23:08.8-02:23:26.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

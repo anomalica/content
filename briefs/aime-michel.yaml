@@ -9,459 +9,470 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 9
+  tokens_estimated: 3103
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 9
 related_nodes:
-- node_id: b6a617c4-6c4a-4c14-9c48-1a81013dca14
-  title: Dr. X (French physician, Unidentified Flying Object (UFO) witness)
-  node_type: person
-  slug: unidentified-flying-object-ufo-witness-dr-x-french-physician
-  shared_claims: 3
-- node_id: 33f33971-ed63-4558-9881-e771eb40022b
-  title: Book of Revelation (Apocalypse)
-  node_type: document
-  slug: book-of-revelation-apocalypse
-  shared_claims: 2
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 2
-- node_id: 518fe13f-660a-4bf5-92ae-daca8a23942d
-  title: 1974 Jacques Vallee, Aimé Michel and Fernand Lagarde La Javie investigation
-  node_type: event
-  slug: aime-michel-and-fernand-lagarde-la-javie-investigation-1974-jacques-vallee
-  shared_claims: 1
-- node_id: f7ae4236-bede-45ec-9e67-d99b47289ec8
-  title: Archimedes
-  node_type: person
-  slug: archimedes
-  shared_claims: 1
-- node_id: f56b0ad8-77c2-4759-b83d-f724f88c17ae
-  title: Aristotle
-  node_type: person
-  slug: aristotle
-  shared_claims: 1
-- node_id: d59b3e14-cb0b-451d-9864-be08bc78133d
-  title: Claude Poher
-  node_type: person
-  slug: claude-poher
-  shared_claims: 1
-- node_id: 9bba2054-4b12-4438-b49c-898ce724ec22
-  title: Euclid
-  node_type: person
-  slug: euclid
-  shared_claims: 1
-- node_id: 85630a19-d43d-4068-8c6f-eef39885337d
-  title: Fernand Lagarde
-  node_type: person
-  slug: fernand-lagarde
-  shared_claims: 1
-- node_id: bdf81b1d-d06b-492c-b020-d3926fc76b14
-  title: National Centre for Space Studies (CNES)
-  node_type: organisation
-  slug: national-centre-for-space-studies-cnes
-  shared_claims: 1
-- node_id: 7d9d2f1c-57b1-4801-97b3-fafbb1278ea9
-  title: Olivier Costa de Beauregard
-  node_type: person
-  slug: olivier-costa-de-beauregard
-  shared_claims: 1
-- node_id: da036800-30a7-4c4d-b57a-21dca53ce073
-  title: Pierre Guérin
-  node_type: person
-  slug: pierre-guerin
-  shared_claims: 1
-- node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
-  title: Plato
-  node_type: person
-  slug: plato
-  shared_claims: 1
-- node_id: 062f6ed5-feee-4d01-a76c-44d4b6b4dbc9
-  title: Ptolemaeus
-  node_type: person
-  slug: ptolemaeus
-  shared_claims: 1
-- node_id: b3a417af-0df0-46fd-b152-f6200dcc81bb
-  title: Rémy Chauvin
-  node_type: person
-  slug: remy-chauvin
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-claims:
-- claim_id: 67dc6004-20be-4765-97c4-bade46be7a74
-  claim_hash: 85a9eff53763505254ec261a7868bb97a8afc4c5e6bf03a769c5726e0ed132f7
-  content: Aimé Michel observed that none of the brilliant minds among the disciples
-    of Aristotle and Plato speculated that the spread of religious "lunacy" among
-    their ignorant slaves might eventually spell the end of the Classical World.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: named
-    origin: Aimé Michel
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
-    title: Aimé Michel
-    slug: aime-michel
-  date: null
-  date_end: null
-  location_in_record: ch4:22726-22946
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 6e349cda-a264-4c2d-a3e0-6116e50763f4
-  claim_hash: 072a51cdd7e2c48f81767cb5b15d2de50c69026f2d4ad93976a4befb428e17e9
-  content: The combination of the excellent witness, the strange physical trace, and
-    the seemingly enigmatic nature of the observation caused Aime Michel to conclude
-    that the UFO (Unidentified Flying Object) mystery as a whole was unsolvable.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
-    title: Aimé Michel
-  provenance_chain:
-    origin_kind: named
-    origin: Aime Michel
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
-    title: Aimé Michel
-    slug: aime-michel
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: ch14:107117-107305
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 66225489-1e24-421e-870a-5baa2ecb8104
-  claim_hash: d2079174205159ff4eae1d6b18e43379ee1207402e4359b9cc13180e6d0e2abe
-  content: In August 1974, Jacques Vallee was driving a Renault with Aimé Michel and
-    Fernand Lagarde up a narrow road in the valley of a mountain creek in the Alps,
-    investigating the UMMO story near La Javie.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallee
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+  - node_id: b6a617c4-6c4a-4c14-9c48-1a81013dca14
+    title: Dr. X (French physician, UFO witness)
+    node_type: person
+    slug: ufo-witness-dr-x-french-physician
+    shared_claims: 3
+  - node_id: 33f33971-ed63-4558-9881-e771eb40022b
+    title: Book of Revelation (Apocalypse)
+    node_type: document
+    slug: book-of-revelation-apocalypse
+    shared_claims: 2
   - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
     title: Jacques Vallée
+    node_type: person
     slug: jacques-vallee
+    shared_claims: 2
   - node_id: 518fe13f-660a-4bf5-92ae-daca8a23942d
     title: 1974 Jacques Vallee, Aimé Michel and Fernand Lagarde La Javie investigation
+    node_type: event
     slug: aime-michel-and-fernand-lagarde-la-javie-investigation-1974-jacques-vallee
-  - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
-    title: Aimé Michel
-    slug: aime-michel
-  - node_id: 85630a19-d43d-4068-8c6f-eef39885337d
-    title: Fernand Lagarde
-    slug: fernand-lagarde
-  date: 1974-08
-  date_end: null
-  location_in_record: ch12:30278-30521
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 84930001-8c73-4101-aa2f-26412e0637bd
-  claim_hash: e4ee88361caa614a8a3191675985f08fcb794f5a492b6934ea61996160752a36
-  content: Aimé Michel suggests imagining an Alexandrine thinker such as Ptolemaeus,
-    trained in the rational methods of Archimedes, Euclid, and Aristotle, encountering
-    the Apocalypse (Book of Revelation) and reacting with dismissal.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
-    title: Aimé Michel
-  provenance_chain:
-    origin_kind: named
-    origin: Aimé Michel
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 062f6ed5-feee-4d01-a76c-44d4b6b4dbc9
-    title: Ptolemaeus
-    slug: ptolemaeus
-  - node_id: 33f33971-ed63-4558-9881-e771eb40022b
-    title: Book of Revelation (Apocalypse)
-    slug: book-of-revelation-apocalypse
-  - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
-    title: Aimé Michel
-    slug: aime-michel
-  - node_id: 9bba2054-4b12-4438-b49c-898ce724ec22
-    title: Euclid
-    slug: euclid
-  - node_id: f56b0ad8-77c2-4759-b83d-f724f88c17ae
-    title: Aristotle
-    slug: aristotle
+    shared_claims: 1
   - node_id: f7ae4236-bede-45ec-9e67-d99b47289ec8
     title: Archimedes
+    node_type: person
     slug: archimedes
-  date: null
-  date_end: null
-  location_in_record: ch14:3280-3540
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: dcf77260-f229-481f-88a4-d2ecc3d747eb
-  claim_hash: 3b7953964173f0d4da6981b87905b277b000e154d32775e6fc4b8f641a122878
-  content: Aimé Michel considers that the counterculture expressed through the Apocalypse
-    (Book of Revelation) eventually triumphed and Plato was forgotten for a thousand
-    years.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
-    title: Aimé Michel
-  provenance_chain:
-    origin_kind: named
-    origin: Aimé Michel
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 33f33971-ed63-4558-9881-e771eb40022b
-    title: Book of Revelation (Apocalypse)
-    slug: book-of-revelation-apocalypse
-  - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
-    title: Plato
-    slug: plato
-  - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
-    title: Aimé Michel
-    slug: aime-michel
-  date: null
-  date_end: null
-  location_in_record: ch14:4226-4368
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: ca686ac8-499f-4334-bcd5-63b35bcb5044
-  claim_hash: 21ea217318857d546daf7db063f9d5d139a72d0e80f7cff39957ed8e0eeb124d
-  content: Fred Beckman, William T. Powers, Douglass Price-Williams and Ted Phillips
-    were joined by French researchers in philosopher Aimé Michel's circle, including
-    planetary astronomer Pierre Guérin, Sorbonne biologist and parapsychologist Rémy
-    Chauvin, relativist Olivier Costa de Beauregard, and aerospace expert Claude Poher
-    at the National Centre for Space Studies (CNES).
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallee
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
-    title: Aimé Michel
-    slug: aime-michel
-  - node_id: 7d9d2f1c-57b1-4801-97b3-fafbb1278ea9
-    title: Olivier Costa de Beauregard
-    slug: olivier-costa-de-beauregard
-  - node_id: b3a417af-0df0-46fd-b152-f6200dcc81bb
-    title: Rémy Chauvin
-    slug: remy-chauvin
-  - node_id: bdf81b1d-d06b-492c-b020-d3926fc76b14
-    title: National Centre for Space Studies (CNES)
-    slug: national-centre-for-space-studies-cnes
+    shared_claims: 1
+  - node_id: f56b0ad8-77c2-4759-b83d-f724f88c17ae
+    title: Aristotle
+    node_type: person
+    slug: aristotle
+    shared_claims: 1
   - node_id: d59b3e14-cb0b-451d-9864-be08bc78133d
     title: Claude Poher
+    node_type: person
     slug: claude-poher
+    shared_claims: 1
+  - node_id: 9bba2054-4b12-4438-b49c-898ce724ec22
+    title: Euclid
+    node_type: person
+    slug: euclid
+    shared_claims: 1
+  - node_id: 85630a19-d43d-4068-8c6f-eef39885337d
+    title: Fernand Lagarde
+    node_type: person
+    slug: fernand-lagarde
+    shared_claims: 1
+  - node_id: bdf81b1d-d06b-492c-b020-d3926fc76b14
+    title: National Centre for Space Studies (CNES)
+    node_type: organisation
+    slug: national-centre-for-space-studies-cnes
+    shared_claims: 1
+  - node_id: 7d9d2f1c-57b1-4801-97b3-fafbb1278ea9
+    title: Olivier Costa de Beauregard
+    node_type: person
+    slug: olivier-costa-de-beauregard
+    shared_claims: 1
   - node_id: da036800-30a7-4c4d-b57a-21dca53ce073
     title: Pierre Guérin
+    node_type: person
     slug: pierre-guerin
-  date: null
-  date_end: null
-  location_in_record: ch7:1818-2095
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 49b359a7-957a-48d0-8056-459e2d66cfaa
-  claim_hash: b47aeaec4dd0816e25128d0086c0df48f8a02671d30bd2314cb6a2615c5b0eb4
-  content: Aimé Michel visited Dr. X on 8 November 1968, six days after the sighting,
-    and found him tired, having lost weight and being very much distressed by the
-    experience.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Aimé Michel
-    relay:
-    - Jacques Vallee
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
-    title: Aimé Michel
-    slug: aime-michel
-  - node_id: b6a617c4-6c4a-4c14-9c48-1a81013dca14
-    title: Dr. X (French physician, Unidentified Flying Object (UFO) witness)
-    slug: unidentified-flying-object-ufo-witness-dr-x-french-physician
-  date: '1968-11-08'
-  date_end: null
-  location_in_record: ch9:17062-17252
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 3a69ca2b-003e-4d09-a6da-b4863c144601
-  claim_hash: 30b168c1f857fa9f025e6ee3a94c55f1bae496c7ea2e44ef0044926ec2293d76
-  content: Aimé Michel's initial psychosomatic explanation for the triangular pigmentation
-    had to be discarded after the same triangle appeared on the baby.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallee
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
-    title: Aimé Michel
-    slug: aime-michel
-  - node_id: b6a617c4-6c4a-4c14-9c48-1a81013dca14
-    title: Dr. X (French physician, Unidentified Flying Object (UFO) witness)
-    slug: unidentified-flying-object-ufo-witness-dr-x-french-physician
-  date: null
-  date_end: null
-  location_in_record: ch9:18069-18139
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 5b69a871-abd5-4a52-b6e5-169e830e8b29
-  claim_hash: 0afe6d4884f2e4b1dc953d357185b401d5afcf3474184cd864cfe1b2c070d4f1
-  content: The investigator's two-year followup of the Dr. X case found no recurrence
-    of either the Algerian war sequelae or the leg wound, but the triangular pigmentation
-    continued to appear and disappear on both Dr. X and his son for two or three days
-    at a time.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Aimé Michel
-    relay:
-    - Jacques Vallee
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
-    title: Aimé Michel
-    slug: aime-michel
-  - node_id: b6a617c4-6c4a-4c14-9c48-1a81013dca14
-    title: Dr. X (French physician, Unidentified Flying Object (UFO) witness)
-    slug: unidentified-flying-object-ufo-witness-dr-x-french-physician
-  date: null
-  date_end: null
-  location_in_record: ch9:18151-18514
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+    title: Plato
+    node_type: person
+    slug: plato
+    shared_claims: 1
+  - node_id: 062f6ed5-feee-4d01-a76c-44d4b6b4dbc9
+    title: Ptolemaeus
+    node_type: person
+    slug: ptolemaeus
+    shared_claims: 1
+  - node_id: b3a417af-0df0-46fd-b152-f6200dcc81bb
+    title: Rémy Chauvin
+    node_type: person
+    slug: remy-chauvin
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+claims:
+  - claim_id: 67dc6004-20be-4765-97c4-bade46be7a74
+    claim_hash: 85a9eff53763505254ec261a7868bb97a8afc4c5e6bf03a769c5726e0ed132f7
+    content: Aimé Michel observed that none of the brilliant minds among the disciples of Aristotle and Plato speculated that
+      the spread of religious "lunacy" among their ignorant slaves might eventually spell the end of the Classical World.
+    original_excerpt: Aimé Michel, the noted French author, has pointed out that none of these brilliant minds speculated
+      for a second that such “lunacy,” spreading among their ignorant slaves, might eventually spell the end of the Classical
+      World.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Aimé Michel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+        title: Aimé Michel
+        slug: aime-michel
+    date: null
+    date_end: null
+    location_in_record: ch4:22726-22946
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 6e349cda-a264-4c2d-a3e0-6116e50763f4
+    claim_hash: 072a51cdd7e2c48f81767cb5b15d2de50c69026f2d4ad93976a4befb428e17e9
+    content: The combination of the excellent witness, the strange physical trace, and the seemingly enigmatic nature of the
+      observation caused Aime Michel to conclude that the UFO (Unidentified Flying Object) mystery as a whole was unsolvable.
+    original_excerpt: The combination of the excellent witness, the strange physical trace, and the seemingly enigmatic nature
+      of the observation caused Mr. Michel to decide that the UFO mystery as a whole was unsolvable.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+      title: Aimé Michel
+    provenance_chain:
+      origin_kind: named
+      origin: Aime Michel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+        title: Aimé Michel
+        slug: aime-michel
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch14:107117-107305
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 66225489-1e24-421e-870a-5baa2ecb8104
+    claim_hash: d2079174205159ff4eae1d6b18e43379ee1207402e4359b9cc13180e6d0e2abe
+    content: In August 1974, Jacques Vallee was driving a Renault with Aimé Michel and Fernand Lagarde up a narrow road in
+      the valley of a mountain creek in the Alps, investigating the UMMO story near La Javie.
+    original_excerpt: In August, 1974, I was driving a Renault on a narrow, forlorn little road up the precipitous valley
+      of a mountain creek in the Alps. With me were Aimé Michel and Fernand Lagarde, two of the best-informed researchers
+      of paranormal phenomena in Europe.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 518fe13f-660a-4bf5-92ae-daca8a23942d
+        title: 1974 Jacques Vallee, Aimé Michel and Fernand Lagarde La Javie investigation
+        slug: aime-michel-and-fernand-lagarde-la-javie-investigation-1974-jacques-vallee
+      - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+        title: Aimé Michel
+        slug: aime-michel
+      - node_id: 85630a19-d43d-4068-8c6f-eef39885337d
+        title: Fernand Lagarde
+        slug: fernand-lagarde
+    date: 1974-08
+    date_end: null
+    location_in_record: ch12:30278-30521
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 84930001-8c73-4101-aa2f-26412e0637bd
+    claim_hash: e4ee88361caa614a8a3191675985f08fcb794f5a492b6934ea61996160752a36
+    content: Aimé Michel suggests imagining an Alexandrine thinker such as Ptolemaeus, trained in the rational methods of
+      Archimedes, Euclid, and Aristotle, encountering the Apocalypse (Book of Revelation) and reacting with dismissal.
+    original_excerpt: 'Commenting upon this parallel, Aimé Michel suggests that we picture the following scene: Take one of
+      the Alexandrine thinkers, a man like Ptolemaeus, thoroughly schooled in the rational methods of Archimedes, Euclid,
+      and Aristotle. And imagine him reading the Apocalypse...'
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+      title: Aimé Michel
+    provenance_chain:
+      origin_kind: named
+      origin: Aimé Michel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 062f6ed5-feee-4d01-a76c-44d4b6b4dbc9
+        title: Ptolemaeus
+        slug: ptolemaeus
+      - node_id: 33f33971-ed63-4558-9881-e771eb40022b
+        title: Book of Revelation (Apocalypse)
+        slug: book-of-revelation-apocalypse
+      - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+        title: Aimé Michel
+        slug: aime-michel
+      - node_id: 9bba2054-4b12-4438-b49c-898ce724ec22
+        title: Euclid
+        slug: euclid
+      - node_id: f56b0ad8-77c2-4759-b83d-f724f88c17ae
+        title: Aristotle
+        slug: aristotle
+      - node_id: f7ae4236-bede-45ec-9e67-d99b47289ec8
+        title: Archimedes
+        slug: archimedes
+    date: null
+    date_end: null
+    location_in_record: ch14:3280-3540
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: dcf77260-f229-481f-88a4-d2ecc3d747eb
+    claim_hash: 3b7953964173f0d4da6981b87905b277b000e154d32775e6fc4b8f641a122878
+    content: Aimé Michel considers that the counterculture expressed through the Apocalypse (Book of Revelation) eventually
+      triumphed and Plato was forgotten for a thousand years.
+    original_excerpt: A short time—a very short time—elapsed, the counterculture triumphed, and Plato was forgotten for a
+      thousand years. Is this what is happening again?
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+      title: Aimé Michel
+    provenance_chain:
+      origin_kind: named
+      origin: Aimé Michel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33f33971-ed63-4558-9881-e771eb40022b
+        title: Book of Revelation (Apocalypse)
+        slug: book-of-revelation-apocalypse
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+      - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+        title: Aimé Michel
+        slug: aime-michel
+    date: null
+    date_end: null
+    location_in_record: ch14:4226-4368
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: ca686ac8-499f-4334-bcd5-63b35bcb5044
+    claim_hash: 21ea217318857d546daf7db063f9d5d139a72d0e80f7cff39957ed8e0eeb124d
+    content: Fred Beckman, William T. Powers, Douglass Price-Williams and Ted Phillips were joined by French researchers in
+      philosopher Aimé Michel's circle, including planetary astronomer Pierre Guérin, Sorbonne biologist and parapsychologist
+      Rémy Chauvin, relativist Olivier Costa de Beauregard, and aerospace expert Claude Poher at the National Centre for Space
+      Studies (CNES).
+    original_excerpt: They were joined by distinguished French researchers in philosopher Aimé Michel’s circle, like planetary
+      astronomer Pierre Guérin, Sorbonne biologist and parapsychologist Rémy Chauvin, and relativist Olivier Costa de Beauregard,
+      along with aerospace expert Dr. Claude Poher at CNES.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+        title: Aimé Michel
+        slug: aime-michel
+      - node_id: 7d9d2f1c-57b1-4801-97b3-fafbb1278ea9
+        title: Olivier Costa de Beauregard
+        slug: olivier-costa-de-beauregard
+      - node_id: b3a417af-0df0-46fd-b152-f6200dcc81bb
+        title: Rémy Chauvin
+        slug: remy-chauvin
+      - node_id: bdf81b1d-d06b-492c-b020-d3926fc76b14
+        title: National Centre for Space Studies (CNES)
+        slug: national-centre-for-space-studies-cnes
+      - node_id: d59b3e14-cb0b-451d-9864-be08bc78133d
+        title: Claude Poher
+        slug: claude-poher
+      - node_id: da036800-30a7-4c4d-b57a-21dca53ce073
+        title: Pierre Guérin
+        slug: pierre-guerin
+    date: null
+    date_end: null
+    location_in_record: ch7:1818-2095
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 49b359a7-957a-48d0-8056-459e2d66cfaa
+    claim_hash: b47aeaec4dd0816e25128d0086c0df48f8a02671d30bd2314cb6a2615c5b0eb4
+    content: Aimé Michel visited Dr. X on 8 November 1968, six days after the sighting, and found him tired, having lost weight
+      and being very much distressed by the experience.
+    original_excerpt: Mr. Michel visited the witness on November 8, six days after the sighting, and found him tired; he had
+      lost weight since the observation and was very much distressed by what had happened to him.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Aimé Michel
+      relay:
+        - Jacques Vallee
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+        title: Aimé Michel
+        slug: aime-michel
+      - node_id: b6a617c4-6c4a-4c14-9c48-1a81013dca14
+        title: Dr. X (French physician, UFO witness)
+        slug: ufo-witness-dr-x-french-physician
+    date: '1968-11-08'
+    date_end: null
+    location_in_record: ch9:17062-17252
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 3a69ca2b-003e-4d09-a6da-b4863c144601
+    claim_hash: 30b168c1f857fa9f025e6ee3a94c55f1bae496c7ea2e44ef0044926ec2293d76
+    content: Aimé Michel's initial psychosomatic explanation for the triangular pigmentation had to be discarded after the
+      same triangle appeared on the baby.
+    original_excerpt: The psychosomatic explanation first proposed by Aimé Michel had to be discarded.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+        title: Aimé Michel
+        slug: aime-michel
+      - node_id: b6a617c4-6c4a-4c14-9c48-1a81013dca14
+        title: Dr. X (French physician, UFO witness)
+        slug: ufo-witness-dr-x-french-physician
+    date: null
+    date_end: null
+    location_in_record: ch9:18069-18139
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 5b69a871-abd5-4a52-b6e5-169e830e8b29
+    claim_hash: 0afe6d4884f2e4b1dc953d357185b401d5afcf3474184cd864cfe1b2c070d4f1
+    content: The investigator's two-year followup of the Dr. X case found no recurrence of either the Algerian war sequelae
+      or the leg wound, but the triangular pigmentation continued to appear and disappear on both Dr. X and his son for two
+      or three days at a time.
+    original_excerpt: When the investigator (who kept the witness under close observation) published the results of his two-year
+      followup of the case, he noted that there had been no recurrence of either the war sequelae or the wound on the leg;
+      the peculiar triangle, however, continued to come and go on both the father and the son, and would stay visible for
+      two or three days at a time
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Aimé Michel
+      relay:
+        - Jacques Vallee
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+        title: Aimé Michel
+        slug: aime-michel
+      - node_id: b6a617c4-6c4a-4c14-9c48-1a81013dca14
+        title: Dr. X (French physician, UFO witness)
+        slug: ufo-witness-dr-x-french-physician
+    date: null
+    date_end: null
+    location_in_record: ch9:18151-18514
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has

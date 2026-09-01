@@ -9,371 +9,386 @@ page:
   claim_count: 8
   claim_count_total: 8
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 8
+  tokens_estimated: 2269
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 8
 related_nodes:
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 6
-- node_id: 85687100-9edf-4780-9111-ae7215a839c4
-  title: Afghanistan
-  node_type: place
-  slug: afghanistan
-  shared_claims: 1
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 1
-- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-  title: Eric Davis
-  node_type: person
-  slug: eric-davis
-  shared_claims: 1
-- node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
-  title: Iraq
-  node_type: place
-  slug: iraq
-  shared_claims: 1
-- node_id: d9532953-68e1-4f10-bfc3-a62ab2c428bc
-  title: Jennifer
-  node_type: person
-  slug: jennifer
-  shared_claims: 1
-- node_id: 47d98cb7-3dda-4514-9ae7-e83c6cc8692b
-  title: John Robert
-  node_type: person
-  slug: john-robert
-  shared_claims: 1
-- node_id: ae35ae4d-502f-4da0-8f3d-dc2fd0b7b479
-  title: Korean National Police (KNP)
-  node_type: organisation
-  slug: korean-national-police-knp
-  shared_claims: 1
-- node_id: b5685df3-49b4-442d-bfd1-423ccdc74e5f
-  title: Kuwait
-  node_type: place
-  slug: kuwait
-  shared_claims: 1
-- node_id: 3e75e8ca-8004-44d5-9dc7-19d09dba8607
-  title: USA, Maryland, University of Maryland
-  node_type: place
-  slug: maryland-university-of-maryland-usa
-  shared_claims: 1
-- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-  title: United States Air Force (USAF)
-  node_type: organisation
-  slug: united-states-air-force-usaf
-  shared_claims: 1
-claims:
-- claim_id: cb7610c3-4255-467d-8690-50215be7b463
-  claim_hash: 31770eaab8e841e07a58b9d623477010c4c88935130debebe459cc8c49549db1
-  content: In 1996, Dr Eric Davis was on secondment from the University of Maryland
-    at a US Air Force fighter wing in South Korea when he read an advertisement in
-    a physics magazine seeking research scientists interested in studying the foundations
-    of spacetime, the universe and the physics of consciousness.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 3e75e8ca-8004-44d5-9dc7-19d09dba8607
-    title: USA, Maryland, University of Maryland
-    slug: maryland-university-of-maryland-usa
-  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-    slug: eric-davis
-  - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
-    title: South Korea
-    slug: south-korea
-  date: '1996'
-  date_end: null
-  location_in_record: ch15:8882-9177
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 19dd60c4-3c16-4ada-aa5a-30cab0a87ace
-  claim_hash: 344d5c2138607f2420c035b4c32985b396427a7a51d2e07ef669645a792637c9
-  content: Luis Elizondo's first Army assignment was to South Korea, shortly after
-    he and Jennifer, now married, had conceived their first child.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
   - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
+    node_type: person
     slug: luis-elizondo
-  - node_id: d9532953-68e1-4f10-bfc3-a62ab2c428bc
-    title: Jennifer
-    slug: jennifer
-  - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
-    title: South Korea
-    slug: south-korea
-  date: null
-  date_end: null
-  location_in_record: ch11:19290-19394
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: ec95c3ad-96da-4236-ab39-63a79d6a2135
-  claim_hash: c605df8a806b60c0becef2445b8ee608d622e90dce26419c5d6ac99540d51b91
-  content: While in South Korea, Luis Elizondo worked with the Korean Central Intelligence
-    Agency, the Korean National Police, and on a Special Projects surveillance team.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: ae35ae4d-502f-4da0-8f3d-dc2fd0b7b479
-    title: Korean National Police (KNP)
-    slug: korean-national-police-knp
-  - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
-    title: South Korea
-    slug: south-korea
-  date: null
-  date_end: null
-  location_in_record: ch11:19621-19767
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: e87df1da-7828-4a34-9060-90abc05dde08
-  claim_hash: 3880dbdf2533defc864a00f8bb00b233bdc91b80463591e16bd6bfa72a3565f6
-  content: Lue Elizondo took part in a training exercise in South Korea during a period
-    of heightened tensions with North Korea.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
-    title: South Korea
-    slug: south-korea
-  date: null
-  date_end: null
-  location_in_record: ch37:912-994
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 04b4a0df-9bce-4729-8fb0-11a7f19291c9
-  claim_hash: 08fc2033145bff6601ef7116cf46d4c185e355ff02b46716f6ce53776935867e
-  content: Luis Elizondo served in South Korea during his military and government
-    career.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
-    title: South Korea
-    slug: south-korea
-  date: null
-  date_end: null
-  location_in_record: ch38:565-712
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: dc7b2d53-488f-4358-a1ff-0b910870a12d
-  claim_hash: e6df93f99c8e7f3bc0f4e989264632988a2ba4b2c40d8f985f6cea770bc6b83b
-  content: Luis Elizondo's friend John Robert served with him in South Korea in the
-    1990s.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 47d98cb7-3dda-4514-9ae7-e83c6cc8692b
-    title: John Robert
-    slug: john-robert
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
-    title: South Korea
-    slug: south-korea
-  date: null
-  date_end: null
-  location_in_record: ch9:12986-13046
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 0ad15d16-f65d-4a33-bb01-7fe4ffd6872b
-  claim_hash: 3a0bddb3f64c2d4904d1d78938e3e0ae34c516e40561917a22bdf60462a456b7
-  content: Luis Elizondo had previously deployed to Afghanistan, Iraq, Kuwait, and
-    South Korea in his career.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
-    title: Iraq
-    slug: iraq
+    shared_claims: 6
   - node_id: 85687100-9edf-4780-9111-ae7215a839c4
     title: Afghanistan
+    node_type: place
     slug: afghanistan
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
+    shared_claims: 1
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    node_type: person
+    slug: eric-davis
+    shared_claims: 1
+  - node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
+    title: Iraq
+    node_type: place
+    slug: iraq
+    shared_claims: 1
+  - node_id: d9532953-68e1-4f10-bfc3-a62ab2c428bc
+    title: Jennifer
+    node_type: person
+    slug: jennifer
+    shared_claims: 1
+  - node_id: 47d98cb7-3dda-4514-9ae7-e83c6cc8692b
+    title: John Robert
+    node_type: person
+    slug: john-robert
+    shared_claims: 1
+  - node_id: ae35ae4d-502f-4da0-8f3d-dc2fd0b7b479
+    title: Korean National Police (KNP)
+    node_type: organisation
+    slug: korean-national-police-knp
+    shared_claims: 1
   - node_id: b5685df3-49b4-442d-bfd1-423ccdc74e5f
     title: Kuwait
+    node_type: place
     slug: kuwait
-  - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
-    title: South Korea
-    slug: south-korea
-  date: null
-  date_end: null
-  location_in_record: ch9:15185-15309
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: d9c18663-dc02-4308-bee7-b435b7f93a03
-  claim_hash: f74d38d4c77c7a3be315e663464f25cc19585cac728f8d6a958367ea7e1138d2
-  content: A video purporting to show a fast-moving craft resembling UAP-23 was uploaded
-    in 2012 and was filmed over South Korea, Busan.
-  original_excerpt: The second piece of evidence that I present to you folks is this
-    video here. This was uploaded in 2012, flown over Busan, South Korea.
-  claim_type: observation
-  attestation: null
-  speaker:
-    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-    title: Chris Ramsay
-  provenance_chain:
-    origin_kind: unattributed
-    origin: online video footage
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
-    title: South Korea
-    slug: south-korea
-  date: '2012'
-  date_end: null
-  location_in_record: 00:11:09.2-00:11:49.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
-    record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
-    record_date: '2024-10-02'
-    record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
-    content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 3e75e8ca-8004-44d5-9dc7-19d09dba8607
+    title: USA, Maryland, University of Maryland
+    node_type: place
+    slug: maryland-university-of-maryland-usa
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
+claims:
+  - claim_id: cb7610c3-4255-467d-8690-50215be7b463
+    claim_hash: 31770eaab8e841e07a58b9d623477010c4c88935130debebe459cc8c49549db1
+    content: In 1996, Dr Eric Davis was on secondment from the University of Maryland at a US Air Force fighter wing in South
+      Korea when he read an advertisement in a physics magazine seeking research scientists interested in studying the foundations
+      of spacetime, the universe and the physics of consciousness.
+    original_excerpt: In 1996, Dr Eric Davis was on secondment from the University of Maryland, at a US Air Force fighter
+      wing in South Korea, when he read an intriguing ad in a physics magazine seeking to hire research scientists interested
+      in studying the 'foundations of spacetime, the universe and the physics of consciousness'.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 3e75e8ca-8004-44d5-9dc7-19d09dba8607
+        title: USA, Maryland, University of Maryland
+        slug: maryland-university-of-maryland-usa
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
+        title: South Korea
+        slug: south-korea
+    date: '1996'
+    date_end: null
+    location_in_record: ch15:8882-9177
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 19dd60c4-3c16-4ada-aa5a-30cab0a87ace
+    claim_hash: 344d5c2138607f2420c035b4c32985b396427a7a51d2e07ef669645a792637c9
+    content: Luis Elizondo's first Army assignment was to South Korea, shortly after he and Jennifer, now married, had conceived
+      their first child.
+    original_excerpt: My first assignment was to South Korea, just after Jennifer and I, now married, had conceived our first
+      child.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: d9532953-68e1-4f10-bfc3-a62ab2c428bc
+        title: Jennifer
+        slug: jennifer
+      - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
+        title: South Korea
+        slug: south-korea
+    date: null
+    date_end: null
+    location_in_record: ch11:19290-19394
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: ec95c3ad-96da-4236-ab39-63a79d6a2135
+    claim_hash: c605df8a806b60c0becef2445b8ee608d622e90dce26419c5d6ac99540d51b91
+    content: While in South Korea, Luis Elizondo worked with the Korean Central Intelligence Agency, the Korean National Police,
+      and on a Special Projects surveillance team.
+    original_excerpt: I spent much of my time in Korea working with the Korean CIA (KCIA), with the Korean National Police
+      (KNP), or on a Special Projects surveillance team.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: ae35ae4d-502f-4da0-8f3d-dc2fd0b7b479
+        title: Korean National Police (KNP)
+        slug: korean-national-police-knp
+      - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
+        title: South Korea
+        slug: south-korea
+    date: null
+    date_end: null
+    location_in_record: ch11:19621-19767
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e87df1da-7828-4a34-9060-90abc05dde08
+    claim_hash: 3880dbdf2533defc864a00f8bb00b233bdc91b80463591e16bd6bfa72a3565f6
+    content: Lue Elizondo took part in a training exercise in South Korea during a period of heightened tensions with North
+      Korea.
+    original_excerpt: Training exercise in South Korea, during an era of heightened tensions with North Korea.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
+        title: South Korea
+        slug: south-korea
+    date: null
+    date_end: null
+    location_in_record: ch37:912-994
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 04b4a0df-9bce-4729-8fb0-11a7f19291c9
+    claim_hash: 08fc2033145bff6601ef7116cf46d4c185e355ff02b46716f6ce53776935867e
+    content: Luis Elizondo served in South Korea during his military and government career.
+    original_excerpt: later served his country throughout the world, including South Korea, Latin America, the Caribbean,
+      Afghanistan, and other countries in the Middle East
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
+        title: South Korea
+        slug: south-korea
+    date: null
+    date_end: null
+    location_in_record: ch38:565-712
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: dc7b2d53-488f-4358-a1ff-0b910870a12d
+    claim_hash: e6df93f99c8e7f3bc0f4e989264632988a2ba4b2c40d8f985f6cea770bc6b83b
+    content: Luis Elizondo's friend John Robert served with him in South Korea in the 1990s.
+    original_excerpt: We have been friends since serving together in Korea in the 1990s.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 47d98cb7-3dda-4514-9ae7-e83c6cc8692b
+        title: John Robert
+        slug: john-robert
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
+        title: South Korea
+        slug: south-korea
+    date: null
+    date_end: null
+    location_in_record: ch9:12986-13046
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 0ad15d16-f65d-4a33-bb01-7fe4ffd6872b
+    claim_hash: 3a0bddb3f64c2d4904d1d78938e3e0ae34c516e40561917a22bdf60462a456b7
+    content: Luis Elizondo had previously deployed to Afghanistan, Iraq, Kuwait, and South Korea in his career.
+    original_excerpt: In my previous jobs, I had been everywhere on the planet where the US engaged its enemies. Afghanistan.
+      Iraq. Kuwait. South Korea.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
+        title: Iraq
+        slug: iraq
+      - node_id: 85687100-9edf-4780-9111-ae7215a839c4
+        title: Afghanistan
+        slug: afghanistan
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: b5685df3-49b4-442d-bfd1-423ccdc74e5f
+        title: Kuwait
+        slug: kuwait
+      - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
+        title: South Korea
+        slug: south-korea
+    date: null
+    date_end: null
+    location_in_record: ch9:15185-15309
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: d9c18663-dc02-4308-bee7-b435b7f93a03
+    claim_hash: f74d38d4c77c7a3be315e663464f25cc19585cac728f8d6a958367ea7e1138d2
+    content: A video purporting to show a fast-moving craft resembling UAP-23 was uploaded in 2012 and was filmed over South
+      Korea, Busan.
+    original_excerpt: The second piece of evidence that I present to you folks is this video here. This was uploaded in 2012,
+      flown over Busan, South Korea.
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: unattributed
+      origin: online video footage
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ee11295f-b64d-4fff-9a97-e3f354671cb9
+        title: South Korea
+        slug: south-korea
+    date: '2012'
+    date_end: null
+    location_in_record: 00:11:09.2-00:11:49.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+      record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+      record_date: '2024-10-02'
+      record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+      content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+      friendly_name: null

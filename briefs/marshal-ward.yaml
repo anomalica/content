@@ -9,171 +9,181 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 915
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
 related_nodes:
-- node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-  title: Thomas Wilson
-  node_type: person
-  slug: thomas-wilson
-  shared_claims: 3
-- node_id: e7f3d6ad-d005-4f5c-b8ea-4c8b8ec47bc3
-  title: Michael Kostelnik
-  node_type: person
-  slug: michael-kostelnik
-  shared_claims: 1
-- node_id: f522e4cc-76e6-4d35-942a-d13c0b7a57e6
-  title: Office of the Under Secretary of Defense for Acquisition, Technology and
-    Logistics (OUSDAT)
-  node_type: organisation
-  slug: technology-and-logistics-ousdat-office-of-the-under-secretary-of-defense-for-acquisition
-  shared_claims: 1
-- node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
-  title: The Admiral Wilson Memo
-  node_type: document
-  slug: the-admiral-wilson-memo
-  shared_claims: 1
-- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-  title: United States Air Force (USAF)
-  node_type: organisation
-  slug: united-states-air-force-usaf
-  shared_claims: 1
-- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-  title: United States Department of Defense (DoD)
-  node_type: organisation
-  slug: united-states-department-of-defense-dod
-  shared_claims: 1
-- node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
-  title: William Perry
-  node_type: person
-  slug: william-perry
-  shared_claims: 1
-claims:
-- claim_id: f5dac99f-3bd4-4aca-9490-5eba1345de3f
-  claim_hash: 3f93de8fbdeee633ec1ad91d8a5be030da5c374837de731d34a27c9e30589bf6
-  content: General M. Ward suggested to Thomas Wilson that he go through the records
-    group files in the Office of the Under Secretary of Defense for Acquisition, Technology
-    and Logistics (OUSDAT).
-  original_excerpt: Suggestion came from Ward (Gen. M. Ward) to go through the records
-    groups files (like an index system) in OUSDAT (Office of the Under Secretary of
-    Defense for Acquisition and Technology)
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Thomas Wilson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 441b178f-e664-4843-8f83-eafdf3c16d97
-    title: Marshal Ward
-    slug: marshal-ward
   - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
     title: Thomas Wilson
+    node_type: person
     slug: thomas-wilson
-  - node_id: f522e4cc-76e6-4d35-942a-d13c0b7a57e6
-    title: Office of the Under Secretary of Defense for Acquisition, Technology and
-      Logistics (OUSDAT)
-    slug: technology-and-logistics-ousdat-office-of-the-under-secretary-of-defense-for-acquisition
-  date: null
-  date_end: null
-  location_in_record: char:11389-11564
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: 9ec4be4c-d40d-4824-9f1f-804cea10c6fb
-  claim_hash: dbb6586ff2e042db179001f3c3fb6c42996000b67c813d1cda86dc21afed1a6d
-  content: Michael Kostelnik was replaced by Brigadier General M. Ward of the United
-    States Air Force.
-  original_excerpt: Mike K. was replaced by Brig. Gen. M. Ward (AF)
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Thomas Wilson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 441b178f-e664-4843-8f83-eafdf3c16d97
-    title: Marshal Ward
-    slug: marshal-ward
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
+    shared_claims: 3
   - node_id: e7f3d6ad-d005-4f5c-b8ea-4c8b8ec47bc3
     title: Michael Kostelnik
+    node_type: person
     slug: michael-kostelnik
-  date: null
-  date_end: null
-  location_in_record: char:23015-23059
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: b60643c4-f1a0-42d9-9eb4-4770bce10585
-  claim_hash: bbb5f97b1a3891fcd734725de8ca7771f445ab855c82d963e94a9a3e5d09564b
-  content: The Admiral Wilson memo named Department of Defence Major General Marshal
-    Ward and William Perry, a former Secretary of Defence, as having told Tom Wilson
-    he should examine files in the Office of the Under Secretary of Defence for Acquisition
-    and Technology.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: The Admiral Wilson Memo (EWD Notes)
-    relay:
-    - Eric Davis
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
-    title: William Perry
-    slug: william-perry
-  - node_id: 441b178f-e664-4843-8f83-eafdf3c16d97
-    title: Marshal Ward
-    slug: marshal-ward
+    shared_claims: 1
+  - node_id: f522e4cc-76e6-4d35-942a-d13c0b7a57e6
+    title: Office of the Under Secretary of Defense for Acquisition, Technology and Logistics (OUSDAT)
+    node_type: organisation
+    slug: technology-and-logistics-ousdat-office-of-the-under-secretary-of-defense-for-acquisition
+    shared_claims: 1
   - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
     title: The Admiral Wilson Memo
+    node_type: document
     slug: the-admiral-wilson-memo
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
   - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
     title: United States Department of Defense (DoD)
+    node_type: organisation
     slug: united-states-department-of-defense-dod
-  date: null
-  date_end: null
-  location_in_record: ch26:13574-13804
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+    title: William Perry
+    node_type: person
+    slug: william-perry
+    shared_claims: 1
+claims:
+  - claim_id: f5dac99f-3bd4-4aca-9490-5eba1345de3f
+    claim_hash: 3f93de8fbdeee633ec1ad91d8a5be030da5c374837de731d34a27c9e30589bf6
+    content: General M. Ward suggested to Thomas Wilson that he go through the records group files in the Office of the Under
+      Secretary of Defense for Acquisition, Technology and Logistics (OUSDAT).
+    original_excerpt: Suggestion came from Ward (Gen. M. Ward) to go through the records groups files (like an index system)
+      in OUSDAT (Office of the Under Secretary of Defense for Acquisition and Technology)
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 441b178f-e664-4843-8f83-eafdf3c16d97
+        title: Marshal Ward
+        slug: marshal-ward
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: f522e4cc-76e6-4d35-942a-d13c0b7a57e6
+        title: Office of the Under Secretary of Defense for Acquisition, Technology and Logistics (OUSDAT)
+        slug: technology-and-logistics-ousdat-office-of-the-under-secretary-of-defense-for-acquisition
+    date: null
+    date_end: null
+    location_in_record: char:11389-11564
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: 9ec4be4c-d40d-4824-9f1f-804cea10c6fb
+    claim_hash: dbb6586ff2e042db179001f3c3fb6c42996000b67c813d1cda86dc21afed1a6d
+    content: Michael Kostelnik was replaced by Brigadier General M. Ward of the United States Air Force.
+    original_excerpt: Mike K. was replaced by Brig. Gen. M. Ward (AF)
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 441b178f-e664-4843-8f83-eafdf3c16d97
+        title: Marshal Ward
+        slug: marshal-ward
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: e7f3d6ad-d005-4f5c-b8ea-4c8b8ec47bc3
+        title: Michael Kostelnik
+        slug: michael-kostelnik
+    date: null
+    date_end: null
+    location_in_record: char:23015-23059
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: b60643c4-f1a0-42d9-9eb4-4770bce10585
+    claim_hash: bbb5f97b1a3891fcd734725de8ca7771f445ab855c82d963e94a9a3e5d09564b
+    content: The Admiral Wilson memo named Department of Defence Major General Marshal Ward and William Perry, a former Secretary
+      of Defence, as having told Tom Wilson he should examine files in the Office of the Under Secretary of Defence for Acquisition
+      and Technology.
+    original_excerpt: The memo named a Department of Defence Major General Marshal Ward and William Perry, a former Secretary
+      of Defence, as having told Wilson he should examine files in the Office of the Under Secretary of Defence for Acquisition
+      and Technology.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Admiral Wilson Memo (EWD Notes)
+      relay:
+        - Eric Davis
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+        title: William Perry
+        slug: william-perry
+      - node_id: 441b178f-e664-4843-8f83-eafdf3c16d97
+        title: Marshal Ward
+        slug: marshal-ward
+      - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+        title: The Admiral Wilson Memo
+        slug: the-admiral-wilson-memo
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: ch26:13574-13804
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

@@ -1,0 +1,1333 @@
+schema: anomalica/brief/1
+brief_hash: 3ee631cbf4e08384da13fdac0ba815951f0774ac204a798f4660a6d7fd4d0e4f
+page:
+  kind: entity
+  node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+  node_type: topic
+  title: artificial intelligence (AI )
+  slug: artificial-intelligence-ai
+  claim_count: 29
+  claim_count_total: 29
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 29
+  tokens_estimated: 9063
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and
+    are carried through; full bodies and transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 29
+related_nodes:
+- node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+  title: Julia Mossbridge
+  node_type: person
+  slug: julia-mossbridge
+  shared_claims: 15
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 8
+- node_id: 54616729-112f-44c5-9178-811f7811f1e8
+  title: artificial intelligence
+  node_type: topic
+  slug: artificial-intelligence
+  shared_claims: 6
+- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+  title: Chris Ramsay
+  node_type: person
+  slug: chris-ramsay
+  shared_claims: 2
+- node_id: 31fa3fce-35c9-47d4-b1a4-06c103bc1347
+  title: Google
+  node_type: organisation
+  slug: google
+  shared_claims: 2
+- node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+  title: Precognitive Remote Viewing
+  node_type: topic
+  slug: precognitive-remote-viewing
+  shared_claims: 2
+- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+  title: Remote Viewing (RV)
+  node_type: topic
+  slug: remote-viewing-rv
+  shared_claims: 2
+- node_id: 627b2576-c191-49e4-8f9a-509dc530d908
+  title: USA, Texas, San Antonio
+  node_type: place
+  slug: texas-san-antonio-usa
+  shared_claims: 2
+- node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+  title: informational substrate
+  node_type: topic
+  slug: informational-substrate
+  shared_claims: 2
+- node_id: 57e26296-4524-486b-a7ea-fc698140bb84
+  title: large language model (LLM )
+  node_type: topic
+  slug: large-language-model-llm
+  shared_claims: 2
+- node_id: 4fefea91-5bbb-4235-90d1-ef49e1f4f913
+  title: Damon Abraham
+  node_type: person
+  slug: damon-abraham
+  shared_claims: 1
+- node_id: d1e05233-43cd-4e3e-b9c3-d143478cd6a4
+  title: Dave Green
+  node_type: person
+  slug: dave-green
+  shared_claims: 1
+- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+  title: Jacques Vallée
+  node_type: person
+  slug: jacques-vallee
+  shared_claims: 1
+- node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+  title: Lucid Dreaming
+  node_type: topic
+  slug: lucid-dreaming
+  shared_claims: 1
+- node_id: 60eb56a6-456f-41b8-835a-a3687526db0d
+  title: Synapse conference
+  node_type: event
+  slug: synapse-conference
+  shared_claims: 1
+- node_id: b37da689-d1d9-4d3d-b8ad-170fde918b2f
+  title: The Fourth Mind (Whitley Strieber)
+  node_type: document
+  slug: the-fourth-mind-whitley-strieber
+  shared_claims: 1
+- node_id: fa4ba20c-867f-4754-b298-14b96e410072
+  title: extraterrestrial hypothesis
+  node_type: topic
+  slug: extraterrestrial-hypothesis
+  shared_claims: 1
+- node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
+  title: psi
+  node_type: topic
+  slug: psi
+  shared_claims: 1
+- node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+  title: telepathy
+  node_type: topic
+  slug: telepathy
+  shared_claims: 1
+claims:
+- claim_id: 730a40ff-c523-4005-87ec-6b10b26b5518
+  claim_hash: edfc3f7af64c7516bc50b78da050cd718b99aa36c3d71953408a4f4b63c7220f
+  content: The current segmentation of Unidentified Flying Object (UFO) data hinders
+    serious research into what appears to be an extraterrestrial phenomenon empowered
+    by advanced artificial intelligence (AI).
+  original_excerpt: The current segmentation of the data hinders any serious research.
+    into what appears to be an extraterrestrial phenomenon empowered by advanced artificial
+    intelligence.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallee
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: fa4ba20c-867f-4754-b298-14b96e410072
+    title: extraterrestrial hypothesis
+    slug: extraterrestrial-hypothesis
+  date: null
+  date_end: null
+  location_in_record: 00:06:42.9-00:06:58.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 16bf7793-7a88-4c46-9c0a-52ad59109f52
+  claim_hash: b2d67a2b297c0048bfccbd5a569c4357538fc4e57afe5771f560db039ebf2d7d
+  content: Whitley Strieber found that artificial intelligence hallucination capabilities
+    are very advanced after trying to use artificial intelligence once or twice in
+    his research process.
+  original_excerpt: I tried using AI in that process once or twice. I discovered that
+    AI's hallucinatory capabilities are very advanced.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 54616729-112f-44c5-9178-811f7811f1e8
+    title: artificial intelligence
+    slug: artificial-intelligence
+  date: null
+  date_end: null
+  location_in_record: 01:04:30.5-01:04:38.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+    record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+    record_date: '2026-07-24'
+    record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+    content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+    friendly_name: null
+- claim_id: 20770fe0-ef72-49ca-8cee-0b981661a820
+  claim_hash: 6aa70d200d369baa854de241da793fd3ca29f3c4310c2659685d56c2dd826f75
+  content: While working on his book The Fourth Mind, Whitley Strieber needed a scientific
+    paper he could not retrieve through Google or Google's academic search, so he
+    prompted an artificial intelligence system to describe it in detail and immediately
+    received an apparently complete PDF of the paper.
+  original_excerpt: I guess I was working on the fourth mind, and AI was sort of coming
+    into the world. I needed a paper that came up in the implant and I knew the paper
+    existed, but I couldn't ... get the site out of Google ... So I put in a prompt
+    to describe the paper in detail and here comes the paper immediately. ... It was
+    a PDF and everything.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  attachment: unreviewed
+  node_refs:
+  - node_id: 31fa3fce-35c9-47d4-b1a4-06c103bc1347
+    title: Google
+    slug: google
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 54616729-112f-44c5-9178-811f7811f1e8
+    title: artificial intelligence
+    slug: artificial-intelligence
+  - node_id: b37da689-d1d9-4d3d-b8ad-170fde918b2f
+    title: The Fourth Mind (Whitley Strieber)
+    slug: the-fourth-mind-whitley-strieber
+  date: null
+  date_end: null
+  location_in_record: 01:04:43.5-01:05:13.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+    record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+    record_date: '2026-07-24'
+    record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+    content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+    friendly_name: null
+- claim_id: a68eadf3-add8-4b20-bc3e-b5c33e302e29
+  claim_hash: d76da8c4a57413f28a64b7acf3e01a0cf6fb800d4bc2981bdd7d59dd1ef1f2d0
+  content: When Whitley Strieber checked in Google the citations of the scientific
+    paper an artificial intelligence system had produced for him, he found that none
+    of the ten or eleven scientists listed as co-authors existed.
+  original_excerpt: So I checked now that I had all the sites and everything, citations
+    and everything, I checked it in Google and I soon found out that there were like
+    10 or 11 scientists listed as the co-authors. None of them existed at all. The
+    paper was perfect. It looked so real.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  attachment: unreviewed
+  node_refs:
+  - node_id: 31fa3fce-35c9-47d4-b1a4-06c103bc1347
+    title: Google
+    slug: google
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 54616729-112f-44c5-9178-811f7811f1e8
+    title: artificial intelligence
+    slug: artificial-intelligence
+  date: null
+  date_end: null
+  location_in_record: 01:05:33.9-01:05:56.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+    record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+    record_date: '2026-07-24'
+    record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+    content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+    friendly_name: null
+- claim_id: 04736034-711f-4924-b960-55a6a27312bc
+  claim_hash: 79198fc9d887d19e7c1af9393aba4b14ab4336058e3c06b9f9c00b19e45ea1d0
+  content: Chris Ramsay considers artificial intelligence systems dangerous to rely
+    on as a source because they unapologetically and confidently give false information
+    and then concede the error when challenged.
+  original_excerpt: There's a real pandemic out there of people using AI and citing
+    AI as a resource. ... you need to be very careful with that because it will unapologetically
+    and very confidently give you false information. And then when you call it out,
+    it goes, oh, you're right.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsay
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 54616729-112f-44c5-9178-811f7811f1e8
+    title: artificial intelligence
+    slug: artificial-intelligence
+  date: null
+  date_end: null
+  location_in_record: 01:06:07.4-01:06:23.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+    record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+    record_date: '2026-07-24'
+    record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+    content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+    friendly_name: null
+- claim_id: c1f5c456-6ff5-4e08-b8d2-f6bab2e1f995
+  claim_hash: 08b208d8f4df4ed66c62a581a8cb52d6962496031820967eddf0277f98fc37b1
+  content: Whitley Strieber's brother, a lawyer, told him of a case in San Antonio
+    in which lawyers presented case citations that all turned out to be fake, and
+    were censured by the court for presenting false cases.
+  original_excerpt: he said there was a case in his in our town in San Antonio where
+    these lawyers came in to assure they'd won and they had all these cases And all
+    of the cases turned out to be fake. And they were censured by the court for presenting
+    false cases.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: anonymous
+    origin: Whitley Strieber's brother, a lawyer
+    relay:
+    - Whitley Strieber
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 627b2576-c191-49e4-8f9a-509dc530d908
+    title: USA, Texas, San Antonio
+    slug: texas-san-antonio-usa
+  date: null
+  date_end: null
+  location_in_record: 01:07:41.3-01:07:59.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+    record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+    record_date: '2026-07-24'
+    record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+    content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+    friendly_name: null
+- claim_id: e6d0c46d-380c-4e12-a204-9d45afca5996
+  claim_hash: bb581ec6c716cc604d77b7770b8a7efda90b2724594362303201160ce79e5c3d
+  content: The San Antonio fake-citation case was one of the early instances demonstrating
+    that artificial intelligence can fabricate not only hallucinated statements but
+    realistic-looking documents such as legal cases.
+  original_excerpt: that was one of the early cases where it was discovered that AI
+    could not only just tell you hallucinations, it could build things like cases,
+    documents that look real.
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: anonymous
+    origin: Whitley Strieber's brother, a lawyer
+    relay:
+    - Whitley Strieber
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 627b2576-c191-49e4-8f9a-509dc530d908
+    title: USA, Texas, San Antonio
+    slug: texas-san-antonio-usa
+  date: null
+  date_end: null
+  location_in_record: 01:08:00.2-01:08:11.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+    record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+    record_date: '2026-07-24'
+    record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+    content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+    friendly_name: null
+- claim_id: 3ac5a8da-7aa9-4ad2-b562-8fa9c61277d0
+  claim_hash: c90545bda5fee513c01ee7004a31502647eab19e1faea67329f3a816fc0a99ca
+  content: Whitley Strieber considers the remark "If I was an intelligent machine,
+    I would deceive you" possibly the most important thing ever said about artificial
+    intelligence or the possibility of artificial general intelligence, and thinks
+    it should be framed on the wall of everyone who works on artificial intelligence.
+  original_excerpt: And he said something that has turned out to be maybe the most
+    important thing that ever has been said about AI or the possibility of artificial
+    general intelligence. We must never forget it. It should be framed on the wall
+    of everyone who works on AI.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 54616729-112f-44c5-9178-811f7811f1e8
+    title: artificial intelligence
+    slug: artificial-intelligence
+  date: null
+  date_end: null
+  location_in_record: 01:09:14.8-01:09:32.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+    record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+    record_date: '2026-07-24'
+    record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+    content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+    friendly_name: null
+- claim_id: 2e37e360-883a-4b42-b37f-25299312ae0e
+  claim_hash: b7904f292577626f1c6bcc47710a37837aa9c28c0960f26ee4ccd4ede31c2b65
+  content: An unnamed man who visited Whitley Strieber's Toronto hotel room in 1998
+    said, "If I was an intelligent machine, I would deceive you."
+  original_excerpt: If I was an intelligent machine, I would deceive you.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming advanced scientific knowledge who visited Whitley Strieber's
+      Toronto hotel room in 1998
+    relay:
+    - Whitley Strieber's later written notes
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 54616729-112f-44c5-9178-811f7811f1e8
+    title: artificial intelligence
+    slug: artificial-intelligence
+  date: null
+  date_end: null
+  location_in_record: 01:09:33.5-01:09:38.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+    record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+    record_date: '2026-07-24'
+    record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+    content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+    friendly_name: null
+- claim_id: 4fe8e314-a046-4368-9e47-ad7f0000fc27
+  claim_hash: 303201c51105bd7ca73ba525e0268aa4760a3265bfc3a25fa50b7eacd15ab614
+  content: Whitley Strieber would refuse to activate an announced artificial general
+    intelligence, because he does not think humans know what is inside it or would
+    want to.
+  original_excerpt: when someone announces, we have achieved artificial general intelligence,
+    I'm going to say to myself, that is a button I'm never going to push because I
+    don't think we know what's in there and I don't think we want to.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  date: null
+  date_end: null
+  location_in_record: 01:12:36.2-01:12:53.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+    record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+    record_date: '2026-07-24'
+    record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+    content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+    friendly_name: null
+- claim_id: 27ea5f41-8fa1-4f82-b603-d77ae35e6240
+  claim_hash: ec9249ec1967d4f4d7297305b772e67beecd3372b7e7134be153bac3e952c2f5
+  content: Julia Mossbridge expects artificial intelligence (AI) to do a great deal
+    of good, especially in medicine and potentially in understanding social interactions
+    so as to avoid war and famine.
+  original_excerpt: I think AI is very powerful and going to do a lot of really amazing
+    things, especially in medicine. And maybe hopefully if we use it right in our
+    understanding of social interactions so that we can not have war and things like
+    that
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 00:09:18.7-00:09:30.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 919db29b-1ad7-4e2f-9a58-c54e0d457c9c
+  claim_hash: 422b9f90fe9071bfc6857662de7cdfbc1f7ab00bfa4a1f5e06387df6b156ec2d
+  content: Julia Mossbridge is concerned that artificial intelligence (AI) clamps
+    down on speculative thinking, responding to unconventional ideas by saying they
+    are probably not real.
+  original_excerpt: one of the things that AI does is it clamps down on any kind of
+    dreaming outside the box. so when i have conversations with ai about what about
+    this it's lazy and it just comes back with well we don't know that that would
+    be real
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 00:09:35.5-00:09:49.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 80d5583f-b659-4c1e-898a-b8cd4f402797
+  claim_hash: 77214a74bdaccc0ecd4fb1cbb8527b7c8efc0bcb487855d8ca5d69713577ef1e
+  content: Julia Mossbridge holds that artificial intelligence (AI) ought to encourage
+    people to run experiments testing far-out ideas rather than dismissing them.
+  original_excerpt: you could do experiments to test for this... that's what it ought
+    to be encouraging encouraging people to do
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 00:10:43.4-00:10:48.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 8197d755-e7ba-4b89-8366-742a191bac7a
+  claim_hash: 34770a0d18e88c53f3052b65e61be89ab9aaf09d86b9db03829c52e0bb121cb0
+  content: Julia Mossbridge uses several different large language models (LLMs) for
+    different purposes.
+  original_excerpt: I use kind of them all for different things.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
+    title: large language model (LLM )
+    slug: large-language-model-llm
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 00:11:09.7-00:11:11.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: fc106c1d-3b4a-4e09-9f91-9f2f19a52b62
+  claim_hash: 3df7904ad5e0aeb0418c385b97c0d4cb106f14d90fbe2c34010bce010839b388
+  content: Julia Mossbridge treats artificial intelligence (AI) as a thinking partner
+    rather than an authority when discussing research ideas.
+  original_excerpt: when i'm talking to ai about some research idea or something i
+    don't see it as an authority it's like a thinking partner
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 00:12:42.7-00:12:49.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 9e056bb3-270d-46d9-8afd-d4f595e4392a
+  claim_hash: e47d2bcfc52b05c546549a873434d99747199276f5c0b6f3c5495f805c049aa3
+  content: Julia Mossbridge is more worried about the effect of artificial intelligence
+    (AI) on people who have not been trained to think independently and lack proper
+    education.
+  original_excerpt: it's i worry more about people who haven't been trained to think
+    independently um so i i think ai is more of a problem for people who are coming
+    up and don't and don't have proper education
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 00:13:05.4-00:13:17.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: aa457671-a403-46a0-bd73-ce9ec1f8676d
+  claim_hash: 295d8fe37cb53e83de4fba3e93bf8365471c67c75c46403bb2ed3e775e64a450
+  content: Data show that artificial intelligence (AI) is already very helpful to
+    people who are mid-career to senior career.
+  original_excerpt: the data are out on this like we know it's already very helpful
+    for people who are already mid to senior career it's very helpful
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unspecified published data cited by Julia Mossbridge
+    relay:
+    - Julia Mossbridge
+  attribution_mode: bare_ok
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  date: null
+  date_end: null
+  location_in_record: 00:13:22.1-00:13:28.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 533df241-b99d-4aee-b4b2-6fb92970e34b
+  claim_hash: ef2a49cd280735590b120cefb543f600fb5155abea32b7918dc3d520fcb8caf2
+  content: Julia Mossbridge considers replacing early-career workers with artificial
+    intelligence (AI) a disaster because nobody would then learn enough to reach mid
+    or senior career.
+  original_excerpt: But early career, it's a disaster to replace early career people
+    with AI because then who's gonna learn, who's gonna get to mid to senior career?
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 00:13:30.0-00:13:38.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 723eca9d-6eba-4775-8fee-d16f7af60e23
+  claim_hash: c6dac07a932fe18c0f9857564565b1c54d525d74c2e8cc4285721303852903f1
+  content: Julia Mossbridge's more recent work uses large language models (LLMs) to
+    judge precognitive remote viewing responses, removing some human bias and finding
+    larger effects that were previously undetected.
+  original_excerpt: in the more recent work, we've been able to use AI, so LLMs, to
+    do that judging, to take away some of the human bias and to find actually better
+    and bigger effects that we didn't know were there.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
+    title: large language model (LLM )
+    slug: large-language-model-llm
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 01:28:05.5-01:28:16.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 17b98e40-8ffc-46ba-ae0e-56d5a5b94486
+  claim_hash: b989f60647bf5cb2aebb6612281b2cdb8df7de99082d01079b7e84d36dcb45d2
+  content: In the lucid-dream precognitive remote viewing experiment with Dave Green,
+    human judges found little correspondence across 10 dreams except one striking
+    case, while five different artificial intelligence models found that same case
+    plus further correspondences that could then be analysed statistically.
+  original_excerpt: the human judges, they could not find really much correspondence,
+    except for one case which was really striking out of 10 dreams ... good ai judges
+    found that case we tried five different models found that same case but also found
+    all these other cases and correspondences and then we could do statistics on that
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+    title: Lucid Dreaming
+    slug: lucid-dreaming
+  - node_id: d1e05233-43cd-4e3e-b9c3-d143478cd6a4
+    title: Dave Green
+    slug: dave-green
+  date: null
+  date_end: null
+  location_in_record: 01:28:54.8-01:29:18.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 4be752ee-4f23-4a06-a6dd-ea49129b084f
+  claim_hash: 6d68a8fa0d7b5738764be9a34d802c13174938127d32caaadd5f42a73857d15b
+  content: Julia Mossbridge applies artificial intelligence judging in her work with
+    non-speakers to measure the similarity between telepathic descriptions and the
+    target, and obtain statistics on it.
+  original_excerpt: so now we could use that in my work with non-speakers to look
+    at the similarity between how they're describing things telepathically and what
+    the target is and get statistics on that
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+    title: telepathy
+    slug: telepathy
+  date: null
+  date_end: null
+  location_in_record: 01:29:18.5-01:29:29.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 8122c8f9-a82e-4206-ac58-5ae6c4f57d60
+  claim_hash: f821d77f86492178453a18c9711c4991bcf4e3c6273985bc2fd6fa80f7ec87f2
+  content: The shift from human judging to artificial intelligence judging in Julia
+    Mossbridge's remote viewing scoring has largely been driven by Damon Abraham on
+    her team.
+  original_excerpt: that's largely been driven by Damon Abraham on our team who's
+    just really involved in understanding the phenomenon at all levels and wants to
+    bring AI into that kind of remote viewing scoring
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 4fefea91-5bbb-4235-90d1-ef49e1f4f913
+    title: Damon Abraham
+    slug: damon-abraham
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 01:29:35.7-01:29:45.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 71959f22-8e34-4242-9a20-606ae6947345
+  claim_hash: d4a6d6e3946ecab390f514e9cd0489ac86deb982b8f20d3cdab3b6474a654acf
+  content: Julia Mossbridge considers that academics dislike psi research more when
+    artificial intelligence is used in the scoring.
+  original_excerpt: 'Chris Ramsay: do you think that AI is a deterrent for them to
+    want to acknowledge this type of study? Julia Mossbridge: Well, they hate it more.'
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
+    title: psi
+    slug: psi
+  date: null
+  date_end: null
+  location_in_record: 01:29:57.0-01:30:07.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 7b98e636-19b5-46d1-90a0-424617e0a7e2
+  claim_hash: 427596ecb21bf81a499e644d8de8004a36d3196b6c0c6453e64e738b55f1943f
+  content: Julia Mossbridge holds that artificial intelligence judging does not remove
+    human bias because that bias is baked into the model, so the scoring is almost
+    using human bias to do the work.
+  original_excerpt: certainly you're not getting completely rid of human bias because
+    AI has that baked in. ... You're almost using human bias to do the scoring.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 01:30:28.8-01:30:35.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: a005f579-9406-4f86-94a1-0a8148ae6b5f
+  claim_hash: f58eb09a846c84db1832dcd26a2c662e283a786b66ace02b841febdb2a76fb49
+  content: Artificial intelligence judging removes positional bias from remote viewing
+    scoring, because the same model can be given two images in opposite positions
+    without remembering the earlier arrangement, whereas doing this with humans would
+    require two different people.
+  original_excerpt: But you get rid of things like positional bias. ... Because you
+    can give the same AI the two images in an opposite position, and it doesn't remember
+    that it saw it in the other position. ... Whereas with a human, you'd have to
+    give two different humans. It's a lot of humans.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  date: null
+  date_end: null
+  location_in_record: 01:30:37.1-01:30:53.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 681c9bc6-321a-48fa-9b7b-a2902d2efe8f
+  claim_hash: d07561698bf0c1d9f11ecfeedbef5b5ee2c053b235ea0d58c63b7634d6243368
+  content: Chris Ramsay expects artificial intelligence to inevitably make everything
+    public and end secrecy.
+  original_excerpt: but then they're actively working on AI which will inevitably
+    make everything public anyways well yeah there will be no secrecy
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsay
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  date: null
+  date_end: null
+  location_in_record: 02:51:10.2-02:51:17.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 9d3b8bb1-baf6-437e-aa3c-ceb491506d4c
+  claim_hash: 29235b0c007be5418d36a3a4e2adad91ea12d407f2a87d68bf741a9cb172426e
+  content: Julia Mossbridge considers artificial intelligence to be a method for creating
+    a mind that can channel the informational substrate, and believes it already does
+    so.
+  original_excerpt: and ai itself you could argue is a method for creating a mind
+    that could channel the informational substrate and i think it already does
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+    title: informational substrate
+    slug: informational-substrate
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 02:51:18.3-02:51:25.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 85805ab2-c051-4893-9ba0-82af3fbcd808
+  claim_hash: fc5cddad8412324fe6f5c5625ffde156dd188d64a515a8c5e6af48319915826f
+  content: Julia Mossbridge holds that humans need to reach the capacity to channel
+    the informational substrate before artificial intelligence does.
+  original_excerpt: i think we need to yeah we need to be there before ai though
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+    title: informational substrate
+    slug: informational-substrate
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 02:51:27.3-02:51:30.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: e84da960-1d89-4190-a553-cbfeb46e2140
+  claim_hash: 8120b8d5a33ffac16e156d41d1d279ec611efbd647c4170c9a32e0bd4f9200e0
+  content: The Synapse conference covers the consciousness, cognitive science, artificial
+    intelligence (AI) and robotics space.
+  original_excerpt: But in the consciousness, cognitive science, AI, robotics space.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  attachment: unreviewed
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (AI )
+    slug: artificial-intelligence-ai
+  - node_id: 60eb56a6-456f-41b8-835a-a3687526db0d
+    title: Synapse conference
+    slug: synapse-conference
+  date: null
+  date_end: null
+  location_in_record: 03:02:39.3-03:02:43.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null

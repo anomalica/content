@@ -9,369 +9,376 @@ page:
   claim_count: 8
   claim_count_total: 8
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 8
+  tokens_estimated: 2740
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 8
 related_nodes:
-- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-  title: National Aeronautics and Space Administration (NASA)
-  node_type: organisation
-  slug: national-aeronautics-and-space-administration-nasa
-  shared_claims: 3
-- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-  title: United States Air Force (USAF)
-  node_type: organisation
-  slug: united-states-air-force-usaf
-  shared_claims: 3
-- node_id: 480b089d-f501-4a7b-8351-e010fe17a50a
-  title: Government Accountability Office (GAO) Roswell Report (1995)
-  node_type: document
-  slug: government-accountability-office-gao-roswell-report-1995
-  shared_claims: 2
-- node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-  title: Roswell incident (1947)
-  node_type: event
-  slug: roswell-incident-1947
-  shared_claims: 2
-- node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-  title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 National
-    Defense Authorization Act (NDAA))
-  node_type: document
-  slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-national-defense-authorization-act-ndaa
-  shared_claims: 1
-- node_id: aafb154e-8cd0-4409-8091-0958ac8bd356
-  title: Pro-Engineer (Mechanical Computer Aided Design (MCAD) software)
-  node_type: object
-  slug: pro-engineer-mechanical-computer-aided-design-mcad-software
-  shared_claims: 1
-- node_id: f3e24cb1-1533-4cb1-a751-fc4b9a6a4e24
-  title: Project Orion (Crew Exploration Vehicle)
-  node_type: project
-  slug: project-orion-crew-exploration-vehicle
-  shared_claims: 1
-- node_id: 5b46b47b-3e4c-4377-bd71-b4d2c3a917e6
-  title: Steven H. Schiff
-  node_type: person
-  slug: steven-h-schiff
-  shared_claims: 1
-- node_id: 24f7ea64-4b11-4021-8488-4fc479ceab51
-  title: United States Department of Defense Office of Inspector General (Department
-    of Defense (DOD) IG)
-  node_type: organisation
-  slug: united-states-department-of-defense-office-of-inspector-general-department-of-defense-dod-ig
-  shared_claims: 1
-claims:
-- claim_id: 7cff7a13-127c-4b81-bcdf-a741a14c513d
-  claim_hash: f7e4e50cb977be5d17ef670e7deb1b8a2adf6461a7b4c8eb60aa584545f67fd6
-  content: National Aeronautics and Space Administration (NASA) quickly rejected the
-    General Accounting Office's recommended timeline for selecting a Project Orion
-    contractor.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
   - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
     title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
     slug: national-aeronautics-and-space-administration-nasa
-  - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
-    title: Government Accountability Office
-    slug: government-accountability-office
+    shared_claims: 3
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 3
+  - node_id: 480b089d-f501-4a7b-8351-e010fe17a50a
+    title: Government Accountability Office (GAO) Roswell Report (1995)
+    node_type: document
+    slug: government-accountability-office-gao-roswell-report-1995
+    shared_claims: 2
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    node_type: event
+    slug: roswell-incident-1947
+    shared_claims: 2
+  - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
+    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+    node_type: document
+    slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
+    shared_claims: 1
+  - node_id: aafb154e-8cd0-4409-8091-0958ac8bd356
+    title: Pro-Engineer (MCAD software)
+    node_type: object
+    slug: pro-engineer-mcad-software
+    shared_claims: 1
   - node_id: f3e24cb1-1533-4cb1-a751-fc4b9a6a4e24
     title: Project Orion (Crew Exploration Vehicle)
+    node_type: project
     slug: project-orion-crew-exploration-vehicle
-  date: '2006'
-  date_end: null
-  location_in_record: ch19:19389-19667
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 74e04a4d-fe66-417c-bac7-d1929fb50521
-  claim_hash: b3af0d6ebf3764e9dbe31bb7e0644e132ca897166af09b0fd9f8cdbad3e067e7
-  content: A General Accounting Office review found that the National Aeronautics
-    and Space Administration (NASA) had tried to force Pro-Engineer software on bidders
-    in violation of federal laws.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: General Accounting Office (GAO) review
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: aafb154e-8cd0-4409-8091-0958ac8bd356
-    title: Pro-Engineer (Mechanical Computer Aided Design (MCAD) software)
-    slug: pro-engineer-mechanical-computer-aided-design-mcad-software
-  - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
-    title: Government Accountability Office
-    slug: government-accountability-office
-  date: null
-  date_end: null
-  location_in_record: ch19:83922-84128
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: ace334ac-eac8-4d5d-b9d7-8d597a53f61d
-  claim_hash: cdf98b037e7cce6758272eaf2f20796b6ae87513b656603bbc1f92d30527c993
-  content: The General Accounting Office review found that the National Aeronautics
-    and Space Administration (NASA) had violated repeated promises to rectify the
-    Mechanical Computer Aided Design software issue and give all bidders an equal
-    chance.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: General Accounting Office (GAO) review
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
-    title: Government Accountability Office
-    slug: government-accountability-office
-  date: null
-  date_end: null
-  location_in_record: ch19:84134-84249
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 00d61696-5b83-46d7-9738-03c02c6aabaa
-  claim_hash: 6c6e8741179e467d6c5a4e00f553ae088e0935c70296b739631a772d5ffcf2dc
-  content: Provisions requiring an independent agency such as the Government Accountability
-    Office (GAO) or the Department of Defense Office of Inspector General (DOD IG)
-    to oversee UAP program reporting were included in the original draft UAP legislation
-    but were dropped from the statute that finally passed as the National Defense
-    Authorization Act 2023.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 24f7ea64-4b11-4021-8488-4fc479ceab51
-    title: United States Department of Defense Office of Inspector General (Department
-      of Defense (DOD) IG)
-    slug: united-states-department-of-defense-office-of-inspector-general-department-of-defense-dod-ig
-  - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
-    title: Government Accountability Office
-    slug: government-accountability-office
-  - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 National
-      Defense Authorization Act (NDAA))
-    slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-national-defense-authorization-act-ndaa
-  date: '2022-12-23'
-  date_end: null
-  location_in_record: ch30:18171-18533
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 6082b1b2-8a81-47df-9ac7-40c684f855fb
-  claim_hash: 3574dfd58985c0ea3e24e43af358af811ba744481ebd1c20ce367989ed9dac60
-  content: Congressman Steven H. Schiff asked the General Accounting Office, subsequently
-    renamed the Government Accountability Office, to determine the requirements for
-    reporting air accidents such as the crash near Roswell and to identify any government
-    records concerning the Roswell crash.
-  original_excerpt: He asked the General Accounting Office (GAO) (subsequently renamed
-    the Government Accountability Office) to determine the requirements for reporting
-    air accidents, such as the crash near Roswell, and to identify any government
-    records concerning the Roswell crash.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
   - node_id: 5b46b47b-3e4c-4377-bd71-b4d2c3a917e6
     title: Steven H. Schiff
+    node_type: person
     slug: steven-h-schiff
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    slug: roswell-incident-1947
-  - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
-    title: Government Accountability Office
-    slug: government-accountability-office
-  date: '1993'
-  date_end: null
-  location_in_record: char:55007-55265
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 4dad8a4e-b5a3-481c-a18c-e9abe39b72b2
-  claim_hash: d8f8eec27082c2a8c22221cac2f968b84ba7b2e743a8411f66b79919c0389003
-  content: The United States Air Force conducted a systematic search of numerous archives
-    and records centres in support of the Government Accountability Office's audit
-    of Roswell, and interviewed numerous people who may have had knowledge of the
-    events.
-  original_excerpt: The USAF conducted a systematic search of numerous archives and
-    records centers in support of GAO's audit of Roswell. As part of this review,
-    the USAF also interviewed numerous people who may have had knowledge of the events.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    slug: roswell-incident-1947
-  - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
-    title: Government Accountability Office
-    slug: government-accountability-office
-  date: null
-  date_end: null
-  location_in_record: char:55353-55571
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 0375e48c-9ca0-4c31-9f04-1974a6e8d666
-  claim_hash: 87075341097016058fa8e3fd4dda16e8cad9359e1bad0fde00cd0806ae842cd4
-  content: The Government Accountability Office's 1995 report found that United States
-    Army Air Force regulations in 1947 required that air accident reports be maintained
-    permanently.
-  original_excerpt: The GAO's 1995 report on the results of its investigation found
-    that that the U.S. Army Air Force regulations in 1947 required that air accident
-    reports be maintained permanently.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: The GAO Roswell Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 480b089d-f501-4a7b-8351-e010fe17a50a
-    title: Government Accountability Office (GAO) Roswell Report (1995)
-    slug: government-accountability-office-gao-roswell-report-1995
-  - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
-    title: Government Accountability Office
-    slug: government-accountability-office
-  date: '1995'
-  date_end: null
-  location_in_record: char:58110-58277
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 8bf58454-c35e-4724-ab8c-961a12469304
-  claim_hash: 359cf768fd3c2e3eced2bb8b45b47213fe4a3cbc4c3e02e03b6ae49ecd3b7f10
-  content: United States Air Force officials reported to the Government Accountability
-    Office that there was no requirement to prepare a report on the crash of a balloon
-    in 1947.
-  original_excerpt: USAF officials reported to GAO that there was no requirement to
-    prepare a report on the crash of a balloon in 1947.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: The GAO Roswell Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 480b089d-f501-4a7b-8351-e010fe17a50a
-    title: Government Accountability Office (GAO) Roswell Report (1995)
-    slug: government-accountability-office-gao-roswell-report-1995
-  - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
-    title: Government Accountability Office
-    slug: government-accountability-office
-  date: '1947'
-  date_end: null
-  location_in_record: char:58622-58732
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+    shared_claims: 1
+  - node_id: 24f7ea64-4b11-4021-8488-4fc479ceab51
+    title: United States Department of Defense Office of Inspector General (DOD IG)
+    node_type: organisation
+    slug: united-states-department-of-defense-office-of-inspector-general-dod-ig
+    shared_claims: 1
+claims:
+  - claim_id: 7cff7a13-127c-4b81-bcdf-a741a14c513d
+    claim_hash: f7e4e50cb977be5d17ef670e7deb1b8a2adf6461a7b4c8eb60aa584545f67fd6
+    content: National Aeronautics and Space Administration (NASA) quickly rejected the General Accounting Office's recommended
+      timeline for selecting a Project Orion contractor.
+    original_excerpt: NASA quickly blew off the GAO's recommendations, an unusual maneuver to say the least... NASA's swift
+      outright rejection of the GAO's recommended timeline was an indication that they were in a real hurry to start work.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
+        title: Government Accountability Office
+        slug: government-accountability-office
+      - node_id: f3e24cb1-1533-4cb1-a751-fc4b9a6a4e24
+        title: Project Orion (Crew Exploration Vehicle)
+        slug: project-orion-crew-exploration-vehicle
+    date: '2006'
+    date_end: null
+    location_in_record: ch19:19389-19667
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 74e04a4d-fe66-417c-bac7-d1929fb50521
+    claim_hash: b3af0d6ebf3764e9dbe31bb7e0644e132ca897166af09b0fd9f8cdbad3e067e7
+    content: A General Accounting Office review found that the National Aeronautics and Space Administration (NASA) had tried
+      to force Pro-Engineer software on bidders in violation of federal laws.
+    original_excerpt: A General Accountability Office (GAO) review took NASA to task for its stance, essentially supporting
+      the contractors’ position that NASA had tried to force Pro/E down their throats in violation of federal laws.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: General Accounting Office (GAO) review
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: aafb154e-8cd0-4409-8091-0958ac8bd356
+        title: Pro-Engineer (MCAD software)
+        slug: pro-engineer-mcad-software
+      - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
+        title: Government Accountability Office
+        slug: government-accountability-office
+    date: null
+    date_end: null
+    location_in_record: ch19:83922-84128
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ace334ac-eac8-4d5d-b9d7-8d597a53f61d
+    claim_hash: cdf98b037e7cce6758272eaf2f20796b6ae87513b656603bbc1f92d30527c993
+    content: The General Accounting Office review found that the National Aeronautics and Space Administration (NASA) had
+      violated repeated promises to rectify the Mechanical Computer Aided Design software issue and give all bidders an equal
+      chance.
+    original_excerpt: They further found that NASA had violated repeated promises to rectify the situation and give all bidders
+      an equal chance.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: General Accounting Office (GAO) review
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
+        title: Government Accountability Office
+        slug: government-accountability-office
+    date: null
+    date_end: null
+    location_in_record: ch19:84134-84249
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 00d61696-5b83-46d7-9738-03c02c6aabaa
+    claim_hash: 6c6e8741179e467d6c5a4e00f553ae088e0935c70296b739631a772d5ffcf2dc
+    content: Provisions requiring an independent agency such as the Government Accountability Office (GAO) or the Department
+      of Defense Office of Inspector General (DOD IG) to oversee UAP program reporting were included in the original draft
+      UAP legislation but were dropped from the statute that finally passed as the National Defense Authorization Act 2023.
+    original_excerpt: There were provisions in the original draft UAP legislation that would have required an independent
+      agency such as the congressional watchdog, the Government Accountability Offi ce (the GAO), or the DOD's Office of the
+      Inspector General (the DOD IG) to keep the gatekeepers honest but those clauses were dropped from the statute that finally
+      made it through the house.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24f7ea64-4b11-4021-8488-4fc479ceab51
+        title: United States Department of Defense Office of Inspector General (DOD IG)
+        slug: united-states-department-of-defense-office-of-inspector-general-dod-ig
+      - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
+        title: Government Accountability Office
+        slug: government-accountability-office
+      - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
+    date: '2022-12-23'
+    date_end: null
+    location_in_record: ch30:18171-18533
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6082b1b2-8a81-47df-9ac7-40c684f855fb
+    claim_hash: 3574dfd58985c0ea3e24e43af358af811ba744481ebd1c20ce367989ed9dac60
+    content: Congressman Steven H. Schiff asked the General Accounting Office, subsequently renamed the Government Accountability
+      Office, to determine the requirements for reporting air accidents such as the crash near Roswell and to identify any
+      government records concerning the Roswell crash.
+    original_excerpt: He asked the General Accounting Office (GAO) (subsequently renamed the Government Accountability Office)
+      to determine the requirements for reporting air accidents, such as the crash near Roswell, and to identify any government
+      records concerning the Roswell crash.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5b46b47b-3e4c-4377-bd71-b4d2c3a917e6
+        title: Steven H. Schiff
+        slug: steven-h-schiff
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
+        title: Government Accountability Office
+        slug: government-accountability-office
+    date: '1993'
+    date_end: null
+    location_in_record: char:55007-55265
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 4dad8a4e-b5a3-481c-a18c-e9abe39b72b2
+    claim_hash: d8f8eec27082c2a8c22221cac2f968b84ba7b2e743a8411f66b79919c0389003
+    content: The United States Air Force conducted a systematic search of numerous archives and records centres in support
+      of the Government Accountability Office's audit of Roswell, and interviewed numerous people who may have had knowledge
+      of the events.
+    original_excerpt: The USAF conducted a systematic search of numerous archives and records centers in support of GAO's
+      audit of Roswell. As part of this review, the USAF also interviewed numerous people who may have had knowledge of the
+      events.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
+        title: Government Accountability Office
+        slug: government-accountability-office
+    date: null
+    date_end: null
+    location_in_record: char:55353-55571
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 0375e48c-9ca0-4c31-9f04-1974a6e8d666
+    claim_hash: 87075341097016058fa8e3fd4dda16e8cad9359e1bad0fde00cd0806ae842cd4
+    content: The Government Accountability Office's 1995 report found that United States Army Air Force regulations in 1947
+      required that air accident reports be maintained permanently.
+    original_excerpt: The GAO's 1995 report on the results of its investigation found that that the U.S. Army Air Force regulations
+      in 1947 required that air accident reports be maintained permanently.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The GAO Roswell Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 480b089d-f501-4a7b-8351-e010fe17a50a
+        title: Government Accountability Office (GAO) Roswell Report (1995)
+        slug: government-accountability-office-gao-roswell-report-1995
+      - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
+        title: Government Accountability Office
+        slug: government-accountability-office
+    date: '1995'
+    date_end: null
+    location_in_record: char:58110-58277
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 8bf58454-c35e-4724-ab8c-961a12469304
+    claim_hash: 359cf768fd3c2e3eced2bb8b45b47213fe4a3cbc4c3e02e03b6ae49ecd3b7f10
+    content: United States Air Force officials reported to the Government Accountability Office that there was no requirement
+      to prepare a report on the crash of a balloon in 1947.
+    original_excerpt: USAF officials reported to GAO that there was no requirement to prepare a report on the crash of a balloon
+      in 1947.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The GAO Roswell Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 480b089d-f501-4a7b-8351-e010fe17a50a
+        title: Government Accountability Office (GAO) Roswell Report (1995)
+        slug: government-accountability-office-gao-roswell-report-1995
+      - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
+        title: Government Accountability Office
+        slug: government-accountability-office
+    date: '1947'
+    date_end: null
+    location_in_record: char:58622-58732
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

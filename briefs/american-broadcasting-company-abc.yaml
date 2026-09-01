@@ -9,500 +9,520 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 9
+  tokens_estimated: 3048
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 9
 related_nodes:
-- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-  title: National Aeronautics and Space Administration (NASA)
-  node_type: organisation
-  slug: national-aeronautics-and-space-administration-nasa
-  shared_claims: 3
-- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-  title: Richard C. Hoagland
-  node_type: person
-  slug: richard-c-hoagland
-  shared_claims: 3
-- node_id: 9dbd0699-bbc9-42ca-bbca-b4128803cc47
-  title: James Leininger
-  node_type: person
-  slug: james-leininger
-  shared_claims: 2
-- node_id: a4e23c30-3b72-4690-b855-906d80d76a17
-  title: John Kleinberg
-  node_type: person
-  slug: john-kleinberg
-  shared_claims: 2
-- node_id: dd356c04-9ac3-42fb-8a00-2e2bb116e818
-  title: Bevan French
-  node_type: person
-  slug: bevan-french
-  shared_claims: 1
-- node_id: 34798af9-f98a-424a-98f3-9b5340fdaa80
-  title: Bill Stout
-  node_type: person
-  slug: bill-stout
-  shared_claims: 1
-- node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
-  title: Bruce Leininger
-  node_type: person
-  slug: bruce-leininger
-  shared_claims: 1
-- node_id: 7a25b20b-c238-4b97-862f-dc62dba6278a
-  title: Columbia Broadcasting System (CBS) News
-  node_type: organisation
-  slug: columbia-broadcasting-system-cbs-news
-  shared_claims: 1
-- node_id: 86a1217c-882c-4f1e-b6a5-9afd3e3b5b4a
-  title: Corsair
-  node_type: object
-  slug: corsair
-  shared_claims: 1
-- node_id: b34fd408-b07a-4bc4-b750-c80cfdecbcb3
-  title: Frank Bristow
-  node_type: person
-  slug: frank-bristow
-  shared_claims: 1
-- node_id: 4094e5d5-06b8-4b3b-ac52-e926313e2e47
-  title: Frank Pearlman
-  node_type: person
-  slug: frank-pearlman
-  shared_claims: 1
-- node_id: bfdd0775-98b7-4604-9a7a-975e1bf4cdd6
-  title: Good Morning America (ABC)
-  node_type: document
-  slug: good-morning-america-abc
-  shared_claims: 1
-- node_id: 370b81cb-43b6-4a6d-84f1-61882ee4e05e
-  title: Joyce Bergstrom
-  node_type: person
-  slug: joyce-bergstrom
-  shared_claims: 1
-- node_id: e6220ff0-c6db-4f15-9332-72acce9c9dc0
-  title: Jules Bergmann
-  node_type: person
-  slug: jules-bergmann
-  shared_claims: 1
-- node_id: 0eb98bbe-5bbf-42a5-baf9-1f885cf7f557
-  title: Keith Morgan
-  node_type: person
-  slug: keith-morgan
-  shared_claims: 1
-- node_id: 56c758eb-6bcb-4b36-951a-c9b674c8ff65
-  title: Man in Space (film)
-  node_type: document
-  slug: man-in-space-film
-  shared_claims: 1
-- node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-  title: NASA Jet Propulsion Laboratory (JPL)
-  node_type: organisation
-  slug: nasa-jet-propulsion-laboratory-jpl
-  shared_claims: 1
-- node_id: 2bb9dc7d-3f6a-48eb-be12-5e963cba37ea
-  title: Nightline (ABC News programme)
-  node_type: document
-  slug: nightline-abc-news-programme
-  shared_claims: 1
-- node_id: 7da2cf2b-788e-43ff-912c-1a6087f7bd06
-  title: San Francisco Chronicle
-  node_type: organisation
-  slug: san-francisco-chronicle
-  shared_claims: 1
-- node_id: 9b69ca5a-2936-44cb-ae6f-4da47d362257
-  title: Shalini Sharma
-  node_type: person
-  slug: shalini-sharma
-  shared_claims: 1
-- node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
-  title: The New York Times
-  node_type: organisation
-  slug: the-new-york-times
-  shared_claims: 1
-- node_id: 9b42c06f-0a41-4f13-bc8a-a81867e9dad0
-  title: USS Dunbar (educational project)
-  node_type: project
-  slug: uss-dunbar-educational-project
-  shared_claims: 1
-- node_id: 0958b0b1-bd61-4b80-930c-740c94c2e02b
-  title: Walter Sullivan
-  node_type: person
-  slug: walter-sullivan
-  shared_claims: 1
-claims:
-- claim_id: 01ac575d-8791-4f9c-b564-3233ed6c37cd
-  claim_hash: 8962cab910bae26c4f7ec0a30af5e534abc7eee0a1c5ff150901c9bd3fea079b
-  content: Keith Morgan of American Broadcasting Company (ABC) News and his entire
-    family contributed to the USS Dunbar educational project as local community volunteers.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0eb98bbe-5bbf-42a5-baf9-1f885cf7f557
-    title: Keith Morgan
-    slug: keith-morgan
-  - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
-    title: American Broadcasting Company (ABC)
-    slug: american-broadcasting-company-abc
-  - node_id: 9b42c06f-0a41-4f13-bc8a-a81867e9dad0
-    title: USS Dunbar (educational project)
-    slug: uss-dunbar-educational-project
-  date: null
-  date_end: null
-  location_in_record: ch10:11257-11490
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 65a38350-f39e-4595-b1f9-22ceb3a3d65b
-  claim_hash: f463b09ce177a0bb2f5d257bb4860a68625aa7c7d8ba5ab069457dd4c1f3844f
-  content: John Klineberg's formal introduction of Richard C. Hoagland on 1990-03-20
-    was mysteriously excluded from the official NASA/Lewis versions of the presentation
-    videotapes, including those sent to American Broadcasting Company (ABC) News.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
-    title: American Broadcasting Company (ABC)
-    slug: american-broadcasting-company-abc
   - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
     title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
     slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 3
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 3
+  - node_id: 9dbd0699-bbc9-42ca-bbca-b4128803cc47
+    title: James Leininger
+    node_type: person
+    slug: james-leininger
+    shared_claims: 2
   - node_id: a4e23c30-3b72-4690-b855-906d80d76a17
     title: John Kleinberg
+    node_type: person
     slug: john-kleinberg
-  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-    slug: richard-c-hoagland
-  date: '1990-03-20'
-  date_end: null
-  location_in_record: ch10:12443-12680
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: bbfda73a-6482-438c-a3f5-ffe899800367
-  claim_hash: 58f0325bc8df061cb59661fa9c88dcd3a3324bef6bf2706a16cdc1e557ad9a15
-  content: Joyce Bergstrom of NASA-Lewis's Public Affairs Office promised to provide
-    subsequent broadcast quality copies of Richard C. Hoagland's presentation to American
-    Broadcasting Company (ABC) News, among others, due to media requests.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 370b81cb-43b6-4a6d-84f1-61882ee4e05e
-    title: Joyce Bergstrom
-    slug: joyce-bergstrom
-  - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
-    title: American Broadcasting Company (ABC)
-    slug: american-broadcasting-company-abc
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-    slug: richard-c-hoagland
-  date: null
-  date_end: null
-  location_in_record: ch10:3690-3878
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: b1480fe1-fa85-4992-85db-c36ada7ec107
-  claim_hash: b528bf1bc790013b12b6815c242e7f8dd4e26811afc5b66cba63c8485710b76d
-  content: On Sunday, 1993-08-22, Bevan French was scheduled to debate Richard C.
-    Hoagland on national television on ABC's Good Morning America.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
-    title: American Broadcasting Company (ABC)
-    slug: american-broadcasting-company-abc
-  - node_id: bfdd0775-98b7-4604-9a7a-975e1bf4cdd6
-    title: Good Morning America (ABC)
-    slug: good-morning-america-abc
+    shared_claims: 2
   - node_id: dd356c04-9ac3-42fb-8a00-2e2bb116e818
     title: Bevan French
+    node_type: person
     slug: bevan-french
-  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-    slug: richard-c-hoagland
-  date: '1993-08-22'
-  date_end: null
-  location_in_record: ch10:38868-38986
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 9fa9cb72-ebd0-4563-a24a-dc6486fa3089
-  claim_hash: 5d681c34a1635c76d2e2102ae03ece2802b3fba16a229941ac2688be601072bc
-  content: Man in Space aired on the American Broadcasting Company (ABC) on 1955-03-09.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 56c758eb-6bcb-4b36-951a-c9b674c8ff65
-    title: Man in Space (film)
-    slug: man-in-space-film
-  - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
-    title: American Broadcasting Company (ABC)
-    slug: american-broadcasting-company-abc
-  date: '1955-03-09'
-  date_end: null
-  location_in_record: ch12:103320-103372
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 951a7b5d-868e-4edf-8442-bd3f131d577b
-  claim_hash: 9ea3d91cfa2b497f263e467ae1b8ab631b5d54e48cdb2339fc3c5aec8d6eb75c
-  content: A National Aeronautics and Space Administration (NASA) public affairs representative
-    told Nightline producers at American Broadcasting Company (ABC) News that all
-    three cameras recording John Klineberg's introductory statement had simultaneously
-    failed.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: National Aeronautics and Space Administration (NASA)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2bb9dc7d-3f6a-48eb-be12-5e963cba37ea
-    title: Nightline (ABC News programme)
-    slug: nightline-abc-news-programme
-  - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
-    title: American Broadcasting Company (ABC)
-    slug: american-broadcasting-company-abc
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: a4e23c30-3b72-4690-b855-906d80d76a17
-    title: John Kleinberg
-    slug: john-kleinberg
-  date: '1990'
-  date_end: null
-  location_in_record: ch19:12147-12431
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 55e6e833-2a8f-416d-bebc-61d8ed70bc95
-  claim_hash: a844f2c48b1758e19b8e1de72308ba74105d4d558993d69dcbb8e342adaa25b4
-  content: Frank Bristow, head of the Jet Propulsion Laboratory (JPL) press office,
-    personally escorted the unidentified man into the press room, where reporters
-    including Walter Sullivan of the New York Times, Frank Pearlman of the San Francisco
-    Chronicle, Jules Bergmann of American Broadcasting Company (ABC), and Bill Stout
-    of Columbia Broadcasting System (CBS) were introduced to him.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0958b0b1-bd61-4b80-930c-740c94c2e02b
-    title: Walter Sullivan
-    slug: walter-sullivan
+    shared_claims: 1
   - node_id: 34798af9-f98a-424a-98f3-9b5340fdaa80
     title: Bill Stout
+    node_type: person
     slug: bill-stout
-  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-    title: NASA Jet Propulsion Laboratory (JPL)
-    slug: nasa-jet-propulsion-laboratory-jpl
-  - node_id: 4094e5d5-06b8-4b3b-ac52-e926313e2e47
-    title: Frank Pearlman
-    slug: frank-pearlman
-  - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
-    title: American Broadcasting Company (ABC)
-    slug: american-broadcasting-company-abc
-  - node_id: 7a25b20b-c238-4b97-862f-dc62dba6278a
-    title: Columbia Broadcasting System (CBS) News
-    slug: columbia-broadcasting-system-cbs-news
-  - node_id: 7da2cf2b-788e-43ff-912c-1a6087f7bd06
-    title: San Francisco Chronicle
-    slug: san-francisco-chronicle
-  - node_id: b34fd408-b07a-4bc4-b750-c80cfdecbcb3
-    title: Frank Bristow
-    slug: frank-bristow
-  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
-    title: The New York Times
-    slug: the-new-york-times
-  - node_id: e6220ff0-c6db-4f15-9332-72acce9c9dc0
-    title: Jules Bergmann
-    slug: jules-bergmann
-  date: 1969-07
-  date_end: null
-  location_in_record: ch7:28796-29148
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: c6d522f2-27d3-49fe-aa08-b342d0053f74
-  claim_hash: 296a54f0f373dea87da074731593868855c2e72a4b8e1921bf7cd315c993e029
-  content: Twelve of James Leininger's core past-life memory statements, recorded
-    prior to the resolution of the case and dated by Bruce Leininger's printed documents,
-    emails, and ABC video footage, were well established by the time James was three
-    years old.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 953f6232-9902-437f-ad4c-add4fd080043
-    title: Leslie Kean
-  provenance_chain:
-    origin_kind: speaker
-    origin: Leslie Kean
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
-    title: American Broadcasting Company (ABC)
-    slug: american-broadcasting-company-abc
-  - node_id: 9dbd0699-bbc9-42ca-bbca-b4128803cc47
-    title: James Leininger
-    slug: james-leininger
+    shared_claims: 1
   - node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
     title: Bruce Leininger
+    node_type: person
     slug: bruce-leininger
-  date: null
-  date_end: null
-  location_in_record: ch10:7527-7728
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: e8039c28-207c-4f1f-a1de-69aae7525669
-  claim_hash: 3a71b405749fef645af7f7e05e81f927db1610beeb332e11d4f6c2751117323c
-  content: ABC producer Shalini Sharma reported that James Leininger, while showing
-    her a picture of a Corsair in a book, told her the planes used to get flat tires
-    all the time and always wanted to turn left when they took off.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Shalini Sharma
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
-    title: American Broadcasting Company (ABC)
-    slug: american-broadcasting-company-abc
+    shared_claims: 1
+  - node_id: 7a25b20b-c238-4b97-862f-dc62dba6278a
+    title: Columbia Broadcasting System (CBS) News
+    node_type: organisation
+    slug: columbia-broadcasting-system-cbs-news
+    shared_claims: 1
   - node_id: 86a1217c-882c-4f1e-b6a5-9afd3e3b5b4a
     title: Corsair
+    node_type: object
     slug: corsair
+    shared_claims: 1
+  - node_id: b34fd408-b07a-4bc4-b750-c80cfdecbcb3
+    title: Frank Bristow
+    node_type: person
+    slug: frank-bristow
+    shared_claims: 1
+  - node_id: 4094e5d5-06b8-4b3b-ac52-e926313e2e47
+    title: Frank Pearlman
+    node_type: person
+    slug: frank-pearlman
+    shared_claims: 1
+  - node_id: bfdd0775-98b7-4604-9a7a-975e1bf4cdd6
+    title: Good Morning America (ABC)
+    node_type: document
+    slug: good-morning-america-abc
+    shared_claims: 1
+  - node_id: 370b81cb-43b6-4a6d-84f1-61882ee4e05e
+    title: Joyce Bergstrom
+    node_type: person
+    slug: joyce-bergstrom
+    shared_claims: 1
+  - node_id: e6220ff0-c6db-4f15-9332-72acce9c9dc0
+    title: Jules Bergmann
+    node_type: person
+    slug: jules-bergmann
+    shared_claims: 1
+  - node_id: 0eb98bbe-5bbf-42a5-baf9-1f885cf7f557
+    title: Keith Morgan
+    node_type: person
+    slug: keith-morgan
+    shared_claims: 1
+  - node_id: 56c758eb-6bcb-4b36-951a-c9b674c8ff65
+    title: Man in Space (film)
+    node_type: document
+    slug: man-in-space-film
+    shared_claims: 1
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    node_type: organisation
+    slug: nasa-jet-propulsion-laboratory-jpl
+    shared_claims: 1
+  - node_id: 2bb9dc7d-3f6a-48eb-be12-5e963cba37ea
+    title: Nightline (ABC News programme)
+    node_type: document
+    slug: nightline-abc-news-programme
+    shared_claims: 1
+  - node_id: 7da2cf2b-788e-43ff-912c-1a6087f7bd06
+    title: San Francisco Chronicle
+    node_type: organisation
+    slug: san-francisco-chronicle
+    shared_claims: 1
   - node_id: 9b69ca5a-2936-44cb-ae6f-4da47d362257
     title: Shalini Sharma
+    node_type: person
     slug: shalini-sharma
-  - node_id: 9dbd0699-bbc9-42ca-bbca-b4128803cc47
-    title: James Leininger
-    slug: james-leininger
-  date: null
-  date_end: null
-  location_in_record: ch9:18830-19099
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
+    shared_claims: 1
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    node_type: organisation
+    slug: the-new-york-times
+    shared_claims: 1
+  - node_id: 9b42c06f-0a41-4f13-bc8a-a81867e9dad0
+    title: USS Dunbar (educational project)
+    node_type: project
+    slug: uss-dunbar-educational-project
+    shared_claims: 1
+  - node_id: 0958b0b1-bd61-4b80-930c-740c94c2e02b
+    title: Walter Sullivan
+    node_type: person
+    slug: walter-sullivan
+    shared_claims: 1
+claims:
+  - claim_id: 01ac575d-8791-4f9c-b564-3233ed6c37cd
+    claim_hash: 8962cab910bae26c4f7ec0a30af5e534abc7eee0a1c5ff150901c9bd3fea079b
+    content: Keith Morgan of American Broadcasting Company (ABC) News and his entire family contributed to the USS Dunbar
+      educational project as local community volunteers.
+    original_excerpt: This educational project, with the able contributions of both national corporations and local community
+      volunteers (including Keith Morgan, of ABC News, and his entire family), eventually received a nomination for a “Point
+      of Light” award
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb98bbe-5bbf-42a5-baf9-1f885cf7f557
+        title: Keith Morgan
+        slug: keith-morgan
+      - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
+        title: American Broadcasting Company (ABC)
+        slug: american-broadcasting-company-abc
+      - node_id: 9b42c06f-0a41-4f13-bc8a-a81867e9dad0
+        title: USS Dunbar (educational project)
+        slug: uss-dunbar-educational-project
+    date: null
+    date_end: null
+    location_in_record: ch10:11257-11490
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 65a38350-f39e-4595-b1f9-22ceb3a3d65b
+    claim_hash: f463b09ce177a0bb2f5d257bb4860a68625aa7c7d8ba5ab069457dd4c1f3844f
+    content: John Klineberg's formal introduction of Richard C. Hoagland on 1990-03-20 was mysteriously excluded from the
+      official NASA/Lewis versions of the presentation videotapes, including those sent to American Broadcasting Company (ABC)
+      News.
+    original_excerpt: Perhaps this is also why Klineberg’s formal introduction of Hoagland, back on March 20, was somehow
+      mysteriously excluded from the official NASA/ Lewis versions of the presentation video tapes (including those that went—very
+      late—to ABC News).
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
+        title: American Broadcasting Company (ABC)
+        slug: american-broadcasting-company-abc
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: a4e23c30-3b72-4690-b855-906d80d76a17
+        title: John Kleinberg
+        slug: john-kleinberg
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: '1990-03-20'
+    date_end: null
+    location_in_record: ch10:12443-12680
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: bbfda73a-6482-438c-a3f5-ffe899800367
+    claim_hash: 58f0325bc8df061cb59661fa9c88dcd3a3324bef6bf2706a16cdc1e557ad9a15
+    content: Joyce Bergstrom of NASA-Lewis's Public Affairs Office promised to provide subsequent broadcast quality copies
+      of Richard C. Hoagland's presentation to American Broadcasting Company (ABC) News, among others, due to media requests.
+    original_excerpt: Joyce Bergstrom, of NASA-Lewis’s Public Affairs Office, had promised to provide subsequent broadcast
+      quality copies of the presentation to ABC News, among others, due to requests from the media.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 370b81cb-43b6-4a6d-84f1-61882ee4e05e
+        title: Joyce Bergstrom
+        slug: joyce-bergstrom
+      - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
+        title: American Broadcasting Company (ABC)
+        slug: american-broadcasting-company-abc
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch10:3690-3878
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b1480fe1-fa85-4992-85db-c36ada7ec107
+    claim_hash: b528bf1bc790013b12b6815c242e7f8dd4e26811afc5b66cba63c8485710b76d
+    content: On Sunday, 1993-08-22, Bevan French was scheduled to debate Richard C. Hoagland on national television on ABC's
+      Good Morning America.
+    original_excerpt: The following Sunday, August 22, 1993, French was scheduled to debate Hoagland on national TV, on ABC’s
+      *Good Morning America*
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
+        title: American Broadcasting Company (ABC)
+        slug: american-broadcasting-company-abc
+      - node_id: bfdd0775-98b7-4604-9a7a-975e1bf4cdd6
+        title: Good Morning America (ABC)
+        slug: good-morning-america-abc
+      - node_id: dd356c04-9ac3-42fb-8a00-2e2bb116e818
+        title: Bevan French
+        slug: bevan-french
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: '1993-08-22'
+    date_end: null
+    location_in_record: ch10:38868-38986
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 9fa9cb72-ebd0-4563-a24a-dc6486fa3089
+    claim_hash: 5d681c34a1635c76d2e2102ae03ece2802b3fba16a229941ac2688be601072bc
+    content: Man in Space aired on the American Broadcasting Company (ABC) on 1955-03-09.
+    original_excerpt: The first, *Man in Space,* aired on ABC on March 9, 1955.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 56c758eb-6bcb-4b36-951a-c9b674c8ff65
+        title: Man in Space (film)
+        slug: man-in-space-film
+      - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
+        title: American Broadcasting Company (ABC)
+        slug: american-broadcasting-company-abc
+    date: '1955-03-09'
+    date_end: null
+    location_in_record: ch12:103320-103372
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 951a7b5d-868e-4edf-8442-bd3f131d577b
+    claim_hash: 9ea3d91cfa2b497f263e467ae1b8ab631b5d54e48cdb2339fc3c5aec8d6eb75c
+    content: A National Aeronautics and Space Administration (NASA) public affairs representative told Nightline producers
+      at American Broadcasting Company (ABC) News that all three cameras recording John Klineberg's introductory statement
+      had simultaneously failed.
+    original_excerpt: a NASA public affairs representative finally "explained" to "Nightline" producers at ABC News (who were
+      eagerly awaiting delivery of Klineberg's extraordinary remarks related to the White House on the tape) that "they'd
+      had a simultaneous failure in all three cameras recording the event."
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: National Aeronautics and Space Administration (NASA)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2bb9dc7d-3f6a-48eb-be12-5e963cba37ea
+        title: Nightline (ABC News programme)
+        slug: nightline-abc-news-programme
+      - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
+        title: American Broadcasting Company (ABC)
+        slug: american-broadcasting-company-abc
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: a4e23c30-3b72-4690-b855-906d80d76a17
+        title: John Kleinberg
+        slug: john-kleinberg
+    date: '1990'
+    date_end: null
+    location_in_record: ch19:12147-12431
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 55e6e833-2a8f-416d-bebc-61d8ed70bc95
+    claim_hash: a844f2c48b1758e19b8e1de72308ba74105d4d558993d69dcbb8e342adaa25b4
+    content: Frank Bristow, head of the Jet Propulsion Laboratory (JPL) press office, personally escorted the unidentified
+      man into the press room, where reporters including Walter Sullivan of the New York Times, Frank Pearlman of the San
+      Francisco Chronicle, Jules Bergmann of American Broadcasting Company (ABC), and Bill Stout of Columbia Broadcasting
+      System (CBS) were introduced to him.
+    original_excerpt: There, in an office where space correspondents, like Walter Sullivan (New York Times), Frank Pearlman
+      (San Francisco Chronicle), Jules Bergmann (ABC), and Bill Stout (our local guy from CBS) hung out... a handful of reporters
+      were now being introduced, again by Bristow, to "great coat guy."
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0958b0b1-bd61-4b80-930c-740c94c2e02b
+        title: Walter Sullivan
+        slug: walter-sullivan
+      - node_id: 34798af9-f98a-424a-98f3-9b5340fdaa80
+        title: Bill Stout
+        slug: bill-stout
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 4094e5d5-06b8-4b3b-ac52-e926313e2e47
+        title: Frank Pearlman
+        slug: frank-pearlman
+      - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
+        title: American Broadcasting Company (ABC)
+        slug: american-broadcasting-company-abc
+      - node_id: 7a25b20b-c238-4b97-862f-dc62dba6278a
+        title: Columbia Broadcasting System (CBS) News
+        slug: columbia-broadcasting-system-cbs-news
+      - node_id: 7da2cf2b-788e-43ff-912c-1a6087f7bd06
+        title: San Francisco Chronicle
+        slug: san-francisco-chronicle
+      - node_id: b34fd408-b07a-4bc4-b750-c80cfdecbcb3
+        title: Frank Bristow
+        slug: frank-bristow
+      - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+        title: The New York Times
+        slug: the-new-york-times
+      - node_id: e6220ff0-c6db-4f15-9332-72acce9c9dc0
+        title: Jules Bergmann
+        slug: jules-bergmann
+    date: 1969-07
+    date_end: null
+    location_in_record: ch7:28796-29148
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c6d522f2-27d3-49fe-aa08-b342d0053f74
+    claim_hash: 296a54f0f373dea87da074731593868855c2e72a4b8e1921bf7cd315c993e029
+    content: Twelve of James Leininger's core past-life memory statements, recorded prior to the resolution of the case and
+      dated by Bruce Leininger's printed documents, emails, and ABC video footage, were well established by the time James
+      was three years old.
+    original_excerpt: It is this group of primary statements, dated by Bruce’s printed documents, emails, and the ABC video
+      footage, which I will focus on now. Twelve were well established by the time James was three years old.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 953f6232-9902-437f-ad4c-add4fd080043
+      title: Leslie Kean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
+        title: American Broadcasting Company (ABC)
+        slug: american-broadcasting-company-abc
+      - node_id: 9dbd0699-bbc9-42ca-bbca-b4128803cc47
+        title: James Leininger
+        slug: james-leininger
+      - node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
+        title: Bruce Leininger
+        slug: bruce-leininger
+    date: null
+    date_end: null
+    location_in_record: ch10:7527-7728
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: e8039c28-207c-4f1f-a1de-69aae7525669
+    claim_hash: 3a71b405749fef645af7f7e05e81f927db1610beeb332e11d4f6c2751117323c
+    content: ABC producer Shalini Sharma reported that James Leininger, while showing her a picture of a Corsair in a book,
+      told her the planes used to get flat tires all the time and always wanted to turn left when they took off.
+    original_excerpt: When the ABC producer for the segment, Shalini Sharma, met James, he unexpectedly told her more about
+      the Corsair while showing her a picture of the plane in a book. "They used to get flat tires all the time. And they
+      always wanted to turn left when they took off," he said.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Shalini Sharma
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
+        title: American Broadcasting Company (ABC)
+        slug: american-broadcasting-company-abc
+      - node_id: 86a1217c-882c-4f1e-b6a5-9afd3e3b5b4a
+        title: Corsair
+        slug: corsair
+      - node_id: 9b69ca5a-2936-44cb-ae6f-4da47d362257
+        title: Shalini Sharma
+        slug: shalini-sharma
+      - node_id: 9dbd0699-bbc9-42ca-bbca-b4128803cc47
+        title: James Leininger
+        slug: james-leininger
+    date: null
+    date_end: null
+    location_in_record: ch9:18830-19099
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death

@@ -1,2186 +1,2256 @@
 schema: anomalica/brief/1
-brief_hash: a6ce72cb6f6f15bae9239b8708be796207129ae11751d7df4ed47fc4ed28b40f
+brief_hash: dd3b9a876e7474f92e53b285162333234d21b2cc8052628e43aecc04dc2a8a2a
 page:
   kind: entity
   node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
   node_type: person
   title: John Podesta
   slug: john-podesta
-  claim_count: 52
-  claim_count_total: 52
+  claim_count: 53
+  claim_count_total: 53
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 53
+  tokens_estimated: 16351
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 53
 related_nodes:
-- node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-  title: Robert Fish
-  node_type: person
-  slug: robert-fish
-  shared_claims: 13
-- node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-  title: Tom DeLonge
-  node_type: person
-  slug: tom-delonge
-  shared_claims: 10
-- node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
-  title: Barack Obama
-  node_type: person
-  slug: barack-obama
-  shared_claims: 5
-- node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-  title: William J. Clinton
-  node_type: person
-  slug: william-j-clinton
-  shared_claims: 5
-- node_id: 33ae3380-25ea-442a-9d60-69b285a20182
-  title: Hillary Clinton
-  node_type: person
-  slug: hillary-clinton
-  shared_claims: 4
-- node_id: ef2bb79d-43f0-4dd8-8a98-f100f3269e92
-  title: Podesta email leak correspondence with Tom DeLonge
-  node_type: document
-  slug: podesta-email-leak-correspondence-with-tom-delonge
-  shared_claims: 4
-- node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
-  title: Robert Weiss
-  node_type: person
-  slug: robert-weiss
-  shared_claims: 4
-- node_id: f6a72317-9207-4e62-a1ea-c9da7a06ffa6
-  title: 2016 GRU hacking of John Podesta's email and Wikileaks release
-  node_type: event
-  slug: 2016-gru-hacking-of-john-podestas-email-and-wikileaks-release
-  shared_claims: 3
-- node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
-  title: Hillary Clinton presidential campaign
-  node_type: organisation
-  slug: hillary-clinton-presidential-campaign
-  shared_claims: 3
-- node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
-  title: Michael Carey
-  node_type: person
-  slug: michael-carey
-  shared_claims: 3
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 3
-- node_id: 5c97c2fc-3ea3-4274-906c-595f15086e9a
-  title: Victor Borisovich Netyksho
-  node_type: person
-  slug: victor-borisovich-netyksho
-  shared_claims: 3
-- node_id: 58fec0aa-60f1-424f-a896-4fab810b562f
-  title: Center for American Progress
-  node_type: organisation
-  slug: center-for-american-progress
-  shared_claims: 2
-- node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
-  title: Defense Support Program (DSP)
-  node_type: project
-  slug: defense-support-program-dsp
-  shared_claims: 2
-- node_id: b7de1230-f68a-4793-81a4-65b809ba7633
-  title: Hack of John Podesta's emails
-  node_type: event
-  slug: hack-of-john-podestas-emails
-  shared_claims: 2
-- node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-  title: Lockheed Martin Skunk Works
-  node_type: organisation
-  slug: lockheed-martin-skunk-works
-  shared_claims: 2
-- node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
-  title: Neil McCasland
-  node_type: person
-  slug: neil-mccasland
-  shared_claims: 2
-- node_id: 3afaa632-5c7b-42e6-a549-54cf733101e4
-  title: Russian General Staff Main Intelligence Directorate (GRU)
-  node_type: organisation
-  slug: russian-general-staff-main-intelligence-directorate-gru
-  shared_claims: 2
-- node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-  title: The White House
-  node_type: organisation
-  slug: the-white-house
-  shared_claims: 2
-- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-  title: United States Department of Defense (DoD)
-  node_type: organisation
-  slug: united-states-department-of-defense-dod
-  shared_claims: 2
-- node_id: d5d955f6-d1f1-4808-818c-7e2e1a8ff132
-  title: 1990-1991 Gulf War
-  node_type: event
-  slug: 1990-1991-gulf-war
-  shared_claims: 1
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 1
-- node_id: aea43a75-d26d-4102-ad94-ef845736bf33
-  title: 2015 WikiLeaks release of John Podesta emails
-  node_type: event
-  slug: 2015-wikileaks-release-of-john-podesta-emails
-  shared_claims: 1
-- node_id: d46162c5-c64c-4139-878e-78b659bcae5c
-  title: 2016 United States presidential election
-  node_type: event
-  slug: 2016-united-states-presidential-election
-  shared_claims: 1
-- node_id: f7087ed6-e062-433a-90d6-71822d0fee8f
-  title: Bermuda
-  node_type: place
-  slug: bermuda
-  shared_claims: 1
-- node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-  title: Cuba
-  node_type: place
-  slug: cuba
-  shared_claims: 1
-- node_id: 72c7cc12-fa5f-4700-aa47-b0df6c7a0083
-  title: Democratic Party
-  node_type: organisation
-  slug: democratic-party
-  shared_claims: 1
-- node_id: 818a10c9-e3e1-4110-b544-e1ca790fcfbd
-  title: Executive Order 12958
-  node_type: document
-  slug: executive-order-12958
-  shared_claims: 1
-- node_id: ff40b01c-7ab2-483c-abcf-08f2bd713823
-  title: Fancy Bear
-  node_type: organisation
-  slug: fancy-bear
-  shared_claims: 1
-- node_id: 41a65634-8fe3-4bdc-b3ba-fa609280102d
-  title: Jacques Vallee's journals (Forbidden Science)
-  node_type: document
-  slug: jacques-vallees-journals-forbidden-science
-  shared_claims: 1
-claims:
-- claim_id: 60b6a207-91ec-4ef8-b4b7-4f228dc2e5ec
-  claim_hash: e028f3d801f6bf706d602c341de42958973f3d4c250b7ba2d8672f03916fb784
-  content: On 2015-03-05, John Podesta replied to Bob Fish that he was hard for him
-    to follow up at that moment but he would keep Bob Fish's contact information.
-  original_excerpt: Thx for the note. Hard for me follow up at this moment but I will
-    keep your contact information.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-  provenance_chain:
-    origin_kind: speaker
-    origin: John Podesta
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
   - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
     title: Robert Fish
+    node_type: person
     slug: robert-fish
-  date: '2015-03-05'
-  date_end: null
-  location_in_record: char:121-205
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3150de3a-84e9-4968-a961-43df1cf80222
-    record_title: 'Re: Leslie Kean book comment'
-    record_date: '2015-03-05'
-    record_reference: https://wikileaks.org/podesta-emails/emailid/18724
-    content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
-    friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
-- claim_id: 519b41cc-4aca-451e-8355-1b88f9089a36
-  claim_hash: 591cd46162df78e3ed5d61050703664aec7bff6c99bbb240746c689b1ca2c658
-  content: Bob Fish offered to arrange a phone call or meeting with John Podesta to
-    share specific programme names, if John Podesta became interested in gaining more
-    specific information.
-  original_excerpt: If/when you might be interested in gaining more specific information
-    (program names) please feel free to contact me by email to arrange a phone call
-    or meeting
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bob Fish
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  date: '2015-03-05'
-  date_end: null
-  location_in_record: char:1318-1471
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3150de3a-84e9-4968-a961-43df1cf80222
-    record_title: 'Re: Leslie Kean book comment'
-    record_date: '2015-03-05'
-    record_reference: https://wikileaks.org/podesta-emails/emailid/18724
-    content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
-    friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
-- claim_id: a98c932b-4885-46c0-8666-5cc6cc982700
-  claim_hash: c8e3f89099a883a9e7e2723057e9eb0366680cdaed9bbb12439add1333483928
-  content: Bob Fish stated that his communication with John Podesta was entirely private
-    and confidential and had nothing to do with the USS Hornet Museum.
-  original_excerpt: this communication with you is entirely PRIVATE and CONFIDENTIAL
-    and has nothing to do with the museum
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bob Fish
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  - node_id: c5e8dda4-0d49-4dd9-bb2e-f2860a386f8e
-    title: USS Hornet Museum
-    slug: uss-hornet-museum
-  date: '2015-03-05'
-  date_end: null
-  location_in_record: char:1627-1723
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3150de3a-84e9-4968-a961-43df1cf80222
-    record_title: 'Re: Leslie Kean book comment'
-    record_date: '2015-03-05'
-    record_reference: https://wikileaks.org/podesta-emails/emailid/18724
-    content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
-    friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
-- claim_id: ba26da13-3d8c-4159-b75e-d3d9da7ee769
-  claim_hash: 15ab996cafd242c9f5c88f734371568fe078816d90971556cdc6d17f656fbd1c
-  content: The other attendees listed for the proposed Google Hangout meeting were
-    Tom DeLonge, John Podesta, Lockheed Martin Skunk Works' boss Rob Weiss, Hillary
-    Clinton campaign assistant Milia Fisher, and retired Major General Michael Carey.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: a leaked Podesta email
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 13dd6341-c313-47b9-b7cd-07f36290876d
-    title: Milia Fisher
-    slug: milia-fisher
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
-    title: Hillary Clinton presidential campaign
-    slug: hillary-clinton-presidential-campaign
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
+    shared_claims: 13
   - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
     title: Tom DeLonge
+    node_type: person
     slug: tom-delonge
-  - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
-    title: Michael Carey
-    slug: michael-carey
+    shared_claims: 10
+  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Barack Obama
+    node_type: person
+    slug: barack-obama
+    shared_claims: 6
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    node_type: person
+    slug: william-j-clinton
+    shared_claims: 5
+  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+    title: Hillary Clinton
+    node_type: person
+    slug: hillary-clinton
+    shared_claims: 4
+  - node_id: ef2bb79d-43f0-4dd8-8a98-f100f3269e92
+    title: Podesta email leak correspondence with Tom DeLonge
+    node_type: document
+    slug: podesta-email-leak-correspondence-with-tom-delonge
+    shared_claims: 4
   - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
     title: Robert Weiss
+    node_type: person
     slug: robert-weiss
-  date: null
-  date_end: null
-  location_in_record: 29-31
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: bf183d17-c213-4e7c-bcb7-ba289fda07a7
-  claim_hash: 1f540e5e6ca57718b301e51f4361048824c288f64b06143eb6152c8181d96a8a
-  content: The leaked emails showed John Podesta was emailed about UFOs by an associate
-    named Robert 'Bob' Fish, who revealed that 'Fast Walkers' were routinely detected
-    entering Earth's atmosphere from outer space by Defense Support Program satellites.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: third_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Robert 'Bob' Fish
-    relay:
-    - email to John Podesta
-    - 2015 WikiLeaks release
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
+    shared_claims: 4
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 4
+  - node_id: f6a72317-9207-4e62-a1ea-c9da7a06ffa6
+    title: 2016 GRU hacking of John Podesta's email and Wikileaks release
+    node_type: event
+    slug: 2016-gru-hacking-of-john-podestas-email-and-wikileaks-release
+    shared_claims: 3
+  - node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
+    title: Hillary Clinton presidential campaign
+    node_type: organisation
+    slug: hillary-clinton-presidential-campaign
+    shared_claims: 3
+  - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+    title: Michael Carey
+    node_type: person
+    slug: michael-carey
+    shared_claims: 3
+  - node_id: 5c97c2fc-3ea3-4274-906c-595f15086e9a
+    title: Victor Borisovich Netyksho
+    node_type: person
+    slug: victor-borisovich-netyksho
+    shared_claims: 3
+  - node_id: 58fec0aa-60f1-424f-a896-4fab810b562f
+    title: Center for American Progress
+    node_type: organisation
+    slug: center-for-american-progress
+    shared_claims: 2
   - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
     title: Defense Support Program (DSP)
+    node_type: project
     slug: defense-support-program-dsp
-  date: null
-  date_end: null
-  location_in_record: ch13:27336-27523
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d3c66516-8e1d-4dfa-a0be-83281086b8d5
-  claim_hash: 5f0621da729683021abd5f707f189819cd66be31b9290aca01873e0d2f3d95c7
-  content: Robert 'Bob' Fish told John Podesta confidentially about an object he was
-    briefed on by a US-based Defense Support Program operator at a high-security US
-    private corporate aerospace facility in California.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: third_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to be a Defense Support Program operator at a private
-      corporate aerospace facility in California
-    relay:
-    - Robert 'Bob' Fish
-    - email to John Podesta
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
-    title: Defense Support Program (DSP)
-    slug: defense-support-program-dsp
-  date: null
-  date_end: null
-  location_in_record: ch13:27535-27719
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 3cdcad52-1f3d-4190-a46f-25b8c2e9c138
-  claim_hash: 3d7d4ac556d996ef9549edb0c417234524ff2c9473ecb7a061b6ca22816f7c16
-  content: The UAP Robert 'Bob' Fish described to John Podesta was recorded passing
-    a satellite during the run-up to the Iraq War in 1991.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: third_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to be a Defense Support Program operator at a private
-      corporate aerospace facility in California
-    relay:
-    - Robert 'Bob' Fish
-    - email to John Podesta
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
+    shared_claims: 2
+  - node_id: b7de1230-f68a-4793-81a4-65b809ba7633
+    title: Hack of John Podesta's emails
+    node_type: event
+    slug: hack-of-john-podestas-emails
+    shared_claims: 2
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    node_type: organisation
+    slug: lockheed-martin-skunk-works
+    shared_claims: 2
+  - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
+    title: Neil McCasland
+    node_type: person
+    slug: neil-mccasland
+    shared_claims: 2
+  - node_id: 3afaa632-5c7b-42e6-a549-54cf733101e4
+    title: Russian General Staff Main Intelligence Directorate (GRU)
+    node_type: organisation
+    slug: russian-general-staff-main-intelligence-directorate-gru
+    shared_claims: 2
+  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+    title: The White House
+    node_type: organisation
+    slug: the-white-house
+    shared_claims: 2
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 2
   - node_id: d5d955f6-d1f1-4808-818c-7e2e1a8ff132
     title: 1990-1991 Gulf War
+    node_type: event
     slug: 1990-1991-gulf-war
-  date: '1991'
-  date_end: null
-  location_in_record: ch13:27731-27809
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 75a61b45-f17f-4b19-b981-e83ce6b8ae22
-  claim_hash: 5c5c41c8ba1435d4f05368909a5ecb20cf14b0ff26263f7be320bc52e3f0d298
-  content: Robert 'Bob' Fish told John Podesta that the tracked object was under some
-    sort of control, though whether it was 'manned' or 'robotic' could not be told,
-    and suggested Podesta ask for the data.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Robert 'Bob' Fish
-    relay:
-    - email to John Podesta
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  date: null
-  date_end: null
-  location_in_record: ch13:27816-27983
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 73873dca-379c-4d42-903b-a932676dfa14
-  claim_hash: 4beedee691816246b0cc3f79f9488d6cda20c2405593864f09fd9cd988d3185c
-  content: Robert 'Bob' Fish told John Podesta that information on the tracked object
-    has existed for many years and is still available today, if one knows where and
-    what to look for.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Robert 'Bob' Fish
-    relay:
-    - email to John Podesta
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  date: null
-  date_end: null
-  location_in_record: ch13:27989-28114
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d3e3ac24-6eda-4f87-a933-756f65362bce
-  claim_hash: d1d0531ad47c6bdda42f1faf9ffbdf9d244b24ed1789a1774d6544c6b9ea4cee
-  content: Robert 'Bob' Fish considers that 'UFO hunters' are looking in the wrong
-    places, since random personal observations, fuzzy photographs, and crop circles
-    will never prove the existence of anything, and that what needs to be collected
-    and publicly disseminated is hard scientific data from instruments known to be
-    accurate and reliable.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-  provenance_chain:
-    origin_kind: speaker
-    origin: Robert 'Bob' Fish
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  date: null
-  date_end: null
-  location_in_record: ch13:28121-28577
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: a435b2f6-7f4b-4095-8056-c427837c9419
-  claim_hash: 3b8075bcef7a565f5f2fc681f96c3f5276f05e3720a07edb24b8e52b37f11314
-  content: Robert 'Bob' Fish told John Podesta about a US Air Force noncommissioned
-    officer he knew at the same classified facility who flew on RC-135 reconnaissance
-    aircraft from MacDill Air Force Base in Florida to monitor Cuba.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: third_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to be a US Air Force noncommissioned officer who flew
-      RC-135 reconnaissance missions from MacDill Air Force Base
-    relay:
-    - Robert 'Bob' Fish
-    - email to John Podesta
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0f55f132-bf9e-4f4a-adbe-535c17f1702e
-    title: RC-135 reconnaissance aircraft
-    slug: rc-135-reconnaissance-aircraft
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
-    title: Cuba
-    slug: cuba
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  - node_id: 6aa15de8-e459-4884-b715-28e5a4db8080
-    title: MacDill Air Force Base
-    slug: macdill-air-force-base
-  date: null
-  date_end: null
-  location_in_record: ch13:28654-28866
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 7187a038-7743-46bd-9105-c829f81a71fb
-  claim_hash: 53d6673e628d46c6bb789c5945e2795e63bc61ff126be3a80b0287f43384d16e
-  content: An anonymous US Air Force noncommissioned officer, relayed by Robert 'Bob'
-    Fish to John Podesta, said that RC-135 reconnaissance missions monitoring Cuba
-    were sometimes diverted to track UFOs off the east coast of Florida, which he
-    claimed had a landing and takeoff point in the ocean east of Miami, north of Bermuda,
-    tracked by a specific electronic signature when transitioning into or out of the
-    water, and were filmed on several occasions transitioning between water and air.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: third_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to be a US Air Force noncommissioned officer who flew
-      RC-135 reconnaissance missions from MacDill Air Force Base
-    relay:
-    - Robert 'Bob' Fish
-    - email to John Podesta
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 374cbd07-aff3-44c7-bccb-83fbb4de8601
-    title: USA, Florida, Miami
-    slug: florida-miami-usa
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  - node_id: f7087ed6-e062-433a-90d6-71822d0fee8f
-    title: Bermuda
-    slug: bermuda
-  date: null
-  date_end: null
-  location_in_record: ch13:28873-29352
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 2a1a0bbd-58a8-4d56-b54a-63ea892302eb
-  claim_hash: e1fe6209d6a371d7803948b2fd912fe51291dd24c0c17534ea0073e09572d3cd
-  content: Robert 'Bob' Fish told John Podesta that high-quality film of UFOs is 'out
-    there'.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Robert 'Bob' Fish
-    relay:
-    - email to John Podesta
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  date: null
-  date_end: null
-  location_in_record: ch13:29362-29396
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d30cf669-3b94-4750-8c39-299ff05be108
-  claim_hash: 2f0297a644b18737dadb63f414586c2dcf178b44e56338a661024d24ee430745
-  content: Robert 'Bob' Fish contacted John Podesta because it frustrated him that
-    no one was seeking evidence he knew, because of his high security clearances,
-    was held inside government files.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-  provenance_chain:
-    origin_kind: speaker
-    origin: Robert 'Bob' Fish
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  date: null
-  date_end: null
-  location_in_record: ch13:30999-31178
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 12340195-1080-4fa6-94bd-8fb2123d8392
-  claim_hash: 824dc16c97987cc9c618688b6d391ee338a2608907a8b7bcb56ce8f7009b3e28
-  content: John Podesta was a political consultant who served as President Bill Clinton's
-    Chief of Staff in the White House from 1998 to 2001.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-    title: William J. Clinton
-    slug: william-j-clinton
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: '1998'
-  date_end: null
-  location_in_record: ch14:26259-26377
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 32dcefba-6c4b-4670-bda6-117e2884eaee
-  claim_hash: 336cc2be6c2440d347efc91023b724d5438f670591d6c0146e257f57f99554eb
-  content: John Podesta served as Counsellor to President Barack Obama from 2014 to
-    2015.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
-    title: Barack Obama
-    slug: barack-obama
-  date: '2014'
-  date_end: null
-  location_in_record: ch14:26387-26451
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: c5d92a41-e368-42fe-b2fb-763f561d9c5e
-  claim_hash: 08038dc04940258844b78011f750edfe457f7476e4965695b0631d35726b3bab
-  content: In 2002, shortly after leaving the Clinton White House, John Podesta supported
-    a lawsuit fighting to get government records released on the 1965 UAP incident
-    in Kecksburg, Pennsylvania.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: dedb6ce3-b71e-401d-9c35-5816b16d68cf
-    title: USA, Pennsylvania, Kecksburg
-    slug: pennsylvania-kecksburg-usa
-  date: '2002'
-  date_end: null
-  location_in_record: ch14:26457-26619
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 7a71b0e5-d681-4601-b492-f500b1afa137
-  claim_hash: a134a31eeea314a26257429b24db3cbcb754806f3318a13abea6bf60cc140e5e
-  content: John Podesta told a Washington National Press Club press conference that
-    he thought it was time to open the books on questions that have remained in the
-    dark regarding government investigations of UFOs, to find out the truth, because
-    the American people can handle the truth and because it is the law.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-  provenance_chain:
-    origin_kind: speaker
-    origin: John Podesta
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: ch14:26699-27066
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 9612f758-1801-4bbc-b62c-cd638445e523
-  claim_hash: 2871930e04e87c39158f337a8321208a7381301ee81fe1a96688f776062a698c
-  content: In February 2015, on his final day as Counsellor to President Obama, John
-    Podesta tweeted that his biggest failure of 2014 was once again not securing the
-    disclosure of the UFO files.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-  provenance_chain:
-    origin_kind: speaker
-    origin: John Podesta
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
-    title: Barack Obama
-    slug: barack-obama
-  date: 2015-02
-  date_end: null
-  location_in_record: ch18:3396-3613
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d18570b9-0086-4346-ba6a-ef8f49fbcca9
-  claim_hash: ecf7c2646a4a9109cd654085c5111574647c9f0db5189557ab8cea2aafffe4d2
-  content: John Podesta had secured Executive Order 12958 under President Bill Clinton,
-    declassifying millions of pages of national security documents, including many
-    Unidentified Aerial Phenomena (UAP) files.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-    title: William J. Clinton
-    slug: william-j-clinton
-  - node_id: 818a10c9-e3e1-4110-b544-e1ca790fcfbd
-    title: Executive Order 12958
-    slug: executive-order-12958
-  date: null
-  date_end: null
-  location_in_record: ch18:3627-3799
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: af2a5199-eea9-4b16-b522-84f8a0533deb
-  claim_hash: 162d48a1a9408a2ffc0c8c478e11623f0ad5e10c34848a6058d585d6a5b0c0e6
-  content: The leaked Podesta emails reveal that Tom DeLonge was in contact with one
-    of America's most senior private aerospace chief executives, a campaign manager
-    for Hillary Clinton, and two senior recently retired US Air Force generals, and
-    that UAP were discussed among them.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: leaked Podesta emails
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
-    title: Neil McCasland
-    slug: neil-mccasland
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
-    title: Michael Carey
-    slug: michael-carey
-  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
-    title: Robert Weiss
-    slug: robert-weiss
-  date: null
-  date_end: null
-  location_in_record: ch20:10178-10455
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 1263b350-d4f5-404a-bbcb-2c54db2015be
-  claim_hash: 7e4b25cd688ece665a22920a49459695eb29dd7af9e886bb934691033742f54e
-  content: John Podesta was the campaign manager for Hillary Clinton's 2016 presidential
-    campaign.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
-    title: Hillary Clinton presidential campaign
-    slug: hillary-clinton-presidential-campaign
-  date: null
-  date_end: null
-  location_in_record: ch20:109-274
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: ee296dab-5dc5-4be0-9751-55f7c6f58dc6
-  claim_hash: b72d8051eb8939b3f7bf200103cc9f0504168bd42523b89af3010f183b8dd4f9
-  content: Nothing in the leaked Podesta emails proves the truth of what was claimed
-    in briefings by military insiders about alien visitations, that Roswell and other
-    purported extra-terrestrial craft crashes happened, or that recovery of alien
-    corpses happened.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    slug: roswell-incident-1947
-  date: null
-  date_end: null
-  location_in_record: ch20:11940-12253
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 77404a1f-ef4d-49fe-9030-f0202a4f2e63
-  claim_hash: be2018dbdd0b49b16c996fa0ee4a7f4ce5adf4edeae6598babcf4213f5cee01e
-  content: Netyksho and Fancy Bear turned their hacking efforts on John Podesta, operating
-    from a GRU building in Moscow.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 3afaa632-5c7b-42e6-a549-54cf733101e4
-    title: Russian General Staff Main Intelligence Directorate (GRU)
-    slug: russian-general-staff-main-intelligence-directorate-gru
-  - node_id: 5c97c2fc-3ea3-4274-906c-595f15086e9a
-    title: Victor Borisovich Netyksho
-    slug: victor-borisovich-netyksho
-  - node_id: ff40b01c-7ab2-483c-abcf-08f2bd713823
-    title: Fancy Bear
-    slug: fancy-bear
-  date: null
-  date_end: null
-  location_in_record: ch20:1295-1398
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 482877fc-950a-4d57-8cdf-f157a3d5eaeb
-  claim_hash: 0fa21970eb42a9aab2a8f70c952b04ad3777bbc7618e88ccd3525979a87e17ba
-  content: In an email, Tom DeLonge told John Podesta that 'The General (from Wright
-    Patt R&D)' and he talked every other day, and that this official was excited and
-    thought the Department of Defense would embrace DeLonge's project because it was
-    intended to show the positive things people had done on the topic.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay:
-    - an email to John Podesta
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
-    title: Neil McCasland
-    slug: neil-mccasland
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch20:13446-13822
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 0920676b-7dc3-435f-9e54-2ec948c886c1
-  claim_hash: 861fe0d80c62db29091fa159cf687cd4535f426cc652b159dc788e7b4aa6bd47
-  content: In 2016, probably October, John Podesta re-entered his Gmail password after
-    being prompted by a fake message, unaware it was a phishing attempt.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: f6a72317-9207-4e62-a1ea-c9da7a06ffa6
-    title: 2016 GRU hacking of John Podesta's email and Wikileaks release
-    slug: 2016-gru-hacking-of-john-podestas-email-and-wikileaks-release
-  date: 2016-10
-  date_end: null
-  location_in_record: ch20:1408-1538
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 4a13d97d-08e8-471d-b3cf-2a33b203a90b
-  claim_hash: 4569c1b050e42f95023bcb53d88b6339078985d075627d5934a41a7634706306
-  content: In an email, Tom DeLonge told John Podesta that he planned to have dinner
-    in September 2015 with current commanding officers at the Air Force Space Command
-    in Colorado Springs to discuss how to move his project forward.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay:
-    - an email to John Podesta
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 268ebaed-fa42-4feb-881f-fd8f70ca28fb
-    title: USA, Colorado, Colorado Springs
-    slug: colorado-colorado-springs-usa
-  - node_id: 619cf545-7418-417a-af4e-9acf7930f3b2
-    title: US Air Force Space Command
-    slug: us-air-force-space-command
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: 2015-09
-  date_end: null
-  location_in_record: ch20:15554-15746
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: f7811dfd-a60c-4100-b341-cdd39434440a
-  claim_hash: b884e547c3f4f89bfd8ec5bbca4d61b5bc976576fc8b570cd62b37922da18401
-  content: John Podesta said 'I think the American people can handle the truth about
-    this' while working on the Hillary Clinton campaign.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-  provenance_chain:
-    origin_kind: speaker
-    origin: John Podesta
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
-    title: Hillary Clinton presidential campaign
-    slug: hillary-clinton-presidential-campaign
-  date: null
-  date_end: null
-  location_in_record: ch20:16344-16443
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 3c8b5ec8-dda7-4245-95dc-e88e7fdc1633
-  claim_hash: 9bb67839e6f7dc6c1a2a0151927cf9fd9f49e072e2c63684c48b54a24689ad34
-  content: In March 2016, from the campaign trail, John Podesta said he had talked
-    to Hillary Clinton about the issue, that people really want to know what the government
-    knows, and that there are still classified UAP files that could be declassified.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-  provenance_chain:
-    origin_kind: speaker
-    origin: John Podesta
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
-    title: Hillary Clinton
-    slug: hillary-clinton
-  date: 2016-03
-  date_end: null
-  location_in_record: ch20:16632-16875
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 3476f827-1a18-46dd-9d45-2c4cb30fc3b1
-  claim_hash: 0c37a3ee459ae207a17bdcd41e3d2acea2eb50387cf12d6d5369b7b279cad845
-  content: John Podesta held top-secret/Sensitive Compartmented Information (SCI)
-    clearances in his past roles with both Presidents Obama and Clinton.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
-    title: Barack Obama
-    slug: barack-obama
-  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-    title: William J. Clinton
-    slug: william-j-clinton
-  - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
-    title: Sensitive Compartmented Information Facility (SCIF)
-    slug: sensitive-compartmented-information-facility-scif
-  date: null
-  date_end: null
-  location_in_record: ch20:17002-17135
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: a9c46c3c-46fa-422c-96a4-ee2ade0343a3
-  claim_hash: a837b1197bca4e08bcd1279bb996a0ed4ea61755ef4848c26111bc0deae188cb
-  content: Before 2016, John Podesta had never heard of Victor Borisovich Netyksho.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 5c97c2fc-3ea3-4274-906c-595f15086e9a
-    title: Victor Borisovich Netyksho
-    slug: victor-borisovich-netyksho
-  date: null
-  date_end: null
-  location_in_record: ch20:224-355
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: b113536b-243f-434d-a734-f60fc9cf9b62
-  claim_hash: 7913f8b8fcac6e25950894864c329088586f6d9caf057aaf4939fed78c57f089
-  content: Within hours of Donald Trump's 2016-07-28 comments, Russian hackers began
-    new penetration efforts against the Democrats which led them to John Podesta.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 72c7cc12-fa5f-4700-aa47-b0df6c7a0083
-    title: Democratic Party
-    slug: democratic-party
-  date: '2016-07-28'
-  date_end: null
-  location_in_record: ch20:2577-2721
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 2482e74d-1538-42d6-85eb-b0c947a073ea
-  claim_hash: cebf4fca08542f8665cf3f1e34d5e217da3adbf8f07ad438f3fa628a7b4363ff
-  content: Within minutes of John Podesta clicking a fake Gmail link that was a spear-phishing
-    hack, his private communications began streaming back to Victor Borisovich Netyksho
-    and his colleagues at GRU headquarters in Moscow.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 3afaa632-5c7b-42e6-a549-54cf733101e4
-    title: Russian General Staff Main Intelligence Directorate (GRU)
-    slug: russian-general-staff-main-intelligence-directorate-gru
-  - node_id: 5c97c2fc-3ea3-4274-906c-595f15086e9a
-    title: Victor Borisovich Netyksho
-    slug: victor-borisovich-netyksho
-  - node_id: f6a72317-9207-4e62-a1ea-c9da7a06ffa6
-    title: 2016 GRU hacking of John Podesta's email and Wikileaks release
-    slug: 2016-gru-hacking-of-john-podestas-email-and-wikileaks-release
-  date: null
-  date_end: null
-  location_in_record: ch20:4178-4383
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 3a8bf1d6-9c20-485c-816b-d5c0691d850f
-  claim_hash: eef6f4cbcbeab73e124c5da2cfd817a86dc492ed97c1ee8c9da22a8248235359
-  content: Within days of the hack, thousands of John Podesta's emails were leaked
-    on the WikiLeaks website.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 378962cf-3d85-4df1-bf17-e4047e308491
-    title: Wikileaks
-    slug: wikileaks
+    shared_claims: 1
   - node_id: aea43a75-d26d-4102-ad94-ef845736bf33
     title: 2015 WikiLeaks release of John Podesta emails
+    node_type: event
     slug: 2015-wikileaks-release-of-john-podesta-emails
-  - node_id: f6a72317-9207-4e62-a1ea-c9da7a06ffa6
-    title: 2016 GRU hacking of John Podesta's email and Wikileaks release
-    slug: 2016-gru-hacking-of-john-podestas-email-and-wikileaks-release
-  date: null
-  date_end: null
-  location_in_record: ch20:4391-4486
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 541e7b0f-e70b-4f52-802b-a63c58b9c921
-  claim_hash: 9cf657f79070be08eb638041da9ebcfbeec7417ca896250c39e52af382a1f5de
-  content: The leaked Podesta emails contained a string of exchanges between John
-    Podesta and Tom DeLonge revealing plans for a Google Hangout meeting between DeLonge,
-    two US Air Force generals, and Rob Weiss, the Lockheed Martin executive vice-president
-    and general manager of its advanced development programs known as Skunk Works.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: leaked Podesta emails
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
-    title: Lockheed Martin
-    slug: lockheed-martin
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
-    title: Robert Weiss
-    slug: robert-weiss
-  - node_id: ee0c01e2-9f22-416a-9450-67d7b46d9ac5
-    title: United States Air Force generals and intelligence officials briefing Tom
-      DeLonge
-    slug: united-states-air-force-generals-and-intelligence-officials-briefing-tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch20:4492-4853
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: c5222691-32cd-4b42-87cc-4499ef323986
-  claim_hash: bbe838606fc2d7e5a0ab047ab5c9542676132109d4b65061a1397fe475135e4e
-  content: John Podesta was Tom DeLonge's anonymous 'top man' contact in government.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch20:5048-5101
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d201f92a-9710-4b9b-8891-9dd12649082c
-  claim_hash: c8dcb197ba0554ba9c5034b2de5f81ad998f28850a41a90601b245c39b9eebf3
-  content: In a leaked email, Tom DeLonge told John Podesta he wanted to bring two
-    'important' people to meet him in Washington DC who were principal leadership
-    relating to their sensitive topic and had been in charge of the most fragile divisions
-    relating to classified science and Department of Defense topics.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay:
-    - an email to John Podesta
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch20:5268-5803
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: fd041e01-83bb-4d21-9d13-75a9ab0bbcfb
-  claim_hash: e016decf9e5c78da24f30630da3edbd4a5941b6d7cbf38d147065a5922c362e2
-  content: In a leaked Podesta email dated 2016-01-24, a person calling himself 'Neil
-    Mcc' responded to a Google Hangout invitation to check the time of another proposed
-    meeting.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: a leaked Podesta email dated 2016-01-24
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: bd910084-6353-434a-9a71-b6fc6791881d
-    title: Susan McCasland Wilkerson
-    slug: susan-mccasland-wilkerson
-  date: '2016-01-24'
-  date_end: null
-  location_in_record: ch20:7199-7370
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 5106d413-3c38-4732-bf2e-684a55009176
-  claim_hash: 3a30c1833559a05495d9ebdcba111b11b162ef39a5d4e505a4f5a56a172007a7
-  content: Tom DeLonge exchanged emails with John Podesta.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch28:28543-28606
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 9f87020e-0b71-4a5c-96c1-665a4085bc5a
-  claim_hash: 17507cc7ac340628f769ca5c968cd239b659e228fcd8f94c6c33867355a68344
-  content: John Podesta is a confidant of Presidents Bill Clinton and Barack Obama.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
-    title: Barack Obama
-    slug: barack-obama
-  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-    title: William J. Clinton
-    slug: william-j-clinton
-  date: null
-  date_end: null
-  location_in_record: ch28:28552-28606
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 79bece11-f229-43bb-832d-42c337d7c6e9
-  claim_hash: 45754e20ef3a42e4bd4f398a9169de548f2afcc08e0200402a9014d6b868a5e2
-  content: John Podesta served as chief of staff to President Bill Clinton, counselor
-    to President Barack Obama, and campaign manager to Hillary Clinton.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
-    title: Hillary Clinton
-    slug: hillary-clinton
-  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
-    title: Barack Obama
-    slug: barack-obama
-  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-    title: William J. Clinton
-    slug: william-j-clinton
-  date: null
-  date_end: null
-  location_in_record: ch29:13091-13242
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 61703131-0c1c-4b49-80a4-c34e762cebf3
-  claim_hash: c0039585e144d2c5b29cc9ba0889cf5357be29b62359d8052462ad17fcd97276
-  content: John Podesta considers one of his regrets to be not insisting on disclosure
-    of UAP evidence while he was in the White House.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-  provenance_chain:
-    origin_kind: named
-    origin: John Podesta
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: null
-  date_end: null
-  location_in_record: ch29:13252-13371
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: c5d33659-5a64-4132-8b78-67ae62fda6c5
-  claim_hash: b2533ae58f16301fb8cfc65b980b16252d37cdd7a011817b6188497355cb53b2
-  content: John Podesta and Hillary Clinton talked a great deal about UFOs around
-    the 2016 United States presidential election.
-  original_excerpt: Anyway, fast forward to the 2016 elections. If you look back at
-    it now, and I've documented this as thoroughly as I can, Podesta and Clinton were
-    talking a lot about UFOs.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
-    title: Hillary Clinton
-    slug: hillary-clinton
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
+    shared_claims: 1
   - node_id: d46162c5-c64c-4139-878e-78b659bcae5c
     title: 2016 United States presidential election
+    node_type: event
     slug: 2016-united-states-presidential-election
-  date: '2016'
-  date_end: null
-  location_in_record: 00:39:15.9-00:39:26.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: c4807650-fade-4ca8-bfd9-7ea46a5e9002
-  claim_hash: d262b10e5403a03a0e03adab1574b7da41b8c28c46bef547609e6c3f7d25b19e
-  content: John Podesta's emails were hacked.
-  original_excerpt: Podesta's emails get hacked, obviously.
-  claim_type: administrative
-  attestation: null
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: unattributed
-    origin: public record
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: b7de1230-f68a-4793-81a4-65b809ba7633
-    title: Hack of John Podesta's emails
-    slug: hack-of-john-podestas-emails
-  date: null
-  date_end: null
-  location_in_record: 00:40:00.6-00:40:01.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 8268d82d-c79d-434e-be2b-f935d62819a6
-  claim_hash: fbe4f9f2d374eb68ab738d208771d48f0ab197baea110d0b7db45fea2cfd87a4
-  content: The hacked John Podesta emails contain roughly 35 messages exchanged between
-    Tom DeLonge and John Podesta's team.
-  original_excerpt: I think there were 35 emails back and forth between Tom DeLonge
-    and Podesta's team.
-  claim_type: measurement
-  attestation: second_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: document
-    origin: the leaked John Podesta emails
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: b7de1230-f68a-4793-81a4-65b809ba7633
-    title: Hack of John Podesta's emails
-    slug: hack-of-john-podestas-emails
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  - node_id: ef2bb79d-43f0-4dd8-8a98-f100f3269e92
-    title: Podesta email leak correspondence with Tom DeLonge
-    slug: podesta-email-leak-correspondence-with-tom-delonge
-  date: null
-  date_end: null
-  location_in_record: 00:40:05.4-00:40:09.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 0d828226-9b96-46eb-aa06-83df347c5b0a
-  claim_hash: b63c07cdcf9c940b6c82d6e260dbeedb9cd410c8a6447e44b3ecb8818d9661e1
-  content: The leaked John Podesta correspondence describes a meeting involving William
-    Neal McCasland, Michael Carey, Robert Weiss and John Podesta.
-  original_excerpt: There's that meeting where you've got General Neil McCasland and
-    Michael Carey and Robert Weiss, the president of the Skunk Works, along with Podesta
-    and along...
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: document
-    origin: the leaked John Podesta emails
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
-    title: William McCasland
-    slug: william-mccasland
-  - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
-    title: Michael Carey
-    slug: michael-carey
-  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
-    title: Robert Weiss
-    slug: robert-weiss
-  - node_id: ef2bb79d-43f0-4dd8-8a98-f100f3269e92
-    title: Podesta email leak correspondence with Tom DeLonge
-    slug: podesta-email-leak-correspondence-with-tom-delonge
-  date: null
-  date_end: null
-  location_in_record: 00:40:10.4-00:40:19.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: d4e0d454-3d7b-485e-87a3-a3a6638ae2ad
-  claim_hash: 6bde2bf0a2467114de4a5979bc9639553bfb9a34c4f8ab22fc8be6ee286a7b66
-  content: John Podesta was Hillary Clinton's campaign chief of staff.
-  original_excerpt: And Podesta is Clinton's chief of staff.
-  claim_type: administrative
-  attestation: null
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: unattributed
-    origin: public record
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
-    title: Hillary Clinton
-    slug: hillary-clinton
-  date: null
-  date_end: null
-  location_in_record: 00:40:20.0-00:40:21.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 4d408db9-1336-4123-b042-a613a70280df
-  claim_hash: 4e3f12552187a603036a6423f8abeabafbe83c1945e553ce7bcaf218bfba1bdd
-  content: Many of the people in the leaked John Podesta email correspondence were
-    connected to the Center for American Progress, John Podesta's liberal think tank
-    in Washington DC.
-  original_excerpt: A lot of these people are connected to the Center for American
-    Progress, which is Podesta's sort of big liberal think tank in DC.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 58fec0aa-60f1-424f-a896-4fab810b562f
-    title: Center for American Progress
-    slug: center-for-american-progress
-  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-    title: USA, District of Columbia, Washington
-    slug: district-of-columbia-washington-usa
-  - node_id: ef2bb79d-43f0-4dd8-8a98-f100f3269e92
-    title: Podesta email leak correspondence with Tom DeLonge
-    slug: podesta-email-leak-correspondence-with-tom-delonge
-  date: null
-  date_end: null
-  location_in_record: 00:40:35.1-00:40:41.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 78164429-37f8-4257-812c-e5b39b0bd895
-  claim_hash: 36f5438be47b5c3b46a3bdc2874f2b6054284c53b0fad31e3218ac63bfc08ee4
-  content: The Center for American Progress is a liberal think tank founded by John
-    Podesta.
-  original_excerpt: '[note: Center for American Progress - Liberal think tank founded
-    by John Podesta]'
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: source record annotation
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 58fec0aa-60f1-424f-a896-4fab810b562f
-    title: Center for American Progress
-    slug: center-for-american-progress
-  date: null
-  date_end: null
-  location_in_record: 00:40:36.3-00:40:40.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: b36ea81b-d988-4d65-b78d-c1b0debe365b
-  claim_hash: c1e8341d5c212bf3bba43986604d3eb2c93e19e15bde619ee01da7f5e8e9b319
-  content: In the leaked John Podesta emails, dated to about mid-2015, a staffer suggested
-    to John Podesta that a particular individual be considered for "the UFO project",
-    indicating a UFO project already existed.
-  original_excerpt: And at one point, there's an individual mentioned, and one of
-    the staffers said, John, maybe we should consider this individual for the UFO
-    project. And you're like, okay, so obviously this staffer and all the other people
-    on the email, including Podesta, and this is mid-2015, I think, already have a
-    UFO project?
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: document
-    origin: the leaked John Podesta emails
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: ef2bb79d-43f0-4dd8-8a98-f100f3269e92
-    title: Podesta email leak correspondence with Tom DeLonge
-    slug: podesta-email-leak-correspondence-with-tom-delonge
-  date: '2015'
-  date_end: null
-  location_in_record: 00:40:42.2-00:41:01.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: b9bcc60e-568b-406f-8e88-e61654e62876
-  claim_hash: a4d4c8b377dec2eee7dd7054cf096f2f8972f8c9ff4e6a8677d18a1fd024606a
-  content: Jacques Vallee's journals corroborate that the conversations between Tom
-    DeLonge and John Podesta's circle took place.
-  original_excerpt: these conversations really were going on, which was then further
-    validated by Jacques Vallée ... You read his journals, it absolutely did happen.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: document
-    origin: Jacques Vallee's journals
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
+    shared_claims: 1
+  - node_id: f7087ed6-e062-433a-90d6-71822d0fee8f
+    title: Bermuda
+    node_type: place
+    slug: bermuda
+    shared_claims: 1
+  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+    title: Cuba
+    node_type: place
+    slug: cuba
+    shared_claims: 1
+  - node_id: 72c7cc12-fa5f-4700-aa47-b0df6c7a0083
+    title: Democratic Party
+    node_type: organisation
+    slug: democratic-party
+    shared_claims: 1
+  - node_id: 818a10c9-e3e1-4110-b544-e1ca790fcfbd
+    title: Executive Order 12958
+    node_type: document
+    slug: executive-order-12958
+    shared_claims: 1
+  - node_id: ff40b01c-7ab2-483c-abcf-08f2bd713823
+    title: Fancy Bear
+    node_type: organisation
+    slug: fancy-bear
+    shared_claims: 1
   - node_id: 41a65634-8fe3-4bdc-b3ba-fa609280102d
     title: Jacques Vallee's journals (Forbidden Science)
+    node_type: document
     slug: jacques-vallees-journals-forbidden-science
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: 00:41:10.4-00:41:14.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 6cae5578-d048-46b1-9e8f-f9fdb65273be
-  claim_hash: 17eede93c0969cc71aa319265ed359cf0e793535229ef0ff359434cae82aa781
-  content: John Podesta was White House Chief of Staff from 1998 to 2001.
-  original_excerpt: '[note: John Podesta - White House Chief of Staff (1998-2001)]'
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: source record annotation
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: efa24386-d6bb-4e71-a245-4ee4b647adcb
-    title: The White House
-    slug: the-white-house
-  date: null
-  date_end: null
-  location_in_record: line 33
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+claims:
+  - claim_id: 60b6a207-91ec-4ef8-b4b7-4f228dc2e5ec
+    claim_hash: e028f3d801f6bf706d602c341de42958973f3d4c250b7ba2d8672f03916fb784
+    content: On 2015-03-05, John Podesta replied to Bob Fish that he was hard for him to follow up at that moment but he would
+      keep Bob Fish's contact information.
+    original_excerpt: Thx for the note. Hard for me follow up at this moment but I will keep your contact information.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+      title: John Podesta
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Podesta
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: '2015-03-05'
+    date_end: null
+    location_in_record: char:121-205
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3150de3a-84e9-4968-a961-43df1cf80222
+      record_title: 'Re: Leslie Kean book comment'
+      record_date: '2015-03-05'
+      record_reference: https://wikileaks.org/podesta-emails/emailid/18724
+      content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
+      friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
+  - claim_id: 519b41cc-4aca-451e-8355-1b88f9089a36
+    claim_hash: 591cd46162df78e3ed5d61050703664aec7bff6c99bbb240746c689b1ca2c658
+    content: Bob Fish offered to arrange a phone call or meeting with John Podesta to share specific programme names, if John
+      Podesta became interested in gaining more specific information.
+    original_excerpt: If/when you might be interested in gaining more specific information (program names) please feel free
+      to contact me by email to arrange a phone call or meeting
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bob Fish
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: '2015-03-05'
+    date_end: null
+    location_in_record: char:1318-1471
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3150de3a-84e9-4968-a961-43df1cf80222
+      record_title: 'Re: Leslie Kean book comment'
+      record_date: '2015-03-05'
+      record_reference: https://wikileaks.org/podesta-emails/emailid/18724
+      content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
+      friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
+  - claim_id: a98c932b-4885-46c0-8666-5cc6cc982700
+    claim_hash: c8e3f89099a883a9e7e2723057e9eb0366680cdaed9bbb12439add1333483928
+    content: Bob Fish stated that his communication with John Podesta was entirely private and confidential and had nothing
+      to do with the USS Hornet Museum.
+    original_excerpt: this communication with you is entirely PRIVATE and CONFIDENTIAL and has nothing to do with the museum
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bob Fish
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: c5e8dda4-0d49-4dd9-bb2e-f2860a386f8e
+        title: USS Hornet Museum
+        slug: uss-hornet-museum
+    date: '2015-03-05'
+    date_end: null
+    location_in_record: char:1627-1723
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3150de3a-84e9-4968-a961-43df1cf80222
+      record_title: 'Re: Leslie Kean book comment'
+      record_date: '2015-03-05'
+      record_reference: https://wikileaks.org/podesta-emails/emailid/18724
+      content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
+      friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
+  - claim_id: ba26da13-3d8c-4159-b75e-d3d9da7ee769
+    claim_hash: 15ab996cafd242c9f5c88f734371568fe078816d90971556cdc6d17f656fbd1c
+    content: The other attendees listed for the proposed Google Hangout meeting were Tom DeLonge, John Podesta, Lockheed Martin
+      Skunk Works' boss Rob Weiss, Hillary Clinton campaign assistant Milia Fisher, and retired Major General Michael Carey.
+    original_excerpt: The other meeting attendees were listed as DeLonge, Podesta, Skunk Works' boss Rob Weiss, an assistant
+      to the Hillary Clinton campaign Milia Fisher, and retired Major General Michael Carey.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: a leaked Podesta email
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13dd6341-c313-47b9-b7cd-07f36290876d
+        title: Milia Fisher
+        slug: milia-fisher
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
+        title: Hillary Clinton presidential campaign
+        slug: hillary-clinton-presidential-campaign
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+        title: Michael Carey
+        slug: michael-carey
+      - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+        title: Robert Weiss
+        slug: robert-weiss
+    date: null
+    date_end: null
+    location_in_record: 29-31
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bf183d17-c213-4e7c-bcb7-ba289fda07a7
+    claim_hash: 1f540e5e6ca57718b301e51f4361048824c288f64b06143eb6152c8181d96a8a
+    content: The leaked emails showed John Podesta was emailed about UFOs by an associate named Robert 'Bob' Fish, who revealed
+      that 'Fast Walkers' were routinely detected entering Earth's atmosphere from outer space by Defense Support Program
+      satellites.
+    original_excerpt: They showed Podesta was emailed about 'UFOs' by an associate named Robert Fish revealing that Fast Walkers
+      were routinely detected entering Earth's atmosphere from outer space by the DSP satellites.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert 'Bob' Fish
+      relay:
+        - email to John Podesta
+        - 2015 WikiLeaks release
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+    date: null
+    date_end: null
+    location_in_record: ch13:27336-27523
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d3c66516-8e1d-4dfa-a0be-83281086b8d5
+    claim_hash: 5f0621da729683021abd5f707f189819cd66be31b9290aca01873e0d2f3d95c7
+    content: Robert 'Bob' Fish told John Podesta confidentially about an object he was briefed on by a US-based Defense Support
+      Program operator at a high-security US private corporate aerospace facility in California.
+    original_excerpt: Fish told Podesta confidentially about the object he was briefed on by a US-based DSP operator at a
+      high-security US private corporate aerospace facility in California.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a Defense Support Program operator at a private corporate aerospace facility in California
+      relay:
+        - Robert 'Bob' Fish
+        - email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+    date: null
+    date_end: null
+    location_in_record: ch13:27535-27719
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3cdcad52-1f3d-4190-a46f-25b8c2e9c138
+    claim_hash: 3d7d4ac556d996ef9549edb0c417234524ff2c9473ecb7a061b6ca22816f7c16
+    content: The UAP Robert 'Bob' Fish described to John Podesta was recorded passing a satellite during the run-up to the
+      Iraq War in 1991.
+    original_excerpt: The UAP was recorded passing a satellite during the run-up to the Iraq War in 1991.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a Defense Support Program operator at a private corporate aerospace facility in California
+      relay:
+        - Robert 'Bob' Fish
+        - email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: d5d955f6-d1f1-4808-818c-7e2e1a8ff132
+        title: 1990-1991 Gulf War
+        slug: 1990-1991-gulf-war
+    date: '1991'
+    date_end: null
+    location_in_record: ch13:27731-27809
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 75a61b45-f17f-4b19-b981-e83ce6b8ae22
+    claim_hash: 5c5c41c8ba1435d4f05368909a5ecb20cf14b0ff26263f7be320bc52e3f0d298
+    content: Robert 'Bob' Fish told John Podesta that the tracked object was under some sort of control, though whether it
+      was 'manned' or 'robotic' could not be told, and suggested Podesta ask for the data.
+    original_excerpt: '''So, it was under some sort of control – although whether it was "manned" or just "robotic" there''s
+      no way to tell,'' Bob Fish told Podesta, suggesting he ask for the data.'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert 'Bob' Fish
+      relay:
+        - email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: null
+    date_end: null
+    location_in_record: ch13:27816-27983
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 73873dca-379c-4d42-903b-a932676dfa14
+    claim_hash: 4beedee691816246b0cc3f79f9488d6cda20c2405593864f09fd9cd988d3185c
+    content: Robert 'Bob' Fish told John Podesta that information on the tracked object has existed for many years and is
+      still available today, if one knows where and what to look for.
+    original_excerpt: He said information 'has existed for many years and is still available today, if one knows "where to
+      look" and "what to look for"'.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert 'Bob' Fish
+      relay:
+        - email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: null
+    date_end: null
+    location_in_record: ch13:27989-28114
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d3e3ac24-6eda-4f87-a933-756f65362bce
+    claim_hash: d1d0531ad47c6bdda42f1faf9ffbdf9d244b24ed1789a1774d6544c6b9ea4cee
+    content: Robert 'Bob' Fish considers that 'UFO hunters' are looking in the wrong places, since random personal observations,
+      fuzzy photographs, and crop circles will never prove the existence of anything, and that what needs to be collected
+      and publicly disseminated is hard scientific data from instruments known to be accurate and reliable.
+    original_excerpt: He also told Podesta 'UFO hunters' were looking in the wrong places. 'Random personal observations,
+      fuzzy photographers, and crop circles will never "prove" the existence of anything, especially since UFO appearances
+      to humans are transitory and somewhat related to the observer's state of mind. What needs to be collected and publicly
+      disseminated is hard scientific data collected from instruments that are known to be accurate and reliable,' Bob Fish
+      wrote.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: null
+    date_end: null
+    location_in_record: ch13:28121-28577
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a435b2f6-7f4b-4095-8056-c427837c9419
+    claim_hash: 3b8075bcef7a565f5f2fc681f96c3f5276f05e3720a07edb24b8e52b37f11314
+    content: Robert 'Bob' Fish told John Podesta about a US Air Force noncommissioned officer he knew at the same classified
+      facility who flew on RC-135 reconnaissance aircraft from MacDill Air Force Base in Florida to monitor Cuba.
+    original_excerpt: in another email, Fish told him about a US Air Force noncommissioned officer he knew at the same classified
+      facility who flew on RC-135 reconnaissance aircraft from MacDill Air Force Base in Florida to monitor Cuba.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a US Air Force noncommissioned officer who flew RC-135 reconnaissance missions from
+        MacDill Air Force Base
+      relay:
+        - Robert 'Bob' Fish
+        - email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f55f132-bf9e-4f4a-adbe-535c17f1702e
+        title: RC-135 reconnaissance aircraft
+        slug: rc-135-reconnaissance-aircraft
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 6aa15de8-e459-4884-b715-28e5a4db8080
+        title: MacDill Air Force Base
+        slug: macdill-air-force-base
+    date: null
+    date_end: null
+    location_in_record: ch13:28654-28866
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7187a038-7743-46bd-9105-c829f81a71fb
+    claim_hash: 53d6673e628d46c6bb789c5945e2795e63bc61ff126be3a80b0287f43384d16e
+    content: An anonymous US Air Force noncommissioned officer, relayed by Robert 'Bob' Fish to John Podesta, said that RC-135
+      reconnaissance missions monitoring Cuba were sometimes diverted to track UFOs off the east coast of Florida, which he
+      claimed had a landing and takeoff point in the ocean east of Miami, north of Bermuda, tracked by a specific electronic
+      signature when transitioning into or out of the water, and were filmed on several occasions transitioning between water
+      and air.
+    original_excerpt: '''He said there were times when they were diverted from these missions to track UFOs off the east coast
+      of Florida. His claim was the UFOs had a landing and takeoff point in the ocean east of Miami, north of Bermuda. There
+      was a specific electronic signature (frequency) emanating from them when they were going into or coming out of the water,
+      so they were easy to track. On several occasions they filmed the UFO as it transitioned from water to air or vice versa,''
+      Bob Fish told Podesta.'
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a US Air Force noncommissioned officer who flew RC-135 reconnaissance missions from
+        MacDill Air Force Base
+      relay:
+        - Robert 'Bob' Fish
+        - email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 374cbd07-aff3-44c7-bccb-83fbb4de8601
+        title: USA, Florida, Miami
+        slug: florida-miami-usa
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: f7087ed6-e062-433a-90d6-71822d0fee8f
+        title: Bermuda
+        slug: bermuda
+    date: null
+    date_end: null
+    location_in_record: ch13:28873-29352
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2a1a0bbd-58a8-4d56-b54a-63ea892302eb
+    claim_hash: e1fe6209d6a371d7803948b2fd912fe51291dd24c0c17534ea0073e09572d3cd
+    content: Robert 'Bob' Fish told John Podesta that high-quality film of UFOs is 'out there'.
+    original_excerpt: '''High quality film of UFOs is "out there".'''
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert 'Bob' Fish
+      relay:
+        - email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: null
+    date_end: null
+    location_in_record: ch13:29362-29396
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d30cf669-3b94-4750-8c39-299ff05be108
+    claim_hash: 2f0297a644b18737dadb63f414586c2dcf178b44e56338a661024d24ee430745
+    content: Robert 'Bob' Fish contacted John Podesta because it frustrated him that no one was seeking evidence he knew,
+      because of his high security clearances, was held inside government files.
+    original_excerpt: Fish told me he contacted Podesta because it frustrated him that no one was seeking the evidence that,
+      because of his high security clearances, he knew was held inside government files.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: null
+    date_end: null
+    location_in_record: ch13:30999-31178
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 12340195-1080-4fa6-94bd-8fb2123d8392
+    claim_hash: 824dc16c97987cc9c618688b6d391ee338a2608907a8b7bcb56ce8f7009b3e28
+    content: John Podesta was a political consultant who served as President Bill Clinton's Chief of Staff in the White House
+      from 1998 to 2001.
+    original_excerpt: John Podesta, a political consultant who served as President Clinton’s Chief of Staff in the White House
+      from 1998 to 2001
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+        title: William J. Clinton
+        slug: william-j-clinton
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: '1998'
+    date_end: null
+    location_in_record: ch14:26259-26377
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 32dcefba-6c4b-4670-bda6-117e2884eaee
+    claim_hash: 336cc2be6c2440d347efc91023b724d5438f670591d6c0146e257f57f99554eb
+    content: John Podesta served as Counsellor to President Barack Obama from 2014 to 2015.
+    original_excerpt: would later serve as Counsellor to President Obama from 2014 to 2015
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+    date: '2014'
+    date_end: null
+    location_in_record: ch14:26387-26451
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c5d92a41-e368-42fe-b2fb-763f561d9c5e
+    claim_hash: 08038dc04940258844b78011f750edfe457f7476e4965695b0631d35726b3bab
+    content: In 2002, shortly after leaving the Clinton White House, John Podesta supported a lawsuit fighting to get government
+      records released on the 1965 UAP incident in Kecksburg, Pennsylvania.
+    original_excerpt: In 2002, shortly after leaving the Clinton White House, he supported a lawsuit fighting to get government
+      records released on the 1965 UAP incident in Kecksburg, Pennsylvania.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 2503395d-618e-4633-b38f-df5e05227097
+        title: Kecksburg UAP Crash 1965
+        slug: kecksburg-uap-crash-1965
+      - node_id: dedb6ce3-b71e-401d-9c35-5816b16d68cf
+        title: USA, Pennsylvania, Kecksburg
+        slug: pennsylvania-kecksburg-usa
+    date: '2002'
+    date_end: null
+    location_in_record: ch14:26457-26619
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7a71b0e5-d681-4601-b492-f500b1afa137
+    claim_hash: a134a31eeea314a26257429b24db3cbcb754806f3318a13abea6bf60cc140e5e
+    content: John Podesta told a Washington National Press Club press conference that he thought it was time to open the books
+      on questions that have remained in the dark regarding government investigations of UFOs, to find out the truth, because
+      the American people can handle the truth and because it is the law.
+    original_excerpt: ‘I think it’s time to open the books on questions that have remained in the dark on the question of
+      government investigations of UFOs. It’s time to find out what the truth really is that’s out there. We ought to do it
+      really because it’s right. We ought to do it because the American people, quite frankly, can handle the truth. And we
+      ought to do it because it’s the law.’
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+      title: John Podesta
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Podesta
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch14:26699-27066
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9612f758-1801-4bbc-b62c-cd638445e523
+    claim_hash: 2871930e04e87c39158f337a8321208a7381301ee81fe1a96688f776062a698c
+    content: In February 2015, on his final day as Counsellor to President Obama, John Podesta tweeted that his biggest failure
+      of 2014 was once again not securing the disclosure of the UFO files.
+    original_excerpt: 'In February 2015, on his final day as Counsellor to President Obama, John Podesta tweeted, ''Finally,
+      my biggest failure of 2014: Once again not securing the #disclosure of the UFO files. #thetruthisstilloutthere cc: @nytimesDowd''.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+      title: John Podesta
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Podesta
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+    date: 2015-02
+    date_end: null
+    location_in_record: ch18:3396-3613
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d18570b9-0086-4346-ba6a-ef8f49fbcca9
+    claim_hash: ecf7c2646a4a9109cd654085c5111574647c9f0db5189557ab8cea2aafffe4d2
+    content: John Podesta had secured Executive Order 12958 under President Bill Clinton, declassifying millions of pages
+      of national security documents, including many Unidentified Aerial Phenomena (UAP) files.
+    original_excerpt: Podesta had enjoyed huge success securing Executive Order 12958 under President Clinton, declassifying
+      millions of pages of national security documents, including many UAP files.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+        title: William J. Clinton
+        slug: william-j-clinton
+      - node_id: 818a10c9-e3e1-4110-b544-e1ca790fcfbd
+        title: Executive Order 12958
+        slug: executive-order-12958
+    date: null
+    date_end: null
+    location_in_record: ch18:3627-3799
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: af2a5199-eea9-4b16-b522-84f8a0533deb
+    claim_hash: 162d48a1a9408a2ffc0c8c478e11623f0ad5e10c34848a6058d585d6a5b0c0e6
+    content: The leaked Podesta emails reveal that Tom DeLonge was in contact with one of America's most senior private aerospace
+      chief executives, a campaign manager for Hillary Clinton, and two senior recently retired US Air Force generals, and
+      that UAP were discussed among them.
+    original_excerpt: they revealed beyond any doubt whatsoever that punk rock star Tom DeLonge truly was in contact with
+      one of America's most senior private aerospace chief executives, a campaign manager for Hillary Clinton, and two very
+      senior recently retired air force generals – and UAPs were discussed
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: leaked Podesta emails
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
+        title: Neil McCasland
+        slug: neil-mccasland
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+        title: Michael Carey
+        slug: michael-carey
+      - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+        title: Robert Weiss
+        slug: robert-weiss
+    date: null
+    date_end: null
+    location_in_record: ch20:10178-10455
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1263b350-d4f5-404a-bbcb-2c54db2015be
+    claim_hash: 7e4b25cd688ece665a22920a49459695eb29dd7af9e886bb934691033742f54e
+    content: John Podesta was the campaign manager for Hillary Clinton's 2016 presidential campaign.
+    original_excerpt: Sitting at his desk in Washington DC, this time as the campaign manager for Hillary Clinton's 2016 presidency
+      bid, John Podesta had never heard of Victor Borisovich Netyksho
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
+        title: Hillary Clinton presidential campaign
+        slug: hillary-clinton-presidential-campaign
+    date: null
+    date_end: null
+    location_in_record: ch20:109-274
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ee296dab-5dc5-4be0-9751-55f7c6f58dc6
+    claim_hash: b72d8051eb8939b3f7bf200103cc9f0504168bd42523b89af3010f183b8dd4f9
+    content: Nothing in the leaked Podesta emails proves the truth of what was claimed in briefings by military insiders about
+      alien visitations, that Roswell and other purported extra-terrestrial craft crashes happened, or that recovery of alien
+      corpses happened.
+    original_excerpt: it needs to be emphasised that nothing in any of the leaked Podesta emails proves the truth of what
+      was claimed in these briefings by these military insiders on alien visitations to this planet, or that Roswell and other
+      purported crashes of extra-terrestrial craft happened or that the recovery of alien corpses happened.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: null
+    date_end: null
+    location_in_record: ch20:11940-12253
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 77404a1f-ef4d-49fe-9030-f0202a4f2e63
+    claim_hash: be2018dbdd0b49b16c996fa0ee4a7f4ce5adf4edeae6598babcf4213f5cee01e
+    content: Netyksho and Fancy Bear turned their hacking efforts on John Podesta, operating from a GRU building in Moscow.
+    original_excerpt: deep inside a secure GRU building somewhere in Moscow, Netyksho and Fancy Bear turned their efforts
+      on Podesta
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 3afaa632-5c7b-42e6-a549-54cf733101e4
+        title: Russian General Staff Main Intelligence Directorate (GRU)
+        slug: russian-general-staff-main-intelligence-directorate-gru
+      - node_id: 5c97c2fc-3ea3-4274-906c-595f15086e9a
+        title: Victor Borisovich Netyksho
+        slug: victor-borisovich-netyksho
+      - node_id: ff40b01c-7ab2-483c-abcf-08f2bd713823
+        title: Fancy Bear
+        slug: fancy-bear
+    date: null
+    date_end: null
+    location_in_record: ch20:1295-1398
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 482877fc-950a-4d57-8cdf-f157a3d5eaeb
+    claim_hash: 0fa21970eb42a9aab2a8f70c952b04ad3777bbc7618e88ccd3525979a87e17ba
+    content: In an email, Tom DeLonge told John Podesta that 'The General (from Wright Patt R&D)' and he talked every other
+      day, and that this official was excited and thought the Department of Defense would embrace DeLonge's project because
+      it was intended to show the positive things people had done on the topic.
+    original_excerpt: '''The General (from Wright Patt R&D) and I talk every other day. He and I talked on the phone the other
+      night and he is excited; he really thinks that the DOD is going to embrace my project because I am out to show all the
+      positive things people have done on this topic. And I am eager to take direction from leadership to do a good and needed
+      public service.'''
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay:
+        - an email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
+        title: Neil McCasland
+        slug: neil-mccasland
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch20:13446-13822
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0920676b-7dc3-435f-9e54-2ec948c886c1
+    claim_hash: 861fe0d80c62db29091fa159cf687cd4535f426cc652b159dc788e7b4aa6bd47
+    content: In 2016, probably October, John Podesta re-entered his Gmail password after being prompted by a fake message,
+      unaware it was a phishing attempt.
+    original_excerpt: Sometime in 2016, probably October, Podesta was working on his computer when he was prompted by his
+      Gmail account to re-enter his password.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: f6a72317-9207-4e62-a1ea-c9da7a06ffa6
+        title: 2016 GRU hacking of John Podesta's email and Wikileaks release
+        slug: 2016-gru-hacking-of-john-podestas-email-and-wikileaks-release
+    date: 2016-10
+    date_end: null
+    location_in_record: ch20:1408-1538
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4a13d97d-08e8-471d-b3cf-2a33b203a90b
+    claim_hash: 4569c1b050e42f95023bcb53d88b6339078985d075627d5934a41a7634706306
+    content: In an email, Tom DeLonge told John Podesta that he planned to have dinner in September 2015 with current commanding
+      officers at the Air Force Space Command in Colorado Springs to discuss how to move his project forward.
+    original_excerpt: he said he planned to have dinner in September 2015 with 'current commanding officers at the Air Force
+      Space Command in a couple [of] days in Colorado Springs to discuss how to move this project forward'.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay:
+        - an email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 268ebaed-fa42-4feb-881f-fd8f70ca28fb
+        title: USA, Colorado, Colorado Springs
+        slug: colorado-colorado-springs-usa
+      - node_id: 619cf545-7418-417a-af4e-9acf7930f3b2
+        title: US Air Force Space Command
+        slug: us-air-force-space-command
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: 2015-09
+    date_end: null
+    location_in_record: ch20:15554-15746
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f7811dfd-a60c-4100-b341-cdd39434440a
+    claim_hash: b884e547c3f4f89bfd8ec5bbca4d61b5bc976576fc8b570cd62b37922da18401
+    content: John Podesta said 'I think the American people can handle the truth about this' while working on the Hillary
+      Clinton campaign.
+    original_excerpt: '''I think the American people can handle the truth about this,'' he said while on the Hillary Clinton
+      campaign.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+      title: John Podesta
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Podesta
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
+        title: Hillary Clinton presidential campaign
+        slug: hillary-clinton-presidential-campaign
+    date: null
+    date_end: null
+    location_in_record: ch20:16344-16443
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3c8b5ec8-dda7-4245-95dc-e88e7fdc1633
+    claim_hash: 9bb67839e6f7dc6c1a2a0151927cf9fd9f49e072e2c63684c48b54a24689ad34
+    content: In March 2016, from the campaign trail, John Podesta said he had talked to Hillary Clinton about the issue, that
+      people really want to know what the government knows, and that there are still classified UAP files that could be declassified.
+    original_excerpt: '''I''ve talked to Hillary about that,'' Podesta said in March 2016, from the campaign trail. ''It''s
+      a little bit of a cause of mine, which is, people really want to know what the government knows, and there are still
+      classified files that could be declassified.'''
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+      title: John Podesta
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Podesta
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+        title: Hillary Clinton
+        slug: hillary-clinton
+    date: 2016-03
+    date_end: null
+    location_in_record: ch20:16632-16875
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3476f827-1a18-46dd-9d45-2c4cb30fc3b1
+    claim_hash: 0c37a3ee459ae207a17bdcd41e3d2acea2eb50387cf12d6d5369b7b279cad845
+    content: John Podesta held top-secret/Sensitive Compartmented Information (SCI) clearances in his past roles with both
+      Presidents Obama and Clinton.
+    original_excerpt: He is a senior and well-respected public servant who held top-secret/SCI clearances in his past roles
+      with both Presidents Obama and Clinton.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+        title: William J. Clinton
+        slug: william-j-clinton
+      - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
+        title: Sensitive Compartmented Information Facility (SCIF)
+        slug: sensitive-compartmented-information-facility-scif
+    date: null
+    date_end: null
+    location_in_record: ch20:17002-17135
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a9c46c3c-46fa-422c-96a4-ee2ade0343a3
+    claim_hash: a837b1197bca4e08bcd1279bb996a0ed4ea61755ef4848c26111bc0deae188cb
+    content: Before 2016, John Podesta had never heard of Victor Borisovich Netyksho.
+    original_excerpt: John Podesta had never heard of Victor Borisovich Netyksho, who headed unit 26165 of the Russian military
+      intelligence agency, the GRU.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 5c97c2fc-3ea3-4274-906c-595f15086e9a
+        title: Victor Borisovich Netyksho
+        slug: victor-borisovich-netyksho
+    date: null
+    date_end: null
+    location_in_record: ch20:224-355
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b113536b-243f-434d-a734-f60fc9cf9b62
+    claim_hash: 7913f8b8fcac6e25950894864c329088586f6d9caf057aaf4939fed78c57f089
+    content: Within hours of Donald Trump's 2016-07-28 comments, Russian hackers began new penetration efforts against the
+      Democrats which led them to John Podesta.
+    original_excerpt: within hours of his comments, the hackers began new penetration efforts against the Democrats; eventually
+      their cyber-sniffing led them to John Podesta
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 72c7cc12-fa5f-4700-aa47-b0df6c7a0083
+        title: Democratic Party
+        slug: democratic-party
+    date: '2016-07-28'
+    date_end: null
+    location_in_record: ch20:2577-2721
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2482e74d-1538-42d6-85eb-b0c947a073ea
+    claim_hash: cebf4fca08542f8665cf3f1e34d5e217da3adbf8f07ad438f3fa628a7b4363ff
+    content: Within minutes of John Podesta clicking a fake Gmail link that was a spear-phishing hack, his private communications
+      began streaming back to Victor Borisovich Netyksho and his colleagues at GRU headquarters in Moscow.
+    original_excerpt: Within minutes of Podesta clicking the fake Gmail link, which was actually a so-called cyber spear-phishing
+      hack, his private communications were streaming back to Netyksho and his colleagues at GRU HQ in Moscow
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 3afaa632-5c7b-42e6-a549-54cf733101e4
+        title: Russian General Staff Main Intelligence Directorate (GRU)
+        slug: russian-general-staff-main-intelligence-directorate-gru
+      - node_id: 5c97c2fc-3ea3-4274-906c-595f15086e9a
+        title: Victor Borisovich Netyksho
+        slug: victor-borisovich-netyksho
+      - node_id: f6a72317-9207-4e62-a1ea-c9da7a06ffa6
+        title: 2016 GRU hacking of John Podesta's email and Wikileaks release
+        slug: 2016-gru-hacking-of-john-podestas-email-and-wikileaks-release
+    date: null
+    date_end: null
+    location_in_record: ch20:4178-4383
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3a8bf1d6-9c20-485c-816b-d5c0691d850f
+    claim_hash: eef6f4cbcbeab73e124c5da2cfd817a86dc492ed97c1ee8c9da22a8248235359
+    content: Within days of the hack, thousands of John Podesta's emails were leaked on the WikiLeaks website.
+    original_excerpt: in a few days, thousands of Podesta's emails were leaked on the Wikileaks website for all to read
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 378962cf-3d85-4df1-bf17-e4047e308491
+        title: Wikileaks
+        slug: wikileaks
+      - node_id: aea43a75-d26d-4102-ad94-ef845736bf33
+        title: 2015 WikiLeaks release of John Podesta emails
+        slug: 2015-wikileaks-release-of-john-podesta-emails
+      - node_id: f6a72317-9207-4e62-a1ea-c9da7a06ffa6
+        title: 2016 GRU hacking of John Podesta's email and Wikileaks release
+        slug: 2016-gru-hacking-of-john-podestas-email-and-wikileaks-release
+    date: null
+    date_end: null
+    location_in_record: ch20:4391-4486
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 541e7b0f-e70b-4f52-802b-a63c58b9c921
+    claim_hash: 9cf657f79070be08eb638041da9ebcfbeec7417ca896250c39e52af382a1f5de
+    content: The leaked Podesta emails contained a string of exchanges between John Podesta and Tom DeLonge revealing plans
+      for a Google Hangout meeting between DeLonge, two US Air Force generals, and Rob Weiss, the Lockheed Martin executive
+      vice-president and general manager of its advanced development programs known as Skunk Works.
+    original_excerpt: 'Amidst them was a smoking gun that lent strong support to DeLonge''s extraordinary claims: a string
+      of exchanges between Podesta and DeLonge, revealing plans for a Google Hangout meeting between DeLonge, two US Air Force
+      generals and Rob Weiss, the Lockheed Martin executive vice-president and general manager of its advanced development
+      programs known as Skunk Works.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: leaked Podesta emails
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+        title: Lockheed Martin
+        slug: lockheed-martin
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+        title: Robert Weiss
+        slug: robert-weiss
+      - node_id: ee0c01e2-9f22-416a-9450-67d7b46d9ac5
+        title: United States Air Force generals and intelligence officials briefing Tom DeLonge
+        slug: united-states-air-force-generals-and-intelligence-officials-briefing-tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch20:4492-4853
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c5222691-32cd-4b42-87cc-4499ef323986
+    claim_hash: bbe838606fc2d7e5a0ab047ab5c9542676132109d4b65061a1397fe475135e4e
+    content: John Podesta was Tom DeLonge's anonymous 'top man' contact in government.
+    original_excerpt: Podesta was clearly DeLonge's anonymous 'top man' in government.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch20:5048-5101
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d201f92a-9710-4b9b-8891-9dd12649082c
+    claim_hash: c8dcb197ba0554ba9c5034b2de5f81ad998f28850a41a90601b245c39b9eebf3
+    content: In a leaked email, Tom DeLonge told John Podesta he wanted to bring two 'important' people to meet him in Washington
+      DC who were principal leadership relating to their sensitive topic and had been in charge of the most fragile divisions
+      relating to classified science and Department of Defense topics.
+    original_excerpt: '''I would like to bring two very "important" people out to meet you in DC,'' he told Podesta. ''I think
+      you will find them very interesting as they were principal leadership relating to our sensitive topic. Both were in
+      charge of most fragile divisions, as it relates to Classified Science and DOD topics. Other words, these are A-level
+      officials. Worth our time, and as well the investment to bring all the way out to you. I just need 2 hours from you.
+      Just looking to have a casual and private conversation in person.'''
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay:
+        - an email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch20:5268-5803
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: fd041e01-83bb-4d21-9d13-75a9ab0bbcfb
+    claim_hash: e016decf9e5c78da24f30630da3edbd4a5941b6d7cbf38d147065a5922c362e2
+    content: In a leaked Podesta email dated 2016-01-24, a person calling himself 'Neil Mcc' responded to a Google Hangout
+      invitation to check the time of another proposed meeting.
+    original_excerpt: In another leaked Podesta email dated 24 January 2016, a person calling himself 'Neil Mcc' responded
+      to a Google Hangout invitation to check the time of another proposed meeting.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: a leaked Podesta email dated 2016-01-24
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: bd910084-6353-434a-9a71-b6fc6791881d
+        title: Susan McCasland Wilkerson
+        slug: susan-mccasland-wilkerson
+    date: '2016-01-24'
+    date_end: null
+    location_in_record: ch20:7199-7370
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5106d413-3c38-4732-bf2e-684a55009176
+    claim_hash: 3a30c1833559a05495d9ebdcba111b11b162ef39a5d4e505a4f5a56a172007a7
+    content: Tom DeLonge exchanged emails with John Podesta.
+    original_excerpt: and with John Podesta, the confidant of Presidents Clinton and Obama.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch28:28543-28606
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9f87020e-0b71-4a5c-96c1-665a4085bc5a
+    claim_hash: 17507cc7ac340628f769ca5c968cd239b659e228fcd8f94c6c33867355a68344
+    content: John Podesta is a confidant of Presidents Bill Clinton and Barack Obama.
+    original_excerpt: John Podesta, the confidant of Presidents Clinton and Obama
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+        title: William J. Clinton
+        slug: william-j-clinton
+    date: null
+    date_end: null
+    location_in_record: ch28:28552-28606
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 79bece11-f229-43bb-832d-42c337d7c6e9
+    claim_hash: 45754e20ef3a42e4bd4f398a9169de548f2afcc08e0200402a9014d6b868a5e2
+    content: John Podesta served as chief of staff to President Bill Clinton, counselor to President Barack Obama, and campaign
+      manager to Hillary Clinton.
+    original_excerpt: John Podesta, who had served as chief of staff to President Clinton, counselor to President Barack Obama,
+      and campaign manager to Hillary Clinton, was involved.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+        title: Hillary Clinton
+        slug: hillary-clinton
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+        title: William J. Clinton
+        slug: william-j-clinton
+    date: null
+    date_end: null
+    location_in_record: ch29:13091-13242
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 61703131-0c1c-4b49-80a4-c34e762cebf3
+    claim_hash: c0039585e144d2c5b29cc9ba0889cf5357be29b62359d8052462ad17fcd97276
+    content: John Podesta considers one of his regrets to be not insisting on disclosure of UAP evidence while he was in the
+      White House.
+    original_excerpt: Podesta has long said that one of his regrets was not insisting on disclosure of UAP evidence when he
+      was in the White House.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+      title: John Podesta
+    provenance_chain:
+      origin_kind: named
+      origin: John Podesta
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: null
+    date_end: null
+    location_in_record: ch29:13252-13371
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c5d33659-5a64-4132-8b78-67ae62fda6c5
+    claim_hash: b2533ae58f16301fb8cfc65b980b16252d37cdd7a011817b6188497355cb53b2
+    content: John Podesta and Hillary Clinton talked a great deal about UFOs around the 2016 United States presidential election.
+    original_excerpt: Anyway, fast forward to the 2016 elections. If you look back at it now, and I've documented this as
+      thoroughly as I can, Podesta and Clinton were talking a lot about UFOs.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+        title: Hillary Clinton
+        slug: hillary-clinton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: d46162c5-c64c-4139-878e-78b659bcae5c
+        title: 2016 United States presidential election
+        slug: 2016-united-states-presidential-election
+    date: '2016'
+    date_end: null
+    location_in_record: 00:39:15.9-00:39:26.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: c4807650-fade-4ca8-bfd9-7ea46a5e9002
+    claim_hash: d262b10e5403a03a0e03adab1574b7da41b8c28c46bef547609e6c3f7d25b19e
+    content: John Podesta's emails were hacked.
+    original_excerpt: Podesta's emails get hacked, obviously.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: unattributed
+      origin: public record
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: b7de1230-f68a-4793-81a4-65b809ba7633
+        title: Hack of John Podesta's emails
+        slug: hack-of-john-podestas-emails
+    date: null
+    date_end: null
+    location_in_record: 00:40:00.6-00:40:01.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 8268d82d-c79d-434e-be2b-f935d62819a6
+    claim_hash: fbe4f9f2d374eb68ab738d208771d48f0ab197baea110d0b7db45fea2cfd87a4
+    content: The hacked John Podesta emails contain roughly 35 messages exchanged between Tom DeLonge and John Podesta's team.
+    original_excerpt: I think there were 35 emails back and forth between Tom DeLonge and Podesta's team.
+    claim_type: measurement
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: document
+      origin: the leaked John Podesta emails
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: b7de1230-f68a-4793-81a4-65b809ba7633
+        title: Hack of John Podesta's emails
+        slug: hack-of-john-podestas-emails
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: ef2bb79d-43f0-4dd8-8a98-f100f3269e92
+        title: Podesta email leak correspondence with Tom DeLonge
+        slug: podesta-email-leak-correspondence-with-tom-delonge
+    date: null
+    date_end: null
+    location_in_record: 00:40:05.4-00:40:09.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 0d828226-9b96-46eb-aa06-83df347c5b0a
+    claim_hash: b63c07cdcf9c940b6c82d6e260dbeedb9cd410c8a6447e44b3ecb8818d9661e1
+    content: The leaked John Podesta correspondence describes a meeting involving William Neal McCasland, Michael Carey, Robert
+      Weiss and John Podesta.
+    original_excerpt: There's that meeting where you've got General Neil McCasland and Michael Carey and Robert Weiss, the
+      president of the Skunk Works, along with Podesta and along...
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: document
+      origin: the leaked John Podesta emails
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+        title: William McCasland
+        slug: william-mccasland
+      - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+        title: Michael Carey
+        slug: michael-carey
+      - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+        title: Robert Weiss
+        slug: robert-weiss
+      - node_id: ef2bb79d-43f0-4dd8-8a98-f100f3269e92
+        title: Podesta email leak correspondence with Tom DeLonge
+        slug: podesta-email-leak-correspondence-with-tom-delonge
+    date: null
+    date_end: null
+    location_in_record: 00:40:10.4-00:40:19.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: d4e0d454-3d7b-485e-87a3-a3a6638ae2ad
+    claim_hash: 6bde2bf0a2467114de4a5979bc9639553bfb9a34c4f8ab22fc8be6ee286a7b66
+    content: John Podesta was Hillary Clinton's campaign chief of staff.
+    original_excerpt: And Podesta is Clinton's chief of staff.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: public record
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+        title: Hillary Clinton
+        slug: hillary-clinton
+    date: null
+    date_end: null
+    location_in_record: 00:40:20.0-00:40:21.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 4d408db9-1336-4123-b042-a613a70280df
+    claim_hash: 4e3f12552187a603036a6423f8abeabafbe83c1945e553ce7bcaf218bfba1bdd
+    content: Many of the people in the leaked John Podesta email correspondence were connected to the Center for American
+      Progress, John Podesta's liberal think tank in Washington DC.
+    original_excerpt: A lot of these people are connected to the Center for American Progress, which is Podesta's sort of
+      big liberal think tank in DC.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 58fec0aa-60f1-424f-a896-4fab810b562f
+        title: Center for American Progress
+        slug: center-for-american-progress
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: ef2bb79d-43f0-4dd8-8a98-f100f3269e92
+        title: Podesta email leak correspondence with Tom DeLonge
+        slug: podesta-email-leak-correspondence-with-tom-delonge
+    date: null
+    date_end: null
+    location_in_record: 00:40:35.1-00:40:41.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 78164429-37f8-4257-812c-e5b39b0bd895
+    claim_hash: 36f5438be47b5c3b46a3bdc2874f2b6054284c53b0fad31e3218ac63bfc08ee4
+    content: The Center for American Progress is a liberal think tank founded by John Podesta.
+    original_excerpt: '[note: Center for American Progress - Liberal think tank founded by John Podesta]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source record annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 58fec0aa-60f1-424f-a896-4fab810b562f
+        title: Center for American Progress
+        slug: center-for-american-progress
+    date: null
+    date_end: null
+    location_in_record: 00:40:36.3-00:40:40.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: b36ea81b-d988-4d65-b78d-c1b0debe365b
+    claim_hash: c1e8341d5c212bf3bba43986604d3eb2c93e19e15bde619ee01da7f5e8e9b319
+    content: In the leaked John Podesta emails, dated to about mid-2015, a staffer suggested to John Podesta that a particular
+      individual be considered for "the UFO project", indicating a UFO project already existed.
+    original_excerpt: And at one point, there's an individual mentioned, and one of the staffers said, John, maybe we should
+      consider this individual for the UFO project. And you're like, okay, so obviously this staffer and all the other people
+      on the email, including Podesta, and this is mid-2015, I think, already have a UFO project?
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: document
+      origin: the leaked John Podesta emails
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: ef2bb79d-43f0-4dd8-8a98-f100f3269e92
+        title: Podesta email leak correspondence with Tom DeLonge
+        slug: podesta-email-leak-correspondence-with-tom-delonge
+    date: '2015'
+    date_end: null
+    location_in_record: 00:40:42.2-00:41:01.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: b9bcc60e-568b-406f-8e88-e61654e62876
+    claim_hash: a4d4c8b377dec2eee7dd7054cf096f2f8972f8c9ff4e6a8677d18a1fd024606a
+    content: Jacques Vallee's journals corroborate that the conversations between Tom DeLonge and John Podesta's circle took
+      place.
+    original_excerpt: these conversations really were going on, which was then further validated by Jacques Vallée ... You
+      read his journals, it absolutely did happen.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: document
+      origin: Jacques Vallee's journals
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 41a65634-8fe3-4bdc-b3ba-fa609280102d
+        title: Jacques Vallee's journals (Forbidden Science)
+        slug: jacques-vallees-journals-forbidden-science
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: 00:41:10.4-00:41:14.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 6cae5578-d048-46b1-9e8f-f9fdb65273be
+    claim_hash: 17eede93c0969cc71aa319265ed359cf0e793535229ef0ff359434cae82aa781
+    content: John Podesta was White House Chief of Staff from 1998 to 2001.
+    original_excerpt: '[note: John Podesta - White House Chief of Staff (1998-2001)]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source record annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: efa24386-d6bb-4e71-a245-4ee4b647adcb
+        title: The White House
+        slug: the-white-house
+    date: null
+    date_end: null
+    location_in_record: line 33
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 54785484-418d-4174-8c74-e1bde37c65b8
+    claim_hash: 7eeb8845af4ee4b2fe3128fbc201b7a0854936324e1068e547a88427459234ed
+    content: At the end of the Barack Obama administration, John Podesta said his greatest regret was that the UFO files were
+      not released.
+    original_excerpt: John Podesta at the end of the Obama administration says, my greatest regret is that we didn't release
+      the UFO files.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: John Podesta
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 01:30:10.2-01:30:19.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

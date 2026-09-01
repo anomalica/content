@@ -9,906 +9,913 @@ page:
   claim_count: 20
   claim_count_total: 20
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 20
+  tokens_estimated: 5835
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 20
 related_nodes:
-- node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-  title: Thomas Wilson
-  node_type: person
-  slug: thomas-wilson
-  shared_claims: 18
-- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-  title: Eric Davis
-  node_type: person
-  slug: eric-davis
-  shared_claims: 10
-- node_id: 30987514-d732-4d23-83a1-f10d63a21cbe
-  title: Billy Cox
-  node_type: person
-  slug: billy-cox
-  shared_claims: 3
-- node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
-  title: Willard Miller
-  node_type: person
-  slug: willard-miller
-  shared_claims: 3
-- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-  title: United States Navy (USN)
-  node_type: organisation
-  slug: united-states-navy-usn
-  shared_claims: 2
-- node_id: 953f6232-9902-437f-ad4c-add4fd080043
-  title: Leslie Kean
-  node_type: person
-  slug: leslie-kean
-  shared_claims: 1
-- node_id: 93df8d48-8068-409a-a198-27e923af6cde
-  title: Majestic 12 (MJ-12)
-  node_type: project
-  slug: majestic-12-mj-12
-  shared_claims: 1
-- node_id: 9f83df76-868f-4f36-b57e-7174c2ca6b3e
-  title: Mike Crawford
-  node_type: person
-  slug: mike-crawford
-  shared_claims: 1
-- node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
-  title: National Institute for Discovery Science
-  node_type: organisation
-  slug: national-institute-for-discovery-science
-  shared_claims: 1
-- node_id: d0898c22-a70d-4f4f-946e-cd79ddc0e97f
-  title: Remote Viewing (RV) program
-  node_type: project
-  slug: remote-viewing-rv-program
-  shared_claims: 1
-- node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
-  title: Special Access Program (SAP)
-  node_type: topic
-  slug: special-access-program-sap
-  shared_claims: 1
-- node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
-  title: Steven Greer
-  node_type: person
-  slug: steven-greer
-  shared_claims: 1
-- node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
-  title: The Admiral Wilson Memo
-  node_type: document
-  slug: the-admiral-wilson-memo
-  shared_claims: 1
-- node_id: a8f63349-37e4-46b1-8f69-e46dd0a2c37f
-  title: The Boston Globe
-  node_type: organisation
-  slug: the-boston-globe
-  shared_claims: 1
-- node_id: 3a3063a2-fb89-4eaf-8879-8c7c5ba6c7de
-  title: UFO crash retrieval
-  node_type: topic
-  slug: ufo-crash-retrieval
-  shared_claims: 1
-- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-  title: United States Department of Defense (DoD)
-  node_type: organisation
-  slug: united-states-department-of-defense-dod
-  shared_claims: 1
-claims:
-- claim_id: 60de4d37-4d58-4f1b-9e07-fe9b58806357
-  claim_hash: 7498b0f54a651296cc87cc6e91489b2d3edf3036dfde2f15509d794191064cc0
-  content: Thomas Wilson said he was taking a risk talking to Eric W. Davis, trusting
-    Oke Shannon's word.
-  original_excerpt: 'TW: I''m taking risk talking to you
-
-    - But trusts Oke''s word and it is good with me.'
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Thomas Wilson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
   - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
     title: Thomas Wilson
+    node_type: person
     slug: thomas-wilson
+    shared_claims: 18
   - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
     title: Eric Davis
+    node_type: person
     slug: eric-davis
-  date: null
-  date_end: null
-  location_in_record: char:10320-10395
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: fadf9347-0547-42fa-8ee0-3f0f365d32f9
-  claim_hash: bb2a950d2a68d8d205229900f4c78bee48e2b2e7ca763fcd5080a0369f7327a7
-  content: Thomas Wilson said he and Oke Shannon should have met Eric W. Davis together
-    face-to-face but Shannon's health problems prevented that.
-  original_excerpt: We should have met Oke together face-to-face but present health
-    problems prevent that - too bad!
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Thomas Wilson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-    slug: eric-davis
-  date: null
-  date_end: null
-  location_in_record: char:10401-10493
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: d71e5a62-174f-413b-9eb7-ae31f6fb11b6
-  claim_hash: 99f22063b248d4e2bd3c8376e48b543b4cf9d498ab7be476eb3dddf59f39296d
-  content: The subject discussed between Oke Shannon and Will Miller related to a
-    Boston Globe story by Leslie Kean, the UFO topic, crashed and retrieved UFO craft
-    and bodies, and a Majestic 12 (MJ-12) -like UFO organisation or cabal.
-  original_excerpt: 'Re: Boston Globe Story - L. Kean. Yep, UFO topic - crashed/retrieved
-    UFO craft/bodies, etc. MJ-12 like UFO organization (or cabal).'
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: named
-    origin: Oke Shannon
-    relay:
-    - Oke Shannon's account to Thomas Wilson
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 3a3063a2-fb89-4eaf-8879-8c7c5ba6c7de
-    title: UFO crash retrieval
-    slug: ufo-crash-retrieval
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
-    title: Majestic 12 (MJ-12)
-    slug: majestic-12-mj-12
+    shared_claims: 10
+  - node_id: 30987514-d732-4d23-83a1-f10d63a21cbe
+    title: Billy Cox
+    node_type: person
+    slug: billy-cox
+    shared_claims: 3
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    node_type: person
+    slug: willard-miller
+    shared_claims: 3
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 2
   - node_id: 953f6232-9902-437f-ad4c-add4fd080043
     title: Leslie Kean
+    node_type: person
     slug: leslie-kean
-  - node_id: a8f63349-37e4-46b1-8f69-e46dd0a2c37f
-    title: The Boston Globe
-    slug: the-boston-globe
-  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
-    title: Willard Miller
-    slug: willard-miller
-  date: null
-  date_end: null
-  location_in_record: char:1063-1183
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: 10be65f9-cf40-4dc0-81b5-121a028ac1e3
-  claim_hash: 0ab93d0620ed0403da312e4a6ae7c7e5b40fa00e0d044b9cae06ba9331ad4791
-  content: Oke Shannon told Thomas Wilson about "JA" and said he does not trust JA,
-    calling JA a liar.
-  original_excerpt: '- Oke told all about JA (doesn''t trust JA, a liar!)'
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: named
-    origin: Oke Shannon
-    relay:
-    - Oke Shannon's account to Thomas Wilson
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  date: null
-  date_end: null
-  location_in_record: char:2483-2526
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: 4eee19fb-cf07-456e-9d5d-986277de4bf0
-  claim_hash: 080054e70e32ecf19303a41b236ac1999f5f7b4acbc16940d2233020747cb5a8
-  content: Oke Shannon briefed Thomas Wilson about the whole BDM matter, including
-    his own role there, and who attended, referencing a book by Blum.
-  original_excerpt: '- References Blum''s book. Talked about JA, Blum''s book, his
-    (Oke''s) role there, who attended, etc.
-
-    - Oke briefed me on whole BDM thing'
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: named
-    origin: Oke Shannon
-    relay:
-    - Oke Shannon's account to Thomas Wilson
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  date: null
-  date_end: null
-  location_in_record: char:2564-2691
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: d545eca9-3443-4a17-b773-0ba11e766ca9
-  claim_hash: 2148a0d6b3c4df862f859730f874d6b092dc27d8b88abbbbe87f443fe97637bc
-  content: Oke Shannon talked to Thomas Wilson about the Remote Viewing (RV) programme
-    for ten minutes, and Wilson said he knows something of this Remote Viewing programme.
-  original_excerpt: Oke briefed me on whole BDM thing - talked about RV program for
-    10 min. I know something of this RV.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Thomas Wilson
-    relay:
-    - Oke Shannon's briefing of Thomas Wilson
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  - node_id: d0898c22-a70d-4f4f-946e-cd79ddc0e97f
-    title: Remote Viewing (RV) program
-    slug: remote-viewing-rv-program
-  date: null
-  date_end: null
-  location_in_record: char:2663-2760
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: 529f68de-d459-4070-b2aa-47cf5d0bbacc
-  claim_hash: 24858f6b9c124858177d105ea69d2f26a5c6dd15f03c87830c531eebb9919678
-  content: Oke Shannon told Thomas Wilson that Eric W. Davis was a team player who
-    would keep his mouth shut, had no media connections, would obey all restrictions,
-    was not in government and held no clearances, but had an excellent pedigree and
-    very excellent professional and personal references.
-  original_excerpt: Oke said I (EWD) was team player, would keep mouth shut, no media
-    connections - obey all restrictions - not in government/no clearances, but pedigree
-    excellent - professional/personal references very excellent.
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: named
-    origin: Oke Shannon
-    relay:
-    - Oke Shannon's assessment relayed to Thomas Wilson
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-    slug: eric-davis
-  date: null
-  date_end: null
-  location_in_record: char:2766-2966
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: deedbd87-ad44-4eed-a6c7-dd1f77113453
-  claim_hash: d4aaa4490ca16d6156d348677cdc1b5cc6911bbb0e8298309e6d610e69726a9f
-  content: Thomas Wilson told Oke Shannon it was a bad time and he was too busy to
-    talk to Eric W. Davis.
-  original_excerpt: 'TW: Told Oke it''s a bad time - time no good to talk to me (EWD)
-    - too busy.'
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Thomas Wilson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-    slug: eric-davis
-  date: null
-  date_end: null
-  location_in_record: char:7210-7276
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: d7e36f53-c55d-452a-a934-7e2f6705c2e8
-  claim_hash: 157615c18d355681d89e799c2f4324374a23d87470cfb0823aa4b3f5ec252dd9
-  content: Thomas Wilson said Oke Shannon had become too difficult to contact, was
-    in and out of hospital, and was extremely sensitive to stress and heart sick.
-  original_excerpt: Said Oke too difficult to contact anymore - heard he was in and
-    out of hospital - extremely sensitive to stress/heart sick - bad news
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Thomas Wilson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  date: null
-  date_end: null
-  location_in_record: char:7282-7411
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: 1b3f7d58-d169-4d94-8b92-e7d371ad840f
-  claim_hash: 94683003f09794433f1f58aad2eb9f9f00674b76fba27ad5060b7f594ec8ba3c
-  content: Thomas Wilson said that when he tried calling Oke Shannon, a person named
-    Linda took messages that were not returned, because she did not want to add much
-    to Oke's plate.
-  original_excerpt: 'tried calling: Linda takes messages but none returned, she doesn''t
-    want much on Oke''s plate for fear...'
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Thomas Wilson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  date: null
-  date_end: null
-  location_in_record: char:7418-7514
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: dc1fa588-ec14-4d0c-9dc4-4578f9d56e79
-  claim_hash: 30c902f446822c50e0214302b68278c18b1657368c4087f9e68c0777dfb286ae
-  content: Thomas Wilson recalled a phone call with Oke Shannon in the fall of 1999.
-  original_excerpt: 'TW: I recalled phone call with Oke Shannon in Fall (Aug.?) ''99.
-    Big Oke Shannon fan! Go back years in Navy before Oke left for LANL.'
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Thomas Wilson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-    title: United States Navy (USN)
-    slug: united-states-navy-usn
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  date: 1999-08
-  date_end: null
-  location_in_record: char:807-930
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: a3e8b21f-26db-4d75-a6ef-0fcdc4117f08
-  claim_hash: e180357756411142f92040df19e7c9d3f1cf3e8a2d0a8eab057542f45c3e2876
-  content: Thomas Wilson gave serious thought to meeting Eric W. Davis and recalled
-    Oke Shannon's phone call from 1999, noting Shannon really supported Davis and
-    had good arguments.
-  original_excerpt: 'TW: Gave deep serious thought - recalled Oke''s call in ''99.
-    Oke really supported me (EWD) - had good arguments.'
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Thomas Wilson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-    slug: eric-davis
-  date: '1999'
-  date_end: null
-  location_in_record: char:8759-8856
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: 4e02e319-a5b1-45e3-b0f6-85168df762f9
-  claim_hash: a114a8397770ff79607fb0e2ce7dfc9664f7ae8c4c5f0909df096db0ec9f7de3
-  content: Thomas Wilson and Oke Shannon have known each other for years going back
-    to when Shannon was in the Navy before he left for Los Alamos National Laboratory
-    (LANL).
-  original_excerpt: Go back years in Navy before Oke left for LANL.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Thomas Wilson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-    title: United States Navy (USN)
-    slug: united-states-navy-usn
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  date: null
-  date_end: null
-  location_in_record: char:888-930
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: 52c5c388-dfac-4d1c-8ae6-148bdca55d60
-  claim_hash: 7af0de847dbb422b0bbf6765c06307ee46759ecf48bc61921771ae96b3212c1a
-  content: Oke Shannon argued that Eric W. Davis would not talk to the press or to
-    UFO or other such groups, had no media connections, and would not talk to Will
-    Miller, Steven Greer, or related people, having no vested interest in publicity,
-    money, fame, or notoriety.
-  original_excerpt: 'TW: I (EWD) wouldn''t talk to press, to groups (UFO or other
-    such), no media connections, not talk to Miller or Greer or related folks - no
-    vested interest in publicity/money/fame/notoriety, etc.'
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: named
-    origin: Oke Shannon
-    relay:
-    - Oke Shannon's argument relayed by Thomas Wilson
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-    slug: eric-davis
-  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
-    title: Steven Greer
-    slug: steven-greer
-  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
-    title: Willard Miller
-    slug: willard-miller
-  date: null
-  date_end: null
-  location_in_record: char:8894-9080
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: 892cc30e-8ba7-4de6-b51e-17214e2c6acb
-  claim_hash: fc4edc42ee59db9b9c11f10adfb8c75bda67037a3984a4665ea5446971faf7c1
-  content: Eric W. Davis noted that during the discussion of his background, there
-    was no mention of the National Institute for Discovery Science (NIDS), and that
-    Oke Shannon had mentioned NIDS, JA, and Davis together only in 1999.
-  original_excerpt: No mention of NIDS!! Oke mentioned JA, me, NIDS in '99, but that's
-    all that was said
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-  provenance_chain:
-    origin_kind: speaker
-    origin: Eric W. Davis
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-    slug: eric-davis
-  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
-    title: National Institute for Discovery Science
-    slug: national-institute-for-discovery-science
-  date: '1999'
-  date_end: null
-  location_in_record: char:9268-9348
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: 3ddc8db7-a6dd-42ba-8547-313e76df4702
-  claim_hash: 8516b16db0ae579452d20304926d632815e20bfc182d345844eaf53c4de884a5
-  content: Oke Shannon spoke to Thomas Wilson for two hours in an attempt to convince
-    him to talk to Eric W. Davis about what Shannon had told Will Miller around June
-    1997 and April 1997.
-  original_excerpt: 'TW: Oke talked 2 hours, wanted to convince to talk to me (EWD)
-    about what he told Will Miller ca. June ''97 and April ''97.'
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Thomas Wilson
-    relay:
-    - Oke Shannon's account to Thomas Wilson
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-    slug: eric-davis
-  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
-    title: Willard Miller
-    slug: willard-miller
-  date: null
-  date_end: null
-  location_in_record: char:941-1055
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: 67211ab2-ec6d-4f3b-b7cf-8b044d803579
-  claim_hash: c5591f8b16fb692fafe089c2cb0e048305e983292af3dc14dae8f3ca994cdfd8
-  content: Tom Wilson said that many of the people named in the memo as people he
-    interacted with, including Oke Shannon, Mike Crawford, Linda, Rich and Doug, are
-    completely unknown to him, as are the conversations he purportedly had on Special
-    Access Programs related to UFOs with senior Department of Defence officials.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom Wilson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
-    title: Special Access Program (SAP)
-    slug: special-access-program-sap
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
+    shared_claims: 1
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    node_type: project
+    slug: majestic-12-mj-12
+    shared_claims: 1
   - node_id: 9f83df76-868f-4f36-b57e-7174c2ca6b3e
     title: Mike Crawford
+    node_type: person
     slug: mike-crawford
-  date: 2020-06
-  date_end: null
-  location_in_record: ch26:11888-12171
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 90ef622c-9b1d-4e47-803d-6e23c24c3e5a
-  claim_hash: 6cf2f590b5c4930ceb186a86e616eff2aa2f3b44d6072d417e00df7f438abbaf
-  content: In his interview with Billy Cox, Oke Shannon gave the impression that he
-    actually knew Tom Wilson well.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 30987514-d732-4d23-83a1-f10d63a21cbe
-    title: Billy Cox
-    slug: billy-cox
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  date: null
-  date_end: null
-  location_in_record: ch26:12559-12651
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 1d015a29-79e7-4c12-88a7-ebaa08668ee3
-  claim_hash: df1fa9b699ccf9e6211747cf07e61d1f9b6eea885c17d9f172416ec76ec7c72e
-  content: Oke Shannon told Billy Cox he did not know the provenance of the purported
-    document and did not know whether it is real, but said he knows both Tom Wilson
-    and Eric Davis, that Tom Wilson is an honourable man, and that if this had embarrassed
-    Tom Wilson he was really sorry.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-  provenance_chain:
-    origin_kind: speaker
-    origin: Oke Shannon
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 30987514-d732-4d23-83a1-f10d63a21cbe
-    title: Billy Cox
-    slug: billy-cox
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
+    shared_claims: 1
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    node_type: organisation
+    slug: national-institute-for-discovery-science
+    shared_claims: 1
+  - node_id: d0898c22-a70d-4f4f-946e-cd79ddc0e97f
+    title: Remote Viewing (RV) program
+    node_type: project
+    slug: remote-viewing-rv-program
+    shared_claims: 1
+  - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+    title: Special Access Program (SAP)
+    node_type: topic
+    slug: special-access-program-sap
+    shared_claims: 1
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+    node_type: person
+    slug: steven-greer
+    shared_claims: 1
   - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
     title: The Admiral Wilson Memo
+    node_type: document
     slug: the-admiral-wilson-memo
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-    slug: eric-davis
-  date: null
-  date_end: null
-  location_in_record: ch26:12658-12946
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: a4a15ecf-d47a-4f93-bd2b-9b7e81c1ae18
-  claim_hash: ea2453162f19de2716d4b989a48693227cafc847976b648a0f64a238569e0184
-  content: Oke Shannon did not deny to Billy Cox that he had facilitated a meeting
-    between Tom Wilson and Eric Davis or that it happened.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 30987514-d732-4d23-83a1-f10d63a21cbe
-    title: Billy Cox
-    slug: billy-cox
-  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
-    title: Oke Shannon
-    slug: oke-shannon
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-    slug: eric-davis
-  date: null
-  date_end: null
-  location_in_record: ch26:12955-13054
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: a8f63349-37e4-46b1-8f69-e46dd0a2c37f
+    title: The Boston Globe
+    node_type: organisation
+    slug: the-boston-globe
+    shared_claims: 1
+  - node_id: 3a3063a2-fb89-4eaf-8879-8c7c5ba6c7de
+    title: UFO crash retrieval
+    node_type: topic
+    slug: ufo-crash-retrieval
+    shared_claims: 1
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 1
+claims:
+  - claim_id: 60de4d37-4d58-4f1b-9e07-fe9b58806357
+    claim_hash: 7498b0f54a651296cc87cc6e91489b2d3edf3036dfde2f15509d794191064cc0
+    content: Thomas Wilson said he was taking a risk talking to Eric W. Davis, trusting Oke Shannon's word.
+    original_excerpt: "TW: I'm taking risk talking to you\n- But trusts Oke's word and it is good with me."
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: null
+    date_end: null
+    location_in_record: char:10320-10395
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: fadf9347-0547-42fa-8ee0-3f0f365d32f9
+    claim_hash: bb2a950d2a68d8d205229900f4c78bee48e2b2e7ca763fcd5080a0369f7327a7
+    content: Thomas Wilson said he and Oke Shannon should have met Eric W. Davis together face-to-face but Shannon's health
+      problems prevented that.
+    original_excerpt: We should have met Oke together face-to-face but present health problems prevent that - too bad!
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: null
+    date_end: null
+    location_in_record: char:10401-10493
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: d71e5a62-174f-413b-9eb7-ae31f6fb11b6
+    claim_hash: 99f22063b248d4e2bd3c8376e48b543b4cf9d498ab7be476eb3dddf59f39296d
+    content: The subject discussed between Oke Shannon and Will Miller related to a Boston Globe story by Leslie Kean, the
+      UFO topic, crashed and retrieved UFO craft and bodies, and a Majestic 12 (MJ-12) -like UFO organisation or cabal.
+    original_excerpt: 'Re: Boston Globe Story - L. Kean. Yep, UFO topic - crashed/retrieved UFO craft/bodies, etc. MJ-12 like
+      UFO organization (or cabal).'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: named
+      origin: Oke Shannon
+      relay:
+        - Oke Shannon's account to Thomas Wilson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 3a3063a2-fb89-4eaf-8879-8c7c5ba6c7de
+        title: UFO crash retrieval
+        slug: ufo-crash-retrieval
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+        title: Majestic 12 (MJ-12)
+        slug: majestic-12-mj-12
+      - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+        title: Leslie Kean
+        slug: leslie-kean
+      - node_id: a8f63349-37e4-46b1-8f69-e46dd0a2c37f
+        title: The Boston Globe
+        slug: the-boston-globe
+      - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+        title: Willard Miller
+        slug: willard-miller
+    date: null
+    date_end: null
+    location_in_record: char:1063-1183
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: 10be65f9-cf40-4dc0-81b5-121a028ac1e3
+    claim_hash: 0ab93d0620ed0403da312e4a6ae7c7e5b40fa00e0d044b9cae06ba9331ad4791
+    content: Oke Shannon told Thomas Wilson about "JA" and said he does not trust JA, calling JA a liar.
+    original_excerpt: '- Oke told all about JA (doesn''t trust JA, a liar!)'
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: named
+      origin: Oke Shannon
+      relay:
+        - Oke Shannon's account to Thomas Wilson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+    date: null
+    date_end: null
+    location_in_record: char:2483-2526
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: 4eee19fb-cf07-456e-9d5d-986277de4bf0
+    claim_hash: 080054e70e32ecf19303a41b236ac1999f5f7b4acbc16940d2233020747cb5a8
+    content: Oke Shannon briefed Thomas Wilson about the whole BDM matter, including his own role there, and who attended,
+      referencing a book by Blum.
+    original_excerpt: "- References Blum's book. Talked about JA, Blum's book, his (Oke's) role there, who attended, etc.\n-
+      Oke briefed me on whole BDM thing"
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: named
+      origin: Oke Shannon
+      relay:
+        - Oke Shannon's account to Thomas Wilson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+    date: null
+    date_end: null
+    location_in_record: char:2564-2691
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: d545eca9-3443-4a17-b773-0ba11e766ca9
+    claim_hash: 2148a0d6b3c4df862f859730f874d6b092dc27d8b88abbbbe87f443fe97637bc
+    content: Oke Shannon talked to Thomas Wilson about the Remote Viewing (RV) programme for ten minutes, and Wilson said
+      he knows something of this Remote Viewing programme.
+    original_excerpt: Oke briefed me on whole BDM thing - talked about RV program for 10 min. I know something of this RV.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay:
+        - Oke Shannon's briefing of Thomas Wilson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: d0898c22-a70d-4f4f-946e-cd79ddc0e97f
+        title: Remote Viewing (RV) program
+        slug: remote-viewing-rv-program
+    date: null
+    date_end: null
+    location_in_record: char:2663-2760
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: 529f68de-d459-4070-b2aa-47cf5d0bbacc
+    claim_hash: 24858f6b9c124858177d105ea69d2f26a5c6dd15f03c87830c531eebb9919678
+    content: Oke Shannon told Thomas Wilson that Eric W. Davis was a team player who would keep his mouth shut, had no media
+      connections, would obey all restrictions, was not in government and held no clearances, but had an excellent pedigree
+      and very excellent professional and personal references.
+    original_excerpt: Oke said I (EWD) was team player, would keep mouth shut, no media connections - obey all restrictions
+      - not in government/no clearances, but pedigree excellent - professional/personal references very excellent.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: named
+      origin: Oke Shannon
+      relay:
+        - Oke Shannon's assessment relayed to Thomas Wilson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: null
+    date_end: null
+    location_in_record: char:2766-2966
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: deedbd87-ad44-4eed-a6c7-dd1f77113453
+    claim_hash: d4aaa4490ca16d6156d348677cdc1b5cc6911bbb0e8298309e6d610e69726a9f
+    content: Thomas Wilson told Oke Shannon it was a bad time and he was too busy to talk to Eric W. Davis.
+    original_excerpt: 'TW: Told Oke it''s a bad time - time no good to talk to me (EWD) - too busy.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: null
+    date_end: null
+    location_in_record: char:7210-7276
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: d7e36f53-c55d-452a-a934-7e2f6705c2e8
+    claim_hash: 157615c18d355681d89e799c2f4324374a23d87470cfb0823aa4b3f5ec252dd9
+    content: Thomas Wilson said Oke Shannon had become too difficult to contact, was in and out of hospital, and was extremely
+      sensitive to stress and heart sick.
+    original_excerpt: Said Oke too difficult to contact anymore - heard he was in and out of hospital - extremely sensitive
+      to stress/heart sick - bad news
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+    date: null
+    date_end: null
+    location_in_record: char:7282-7411
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: 1b3f7d58-d169-4d94-8b92-e7d371ad840f
+    claim_hash: 94683003f09794433f1f58aad2eb9f9f00674b76fba27ad5060b7f594ec8ba3c
+    content: Thomas Wilson said that when he tried calling Oke Shannon, a person named Linda took messages that were not returned,
+      because she did not want to add much to Oke's plate.
+    original_excerpt: 'tried calling: Linda takes messages but none returned, she doesn''t want much on Oke''s plate for fear...'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+    date: null
+    date_end: null
+    location_in_record: char:7418-7514
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: dc1fa588-ec14-4d0c-9dc4-4578f9d56e79
+    claim_hash: 30c902f446822c50e0214302b68278c18b1657368c4087f9e68c0777dfb286ae
+    content: Thomas Wilson recalled a phone call with Oke Shannon in the fall of 1999.
+    original_excerpt: 'TW: I recalled phone call with Oke Shannon in Fall (Aug.?) ''99. Big Oke Shannon fan! Go back years
+      in Navy before Oke left for LANL.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+    date: 1999-08
+    date_end: null
+    location_in_record: char:807-930
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: a3e8b21f-26db-4d75-a6ef-0fcdc4117f08
+    claim_hash: e180357756411142f92040df19e7c9d3f1cf3e8a2d0a8eab057542f45c3e2876
+    content: Thomas Wilson gave serious thought to meeting Eric W. Davis and recalled Oke Shannon's phone call from 1999,
+      noting Shannon really supported Davis and had good arguments.
+    original_excerpt: 'TW: Gave deep serious thought - recalled Oke''s call in ''99. Oke really supported me (EWD) - had good
+      arguments.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: '1999'
+    date_end: null
+    location_in_record: char:8759-8856
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: 4e02e319-a5b1-45e3-b0f6-85168df762f9
+    claim_hash: a114a8397770ff79607fb0e2ce7dfc9664f7ae8c4c5f0909df096db0ec9f7de3
+    content: Thomas Wilson and Oke Shannon have known each other for years going back to when Shannon was in the Navy before
+      he left for Los Alamos National Laboratory (LANL).
+    original_excerpt: Go back years in Navy before Oke left for LANL.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+    date: null
+    date_end: null
+    location_in_record: char:888-930
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: 52c5c388-dfac-4d1c-8ae6-148bdca55d60
+    claim_hash: 7af0de847dbb422b0bbf6765c06307ee46759ecf48bc61921771ae96b3212c1a
+    content: Oke Shannon argued that Eric W. Davis would not talk to the press or to UFO or other such groups, had no media
+      connections, and would not talk to Will Miller, Steven Greer, or related people, having no vested interest in publicity,
+      money, fame, or notoriety.
+    original_excerpt: 'TW: I (EWD) wouldn''t talk to press, to groups (UFO or other such), no media connections, not talk
+      to Miller or Greer or related folks - no vested interest in publicity/money/fame/notoriety, etc.'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: named
+      origin: Oke Shannon
+      relay:
+        - Oke Shannon's argument relayed by Thomas Wilson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+        title: Steven Greer
+        slug: steven-greer
+      - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+        title: Willard Miller
+        slug: willard-miller
+    date: null
+    date_end: null
+    location_in_record: char:8894-9080
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: 892cc30e-8ba7-4de6-b51e-17214e2c6acb
+    claim_hash: fc4edc42ee59db9b9c11f10adfb8c75bda67037a3984a4665ea5446971faf7c1
+    content: Eric W. Davis noted that during the discussion of his background, there was no mention of the National Institute
+      for Discovery Science (NIDS), and that Oke Shannon had mentioned NIDS, JA, and Davis together only in 1999.
+    original_excerpt: No mention of NIDS!! Oke mentioned JA, me, NIDS in '99, but that's all that was said
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+      title: Eric Davis
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric W. Davis
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+        title: National Institute for Discovery Science
+        slug: national-institute-for-discovery-science
+    date: '1999'
+    date_end: null
+    location_in_record: char:9268-9348
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: 3ddc8db7-a6dd-42ba-8547-313e76df4702
+    claim_hash: 8516b16db0ae579452d20304926d632815e20bfc182d345844eaf53c4de884a5
+    content: Oke Shannon spoke to Thomas Wilson for two hours in an attempt to convince him to talk to Eric W. Davis about
+      what Shannon had told Will Miller around June 1997 and April 1997.
+    original_excerpt: 'TW: Oke talked 2 hours, wanted to convince to talk to me (EWD) about what he told Will Miller ca. June
+      ''97 and April ''97.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay:
+        - Oke Shannon's account to Thomas Wilson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+        title: Willard Miller
+        slug: willard-miller
+    date: null
+    date_end: null
+    location_in_record: char:941-1055
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: 67211ab2-ec6d-4f3b-b7cf-8b044d803579
+    claim_hash: c5591f8b16fb692fafe089c2cb0e048305e983292af3dc14dae8f3ca994cdfd8
+    content: Tom Wilson said that many of the people named in the memo as people he interacted with, including Oke Shannon,
+      Mike Crawford, Linda, Rich and Doug, are completely unknown to him, as are the conversations he purportedly had on Special
+      Access Programs related to UFOs with senior Department of Defence officials.
+    original_excerpt: Many of the people (Oke Shannon, Mike Crawford, Linda, Rich, Doug) he characterises in the memo as people
+      I interacted with are completely unknown to me, as are the conversations I purportedly had on Special Access Programs
+      related to UFOs with senior officials in the Department of Defence.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+        title: Special Access Program (SAP)
+        slug: special-access-program-sap
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: 9f83df76-868f-4f36-b57e-7174c2ca6b3e
+        title: Mike Crawford
+        slug: mike-crawford
+    date: 2020-06
+    date_end: null
+    location_in_record: ch26:11888-12171
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 90ef622c-9b1d-4e47-803d-6e23c24c3e5a
+    claim_hash: 6cf2f590b5c4930ceb186a86e616eff2aa2f3b44d6072d417e00df7f438abbaf
+    content: In his interview with Billy Cox, Oke Shannon gave the impression that he actually knew Tom Wilson well.
+    original_excerpt: In his interview with Cox, Oke Shannon gave the impression that he actually knew Tom Wilson well.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30987514-d732-4d23-83a1-f10d63a21cbe
+        title: Billy Cox
+        slug: billy-cox
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+    date: null
+    date_end: null
+    location_in_record: ch26:12559-12651
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1d015a29-79e7-4c12-88a7-ebaa08668ee3
+    claim_hash: df1fa9b699ccf9e6211747cf07e61d1f9b6eea885c17d9f172416ec76ec7c72e
+    content: Oke Shannon told Billy Cox he did not know the provenance of the purported document and did not know whether
+      it is real, but said he knows both Tom Wilson and Eric Davis, that Tom Wilson is an honourable man, and that if this
+      had embarrassed Tom Wilson he was really sorry.
+    original_excerpt: ‘I don’t know the provenance of that purported document – I don’t know whether it’s real or not real,’
+      Oke Shannon told Billy Cox. ‘Let’s just leave it at the fact that I do know both of these gentlemen. Tom Wilson is an
+      honourable man. And if this has embarrassed Tom Wilson, I am really sorry.’
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+      title: Oke Shannon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Oke Shannon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30987514-d732-4d23-83a1-f10d63a21cbe
+        title: Billy Cox
+        slug: billy-cox
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+        title: The Admiral Wilson Memo
+        slug: the-admiral-wilson-memo
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: null
+    date_end: null
+    location_in_record: ch26:12658-12946
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a4a15ecf-d47a-4f93-bd2b-9b7e81c1ae18
+    claim_hash: ea2453162f19de2716d4b989a48693227cafc847976b648a0f64a238569e0184
+    content: Oke Shannon did not deny to Billy Cox that he had facilitated a meeting between Tom Wilson and Eric Davis or
+      that it happened.
+    original_excerpt: Oke Shannon did not deny to Billy Cox that he had facilitated a meeting with Tom Wilson or that it happened.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30987514-d732-4d23-83a1-f10d63a21cbe
+        title: Billy Cox
+        slug: billy-cox
+      - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+        title: Oke Shannon
+        slug: oke-shannon
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: null
+    date_end: null
+    location_in_record: ch26:12955-13054
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

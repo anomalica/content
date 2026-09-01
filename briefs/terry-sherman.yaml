@@ -1,0 +1,719 @@
+schema: anomalica/brief/1
+brief_hash: 06a25802820fabd0d0c553e61a4f6d28067a64a6b5adf856ed202ea7d77e0908
+page:
+  kind: entity
+  node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+  node_type: person
+  title: Terry Sherman
+  slug: terry-sherman
+  claim_count: 17
+  claim_count_total: 17
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 17
+  tokens_estimated: 4804
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 17
+related_nodes:
+  - node_id: d9ec537c-63c1-4937-a1de-5fbced5fe7dd
+    title: Gwen Sherman
+    node_type: person
+    slug: gwen-sherman
+    shared_claims: 12
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    node_type: place
+    slug: skinwalker-ranch
+    shared_claims: 12
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    node_type: person
+    slug: eric-davis
+    shared_claims: 2
+  - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+    title: USA, Utah, Skinwalker Ranch
+    node_type: place
+    slug: utah-skinwalker-ranch-usa
+    shared_claims: 2
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 2
+  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+    title: Colm Kelleher
+    node_type: person
+    slug: colm-kelleher
+    shared_claims: 1
+  - node_id: cebdec59-7230-444c-93cc-68ca07d85958
+    title: Deseret News
+    node_type: organisation
+    slug: deseret-news
+    shared_claims: 1
+claims:
+  - claim_id: 144b62e3-6ec2-4b7a-81c8-9b4e236ef844
+    claim_hash: 0f7790d72afd705457b63643045d5790dddf8a0781e949dbed7e83128784bfb6
+    content: People who interviewed Terry and Gwen Sherman reported them to be credible and honest, with a strong religious
+      ethical conviction, not people who fabricate elaborate stories for attention.
+    original_excerpt: Everyone who interviewed the Shermans reported them to be credible and honest folk with a strong religious
+      ethical conviction, not the sort of people who make up elaborate stories to draw attention to themselves.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unnamed interviewers
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+      - node_id: d9ec537c-63c1-4937-a1de-5fbced5fe7dd
+        title: Gwen Sherman
+        slug: gwen-sherman
+    date: null
+    date_end: null
+    location_in_record: ch15:1045-1246
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9d1286ec-0f59-4d43-9d28-cf54e592506f
+    claim_hash: 195a377e0e424bbc01876dfe25a5afe2e4d9bab2891c2c147692f4d447919386
+    content: Eric Davis alerted Colm Kelleher and ranch manager Terry Sherman, and all three saw a huge creature suddenly
+      jump down in front of them, far larger than any wildcat, the size of a bear or a cow.
+    original_excerpt: Davis alerted Colm Kelleher and Terry, the ranch manager, who were with him, and they all saw a huge
+      creature suddenly jump down just in front of them; it was far larger than any wildcat, the size of a bear or a cow.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+      title: Eric Davis
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Davis
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+    date: null
+    date_end: null
+    location_in_record: ch15:10800-11012
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0fc47d87-983d-407b-b216-65522ee104d5
+    claim_hash: e169927d1e6a41756eceaf6b1aef2ba0b55ae0425a6f073b1642b246f60911d1
+    content: Terry Sherman fired multiple shots into the creature at Skinwalker Ranch with his rifle at point-blank range,
+      and it did not flinch and walked off into the shrubs and disappeared.
+    original_excerpt: Terry fired multiple shots into it with his rifle at point-blank range but Davis recalls, 'It didn't
+      flinch. And it just walked off into the shrubs and disappeared.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+      title: Eric Davis
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Davis
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+    date: null
+    date_end: null
+    location_in_record: ch15:11017-11169
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5e81feaf-120f-4e28-be05-5b1afc0f8515
+    claim_hash: 791d9457104da5efcae9551e9ea6bc0ff70e5b12a166deb951d11f27a3ea215b
+    content: Terry and Gwen Sherman shunned media interest in their Skinwalker Ranch story after the initial reports.
+    original_excerpt: Shermans shunned media interest in their story after the initial reports.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+      - node_id: d9ec537c-63c1-4937-a1de-5fbced5fe7dd
+        title: Gwen Sherman
+        slug: gwen-sherman
+    date: null
+    date_end: null
+    location_in_record: ch15:1315-1380
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 41830aa6-f3bc-4bcd-b89b-adf868b7bcb5
+    claim_hash: e3e5d04de939917b8dab57ba10858e4c10a79f64c4fc1ac9460101e86d4184ec
+    content: Terry and Gwen Sherman linked the UAP sightings at Skinwalker Ranch to the death or disappearance of seven of
+      their cows.
+    original_excerpt: the Shermans linked the UAP sightings to the death or disappearance of seven of their cows.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+      title: Terry Sherman
+    provenance_chain:
+      origin_kind: named
+      origin: Terry and Gwen Sherman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+      - node_id: d9ec537c-63c1-4937-a1de-5fbced5fe7dd
+        title: Gwen Sherman
+        slug: gwen-sherman
+    date: null
+    date_end: null
+    location_in_record: ch15:1428-1514
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 281b47bb-a895-49a3-a19e-207dc511428b
+    claim_hash: 7520b73300410a6cbe02194327acdab9e0cbe1e709c6a8659309aab2bce66458
+    content: Three of the Shermans' cows at Skinwalker Ranch were found dead with surgically precise excisions removing either
+      the tongue, rectum, or reproductive organs, with no blood.
+    original_excerpt: Three were found dead but mutilated, with surgically precise excisions that had extracted either the
+      poor creature's entire tongue, rectum or reproductive organs, and always with no blood.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+      title: Terry Sherman
+    provenance_chain:
+      origin_kind: named
+      origin: Terry and Gwen Sherman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+      - node_id: d9ec537c-63c1-4937-a1de-5fbced5fe7dd
+        title: Gwen Sherman
+        slug: gwen-sherman
+    date: null
+    date_end: null
+    location_in_record: ch15:1520-1702
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 598c0bd4-c327-4ade-b71d-c40834ca0ab4
+    claim_hash: a4705f3074749ad7e48a36bc5b0df219720696bfb3d8462e008b19bde86710a2
+    content: Terry and Gwen Sherman described one scene at Skinwalker Ranch where a cow had left hoofprints through the snow
+      into a field but no sign of the cow or tracks leaving the field was found, with the area where the cow apparently took
+      its last steps surrounded by a circle of broken twigs and branches from the trees above.
+    original_excerpt: The Shermans described one scene where a cow had left tracks through the snow, its hoofprints showing
+      it had gone into a snow-covered field. But there was no sign of the cow, no tracks to show it had left the field and
+      'the area where the cow apparently took its last steps was surrounded by a circle of broken twigs and branches' from
+      the trees above.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+      title: Terry Sherman
+    provenance_chain:
+      origin_kind: named
+      origin: Terry and Gwen Sherman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+      - node_id: d9ec537c-63c1-4937-a1de-5fbced5fe7dd
+        title: Gwen Sherman
+        slug: gwen-sherman
+    date: null
+    date_end: null
+    location_in_record: ch15:1932-2278
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 18a0a500-2e73-4795-8539-b633919bea96
+    claim_hash: 85d476a0b48e2cea1d80853389e31e2858fe8de9d3f51874ecbbb6f3f0b04fc5
+    content: A Mormon farming family, Terry and Gwen Sherman, reported weird supernatural experiences at Skinwalker Ranch
+      to the local Deseret News in the mid-1990s.
+    original_excerpt: There have been many weird claims of supernatural happenings at the ranch since a Mormon farming family,
+      Terry and Gwen Sherman, reported their experiences to the local Deseret News in the mid-1990s.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Terry and Gwen Sherman
+      relay:
+        - Deseret News
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+      - node_id: cebdec59-7230-444c-93cc-68ca07d85958
+        title: Deseret News
+        slug: deseret-news
+      - node_id: d9ec537c-63c1-4937-a1de-5fbced5fe7dd
+        title: Gwen Sherman
+        slug: gwen-sherman
+    date: null
+    date_end: null
+    location_in_record: ch15:267-462
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f827da60-b1f6-4e83-9263-efe104d6eb16
+    claim_hash: 993eb44f2afcceb38455c99e739a79b9cc79a1cdaac2bf97310bc386aa6752f3
+    content: Terry Sherman described hearing male voices speaking in an unknown language, hovering somewhere overhead, and
+      reported his dogs were terrified.
+    original_excerpt: Terry Sherman also described hearing male voices speaking in an unknown language, hovering somewhere
+      overhead; he reported his dogs were terrified.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+      title: Terry Sherman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Terry Sherman
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+    date: null
+    date_end: null
+    location_in_record: ch15:2731-2868
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: fa435fe3-53f8-4037-b4ea-511e0cdd1509
+    claim_hash: fa12addee7225bc027a99386d804d45db7a50ac30991f8217700578f44d6e73a
+    content: Terry and Gwen Sherman claimed to have seen multiple UAPs during their fifteen months on the farm at Skinwalker
+      Ranch.
+    original_excerpt: The Shermans claimed to have seen multiple UAPs during their 15 months on the farm.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+      title: Terry Sherman
+    provenance_chain:
+      origin_kind: named
+      origin: Terry and Gwen Sherman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+      - node_id: d9ec537c-63c1-4937-a1de-5fbced5fe7dd
+        title: Gwen Sherman
+        slug: gwen-sherman
+    date: null
+    date_end: null
+    location_in_record: ch15:470-548
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3a2dea6c-b485-4232-ac23-3f7c250c4f1a
+    claim_hash: 39f7dbb22b0af95fdc0bb3ac8bf9949deb2852a270e3e355378c5ae86a0bbfa6
+    content: Terry and Gwen Sherman described seeing a small boxlike craft with a white light at Skinwalker Ranch.
+    original_excerpt: They described 'a small boxlike craft with a white light, a 40-foot-long object, and a huge ship the
+      size of several football fields'.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+      title: Terry Sherman
+    provenance_chain:
+      origin_kind: named
+      origin: Terry and Gwen Sherman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+      - node_id: d9ec537c-63c1-4937-a1de-5fbced5fe7dd
+        title: Gwen Sherman
+        slug: gwen-sherman
+    date: null
+    date_end: null
+    location_in_record: ch15:554-680
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e8610ad2-21de-4ab7-a5e4-2bcf67365607
+    claim_hash: afb9d46062b4eb21cb4cc1c410206616df26011e1f75d2cbd558247adc6d2cb3
+    content: Terry and Gwen Sherman described seeing an object approximately 12 metres long at Skinwalker Ranch.
+    original_excerpt: a 40-foot-long object
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+      title: Terry Sherman
+    provenance_chain:
+      origin_kind: named
+      origin: Terry and Gwen Sherman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+      - node_id: d9ec537c-63c1-4937-a1de-5fbced5fe7dd
+        title: Gwen Sherman
+        slug: gwen-sherman
+    date: null
+    date_end: null
+    location_in_record: ch15:612-627
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 65077a31-c6b7-44de-9d1c-12715c0d341a
+    claim_hash: 7803a57cecfd444c9ebef75e41859ff5c9107ee39d8423c2c9a8581760f0dd64
+    content: Terry and Gwen Sherman described seeing a huge ship the size of several football fields at Skinwalker Ranch.
+    original_excerpt: a huge ship the size of several football fields
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+      title: Terry Sherman
+    provenance_chain:
+      origin_kind: named
+      origin: Terry and Gwen Sherman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+      - node_id: d9ec537c-63c1-4937-a1de-5fbced5fe7dd
+        title: Gwen Sherman
+        slug: gwen-sherman
+    date: null
+    date_end: null
+    location_in_record: ch15:639-680
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 08155099-f5ba-452c-8210-b9a7bdbedd6e
+    claim_hash: 400952276e8f794ab9e7e146f65b6a8767a72ff9e952a4ccb7cf24cbde617d02
+    content: Terry and Gwen Sherman claimed they saw one craft at Skinwalker Ranch emit a wavy red ray or light beam as it
+      flew along.
+    original_excerpt: claiming they saw one craft emit a wavy red ray or light beam as it flew along
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+      title: Terry Sherman
+    provenance_chain:
+      origin_kind: named
+      origin: Terry and Gwen Sherman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+      - node_id: d9ec537c-63c1-4937-a1de-5fbced5fe7dd
+        title: Gwen Sherman
+        slug: gwen-sherman
+    date: null
+    date_end: null
+    location_in_record: ch15:732-805
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d6f64848-7e03-40e8-887c-ee3948eec3d3
+    claim_hash: 55b525ce2d8994a336fb857b35618216bda30d4fc7bc4c0b52d20fc2d68762ab
+    content: Terry and Gwen Sherman claimed to have seen orange circular doorways that seemed to appear in mid-air at Skinwalker
+      Ranch.
+    original_excerpt: orange circular doorways that seemed to appear in mid-air
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+      title: Terry Sherman
+    provenance_chain:
+      origin_kind: named
+      origin: Terry and Gwen Sherman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+      - node_id: d9ec537c-63c1-4937-a1de-5fbced5fe7dd
+        title: Gwen Sherman
+        slug: gwen-sherman
+    date: null
+    date_end: null
+    location_in_record: ch15:816-870
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a497545b-1b61-4f58-97c9-cc4842736681
+    claim_hash: 884ebb52a652cdc4a15926c94b1aa1af17614779c2ab5a40285a19bd83ba593c
+    content: Terry Sherman previously lived in that same Skinwalker Ranch homestead with his wife and two children.
+    original_excerpt: Because that's where Sherman lived. Terry Sherman lived, and his wife lived there too. And there are
+      two kids.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+      - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+        title: USA, Utah, Skinwalker Ranch
+        slug: utah-skinwalker-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 00:55:12.4-00:55:17.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 8536e0dc-df4a-4dfa-bf39-cc1162e6a0c3
+    claim_hash: 93c94f6628b8f1511afb9e3c4634d74e0ac516bc14c20be6f1e1a1edb72e0bd3
+    content: The doors of the Skinwalker Ranch homestead occupied by the Sherman family had unusual locks fitted.
+    original_excerpt: And why there were peculiar locks on the doors and things, right?
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+      - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+        title: USA, Utah, Skinwalker Ranch
+        slug: utah-skinwalker-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 00:55:18.8-00:55:21.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

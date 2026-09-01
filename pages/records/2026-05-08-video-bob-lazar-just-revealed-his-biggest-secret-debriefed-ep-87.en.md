@@ -1,327 +1,486 @@
 ---
 title: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-description: A 2026 interview episode in which Bob Lazar publicly names a previously
-  withheld S4 security guard, discusses key personnel from his time at the facility,
-  and elaborates on the structure of his reverse-engineering work and the briefings
-  he was permitted to read.
+description: An interview episode in which Bob Lazar discusses Chuck Payne, Dennis
+  Mariani, his work at S4, and information he says he encountered concerning propulsion,
+  time dilation and security practices.
 noindex: true
 metadata:
   medium: video
   date: '2026-05-08'
   publisher: Area52
-  duration: '35:11'
+  duration: '35:46'
 record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
+source:
+  status: publicly_accessible
+  effective_status: publicly_accessible
+  type: video
+  display: embed
+  url: https://www.youtube.com/watch?v=SSeJ2883nF4
+  publisher: Area52
+  date_published: 2026-05-08
+  duration: 2146.93
 references:
-- text: Lazar described as an Area 51 whistleblower
+- text: Bob Lazar said that he had intentionally withheld Chuck Payne's name because
+    Payne was a well-known overt security officer at S4.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:00:00.1-00:00:11.0
-  quote: the Area 51 whistleblower Bob Lazar
-  claim_id: a12e76ea-6910-423f-a3c9-2605f1520f8f
+  location: 00:04:05.4-00:04:19.2
+  quote: I always intentionally withheld several things about S4 because Chuck Payne
+    was a really well-known guy because he really stood out as this, I don't know,
+    overt security person.
+  claim_id: a8a6491c-ea2a-4942-a078-f9b18844df76
+  claim_fingerprint: 016a0bdfad40bdbf774ba05753fff25ea3f2ff642c04ebb57cca1e20848190c0
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: Lazar reveals a new name in connection with S4 for the first time publicly
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-a8a6491c-ea2a-4942-a078-f9b18844df76
+- text: Bob Lazar said that Chuck Payne was one of the security guards at S4.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:00:18.8-00:00:27.0
-  quote: Today, for the first time ever, Bob Lazar will reveal a brand new name in
-    connection with S4.
-  claim_id: 2c0a8e05-f37e-4871-8186-745cd4a62f6d
+  location: 00:04:23.0-00:04:25.5
+  quote: He was one of the security guards there.
+  claim_id: e1b8cf44-553b-4e36-b78e-3fc4f34d471f
+  claim_fingerprint: 29c657058cc6141ccb78c73611ea8d0dbd47c6e2142de1f09bc8397bebd44828
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: Lazar intentionally withholds certain details to test people falsely claiming
-    involvement
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e1b8cf44-553b-4e36-b78e-3fc4f34d471f
+- text: Bob Lazar reported that people he knows who investigated Dennis Mariani's
+    fate believed Mariani had died.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:01:13.0-00:01:41.8
-  quote: in case somebody does claim to be involved with the project or been there,
-    whatever, they should be able to tell me those.
-  claim_id: 8b91eb18-be36-4fca-ad89-b33b77d8ce17
+  location: 00:06:43.7-00:06:46.1
+  quote: from those that did, it looked like Dennis Mariani died.
+  claim_id: 89944903-6a62-469d-954e-9c5fb0a8e9a4
+  claim_fingerprint: 6721d6a17d97ee3f7c59ed06372e98fd5e51ab195e0d6e02b96c07cf4a8d5d3e
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: Chuck Payne worked at S4, a name not previously made public
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-89944903-6a62-469d-954e-9c5fb0a8e9a4
+- text: Bob Lazar said that he had seen a photograph of a gravestone that he believed
+    belonged to Dennis Mariani.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:01:54.7-00:02:09.8
-  quote: I can tell you the person, the name of another person that no one has heard
-    of that worked there. His name was Chuck Payne.
-  claim_id: 946c4219-2671-416f-95b0-45ee349424ce
+  location: 00:06:48.8-00:06:55.4
+  quote: I had pictures of a gravestone and, you know, people seem to, this guy, it
+    connects all the dots. This looks like it was the guy.
+  claim_id: 56a84d11-e22c-45a4-84ef-b3739a39f5ab
+  claim_fingerprint: e735c67ff7667d1b89ce767f107b42d3345d562c91683f96a85ba559a0174449
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: Chuck Payne was a well-known and overt security guard at S4 who stood out
-    among security personnel
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-56a84d11-e22c-45a4-84ef-b3739a39f5ab
+- text: Luigi Venditelli said that he was surprised when Bob Lazar first revealed
+    Chuck Payne's name in an interview approximately three years before the recording.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:04:04.3-00:04:26.4
-  quote: Chuck Payne was a really well-known guy because he really stood out as this,
-    I don't know, overt security person. He played the part well. He was one of the
-    security guards there.
-  claim_id: 6074ee9a-d139-475b-b14c-7252cf5c26db
+  location: 00:08:08.7-00:08:15.5
+  quote: i was surprised when he let that out with me in an interview this was ha
+    this happened like over three years ago
+  claim_id: e671f548-1213-461c-a4b7-e0e8f21984fb
+  claim_fingerprint: 7df29ba2885d1d2284d2cbd674a20df4d7dcf35d6e83b6c210e6cd366ab6a805
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: Lazar had never mentioned the name Chuck Payne to anybody before this interview
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e671f548-1213-461c-a4b7-e0e8f21984fb
+- text: Luigi Venditelli said that Project Gravator's film crew filmed Bob Lazar with
+    a DeLorean time machine prop near Las Vegas.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:04:26.4-00:04:29.4
-  quote: I have never mentioned that to anybody. This is brand new information. Yeah,
-    I've never mentioned that to anybody.
-  claim_id: 4bc6ea76-3fec-44ac-9f83-e07590e81eba
+  location: 00:09:45.2-00:10:01.0
+  quote: That was the time that we went out to Las Vegas, the whole crew of Motivo,
+    Art My Crew and Project Gravator crew basically, we went out and filmed with a
+    DeLorean time machine in the desert... we had rented an airbnb in las vegas which
+    is a giant mansion
+  claim_id: 7a1a0c5f-725e-4218-ae74-3024825fa604
+  claim_fingerprint: 074d94cd1122263da93d18710893a868dc330d60c6decc3163ab9ba29e7a13d3
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: Lazar had never mentioned Chuck Payne to George Knapp
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-7a1a0c5f-725e-4218-ae74-3024825fa604
+- text: Luigi Venditelli said that a former EG&G co-pilot for Janet Airlines flights
+    to Groom Lake contacted Chris Ramsay.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:04:31.0-00:04:33.1
-  quote: 'Luigi Venditelli: Have you ever mentioned this to George Knapp? Bob Lazar:
-    No, no.'
-  claim_id: a9be25f4-95f1-4d1e-974f-a17480c02eea
-  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  copyright_status: publicly_accessible
-- text: Anyone who was at S4 would have known Chuck Payne by name
-  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:05:02.6-00:05:36.2
-  quote: And if you were at S4, you knew Chuck Payne... If somebody said, you know,
-    name a guard's name, they'd say Chuck Payne.
-  claim_id: b807b08d-9a70-4ecd-8a75-5ff8f3bb07d4
-  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  copyright_status: publicly_accessible
-- text: Payne greeted people including Lazar by name, behaving as an extrovert unlike
-    other security guards
-  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:04:39.4-00:05:26.8
-  quote: of all the security guards around there were very tight-lipped and quiet
-    and really had minimal interaction with them, Chuck was different and he stood
-    out... he'd go, hey, Bob. I mean, he was the only one that was just a bit of an
-    extrovert.
-  claim_id: aa376551-1c1e-418f-8c2c-91321022cace
-  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  copyright_status: publicly_accessible
-- text: Lazar receives comments and emails from people claiming a relative worked
-    at S4, which he tests by asking for withheld details
-  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:05:36.2-00:06:01.8
-  quote: I get so many comments, emails, or people saying, um, you know, my, my grandfather
-    worked there or so-and-so worked there. And it's like, you want to just hold back
-    a couple of minor details
-  claim_id: e91178cd-45a7-43a7-a6f6-a5d1c93c61e5
-  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  copyright_status: publicly_accessible
-- text: Lazar believes Dennis Mariani has died, based on photographs of a gravestone
-    shared by others
-  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:06:39.8-00:06:55.7
-  quote: it looked like Dennis Mariani died... I had pictures of a gravestone and,
-    you know, people seem to, this guy, it connects all the dots. This looks like
-    it was the guy.
-  claim_id: 8c11268b-32e4-4a6a-86bc-70aeb5daf2ae
-  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  copyright_status: publicly_accessible
-- text: Mariani seemed to operate on a different level from the other S4 security
-    guards
-  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:07:40.0-00:07:55.1
-  quote: it seemed like he was just on a different level with them... he wasn't just
-    one of them. He was a special entity in himself.
-  claim_id: 7421b4d6-75a3-40eb-ba0c-9cc2afcee2b6
-  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  copyright_status: publicly_accessible
-- text: A pilot reached out to Ramsay who had been a co-pilot flying Janet Airlines
-    flights into Groom Lake between approximately 1987 and 1991
-  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:11:20.4-00:11:29.0
+  location: 00:11:20.5-00:11:27.0
   quote: He was a co-pilot for EG&G flying the Janet flights into Groom Lake between
     87 and 91, something like that.
-  claim_id: f156f1b1-7da2-40d7-9004-cb7eee413688
+  claim_id: c0bdd844-f16c-4555-9aa5-fa80648bffd5
+  claim_fingerprint: 59c8498d0bbc8949e24ef7d2040b49fc6d7644e8e7aad3f255b8d40d3b682003
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: The co-pilot said he knew Dennis Mariani and had met him over a dozen times
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-c0bdd844-f16c-4555-9aa5-fa80648bffd5
+- text: Chris Ramsay said that a Janet Airlines co-pilot had met Dennis Mariani more
+    than a dozen times and had been informed of his passing.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:11:35.0-00:11:59.5
-  quote: I had reached out to a Janet Airlines co-pilot that knew Dennis and that,
-    you know, was also informed of his passing and said that, you know, he'd met Dennis
-    over a dozen times and had exchanged with him just sort of, you know, regular
-    rapport.
-  claim_id: 36afe4eb-6a23-4c5f-9093-5d69e643c62e
+  location: 00:11:42.5-00:11:58.5
+  quote: I had reached out to a Janet Airlines co-pilot that knew Dennis and that...
+    was also informed of his passing and said that, you know, he'd met Dennis over
+    a dozen times and had exchanged with him just sort of, you know, regular rapport.
+  claim_id: 73b59f4d-6385-44b1-a655-b0b5d1a01841
+  claim_fingerprint: 9b5fc61d173090088059fe61490bc343f0469fea7a5d68bd0aaa68ccc459499b
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: After Lazar came forward through George Knapp, Mariani phoned him to arrange
-    a meeting at the Union Plaza Hotel
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-73b59f4d-6385-44b1-a655-b0b5d1a01841
+- text: Luigi Venditelli considered the reported independent corroboration of Dennis
+    Mariani's existence to support Bob Lazar's account.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:12:26.4-00:13:16.0
-  quote: after you came out you know through george knapp... he called to meet at
-    the union plaza hotel... it was definitely relatively soon after
-  claim_id: d7a78eed-0ac1-4a07-82a6-774e434d9ecd
+  location: 00:12:17.4-00:12:24.0
+  quote: It helps the argument that that could have been reality. And Bob was the
+    guy who mentioned Dennis Mariani.
+  claim_id: 8af3e5e7-3f1e-4315-979c-c148dcd2de07
+  claim_fingerprint: 4e4a5adce8fc571b6006df21630eb932b1c0ce5295a61de8848696053f1ef85a
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: Lazar brought friends including Gene Huff as witnesses to the Union Plaza
-    Hotel meeting
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-8af3e5e7-3f1e-4315-979c-c148dcd2de07
+- text: Bob Lazar said that George Knapp called him and arranged to meet at the Union
+    Plaza Hotel in Las Vegas.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:14:28.7-00:14:44.3
-  quote: this time i want witnesses had friends come with me... there he is Gene Huff
-    i said that's Dennis Mariani right there so he had eyes on him too
-  claim_id: 469dbee5-af3d-4c0f-be80-3a6c06fbd344
+  location: 00:12:56.5-00:12:58.0
+  quote: he called to meet at the union plaza hotel... to meet at the Union Plaza
+    hotel.
+  claim_id: 8b5ae965-ab9a-460f-a0b2-5613ca42e423
+  claim_fingerprint: 6c31e7687e786850ee102aeaab465662ef95a627a0c2b068e2f6b870a31badaf
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: Lazar saw faces he recognised as S4 security personnel walking past from Mariani's
-    direction
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-8b5ae965-ab9a-460f-a0b2-5613ca42e423
+- text: Bob Lazar said that he brought Gene Huff as a witness when he went to meet
+    Dennis Mariani.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:14:53.5-00:15:11.1
+  location: 00:14:29.6-00:14:39.2
+  quote: i said this time i want witnesses had friends come with me... there he is
+    Gene Huff i said that's Dennis Mariani right there
+  claim_id: a62e3ca5-85ac-47fe-9e0e-51c0db61c390
+  claim_fingerprint: 5e020ac20e3608e933ac9a45fafecf5d788f76ae697791ed4ee2fb5fa7f3191f
+  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-a62e3ca5-85ac-47fe-9e0e-51c0db61c390
+- text: Bob Lazar said that he recognised people approaching from Dennis Mariani's
+    direction as having been present at S4.
+  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+  location: 00:14:54.2-00:15:00.9
   quote: as I walked in, I saw other faces that I've seen at S4 walk by me coming
-    from his direction... Those guys look familiar. They look like security from S4.
-  claim_id: 833276b6-e3d1-40bd-bbd1-92ed53c15939
+    from his direction.
+  claim_id: 16d86a40-b801-4f76-9da2-f0fcb1dba899
+  claim_fingerprint: 6e4e35f86c88e34dccc55e579bdbd1cc7709bbb33ab4dbd6ecbf7d0998494bdc
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: At the Union Plaza Hotel meeting, Mariani would not look at or acknowledge
-    Lazar, ignoring him completely
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-16d86a40-b801-4f76-9da2-f0fcb1dba899
+- text: Bob Lazar said that Dennis Mariani did not look at or respond to him when
+    addressed.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:15:11.1-00:15:24.0
-  quote: when I went up to Dennis Marani, he wouldn't even look at me... I went Dennis
-    and no response.
-  claim_id: 6e823b5d-bc3f-4db4-abe7-1133ee40b4fb
+  location: 00:15:11.4-00:15:23.6
+  quote: when I went up to Dennis Marani, he wouldn't even look at me. I stood right
+    behind him. I stood right next to him and he just like, I wasn't even there. I
+    went Dennis and no response.
+  claim_id: 50255d44-9718-4bb5-ba57-f9403f0ee7ab
+  claim_fingerprint: cf6fdb2b67893ae1535a9b8fc93438baa63a6378b9d5f0c4dcb5dd42c2d0efee
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: The familiar faces at the Union Plaza Hotel meeting did not include Chuck
-    Payne
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-50255d44-9718-4bb5-ba57-f9403f0ee7ab
+- text: Chris Ramsay said that Dennis Mariani stared menacingly at Bob Lazar for 20
+    minutes during a bus journey to S4.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:15:35.9-00:15:46.0
-  quote: No, I think they were security... It wasn't Chuck. ... No.
-  claim_id: 9e4d6b5e-c745-4c57-8039-9d69668485df
+  location: 00:19:58.3-00:20:02.9
+  quote: the same guy who'd stare at you for 20 minutes in that ride to S4 menacingly
+  claim_id: 2d51a4cb-8b3a-4adc-8318-0971e14204ea
+  claim_fingerprint: 6d0147e77fe1b7226235c1a0aca3f720cc46852d142dfe2d748f7ef121ec84cd
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: Lazar attributes his hiring at S4 to Edward Teller, who recommended him by
-    referring to a kid in Los Alamos
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-2d51a4cb-8b3a-4adc-8318-0971e14204ea
+- text: Chris Ramsay said that Dennis Mariani invited Bob Lazar to see a test flight
+    outside S4.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:18:03.5-00:18:21.0
-  quote: if anything it was it was teller... he obviously had weight... he said hey
-    there's this kid in los alamos and uh to give him a shot or whatever
-  claim_id: dbf042d7-d710-4ad2-8338-fdea8dce36b8
+  location: 00:20:30.0-00:20:36.4
+  quote: But he's also the guy that was like, hey, come see this launch outside. Come
+    see this test flight, right?
+  claim_id: e076a4a4-d3b6-4744-a02a-5896636ea015
+  claim_fingerprint: 25fa2b9fc2c733157e7b4daed4b73a00699faa8183904840f64568b7df39b7ef
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: The bus used to transport Lazar to S4 had no windows
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e076a4a4-d3b6-4744-a02a-5896636ea015
+- text: Bob Lazar said that the craft was already outside on the day of the test flight,
+    when Dennis Mariani called the team out.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:20:24.9-00:20:26.8
-  quote: And there's not even a window to look out of it. So you just look at the
-    back of the driver's head.
-  claim_id: 04499219-6bbc-4622-afe3-305e3166d4ff
+  location: 00:21:06.9-00:21:15.4
+  quote: instead the craft was already outside and dennis came in come on you guys
+    so it's like it was a last minute thought now that's what makes less sense
+  claim_id: d73d753e-0231-4c69-b127-aa3a19adc392
+  claim_fingerprint: f5e2def123a5d94ca33ce939c564f48dec037b31807b016604f5bc0d12ec2ca1
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: Mariani was the person who summoned Lazar to watch a test flight of the craft
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-d73d753e-0231-4c69-b127-aa3a19adc392
+- text: Bob Lazar said that nobody had tried to locate or track down Barry, who had
+    trained him.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:20:30.0-00:20:42.4
-  quote: he's also the guy that was like, hey, come see this launch outside. Come
-    see this test flight, right? ... Yeah
-  claim_id: 89d6a1a8-6ea2-481d-b8af-102e7eb502e7
-  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  copyright_status: publicly_accessible
-- text: Lazar and his colleagues were back-engineering the power and propulsion of
-    the craft
-  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:20:42.4-00:20:54.3
-  quote: we're back engineering power and propulsion and here's it in operation.
-  claim_id: 37fc7414-82a7-4c63-bdf5-0fa444df9885
-  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  copyright_status: publicly_accessible
-- text: Nobody has tried to track down Barry, who trained Lazar and would be an excellent
-    source of technical information
-  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:22:05.2-00:22:17.8
+  location: 00:22:07.3-00:22:17.0
   quote: nobody tried to care or track down Barry and, um, he'd be great for technical
     information. I'd love to know everything Barry knew.
-  claim_id: 4f801948-5184-487b-afa6-47308a564fb1
+  claim_id: 638cbdbf-2941-4056-8426-1d0340de5917
+  claim_fingerprint: ae55b6d07946e8ff7e658a7d2e8ef53503d5f4a8e2ed44a44b8daaf1b4a08405
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: 'Barry was training Lazar at S4; Lazar and Barry had two assigned tasks: the
-    power system and the propulsion system'
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-638cbdbf-2941-4056-8426-1d0340de5917
+- text: Bob Lazar said that Barry trained him at S4.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:31:06.5-00:31:20.4
-  quote: we had two things to do... it's the power and propulsion system
-  claim_id: 8db9cc71-98e9-4f81-af27-2372095d6288
+  location: 00:22:45.1-00:22:46.2
+  quote: because he was training me
+  claim_id: 714c86d7-1df3-44ce-af7e-6a7f8ee28e4b
+  claim_fingerprint: c30ec6a6757af2ba620b3d9069634407f0b41f837c864045ff638e9cb5fa43b3
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: Lazar's first directive was to duplicate the craft's propulsion system using
-    existing materials
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-714c86d7-1df3-44ce-af7e-6a7f8ee28e4b
+- text: Bob Lazar said that he hinted to Barry that the technology at S4 should not
+    remain secret.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:31:20.4-00:31:33.8
-  quote: directive one was be able to duplicate this with existing materials
-  claim_id: d2eb9989-c3d9-461c-b801-50146d3e7f66
+  location: 00:23:10.0-00:23:28.0
+  quote: I kind of hinted around to Barry about, you know, wow, this is, all of this
+    shouldn't be kept secret. You know, Barry never really wanted to talk about it,
+    but it seemed like He was, he agreed with me, you know, without saying so.
+  claim_id: 36caed55-e704-4a2c-a957-88a1a8a40c1f
+  claim_fingerprint: 0bef501dcd6ba331fd54499fa9267c1c4daf7d3309d06615dbe6c582a25f2838
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: Lazar's second directive was to be able to disable the craft's system from
-    a distance using existing materials
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-36caed55-e704-4a2c-a957-88a1a8a40c1f
+- text: Bob Lazar said that he hoped Barry would speak publicly after his own account
+    became public, but that this did not happen.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:31:20.4-00:31:33.8
-  quote: directive to be able to disable this system from a distance with existing
-    materials.
-  claim_id: f60c8209-eea9-4cbb-9d66-05e3d8fa1e7a
+  location: 00:23:30.6-00:23:42.9
+  quote: I kind of hope that Barry might even follow me, you know, out and, uh, you
+    know, after it was all out, maybe we just suddenly hear another voice from S4.
+    But, uh, no, that was all a pipe dream.
+  claim_id: bceb7798-5f93-46d9-b10a-139d08145ee8
+  claim_fingerprint: 43ca54f3cf8ebde9fe3d2a04de12a1239b73efefcb28d9d117c99f1929b052bc
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: 'Lazar was permitted to read three briefings: Galileo, Sidekick, and Looking
-    Glass'
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-bceb7798-5f93-46d9-b10a-139d08145ee8
+- text: Chris Ramsay said that David Grush had publicly stated that non-human biologics
+    and craft had been recovered and studied.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:32:01.7-00:32:32.6
-  quote: out of the three briefings that you were allowed to peruse during your document
-    readings, you had Galileo... You had Sidekick... And then you had looking glass
-  claim_id: 83c2ef4c-dfb1-4d83-a051-bac63c5f6406
+  location: 00:24:27.4-00:24:36.6
+  quote: gave up his pension and put his own credibility on the line by coming out
+    and saying, hey, we've recovered non-human biologics and we have Kraft and we're
+    working on them
+  claim_id: 4bb04f26-7fab-4596-a2ca-2dc809daa046
+  claim_fingerprint: 6cec784b54755ccf94663dfbb2331504cdf730df7ceb8dea140c047b162b76da
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: The Galileo briefing concerned propulsion using gravity
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-4bb04f26-7fab-4596-a2ca-2dc809daa046
+- text: Bob Lazar said that he believed fear discouraged people from the programme
+    from coming forward.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:32:01.7-00:32:11.9
-  quote: you had Galileo, which was propulsion using gravity.
-  claim_id: bbf73e2c-53a0-4985-abe0-053cd28e6bf5
+  location: 157-172
+  quote: There's no doubt there's a fear aspect to it... I would certainly lean more
+    towards fear. I think they just put the fear of God on them
+  claim_id: 02d02178-874b-4c95-8e63-d7facca9ad29
+  claim_fingerprint: c96563e8e24447050e0edf952adbc6c3372df091d06f457d052834ba918de6db
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: The Sidekick briefing concerned the weaponisation of the craft's technology
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-02d02178-874b-4c95-8e63-d7facca9ad29
+- text: Chris Ramsay said that Bob Lazar and his colleagues were given an opaque yellow
+    fluid tasting of pine sap during testing.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:32:11.9-00:32:19.2
-  quote: You had Sidekick, which was the weaponization of this technology.
-  claim_id: c91468aa-a6d8-4d8c-a6c4-f6ba6b64ac19
+  location: 00:27:26.2-00:27:30.6
+  quote: they had you drink this weird, opaque yellow fluid that tastes like pine
+    saw
+  claim_id: 0df14b1e-ea35-447c-b5a4-63c8304d234c
+  claim_fingerprint: b5821762cf7f5ef06114a17a19d58035e7eb3107317b69a8389e652fe8318f61
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: The Looking Glass briefing concerned time dilation and peering forwards and
-    backwards in time
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-0df14b1e-ea35-447c-b5a4-63c8304d234c
+- text: Bob Lazar said that the yellow fluid was described to him as an immune-system
+    booster administered after allergen testing.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:32:19.2-00:32:32.6
-  quote: you had looking glass, which was something to do with time dilation and peering
-    into time somehow forward, backwards, what have you.
-  claim_id: 86d5ce0b-954e-4c83-be67-f2551f87c5a9
+  location: 00:27:48.5-00:28:02.3
+  quote: It was just an immune system booster because they had just done a whole...
+    The grid for allergens... they said, there are just materials here. We have no
+    clue as to what they are or what interactions they have with the human body.
+  claim_id: e645227f-a0b4-41be-9da9-71259a4a5a19
+  claim_fingerprint: 5b9e08060c3bee1ce0ca2058fe23b4a72da3b7fc7b4a3d8bb32804a9c7c8c04a
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: The programme inserted incorrect and misleading information into briefings,
-    specific to each individual, to identify leakers
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e645227f-a0b4-41be-9da9-71259a4a5a19
+- text: Bob Lazar said that his mind was clear at S4 and denied that anyone had tampered
+    with his head or memory.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:29:11.1-00:29:26.5
+  location: 00:28:34.8-00:28:41.4
+  quote: No, they didn't mess with my head. It was a hundred percent clear every single
+    time I was there. There is no doubt.
+  claim_id: 0cd68969-ccb3-4df4-91e9-7a043ba5b0a2
+  claim_fingerprint: 709e30de51c5cab5b4a07f93e81baef09d89536209fe0b7a88d15aeb5dce5ed7
+  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-0cd68969-ccb3-4df4-91e9-7a043ba5b0a2
+- text: Bob Lazar said that the programme inserted person-specific incorrect and misleading
+    information to identify leaks.
+  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+  location: 00:29:11.7-00:29:26.4
   quote: the way they screw with you by you know inserting incorrect and misleading
     information into what they're telling you... it's specific to each person so if
     they start hearing that from somewhere else they know exactly who said it
-  claim_id: ed6b497d-5d90-43f7-ab05-729d7ea38371
+  claim_id: ff1447da-d137-40c9-83ad-67acf573c8e4
+  claim_fingerprint: f21fc7beaaf3fee3e80405d97cb1574b00205c0d658673489372f122371b8bbc
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: Lazar attributes the lack of further whistleblowers primarily to fear rather
-    than physical silencing
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-ff1447da-d137-40c9-83ad-67acf573c8e4
+- text: Bob Lazar said that he distinguished between material he directly worked on,
+    saw or touched and information he was told or read.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:25:05.9-00:25:21.8
-  quote: There's no doubt there's a fear aspect to it... I would certainly lean more
-    towards fear. I think they just put the fear of God on them
-  claim_id: 0881c9ea-463c-4c4d-9c84-0b92e73e0957
+  location: 00:29:34.2-00:29:53.3
+  quote: i draw such a hard line between what i work on what i saw what i touched
+    and uh you know what i was told or read so you you never know about any of the
+    reading material you never know about any of the hearsay or anything you're being
+    taught if that's it's real unless it's backed up by by hands-on stuff
+  claim_id: 0495b817-6ced-4c57-91fb-5e40f0eb98ae
+  claim_fingerprint: a21a7fb62fd7e2fb4038ad749b14c4a8a915fda43294862f93f25721d3eaaaac
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-- text: Lazar respects David Grusch for coming forward
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-0495b817-6ced-4c57-91fb-5e40f0eb98ae
+- text: Bob Lazar said that Barry had mentioned the deliberate use of misleading information
+    or red herrings.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-  location: 00:24:41.2-00:24:46.9
-  quote: Hats off to that guy. You know, I, I, I respect him for doing that for sure.
-  claim_id: dbb2a36d-d40f-4e3b-8178-65e12ba6ab99
+  location: 00:30:12.5-00:30:13.6
+  quote: that's something even Barry mentioned.
+  claim_id: ef12190b-abb4-4813-8b2e-9a48ae9cc291
+  claim_fingerprint: ca7f739949cdaea236424e48b09c5916b787c0b3dce0d846674b657de86d365c
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   copyright_status: publicly_accessible
-ai_usage:
-- stage: assemble
-  model: claude-sonnet-4-6
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-ef12190b-abb4-4813-8b2e-9a48ae9cc291
+- text: Bob Lazar said that his two directives at S4 concerned duplicating the power
+    and propulsion system and disabling it remotely, using existing materials without
+    budget limits.
+  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+  location: 00:31:20.7-00:31:35.4
+  quote: directive one was be able to duplicate this with existing materials and directive
+    to be able to disable this system from a distance with existing materials. No
+    budget limits in either one.
+  claim_id: 43814f09-7e9e-4b73-912d-52e2d94bd001
+  claim_fingerprint: 4cf4a16710270b33f6bc06757a6d5ff6d2d34373342dd79706e70ed33e445610
+  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-43814f09-7e9e-4b73-912d-52e2d94bd001
+- text: Chris Ramsay said that Bob Lazar was allowed to review the Galileo, Sidekick
+    and Looking Glass briefings.
+  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+  location: 00:31:59.2-00:32:12.8
+  quote: out of the three briefings that you were allowed to peruse during your document
+    readings, you had Galileo... You had Sidekick... And then you had looking glass
+  claim_id: 5b5cc7fe-d30d-489e-855c-fd5e4a618544
+  claim_fingerprint: 09d07f91e1247db59fd72dc5ef004a1f9234f62dc2ebe5a98301820cf1ca55f4
+  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-5b5cc7fe-d30d-489e-855c-fd5e4a618544
+- text: Chris Ramsay said that the Galileo briefing concerned propulsion using gravity.
+  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+  location: 00:32:06.6-00:32:10.6
+  quote: you had Galileo, which was propulsion using gravity
+  claim_id: d6a4cc00-b309-4f50-816b-aeca3c172612
+  claim_fingerprint: d15994bcb01ea6d15cdc282b499c97241e752a6865472cefaf401313c1534ad8
+  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-d6a4cc00-b309-4f50-816b-aeca3c172612
+- text: Chris Ramsay said that the Sidekick briefing concerned weaponising gravity-propulsion
+    technology.
+  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+  location: 00:32:11.9-00:32:17.3
+  quote: You had Sidekick, which was the weaponization of this technology.
+  claim_id: d6078238-a695-4ece-9613-c0dcd6e77dd8
+  claim_fingerprint: b8d3ae94c8560544e30d7c984b7688f7ee9c890c673c125a5eea73e8c64f8df5
+  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-d6078238-a695-4ece-9613-c0dcd6e77dd8
+- text: Chris Ramsay said that the Looking Glass briefing concerned time dilation
+    and observing time forwards and backwards.
+  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+  location: 00:32:20.0-00:32:29.4
+  quote: looking glass, which was something to do with time dilation and peering into
+    time somehow forward, backwards, what have you
+  claim_id: 89528ecd-6fa0-4978-999d-44f966dd8e25
+  claim_fingerprint: 545441d4349071043e5abec8cc44d36ed6863ea9c1102e197d4e10211c6ea771
+  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-89528ecd-6fa0-4978-999d-44f966dd8e25
+- text: Bob Lazar regarded gravity propulsion as the most fundamental of the three
+    programmes.
+  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+  location: 00:32:54.6-00:33:05.8
+  quote: Now I'd stick where I was because with gravity, you get time... there's the
+    machine that makes the gravity. So you're part of that. And then you're nowhere
+    unless you can power it.
+  claim_id: f5a97a4a-1871-4281-91f2-36400f094d3c
+  claim_fingerprint: 0f9225f27c2207ba21248344e6d60381ffcced819f2844bb852de0172b9e67b4
+  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-f5a97a4a-1871-4281-91f2-36400f094d3c
+- text: Bob Lazar said that he did not know whether the technology had since been
+    used to manipulate or observe time.
+  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+  location: 00:33:38.7-00:33:44.8
+  quote: I don't know. I mean, you don't see it anywhere. If so, they're keeping it
+    well covered.
+  claim_id: 292000fe-b371-48b7-b073-40f171d87bca
+  claim_fingerprint: 7ad732f1e7293d82d9571b80c02f96dd976fe0120d1497609bb943eda5acdd00
+  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-292000fe-b371-48b7-b073-40f171d87bca
+- text: Chris Ramsay reported that people he knew had spoken to alleged programme
+    witnesses about a sphere called Looking Glass and a conscious interaction with
+    it.
+  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+  location: 00:33:45.3-00:34:06.6
+  quote: I've heard some people I know that have spoken to witnesses that are apparently
+    in the program have talked about some weird interaction with a sphere that they
+    called like looking glass. which was a sphere that they had to interact with consciously
+    and could peer into time through consciousness-based interaction somehow.
+  claim_id: a493e333-3a9c-4d55-ba41-71ef03b4bd31
+  claim_fingerprint: da89c6454b5fb1d61c046bdd9cdcda3d65568d4deddf362846c6ada063d49161
+  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-a493e333-3a9c-4d55-ba41-71ef03b4bd31
+built_by:
+  model: openai/gpt-5.6-luna
+  model_version: openai/gpt-5.6-luna
+  transport: cli
+  prompt_sha256: 81ecb43a2eaab908df46e4e099eef61fe07da4871f99e49c2006c02218601475
+  system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
+  directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 31487
-    output: 4601
+    input: 27208
+    output: 13200
+    real_input: 27208
+    cache_read: 0
+    cache_write: 0
+    calls: 0
+  body_sha256: 3c80259c1b25c4d4a474046733f28a613e29412a049fc3524e80c405e1d775bd
 ---
 
-*Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87* is a video interview published on 2026-05-08, hosted by [Chris Ramsay](/people/chris-ramsay) as episode 87 of his *DEBRIEFED* series. The episode features [Bob Lazar](/people/bob-lazar), described in the introduction as an Area 51 whistleblower,<sup>1</sup> and was produced in collaboration with Luigi Venditelli. Its central stated purpose is to air, for the first time publicly, a name connected to USA, Nevada, S4 that Lazar had deliberately withheld from all prior interviews.<sup>2</sup>
+DEBRIEFED ep. 87: Bob Lazar Just Revealed His BIGGEST Secret is a source recording in which [Bob Lazar](/people/bob-lazar) discusses people and events associated with [USA, Nevada, S4](/places/nevada-s4-usa). Its principal subjects are Lazar's account of Chuck Payne, Dennis Mariani, security arrangements and technical information he says he encountered there.
 
-The name disclosed is Chuck Payne, whom Lazar identifies as a security guard at S4.<sup>4</sup> Unlike most S4 security personnel, whom Lazar characterises as tight-lipped, Payne was overt and extroverted, greeting workers including Lazar by name.<sup>5</sup> Lazar states he had never mentioned Payne to anyone before this episode,<sup>6</sup> including to journalist [George Knapp](/people/george-knapp),<sup>7</sup> and asserts that anyone who had genuinely been at S4 would have known who Payne was.<sup>8</sup> The withholding was deliberate: Lazar explains that he retains certain details precisely to test the authenticity of people who claim, via emails or public comments, that a relative or acquaintance worked at the facility.<sup>10</sup> The episode also notes that a senator named Chuck Payne appears in online searches and is not the individual Lazar is referring to.<sup>12 (claim not in references list — omitted)</sup>
+## Chuck Payne and Dennis Mariani
 
-A second figure discussed at length is Dennis Mariani, whom Lazar introduced into public discourse and whom many researchers subsequently sought out as someone who would possess considerably more knowledge of the programme than Lazar himself.<sup>3 (see claim 40)</sup> Lazar states his belief, based on photographs of a gravestone shared by others, that Mariani has died.<sup>11</sup> He describes Mariani as appearing to operate on a different level from the other S4 guards, a figure he regarded as distinctive.<sup>12</sup> Independent corroboration of Mariani's existence comes from a former co-pilot of Janet Airlines who contacted Ramsay: the pilot stated he had flown into USA, Nevada, Groom Lake between approximately 1987 and 1991 — the period Lazar is said to have been at the facility — and had met Mariani over a dozen times.<sup>13,14</sup> After Lazar came forward publicly through Knapp, Mariani contacted him by telephone and arranged a meeting at the USA, Nevada, Las Vegas, Union Plaza Hotel.<sup>15</sup> Lazar brought witnesses, including Gene Huff,<sup>16</sup> and upon arrival observed faces he recognised as S4 security personnel in the vicinity.<sup>17</sup> Mariani refused to acknowledge or look at Lazar throughout the encounter,<sup>18</sup> and the security personnel present did not include Payne.<sup>19</sup>
+Lazar said that he had deliberately withheld Payne's name because Payne was a well-known overt security officer at S4.<sup>1</sup> He identified Chuck Payne as one of the site's security guards.<sup>2</sup> Lazar also said that he had not previously mentioned Payne's name to anyone, including [George Knapp](/people/george-knapp), before the interview.
 
-The episode revisits Lazar's account of how he came to be hired at S4. Lazar attributes the recruitment to Edward Teller, whom he believes recommended him by referring to a young physicist in USA, New Mexico, Los Alamos.<sup>20</sup> His acquaintance with John Lear is addressed directly; Ramsay notes that many find it difficult to reconcile the friendship with Lazar's subsequent vetting for a classified reverse-engineering programme. Lazar recounts that at the relevant time Lear was advancing claims he considered absurd, and that he told Lear so directly, suggesting he did not regard Lear as credible even then. On the technical side, Lazar and a colleague referred to only as Barry were assigned two directives: to duplicate the craft's propulsion system using existing materials,<sup>26</sup> and to develop a means of disabling the craft's system from a distance.<sup>27</sup> Neither task carried a budget limit.<sup>(claim 59)</sup> Lazar considers the second directive the more consequential of the two. Barry, who had been training Lazar at the facility<sup>25</sup> and whom Lazar feared would face reprisals after the disclosure, has not been sought out by researchers despite Lazar's view that Barry would be a valuable technical source.<sup>24</sup>
+Lazar discussed the uncertain fate of Dennis Mariani, reporting that people he knew who had investigated Mariani's fate believed that Mariani had died.<sup>3</sup> Lazar said that he had seen a photograph of a gravestone which he believed, together with other connecting details, belonged to Mariani.<sup>4</sup> Luigi Venditelli said that he had been surprised when Lazar first disclosed the name Payne in an interview approximately three years before the recording.<sup>5</sup>
 
-During document readings at S4, Lazar was permitted to read three briefings.<sup>28</sup> The first, Galileo (S4 propulsion briefing), addressed anti-gravity propulsion.<sup>29</sup> The second, Sidekick (S4 weaponisation briefing), concerned the weaponisation of the craft's technology.<sup>30</sup> The third, Looking Glass (S4 time briefing), addressed time dilation and the possibility of viewing forwards and backwards in time.<sup>31</sup> Lazar draws a clear epistemic distinction between what he personally worked on or observed and what appeared in written briefings, treating the latter as less reliable, not least because the programme deliberately seeded briefings with false information tailored to individual readers in order to identify sources of any leak.<sup>32</sup> He notes that his trainer Barry independently mentioned the same practice of inserting misleading material into programme documents.
+Venditelli also described information received during work associated with Project Gravator. He said that the film crew filmed Lazar with a DeLorean time machine prop in the desert near [USA, Nevada, Las Vegas](/places/nevada-las-vegas-usa).<sup>6</sup> Venditelli said that, during the filming trip, Lazar told him that he had information to share which he had not shared previously.
 
-The episode also touches on the broader disclosure landscape. Ramsay notes that [David Grusch](/people/david-grusch) put his pension and professional reputation at risk by stating publicly that the US has recovered non-human craft and biologics; Lazar expresses respect for Grusch's decision to come forward.<sup>33</sup> Lazar attributes the absence of further whistleblowers from the programme not primarily to physical silencing but to the fear instilled in those involved.<sup>34</sup> He also addresses claims that substances administered to him at S4 — an opaque yellow fluid described to him as an immune-system booster — might have compromised his perception, and flatly rejects any suggestion that he was not clear-headed during his time at the facility.
+The episode discusses alleged independent testimony concerning Mariani. Venditelli said that a former [EG&G](/organisations/egg) co-pilot who had flown [Janet Airlines](/organisations/janet-airlines) flights into [USA, Nevada, Groom Lake](/places/nevada-groom-lake-usa) contacted [Chris Ramsay](/people/chris-ramsay).<sup>7</sup> Ramsay said that the co-pilot had met Mariani more than a dozen times, had a regular rapport with him and had been informed of his passing.<sup>8</sup> Venditelli regarded this reported testimony as independent corroboration that Mariani existed and flew on Janet Airlines aircraft to Groom Lake, and considered it supportive of Lazar's account.<sup>9</sup>
+
+## The Union Plaza Hotel meeting
+
+Lazar said that, after he came forward publicly, Knapp called him and arranged a meeting at the Union Plaza Hotel in Las Vegas.<sup>10</sup> Lazar said that he brought Gene Huff with him as a witness when he went to meet Mariani.<sup>11</sup>
+
+According to Lazar, he recognised other people approaching from Mariani's direction as faces he had seen at S4.<sup>12</sup> He said that when he addressed Mariani by name, Mariani did not look at him or respond.<sup>13</sup> Lazar believed that the unfamiliar faces near Mariani were security personnel from S4. He said that Payne was not among those faces.
+
+Ramsay said that Mariani stared at Lazar in a menacing manner for 20 minutes during a bus journey to S4.<sup>14</sup> He also said that Mariani invited Lazar to see a test flight outside the facility.<sup>15</sup> Lazar said that the bus transporting him to S4 had no window through which to look out. He described the craft as already being outside on the day of the test flight, with Mariani coming inside to tell the team to go out, making the decision appear to have been made at the last minute.<sup>16</sup>
+
+## Other personnel and public testimony
+
+Lazar said that many people had spent considerable time trying to locate Mariani because they believed Mariani would know a great deal about the S4 programme. He contrasted this with Barry, whom he said nobody had tried to locate or track down despite Barry having trained him at S4.<sup>17</sup> <sup>18</sup>
+
+Lazar said that he was concerned people would direct their anger at Barry after he went public. He said that he hinted to Barry that the technology on which they worked at S4 should not remain secret, and that Barry appeared to agree silently.<sup>19</sup> Lazar hoped Barry would follow him and speak publicly after Lazar's account emerged, but said that this did not happen.<sup>20</sup>
+
+The episode also discusses [David Grush](/people/david-grush). Ramsay said that Grush had risked his pension and credibility by publicly stating that non-human biologics and craft had been recovered and were being studied.<sup>21</sup> Lazar expressed respect for Grush's decision to come forward. Lazar attributed the absence of other public testimony from the programme discussed by Grush to fear, saying that he considered fear a more likely explanation than physical suppression for people not speaking publicly.<sup>22</sup>
+
+## Accounts of testing and information control
+
+Ramsay said that Lazar and his colleagues were given an opaque yellow fluid which tasted like pine sap during testing.<sup>23</sup> Lazar denied that the fluid was intended as psychological conditioning to make him believe that his experiences were hallucinations. He said that he had been told it was an immune-system booster administered after allergen testing because substances at the facility were of unknown composition and their interactions with the human body were unknown.<sup>24</sup>
+
+Lazar said that his mind was completely clear whenever he was at S4 and denied that anyone had tampered with his head or memory.<sup>25</sup> He also said that the programme deliberately inserted incorrect and misleading information specific to each person, so that a subsequent leak could be traced to the person who had received the information.<sup>26</sup>
+
+Lazar drew a distinction between material he had directly worked on, seen or touched and material he had only been told about or read. He treated the hands-on material as verified and said that much of the reading material supplied at S4 contained nonsense.<sup>27</sup> He further reported that Barry had mentioned the deliberate introduction of misleading information or red herrings as a means of keeping the subject concealed.<sup>28</sup>
+
+## Programmes and briefings
+
+Lazar said that his two directives at S4 were to duplicate a power and propulsion system using existing materials and to disable the system remotely using existing materials, without budget limits.<sup>29</sup> Ramsay said that Lazar had been allowed to review three briefings: Galileo, Sidekick and Looking Glass.<sup>30</sup>
+
+According to Ramsay, the Galileo briefing concerned propulsion using gravity.<sup>31</sup> The Sidekick briefing concerned the weaponisation of that gravity-propulsion technology.<sup>32</sup> The Looking Glass briefing concerned time dilation and the ability to look into time in both forward and backward directions.<sup>33</sup>
+
+Lazar considered gravity propulsion the most fundamental of the three programmes because, in his view, gravity manipulation underlay the other two capabilities and time dilation followed from gravity manipulation. He said that he did not know whether the technology had subsequently been used to manipulate or observe time.<sup>34</sup> Ramsay additionally reported that people he knew had spoken to alleged programme witnesses about a sphere called Looking Glass, which was said to require conscious interaction in order to observe time through a consciousness-based process.<sup>35</sup>

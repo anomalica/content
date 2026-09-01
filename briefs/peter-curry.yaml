@@ -1,0 +1,401 @@
+schema: anomalica/brief/1
+brief_hash: f69f0d0e3486410643a7ac0892422454d21366ff1f56100411e45a138b216f63
+page:
+  kind: entity
+  node_id: 19247384-509d-492b-8701-0f0894424c86
+  node_type: person
+  title: Peter Curry
+  slug: peter-curry
+  claim_count: 8
+  claim_count_total: 8
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 8
+  tokens_estimated: 2231
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 8
+related_nodes:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 6
+  - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
+    title: human-alien hybrid children
+    node_type: topic
+    slug: human-alien-hybrid-children
+    shared_claims: 5
+  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+    title: telepathy
+    node_type: topic
+    slug: telepathy
+    shared_claims: 2
+  - node_id: dfa3268c-8bbb-4c5d-8066-f9a3a416b7e6
+    title: Communion (Whitley Strieber book)
+    node_type: document
+    slug: communion-whitley-strieber-book
+    shared_claims: 1
+  - node_id: bcb82e5c-3a50-48d8-b0d7-34857b22c6b9
+    title: Eric Nanstiel
+    node_type: person
+    slug: eric-nanstiel
+    shared_claims: 1
+  - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+    title: Jason Quitt
+    node_type: person
+    slug: jason-quitt
+    shared_claims: 1
+  - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
+    title: alien abduction experience
+    node_type: topic
+    slug: alien-abduction-experience
+    shared_claims: 1
+  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+    title: human-alien hybridization
+    node_type: topic
+    slug: human-alien-hybridization
+    shared_claims: 1
+  - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
+    title: the close encounter experience
+    node_type: topic
+    slug: the-close-encounter-experience
+    shared_claims: 1
+claims:
+  - claim_id: 5590b4db-ab97-4474-a27a-418c3d4b371d
+    claim_hash: d87cec6fb3d70e6213a157eb7df6468a2b35917628396965ad98857e50d9cd42
+    content: Peter Curry appeared on Chris Ramsay's podcast and said an Australian billboard bearing the Communion cover art
+      and the words "they're here" was one of the things that unlocked his memory.
+    original_excerpt: Peter Curry was on here. I remember him saying that It's one of the things that unlocked his memory.
+      ... was, uh, a billboard in Australia that featured, you know, uh, they're coming, I think, or they're here. I think
+      it was they're here.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Peter Curry
+      relay:
+        - Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19247384-509d-492b-8701-0f0894424c86
+        title: Peter Curry
+        slug: peter-curry
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: dfa3268c-8bbb-4c5d-8066-f9a3a416b7e6
+        title: Communion (Whitley Strieber book)
+        slug: communion-whitley-strieber-book
+    date: null
+    date_end: null
+    location_in_record: 00:57:11.7-00:57:26.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: a9f8c88c-9d2f-46b9-8ac2-241a25bbaf1e
+    claim_hash: 794e69709efa5d8104639e90a21d1c787ffbcc5843094576c2e6a46037de2634
+    content: Peter Curry is a man from Australia who is a lifelong abductee.
+    original_excerpt: He's a gentleman from Australia who's a lifelong abductee as well.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19247384-509d-492b-8701-0f0894424c86
+        title: Peter Curry
+        slug: peter-curry
+      - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
+        title: alien abduction experience
+        slug: alien-abduction-experience
+    date: null
+    date_end: null
+    location_in_record: 00:57:17.2-00:57:20.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: c4d397d4-8cff-4933-b911-805e4f477be9
+    claim_hash: c175ba05f113961c0395c728bdf42e885e197f3dee3a9588296dcfdfdb4bf32b
+    content: Eric Nanstiel and Peter Curry are among the many people who have described reproductive material being taken
+      and being shown hybrid children.
+    original_excerpt: But then so many more, including a lot of the people that were here, including Eric Dansteel, we talked
+      about, Nansteel, Peter Curry as well. So, so many other people.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Chris Ramsay's narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19247384-509d-492b-8701-0f0894424c86
+        title: Peter Curry
+        slug: peter-curry
+      - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+        title: human-alien hybridization
+        slug: human-alien-hybridization
+      - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
+        title: the close encounter experience
+        slug: the-close-encounter-experience
+      - node_id: bcb82e5c-3a50-48d8-b0d7-34857b22c6b9
+        title: Eric Nanstiel
+        slug: eric-nanstiel
+    date: null
+    date_end: null
+    location_in_record: 01:39:31.2-01:39:41.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: a2d5d805-4506-4c4b-8d3a-1e5a7480c5fb
+    claim_hash: 9dae25d3efc9c67f377c973793cb58547a2d7f19f74dfc4afd8d9592e785d43f
+    content: Peter Curry broke down in tears while describing to Chris Ramsay what he was shown during his experience.
+    original_excerpt: Peter Curry he broke down in tears with what he was shown
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19247384-509d-492b-8701-0f0894424c86
+        title: Peter Curry
+        slug: peter-curry
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
+        title: human-alien hybrid children
+        slug: human-alien-hybrid-children
+    date: null
+    date_end: null
+    location_in_record: 02:06:46.0-02:06:49.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 485362b9-9137-48ca-8826-9c423a6f69d6
+    claim_hash: 64fca241e7616e17b1e882918484272f19abf21f0842768e97ab2f2f2b598d75
+    content: Peter Curry told Chris Ramsay that before the meeting he was warned the beings were hesitant to show him the
+      child because of how he might react to its physical appearance.
+    original_excerpt: he was actually told prior to the meeting, He goes, we're hesitant to show you this child because how
+      you might react to what it looks like physically.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Peter Curry
+      relay:
+        - Peter Curry's account to Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19247384-509d-492b-8701-0f0894424c86
+        title: Peter Curry
+        slug: peter-curry
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
+        title: human-alien hybrid children
+        slug: human-alien-hybrid-children
+    date: null
+    date_end: null
+    location_in_record: 02:09:53.8-02:10:04.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 94ab6eca-4cfd-48ae-b751-441ebe3d7870
+    claim_hash: 07bfedde4e3a8cf9cbf515fdfa8589b626afea1722c1e84174a32d61e4c5b736
+    content: Peter Curry told Chris Ramsay that the hybrid child he was shown was excelling at school and was highly telepathic,
+      able to pick up anything he thought.
+    original_excerpt: because this child is excelling and doing really well at school and what they're doing, he's also very
+      highly telepathic. And so he'll pick up on anything that you think.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Peter Curry
+      relay:
+        - Peter Curry's account to Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19247384-509d-492b-8701-0f0894424c86
+        title: Peter Curry
+        slug: peter-curry
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
+        title: human-alien hybrid children
+        slug: human-alien-hybrid-children
+      - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+        title: telepathy
+        slug: telepathy
+    date: null
+    date_end: null
+    location_in_record: 02:10:06.4-02:10:16.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 362af243-6faf-4986-a258-0c9da587cbf0
+    claim_hash: ae2379876384fcb4c132afe8ec5245b02fc6075d0ade660e70e43a67300c3507
+    content: Peter Curry told Chris Ramsay that the beings said they would help him navigate the interaction by screening
+      his mind.
+    original_excerpt: we're going to help you sort of navigate that interaction and like screen your mind type deal
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Peter Curry
+      relay:
+        - Peter Curry's account to Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19247384-509d-492b-8701-0f0894424c86
+        title: Peter Curry
+        slug: peter-curry
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
+        title: human-alien hybrid children
+        slug: human-alien-hybrid-children
+      - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+        title: telepathy
+        slug: telepathy
+    date: null
+    date_end: null
+    location_in_record: 02:10:17.3-02:10:24.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 3f2a111a-301f-4213-ba81-691f1c6406d7
+    claim_hash: 748715f04ad2d3df60b84d42a626e7a9bfbf9ef84ae6c6e85fb8d9152e03fee2
+    content: Peter Curry's initial reaction on being shown the hybrid child was shock and indignation, matching Jason Quitt's
+      reaction.
+    original_excerpt: that was the same sort of reaction he had at first like whoa what the hell is this and then that how
+      dare you do this to me
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Peter Curry
+      relay:
+        - Peter Curry's account to Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19247384-509d-492b-8701-0f0894424c86
+        title: Peter Curry
+        slug: peter-curry
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
+        title: human-alien hybrid children
+        slug: human-alien-hybrid-children
+    date: null
+    date_end: null
+    location_in_record: 02:10:27.8-02:10:34.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null

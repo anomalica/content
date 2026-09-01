@@ -9,223 +9,226 @@ page:
   claim_count: 4
   claim_count_total: 4
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1181
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
 related_nodes:
-- node_id: 7f2106c6-6a69-4d27-86d5-847bafd5796e
-  title: James E. McDonald statement to the United Nations Outer Space Affairs Group,
-    1967-06-07
-  node_type: document
-  slug: 1967-06-07-james-e-mcdonald-statement-to-the-united-nations-outer-space-affairs-group
-  shared_claims: 3
-- node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-  title: James MacDonald
-  node_type: person
-  slug: james-macdonald
-  shared_claims: 3
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 2
-- node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
-  title: United Nations (UN)
-  node_type: organisation
-  slug: united-nations-un
-  shared_claims: 2
-- node_id: 3abd8bc9-ef78-4110-9694-0e28d97751e7
-  title: 1978 Jacques Vallée United Nations Unidentified Flying Object (UFO) statement
-  node_type: event
-  slug: 1978-jacques-vallee-united-nations-unidentified-flying-object-ufo-statement
-  shared_claims: 1
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 1
-- node_id: 75f8cf38-618c-4dd4-8629-d6b9b7d425fb
-  title: Kurt Waldheim
-  node_type: person
-  slug: kurt-waldheim
-  shared_claims: 1
-claims:
-- claim_id: 63868c2e-64f6-4951-a72f-a9db5dcf9898
-  claim_hash: 800260f6bda08546c0b3a3eee7f2879746f55b34724ef83099ecee95333ac17f
-  content: Prior to the 1978 United Nations UFO statement, Jacques Vallée held preliminary
-    discussions with Kurt Waldheim and representatives of the Outer Space Affairs
-    Group.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
-    title: Outer Space Affairs Group
-    slug: outer-space-affairs-group
+  - node_id: 7f2106c6-6a69-4d27-86d5-847bafd5796e
+    title: James E. McDonald statement to the United Nations Outer Space Affairs Group, 1967-06-07
+    node_type: document
+    slug: 1967-06-07-james-e-mcdonald-statement-to-the-united-nations-outer-space-affairs-group
+    shared_claims: 3
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    node_type: person
+    slug: james-macdonald
+    shared_claims: 3
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    node_type: organisation
+    slug: united-nations-un
+    shared_claims: 2
   - node_id: 3abd8bc9-ef78-4110-9694-0e28d97751e7
     title: 1978 Jacques Vallée United Nations Unidentified Flying Object (UFO) statement
+    node_type: event
     slug: 1978-jacques-vallee-united-nations-unidentified-flying-object-ufo-statement
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
   - node_id: 75f8cf38-618c-4dd4-8629-d6b9b7d425fb
     title: Kurt Waldheim
+    node_type: person
     slug: kurt-waldheim
-  date: '1978-11-27'
-  date_end: null
-  location_in_record: ch16:1091-1207
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: f68a4026-c3e8-4f4e-9246-d0b58ec919bd
-  claim_hash: 3cb31d76fde6e17e1d5581df117e9406567b064dd33493aa105968656e9a6142
-  content: On 1967-06-07, James E. McDonald spoke to the United Nations Outer Space
-    Affairs Group about the Unidentified Flying Object (UFO) problem and submitted
-    formal statements urging United Nations action on it.
-  original_excerpt: On the 7th of June, I was at the United Nations speaking to the
-    Outer Space Affairs Group about the UFO problem, submitted some formal statements
-    to them, urging UN action on the UFO problem.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-  provenance_chain:
-    origin_kind: speaker
-    origin: James E. McDonald
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
-    title: Outer Space Affairs Group
-    slug: outer-space-affairs-group
-  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-    slug: james-macdonald
-  - node_id: 7f2106c6-6a69-4d27-86d5-847bafd5796e
-    title: James E. McDonald statement to the United Nations Outer Space Affairs Group,
-      1967-06-07
-    slug: 1967-06-07-james-e-mcdonald-statement-to-the-united-nations-outer-space-affairs-group
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
-    title: United Nations (UN)
-    slug: united-nations-un
-  date: '1967-06-07'
-  date_end: null
-  location_in_record: 00:15:58.7-00:16:11.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
-    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
-      His Investigative Tour (1967)
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
-    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
-    friendly_name: null
-- claim_id: b65bfc80-8c73-498f-b124-b3f0d5e3e78a
-  claim_hash: 072f367ac8fd185e433beffccdaf7f45c2ceb10610b2b594b1a0959695019f7a
-  content: In mid-1967, James E. McDonald presented a statement to the United Nations
-    Outer Space Affairs Group urging immediate United Nations action on the Unidentified
-    Flying Object (UFO) problem.
-  original_excerpt: I spoke along these lines only a short time ago this summer in
-    the United Nations at the outer space affairs group presented a statement to the
-    outer space affairs group urging immediate UN action on the problem
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-  provenance_chain:
-    origin_kind: speaker
-    origin: James E. McDonald
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
-    title: Outer Space Affairs Group
-    slug: outer-space-affairs-group
-  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-    slug: james-macdonald
-  - node_id: 7f2106c6-6a69-4d27-86d5-847bafd5796e
-    title: James E. McDonald statement to the United Nations Outer Space Affairs Group,
-      1967-06-07
-    slug: 1967-06-07-james-e-mcdonald-statement-to-the-united-nations-outer-space-affairs-group
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
-    title: United Nations (UN)
-    slug: united-nations-un
-  date: '1967-06-07'
-  date_end: null
-  location_in_record: 00:41:46.6-00:42:04.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
-    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
-      His Investigative Tour (1967)
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
-    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
-    friendly_name: null
-- claim_id: 8f59cf27-ff4e-43bb-95c5-7ec13d85d898
-  claim_hash: 210ca082ff38471cccacfb3f004ad9a32e88bf9e4580a9770ddb336a8428a0c8
-  content: James E. McDonald was pleased that his statement to the United Nations
-    Outer Space Affairs Group had some effect.
-  original_excerpt: was very pleased to see that it had some effect
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-  provenance_chain:
-    origin_kind: speaker
-    origin: James E. McDonald
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
-    title: Outer Space Affairs Group
-    slug: outer-space-affairs-group
-  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-    title: James MacDonald
-    slug: james-macdonald
-  - node_id: 7f2106c6-6a69-4d27-86d5-847bafd5796e
-    title: James E. McDonald statement to the United Nations Outer Space Affairs Group,
-      1967-06-07
-    slug: 1967-06-07-james-e-mcdonald-statement-to-the-united-nations-outer-space-affairs-group
-  date: null
-  date_end: null
-  location_in_record: 00:42:04.9-00:42:06.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
-    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
-      His Investigative Tour (1967)
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
-    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
-    friendly_name: null
+    shared_claims: 1
+claims:
+  - claim_id: 63868c2e-64f6-4951-a72f-a9db5dcf9898
+    claim_hash: 800260f6bda08546c0b3a3eee7f2879746f55b34724ef83099ecee95333ac17f
+    content: Prior to the 1978 United Nations UFO statement, Jacques Vallée held preliminary discussions with Kurt Waldheim
+      and representatives of the Outer Space Affairs Group.
+    original_excerpt: in our preliminary discussions with His Excellency Mr. Kurt Waldheim and representatives of the Outer
+      Space Affairs Group
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
+        title: Outer Space Affairs Group
+        slug: outer-space-affairs-group
+      - node_id: 3abd8bc9-ef78-4110-9694-0e28d97751e7
+        title: 1978 Jacques Vallée United Nations Unidentified Flying Object (UFO) statement
+        slug: 1978-jacques-vallee-united-nations-unidentified-flying-object-ufo-statement
+      - node_id: 75f8cf38-618c-4dd4-8629-d6b9b7d425fb
+        title: Kurt Waldheim
+        slug: kurt-waldheim
+    date: '1978-11-27'
+    date_end: null
+    location_in_record: ch16:1091-1207
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: f68a4026-c3e8-4f4e-9246-d0b58ec919bd
+    claim_hash: 3cb31d76fde6e17e1d5581df117e9406567b064dd33493aa105968656e9a6142
+    content: On 1967-06-07, James E. McDonald spoke to the United Nations Outer Space Affairs Group about the Unidentified
+      Flying Object (UFO) problem and submitted formal statements urging United Nations action on it.
+    original_excerpt: On the 7th of June, I was at the United Nations speaking to the Outer Space Affairs Group about the
+      UFO problem, submitted some formal statements to them, urging UN action on the UFO problem.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+      title: James MacDonald
+    provenance_chain:
+      origin_kind: speaker
+      origin: James E. McDonald
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
+        title: Outer Space Affairs Group
+        slug: outer-space-affairs-group
+      - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+        title: James MacDonald
+        slug: james-macdonald
+      - node_id: 7f2106c6-6a69-4d27-86d5-847bafd5796e
+        title: James E. McDonald statement to the United Nations Outer Space Affairs Group, 1967-06-07
+        slug: 1967-06-07-james-e-mcdonald-statement-to-the-united-nations-outer-space-affairs-group
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+        title: United Nations (UN)
+        slug: united-nations-un
+    date: '1967-06-07'
+    date_end: null
+    location_in_record: 00:15:58.7-00:16:11.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+      record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His Investigative Tour (1967)
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+      content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+      friendly_name: null
+  - claim_id: b65bfc80-8c73-498f-b124-b3f0d5e3e78a
+    claim_hash: 072f367ac8fd185e433beffccdaf7f45c2ceb10610b2b594b1a0959695019f7a
+    content: In mid-1967, James E. McDonald presented a statement to the United Nations Outer Space Affairs Group urging immediate
+      United Nations action on the Unidentified Flying Object (UFO) problem.
+    original_excerpt: I spoke along these lines only a short time ago this summer in the United Nations at the outer space
+      affairs group presented a statement to the outer space affairs group urging immediate UN action on the problem
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+      title: James MacDonald
+    provenance_chain:
+      origin_kind: speaker
+      origin: James E. McDonald
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
+        title: Outer Space Affairs Group
+        slug: outer-space-affairs-group
+      - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+        title: James MacDonald
+        slug: james-macdonald
+      - node_id: 7f2106c6-6a69-4d27-86d5-847bafd5796e
+        title: James E. McDonald statement to the United Nations Outer Space Affairs Group, 1967-06-07
+        slug: 1967-06-07-james-e-mcdonald-statement-to-the-united-nations-outer-space-affairs-group
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+        title: United Nations (UN)
+        slug: united-nations-un
+    date: '1967-06-07'
+    date_end: null
+    location_in_record: 00:41:46.6-00:42:04.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+      record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His Investigative Tour (1967)
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+      content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+      friendly_name: null
+  - claim_id: 8f59cf27-ff4e-43bb-95c5-7ec13d85d898
+    claim_hash: 210ca082ff38471cccacfb3f004ad9a32e88bf9e4580a9770ddb336a8428a0c8
+    content: James E. McDonald was pleased that his statement to the United Nations Outer Space Affairs Group had some effect.
+    original_excerpt: was very pleased to see that it had some effect
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+      title: James MacDonald
+    provenance_chain:
+      origin_kind: speaker
+      origin: James E. McDonald
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
+        title: Outer Space Affairs Group
+        slug: outer-space-affairs-group
+      - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+        title: James MacDonald
+        slug: james-macdonald
+      - node_id: 7f2106c6-6a69-4d27-86d5-847bafd5796e
+        title: James E. McDonald statement to the United Nations Outer Space Affairs Group, 1967-06-07
+        slug: 1967-06-07-james-e-mcdonald-statement-to-the-united-nations-outer-space-affairs-group
+    date: null
+    date_end: null
+    location_in_record: 00:42:04.9-00:42:06.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+      record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His Investigative Tour (1967)
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+      content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+      friendly_name: null

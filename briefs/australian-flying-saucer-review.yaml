@@ -9,307 +9,312 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 7
+  tokens_estimated: 1838
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
 related_nodes:
-- node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-  title: Jonathan Caplan
-  node_type: person
-  slug: jonathan-caplan
-  shared_claims: 5
-- node_id: 8930d84b-2a19-44fc-82cb-4af19328be48
-  title: Prince Philip, Duke of Edinburgh
-  node_type: person
-  slug: duke-of-edinburgh-prince-philip
-  shared_claims: 2
-- node_id: 515d17db-70be-409a-84e9-e99cbebbd243
-  title: C. Bowen
-  node_type: person
-  slug: c-bowen
-  shared_claims: 1
-- node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
-  title: Gordon Creighton
-  node_type: person
-  slug: gordon-creighton
-  shared_claims: 1
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 1
-- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-  title: Richard C. Hoagland
-  node_type: person
-  slug: richard-c-hoagland
-  shared_claims: 1
-claims:
-- claim_id: bb9817aa-7c3b-4c7d-8eb3-614f6343df48
-  claim_hash: 9cdafab88dc8040bbe9523464f4ff68a4283fcd931bb0e0df3dbefadc9298720
-  content: The Space Review published personal attacks against Richard C. Hoagland.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
-    title: Mike Bara
-  provenance_chain:
-    origin_kind: speaker
-    origin: Mike Bara
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
-    title: Australian Flying Saucer Review
-    slug: australian-flying-saucer-review
-  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-    slug: richard-c-hoagland
-  date: null
-  date_end: null
-  location_in_record: ch5:462-585
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 0b4ab21b-8dc5-4a91-8bad-10df4c336fde
-  claim_hash: ad82daa3531348d017961cc84d0842b45b9016e6ab44e36f27e29792c55c3129
-  content: Jonathan Caplan previously served on the editorial board of Flying Saucer
-    Review.
-  original_excerpt: he's previously served on the editorial board of a leading international
-    UFO journal
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
   - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
     title: Jonathan Caplan
+    node_type: person
     slug: jonathan-caplan
-  - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
-    title: Australian Flying Saucer Review
-    slug: australian-flying-saucer-review
-  date: null
-  date_end: null
-  location_in_record: 00:01:56.9-00:02:02.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 41a866a1-70d8-400c-b242-704933e840e5
-  claim_hash: c89f321bf85aea5c44728c4ad55987e43b290c0a1bf036576a25ee3daedd2c26
-  content: Jonathan Caplan joined the board of Flying Saucer Review, which he considered
-    the leading ufology magazine at the time.
-  original_excerpt: I ended up joining the board of an international magazine called
-    Flying Saucer Review, which I think at the time was the leading magazine in this
-    subject.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jonathan Caplan
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-    slug: jonathan-caplan
-  - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
-    title: Australian Flying Saucer Review
-    slug: australian-flying-saucer-review
-  date: null
-  date_end: null
-  location_in_record: 00:02:44.6-00:02:53.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: cc819c42-b493-4925-958e-182545a3186e
-  claim_hash: 132421705cb32984dc024cd1d170f9ce6b870014664d03ea7c5bc14831017c13
-  content: Jacques Vallée was a correspondent who supplied material to Flying Saucer
-    Review.
-  original_excerpt: We had correspondents such as Jacques Vallée and many other leading
-    ufologists who supplied material for the magazine.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jonathan Caplan
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
-    title: Australian Flying Saucer Review
-    slug: australian-flying-saucer-review
-  date: null
-  date_end: null
-  location_in_record: 00:02:54.8-00:03:03.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 775c3610-166a-4ba2-bc85-ef23e48411e0
-  claim_hash: 78a8cde369cec463174d19b639ed0480771cb22087791c89cac5524729c9211e
-  content: One of Jonathan Caplan's jobs at Flying Saucer Review was to deliver each
-    copy of the magazine to the equerry of Prince Philip, Duke of Edinburgh, who was
-    interested in the subject.
-  original_excerpt: One of my jobs was to deliver each copy to the equerry of Prince
-    Philip, who was interested in the subject.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jonathan Caplan
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 5
   - node_id: 8930d84b-2a19-44fc-82cb-4af19328be48
     title: Prince Philip, Duke of Edinburgh
+    node_type: person
     slug: duke-of-edinburgh-prince-philip
-  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-    slug: jonathan-caplan
-  - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
-    title: Australian Flying Saucer Review
-    slug: australian-flying-saucer-review
-  date: null
-  date_end: null
-  location_in_record: 00:03:04.7-00:03:10.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 3766e357-e7b7-43cc-a4bd-f1a4624d9be0
-  claim_hash: 9f5ab91a568c4181cf84ed483ac461a058c23c583d5557c5daec32781ac07d32
-  content: Jonathan Caplan met Gordon Creighton and Charles Bowen, editors of Flying
-    Saucer Review, among other leading researchers of the time.
-  original_excerpt: I met through the editors who were Gordon Crichton, Charles Bowen,
-    many of the leading researchers at the time.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jonathan Caplan
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 2
   - node_id: 515d17db-70be-409a-84e9-e99cbebbd243
     title: C. Bowen
+    node_type: person
     slug: c-bowen
+    shared_claims: 1
   - node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
     title: Gordon Creighton
+    node_type: person
     slug: gordon-creighton
-  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-    slug: jonathan-caplan
-  - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
-    title: Australian Flying Saucer Review
-    slug: australian-flying-saucer-review
-  date: null
-  date_end: null
-  location_in_record: 00:03:12.7-00:03:20.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 64d26946-a286-45d9-bedc-c3bc11d297b6
-  claim_hash: c65e60db0876322ea53ba1704c4b557d5c6908c2be3fd6199978ccfcbeaef17d
-  content: Jonathan Caplan delivered copies of Flying Saucer Review to Prince Philip,
-    Duke of Edinburgh.
-  original_excerpt: you delivered copies of Flying Saucer Review to the Queen's husband,
-    the Duke of Edinburgh.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 8930d84b-2a19-44fc-82cb-4af19328be48
-    title: Prince Philip, Duke of Edinburgh
-    slug: duke-of-edinburgh-prince-philip
-  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-    slug: jonathan-caplan
-  - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
-    title: Australian Flying Saucer Review
-    slug: australian-flying-saucer-review
-  date: null
-  date_end: null
-  location_in_record: 00:07:35.6-00:07:40.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 1
+claims:
+  - claim_id: bb9817aa-7c3b-4c7d-8eb3-614f6343df48
+    claim_hash: 9cdafab88dc8040bbe9523464f4ff68a4283fcd931bb0e0df3dbefadc9298720
+    content: The Space Review published personal attacks against Richard C. Hoagland.
+    original_excerpt: personal attacks made against my co-author Richard C. Hoagland by an aerospace industry website known
+      as The Space Review.com
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+      title: Mike Bara
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mike Bara
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
+        title: Australian Flying Saucer Review
+        slug: australian-flying-saucer-review
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch5:462-585
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 0b4ab21b-8dc5-4a91-8bad-10df4c336fde
+    claim_hash: ad82daa3531348d017961cc84d0842b45b9016e6ab44e36f27e29792c55c3129
+    content: Jonathan Caplan previously served on the editorial board of Flying Saucer Review.
+    original_excerpt: he's previously served on the editorial board of a leading international UFO journal
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+      - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
+        title: Australian Flying Saucer Review
+        slug: australian-flying-saucer-review
+    date: null
+    date_end: null
+    location_in_record: 00:01:56.9-00:02:02.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 41a866a1-70d8-400c-b242-704933e840e5
+    claim_hash: c89f321bf85aea5c44728c4ad55987e43b290c0a1bf036576a25ee3daedd2c26
+    content: Jonathan Caplan joined the board of Flying Saucer Review, which he considered the leading ufology magazine at
+      the time.
+    original_excerpt: I ended up joining the board of an international magazine called Flying Saucer Review, which I think
+      at the time was the leading magazine in this subject.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+      - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
+        title: Australian Flying Saucer Review
+        slug: australian-flying-saucer-review
+    date: null
+    date_end: null
+    location_in_record: 00:02:44.6-00:02:53.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: cc819c42-b493-4925-958e-182545a3186e
+    claim_hash: 132421705cb32984dc024cd1d170f9ce6b870014664d03ea7c5bc14831017c13
+    content: Jacques Vallée was a correspondent who supplied material to Flying Saucer Review.
+    original_excerpt: We had correspondents such as Jacques Vallée and many other leading ufologists who supplied material
+      for the magazine.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
+        title: Australian Flying Saucer Review
+        slug: australian-flying-saucer-review
+    date: null
+    date_end: null
+    location_in_record: 00:02:54.8-00:03:03.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 775c3610-166a-4ba2-bc85-ef23e48411e0
+    claim_hash: 78a8cde369cec463174d19b639ed0480771cb22087791c89cac5524729c9211e
+    content: One of Jonathan Caplan's jobs at Flying Saucer Review was to deliver each copy of the magazine to the equerry
+      of Prince Philip, Duke of Edinburgh, who was interested in the subject.
+    original_excerpt: One of my jobs was to deliver each copy to the equerry of Prince Philip, who was interested in the subject.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8930d84b-2a19-44fc-82cb-4af19328be48
+        title: Prince Philip, Duke of Edinburgh
+        slug: duke-of-edinburgh-prince-philip
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+      - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
+        title: Australian Flying Saucer Review
+        slug: australian-flying-saucer-review
+    date: null
+    date_end: null
+    location_in_record: 00:03:04.7-00:03:10.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 3766e357-e7b7-43cc-a4bd-f1a4624d9be0
+    claim_hash: 9f5ab91a568c4181cf84ed483ac461a058c23c583d5557c5daec32781ac07d32
+    content: Jonathan Caplan met Gordon Creighton and Charles Bowen, editors of Flying Saucer Review, among other leading
+      researchers of the time.
+    original_excerpt: I met through the editors who were Gordon Crichton, Charles Bowen, many of the leading researchers at
+      the time.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 515d17db-70be-409a-84e9-e99cbebbd243
+        title: C. Bowen
+        slug: c-bowen
+      - node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
+        title: Gordon Creighton
+        slug: gordon-creighton
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+      - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
+        title: Australian Flying Saucer Review
+        slug: australian-flying-saucer-review
+    date: null
+    date_end: null
+    location_in_record: 00:03:12.7-00:03:20.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 64d26946-a286-45d9-bedc-c3bc11d297b6
+    claim_hash: c65e60db0876322ea53ba1704c4b557d5c6908c2be3fd6199978ccfcbeaef17d
+    content: Jonathan Caplan delivered copies of Flying Saucer Review to Prince Philip, Duke of Edinburgh.
+    original_excerpt: you delivered copies of Flying Saucer Review to the Queen's husband, the Duke of Edinburgh.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8930d84b-2a19-44fc-82cb-4af19328be48
+        title: Prince Philip, Duke of Edinburgh
+        slug: duke-of-edinburgh-prince-philip
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+      - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
+        title: Australian Flying Saucer Review
+        slug: australian-flying-saucer-review
+    date: null
+    date_end: null
+    location_in_record: 00:07:35.6-00:07:40.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null

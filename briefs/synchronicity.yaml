@@ -1,0 +1,595 @@
+schema: anomalica/brief/1
+brief_hash: 808b3504f678d6f1dd4f7ed7fae2454b0143bb3f1411481bf012028a63f6907e
+page:
+  kind: entity
+  node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+  node_type: topic
+  title: synchronicity
+  slug: synchronicity
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 13
+  tokens_estimated: 3836
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 13
+related_nodes:
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    node_type: person
+    slug: julia-mossbridge
+    shared_claims: 6
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 5
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 2
+  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+    title: informational substrate
+    node_type: topic
+    slug: informational-substrate
+    shared_claims: 2
+  - node_id: c551f048-0859-4b1c-af58-df2919d81390
+    title: Carl Jung
+    node_type: person
+    slug: carl-jung
+    shared_claims: 1
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 1
+  - node_id: 14e0aa2b-4067-4ef2-8ca8-cfdbe9697876
+    title: Unidentified Aerial Phenomena disclosure
+    node_type: topic
+    slug: unidentified-aerial-phenomena-disclosure
+    shared_claims: 1
+  - node_id: 20f74902-e650-4d8b-a454-8e37e7cd471c
+    title: Whitley Strieber's alien implant
+    node_type: object
+    slug: whitley-striebers-alien-implant
+    shared_claims: 1
+  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+    title: alien implant
+    node_type: topic
+    slug: alien-implant
+    shared_claims: 1
+  - node_id: 4aa922ec-255c-4772-9aad-a1a520d4539e
+    title: bibliomancy
+    node_type: topic
+    slug: bibliomancy
+    shared_claims: 1
+  - node_id: dc8005ef-e47c-4e3d-9fa5-dca94be5c3f3
+    title: neural synchronisation
+    node_type: topic
+    slug: neural-synchronisation
+    shared_claims: 1
+  - node_id: 9273dd07-9317-4331-8bea-6c25acea6de2
+    title: scientism
+    node_type: topic
+    slug: scientism
+    shared_claims: 1
+claims:
+  - claim_id: 8fcd6d87-7aaa-4632-8a76-b3a0f8641b38
+    claim_hash: 9cad1044dc2d61de9d760a6dbb0fe5add3c3808d835acc0e9cbd33bc1a9323bf
+    content: Whitley Strieber regards the coincidence of Donald Trump's surname and the meaning of a trump card, a card that
+      forces change, as remarkable in the context of Unidentified Aerial Phenomena disclosure.
+    original_excerpt: a Trump card is a card that forces change. And his name is Trump. I, that just, that's wild.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 14e0aa2b-4067-4ef2-8ca8-cfdbe9697876
+        title: Unidentified Aerial Phenomena disclosure
+        slug: unidentified-aerial-phenomena-disclosure
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+        title: synchronicity
+        slug: synchronicity
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+    date: null
+    date_end: null
+    location_in_record: 01:34:16.4-01:34:27.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 9c452bba-d0bb-4a4f-b506-a629f28c03cb
+    claim_hash: 4831c9ea0c27742c47be9d36b86e08307c3dacd654e06ae65055d5faa560d9ed
+    content: Whitley Strieber agrees that one level of how his alien implant works is as a synchronicity engine.
+    original_excerpt: 'Chris Ramsay: it''s almost like a synchronicity engine Whitley Strieber: Yeah, that would be, one level
+      of it is definitely that.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20f74902-e650-4d8b-a454-8e37e7cd471c
+        title: Whitley Strieber's alien implant
+        slug: whitley-striebers-alien-implant
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+        title: synchronicity
+        slug: synchronicity
+      - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+        title: alien implant
+        slug: alien-implant
+    date: null
+    date_end: null
+    location_in_record: 02:14:38.5-02:14:44.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 52f4ae78-012f-48ba-aab1-27aa165e61c2
+    claim_hash: 89adea5d84bda69908ed0501e6e64fec8d2ab7c8bec600b7a539027f2389d21d
+    content: Julia Mossbridge holds that, given the mind's nature as information, it should not be surprising when a conscious
+      or subconscious intention is followed by something apparently miraculous coming together.
+    original_excerpt: should we be surprised when things happen in your mind where you have an intention or even subconsciously
+      you have an intention and something just shows up, some miracle occurs, or like in your magic, right, something just
+      comes together? Should we be surprised? Probably not.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+        title: informational substrate
+        slug: informational-substrate
+      - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+        title: synchronicity
+        slug: synchronicity
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:52:31.5-00:52:49.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 39581b9d-177d-455f-a6ac-73ef1cde3099
+    claim_hash: cb0790ef7b23fb5597eab65a44c3a95700e924bf42b79796bd3ae859346c8bab
+    content: Julia Mossbridge considers that the assumption that the universe is random discourages people from looking for
+      meaning in patterns such as raindrops falling on water.
+    original_excerpt: we're so used to assuming that the universe is random and that there's no meaning, for instance, to
+      the pattern of the drops on the water, that we're not going to look for a message in the pattern of the drops on the
+      water.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+        title: synchronicity
+        slug: synchronicity
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: 9273dd07-9317-4331-8bea-6c25acea6de2
+        title: scientism
+        slug: scientism
+    date: null
+    date_end: null
+    location_in_record: 01:42:56.2-01:43:06.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 396f17bb-f70d-40c3-884e-e59c1ef1dd14
+    claim_hash: c46620c0fcc0a90bf3a5c3605c42ed684e36a0fa7125062151b8c5d7425a6b0a
+    content: Julia Mossbridge holds that synchronicity is the human experience of synchronisation.
+    original_excerpt: so I think synchronicity is our experience of synchronization.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+        title: synchronicity
+        slug: synchronicity
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: dc8005ef-e47c-4e3d-9fa5-dca94be5c3f3
+        title: neural synchronisation
+        slug: neural-synchronisation
+    date: null
+    date_end: null
+    location_in_record: 02:13:25.6-02:13:29.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: c6db5cbd-de58-442d-baf7-441230095dcf
+    claim_hash: 9c556c5f710080c442839a7c19cc42500ade36397d0c2ba2d87a14c880cb833a
+    content: Julia Mossbridge experiences being in the flow as a synchrony between herself and herself, in which everything
+      has integrity in the moment.
+    original_excerpt: in my own personal experience of being in the flow ... It's a synchrony between myself and myself. So
+      everything has integrity in the moment.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+        title: synchronicity
+        slug: synchronicity
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 02:15:11.6-02:15:23.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 88c4fbaf-5d31-4053-bb4b-80bbe65dc2f7
+    claim_hash: ee52dc73251792ae70e71a445f11b5bd99ec4c8a185dc8585c633cf8973e6801
+    content: Julia Mossbridge defines synchronicity in the Jungian sense as things that appear completely disconnected but
+      come to have great meaning when put together.
+    original_excerpt: synchronicity is here defined in the Jungian sense of things that seem to appear completely disconnected,
+      but end up having great meaning when put together.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+        title: synchronicity
+        slug: synchronicity
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: 02:16:21.7-02:16:31.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 4890bf66-531f-4425-a889-1d9f94554c6e
+    claim_hash: c532d32e2828a709f97806317578e47cba00cf3979faf30833c1d51515f79ce4
+    content: Chris Ramsay deliberately uses an app that sends him an unusual new word every hour as a source of synchronicity
+      in his life.
+    original_excerpt: I have certain synchronicity engines in my life that I purposely, uh, insert ... it's just an app, and
+      it's an app that sends me a new word every hour that I want to learn.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+        title: synchronicity
+        slug: synchronicity
+    date: null
+    date_end: null
+    location_in_record: 02:16:37.4-02:16:49.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 35bc9ea4-6e03-42cb-85e7-fb3dd2164db0
+    claim_hash: e6ee8209708c35af9475fb64443c3d2c8d2e5cf05140a0eca2616923a5773292
+    content: The word Chris Ramsay's hourly word app had most recently sent him during the recording was "bombastic", defined
+      as excessively confident and pompous.
+    original_excerpt: Bombastic. excessively confident and pompous.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+        title: synchronicity
+        slug: synchronicity
+    date: null
+    date_end: null
+    location_in_record: 02:17:04.7-02:17:08.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: ddc1b0b9-c959-4973-9d4e-8640502cc01c
+    claim_hash: ed7107cd9f826b1c2895fbba13c2f2b0436344ec65d1a3aa2f32c41f8754f0ec
+    content: Chris Ramsay tends to alter his course to favour a synchronicity when one appears, finding that following it
+      up favours his decision-making, though he treats it as not absolute.
+    original_excerpt: when something whimsical like a synchronicity pops up i tend to alter my course to favor the synchronicity
+      ... i say that it's not an absolute
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+        title: synchronicity
+        slug: synchronicity
+    date: null
+    date_end: null
+    location_in_record: 02:17:50.4-02:17:59.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 8bcce380-907b-46d8-8eb8-6e210dd24375
+    claim_hash: b89f4f5618a61a874180062788b9c0aa51245b23f3e93d859394260050ec4ff3
+    content: Chris Ramsay keeps a wall of books and, while filming B-roll for episodes, has come across the particular word
+      he was looking for.
+    original_excerpt: That's why I have that book wall that you saw there. ... So when filming B-roll for an episode or whatever,
+      we've been playing around with just filming, and you'll come across the word you were looking for.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 4aa922ec-255c-4772-9aad-a1a520d4539e
+        title: bibliomancy
+        slug: bibliomancy
+      - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+        title: synchronicity
+        slug: synchronicity
+    date: null
+    date_end: null
+    location_in_record: 02:18:41.2-02:18:54.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 2cb98757-82aa-41e7-8c78-749752e6f1c4
+    claim_hash: 148cc998fdd037d06ca52a3ee6a119b01f61f94c28b4e37698d9f402ab9a7fcc
+    content: Julia Mossbridge holds that when people become synchronised, more synchronicities occur, which she interprets
+      as the informational substrate showing that we are connected.
+    original_excerpt: Then I think more synchronicities happen. ... it's like when we synchronize, it's the synchronicities
+      that show us that we're connected are going to come up.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+        title: informational substrate
+        slug: informational-substrate
+      - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+        title: synchronicity
+        slug: synchronicity
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: lines 357-359
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 63eb2bc9-74a8-4db9-8ed8-37173efe6c2d
+    claim_hash: 159bc254df2d5616c0a5ffc14bbba9217872c1dfa9c893fd530947217f9d2c60
+    content: Chris Ramsay treats a cessation of synchronicities as a subtle signal to change course, adjusting slightly rather
+      than making major life decisions on that basis.
+    original_excerpt: if I stop seeing synchronization, it's a subtle signal for me to maybe change course as well. ... I
+      won't make, you know, great life decisions based on these things, but subtly I will perhaps, you know, steer the course
+      a little bit until it picks up again.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+        title: synchronicity
+        slug: synchronicity
+    date: null
+    date_end: null
+    location_in_record: lines 482-504
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

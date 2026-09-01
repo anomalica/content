@@ -9,319 +9,331 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2297
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
 related_nodes:
-- node_id: 2f685de7-05b5-4ec8-bfd3-38478b489add
-  title: Susan (South Australian implant case)
-  node_type: person
-  slug: susan-south-australian-implant-case
-  shared_claims: 3
-- node_id: 49b0c44a-326a-4cdf-996e-d542389db0e6
-  title: Keith Basterfield's review of UFO implant literature
-  node_type: document
-  slug: keith-basterfields-review-of-ufo-implant-literature
-  shared_claims: 2
-- node_id: 9dfe9918-9868-42e7-94c3-6ad3e7391fe8
-  title: 1990 Keith Basterfield investigation of "Susan" (South Australian implant
-    case)
-  node_type: event
-  slug: 1990-keith-basterfield-investigation-of-susan-south-australian-implant-case
-  shared_claims: 1
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 1
-- node_id: c02bca71-cad9-4f6a-92eb-bf43dafdc424
-  title: Bill Lynn
-  node_type: person
-  slug: bill-lynn
-  shared_claims: 1
-- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-  title: Eric Davis
-  node_type: person
-  slug: eric-davis
-  shared_claims: 1
-- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-  title: Harold E. Puthoff
-  node_type: person
-  slug: harold-e-puthoff
-  shared_claims: 1
-- node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-  title: Thomas Wilson
-  node_type: person
-  slug: thomas-wilson
-  shared_claims: 1
-- node_id: f28ca005-7c30-4a55-afe9-24f352aa54fb
-  title: alien implants (phenomenon)
-  node_type: topic
-  slug: alien-implants-phenomenon
-  shared_claims: 1
-claims:
-- claim_id: 405e21a6-702c-4703-b6ed-a910ba86cb3b
-  claim_hash: 8df4a270c21402c79170ca5953254848c1da3daa11ac87dff01f29e2661cf9c3
-  content: Keith Basterfield undertook a detailed review of UFO literature accounts
-    of alien implants.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 49b0c44a-326a-4cdf-996e-d542389db0e6
-    title: Keith Basterfield's review of UFO implant literature
-    slug: keith-basterfields-review-of-ufo-implant-literature
-  - node_id: b9c4a831-ee09-4e2a-822e-1df15d3c0fcd
-    title: Keith Basterfield
-    slug: keith-basterfield
-  - node_id: f28ca005-7c30-4a55-afe9-24f352aa54fb
-    title: alien implants (phenomenon)
-    slug: alien-implants-phenomenon
-  date: null
-  date_end: null
-  location_in_record: ch18:14819-14905
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 18b1e6f2-dd8e-4f77-885b-54ac6c25fc3c
-  claim_hash: a6e387f005a1a6d656a958335e04af105ce0066221e71381d0480108be0a3d95
-  content: Keith Basterfield's study highlighted a lack of consistency in implant
-    descriptions and their locations in the body, and a lack of peer review for the
-    analysed data.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: b9c4a831-ee09-4e2a-822e-1df15d3c0fcd
-    title: Keith Basterfield
-  provenance_chain:
-    origin_kind: named
-    origin: Keith Basterfield
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 49b0c44a-326a-4cdf-996e-d542389db0e6
-    title: Keith Basterfield's review of UFO implant literature
-    slug: keith-basterfields-review-of-ufo-implant-literature
-  - node_id: b9c4a831-ee09-4e2a-822e-1df15d3c0fcd
-    title: Keith Basterfield
-    slug: keith-basterfield
-  date: null
-  date_end: null
-  location_in_record: ch18:15026-15186
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 3ef97fc8-dafe-46a2-9b25-40a62b0f2cca
-  claim_hash: af8cf2487ec4a480a036be98f76b51bf74438a45ce1f81eb8044d4d96136d8f9
-  content: During 1990, Keith Basterfield investigated a South Australian woman known
-    as "Susan" who reported a complex of life-long abductions.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Keith Basterfield
-    relay: []
-  attribution_mode: unknown
-  node_refs:
   - node_id: 2f685de7-05b5-4ec8-bfd3-38478b489add
     title: Susan (South Australian implant case)
+    node_type: person
     slug: susan-south-australian-implant-case
+    shared_claims: 3
+  - node_id: 49b0c44a-326a-4cdf-996e-d542389db0e6
+    title: Keith Basterfield's review of UFO implant literature
+    node_type: document
+    slug: keith-basterfields-review-of-ufo-implant-literature
+    shared_claims: 2
   - node_id: 9dfe9918-9868-42e7-94c3-6ad3e7391fe8
-    title: 1990 Keith Basterfield investigation of "Susan" (South Australian implant
-      case)
+    title: 1990 Keith Basterfield investigation of "Susan" (South Australian implant case)
+    node_type: event
     slug: 1990-keith-basterfield-investigation-of-susan-south-australian-implant-case
-  - node_id: b9c4a831-ee09-4e2a-822e-1df15d3c0fcd
-    title: Keith Basterfield
-    slug: keith-basterfield
-  date: '1990'
-  date_end: null
-  location_in_record: ch23:3933-4054
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: f84665f2-61de-4909-91e1-ea0e98f2378e
-  claim_hash: 2b34ce8c5d05b6a1b23f79887fe8c0490258ac36f33f2b13785585297d7137b7
-  content: Keith Basterfield challenged Susan to get a dental X-ray, not expecting
-    anything abnormal to be found.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Keith Basterfield
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2f685de7-05b5-4ec8-bfd3-38478b489add
-    title: Susan (South Australian implant case)
-    slug: susan-south-australian-implant-case
-  - node_id: b9c4a831-ee09-4e2a-822e-1df15d3c0fcd
-    title: Keith Basterfield
-    slug: keith-basterfield
-  date: null
-  date_end: null
-  location_in_record: ch23:4208-4303
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 48cca64b-5d1b-4c0a-a54e-d2e69d367a8c
-  claim_hash: 6bf6b70c0dc225d52f2c9a04ac2b6f7516d7722ce7041d48eb80e8ec4b67ecac
-  content: Keith Basterfield reported that the X-ray of Susan's mouth looked like
-    there was some kind of thin particle in the place where she claimed to have an
-    implant, and that a subsequent full-face X-ray by a radiographer did not show
-    anything abnormal, but a later examination by an experienced radiographer found
-    something on the original X-ray believed to be an artefact of the X-ray process
-    rather than something actually in the mouth.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Keith Basterfield
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2f685de7-05b5-4ec8-bfd3-38478b489add
-    title: Susan (South Australian implant case)
-    slug: susan-south-australian-implant-case
-  - node_id: b9c4a831-ee09-4e2a-822e-1df15d3c0fcd
-    title: Keith Basterfield
-    slug: keith-basterfield
-  date: null
-  date_end: null
-  location_in_record: ch23:4449-4932
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: d3e7fecc-691c-428e-bb58-a2b4feca1ce4
-  claim_hash: b5241e28a8099d797cc98ee24a553f5f62c7fad03eee1ee1be3a3c052338cce8
-  content: In 2014, Bill Lynn's son (also named Bill) wrote to UAP researcher Keith
-    Basterfield saying his father was adamant the 1973 sighting was swept under the
-    carpet and hidden from public disclosure because it happened on the US Naval base.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: third_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Bill Lynn
-    relay:
-    - Bill Lynn's son (unnamed in directory)
-    - letter to Keith Basterfield
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
   - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
     title: 2004 USS Nimitz UAP encounter
+    node_type: event
     slug: 2004-uss-nimitz-uap-encounter
-  - node_id: b9c4a831-ee09-4e2a-822e-1df15d3c0fcd
-    title: Keith Basterfield
-    slug: keith-basterfield
+    shared_claims: 1
   - node_id: c02bca71-cad9-4f6a-92eb-bf43dafdc424
     title: Bill Lynn
+    node_type: person
     slug: bill-lynn
-  date: '2014'
-  date_end: null
-  location_in_record: ch11:10804-11053
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 88d1d689-7a9a-4fb9-bf7d-c17b8fdebd0e
-  claim_hash: ab972f77291dbdce3c9b4e205949122714037beb7bcbfd0dea68aa0ee7786dd4
-  content: Hal Puthoff subsequently told Keith Basterfield that he did not mean to
-    confirm that the Wilson interview and notes were authentic, but this explanation
-    does not address what he actually said.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-  provenance_chain:
-    origin_kind: speaker
-    origin: Hal Puthoff
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
+    shared_claims: 1
   - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
     title: Eric Davis
+    node_type: person
     slug: eric-davis
-  - node_id: b9c4a831-ee09-4e2a-822e-1df15d3c0fcd
-    title: Keith Basterfield
-    slug: keith-basterfield
-  date: null
-  date_end: null
-  location_in_record: ch26:11375-11591
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    node_type: person
+    slug: harold-e-puthoff
+    shared_claims: 1
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    node_type: person
+    slug: thomas-wilson
+    shared_claims: 1
+  - node_id: f28ca005-7c30-4a55-afe9-24f352aa54fb
+    title: alien implants (phenomenon)
+    node_type: topic
+    slug: alien-implants-phenomenon
+    shared_claims: 1
+claims:
+  - claim_id: 405e21a6-702c-4703-b6ed-a910ba86cb3b
+    claim_hash: 8df4a270c21402c79170ca5953254848c1da3daa11ac87dff01f29e2661cf9c3
+    content: Keith Basterfield undertook a detailed review of UFO literature accounts of alien implants.
+    original_excerpt: Keith Basterfield recently undertook a detailed review of UFO literature accounts of “implants.”
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49b0c44a-326a-4cdf-996e-d542389db0e6
+        title: Keith Basterfield's review of UFO implant literature
+        slug: keith-basterfields-review-of-ufo-implant-literature
+      - node_id: b9c4a831-ee09-4e2a-822e-1df15d3c0fcd
+        title: Keith Basterfield
+        slug: keith-basterfield
+      - node_id: f28ca005-7c30-4a55-afe9-24f352aa54fb
+        title: alien implants (phenomenon)
+        slug: alien-implants-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch18:14819-14905
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 18b1e6f2-dd8e-4f77-885b-54ac6c25fc3c
+    claim_hash: a6e387f005a1a6d656a958335e04af105ce0066221e71381d0480108be0a3d95
+    content: Keith Basterfield's study highlighted a lack of consistency in implant descriptions and their locations in the
+      body, and a lack of peer review for the analysed data.
+    original_excerpt: Basterfield’s study127 highlights the lack of consistency in implant descriptions and their locations
+      in the body, and the lack of peer review for the analyzed data.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: b9c4a831-ee09-4e2a-822e-1df15d3c0fcd
+      title: Keith Basterfield
+    provenance_chain:
+      origin_kind: named
+      origin: Keith Basterfield
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49b0c44a-326a-4cdf-996e-d542389db0e6
+        title: Keith Basterfield's review of UFO implant literature
+        slug: keith-basterfields-review-of-ufo-implant-literature
+      - node_id: b9c4a831-ee09-4e2a-822e-1df15d3c0fcd
+        title: Keith Basterfield
+        slug: keith-basterfield
+    date: null
+    date_end: null
+    location_in_record: ch18:15026-15186
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 3ef97fc8-dafe-46a2-9b25-40a62b0f2cca
+    claim_hash: af8cf2487ec4a480a036be98f76b51bf74438a45ce1f81eb8044d4d96136d8f9
+    content: During 1990, Keith Basterfield investigated a South Australian woman known as "Susan" who reported a complex
+      of life-long abductions.
+    original_excerpt: during 1990 Keith Baster-field investigated a South Australian woman called "Susan" who revealed "a
+      complex of life-long abductions."
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Keith Basterfield
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f685de7-05b5-4ec8-bfd3-38478b489add
+        title: Susan (South Australian implant case)
+        slug: susan-south-australian-implant-case
+      - node_id: 9dfe9918-9868-42e7-94c3-6ad3e7391fe8
+        title: 1990 Keith Basterfield investigation of "Susan" (South Australian implant case)
+        slug: 1990-keith-basterfield-investigation-of-susan-south-australian-implant-case
+      - node_id: b9c4a831-ee09-4e2a-822e-1df15d3c0fcd
+        title: Keith Basterfield
+        slug: keith-basterfield
+    date: '1990'
+    date_end: null
+    location_in_record: ch23:3933-4054
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: f84665f2-61de-4909-91e1-ea0e98f2378e
+    claim_hash: 2b34ce8c5d05b6a1b23f79887fe8c0490258ac36f33f2b13785585297d7137b7
+    content: Keith Basterfield challenged Susan to get a dental X-ray, not expecting anything abnormal to be found.
+    original_excerpt: Keith challenged Susan to get a dental X-ray. He didn't expect that anything abnormal would be found.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Keith Basterfield
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f685de7-05b5-4ec8-bfd3-38478b489add
+        title: Susan (South Australian implant case)
+        slug: susan-south-australian-implant-case
+      - node_id: b9c4a831-ee09-4e2a-822e-1df15d3c0fcd
+        title: Keith Basterfield
+        slug: keith-basterfield
+    date: null
+    date_end: null
+    location_in_record: ch23:4208-4303
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 48cca64b-5d1b-4c0a-a54e-d2e69d367a8c
+    claim_hash: 6bf6b70c0dc225d52f2c9a04ac2b6f7516d7722ce7041d48eb80e8ec4b67ecac
+    content: Keith Basterfield reported that the X-ray of Susan's mouth looked like there was some kind of thin particle in
+      the place where she claimed to have an implant, and that a subsequent full-face X-ray by a radiographer did not show
+      anything abnormal, but a later examination by an experienced radiographer found something on the original X-ray believed
+      to be an artefact of the X-ray process rather than something actually in the mouth.
+    original_excerpt: '"It looked like there was some kind of thin particle in her mouth in the place where she claimed to
+      have an implant. The dentist decided to send Susan to a radiographer to have a full face X-ray taken, but this did not
+      show anything abnormal. Later I had the original X-ray examined by an experienced radiographer, who stated that the
+      X-ray did in fact have something on it but he believed it was merely an artifact of the X-ray process and not indicative
+      of anything actually in the mouth."'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Keith Basterfield
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f685de7-05b5-4ec8-bfd3-38478b489add
+        title: Susan (South Australian implant case)
+        slug: susan-south-australian-implant-case
+      - node_id: b9c4a831-ee09-4e2a-822e-1df15d3c0fcd
+        title: Keith Basterfield
+        slug: keith-basterfield
+    date: null
+    date_end: null
+    location_in_record: ch23:4449-4932
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: d3e7fecc-691c-428e-bb58-a2b4feca1ce4
+    claim_hash: b5241e28a8099d797cc98ee24a553f5f62c7fad03eee1ee1be3a3c052338cce8
+    content: In 2014, Bill Lynn's son (also named Bill) wrote to UAP researcher Keith Basterfield saying his father was adamant
+      the 1973 sighting was swept under the carpet and hidden from public disclosure because it happened on the US Naval base.
+    original_excerpt: In 2014, Bill Lynn's son, also named Bill, wrote to UAP researcher Keith Basterfield telling him that,
+      'Because this happened on the US Naval Base my dad was adamant that it was swept under the carpet and was tried to be
+      hidden from too much public disclosure.'
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Bill Lynn
+      relay:
+        - Bill Lynn's son (unnamed in directory)
+        - letter to Keith Basterfield
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b9c4a831-ee09-4e2a-822e-1df15d3c0fcd
+        title: Keith Basterfield
+        slug: keith-basterfield
+      - node_id: c02bca71-cad9-4f6a-92eb-bf43dafdc424
+        title: Bill Lynn
+        slug: bill-lynn
+    date: '2014'
+    date_end: null
+    location_in_record: ch11:10804-11053
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 88d1d689-7a9a-4fb9-bf7d-c17b8fdebd0e
+    claim_hash: ab972f77291dbdce3c9b4e205949122714037beb7bcbfd0dea68aa0ee7786dd4
+    content: Hal Puthoff subsequently told Keith Basterfield that he did not mean to confirm that the Wilson interview and
+      notes were authentic, but this explanation does not address what he actually said.
+    original_excerpt: Dr Puthoff did subsequently tell Keith Basterfield that he did not mean to confirm that the Wilson interview
+      and notes were authentic, but his explanation does not address what he actually said.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+      title: Harold E. Puthoff
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hal Puthoff
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: b9c4a831-ee09-4e2a-822e-1df15d3c0fcd
+        title: Keith Basterfield
+        slug: keith-basterfield
+    date: null
+    date_end: null
+    location_in_record: ch26:11375-11591
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

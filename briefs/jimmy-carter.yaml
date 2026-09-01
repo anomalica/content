@@ -1,1920 +1,2061 @@
 schema: anomalica/brief/1
-brief_hash: 177861d6229e2596715dfe0e8d4cffb79e4e480175a3d565630fd96e3fe84fbf
+brief_hash: e574b2f9f3a6701381fb284cd8ab51a8bd46c3b188589e38cf4b28938649581b
 page:
   kind: entity
   node_id: 898c410a-7789-4762-b6dd-1139ced89658
   node_type: person
   title: Jimmy Carter
   slug: jimmy-carter
-  claim_count: 46
-  claim_count_total: 46
+  claim_count: 49
+  claim_count_total: 49
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 49
+  tokens_estimated: 14050
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 49
 related_nodes:
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 10
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 6
-- node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
-  title: Daniel Sheehan
-  node_type: person
-  slug: daniel-sheehan
-  shared_claims: 6
-- node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
-  title: George Herbert Walker Bush
-  node_type: person
-  slug: george-herbert-walker-bush
-  shared_claims: 6
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 4
-- node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-  title: Ronald Reagan
-  node_type: person
-  slug: ronald-reagan
-  shared_claims: 4
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 4
-- node_id: d1384ed2-fdfa-4b35-82eb-6e02ee329dc6
-  title: 1976 Adoniensis message to Jimmy Carter
-  node_type: event
-  slug: 1976-adoniensis-message-to-jimmy-carter
-  shared_claims: 3
-- node_id: 9fa06ea8-5ad3-4e61-b892-cb12cf3b18bc
-  title: 1977 classified reports on UAPs and extra-terrestrial intelligence for President
-    Carter
-  node_type: document
-  slug: 1977-classified-reports-on-uaps-and-extra-terrestrial-intelligence-for-president-carter
-  shared_claims: 3
-- node_id: ef50574e-39d2-42c0-ac5c-1123ef6a9beb
-  title: Congressional Research Service (CRS)
-  node_type: organisation
-  slug: congressional-research-service-crs
-  shared_claims: 2
-- node_id: 5bd02b11-3679-438f-b6e1-8509734c1547
-  title: Frank Press
-  node_type: person
-  slug: frank-press
-  shared_claims: 2
-- node_id: e285886c-8277-4aaf-912f-79e0d1f57d25
-  title: Jeff Carter
-  node_type: person
-  slug: jeff-carter
-  shared_claims: 2
-- node_id: b32f2652-1e0d-4ea5-8a40-608ec29b66a2
-  title: Marcia Smith
-  node_type: person
-  slug: marcia-smith
-  shared_claims: 2
-- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-  title: National Aeronautics and Space Administration (NASA)
-  node_type: organisation
-  slug: national-aeronautics-and-space-administration-nasa
-  shared_claims: 2
-- node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-  title: Stargate
-  node_type: project
-  slug: stargate
-  shared_claims: 2
-- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-  title: United States Air Force (USAF)
-  node_type: organisation
-  slug: united-states-air-force-usaf
-  shared_claims: 2
-- node_id: 5f3edfa5-92ca-4797-8187-d49526efcb16
-  title: Adoniesis (space entity)
-  node_type: topic
-  slug: adoniesis-space-entity
-  shared_claims: 1
-- node_id: a488ad73-5885-41ea-8d6d-588c0ab63b9f
-  title: Alien Encounters from Tomorrowland
-  node_type: document
-  slug: alien-encounters-from-tomorrowland
-  shared_claims: 1
-- node_id: 228fe04a-c93c-4d4b-b4af-de089dcac982
-  title: Alonzo McDonald
-  node_type: person
-  slug: alonzo-mcdonald
-  shared_claims: 1
-- node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
-  title: Donald Trump
-  node_type: person
-  slug: donald-trump
-  shared_claims: 1
-- node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
-  title: Dwight D. Eisenhower
-  node_type: person
-  slug: dwight-d-eisenhower
-  shared_claims: 1
-- node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
-  title: Grant Cameron
-  node_type: person
-  slug: grant-cameron
-  shared_claims: 1
-- node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
-  title: Harry S. Truman
-  node_type: person
-  slug: harry-s-truman
-  shared_claims: 1
-- node_id: ac3d16ff-b9ac-416f-b2e4-ff67aeb271ec
-  title: Italy, Sicily, Nicolosi
-  node_type: place
-  slug: sicily-nicolosi-italy
-  shared_claims: 1
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 1
-- node_id: 5832c9b3-b0c1-426a-859f-36aa83580aee
-  title: Jody Powell
-  node_type: person
-  slug: jody-powell
-  shared_claims: 1
-- node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
-  title: John Fitzgerald Kennedy
-  node_type: person
-  slug: john-fitzgerald-kennedy
-  shared_claims: 1
-- node_id: 0f346560-30b4-403a-aac9-e61980a99abb
-  title: Lyndon B. Johnson
-  node_type: person
-  slug: lyndon-b-johnson
-  shared_claims: 1
-- node_id: 53a2502b-b835-4869-945c-ee6a611a4073
-  title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
-  node_type: organisation
-  slug: mutual-unidentified-flying-object-ufo-network-mufon
-  shared_claims: 1
-- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-  title: Project Blue Book
-  node_type: project
-  slug: project-blue-book
-  shared_claims: 1
-claims:
-- claim_id: 60aa107f-898b-4e1a-b61c-14cbf08aadfb
-  claim_hash: 8edf6fb73eb641ee311e9f18fb7a00fcaf4882ace3a1ed6c9c02b4052140e7bd
-  content: Jimmy Carter, upon seeing the 1973 UFO with his son Jeff Carter, said the
-    object was changing colour from red to green.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-  provenance_chain:
-    origin_kind: named
-    origin: Jimmy Carter
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 13
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Daniel Sheehan
+    node_type: person
+    slug: daniel-sheehan
+    shared_claims: 6
+  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+    title: George Herbert Walker Bush
+    node_type: person
+    slug: george-herbert-walker-bush
+    shared_claims: 6
   - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
     title: 2004 USS Nimitz UAP encounter
+    node_type: event
     slug: 2004-uss-nimitz-uap-encounter
-  - node_id: e285886c-8277-4aaf-912f-79e0d1f57d25
-    title: Jeff Carter
-    slug: jeff-carter
-  date: '1973'
-  date_end: null
-  location_in_record: ch10:43776-43848
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 7a301760-1ecc-4b73-8109-3c96904bdb0d
-  claim_hash: e770d88e422a24af774336d93a69650346283834588505e2a88f4399ebd7c8b9
-  content: Jimmy Carter recounted seeing an incandescent mass in the sky as brilliant
-    and as large as the Moon, moving at high speed, during the 1973 UFO sighting with
-    his son Jeff Carter.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-  provenance_chain:
-    origin_kind: named
-    origin: Jimmy Carter
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '1973'
-  date_end: null
-  location_in_record: ch10:43994-44140
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: d938520d-3bdf-4b7a-91ed-9156eab303af
-  claim_hash: 204f58f3cd1c4d092ea9ab7acc0dd3a08c2b7d61cb50fa6212f976ff215e73f1
-  content: Jimmy Carter said he personally did not hear any noise from the UFO during
-    the 1973 sighting, but that his son Jeff Carter later told him he heard a metallic
-    sound coming from it.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-  provenance_chain:
-    origin_kind: named
-    origin: Jeff Carter
-    relay:
-    - Jimmy Carter
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: e285886c-8277-4aaf-912f-79e0d1f57d25
-    title: Jeff Carter
-    slug: jeff-carter
-  date: '1973'
-  date_end: null
-  location_in_record: ch10:44147-44280
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 3418e1a4-9630-4e3c-b1ac-7860d12868b3
-  claim_hash: 86395e0a90aab1c428d4146f439efbc80c11efe76e3059140736e14b6e1a2c57
-  content: Jimmy Carter said the UFO during the 1973 sighting hovered above him and
-    Jeff Carter for about ten minutes before moving south, changing route repeatedly,
-    moving east, and disappearing on the horizon.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-  provenance_chain:
-    origin_kind: named
-    origin: Jimmy Carter
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '1973'
-  date_end: null
-  location_in_record: ch10:44285-44479
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 2968ea40-4d5e-4449-a240-fb555c36f3b3
-  claim_hash: 76d261c0adbab4b655401febc56396bf32481db0153427a5f003f3eb7d043e0c
-  content: The 1976 message to Jimmy Carter attributed to Adoniensis stated that his
-    authority had been granted from above and urged him not to do as others had done.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to channel a space entity named Adoniensis
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
+    shared_claims: 5
+  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+    title: Ronald Reagan
+    node_type: person
+    slug: ronald-reagan
+    shared_claims: 5
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 4
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 4
   - node_id: d1384ed2-fdfa-4b35-82eb-6e02ee329dc6
     title: 1976 Adoniensis message to Jimmy Carter
+    node_type: event
     slug: 1976-adoniensis-message-to-jimmy-carter
-  date: '1976-11-04'
-  date_end: null
-  location_in_record: ch10:44887-45076
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 3a939a9d-69ae-4ea4-9f31-90f3c3084f05
-  claim_hash: 3b425fc6516d0bb06d827d87fe8ff1f13488701cc45f9f949b54eaa43bd203e2
-  content: A contactee group published a message purportedly channelled by telepathy
-    from a space entity called Adoniensis to Jimmy Carter, dated Nicolosi, 1976-11-04.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: ac3d16ff-b9ac-416f-b2e4-ff67aeb271ec
-    title: Italy, Sicily, Nicolosi
-    slug: sicily-nicolosi-italy
-  - node_id: d1384ed2-fdfa-4b35-82eb-6e02ee329dc6
-    title: 1976 Adoniensis message to Jimmy Carter
-    slug: 1976-adoniensis-message-to-jimmy-carter
-  date: '1976-11-04'
-  date_end: null
-  location_in_record: ch10:45404-45479
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: c15bdf28-3852-4584-9fa2-97c720807083
-  claim_hash: 3c3262b9b3863ffcaecb30db08a81d53755681ecb62234b0f3fd7cbe521247ae
-  content: The channel of Adoniensis claimed that Jimmy Carter had been secretly programmed.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to channel a space entity named Adoniensis
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5f3edfa5-92ca-4797-8187-d49526efcb16
-    title: Adoniesis (space entity)
-    slug: adoniesis-space-entity
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  date: null
-  date_end: null
-  location_in_record: ch10:46599-46670
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 2b905702-300a-4de6-b9b3-6262260d09e5
-  claim_hash: cb5916733164d168473686f8a893fb086824b68398cb429b94efd07958ef3d11
-  content: The Study Center of Cosmic Fraternity was responsible for the extraterrestrial
-    message sent to Jimmy Carter.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f133ad0-e26c-456a-8209-6a3e1c484d23
-    title: Study Center of Cosmic Fraternity
-    slug: study-center-of-cosmic-fraternity
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: d1384ed2-fdfa-4b35-82eb-6e02ee329dc6
-    title: 1976 Adoniensis message to Jimmy Carter
-    slug: 1976-adoniensis-message-to-jimmy-carter
-  date: null
-  date_end: null
-  location_in_record: ch10:49835-49924
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 83869dfb-b503-425f-b9e5-9283be601fd1
-  claim_hash: afde8effe0d7b9a7b6dbbc78f77ede38b1e80ffe4374934d1d352cf82ff8b4e4
-  content: Jacques Vallée states that a man in the White House has seen a UFO and
-    is impressed by what he saw.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: ch11:77071-77152
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 74c49fec-5241-455c-bb18-2372d2856120
-  claim_hash: 97ea4fdcc6918c35d8b860e9f29b719c2dafa9e0a5c3e49528544d2fc9c99a50
-  content: Jimmy Carter asked Jody Powell and Science Adviser Frank Press to investigate
-    what could be done about the UFO issue.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5832c9b3-b0c1-426a-859f-36aa83580aee
-    title: Jody Powell
-    slug: jody-powell
-  - node_id: 5bd02b11-3679-438f-b6e1-8509734c1547
-    title: Frank Press
-    slug: frank-press
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  date: null
-  date_end: null
-  location_in_record: ch4:4061-4208
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 5764f46a-4701-4364-892c-14d9d4528185
-  claim_hash: 67997590fcc0311bb1bebc97214c46f9a365f1a49eb306f6736d63fa9d04f4f7
-  content: Jimmy Carter proclaimed that he had seen unidentified lights in the sky
-    and said he was no longer laughing at those who report flying saucers.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-  provenance_chain:
-    origin_kind: named
-    origin: Jimmy Carter
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: ch8:5269-5410
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: f4d70234-1ea4-49e7-aea7-394a5cdb88e2
-  claim_hash: 7eb57c9e5b41000b430719e5d20c54598b2d854bd0e8f65456033ce15747a0c2
-  content: Alien Encounters from Tomorrowland displayed newspaper clippings including
-    one of former president Jimmy Carter's testimony about his own sighting of an
-    unidentified aerial object.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: a488ad73-5885-41ea-8d6d-588c0ab63b9f
-    title: Alien Encounters from Tomorrowland
-    slug: alien-encounters-from-tomorrowland
-  date: null
-  date_end: null
-  location_in_record: ch4:50975-51196
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 9ac5ad32-ebd9-466a-b831-a1d87954958f
-  claim_hash: 6c957a1b13d6f2adb325c977f0be81e6578b5d96f1fd502cf3aba626fb56a62c
-  content: Jimmy Carter testified about his own sighting of an unidentified aerial
-    object.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jimmy Carter
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  date: null
-  date_end: null
-  location_in_record: ch4:51019-51127
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 777b8a24-d2c6-46d4-92b2-af219c4caece
-  claim_hash: 4ea8d3b77840dcb894db94337815f86e1d9e6f3f98ab237a503afd7091097beb
-  content: Among those who report UFO sightings are former US president Jimmy Carter
-    and other credible witnesses, including trained observers of the US Air Force,
-    pilots, commercial pilots, police officers, US Army personnel, and millions of
-    civilians who were not looking for UFOs.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
-    title: United States Army
-    slug: united-states-army
-  date: null
-  date_end: null
-  location_in_record: char:20895-21187
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 2396c007-b485-4970-9924-82abbfa9ee17
-  claim_hash: 3670cb3f1fa79c4a4a16168ed3461b5c668e239cc637f10499193646348c4bb0
-  content: Jimmy Carter was elected President of the United States in November 1976,
-    three years after the 1973 North West Cape UAP sighting.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: 1976-11
-  date_end: null
-  location_in_record: ch11:14182-14319
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 45e28250-d4e9-4dd1-97c2-53aba991793c
-  claim_hash: fa2eb7134527632ed9aaefaeeb6e58f66db26484c068cb955d3adfd53b737126
-  content: UFO disclosure groups such as the Mutual UFO Network (MUFON) hoped Jimmy
-    Carter would open decades of still top-secret Project Blue Book files, which were
-    widely known to still be withheld from public release.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
-    title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
-    slug: mutual-unidentified-flying-object-ufo-network-mufon
-  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-    title: Project Blue Book
-    slug: project-blue-book
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  date: null
-  date_end: null
-  location_in_record: ch11:14327-14590
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 73e984d9-959b-4d91-84c2-6f08507fe3d9
-  claim_hash: e758fa5aca30cb4918fe52e1126b3ac599185bad02972978f060b85494af95e8
-  content: Grant Cameron's search of Jimmy Carter's Presidential Library archives
-    revealed Carter had an extremely high interest in UFOs during his administration,
-    but his efforts to disclose them were stymied.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
-    title: Grant Cameron
-  provenance_chain:
-    origin_kind: named
-    origin: Grant Cameron
-    relay:
-    - research of Carter Presidential Library archives
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
-    title: Grant Cameron
-    slug: grant-cameron
-  date: null
-  date_end: null
-  location_in_record: ch11:14719-14936
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 78f9c632-84ec-48a3-a565-efd70d0c4bdf
-  claim_hash: 5adc471fca4eb6fbbd6f26b3483646193b7be1becdc5f2f763cb463edf61f709
-  content: Jimmy Carter openly discussed on the campaign trail how he personally witnessed
-    an unidentified glowing object hovering over Leary, Georgia, in 1969.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jimmy Carter
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 682e06e4-afce-4e5d-935e-4a3874af3422
-    title: USA, Georgia, Leary
-    slug: georgia-leary-usa
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '1969'
-  date_end: null
-  location_in_record: ch11:14947-15195
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: c15f5889-56e4-4228-bb36-9b3fed0199ef
-  claim_hash: 69c6c77ce6b08060d0f9913b45084a59eb27da7ac5dc91360551cd1d03a9e998
-  content: Jimmy Carter promised American voters during his campaign that if he became
-    president he would release any US government UFO files.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jimmy Carter
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: ch11:15100-15195
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: bc4e12e5-674d-4ed6-ab78-35db0dd5d819
-  claim_hash: 5ff7f668c943e5d744910da17cb9d5e9fc5ace4793bf9c73c6bcc410686b3c8a
-  content: According to Daniel Sheehan, before Jimmy Carter's January inauguration,
-    Carter sought a meeting with the then CIA Director George Herbert Walker Bush.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
-    title: Daniel Sheehan
-  provenance_chain:
-    origin_kind: named
-    origin: Daniel Sheehan
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
-    title: George Herbert Walker Bush
-    slug: george-herbert-walker-bush
-  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
-    title: Daniel Sheehan
-    slug: daniel-sheehan
-  date: null
-  date_end: null
-  location_in_record: ch11:15229-15554
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 34b671a6-bd89-42f0-afdb-9f75e72a17f1
-  claim_hash: e350b249cb7ca2c92e6abe7ffcc058c573610365a3c9eab5ee8e9f9c6ce93a90
-  content: According to Daniel Sheehan, CIA Director George Herbert Walker Bush flatly
-    refused to give president-elect Jimmy Carter a briefing on UFOs, telling him he
-    had no 'need to know'.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
-    title: Daniel Sheehan
-  provenance_chain:
-    origin_kind: named
-    origin: Daniel Sheehan
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
-    title: George Herbert Walker Bush
-    slug: george-herbert-walker-bush
-  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
-    title: Daniel Sheehan
-    slug: daniel-sheehan
-  date: null
-  date_end: null
-  location_in_record: ch11:15437-15554
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 8cb06a6c-7d0a-4660-b635-9f09b569f714
-  claim_hash: 5250e22a949adfbc2c30ed6e3cdfe1ab287332f82003e48a120cfd8aff9b7420
-  content: George Herbert Walker Bush's term as CIA Director ended just before Jimmy
-    Carter's inauguration in January 1977.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
-    title: George Herbert Walker Bush
-    slug: george-herbert-walker-bush
-  date: 1977-01
-  date_end: null
-  location_in_record: ch11:15562-15636
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: f88beec4-39ca-4842-8255-1a52b419f62e
-  claim_hash: f768349295518b01e07ed849d888840e80f63d522af883457133bc948f59d5c5
-  content: George Herbert Walker Bush suggested incoming president Jimmy Carter instead
-    seek a UFO briefing through the Congressional Research Service.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
-    title: Daniel Sheehan
-  provenance_chain:
-    origin_kind: named
-    origin: Daniel Sheehan
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
-    title: George Herbert Walker Bush
-    slug: george-herbert-walker-bush
-  - node_id: ef50574e-39d2-42c0-ac5c-1123ef6a9beb
-    title: Congressional Research Service (CRS)
-    slug: congressional-research-service-crs
-  date: null
-  date_end: null
-  location_in_record: ch11:15643-15740
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 154cc047-ee83-4b93-b47a-5f0cd75c61d3
-  claim_hash: 2485f62ac7fa4961d5c01d76f8b2deebb06948cba821e8a14cb64b68c7701e50
-  content: Once in office, Jimmy Carter pressed the UFO issue, and the Congressional
-    Research Service's specialist on space and aerospace, Marcia Smith, was tasked
-    to investigate.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: b32f2652-1e0d-4ea5-8a40-608ec29b66a2
-    title: Marcia Smith
-    slug: marcia-smith
-  - node_id: ef50574e-39d2-42c0-ac5c-1123ef6a9beb
-    title: Congressional Research Service (CRS)
-    slug: congressional-research-service-crs
-  date: null
-  date_end: null
-  location_in_record: ch11:15749-15905
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: a39a01bb-3c4a-4160-afdb-7d67d34b60bd
-  claim_hash: 9f395f0609144586981c95a333c656e6e2961960aa0bd51c563f8500579c0007
-  content: The 1977 classified reports for President Carter concluded there were many
-    cases in which official US Air Force investigations could not rule out the possibility
-    that some of the vehicles were extra-terrestrial.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: The Cover-up Exposed
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
+    shared_claims: 3
   - node_id: 9fa06ea8-5ad3-4e61-b892-cb12cf3b18bc
-    title: 1977 classified reports on UAPs and extra-terrestrial intelligence for
-      President Carter
+    title: 1977 classified reports on UAPs and extra-terrestrial intelligence for President Carter
+    node_type: document
     slug: 1977-classified-reports-on-uaps-and-extra-terrestrial-intelligence-for-president-carter
-  date: null
-  date_end: null
-  location_in_record: ch11:24479-24656
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 30638841-1e09-43db-8c7f-f82ac62734ca
-  claim_hash: ffa06996efed4216b5f2932f181b39df36da1d94d557f02b13c63b269d084c3c
-  content: Daniel Sheehan acknowledged he saw both of the 1977 classified reports
-    for President Carter, which were written for the Library of Congress' Science
-    and Technology Division before being sent to the president.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
-    title: Daniel Sheehan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Daniel Sheehan
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: 9fa06ea8-5ad3-4e61-b892-cb12cf3b18bc
-    title: 1977 classified reports on UAPs and extra-terrestrial intelligence for
-      President Carter
-    slug: 1977-classified-reports-on-uaps-and-extra-terrestrial-intelligence-for-president-carter
-  - node_id: d17bc382-ce95-49f6-9487-16ab6a1b3701
-    title: USA, Washington DC, Library of Congress
-    slug: washington-dc-library-of-congress-usa
-  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
-    title: Daniel Sheehan
-    slug: daniel-sheehan
-  date: null
-  date_end: null
-  location_in_record: ch11:24671-24813
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 48aa762a-9140-4094-88a6-c4b373fc03e8
-  claim_hash: 7b3482e1108313c26f70e9e8989a365994641b71793b52c3e74d38ffd2e3e949
-  content: It has never been revealed what President Jimmy Carter or any other US
-    president was told, if anything, about the UAP phenomenon.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  date: null
-  date_end: null
-  location_in_record: ch11:24955-25069
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 297ab2d3-044e-45c2-a5b3-efdff44c3857
-  claim_hash: 973afb5b15d4852d6ed533a5b15123d3dca946d0a625e82648456315343b1c72
-  content: Jimmy Carter and Marcia Smith never issued a statement denying Daniel Sheehan's
-    claims about the 1977 Blue Book viewing and classified reports.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: b32f2652-1e0d-4ea5-8a40-608ec29b66a2
-    title: Marcia Smith
-    slug: marcia-smith
-  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
-    title: Daniel Sheehan
-    slug: daniel-sheehan
-  date: null
-  date_end: null
-  location_in_record: ch11:25297-25397
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: a7086018-21b5-444b-89b6-1e1cf2a630fa
-  claim_hash: 8345322161df0f18a33c277fb46b6b7f3519131a881d30737a2094bdd81dc686
-  content: Daniel Sheehan told the author of In Plain Sight that in 1977 the CIA Director
-    flatly refused President Jimmy Carter a briefing on UAPs, and what the president
-    was subsequently told in briefing documents did not reveal what Sheehan discovered.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
-    title: Daniel Sheehan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Daniel Sheehan
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
-    title: Daniel Sheehan
-    slug: daniel-sheehan
-  date: '1977'
-  date_end: null
-  location_in_record: ch11:25712-25932
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 8390f7bd-c8ce-40c3-8265-da73b10fcadf
-  claim_hash: 61205074629c9f158174bfbbb96d882678963492e5a43980b86fc12e9216a5f8
-  content: In July 1977, President Jimmy Carter's science adviser Frank Press asked
-    the National Aeronautics and Space Administration (NASA) to consider investigating
-    public inquiries concerning UFOs.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5bd02b11-3679-438f-b6e1-8509734c1547
-    title: Frank Press
-    slug: frank-press
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: 1977-07
-  date_end: null
-  location_in_record: ch11:26304-26526
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: ff304725-ffb7-4f47-b98b-a9ca6ad5478e
-  claim_hash: 15b1acbb6ed986c957584cbba5dd8f59d756f560e60b6b5356ceea32c12a675f
-  content: There was never any explanation for why President Jimmy Carter did not
-    simply order NASA to conduct the UFO inquiry.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  date: null
-  date_end: null
-  location_in_record: ch11:26796-26920
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: e7890490-b3eb-4580-8f0d-f4d257869e4b
-  claim_hash: cb1adaf638151778adaa6037032380be6578267a128efb6d75c8bf8f53bbe642
-  content: Ronald Reagan's conservative Republican presidency followed Jimmy Carter's
-    liberal presidential administration in 1981.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  date: '1981'
-  date_end: null
-  location_in_record: ch12:7036-7157
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: ba58875b-e22d-4cfc-8f79-c77d046ba64e
-  claim_hash: 01f152b6989640b857c1c47ad1c3e3be15b13819a464e343c0d8e8638eeb52bb
-  content: When Bill Clinton became president in 1993, he asked questions about UAPs,
-    just as Jimmy Carter had done in 1977.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-    title: William J. Clinton
-    slug: william-j-clinton
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  date: '1993'
-  date_end: null
-  location_in_record: ch14:104-212
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 62bbb546-c523-44cd-9833-4f78262a0bd2
-  claim_hash: 10935439a7e3c4a306ebd62a279ff3f9eb803d0c65db84e1475458457d24afc4
-  content: In 1977, while investigating what the US government knew about UFOs on
-    behalf of President Jimmy Carter, Daniel Sheehan discovered archival photographs
-    of a 'flying saucer' craft being retrieved by the US military.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
-    title: Daniel Sheehan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Daniel Sheehan
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: 9fa06ea8-5ad3-4e61-b892-cb12cf3b18bc
-    title: 1977 classified reports on UAPs and extra-terrestrial intelligence for
-      President Carter
-    slug: 1977-classified-reports-on-uaps-and-extra-terrestrial-intelligence-for-president-carter
-  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
-    title: Daniel Sheehan
-    slug: daniel-sheehan
-  date: '1977'
-  date_end: null
-  location_in_record: ch37:4411-4596
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 765e294c-b7dc-40f2-9568-2892d0aeea20
-  claim_hash: 76755b142a9c0035a5f9ab7e6f2f89027f1f2ad3c658981b2c2105387ad317a7
-  content: In 1969 in Georgia, Jimmy Carter claimed to have seen a UFO.
-  original_excerpt: and in 1969 in Georgia, Jimmy Carter claimed to have seen a UFO
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Jimmy Carter
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: '1969'
-  date_end: null
-  location_in_record: char:7378-7438
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: c4f05315-b400-4fce-a746-d27d47ed8b92
-  claim_hash: 84bf3fa6cbf622263ef2f8b18cffb0fa8bc7afcae2cf074dbbbb67cf2c9cf916
-  content: President Jimmy Carter referenced the case of the remote viewer locating
-    a crashed Russian jet in the Congo to the media.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Jimmy Carter
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  date: null
-  date_end: null
-  location_in_record: ch11:26551-26610
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
-  claim_hash: 1cc3aa7bd2a6c9098fb26382cd93b95133c4bc4e77deb9cf96c78d5c50dbb93f
-  content: 'Luis Elizondo believes the following US presidents were briefed in some
-    way on UAP: Harry Truman, Dwight Eisenhower, John F. Kennedy, Lyndon B. Johnson,
-    Jimmy Carter, Ronald Reagan, George H. W. Bush, and Donald Trump.'
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
-    title: Lyndon B. Johnson
-    slug: lyndon-b-johnson
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
-    title: Harry S. Truman
-    slug: harry-s-truman
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
-    title: Donald Trump
-    slug: donald-trump
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
-    title: John Fitzgerald Kennedy
-    slug: john-fitzgerald-kennedy
-  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
-    title: George Herbert Walker Bush
-    slug: george-herbert-walker-bush
-  - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
-    title: Dwight D. Eisenhower
-    slug: dwight-d-eisenhower
-  date: null
-  date_end: null
-  location_in_record: ch31:16189-16330
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 20755b71-c92d-4085-8d39-210576f8d8e0
-  claim_hash: f9a299b5aec86ec6beb218b3b263c5b5eec235df2d642f1cbd367e54eec71ef0
-  content: Jimmy Carter matter-of-factly revealed the existence of the psychic Stargate
-    programme to the media.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
-    title: Stargate
-    slug: stargate
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  date: null
-  date_end: null
-  location_in_record: ch31:16338-16494
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: d5e09c47-a0ee-4905-9524-ac2a6e34e89f
-  claim_hash: 418d85cd29d06a1f39672aaf10c8829aa654a81462e6261fc7fe92bec252bef7
-  content: Jimmy Carter saw a UFO (Unidentified Flying Object) before entering office
-    and promised he would find out the truth about it.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Jimmy Carter
-    relay:
-    - public accounts
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  date: null
-  date_end: null
-  location_in_record: ch10:5688-5814
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 4490b746-5da2-4741-b682-5a66896abe17
-  claim_hash: 1b6066f94c5dc3a00972bf944a8b79ce3613f8677056b9eb39fd882e947da9b4
-  content: During his administration, Jimmy Carter revealed nothing about UFOs (Unidentified
-    Flying Objects).
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  date: null
-  date_end: null
-  location_in_record: ch10:5821-5860
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 01eb0d8f-069b-4c1b-9ddb-165bf42f056c
-  claim_hash: 0b1d579c3b6370d8159bac7713f47a62507f0be2a518c60580f1ebc6bc77c678
-  content: When later queried about UFOs by researcher Stanton Friedman, Jimmy Carter
-    refused to discuss the matter at all.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
-    title: Stanton Friedman
-    slug: stanton-friedman
-  date: null
-  date_end: null
-  location_in_record: ch10:5873-5974
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: d294b928-e7a2-462d-8257-49705377699a
-  claim_hash: b382f8da0bb5feff2366b0468ccf71673ab6961d55fe5fae0f7faed08acc7fb5
-  content: Alonzo McDonald was the staff director for Jimmy Carter.
-  original_excerpt: Alonzo McDonald was the staff director for Jimmy Carter.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 228fe04a-c93c-4d4b-b4af-de089dcac982
-    title: Alonzo McDonald
-    slug: alonzo-mcdonald
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  date: null
-  date_end: null
-  location_in_record: 00:18:07.9-00:18:11.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 1c426333-5774-4174-bded-a0af4b6383c4
-  claim_hash: 6a1921afb577eb4435776774355e7bb64d526f1c5450cf35b9b2b6b442fb63f3
-  content: The Family (The Fellowship) maintained a consistent presence at the centre
-    of executive-branch power across the change from the Jimmy Carter administration
-    to the Ronald Reagan administration.
-  original_excerpt: the Democrats lose, the Republicans win, but you have a consistent
-    presence of the family right at the nexus of power in the executive branch.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: 9d32a2ba-3862-4abe-983f-4abd38c728ea
-    title: The Family (The Fellowship)
-    slug: the-family-the-fellowship
-  date: null
-  date_end: null
-  location_in_record: 00:19:15.4-00:19:21.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: e72be749-9bc0-467a-b699-0ac87d60a67f
-  claim_hash: ebf79e7533930844d7c53d1df28be912339ea25f89960afa3321b1e111b9e048
-  content: Richard Nixon, Jimmy Carter, Ronald Reagan and George H. W. Bush all appear
-    to have received briefings on the UFO subject, according to Jason Samosa's research.
-  original_excerpt: Nixon, Carter, Reagan, Bush, all seem to have received briefings.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
-    title: Richard Nixon
-    slug: richard-nixon
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
-    title: George Herbert Walker Bush
-    slug: george-herbert-walker-bush
-  date: null
-  date_end: null
-  location_in_record: 00:46:04.1-00:46:07.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: ffd06e70-b87e-43de-a6aa-33eb450743d9
-  claim_hash: 570518c1ab7fddc416b32b4ce14a8fa6a47fa8c2b184e5739cb8e124f67b5ab6
-  content: Jimmy Carter apparently had the experience, as president, of asking the
-    Department of Defense to tell the public the story about UFOs.
-  original_excerpt: you're Jimmy Carter, who apparently had this happen. Uh, and you
-    say to the defense department, okay, I want to tell the story about the UFOs.
-  claim_type: hearsay
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5785429d-f7d8-415e-a48a-f6a3f70493e9
-    title: USA, Washington DC, The White House
-    slug: washington-dc-the-white-house-usa
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  date: null
-  date_end: null
-  location_in_record: 00:52:49.5-00:53:00.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: 621446df-5e72-4b5c-91b6-6cf2159ad8f0
-  claim_hash: b49676f1841e50c6008c9b6fcda3c9e924e5501895fdace2b2d91c0aad0ab0de
-  content: Whitley Strieber attributes Jimmy Carter's subsequent refusal to talk about
-    UFOs to Carter having been told that presidential disclosure would be a trip wire.
-  original_excerpt: the result of that of course was he wouldn't even talk about it
-    anymore if that if i'm right about what they're told
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 3
   - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
     title: Whitley Strieber
+    node_type: person
     slug: whitley-strieber
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: 00:53:35.9-00:53:40.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
+    shared_claims: 3
+  - node_id: ef50574e-39d2-42c0-ac5c-1123ef6a9beb
+    title: Congressional Research Service (CRS)
+    node_type: organisation
+    slug: congressional-research-service-crs
+    shared_claims: 2
+  - node_id: 5bd02b11-3679-438f-b6e1-8509734c1547
+    title: Frank Press
+    node_type: person
+    slug: frank-press
+    shared_claims: 2
+  - node_id: e285886c-8277-4aaf-912f-79e0d1f57d25
+    title: Jeff Carter
+    node_type: person
+    slug: jeff-carter
+    shared_claims: 2
+  - node_id: b32f2652-1e0d-4ea5-8a40-608ec29b66a2
+    title: Marcia Smith
+    node_type: person
+    slug: marcia-smith
+    shared_claims: 2
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 2
+  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+    title: Stargate
+    node_type: project
+    slug: stargate
+    shared_claims: 2
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 2
+  - node_id: 5f3edfa5-92ca-4797-8187-d49526efcb16
+    title: Adoniesis (space entity)
+    node_type: topic
+    slug: adoniesis-space-entity
+    shared_claims: 1
+  - node_id: a488ad73-5885-41ea-8d6d-588c0ab63b9f
+    title: Alien Encounters from Tomorrowland
+    node_type: document
+    slug: alien-encounters-from-tomorrowland
+    shared_claims: 1
+  - node_id: 228fe04a-c93c-4d4b-b4af-de089dcac982
+    title: Alonzo McDonald
+    node_type: person
+    slug: alonzo-mcdonald
+    shared_claims: 1
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 1
+  - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+    title: Dwight D. Eisenhower
+    node_type: person
+    slug: dwight-d-eisenhower
+    shared_claims: 1
+  - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+    node_type: person
+    slug: grant-cameron
+    shared_claims: 1
+  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+    title: Harry S. Truman
+    node_type: person
+    slug: harry-s-truman
+    shared_claims: 1
+  - node_id: ac3d16ff-b9ac-416f-b2e4-ff67aeb271ec
+    title: Italy, Sicily, Nicolosi
+    node_type: place
+    slug: sicily-nicolosi-italy
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: 5832c9b3-b0c1-426a-859f-36aa83580aee
+    title: Jody Powell
+    node_type: person
+    slug: jody-powell
+    shared_claims: 1
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    node_type: person
+    slug: john-fitzgerald-kennedy
+    shared_claims: 1
+  - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+    title: Lyndon B. Johnson
+    node_type: person
+    slug: lyndon-b-johnson
+    shared_claims: 1
+  - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
+    title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
+    node_type: organisation
+    slug: mutual-unidentified-flying-object-ufo-network-mufon
+    shared_claims: 1
+claims:
+  - claim_id: 60aa107f-898b-4e1a-b61c-14cbf08aadfb
+    claim_hash: 8edf6fb73eb641ee311e9f18fb7a00fcaf4882ace3a1ed6c9c02b4052140e7bd
+    content: Jimmy Carter, upon seeing the 1973 UFO with his son Jeff Carter, said the object was changing colour from red
+      to green.
+    original_excerpt: 'My father was mumbling: ‘Look, Jeff, now its red...now it’s green... My God...’'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 898c410a-7789-4762-b6dd-1139ced89658
+      title: Jimmy Carter
+    provenance_chain:
+      origin_kind: named
+      origin: Jimmy Carter
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: e285886c-8277-4aaf-912f-79e0d1f57d25
+        title: Jeff Carter
+        slug: jeff-carter
+    date: '1973'
+    date_end: null
+    location_in_record: ch10:43776-43848
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 7a301760-1ecc-4b73-8109-3c96904bdb0d
+    claim_hash: e770d88e422a24af774336d93a69650346283834588505e2a88f4399ebd7c8b9
+    content: Jimmy Carter recounted seeing an incandescent mass in the sky as brilliant and as large as the Moon, moving at
+      high speed, during the 1973 UFO sighting with his son Jeff Carter.
+    original_excerpt: I was heading for my car, when suddenly I saw an incandescent mass in the starry sky, as brilliant and
+      as big as the Moon. It moved at a terrific speed.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 898c410a-7789-4762-b6dd-1139ced89658
+      title: Jimmy Carter
+    provenance_chain:
+      origin_kind: named
+      origin: Jimmy Carter
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1973'
+    date_end: null
+    location_in_record: ch10:43994-44140
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: d938520d-3bdf-4b7a-91ed-9156eab303af
+    claim_hash: 204f58f3cd1c4d092ea9ab7acc0dd3a08c2b7d61cb50fa6212f976ff215e73f1
+    content: Jimmy Carter said he personally did not hear any noise from the UFO during the 1973 sighting, but that his son
+      Jeff Carter later told him he heard a metallic sound coming from it.
+    original_excerpt: Personally, I did not hear any noise, but my son Jeff, who was with me, later told me that he heard
+      a metallic sound coming from the UFO.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 898c410a-7789-4762-b6dd-1139ced89658
+      title: Jimmy Carter
+    provenance_chain:
+      origin_kind: named
+      origin: Jeff Carter
+      relay:
+        - Jimmy Carter
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: e285886c-8277-4aaf-912f-79e0d1f57d25
+        title: Jeff Carter
+        slug: jeff-carter
+    date: '1973'
+    date_end: null
+    location_in_record: ch10:44147-44280
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 3418e1a4-9630-4e3c-b1ac-7860d12868b3
+    claim_hash: 86395e0a90aab1c428d4146f439efbc80c11efe76e3059140736e14b6e1a2c57
+    content: Jimmy Carter said the UFO during the 1973 sighting hovered above him and Jeff Carter for about ten minutes before
+      moving south, changing route repeatedly, moving east, and disappearing on the horizon.
+    original_excerpt: We stood there with our mouths open for about ten minutes. The UFO flew above us for a few moments;
+      then it went south and changed route repeatedly and moved east. Finally it disappeared on the horizon.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 898c410a-7789-4762-b6dd-1139ced89658
+      title: Jimmy Carter
+    provenance_chain:
+      origin_kind: named
+      origin: Jimmy Carter
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1973'
+    date_end: null
+    location_in_record: ch10:44285-44479
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 2968ea40-4d5e-4449-a240-fb555c36f3b3
+    claim_hash: 76d261c0adbab4b655401febc56396bf32481db0153427a5f003f3eb7d043e0c
+    content: The 1976 message to Jimmy Carter attributed to Adoniensis stated that his authority had been granted from above
+      and urged him not to do as others had done.
+    original_excerpt: 'Now that you have attained the goal to develop better your programmed mission in the world, Remember:
+      Do not do as others have done! We remind you that this authority has been granted from above…'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to channel a space entity named Adoniensis
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: d1384ed2-fdfa-4b35-82eb-6e02ee329dc6
+        title: 1976 Adoniensis message to Jimmy Carter
+        slug: 1976-adoniensis-message-to-jimmy-carter
+    date: '1976-11-04'
+    date_end: null
+    location_in_record: ch10:44887-45076
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 3a939a9d-69ae-4ea4-9f31-90f3c3084f05
+    claim_hash: 3b425fc6516d0bb06d827d87fe8ff1f13488701cc45f9f949b54eaa43bd203e2
+    content: A contactee group published a message purportedly channelled by telepathy from a space entity called Adoniensis
+      to Jimmy Carter, dated Nicolosi, 1976-11-04.
+    original_excerpt: From the Heavens to Earth, ADONIENSIS. Nicolosi, 4 November 1976. Time 12:30
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: ac3d16ff-b9ac-416f-b2e4-ff67aeb271ec
+        title: Italy, Sicily, Nicolosi
+        slug: sicily-nicolosi-italy
+      - node_id: d1384ed2-fdfa-4b35-82eb-6e02ee329dc6
+        title: 1976 Adoniensis message to Jimmy Carter
+        slug: 1976-adoniensis-message-to-jimmy-carter
+    date: '1976-11-04'
+    date_end: null
+    location_in_record: ch10:45404-45479
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: c15bdf28-3852-4584-9fa2-97c720807083
+    claim_hash: 3c3262b9b3863ffcaecb30db08a81d53755681ecb62234b0f3fd7cbe521247ae
+    content: The channel of Adoniensis claimed that Jimmy Carter had been secretly programmed.
+    original_excerpt: The channel of Adoniensis claims that the President has been secretly “programmed.”
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to channel a space entity named Adoniensis
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5f3edfa5-92ca-4797-8187-d49526efcb16
+        title: Adoniesis (space entity)
+        slug: adoniesis-space-entity
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+    date: null
+    date_end: null
+    location_in_record: ch10:46599-46670
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 2b905702-300a-4de6-b9b3-6262260d09e5
+    claim_hash: cb5916733164d168473686f8a893fb086824b68398cb429b94efd07958ef3d11
+    content: The Study Center of Cosmic Fraternity was responsible for the extraterrestrial message sent to Jimmy Carter.
+    original_excerpt: They are the group responsible for the extraterrestrial message to Jimmy Carter I quoted earlier.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f133ad0-e26c-456a-8209-6a3e1c484d23
+        title: Study Center of Cosmic Fraternity
+        slug: study-center-of-cosmic-fraternity
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: d1384ed2-fdfa-4b35-82eb-6e02ee329dc6
+        title: 1976 Adoniensis message to Jimmy Carter
+        slug: 1976-adoniensis-message-to-jimmy-carter
+    date: null
+    date_end: null
+    location_in_record: ch10:49835-49924
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 83869dfb-b503-425f-b9e5-9283be601fd1
+    claim_hash: afde8effe0d7b9a7b6dbbc78f77ede38b1e80ffe4374934d1d352cf82ff8b4e4
+    content: Jacques Vallée states that a man in the White House has seen a UFO and is impressed by what he saw.
+    original_excerpt: There is in the White House a man who has seen a UFO and is impressed by what he saw.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch11:77071-77152
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 74c49fec-5241-455c-bb18-2372d2856120
+    claim_hash: 97ea4fdcc6918c35d8b860e9f29b719c2dafa9e0a5c3e49528544d2fc9c99a50
+    content: Jimmy Carter asked Jody Powell and Science Adviser Frank Press to investigate what could be done about the UFO
+      issue.
+    original_excerpt: Some encouraging words by President Carter electrified these groups when he asked Jody Powell and Science
+      Adviser Frank Press to see what could be done.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5832c9b3-b0c1-426a-859f-36aa83580aee
+        title: Jody Powell
+        slug: jody-powell
+      - node_id: 5bd02b11-3679-438f-b6e1-8509734c1547
+        title: Frank Press
+        slug: frank-press
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+    date: null
+    date_end: null
+    location_in_record: ch4:4061-4208
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 5764f46a-4701-4364-892c-14d9d4528185
+    claim_hash: 67997590fcc0311bb1bebc97214c46f9a365f1a49eb306f6736d63fa9d04f4f7
+    content: Jimmy Carter proclaimed that he had seen unidentified lights in the sky and said he was no longer laughing at
+      those who report flying saucers.
+    original_excerpt: Today mm like Jimmy Carter proclaim that they have seen unidentified lights in the sky and are "no longer
+      laughing at those who report Hying saucers."
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 898c410a-7789-4762-b6dd-1139ced89658
+      title: Jimmy Carter
+    provenance_chain:
+      origin_kind: named
+      origin: Jimmy Carter
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch8:5269-5410
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: f4d70234-1ea4-49e7-aea7-394a5cdb88e2
+    claim_hash: 7eb57c9e5b41000b430719e5d20c54598b2d854bd0e8f65456033ce15747a0c2
+    content: Alien Encounters from Tomorrowland displayed newspaper clippings including one of former president Jimmy Carter's
+      testimony about his own sighting of an unidentified aerial object.
+    original_excerpt: The film then displays newspaper clippings, including one of former president Jimmy Carter’s testimony
+      about his own sighting of an unidentified aerial object, as the voiceover cites scientific evidence for ongoing alien
+      visitations.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: a488ad73-5885-41ea-8d6d-588c0ab63b9f
+        title: Alien Encounters from Tomorrowland
+        slug: alien-encounters-from-tomorrowland
+    date: null
+    date_end: null
+    location_in_record: ch4:50975-51196
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 9ac5ad32-ebd9-466a-b831-a1d87954958f
+    claim_hash: 6c957a1b13d6f2adb325c977f0be81e6578b5d96f1fd502cf3aba626fb56a62c
+    content: Jimmy Carter testified about his own sighting of an unidentified aerial object.
+    original_excerpt: including one of former president Jimmy Carter’s testimony about his own sighting of an unidentified
+      aerial object
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 898c410a-7789-4762-b6dd-1139ced89658
+      title: Jimmy Carter
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jimmy Carter
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+    date: null
+    date_end: null
+    location_in_record: ch4:51019-51127
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 777b8a24-d2c6-46d4-92b2-af219c4caece
+    claim_hash: 4ea8d3b77840dcb894db94337815f86e1d9e6f3f98ab237a503afd7091097beb
+    content: Among those who report UFO sightings are former US president Jimmy Carter and other credible witnesses, including
+      trained observers of the US Air Force, pilots, commercial pilots, police officers, US Army personnel, and millions of
+      civilians who were not looking for UFOs.
+    original_excerpt: Among those who report sightings are former US president Jimmy Carter and legions of other credible
+      witnesses, including the trained observers of the US Air Force, pilots, commercial pilots, police officers, US Army
+      personnel, and millions of civilians who were certainly not out looking for UFOs.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+    date: null
+    date_end: null
+    location_in_record: char:20895-21187
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 2396c007-b485-4970-9924-82abbfa9ee17
+    claim_hash: 3670cb3f1fa79c4a4a16168ed3461b5c668e239cc637f10499193646348c4bb0
+    content: Jimmy Carter was elected President of the United States in November 1976, three years after the 1973 North West
+      Cape UAP sighting.
+    original_excerpt: Three years after that UAP sighting over Australia's North West Cape, in November 1976, Jimmy Carter
+      was elected President of the United States.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: a50a3d44-6eb5-47f1-92ce-64328b2ec25f
+        title: North West Cape 1973 UAP Sighting
+        slug: north-west-cape-1973-uap-sighting
+    date: 1976-11
+    date_end: null
+    location_in_record: ch11:14182-14319
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 45e28250-d4e9-4dd1-97c2-53aba991793c
+    claim_hash: fa2eb7134527632ed9aaefaeeb6e58f66db26484c068cb955d3adfd53b737126
+    content: UFO disclosure groups such as the Mutual UFO Network (MUFON) hoped Jimmy Carter would open decades of still top-secret
+      Project Blue Book files, which were widely known to still be withheld from public release.
+    original_excerpt: It was hoped by UFO disclosure groups such as MUFON (the Mutual UFO Network) that this most liberal
+      of recent United States presidents would open decades of still top-secret Project Blue Book files, which it was widely
+      known were still being withheld from public release.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
+        title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
+        slug: mutual-unidentified-flying-object-ufo-network-mufon
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+    date: null
+    date_end: null
+    location_in_record: ch11:14327-14590
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 73e984d9-959b-4d91-84c2-6f08507fe3d9
+    claim_hash: e758fa5aca30cb4918fe52e1126b3ac599185bad02972978f060b85494af95e8
+    content: Grant Cameron's search of Jimmy Carter's Presidential Library archives revealed Carter had an extremely high
+      interest in UFOs during his administration, but his efforts to disclose them were stymied.
+    original_excerpt: told me his search of President Carter's Presidential Library archives revealed Carter had 'an extremely
+      high interest in UFOs during his administration, but it looks like he hit a brick wall because his efforts were stymied'.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+      title: Grant Cameron
+    provenance_chain:
+      origin_kind: named
+      origin: Grant Cameron
+      relay:
+        - research of Carter Presidential Library archives
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+        title: Grant Cameron
+        slug: grant-cameron
+    date: null
+    date_end: null
+    location_in_record: ch11:14719-14936
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 78f9c632-84ec-48a3-a565-efd70d0c4bdf
+    claim_hash: 5adc471fca4eb6fbbd6f26b3483646193b7be1becdc5f2f763cb463edf61f709
+    content: Jimmy Carter openly discussed on the campaign trail how he personally witnessed an unidentified glowing object
+      hovering over Leary, Georgia, in 1969.
+    original_excerpt: On the campaign trail, Carter had openly discussed how he personally witnessed an unidentified glowing
+      object hovering over Leary, Georgia, in 1969, and he promised American voters that if he became president he would release
+      any US government UFO files.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 898c410a-7789-4762-b6dd-1139ced89658
+      title: Jimmy Carter
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jimmy Carter
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 682e06e4-afce-4e5d-935e-4a3874af3422
+        title: USA, Georgia, Leary
+        slug: georgia-leary-usa
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1969'
+    date_end: null
+    location_in_record: ch11:14947-15195
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c15f5889-56e4-4228-bb36-9b3fed0199ef
+    claim_hash: 69c6c77ce6b08060d0f9913b45084a59eb27da7ac5dc91360551cd1d03a9e998
+    content: Jimmy Carter promised American voters during his campaign that if he became president he would release any US
+      government UFO files.
+    original_excerpt: he promised American voters that if he became president he would release any US government UFO files.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 898c410a-7789-4762-b6dd-1139ced89658
+      title: Jimmy Carter
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jimmy Carter
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch11:15100-15195
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bc4e12e5-674d-4ed6-ab78-35db0dd5d819
+    claim_hash: 5ff7f668c943e5d744910da17cb9d5e9fc5ace4793bf9c73c6bcc410686b3c8a
+    content: According to Daniel Sheehan, before Jimmy Carter's January inauguration, Carter sought a meeting with the then
+      CIA Director George Herbert Walker Bush.
+    original_excerpt: According to celebrated civil rights attorney Daniel Sheehan, before Carter's January inauguration he
+      sought a meeting with the then Director of the CIA, George Herbert Walker Bush, later the 41st president, but the CIA
+      Director flatly refused to give the president-elect a briefing on UFOs telling Carter he had no 'need to know'.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+      title: Daniel Sheehan
+    provenance_chain:
+      origin_kind: named
+      origin: Daniel Sheehan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+        title: Daniel Sheehan
+        slug: daniel-sheehan
+    date: null
+    date_end: null
+    location_in_record: ch11:15229-15554
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 34b671a6-bd89-42f0-afdb-9f75e72a17f1
+    claim_hash: e350b249cb7ca2c92e6abe7ffcc058c573610365a3c9eab5ee8e9f9c6ce93a90
+    content: According to Daniel Sheehan, CIA Director George Herbert Walker Bush flatly refused to give president-elect Jimmy
+      Carter a briefing on UFOs, telling him he had no 'need to know'.
+    original_excerpt: but the CIA Director flatly refused to give the president-elect a briefing on UFOs telling Carter he
+      had no 'need to know'.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+      title: Daniel Sheehan
+    provenance_chain:
+      origin_kind: named
+      origin: Daniel Sheehan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+        title: Daniel Sheehan
+        slug: daniel-sheehan
+    date: null
+    date_end: null
+    location_in_record: ch11:15437-15554
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 8cb06a6c-7d0a-4660-b635-9f09b569f714
+    claim_hash: 5250e22a949adfbc2c30ed6e3cdfe1ab287332f82003e48a120cfd8aff9b7420
+    content: George Herbert Walker Bush's term as CIA Director ended just before Jimmy Carter's inauguration in January 1977.
+    original_excerpt: (Bush's term as CIA Director ended just before the inauguration in January 1977.)
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: 1977-01
+    date_end: null
+    location_in_record: ch11:15562-15636
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f88beec4-39ca-4842-8255-1a52b419f62e
+    claim_hash: f768349295518b01e07ed849d888840e80f63d522af883457133bc948f59d5c5
+    content: George Herbert Walker Bush suggested incoming president Jimmy Carter instead seek a UFO briefing through the
+      Congressional Research Service.
+    original_excerpt: Bush suggested the incoming president instead seek a briefing through the Congressional Research Service.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+      title: Daniel Sheehan
+    provenance_chain:
+      origin_kind: named
+      origin: Daniel Sheehan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: ef50574e-39d2-42c0-ac5c-1123ef6a9beb
+        title: Congressional Research Service (CRS)
+        slug: congressional-research-service-crs
+    date: null
+    date_end: null
+    location_in_record: ch11:15643-15740
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 154cc047-ee83-4b93-b47a-5f0cd75c61d3
+    claim_hash: 2485f62ac7fa4961d5c01d76f8b2deebb06948cba821e8a14cb64b68c7701e50
+    content: Once in office, Jimmy Carter pressed the UFO issue, and the Congressional Research Service's specialist on space
+      and aerospace, Marcia Smith, was tasked to investigate.
+    original_excerpt: Once in office, President Carter pressed the issue, and the Congressional Research Service's specialist
+      on space and aerospace, Marcia Smith, was tasked to investigate.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: b32f2652-1e0d-4ea5-8a40-608ec29b66a2
+        title: Marcia Smith
+        slug: marcia-smith
+      - node_id: ef50574e-39d2-42c0-ac5c-1123ef6a9beb
+        title: Congressional Research Service (CRS)
+        slug: congressional-research-service-crs
+    date: null
+    date_end: null
+    location_in_record: ch11:15749-15905
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a39a01bb-3c4a-4160-afdb-7d67d34b60bd
+    claim_hash: 9f395f0609144586981c95a333c656e6e2961960aa0bd51c563f8500579c0007
+    content: The 1977 classified reports for President Carter concluded there were many cases in which official US Air Force
+      investigations could not rule out the possibility that some of the vehicles were extra-terrestrial.
+    original_excerpt: The reports concluded that there were many cases in which official US Air Force investigations could
+      not rule out the possibility that some of these vehicles were in fact extra-terrestrial.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Cover-up Exposed
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 9fa06ea8-5ad3-4e61-b892-cb12cf3b18bc
+        title: 1977 classified reports on UAPs and extra-terrestrial intelligence for President Carter
+        slug: 1977-classified-reports-on-uaps-and-extra-terrestrial-intelligence-for-president-carter
+    date: null
+    date_end: null
+    location_in_record: ch11:24479-24656
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 30638841-1e09-43db-8c7f-f82ac62734ca
+    claim_hash: ffa06996efed4216b5f2932f181b39df36da1d94d557f02b13c63b269d084c3c
+    content: Daniel Sheehan acknowledged he saw both of the 1977 classified reports for President Carter, which were written
+      for the Library of Congress' Science and Technology Division before being sent to the president.
+    original_excerpt: Sheehan acknowledged he saw both reports written for the Library of Congress’ Science and Technology
+      Division before they were sent on to the president
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+      title: Daniel Sheehan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Daniel Sheehan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 9fa06ea8-5ad3-4e61-b892-cb12cf3b18bc
+        title: 1977 classified reports on UAPs and extra-terrestrial intelligence for President Carter
+        slug: 1977-classified-reports-on-uaps-and-extra-terrestrial-intelligence-for-president-carter
+      - node_id: d17bc382-ce95-49f6-9487-16ab6a1b3701
+        title: USA, Washington DC, Library of Congress
+        slug: washington-dc-library-of-congress-usa
+      - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+        title: Daniel Sheehan
+        slug: daniel-sheehan
+    date: null
+    date_end: null
+    location_in_record: ch11:24671-24813
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 48aa762a-9140-4094-88a6-c4b373fc03e8
+    claim_hash: 7b3482e1108313c26f70e9e8989a365994641b71793b52c3e74d38ffd2e3e949
+    content: It has never been revealed what President Jimmy Carter or any other US president was told, if anything, about
+      the UAP phenomenon.
+    original_excerpt: It has never been revealed just what President Carter or any other president was told, if anything,
+      about the UAP phenomenon.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+    date: null
+    date_end: null
+    location_in_record: ch11:24955-25069
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 297ab2d3-044e-45c2-a5b3-efdff44c3857
+    claim_hash: 973afb5b15d4852d6ed533a5b15123d3dca946d0a625e82648456315343b1c72
+    content: Jimmy Carter and Marcia Smith never issued a statement denying Daniel Sheehan's claims about the 1977 Blue Book
+      viewing and classified reports.
+    original_excerpt: have easily killed Sheehan’s claims stone dead by issuing a short statement denying all; they never
+      have
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: b32f2652-1e0d-4ea5-8a40-608ec29b66a2
+        title: Marcia Smith
+        slug: marcia-smith
+      - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+        title: Daniel Sheehan
+        slug: daniel-sheehan
+    date: null
+    date_end: null
+    location_in_record: ch11:25297-25397
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a7086018-21b5-444b-89b6-1e1cf2a630fa
+    claim_hash: 8345322161df0f18a33c277fb46b6b7f3519131a881d30737a2094bdd81dc686
+    content: Daniel Sheehan told the author of In Plain Sight that in 1977 the CIA Director flatly refused President Jimmy
+      Carter a briefing on UAPs, and what the president was subsequently told in briefing documents did not reveal what Sheehan
+      discovered.
+    original_excerpt: that attorney Dan Sheehan told me he witnessed in 1977 – that the CIA Director flatly refused the president
+      a briefing and, moreover, what the president was subsequently told in briefing documents did not reveal what Sheehan
+      discovered
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+      title: Daniel Sheehan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Daniel Sheehan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+        title: Daniel Sheehan
+        slug: daniel-sheehan
+    date: '1977'
+    date_end: null
+    location_in_record: ch11:25712-25932
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 8390f7bd-c8ce-40c3-8265-da73b10fcadf
+    claim_hash: 61205074629c9f158174bfbbb96d882678963492e5a43980b86fc12e9216a5f8
+    content: In July 1977, President Jimmy Carter's science adviser Frank Press asked the National Aeronautics and Space Administration
+      (NASA) to consider investigating public inquiries concerning UFOs.
+    original_excerpt: The same thing occurred in July 1977 when the US’s National Aeronautics and Space Administration (NASA)
+      was asked by President Carter’s science adviser Dr Frank Press to consider investigating public ‘inquiries concerning
+      UFOs’.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5bd02b11-3679-438f-b6e1-8509734c1547
+        title: Frank Press
+        slug: frank-press
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: 1977-07
+    date_end: null
+    location_in_record: ch11:26304-26526
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ff304725-ffb7-4f47-b98b-a9ca6ad5478e
+    claim_hash: 15b1acbb6ed986c957584cbba5dd8f59d756f560e60b6b5356ceea32c12a675f
+    content: There was never any explanation for why President Jimmy Carter did not simply order NASA to conduct the UFO inquiry.
+    original_excerpt: There was never any explanation for why the president did not just order NASA to do the inquiry, which
+      he surely could have done.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+    date: null
+    date_end: null
+    location_in_record: ch11:26796-26920
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e7890490-b3eb-4580-8f0d-f4d257869e4b
+    claim_hash: cb1adaf638151778adaa6037032380be6578267a128efb6d75c8bf8f53bbe642
+    content: Ronald Reagan's conservative Republican presidency followed Jimmy Carter's liberal presidential administration
+      in 1981.
+    original_excerpt: Jimmy Carter's liberal presidential administration was followed by conservative Republican Ronald Reagan's
+      presidency in 1981
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+    date: '1981'
+    date_end: null
+    location_in_record: ch12:7036-7157
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ba58875b-e22d-4cfc-8f79-c77d046ba64e
+    claim_hash: 01f152b6989640b857c1c47ad1c3e3be15b13819a464e343c0d8e8638eeb52bb
+    content: When Bill Clinton became president in 1993, he asked questions about UAPs, just as Jimmy Carter had done in 1977.
+    original_excerpt: When Bill Clinton became president in 1993, he asked questions about UAPs, just as Jimmy Carter had
+      done in 1977.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+        title: William J. Clinton
+        slug: william-j-clinton
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+    date: '1993'
+    date_end: null
+    location_in_record: ch14:104-212
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 62bbb546-c523-44cd-9833-4f78262a0bd2
+    claim_hash: 10935439a7e3c4a306ebd62a279ff3f9eb803d0c65db84e1475458457d24afc4
+    content: In 1977, while investigating what the US government knew about UFOs on behalf of President Jimmy Carter, Daniel
+      Sheehan discovered archival photographs of a 'flying saucer' craft being retrieved by the US military.
+    original_excerpt: While investigating what the US Government knew about UFOs for President Jimmy Carter, Dan was shocked
+      to discover archival photographs of a 'flying saucer' craft being retrieved by US military.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+      title: Daniel Sheehan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Daniel Sheehan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 9fa06ea8-5ad3-4e61-b892-cb12cf3b18bc
+        title: 1977 classified reports on UAPs and extra-terrestrial intelligence for President Carter
+        slug: 1977-classified-reports-on-uaps-and-extra-terrestrial-intelligence-for-president-carter
+      - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+        title: Daniel Sheehan
+        slug: daniel-sheehan
+    date: '1977'
+    date_end: null
+    location_in_record: ch37:4411-4596
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 765e294c-b7dc-40f2-9568-2892d0aeea20
+    claim_hash: 76755b142a9c0035a5f9ab7e6f2f89027f1f2ad3c658981b2c2105387ad317a7
+    content: In 1969 in Georgia, Jimmy Carter claimed to have seen a UFO.
+    original_excerpt: and in 1969 in Georgia, Jimmy Carter claimed to have seen a UFO
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Jimmy Carter
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: '1969'
+    date_end: null
+    location_in_record: char:7378-7438
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: c4f05315-b400-4fce-a746-d27d47ed8b92
+    claim_hash: 84bf3fa6cbf622263ef2f8b18cffb0fa8bc7afcae2cf074dbbbb67cf2c9cf916
+    content: President Jimmy Carter referenced the case of the remote viewer locating a crashed Russian jet in the Congo to
+      the media.
+    original_excerpt: President Jimmy Carter famously referenced the case to the media.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Jimmy Carter
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+    date: null
+    date_end: null
+    location_in_record: ch11:26551-26610
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
+    claim_hash: 1cc3aa7bd2a6c9098fb26382cd93b95133c4bc4e77deb9cf96c78d5c50dbb93f
+    content: 'Luis Elizondo believes the following US presidents were briefed in some way on UAP: Harry Truman, Dwight Eisenhower,
+      John F. Kennedy, Lyndon B. Johnson, Jimmy Carter, Ronald Reagan, George H. W. Bush, and Donald Trump.'
+    original_excerpt: 'As far as I know, the following US presidents were briefed in some way: Truman, Eisenhower, JFK, LBJ,
+      Carter, Reagan, George H. W. Bush, and Trump.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+        title: Harry S. Truman
+        slug: harry-s-truman
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+        title: Dwight D. Eisenhower
+        slug: dwight-d-eisenhower
+    date: null
+    date_end: null
+    location_in_record: ch31:16189-16330
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 20755b71-c92d-4085-8d39-210576f8d8e0
+    claim_hash: f9a299b5aec86ec6beb218b3b263c5b5eec235df2d642f1cbd367e54eec71ef0
+    content: Jimmy Carter matter-of-factly revealed the existence of the psychic Stargate programme to the media.
+    original_excerpt: Carter came across as an open-minded, intellectually curious leader, one who matter-of-factly revealed
+      the existence of the psychic Stargate program to the media.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+    date: null
+    date_end: null
+    location_in_record: ch31:16338-16494
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: d5e09c47-a0ee-4905-9524-ac2a6e34e89f
+    claim_hash: 418d85cd29d06a1f39672aaf10c8829aa654a81462e6261fc7fe92bec252bef7
+    content: Jimmy Carter saw a UFO (Unidentified Flying Object) before entering office and promised he would find out the
+      truth about it.
+    original_excerpt: including that of Jimmy Carter, who promised, after himself seeing a UFO prior to entering office, that
+      he would find out the truth
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Jimmy Carter
+      relay:
+        - public accounts
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+    date: null
+    date_end: null
+    location_in_record: ch10:5688-5814
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 4490b746-5da2-4741-b682-5a66896abe17
+    claim_hash: 1b6066f94c5dc3a00972bf944a8b79ce3613f8677056b9eb39fd882e947da9b4
+    content: During his administration, Jimmy Carter revealed nothing about UFOs (Unidentified Flying Objects).
+    original_excerpt: During his administration, he revealed nothing
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+    date: null
+    date_end: null
+    location_in_record: ch10:5821-5860
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 01eb0d8f-069b-4c1b-9ddb-165bf42f056c
+    claim_hash: 0b1d579c3b6370d8159bac7713f47a62507f0be2a518c60580f1ebc6bc77c678
+    content: When later queried about UFOs by researcher Stanton Friedman, Jimmy Carter refused to discuss the matter at all.
+    original_excerpt: later, when queried about the matter by UFO researcher Stanton Friedman, he refused to discuss it at
+      all
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+    date: null
+    date_end: null
+    location_in_record: ch10:5873-5974
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: d294b928-e7a2-462d-8257-49705377699a
+    claim_hash: b382f8da0bb5feff2366b0468ccf71673ab6961d55fe5fae0f7faed08acc7fb5
+    content: Alonzo McDonald was the staff director for Jimmy Carter.
+    original_excerpt: Alonzo McDonald was the staff director for Jimmy Carter.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 228fe04a-c93c-4d4b-b4af-de089dcac982
+        title: Alonzo McDonald
+        slug: alonzo-mcdonald
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+    date: null
+    date_end: null
+    location_in_record: 00:18:07.9-00:18:11.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 1c426333-5774-4174-bded-a0af4b6383c4
+    claim_hash: 6a1921afb577eb4435776774355e7bb64d526f1c5450cf35b9b2b6b442fb63f3
+    content: The Family (The Fellowship) maintained a consistent presence at the centre of executive-branch power across the
+      change from the Jimmy Carter administration to the Ronald Reagan administration.
+    original_excerpt: the Democrats lose, the Republicans win, but you have a consistent presence of the family right at the
+      nexus of power in the executive branch.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 9d32a2ba-3862-4abe-983f-4abd38c728ea
+        title: The Family (The Fellowship)
+        slug: the-family-the-fellowship
+    date: null
+    date_end: null
+    location_in_record: 00:19:15.4-00:19:21.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: e72be749-9bc0-467a-b699-0ac87d60a67f
+    claim_hash: ebf79e7533930844d7c53d1df28be912339ea25f89960afa3321b1e111b9e048
+    content: Richard Nixon, Jimmy Carter, Ronald Reagan and George H. W. Bush all appear to have received briefings on the
+      UFO subject, according to Jason Samosa's research.
+    original_excerpt: Nixon, Carter, Reagan, Bush, all seem to have received briefings.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: 00:46:04.1-00:46:07.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: e00b9e9a-4d14-4a74-9a71-8209e80993e1
+    claim_hash: 29d86e58ea1458d800104f1042ea3e042dd84827c71a0e20cc263a20253b120b
+    content: Jimmy Carter asked about the UFO subject, and Whitley Strieber knows that Ronald Reagan and his wife knew about
+      it.
+    original_excerpt: Carter asked about it, i know the Reagan's knew about it. They've all known something.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 01:29:57.1-01:30:05.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 15f47ef3-7d36-41d0-b5e8-bb55fbe2332d
+    claim_hash: 19bc7c46c9cdc671ac327c9b5e5383a265655cdd5172524449c133363655df5d
+    content: Whitley Strieber relayed an unsourced account that Jimmy Carter wept when he was told the truth about the Unidentified
+      Flying Object subject.
+    original_excerpt: And, uh, Carter supposedly wept when he heard the truth.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: an unattributed account relayed by Whitley Strieber
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 01:32:36.4-01:32:41.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 1623c60c-e667-4f94-ba39-bf2cfe4f9587
+    claim_hash: b55ab7f5c79329aed8803fe99912c26787b2d4ccfea339d5476c018b14bf9c3d
+    content: Jimmy Carter had a Unidentified Flying Object sighting of his own.
+    original_excerpt: there's there and he had a sighting of his own too so
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Chris Ramsay's narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 01:32:44.6-01:32:47.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: ffd06e70-b87e-43de-a6aa-33eb450743d9
+    claim_hash: 570518c1ab7fddc416b32b4ce14a8fa6a47fa8c2b184e5739cb8e124f67b5ab6
+    content: Jimmy Carter apparently had the experience, as president, of asking the Department of Defense to tell the public
+      the story about UFOs.
+    original_excerpt: you're Jimmy Carter, who apparently had this happen. Uh, and you say to the defense department, okay,
+      I want to tell the story about the UFOs.
+    claim_type: hearsay
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5785429d-f7d8-415e-a48a-f6a3f70493e9
+        title: USA, Washington DC, The White House
+        slug: washington-dc-the-white-house-usa
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: 00:52:49.5-00:53:00.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 621446df-5e72-4b5c-91b6-6cf2159ad8f0
+    claim_hash: b49676f1841e50c6008c9b6fcda3c9e924e5501895fdace2b2d91c0aad0ab0de
+    content: Whitley Strieber attributes Jimmy Carter's subsequent refusal to talk about UFOs to Carter having been told that
+      presidential disclosure would be a trip wire.
+    original_excerpt: the result of that of course was he wouldn't even talk about it anymore if that if i'm right about what
+      they're told
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:53:35.9-00:53:40.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null

@@ -9,1938 +9,1923 @@ page:
   claim_count: 45
   claim_count_total: 45
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 45
+  tokens_estimated: 14127
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 45
 related_nodes:
-- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-  title: David Charles Grusch
-  node_type: person
-  slug: david-charles-grusch
-  shared_claims: 14
-- node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-  title: Jay Stratton
-  node_type: person
-  slug: jay-stratton
-  shared_claims: 7
-- node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-  title: All-domain Anomaly Resolution Office (AARO)
-  node_type: organisation
-  slug: all-domain-anomaly-resolution-office-aaro
-  shared_claims: 5
-- node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-  title: National Reconnaissance Office (NRO)
-  node_type: organisation
-  slug: national-reconnaissance-office-nro
-  shared_claims: 5
-- node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
-  title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
-  node_type: organisation
-  slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
-  shared_claims: 5
-- node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
-  title: Legacy Program
-  node_type: project
-  slug: legacy-program
-  shared_claims: 4
-- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-  title: United States Department of Defense (DoD)
-  node_type: organisation
-  slug: united-states-department-of-defense-dod
-  shared_claims: 4
-- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-  title: Advanced Aerospace Threat Identification Program (AATIP)
-  node_type: project
-  slug: advanced-aerospace-threat-identification-program-aatip
-  shared_claims: 3
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 3
-- node_id: 6b599e03-9c50-4357-a70e-05626c46f264
-  title: Airborne Object Identification and Management Synchronization Group (AOIMSG)
-  node_type: organisation
-  slug: airborne-object-identification-and-management-synchronization-group-aoimsg
-  shared_claims: 2
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 2
-- node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
-  title: National Geospatial-Intelligence Agency (NGA)
-  node_type: organisation
-  slug: national-geospatial-intelligence-agency-nga
-  shared_claims: 2
-- node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-  title: Office of the Director of National Intelligence (ODNI)
-  node_type: organisation
-  slug: office-of-the-director-of-national-intelligence-odni
-  shared_claims: 2
-- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-  title: United States Congress
-  node_type: organisation
-  slug: united-states-congress
-  shared_claims: 2
-- node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
-  title: United States Department of the Navy
-  node_type: organisation
-  slug: united-states-department-of-the-navy
-  shared_claims: 2
-- node_id: e075c573-8ae3-4bc0-9125-d4b9fa3e140f
-  title: 2022-05-17 US Congress public hearing on UAPs
-  node_type: event
-  slug: 2022-05-17-us-congress-public-hearing-on-uaps
-  shared_claims: 1
-- node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
-  title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
-  node_type: project
-  slug: advanced-aerospace-weapon-system-applications-program-aawsap
-  shared_claims: 1
-- node_id: dea6fa7c-2ed1-4328-aac1-6b8e077f00b1
-  title: Charles McCullough III
-  node_type: person
-  slug: charles-mccullough-iii
-  shared_claims: 1
-- node_id: 957fcca1-cb97-4cc5-b16d-4e90bd11d5c6
-  title: David L. Norquist
-  node_type: person
-  slug: david-l-norquist
-  shared_claims: 1
-- node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
-  title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
-  node_type: event
-  slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
-  shared_claims: 1
-- node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
-  title: Inspector General of the Intelligence Community
-  node_type: organisation
-  slug: inspector-general-of-the-intelligence-community
-  shared_claims: 1
-- node_id: 02e24822-765a-4ee4-bed8-a005c2713f66
-  title: Intelligence Authorization Act for Fiscal Year 2021
-  node_type: document
-  slug: intelligence-authorization-act-for-fiscal-year-2021
-  shared_claims: 1
-- node_id: e8254481-2ee6-4d24-861d-4aaa5f258693
-  title: Karl E. Nell
-  node_type: person
-  slug: karl-e-nell
-  shared_claims: 1
-- node_id: cd8f30e6-7a36-4970-b146-1da4271075d3
-  title: Mike Gallagher
-  node_type: person
-  slug: mike-gallagher
-  shared_claims: 1
-- node_id: 88d7d7ee-f47f-4ed3-9f16-54aa64012e97
-  title: National Defense Authorization Act of 2020 (National Defense Authorization
-    Act (NDAA))
-  node_type: document
-  slug: national-defense-authorization-act-of-2020-national-defense-authorization-act-ndaa
-  shared_claims: 1
-- node_id: e7cfab5c-f78f-41c7-b4a6-f5bce173f865
-  title: New York Times Advanced Aerospace Threat Identification Program (AATIP) article,
-    2017-12
-  node_type: document
-  slug: 2017-12-new-york-times-advanced-aerospace-threat-identification-program-aatip-article
-  shared_claims: 1
-- node_id: 13566718-151d-4f6b-96c6-b36797f258d8
-  title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
-  node_type: document
-  slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-  shared_claims: 1
-- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-  title: Project Blue Book
-  node_type: project
-  slug: project-blue-book
-  shared_claims: 1
-- node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
-  title: Ronald S. Moultrie
-  node_type: person
-  slug: ronald-s-moultrie
-  shared_claims: 1
-- node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
-  title: Scott W. Bray
-  node_type: person
-  slug: scott-w-bray
-  shared_claims: 1
-claims:
-- claim_id: 346e7c33-c4df-45ea-bc82-54fe11f9b7cf
-  claim_hash: 2eb2b977b04853d647ec057d75064e271e2f1f43f87d2e10f60d5d4871fbfdba
-  content: At one point, the Advanced Aerospace Weapon System Applications Program
-    employed 50 full-time investigators, far more than Project Blue Book, the Unidentified
-    Aerospace Phenomena Task Force, or the All-Domain Anomaly Resolution Office.
-  original_excerpt: At one point, it employed 50 full time investigators, far more
-    than Project Blue Book or the UAP Task Force, or AARO.
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
-    title: George Knapp
-  provenance_chain:
-    origin_kind: speaker
-    origin: George Knapp
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-    title: Project Blue Book
-    slug: project-blue-book
-  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
-    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
-    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 14
+  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+    title: Jay Stratton
+    node_type: person
+    slug: jay-stratton
+    shared_claims: 7
   - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
     title: All-domain Anomaly Resolution Office (AARO)
+    node_type: organisation
     slug: all-domain-anomaly-resolution-office-aaro
-  date: null
-  date_end: null
-  location_in_record: char:10408-10520
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
-    record_title: Statement to Congress
-    record_date: null
-    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
-    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
-    friendly_name: undated-pdf-statement-to-congress
-- claim_id: 2c6d675d-7607-4b7b-a081-8af471fcda73
-  claim_hash: 60727bead77b95780a91f2f97e4b1ac264a908dd2ae244fa552c85f93fb03950
-  content: Lue Elizondo's public exposure of the existence of the Advanced Aerospace
-    Threat Identification Program was a major factor in the eventual creation of the
-    Unidentified Aerospace Phenomena Task Force and later the All-Domain Anomaly Resolution
-    Office.
-  original_excerpt: His exposure of the existence of AATIP was a major factor in the
-    eventual creation of the UAP Task Force and later, of AARO.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
-    title: George Knapp
-  provenance_chain:
-    origin_kind: speaker
-    origin: George Knapp
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
+    shared_claims: 5
+  - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+    title: National Reconnaissance Office (NRO)
+    node_type: organisation
+    slug: national-reconnaissance-office-nro
+    shared_claims: 5
+  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+    node_type: organisation
+    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    shared_claims: 5
+  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+    title: Legacy Program
+    node_type: project
+    slug: legacy-program
+    shared_claims: 4
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 4
   - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
     title: Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: project
     slug: advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 3
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 3
+  - node_id: 6b599e03-9c50-4357-a70e-05626c46f264
+    title: Airborne Object Identification and Management Synchronization Group (AOIMSG)
+    node_type: organisation
+    slug: airborne-object-identification-and-management-synchronization-group-aoimsg
+    shared_claims: 2
   - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
+    node_type: person
     slug: luis-elizondo
-  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-    title: All-domain Anomaly Resolution Office (AARO)
-    slug: all-domain-anomaly-resolution-office-aaro
-  date: null
-  date_end: null
-  location_in_record: char:13315-13434
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
-    record_title: Statement to Congress
-    record_date: null
-    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
-    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
-    friendly_name: undated-pdf-statement-to-congress
-- claim_id: 195f907f-3606-4e92-9c5c-4094b1bd32f9
-  claim_hash: d06c54b0b9be8764df6be2d71bb7fc97063fad49bc1bf89947eb45f4601ca45e
-  content: The New York Times AATIP article was largely responsible for the creation
-    by Congress of the Unidentified Aerospace Phenomena Task Force, which later became
-    the All-Domain Anomaly Resolution Office.
-  original_excerpt: was largely responsible for the creation by Congress of the UAP
-    Task Force, which later morphed into AARO, the current UFO program approved by
-    Congress.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
-    title: George Knapp
-  provenance_chain:
-    origin_kind: speaker
-    origin: George Knapp
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 2
+  - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+    title: National Geospatial-Intelligence Agency (NGA)
+    node_type: organisation
+    slug: national-geospatial-intelligence-agency-nga
+    shared_claims: 2
+  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+    title: Office of the Director of National Intelligence (ODNI)
+    node_type: organisation
+    slug: office-of-the-director-of-national-intelligence-odni
+    shared_claims: 2
   - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
     title: United States Congress
+    node_type: organisation
     slug: united-states-congress
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-    title: All-domain Anomaly Resolution Office (AARO)
-    slug: all-domain-anomaly-resolution-office-aaro
-  - node_id: e7cfab5c-f78f-41c7-b4a6-f5bce173f865
-    title: New York Times Advanced Aerospace Threat Identification Program (AATIP)
-      article, 2017-12
-    slug: 2017-12-new-york-times-advanced-aerospace-threat-identification-program-aatip-article
-  date: null
-  date_end: null
-  location_in_record: char:9218-9361
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
-    record_title: Statement to Congress
-    record_date: null
-    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
-    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
-    friendly_name: undated-pdf-statement-to-congress
-- claim_id: abf1d136-d3ae-441f-b9ad-49b04020d3be
-  claim_hash: 53f3ad54841e2f8bbef5c6235ffe217bf2191391de19b58ffb31077cf4f655fc
-  content: At the 17 May 2022 US Congress public hearing on UAP, Mike Gallagher asked
-    Ronald S. Moultrie and Scott W. Bray whether they were aware of any Department
-    of Defense or DOD contract programs focused on UAP from a technological engineering
-    perspective, and both replied they were not aware of anything beyond the Navy
-    UAP Task Force.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
-    title: Ronald S. Moultrie
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ronald S. Moultrie and Scott W. Bray
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
-    title: Ronald S. Moultrie
-    slug: ronald-s-moultrie
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
-    title: Scott W. Bray
-    slug: scott-w-bray
-  - node_id: cd8f30e6-7a36-4970-b146-1da4271075d3
-    title: Mike Gallagher
-    slug: mike-gallagher
+    shared_claims: 2
+  - node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
+    title: United States Department of the Navy
+    node_type: organisation
+    slug: united-states-department-of-the-navy
+    shared_claims: 2
   - node_id: e075c573-8ae3-4bc0-9125-d4b9fa3e140f
     title: 2022-05-17 US Congress public hearing on UAPs
+    node_type: event
     slug: 2022-05-17-us-congress-public-hearing-on-uaps
-  date: '2022-05-17'
-  date_end: null
-  location_in_record: ch30:23527-24000
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 379078ba-e6ac-4dd7-8100-6b6f37dbd619
-  claim_hash: 3b3ac27809a89b25eb61c83541c07091c38f931c4e97d99970ccf315a9ff03f0
-  content: In August 2020, the Pentagon resurrected the Advanced Aerospace Threat
-    Identification Program (AATIP), renaming it the UAP Task Force.
-  original_excerpt: This past August, the Pentagon resurrected AATIP. It's now called
-    the UAP Task Force.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-    title: Advanced Aerospace Threat Identification Program (AATIP)
-    slug: advanced-aerospace-threat-identification-program-aatip
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  date: 2020-08
-  date_end: null
-  location_in_record: 00:12:09.2-00:12:14.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
-    record_title: Navy pilots describe encounters with UFOs
-    record_date: '2021-05-17'
-    record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
-    content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
-    friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
-- claim_id: 557c7e35-a375-4054-9698-33c8f479b064
-  claim_hash: 372557f67244daea6ccbcef600f7556389080d3ad5d074031fc51f299d80c0a1
-  content: U.S. service members are now encouraged to report strange aerial encounters
-    to the UAP Task Force.
-  original_excerpt: Service members now are encouraged to report strange encounters.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  date: null
-  date_end: null
-  location_in_record: 00:12:15.6-00:12:19.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
-    record_title: Navy pilots describe encounters with UFOs
-    record_date: '2021-05-17'
-    record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
-    content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
-    friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
-- claim_id: b8f5797b-b025-41ec-88c0-6d7b33671345
-  claim_hash: 672347496277ef25793a46b8431a0e806c73171e9202fd603587abd3c70d1d32
-  content: In May 2022, Charles McCullough III filed a Disclosure of Urgent Concern(s);
-    Complaint of Reprisal on behalf of David Charles Grusch with the Office of the
-    Inspector General of the Intelligence Community about detailed information Grusch
-    had gathered beginning in 2019 while working for the Unidentified Aerial Phenomena
-    Task Force.
-  original_excerpt: In May 2022, McCullough filed a Disclosure of Urgent Concern(s);
-    Complaint of Reprisal on behalf of Grusch with the ICIG about detailed information
-    that Grusch had gathered beginning in 2019 while working for the UAP Task Force.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
-    title: Inspector General of the Intelligence Community
-    slug: inspector-general-of-the-intelligence-community
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
+    shared_claims: 1
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    node_type: project
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    shared_claims: 1
   - node_id: dea6fa7c-2ed1-4328-aac1-6b8e077f00b1
     title: Charles McCullough III
+    node_type: person
     slug: charles-mccullough-iii
-  date: 2022-05
-  date_end: null
-  location_in_record: char:11134-11356
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
-      Origin
-    record_date: '2023-06-05'
-    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-- claim_id: 6d18c064-8cd7-49a5-a49d-3818b03a0da2
-  claim_hash: b3760c9de492dc9302c2dcf54dfe366c68e7103ed784454e4c863b336dde6453
-  content: David Charles Grusch served as the National Reconnaissance Office's representative
-    to the Unidentified Aerial Phenomena Task Force from 2019 to 2021.
-  original_excerpt: He served as the reconnaissance office’s representative to the
-    Unidentified Aerial Phenomena Task Force from 2019-2021.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-    title: National Reconnaissance Office (NRO)
-    slug: national-reconnaissance-office-nro
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: '2019'
-  date_end: null
-  location_in_record: char:1164-1278
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
-      Origin
-    record_date: '2023-06-05'
-    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-- claim_id: 25e2465b-f5e8-41b9-a166-8d71aeff6276
-  claim_hash: 9b22f000e2cf252c0c9670c5bd721389e8d49853a317a0e1b503b1cdd40115a8
-  content: From late 2021 to July 2022, David Charles Grusch was the National Geospatial-Intelligence
-    Agency's co-lead for Unidentified Aerial Phenomena (UAP) analysis and its representative
-    to the Unidentified Aerial Phenomena Task Force.
-  original_excerpt: From late 2021 to July 2022, he was the NGA’s co-lead for UAP
-    analysis and its representative to the task force.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
-    title: National Geospatial-Intelligence Agency (NGA)
-    slug: national-geospatial-intelligence-agency-nga
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: char:1284-1390
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
-      Origin
-    record_date: '2023-06-05'
-    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-- claim_id: fb3e4262-3744-49c6-9f89-fee921b5cb90
-  claim_hash: 2e9dc0eb3ddb518d7691082a161fa6d8df7dc19f6315628699147dd8880a4d90
-  content: The Unidentified Aerial Phenomena Task Force was established to investigate
-    objects once called unidentified flying objects (UFOs) and now officially called
-    unidentified anomalous phenomena, or UAP.
-  original_excerpt: The task force was established to investigate what were once called
-    “unidentified flying objects,” or UFOs, and are now officially called “unidentified
-    anomalous phenomena,” or UAP.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  date: null
-  date_end: null
-  location_in_record: char:1541-1718
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
-      Origin
-    record_date: '2023-06-05'
-    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-- claim_id: 4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
-  claim_hash: abdd079a757157b15ee562b48b856bf304b40b4b7b1646e3a45550fe70872a97
-  content: The Unidentified Aerial Phenomena Task Force was led by the Department
-    of the Navy under the Office of the Under Secretary of Defense for Intelligence
-    and Security.
-  original_excerpt: The task force was led by the Department of the Navy under the
-    Office of the Under Secretary of Defense for Intelligence and Security.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
-    title: United States Department of the Navy
-    slug: united-states-department-of-the-navy
-  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
-    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
-    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
-  date: null
-  date_end: null
-  location_in_record: char:1723-1848
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
-      Origin
-    record_date: '2023-06-05'
-    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-- claim_id: aa66c486-2ae7-4966-adee-1d2a5a33b229
-  claim_hash: f73d161f78415fdb4d01fbd5dcddd8a24da3ac81b100b0d952e0311dadd3d4cd
-  content: The Unidentified Aerial Phenomena Task Force has since been reorganised
-    and expanded into the All-Domain Anomaly Resolution Office to include investigations
-    of objects operating underwater.
-  original_excerpt: It has since been reorganized and expanded into the All-Domain
-    Anomaly Resolution Office to include investigations of objects operating underwater.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-    title: All-domain Anomaly Resolution Office (AARO)
-    slug: all-domain-anomaly-resolution-office-aaro
-  date: null
-  date_end: null
-  location_in_record: char:1858-1994
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
-      Origin
-    record_date: '2023-06-05'
-    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-- claim_id: 42eb3f4a-2e73-42ea-b624-5474223256e1
-  claim_hash: 1d4321c2f70537be1c770a13912848ab0ff6a22d0ebe87421c85b62b9a96099a
-  content: Karl E. Nell is a recently retired Army Colonel and current aerospace executive
-    who was the United States Army's liaison for the Unidentified Aerial Phenomena
-    Task Force from 2021 to 2022 and worked with David Charles Grusch there.
-  original_excerpt: Karl E. Nell, a recently retired Army Colonel and current aerospace
-    executive who was the Army’s liaison for the UAP Task Force from 2021 to 2022
-    and worked with Grusch there
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
-    title: United States Army
-    slug: united-states-army
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  - node_id: e8254481-2ee6-4d24-861d-4aaa5f258693
-    title: Karl E. Nell
-    slug: karl-e-nell
-  date: null
-  date_end: null
-  location_in_record: char:3860-4029
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
-      Origin
-    record_date: '2023-06-05'
-    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-- claim_id: 9ca636fc-22a1-4537-a5c8-e778812c130d
-  claim_hash: 82f631ac98f2fc92bdf03bf63da60ab36265c35a5c2d9654a7dd08d4231efe62
-  content: David Grusch helped author the Unidentified Anomalous Phenomena Task Force's
-    2019 Security Classification Guide.
-  original_excerpt: Yes, I am familiar with the UAP Task Force 2019 Security Classification
-    guide. I think it is fair. I did actually help author that with the Director.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: char:104962-105102
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 2c8762a0-57c6-48f4-a3e0-a8ea5d3b36e2
-  claim_hash: 8f9e28f03d3baf8d9dc4bb812186bdec4d0b857d1c9b47d3888cedee8ce7afdb
-  content: David Grusch testified at the 2023-07-26 House hearing on Unidentified
-    Anomalous Phenomena, identified as a Former National Reconnaissance Office Representative
-    to the Unidentified Anomalous Phenomena Task Force at the Department of Defense.
-  original_excerpt: Mr. David Grusch, Former National Reconnaissance Office Representative,
-    Unidentified Aerial Phenomena Task Force, Department of Defense, Oral Statement
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: the printed hearing volume
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
-    title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
-    slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-    title: National Reconnaissance Office (NRO)
-    slug: national-reconnaissance-office-nro
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: '2023-07-26'
-  date_end: null
-  location_in_record: char:3355-3496
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: c90b0e17-1e52-4e0f-aa60-927b537972d3
-  claim_hash: c5fc7c2af85e4dbe63a03aaf429110469afe2215ebb4424923af10e906b8d1e6
-  content: David Grusch was his agency's co-lead in unidentified anomalous phenomena
-    and trans-medium object analysis, reporting to the Unidentified Anomalous Phenomena
-    Task Force and eventually to the All-Domain Anomaly Resolution Office.
-  original_excerpt: I was my agency's co-lead in unidentified anomalous phenomena
-    and trans medium object analysis as well as reporting to the UAP Task Force—UAPTF—and
-    eventually, once it was established, the All-Domain Anomaly Resolution Office—AARO.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-    title: All-domain Anomaly Resolution Office (AARO)
-    slug: all-domain-anomaly-resolution-office-aaro
-  date: null
-  date_end: null
-  location_in_record: char:36599-36825
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: bdef50bb-774f-482d-b545-50ee47d5eab6
-  claim_hash: 594826e63027ba1f1fb62bd3194c9b976bc7d53230e9473866a852d2dd098278
-  content: David Grusch spent 4 years while with the Unidentified Anomalous Phenomena
-    Task Force taking steps to corroborate the evidence given to him and to vet the
-    individuals who shared it.
-  original_excerpt: I have taken every step I can to corroborate this evidence over
-    a period of 4 years while I was with the UAP Task Force and do my due diligence
-    on the individuals sharing it.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: char:37573-37744
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: a5c7c13d-cbcc-489c-8ac7-60f1a353bde9
-  claim_hash: 58725a337a845911bd2a5d4e3bee1284a1536e9d1e39e02c6fd151599c85cf20
-  content: David Grusch was a member of the Unidentified Anomalous Phenomena Task
-    Force from 2019 to 2021 in a National Reconnaissance Office reservist capacity
-    within the United States Air Force.
-  original_excerpt: In the U.S. Air Force in my National Reconnaissance Office—NRO—reservist
-    capacity, I was a member of the UAP Task Force from 2019 to 2021.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-    title: National Reconnaissance Office (NRO)
-    slug: national-reconnaissance-office-nro
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: '2019-01-01'
-  date_end: null
-  location_in_record: char:38214-38347
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: e777450f-6f8c-4117-858f-257d1d69fedc
-  claim_hash: 7a5b32545628405b1e20f46a356e7f007d9ec7e06ba1ab0b277345b9ed7cc0e4
-  content: In 2019 the Unidentified Anomalous Phenomena Task Force Director asked
-    David Grusch to identify all special access programs and controlled access programs
-    needed to satisfy the task force's congressionally mandated mission, reporting
-    directly to the Deputy Secretary of Defense.
-  original_excerpt: In 2019, the UAP Task Force Director asked me to identify all
-    special access programs and controlled access programs, also known as SAPs and
-    CAPs, we needed to satisfy our congressionally mandated mission and we would direct
-    report at the time to the DEP/SecDef.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: '2019-01-01'
-  date_end: null
-  location_in_record: char:38603-38858
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 2f97144c-bde9-4334-8cbe-51f3d40bd568
-  claim_hash: c0805d2c816c3aee3716b2451f04676128b1aa1b32d379bc7bbf93c8ae097d6f
-  content: David Grusch sat on the Unidentified Anomalous Phenomena Task Force (UAPTF)
-    created by the 2020 National Defense Authorization Act (NDAA).
-  original_excerpt: Mr. Grusch, you sat on the unidentified anomalous phenomenon task
-    force created in the 2020 NDAA, correct? Mr. GRUSCH. Yes.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 88d7d7ee-f47f-4ed3-9f16-54aa64012e97
-    title: National Defense Authorization Act of 2020 (National Defense Authorization
-      Act (NDAA))
-    slug: national-defense-authorization-act-of-2020-national-defense-authorization-act-ndaa
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: char:96376-96496
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: cc27e93e-f606-49df-8e50-bb078b808ffc
-  claim_hash: 6516480a3beceb543557fb272596adc900bf8ed7a4e17e666e9fd011c14359e2
-  content: The Legacy Program and its associates managed to block funding that the
-    United States Congress had appropriated to the Pentagon's UAP Task Force.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-    title: United States Congress
-    slug: united-states-congress
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
-    title: Legacy Program
-    slug: legacy-program
-  date: null
-  date_end: null
-  location_in_record: ch31:26232-26383
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: dd5cb2d1-6c31-42f7-8bf5-bb2f45b21b0c
-  claim_hash: a8bc0b8c76b69ea9844825664c9375d12cfcce2700b7683f315c471ae77a2647
-  content: The Office of the Undersecretary of Defense for Intelligence (OUSD(I))
-    is the same organisation that had previously underplayed and tried to kill the
-    Advanced Aerospace Threat Identification Program (AATIP) and then the Pentagon's
-    UAP Task Force.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-    title: Advanced Aerospace Threat Identification Program (AATIP)
-    slug: advanced-aerospace-threat-identification-program-aatip
-  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
-    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
-    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
-  date: null
-  date_end: null
-  location_in_record: ch31:27632-27763
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
-  claim_hash: a2d34bbdb723c11f92ba89c58c83dbc422f21683b2cbd320b7731967e08874c6
-  content: The interagency task force that Jay Stratton built went on to become the
-    Pentagon's UAP Task Force.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-    title: Jay Stratton
-    slug: jay-stratton
-  date: null
-  date_end: null
-  location_in_record: ch31:5154-5231
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: ed75974a-7452-4db7-be4e-a3d5160b9b43
-  claim_hash: 2328450977a222f5ca395619e318edacec19a84f8bd05aedab8e757b3c717bf1
-  content: Luis Elizondo started working as a contractor for the United States Space
-    Force (USSF) to help build their UAP effort and support Jay Stratton's UAP Task
-    Force.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-    title: Jay Stratton
-    slug: jay-stratton
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: f2a10ed1-543e-4df4-8e98-f45964a6a1af
-    title: United States Space Force (USSF)
-    slug: united-states-space-force-ussf
-  date: null
-  date_end: null
-  location_in_record: ch31:5830-6022
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 1b20909d-0e9b-4d62-9c61-a1016fd748f9
-  claim_hash: 9dfa7393feb95f67a95c47bbf9bbf19732242d8a669719733e9fb205d396a4fd
-  content: After a couple of years of Jay Stratton quietly building the task force,
-    the United States Secretary of Defense announced the Pentagon's UAP Task Force
-    and named Jay Stratton as its first director.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-    title: Jay Stratton
-    slug: jay-stratton
-  date: null
-  date_end: null
-  location_in_record: ch31:6057-6224
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
-  claim_hash: 99e18a5b8c4453a4b8e576db90f0d00daea85bebbfada1206109bbb2eea94c23
-  content: From the moment the Pentagon's UAP Task Force became official, the Legacy
-    Program started quietly pushing back on Jay Stratton and the task force, creating
-    bureaucratic hurdles.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-    title: Jay Stratton
-    slug: jay-stratton
-  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
-    title: Legacy Program
-    slug: legacy-program
-  date: null
-  date_end: null
-  location_in_record: ch31:6381-6592
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 5e7f6b2e-f541-46c8-854a-d7294742aef6
-  claim_hash: 5250592fbe31f89b5c8f3ebc9f58215ec596a5c573e30c3de7d0c1f965a03414
-  content: David Grusch helped contribute to the Pentagon's UAP Task Force.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: ch32:1025-1068
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 87ccdf24-ffeb-46c1-a562-208927df7e38
-  claim_hash: 916a599e40952b14b644986918354f9a7049e5f16007ed95bc39eea6b2e8036c
-  content: The Pentagon's UAP Task Force was refused access to a broad crash retrieval
-    programme that retrieved nonhuman-origin technical vehicles that had either landed
-    or crashed.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-    title: nonhuman intelligence (Nonhuman Intelligence (NHI))
-    slug: nonhuman-intelligence-nonhuman-intelligence-nhi
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  date: null
-  date_end: null
-  location_in_record: ch32:1290-1513
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: b61036ef-78da-4966-9953-d63cb1cd578d
-  claim_hash: eeb945be75b222ab891cf538ecf45c10478cd8cc1d5a0a61f5fc3c2e93e9668d
-  content: David Grusch was the representative of the National Reconnaissance Office
-    (NRO) and National Geospatial-Intelligence Agency (NGA) on the Pentagon's UAP
-    Task Force.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
-    title: National Geospatial-Intelligence Agency (NGA)
-    slug: national-geospatial-intelligence-agency-nga
-  - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-    title: National Reconnaissance Office (NRO)
-    slug: national-reconnaissance-office-nro
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: ch32:931-974
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 0ea18651-8df3-4a40-9448-c475da9f5895
-  claim_hash: 97847dd0e72d7b4cd6eba542d5c00ad5c78f499a2314d27f89d056a697cd8c85
-  content: In August 2020, the United States Department of Defense (DoD) established
-    a UAP Task Force (UAPTF) to develop standardised reporting requirements for Unidentified
-    Anomalous Phenomena (UAP) encounters.
-  original_excerpt: In response to Congress' concerns, in August 2020 the DoD established
-    a UAP Task Force (UAPTF) to develop standardized reporting requirements for UAP
-    encounters.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  date: 2020-08
-  date_end: null
-  location_in_record: char:6264-6414
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
-    record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of
-      the DoD's Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
-    record_date: '2024-01-24'
-    record_reference: null
-    content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
-    friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
-- claim_id: c5d55aee-7a8a-4c75-9e53-c966c559a644
-  claim_hash: a604dcd7ca69e7e84406fa77aad636481077fe8e2b46cd3bb6fdb0c253626253
-  content: In June 2021, the UAP Task Force (UAPTF) and the Office of the Director
-    of National Intelligence (ODNI) issued the congressionally mandated Preliminary
-    Assessment on Unidentified Aerial Phenomena.
-  original_excerpt: In June 2021, the UAPTF and the Office of the Director of National
-    Intelligence issued the congressionally mandated Preliminary Assessment on UAP,
-    which stated that UAP reporting data are largely inconclusive, as well as a consolidation
-    of reports across the U.S. Government is inconsistent.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
-    title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
-    slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-    title: Office of the Director of National Intelligence (ODNI)
-    slug: office-of-the-director-of-national-intelligence-odni
-  date: 2021-06
-  date_end: null
-  location_in_record: char:6426-6704
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
-    record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of
-      the DoD's Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
-    record_date: '2024-01-24'
-    record_reference: null
-    content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
-    friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
-- claim_id: 5907e811-5c8e-4c40-9ebd-4cc1be5f95aa
-  claim_hash: 732308c670e9bf8569425f20309905d9f589c425c6e773821ceb7fd734e8341b
-  content: In a November 2021 memorandum, the Office of the Under Secretary of Defense
-    for Intelligence and Security (OUSD(I&S)) was directed to establish the Airborne
-    Object Identification and Management Synchronization Group (AOIMSG) as the successor
-    to the UAP Task Force (UAPTF) to synchronise efforts across the United States
-    Department of Defense (DoD) and with other Federal departments and agencies to
-    detect, identify, and characterise objects of interest in special use airspace.
-  original_excerpt: In a November 2021 memorandum, the Deputy Secretary of Defense
-    directed the OUSD(I&S) to establish the Airborne Object Identification and Management
-    Synchronization Group (AOIMSG) as the successor to the UAPTF to synchronize efforts
-    across the DoD and with other Federal departments and agencies to detect, identify,
-    and characterize objects of interest in special use airspace.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 6b599e03-9c50-4357-a70e-05626c46f264
-    title: Airborne Object Identification and Management Synchronization Group (AOIMSG)
-    slug: airborne-object-identification-and-management-synchronization-group-aoimsg
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
-    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
-    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
-  date: 2021-11
-  date_end: null
-  location_in_record: char:6946-7315
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
-    record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of
-      the DoD's Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
-    record_date: '2024-01-24'
-    record_reference: null
-    content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
-    friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
-- claim_id: d81d92c7-b50c-4425-92eb-be9d94981ae3
-  claim_hash: 97a36c0e9aff8a17b3f006692a9d8fa89d7720d9737b2b776560f71863f4f3ee
-  content: David L. Norquist, as Deputy Secretary of Defense, approved the establishment
-    of the Unidentified Aerial Phenomena Task Force (UAPTF) in 2020-08.
-  original_excerpt: Deputy Secretary of Defense David L. Norquist approved the establishment
-    of the UAPTF in August 2020.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Department of Defense press release
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
+    shared_claims: 1
   - node_id: 957fcca1-cb97-4cc5-b16d-4e90bd11d5c6
     title: David L. Norquist
+    node_type: person
     slug: david-l-norquist
-  date: 2020-08
-  date_end: null
-  location_in_record: char:64123-64219
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 9d4cb255-01b9-4cf5-8513-793eb12b53e1
-  claim_hash: 08b05f97e09c197f53062c63b78cb1d4997d86fb8f933e4350f49cf702723447
-  content: Under the cognisance of the Office of the Under Secretary of Defense for
-    Intelligence and Security (USD(I&S)), the Department of the Navy was asked to
-    lead the Unidentified Aerial Phenomena Task Force (UAPTF).
-  original_excerpt: Under the cognizance of the Office of the Under Secretary of Defense
-    for Intelligence and Security (USD(I&S)), the Department of the Navy was asked
-    to lead the task force.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Department of Defense press release
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
-    title: United States Department of the Navy
-    slug: united-states-department-of-the-navy
-  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
-    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
-    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
-  date: null
-  date_end: null
-  location_in_record: char:64225-64390
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: d498a840-1ca2-47a4-85fa-cdf6f2c5175d
-  claim_hash: 440248190963cc38b05e3f1eadb0929fdca8c78a5c90e1bbef7ae7cadf597102
-  content: The Unidentified Aerial Phenomena Task Force (UAPTF) was established to
-    improve understanding of, and gain insight into, the nature and origins of UAP.
-  original_excerpt: It was established to improve understanding of, and gain insight
-    into, the nature and origins of UAP.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Department of Defense press release
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  date: null
-  date_end: null
-  location_in_record: char:64397-64494
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 12cabeea-5319-458d-a281-825af6a9d67b
-  claim_hash: 4ce1d31e7890f3cae29220416f072732e20754e681bd9c91f368c18d7983322f
-  content: The Unidentified Aerial Phenomena Task Force's (UAPTF) mission was to detect,
-    analyse, and catalogue UAP that could potentially pose a threat to United States
-    national security.
-  original_excerpt: The task force's mission was to detect, analyze, and catalog UAP
-    that could potentially pose a threat to U.S. national security.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Department of Defense press release
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  date: null
-  date_end: null
-  location_in_record: char:64499-64618
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 9accd6d1-41b0-47d0-859b-164aa5f4f952
-  claim_hash: ce4d1d8dbf2519715036b1db8983027d211fb12a7649bbe30dd50efff67345db
-  content: The Unidentified Aerial Phenomena Task Force (UAPTF) helped standardise,
-    destigmatise, and increase the volume of UAP reporting.
-  original_excerpt: The UAPTF helped standardize, destigmatize, and increase the volume
-    of UAP reporting.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: All-Domain Anomaly Resolution Office (AARO) discussions with UAPTF leadership
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  date: null
-  date_end: null
-  location_in_record: char:64788-64863
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 78e0cf87-de92-4da5-9dec-ef4f8deac16c
-  claim_hash: 2641baab3c2cbeb87e1fe3e2d5cfdcd575d19773692451204c206afa2baeb02c
-  content: The Unidentified Aerial Phenomena Task Force's (UAPTF) work helped calibrate
-    sensors to improve the quality of UAP data collected.
-  original_excerpt: Its work also helped calibrate sensors to improve the quality
-    of data collected.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: All-Domain Anomaly Resolution Office (AARO) discussions with UAPTF leadership
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  date: null
-  date_end: null
-  location_in_record: char:64874-64944
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 117b0a79-31dd-4820-bd1e-66b4dc96f27d
-  claim_hash: fc661c72e61116011ee07e461c50c0194bf7dc4ebeac83a83c2c075370a4f841
-  content: The Unidentified Aerial Phenomena Task Force's (UAPTF) methods and processes
-    directly led to the identification of the People's Republic of China's high-altitude
-    balloons that traversed the continental United States.
-  original_excerpt: Its methods and processes directly led to the identification of
-    the People's Republic of China's (PRC) high altitude balloons that traversed over
-    the continental United States.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: All-Domain Anomaly Resolution Office (AARO) discussions with UAPTF leadership
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  date: null
-  date_end: null
-  location_in_record: char:64955-65124
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 88f21ca9-0b1e-4f7f-a587-95a20c388204
-  claim_hash: 694c6e5b5a8fb8cd9611c6a93730c429e3eb14260669bd1cb4e11d687f0284de
-  content: Senate Report 116-233, accompanying the Intelligence Authorization Act
-    for Fiscal Year 2021, directed the Office of the Director of National Intelligence
-    (ODNI), in consultation with the Secretary of Defense, to submit an intelligence
-    assessment of the threat posed by UAP and to report on the progress the Unidentified
-    Aerial Phenomena Task Force (UAPTF) had made in understanding this threat.
-  original_excerpt: Senate Report 116-233, accompanying the Intelligence Authorization
-    Act for Fiscal Year 2021, directed the Office of the Director of National Intelligence
-    (ODNI) in consultation with the Secretary of Defense to submit an intelligence
-    assessment of the threat posed by UAP and to report on the progress the UAPTF
-    had made in understanding this threat.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Senate Report 116-233
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
+  - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+    title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+    node_type: event
+    slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+    shared_claims: 1
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    node_type: organisation
+    slug: inspector-general-of-the-intelligence-community
+    shared_claims: 1
   - node_id: 02e24822-765a-4ee4-bed8-a005c2713f66
     title: Intelligence Authorization Act for Fiscal Year 2021
+    node_type: document
     slug: intelligence-authorization-act-for-fiscal-year-2021
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 6606efec-699d-49cf-a109-c439cebf5471
-    title: Senate Report 116-233
-    slug: senate-report-116-233
-  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-    title: Office of the Director of National Intelligence (ODNI)
-    slug: office-of-the-director-of-national-intelligence-odni
-  date: null
-  date_end: null
-  location_in_record: char:65262-65604
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 71d963fc-908f-4c3e-bc86-537e69954eb9
-  claim_hash: a54df28c15971d1f511d55706b93ab0f2de462a4551fdca914e405b0096c2466
-  content: The Deputy Secretary of Defense, in consultation with the Director of National
-    Intelligence, directed the Office of the Under Secretary of Defense for Intelligence
-    and Security (USD(I&S)) to establish the Airborne Object Identification and Management
-    Synchronization Group (AOIMSG) to succeed the United States Navy's Unidentified
-    Aerial Phenomena Task Force (UAPTF).
-  original_excerpt: The Deputy Secretary of Defense, in consultation with the Director
-    of National Intelligence (DNI), directed USD(I&S) to establish AOIMSG to succeed
-    the USN's UAPTF.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Department of Defense press release
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-    title: United States Navy (USN)
-    slug: united-states-navy-usn
-  - node_id: 6b599e03-9c50-4357-a70e-05626c46f264
-    title: Airborne Object Identification and Management Synchronization Group (AOIMSG)
-    slug: airborne-object-identification-and-management-synchronization-group-aoimsg
-  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
-    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
-    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
-  date: 2021-11
-  date_end: null
-  location_in_record: char:66957-67115
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 2ec50b70-65d7-4f7c-8f35-cf05fbd0beb3
-  claim_hash: 2caa26f698176ae38e83ac9adb5f91a0461a062945dead80eae0f2f07014d66c
-  content: From 2019 to 2021, David Grusch officially represented the National Reconnaissance
-    Office (NRO) on the Unidentified Anomalous Phenomena Task Force (UAP Task Force).
-  original_excerpt: from 2019-2021 officially represented the NRO on the UAP Task
-    Force
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-    title: National Reconnaissance Office (NRO)
-    slug: national-reconnaissance-office-nro
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: '2019-01-01'
-  date_end: null
-  location_in_record: char:1304-1366
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
-    record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch
-      as Special Advisor
-    record_date: '2025-03-27'
-    record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
-    content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
-    friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
-- claim_id: eded00bc-01d6-498a-9844-0a8ae9701ef8
-  claim_hash: c34acf1b077356cf084eee195f14eabb1b4e67a583db190c59219c5c6e745d15
-  content: Jay Stratton was in charge of the UAP Task Force for approximately 16 years.
-  original_excerpt: the best opportunity you might have would be to go to somebody
-    like Jay Stratton who was in charge of the UAP task force for like 16 years
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-  provenance_chain:
-    origin_kind: speaker
-    origin: Hal Puthoff
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-    title: Jay Stratton
-    slug: jay-stratton
-  date: null
-  date_end: null
-  location_in_record: 00:28:29.0-00:28:37.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: 0c5369f6-0d28-42a5-914d-2a45e63bb116
-  claim_hash: 53b46a8d992d5768314a7ea18d6c647f11e9155da9aa6e209311688a3e357236
-  content: Jay Stratton, while leading the UAP Task Force, encountered gatekeepers
-    who controlled access to the legacy program.
-  original_excerpt: he ran into the, quote, gatekeepers for the legacy program.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-  provenance_chain:
-    origin_kind: named
-    origin: Jay Stratton
-    relay:
-    - Hal Puthoff
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-    title: Jay Stratton
-    slug: jay-stratton
-  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
-    title: Legacy Program
-    slug: legacy-program
-  date: null
-  date_end: null
-  location_in_record: 00:28:44.8-00:28:48.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: f781af18-46b8-4c78-9afb-dd89541804bd
-  claim_hash: 734a6275ae4c83ed39d0d6980cecad55e30158c01f4d0e778e88a28e2ed417e3
-  content: Jay Stratton, as head of the UAP Task Force, involved around 16 different
-    defense contractors and intelligence units in an effort to move UAP investigation
-    forward beyond the legacy program, but the effort was not successful.
-  original_excerpt: he got all... kinds of different defense contractors and intelligence
-    units, all 16 or whatever, involved in trying to move the program forward beyond
-    what the legacy program was doing, and they were not successful.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-  provenance_chain:
-    origin_kind: named
-    origin: Jay Stratton
-    relay:
-    - Hal Puthoff
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-    title: Jay Stratton
-    slug: jay-stratton
-  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
-    title: Legacy Program
-    slug: legacy-program
-  date: null
-  date_end: null
-  location_in_record: 00:36:18.1-00:36:34.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
+    shared_claims: 1
+  - node_id: e8254481-2ee6-4d24-861d-4aaa5f258693
+    title: Karl E. Nell
+    node_type: person
+    slug: karl-e-nell
+    shared_claims: 1
+  - node_id: cd8f30e6-7a36-4970-b146-1da4271075d3
+    title: Mike Gallagher
+    node_type: person
+    slug: mike-gallagher
+    shared_claims: 1
+  - node_id: 88d7d7ee-f47f-4ed3-9f16-54aa64012e97
+    title: National Defense Authorization Act of 2020 (NDAA )
+    node_type: document
+    slug: national-defense-authorization-act-of-2020-ndaa
+    shared_claims: 1
+  - node_id: e7cfab5c-f78f-41c7-b4a6-f5bce173f865
+    title: New York Times Advanced Aerospace Threat Identification Program (AATIP) article, 2017-12
+    node_type: document
+    slug: 2017-12-new-york-times-advanced-aerospace-threat-identification-program-aatip-article
+    shared_claims: 1
+  - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+    title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+    node_type: document
+    slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+    shared_claims: 1
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    node_type: project
+    slug: project-blue-book
+    shared_claims: 1
+  - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+    title: Ronald S. Moultrie
+    node_type: person
+    slug: ronald-s-moultrie
+    shared_claims: 1
+  - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+    title: Scott W. Bray
+    node_type: person
+    slug: scott-w-bray
+    shared_claims: 1
+claims:
+  - claim_id: 346e7c33-c4df-45ea-bc82-54fe11f9b7cf
+    claim_hash: 2eb2b977b04853d647ec057d75064e271e2f1f43f87d2e10f60d5d4871fbfdba
+    content: At one point, the Advanced Aerospace Weapon System Applications Program employed 50 full-time investigators,
+      far more than Project Blue Book, the Unidentified Aerospace Phenomena Task Force, or the All-Domain Anomaly Resolution
+      Office.
+    original_excerpt: At one point, it employed 50 full time investigators, far more than Project Blue Book or the UAP Task
+      Force, or AARO.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:10408-10520
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+      record_title: Statement to Congress
+      record_date: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+      content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+      friendly_name: undated-pdf-statement-to-congress
+  - claim_id: 2c6d675d-7607-4b7b-a081-8af471fcda73
+    claim_hash: 60727bead77b95780a91f2f97e4b1ac264a908dd2ae244fa552c85f93fb03950
+    content: Lue Elizondo's public exposure of the existence of the Advanced Aerospace Threat Identification Program was a
+      major factor in the eventual creation of the Unidentified Aerospace Phenomena Task Force and later the All-Domain Anomaly
+      Resolution Office.
+    original_excerpt: His exposure of the existence of AATIP was a major factor in the eventual creation of the UAP Task Force
+      and later, of AARO.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:13315-13434
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+      record_title: Statement to Congress
+      record_date: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+      content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+      friendly_name: undated-pdf-statement-to-congress
+  - claim_id: 195f907f-3606-4e92-9c5c-4094b1bd32f9
+    claim_hash: d06c54b0b9be8764df6be2d71bb7fc97063fad49bc1bf89947eb45f4601ca45e
+    content: The New York Times AATIP article was largely responsible for the creation by Congress of the Unidentified Aerospace
+      Phenomena Task Force, which later became the All-Domain Anomaly Resolution Office.
+    original_excerpt: was largely responsible for the creation by Congress of the UAP Task Force, which later morphed into
+      AARO, the current UFO program approved by Congress.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: e7cfab5c-f78f-41c7-b4a6-f5bce173f865
+        title: New York Times Advanced Aerospace Threat Identification Program (AATIP) article, 2017-12
+        slug: 2017-12-new-york-times-advanced-aerospace-threat-identification-program-aatip-article
+    date: null
+    date_end: null
+    location_in_record: char:9218-9361
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+      record_title: Statement to Congress
+      record_date: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+      content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+      friendly_name: undated-pdf-statement-to-congress
+  - claim_id: abf1d136-d3ae-441f-b9ad-49b04020d3be
+    claim_hash: 53f3ad54841e2f8bbef5c6235ffe217bf2191391de19b58ffb31077cf4f655fc
+    content: At the 17 May 2022 US Congress public hearing on UAP, Mike Gallagher asked Ronald S. Moultrie and Scott W. Bray
+      whether they were aware of any Department of Defense or DOD contract programs focused on UAP from a technological engineering
+      perspective, and both replied they were not aware of anything beyond the Navy UAP Task Force.
+    original_excerpt: 'Gallagher: Are you aware of any other DOD or DOD contract programs focused on UAPs from a technological
+      engineering perspective …? Mr. Moultrie: I am not aware of any contractual programs that are focused on any anything
+      related to this, other than what we are doing in the Navy task force and what we are about to launch in terms of our
+      effort. Mr. Gallagher: Same question for you, Mr. Bray. Mr. Bray: Same answer. Not aware of anything outside what we
+      are doing in the UAP Task Force.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+      title: Ronald S. Moultrie
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ronald S. Moultrie and Scott W. Bray
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+        title: Ronald S. Moultrie
+        slug: ronald-s-moultrie
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+        title: Scott W. Bray
+        slug: scott-w-bray
+      - node_id: cd8f30e6-7a36-4970-b146-1da4271075d3
+        title: Mike Gallagher
+        slug: mike-gallagher
+      - node_id: e075c573-8ae3-4bc0-9125-d4b9fa3e140f
+        title: 2022-05-17 US Congress public hearing on UAPs
+        slug: 2022-05-17-us-congress-public-hearing-on-uaps
+    date: '2022-05-17'
+    date_end: null
+    location_in_record: ch30:23527-24000
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 379078ba-e6ac-4dd7-8100-6b6f37dbd619
+    claim_hash: 3b3ac27809a89b25eb61c83541c07091c38f931c4e97d99970ccf315a9ff03f0
+    content: In August 2020, the Pentagon resurrected the Advanced Aerospace Threat Identification Program (AATIP), renaming
+      it the UAP Task Force.
+    original_excerpt: This past August, the Pentagon resurrected AATIP. It's now called the UAP Task Force.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: 2020-08
+    date_end: null
+    location_in_record: 00:12:09.2-00:12:14.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+      record_title: Navy pilots describe encounters with UFOs
+      record_date: '2021-05-17'
+      record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+      content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
+      friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
+  - claim_id: 557c7e35-a375-4054-9698-33c8f479b064
+    claim_hash: 372557f67244daea6ccbcef600f7556389080d3ad5d074031fc51f299d80c0a1
+    content: U.S. service members are now encouraged to report strange aerial encounters to the UAP Task Force.
+    original_excerpt: Service members now are encouraged to report strange encounters.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+    date: null
+    date_end: null
+    location_in_record: 00:12:15.6-00:12:19.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+      record_title: Navy pilots describe encounters with UFOs
+      record_date: '2021-05-17'
+      record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+      content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
+      friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
+  - claim_id: b8f5797b-b025-41ec-88c0-6d7b33671345
+    claim_hash: 672347496277ef25793a46b8431a0e806c73171e9202fd603587abd3c70d1d32
+    content: In May 2022, Charles McCullough III filed a Disclosure of Urgent Concern(s); Complaint of Reprisal on behalf
+      of David Charles Grusch with the Office of the Inspector General of the Intelligence Community about detailed information
+      Grusch had gathered beginning in 2019 while working for the Unidentified Aerial Phenomena Task Force.
+    original_excerpt: In May 2022, McCullough filed a Disclosure of Urgent Concern(s); Complaint of Reprisal on behalf of
+      Grusch with the ICIG about detailed information that Grusch had gathered beginning in 2019 while working for the UAP
+      Task Force.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+        title: Inspector General of the Intelligence Community
+        slug: inspector-general-of-the-intelligence-community
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: dea6fa7c-2ed1-4328-aac1-6b8e077f00b1
+        title: Charles McCullough III
+        slug: charles-mccullough-iii
+    date: 2022-05
+    date_end: null
+    location_in_record: char:11134-11356
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 6d18c064-8cd7-49a5-a49d-3818b03a0da2
+    claim_hash: b3760c9de492dc9302c2dcf54dfe366c68e7103ed784454e4c863b336dde6453
+    content: David Charles Grusch served as the National Reconnaissance Office's representative to the Unidentified Aerial
+      Phenomena Task Force from 2019 to 2021.
+    original_excerpt: He served as the reconnaissance office’s representative to the Unidentified Aerial Phenomena Task Force
+      from 2019-2021.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: '2019'
+    date_end: null
+    location_in_record: char:1164-1278
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 25e2465b-f5e8-41b9-a166-8d71aeff6276
+    claim_hash: 9b22f000e2cf252c0c9670c5bd721389e8d49853a317a0e1b503b1cdd40115a8
+    content: From late 2021 to July 2022, David Charles Grusch was the National Geospatial-Intelligence Agency's co-lead for
+      Unidentified Aerial Phenomena (UAP) analysis and its representative to the Unidentified Aerial Phenomena Task Force.
+    original_excerpt: From late 2021 to July 2022, he was the NGA’s co-lead for UAP analysis and its representative to the
+      task force.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+        title: National Geospatial-Intelligence Agency (NGA)
+        slug: national-geospatial-intelligence-agency-nga
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:1284-1390
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: fb3e4262-3744-49c6-9f89-fee921b5cb90
+    claim_hash: 2e9dc0eb3ddb518d7691082a161fa6d8df7dc19f6315628699147dd8880a4d90
+    content: The Unidentified Aerial Phenomena Task Force was established to investigate objects once called unidentified
+      flying objects (UFOs) and now officially called unidentified anomalous phenomena, or UAP.
+    original_excerpt: The task force was established to investigate what were once called “unidentified flying objects,” or
+      UFOs, and are now officially called “unidentified anomalous phenomena,” or UAP.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: char:1541-1718
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
+    claim_hash: abdd079a757157b15ee562b48b856bf304b40b4b7b1646e3a45550fe70872a97
+    content: The Unidentified Aerial Phenomena Task Force was led by the Department of the Navy under the Office of the Under
+      Secretary of Defense for Intelligence and Security.
+    original_excerpt: The task force was led by the Department of the Navy under the Office of the Under Secretary of Defense
+      for Intelligence and Security.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
+        title: United States Department of the Navy
+        slug: united-states-department-of-the-navy
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: char:1723-1848
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: aa66c486-2ae7-4966-adee-1d2a5a33b229
+    claim_hash: f73d161f78415fdb4d01fbd5dcddd8a24da3ac81b100b0d952e0311dadd3d4cd
+    content: The Unidentified Aerial Phenomena Task Force has since been reorganised and expanded into the All-Domain Anomaly
+      Resolution Office to include investigations of objects operating underwater.
+    original_excerpt: It has since been reorganized and expanded into the All-Domain Anomaly Resolution Office to include
+      investigations of objects operating underwater.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:1858-1994
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 42eb3f4a-2e73-42ea-b624-5474223256e1
+    claim_hash: 1d4321c2f70537be1c770a13912848ab0ff6a22d0ebe87421c85b62b9a96099a
+    content: Karl E. Nell is a recently retired Army Colonel and current aerospace executive who was the United States Army's
+      liaison for the Unidentified Aerial Phenomena Task Force from 2021 to 2022 and worked with David Charles Grusch there.
+    original_excerpt: Karl E. Nell, a recently retired Army Colonel and current aerospace executive who was the Army’s liaison
+      for the UAP Task Force from 2021 to 2022 and worked with Grusch there
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: e8254481-2ee6-4d24-861d-4aaa5f258693
+        title: Karl E. Nell
+        slug: karl-e-nell
+    date: null
+    date_end: null
+    location_in_record: char:3860-4029
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 9ca636fc-22a1-4537-a5c8-e778812c130d
+    claim_hash: 82f631ac98f2fc92bdf03bf63da60ab36265c35a5c2d9654a7dd08d4231efe62
+    content: David Grusch helped author the Unidentified Anomalous Phenomena Task Force's 2019 Security Classification Guide.
+    original_excerpt: Yes, I am familiar with the UAP Task Force 2019 Security Classification guide. I think it is fair. I
+      did actually help author that with the Director.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:104962-105102
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 2c8762a0-57c6-48f4-a3e0-a8ea5d3b36e2
+    claim_hash: 8f9e28f03d3baf8d9dc4bb812186bdec4d0b857d1c9b47d3888cedee8ce7afdb
+    content: David Grusch testified at the 2023-07-26 House hearing on Unidentified Anomalous Phenomena, identified as a Former
+      National Reconnaissance Office Representative to the Unidentified Anomalous Phenomena Task Force at the Department of
+      Defense.
+    original_excerpt: Mr. David Grusch, Former National Reconnaissance Office Representative, Unidentified Aerial Phenomena
+      Task Force, Department of Defense, Oral Statement
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: the printed hearing volume
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+        title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+        slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: '2023-07-26'
+    date_end: null
+    location_in_record: char:3355-3496
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: c90b0e17-1e52-4e0f-aa60-927b537972d3
+    claim_hash: c5fc7c2af85e4dbe63a03aaf429110469afe2215ebb4424923af10e906b8d1e6
+    content: David Grusch was his agency's co-lead in unidentified anomalous phenomena and trans-medium object analysis, reporting
+      to the Unidentified Anomalous Phenomena Task Force and eventually to the All-Domain Anomaly Resolution Office.
+    original_excerpt: I was my agency's co-lead in unidentified anomalous phenomena and trans medium object analysis as well
+      as reporting to the UAP Task Force—UAPTF—and eventually, once it was established, the All-Domain Anomaly Resolution
+      Office—AARO.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:36599-36825
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: bdef50bb-774f-482d-b545-50ee47d5eab6
+    claim_hash: 594826e63027ba1f1fb62bd3194c9b976bc7d53230e9473866a852d2dd098278
+    content: David Grusch spent 4 years while with the Unidentified Anomalous Phenomena Task Force taking steps to corroborate
+      the evidence given to him and to vet the individuals who shared it.
+    original_excerpt: I have taken every step I can to corroborate this evidence over a period of 4 years while I was with
+      the UAP Task Force and do my due diligence on the individuals sharing it.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:37573-37744
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: a5c7c13d-cbcc-489c-8ac7-60f1a353bde9
+    claim_hash: 58725a337a845911bd2a5d4e3bee1284a1536e9d1e39e02c6fd151599c85cf20
+    content: David Grusch was a member of the Unidentified Anomalous Phenomena Task Force from 2019 to 2021 in a National
+      Reconnaissance Office reservist capacity within the United States Air Force.
+    original_excerpt: In the U.S. Air Force in my National Reconnaissance Office—NRO—reservist capacity, I was a member of
+      the UAP Task Force from 2019 to 2021.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: '2019-01-01'
+    date_end: null
+    location_in_record: char:38214-38347
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: e777450f-6f8c-4117-858f-257d1d69fedc
+    claim_hash: 7a5b32545628405b1e20f46a356e7f007d9ec7e06ba1ab0b277345b9ed7cc0e4
+    content: In 2019 the Unidentified Anomalous Phenomena Task Force Director asked David Grusch to identify all special access
+      programs and controlled access programs needed to satisfy the task force's congressionally mandated mission, reporting
+      directly to the Deputy Secretary of Defense.
+    original_excerpt: In 2019, the UAP Task Force Director asked me to identify all special access programs and controlled
+      access programs, also known as SAPs and CAPs, we needed to satisfy our congressionally mandated mission and we would
+      direct report at the time to the DEP/SecDef.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: '2019-01-01'
+    date_end: null
+    location_in_record: char:38603-38858
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 2f97144c-bde9-4334-8cbe-51f3d40bd568
+    claim_hash: c0805d2c816c3aee3716b2451f04676128b1aa1b32d379bc7bbf93c8ae097d6f
+    content: David Grusch sat on the Unidentified Anomalous Phenomena Task Force (UAPTF) created by the 2020 National Defense
+      Authorization Act (NDAA).
+    original_excerpt: Mr. Grusch, you sat on the unidentified anomalous phenomenon task force created in the 2020 NDAA, correct?
+      Mr. GRUSCH. Yes.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 88d7d7ee-f47f-4ed3-9f16-54aa64012e97
+        title: National Defense Authorization Act of 2020 (NDAA )
+        slug: national-defense-authorization-act-of-2020-ndaa
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:96376-96496
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: cc27e93e-f606-49df-8e50-bb078b808ffc
+    claim_hash: 6516480a3beceb543557fb272596adc900bf8ed7a4e17e666e9fd011c14359e2
+    content: The Legacy Program and its associates managed to block funding that the United States Congress had appropriated
+      to the Pentagon's UAP Task Force.
+    original_excerpt: the powers that be, took their pushback to the next level and somehow managed to block the funding that
+      had been appropriated to the UAP Task Force by Congress
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+    date: null
+    date_end: null
+    location_in_record: ch31:26232-26383
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: dd5cb2d1-6c31-42f7-8bf5-bb2f45b21b0c
+    claim_hash: a8bc0b8c76b69ea9844825664c9375d12cfcce2700b7683f315c471ae77a2647
+    content: The Office of the Undersecretary of Defense for Intelligence (OUSD(I)) is the same organisation that had previously
+      underplayed and tried to kill the Advanced Aerospace Threat Identification Program (AATIP) and then the Pentagon's UAP
+      Task Force.
+    original_excerpt: My old office, the OUSD(I), was precisely the same organization that had underplayed and tried to kill
+      AATIP and then the UAP Task Force.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: ch31:27632-27763
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
+    claim_hash: a2d34bbdb723c11f92ba89c58c83dbc422f21683b2cbd320b7731967e08874c6
+    content: The interagency task force that Jay Stratton built went on to become the Pentagon's UAP Task Force.
+    original_excerpt: Once it was put together, this would go on to became the Pentagon’s UAP Task Force.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+    date: null
+    date_end: null
+    location_in_record: ch31:5154-5231
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: ed75974a-7452-4db7-be4e-a3d5160b9b43
+    claim_hash: 2328450977a222f5ca395619e318edacec19a84f8bd05aedab8e757b3c717bf1
+    content: Luis Elizondo started working as a contractor for the United States Space Force (USSF) to help build their UAP
+      effort and support Jay Stratton's UAP Task Force.
+    original_excerpt: Soon after that, I started working as a contractor for USSF on the UAP front and getting their unofficial
+      help behind the scenes on my public efforts while also contributing to Jay’s UAP Task Force.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: f2a10ed1-543e-4df4-8e98-f45964a6a1af
+        title: United States Space Force (USSF)
+        slug: united-states-space-force-ussf
+    date: null
+    date_end: null
+    location_in_record: ch31:5830-6022
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1b20909d-0e9b-4d62-9c61-a1016fd748f9
+    claim_hash: 9dfa7393feb95f67a95c47bbf9bbf19732242d8a669719733e9fb205d396a4fd
+    content: After a couple of years of Jay Stratton quietly building the task force, the United States Secretary of Defense
+      announced the Pentagon's UAP Task Force and named Jay Stratton as its first director.
+    original_excerpt: After a couple of years of Jay quietly building the UAP Task Force behind the scenes, the secretary
+      of defense announced the UAP Task Force and named Jay as its first director.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+    date: null
+    date_end: null
+    location_in_record: ch31:6057-6224
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
+    claim_hash: 99e18a5b8c4453a4b8e576db90f0d00daea85bebbfada1206109bbb2eea94c23
+    content: From the moment the Pentagon's UAP Task Force became official, the Legacy Program started quietly pushing back
+      on Jay Stratton and the task force, creating bureaucratic hurdles.
+    original_excerpt: From the moment the UAP Task Force became official, the Legacy Program started quietly pushing back
+      on Jay, behind the scenes, creating one bureaucratic hurdle after another for him, the task force, and everyone involved.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+    date: null
+    date_end: null
+    location_in_record: ch31:6381-6592
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 5e7f6b2e-f541-46c8-854a-d7294742aef6
+    claim_hash: 5250592fbe31f89b5c8f3ebc9f58215ec596a5c573e30c3de7d0c1f965a03414
+    content: David Grusch helped contribute to the Pentagon's UAP Task Force.
+    original_excerpt: helped contribute to the UAP Task Force as well
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: ch32:1025-1068
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 87ccdf24-ffeb-46c1-a562-208927df7e38
+    claim_hash: 916a599e40952b14b644986918354f9a7049e5f16007ed95bc39eea6b2e8036c
+    content: The Pentagon's UAP Task Force was refused access to a broad crash retrieval programme that retrieved nonhuman-origin
+      technical vehicles that had either landed or crashed.
+    original_excerpt: The UAP Task Force was refused access to a broad crash retrieval program, retrieving nonhuman origin
+      technical vehicles, you know, call it spacecraft, if you will, nonhuman exotic origin vehicles that have either landed
+      or crashed
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+        title: nonhuman intelligence (NHI)
+        slug: nonhuman-intelligence-nhi
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+    date: null
+    date_end: null
+    location_in_record: ch32:1290-1513
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b61036ef-78da-4966-9953-d63cb1cd578d
+    claim_hash: eeb945be75b222ab891cf538ecf45c10478cd8cc1d5a0a61f5fc3c2e93e9668d
+    content: David Grusch was the representative of the National Reconnaissance Office (NRO) and National Geospatial-Intelligence
+      Agency (NGA) on the Pentagon's UAP Task Force.
+    original_excerpt: He was those agencies' rep on the UAP Task Force
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+        title: National Geospatial-Intelligence Agency (NGA)
+        slug: national-geospatial-intelligence-agency-nga
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: ch32:931-974
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 0ea18651-8df3-4a40-9448-c475da9f5895
+    claim_hash: 97847dd0e72d7b4cd6eba542d5c00ad5c78f499a2314d27f89d056a697cd8c85
+    content: In August 2020, the United States Department of Defense (DoD) established a UAP Task Force (UAPTF) to develop
+      standardised reporting requirements for Unidentified Anomalous Phenomena (UAP) encounters.
+    original_excerpt: In response to Congress' concerns, in August 2020 the DoD established a UAP Task Force (UAPTF) to develop
+      standardized reporting requirements for UAP encounters.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: 2020-08
+    date_end: null
+    location_in_record: char:6264-6414
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+      record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
+        Anomalous Phenomena," August 15, 2023
+      record_date: '2024-01-24'
+      record_reference: null
+      content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+      friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+  - claim_id: c5d55aee-7a8a-4c75-9e53-c966c559a644
+    claim_hash: a604dcd7ca69e7e84406fa77aad636481077fe8e2b46cd3bb6fdb0c253626253
+    content: In June 2021, the UAP Task Force (UAPTF) and the Office of the Director of National Intelligence (ODNI) issued
+      the congressionally mandated Preliminary Assessment on Unidentified Aerial Phenomena.
+    original_excerpt: In June 2021, the UAPTF and the Office of the Director of National Intelligence issued the congressionally
+      mandated Preliminary Assessment on UAP, which stated that UAP reporting data are largely inconclusive, as well as a
+      consolidation of reports across the U.S. Government is inconsistent.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: 2021-06
+    date_end: null
+    location_in_record: char:6426-6704
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+      record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
+        Anomalous Phenomena," August 15, 2023
+      record_date: '2024-01-24'
+      record_reference: null
+      content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+      friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+  - claim_id: 5907e811-5c8e-4c40-9ebd-4cc1be5f95aa
+    claim_hash: 732308c670e9bf8569425f20309905d9f589c425c6e773821ceb7fd734e8341b
+    content: In a November 2021 memorandum, the Office of the Under Secretary of Defense for Intelligence and Security (OUSD(I&S))
+      was directed to establish the Airborne Object Identification and Management Synchronization Group (AOIMSG) as the successor
+      to the UAP Task Force (UAPTF) to synchronise efforts across the United States Department of Defense (DoD) and with other
+      Federal departments and agencies to detect, identify, and characterise objects of interest in special use airspace.
+    original_excerpt: In a November 2021 memorandum, the Deputy Secretary of Defense directed the OUSD(I&S) to establish the
+      Airborne Object Identification and Management Synchronization Group (AOIMSG) as the successor to the UAPTF to synchronize
+      efforts across the DoD and with other Federal departments and agencies to detect, identify, and characterize objects
+      of interest in special use airspace.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 6b599e03-9c50-4357-a70e-05626c46f264
+        title: Airborne Object Identification and Management Synchronization Group (AOIMSG)
+        slug: airborne-object-identification-and-management-synchronization-group-aoimsg
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: 2021-11
+    date_end: null
+    location_in_record: char:6946-7315
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+      record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
+        Anomalous Phenomena," August 15, 2023
+      record_date: '2024-01-24'
+      record_reference: null
+      content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+      friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+  - claim_id: d81d92c7-b50c-4425-92eb-be9d94981ae3
+    claim_hash: 97a36c0e9aff8a17b3f006692a9d8fa89d7720d9737b2b776560f71863f4f3ee
+    content: David L. Norquist, as Deputy Secretary of Defense, approved the establishment of the Unidentified Aerial Phenomena
+      Task Force (UAPTF) in 2020-08.
+    original_excerpt: Deputy Secretary of Defense David L. Norquist approved the establishment of the UAPTF in August 2020.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Department of Defense press release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 957fcca1-cb97-4cc5-b16d-4e90bd11d5c6
+        title: David L. Norquist
+        slug: david-l-norquist
+    date: 2020-08
+    date_end: null
+    location_in_record: char:64123-64219
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 9d4cb255-01b9-4cf5-8513-793eb12b53e1
+    claim_hash: 08b05f97e09c197f53062c63b78cb1d4997d86fb8f933e4350f49cf702723447
+    content: Under the cognisance of the Office of the Under Secretary of Defense for Intelligence and Security (USD(I&S)),
+      the Department of the Navy was asked to lead the Unidentified Aerial Phenomena Task Force (UAPTF).
+    original_excerpt: Under the cognizance of the Office of the Under Secretary of Defense for Intelligence and Security (USD(I&S)),
+      the Department of the Navy was asked to lead the task force.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Department of Defense press release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
+        title: United States Department of the Navy
+        slug: united-states-department-of-the-navy
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: char:64225-64390
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: d498a840-1ca2-47a4-85fa-cdf6f2c5175d
+    claim_hash: 440248190963cc38b05e3f1eadb0929fdca8c78a5c90e1bbef7ae7cadf597102
+    content: The Unidentified Aerial Phenomena Task Force (UAPTF) was established to improve understanding of, and gain insight
+      into, the nature and origins of UAP.
+    original_excerpt: It was established to improve understanding of, and gain insight into, the nature and origins of UAP.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Department of Defense press release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+    date: null
+    date_end: null
+    location_in_record: char:64397-64494
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 12cabeea-5319-458d-a281-825af6a9d67b
+    claim_hash: 4ce1d31e7890f3cae29220416f072732e20754e681bd9c91f368c18d7983322f
+    content: The Unidentified Aerial Phenomena Task Force's (UAPTF) mission was to detect, analyse, and catalogue UAP that
+      could potentially pose a threat to United States national security.
+    original_excerpt: The task force's mission was to detect, analyze, and catalog UAP that could potentially pose a threat
+      to U.S. national security.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Department of Defense press release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+    date: null
+    date_end: null
+    location_in_record: char:64499-64618
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 9accd6d1-41b0-47d0-859b-164aa5f4f952
+    claim_hash: ce4d1d8dbf2519715036b1db8983027d211fb12a7649bbe30dd50efff67345db
+    content: The Unidentified Aerial Phenomena Task Force (UAPTF) helped standardise, destigmatise, and increase the volume
+      of UAP reporting.
+    original_excerpt: The UAPTF helped standardize, destigmatize, and increase the volume of UAP reporting.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: All-Domain Anomaly Resolution Office (AARO) discussions with UAPTF leadership
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+    date: null
+    date_end: null
+    location_in_record: char:64788-64863
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 78e0cf87-de92-4da5-9dec-ef4f8deac16c
+    claim_hash: 2641baab3c2cbeb87e1fe3e2d5cfdcd575d19773692451204c206afa2baeb02c
+    content: The Unidentified Aerial Phenomena Task Force's (UAPTF) work helped calibrate sensors to improve the quality of
+      UAP data collected.
+    original_excerpt: Its work also helped calibrate sensors to improve the quality of data collected.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: All-Domain Anomaly Resolution Office (AARO) discussions with UAPTF leadership
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+    date: null
+    date_end: null
+    location_in_record: char:64874-64944
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 117b0a79-31dd-4820-bd1e-66b4dc96f27d
+    claim_hash: fc661c72e61116011ee07e461c50c0194bf7dc4ebeac83a83c2c075370a4f841
+    content: The Unidentified Aerial Phenomena Task Force's (UAPTF) methods and processes directly led to the identification
+      of the People's Republic of China's high-altitude balloons that traversed the continental United States.
+    original_excerpt: Its methods and processes directly led to the identification of the People's Republic of China's (PRC)
+      high altitude balloons that traversed over the continental United States.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: All-Domain Anomaly Resolution Office (AARO) discussions with UAPTF leadership
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+    date: null
+    date_end: null
+    location_in_record: char:64955-65124
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 88f21ca9-0b1e-4f7f-a587-95a20c388204
+    claim_hash: 694c6e5b5a8fb8cd9611c6a93730c429e3eb14260669bd1cb4e11d687f0284de
+    content: Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, directed the Office
+      of the Director of National Intelligence (ODNI), in consultation with the Secretary of Defense, to submit an intelligence
+      assessment of the threat posed by UAP and to report on the progress the Unidentified Aerial Phenomena Task Force (UAPTF)
+      had made in understanding this threat.
+    original_excerpt: Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, directed
+      the Office of the Director of National Intelligence (ODNI) in consultation with the Secretary of Defense to submit an
+      intelligence assessment of the threat posed by UAP and to report on the progress the UAPTF had made in understanding
+      this threat.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Senate Report 116-233
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02e24822-765a-4ee4-bed8-a005c2713f66
+        title: Intelligence Authorization Act for Fiscal Year 2021
+        slug: intelligence-authorization-act-for-fiscal-year-2021
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 6606efec-699d-49cf-a109-c439cebf5471
+        title: Senate Report 116-233
+        slug: senate-report-116-233
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:65262-65604
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 71d963fc-908f-4c3e-bc86-537e69954eb9
+    claim_hash: a54df28c15971d1f511d55706b93ab0f2de462a4551fdca914e405b0096c2466
+    content: The Deputy Secretary of Defense, in consultation with the Director of National Intelligence, directed the Office
+      of the Under Secretary of Defense for Intelligence and Security (USD(I&S)) to establish the Airborne Object Identification
+      and Management Synchronization Group (AOIMSG) to succeed the United States Navy's Unidentified Aerial Phenomena Task
+      Force (UAPTF).
+    original_excerpt: The Deputy Secretary of Defense, in consultation with the Director of National Intelligence (DNI), directed
+      USD(I&S) to establish AOIMSG to succeed the USN's UAPTF.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Department of Defense press release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 6b599e03-9c50-4357-a70e-05626c46f264
+        title: Airborne Object Identification and Management Synchronization Group (AOIMSG)
+        slug: airborne-object-identification-and-management-synchronization-group-aoimsg
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: 2021-11
+    date_end: null
+    location_in_record: char:66957-67115
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 2ec50b70-65d7-4f7c-8f35-cf05fbd0beb3
+    claim_hash: 2caa26f698176ae38e83ac9adb5f91a0461a062945dead80eae0f2f07014d66c
+    content: From 2019 to 2021, David Grusch officially represented the National Reconnaissance Office (NRO) on the Unidentified
+      Anomalous Phenomena Task Force (UAP Task Force).
+    original_excerpt: from 2019-2021 officially represented the NRO on the UAP Task Force
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: '2019-01-01'
+    date_end: null
+    location_in_record: char:1304-1366
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
+      record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special Advisor
+      record_date: '2025-03-27'
+      record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
+      content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
+      friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
+  - claim_id: eded00bc-01d6-498a-9844-0a8ae9701ef8
+    claim_hash: c34acf1b077356cf084eee195f14eabb1b4e67a583db190c59219c5c6e745d15
+    content: Jay Stratton was in charge of the UAP Task Force for approximately 16 years.
+    original_excerpt: the best opportunity you might have would be to go to somebody like Jay Stratton who was in charge of
+      the UAP task force for like 16 years
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+      title: Harold E. Puthoff
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hal Puthoff
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+    date: null
+    date_end: null
+    location_in_record: 00:28:29.0-00:28:37.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 0c5369f6-0d28-42a5-914d-2a45e63bb116
+    claim_hash: 53b46a8d992d5768314a7ea18d6c647f11e9155da9aa6e209311688a3e357236
+    content: Jay Stratton, while leading the UAP Task Force, encountered gatekeepers who controlled access to the legacy program.
+    original_excerpt: he ran into the, quote, gatekeepers for the legacy program.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+      title: Harold E. Puthoff
+    provenance_chain:
+      origin_kind: named
+      origin: Jay Stratton
+      relay:
+        - Hal Puthoff
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+    date: null
+    date_end: null
+    location_in_record: 00:28:44.8-00:28:48.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: f781af18-46b8-4c78-9afb-dd89541804bd
+    claim_hash: 734a6275ae4c83ed39d0d6980cecad55e30158c01f4d0e778e88a28e2ed417e3
+    content: Jay Stratton, as head of the UAP Task Force, involved around 16 different defense contractors and intelligence
+      units in an effort to move UAP investigation forward beyond the legacy program, but the effort was not successful.
+    original_excerpt: he got all... kinds of different defense contractors and intelligence units, all 16 or whatever, involved
+      in trying to move the program forward beyond what the legacy program was doing, and they were not successful.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+      title: Harold E. Puthoff
+    provenance_chain:
+      origin_kind: named
+      origin: Jay Stratton
+      relay:
+        - Hal Puthoff
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+    date: null
+    date_end: null
+    location_in_record: 00:36:18.1-00:36:34.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null

@@ -9,311 +9,321 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2131
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
 related_nodes:
-- node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
-  title: Stanford Research Institute (SRI)
-  node_type: organisation
-  slug: stanford-research-institute-sri
-  shared_claims: 2
-- node_id: 58a7173c-9550-4fcf-a27f-be9fe2e853f7
-  title: California Institute of Transpersonal Psychology
-  node_type: organisation
-  slug: california-institute-of-transpersonal-psychology
-  shared_claims: 1
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 1
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 1
-- node_id: 188ebae3-8810-4ebf-afb6-2fe855913cb6
-  title: Order of Melchizedek
-  node_type: organisation
-  slug: order-of-melchizedek
-  shared_claims: 1
-- node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
-  title: Project STARGATE
-  node_type: project
-  slug: project-stargate
-  shared_claims: 1
-- node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-  title: SRI International
-  node_type: organisation
-  slug: sri-international
-  shared_claims: 1
-- node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
-  title: USA, Maryland, Fort Meade
-  node_type: place
-  slug: maryland-fort-meade-usa
-  shared_claims: 1
-- node_id: 2a6cacf2-a5f5-4d86-93b5-3a97e7513ca4
-  title: Zalman Schachter
-  node_type: person
-  slug: zalman-schachter
-  shared_claims: 1
-claims:
-- claim_id: db29471c-cd40-4077-840a-6bc75887bcc8
-  claim_hash: 64b24367c4004e7ddf2a18effa2b70f24d9433573843319e844d8d09b7d10c8d
-  content: The California Institute of Transpersonal Psychology, based in Menlo Park,
-    California, published a newsletter announcing that eleven second-year students
-    were initiated into the Order of Melchizedek under the inspiration of Zalman Schachter.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: California Institute of Transpersonal Psychology newsletter
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 188ebae3-8810-4ebf-afb6-2fe855913cb6
-    title: Order of Melchizedek
-    slug: order-of-melchizedek
-  - node_id: 2a6cacf2-a5f5-4d86-93b5-3a97e7513ca4
-    title: Zalman Schachter
-    slug: zalman-schachter
-  - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
-    title: USA, California, Menlo Park
-    slug: california-menlo-park-usa
+  - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+    title: Stanford Research Institute (SRI)
+    node_type: organisation
+    slug: stanford-research-institute-sri
+    shared_claims: 2
   - node_id: 58a7173c-9550-4fcf-a27f-be9fe2e853f7
     title: California Institute of Transpersonal Psychology
+    node_type: organisation
     slug: california-institute-of-transpersonal-psychology
-  date: null
-  date_end: null
-  location_in_record: ch11:25831-26009
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: c146690e-eb59-466d-be50-7288a151b081
-  claim_hash: c1efcfef8789c3cfa9a145ff4f9b4198f355c528a56dc0601c3cfca8bcbba3d4
-  content: Jacques Vallee's contact observed an unusual object rise from a depression
-    near the Stanford linear accelerator west of Menlo Park, California one evening
-    in February 1972.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: an unnamed male witness
-    relay:
-    - told to Jacques Vallee
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
-    title: Stanford Research Institute (SRI)
-    slug: stanford-research-institute-sri
-  - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
-    title: USA, California, Menlo Park
-    slug: california-menlo-park-usa
-  date: 1972-02
-  date_end: null
-  location_in_record: ch9:7751-7841
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 9af68d51-bbef-476b-bc85-b22f39cd6d57
-  claim_hash: 3a42fb199b9a6cf0354ec565f9afb3e26afe78451569acddcb9f42503a7e41c3
-  content: An unnamed witness near Menlo Park, California reported that the UFO he
-    observed in February 1972 made a humming sound before it came into view.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: an unnamed male witness
-    relay:
-    - told to Jacques Vallee
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
-    title: USA, California, Menlo Park
-    slug: california-menlo-park-usa
-  date: 1972-02
-  date_end: null
-  location_in_record: ch9:7848-8022
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: a9595553-752f-4d5a-ab74-91b192931d8b
-  claim_hash: 01f1cee000af7c8b03e5a41487841657f3018c27878162d8e46bb06ca0a0c8e9
-  content: The witness near Menlo Park, California described the object he saw in
-    February 1972 as glowing red, flying in a straight line up and down a hill, then
-    rising very high and very fast overhead.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: an unnamed male witness
-    relay:
-    - told to Jacques Vallee
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
-    title: USA, California, Menlo Park
-    slug: california-menlo-park-usa
-  date: 1972-02
-  date_end: null
-  location_in_record: ch9:8182-8473
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 95d91d99-f5fe-4aee-a964-9dbd0c397e10
-  claim_hash: 29935505fae8b4eb660b46c110e487d49289bc4d368ffa204c4945d952a1a76f
-  content: Jacques Vallee worked with scientists affiliated with the Stanford Research
-    Institute, now SRI International, an independent nonprofit research institute
-    in Menlo Park.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
-    title: USA, California, Menlo Park
-    slug: california-menlo-park-usa
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: char:2017-2169
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: d37c3643-5c69-4a19-8ba7-d255bcbf15ec
-  claim_hash: c64a23f7ebb39c583ec0ea8039ea721643b1787d580003e9cb0b9efc21fe7e5a
-  content: Project Stargate began as a highly classified project in a research lab
-    in California in the 1970s before moving to a Maryland army base.
-  original_excerpt: they initiated a highly classified project that began in a research
-    lab in California in the 70s before moving to a Maryland army base
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
-    title: USA, California, Menlo Park
-    slug: california-menlo-park-usa
-  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
-    title: Project STARGATE
-    slug: project-stargate
-  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
-    title: USA, Maryland, Fort Meade
-    slug: maryland-fort-meade-usa
-  date: null
-  date_end: null
-  location_in_record: 00:02:54.5-00:03:01.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
-- claim_id: b01ab687-c383-4643-a06e-e08c420cad48
-  claim_hash: 1b9885afc9595c5b39ba379fe8bcb454287f9d718276c02b76feb1fd35f94932
-  content: In response to Soviet spending on psychic phenomena, the Central Intelligence
-    Agency (CIA) began funding its own research in secret at the Stanford Research
-    Institute (SRI) in Menlo Park, California.
-  original_excerpt: In response, the CIA began to fund their own research in secret
-    at the Stanford Research Institute, SRI, in Menlo Park, California.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
-    title: Stanford Research Institute (SRI)
-    slug: stanford-research-institute-sri
+    shared_claims: 1
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
+    node_type: organisation
     slug: central-intelligence-agency-cia
-  - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
-    title: USA, California, Menlo Park
-    slug: california-menlo-park-usa
-  date: null
-  date_end: null
-  location_in_record: 00:03:22.9-00:03:30.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: 188ebae3-8810-4ebf-afb6-2fe855913cb6
+    title: Order of Melchizedek
+    node_type: organisation
+    slug: order-of-melchizedek
+    shared_claims: 1
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    node_type: project
+    slug: project-stargate
+    shared_claims: 1
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    node_type: organisation
+    slug: sri-international
+    shared_claims: 1
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    node_type: place
+    slug: maryland-fort-meade-usa
+    shared_claims: 1
+  - node_id: 2a6cacf2-a5f5-4d86-93b5-3a97e7513ca4
+    title: Zalman Schachter
+    node_type: person
+    slug: zalman-schachter
+    shared_claims: 1
+claims:
+  - claim_id: db29471c-cd40-4077-840a-6bc75887bcc8
+    claim_hash: 64b24367c4004e7ddf2a18effa2b70f24d9433573843319e844d8d09b7d10c8d
+    content: The California Institute of Transpersonal Psychology, based in Menlo Park, California, published a newsletter
+      announcing that eleven second-year students were initiated into the Order of Melchizedek under the inspiration of Zalman
+      Schachter.
+    original_excerpt: On the last weekend before the holidays, during our time with Zalman Schachter and with his inspiration
+      and support, eleven second-year students were initiated into the Order of Melchizedek.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: California Institute of Transpersonal Psychology newsletter
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 188ebae3-8810-4ebf-afb6-2fe855913cb6
+        title: Order of Melchizedek
+        slug: order-of-melchizedek
+      - node_id: 2a6cacf2-a5f5-4d86-93b5-3a97e7513ca4
+        title: Zalman Schachter
+        slug: zalman-schachter
+      - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
+        title: USA, California, Menlo Park
+        slug: california-menlo-park-usa
+      - node_id: 58a7173c-9550-4fcf-a27f-be9fe2e853f7
+        title: California Institute of Transpersonal Psychology
+        slug: california-institute-of-transpersonal-psychology
+    date: null
+    date_end: null
+    location_in_record: ch11:25831-26009
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: c146690e-eb59-466d-be50-7288a151b081
+    claim_hash: c1efcfef8789c3cfa9a145ff4f9b4198f355c528a56dc0601c3cfca8bcbba3d4
+    content: Jacques Vallee's contact observed an unusual object rise from a depression near the Stanford linear accelerator
+      west of Menlo Park, California one evening in February 1972.
+    original_excerpt: It is from that depression that a man saw an unusual object rise one evening in February, 1972.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed male witness
+      relay:
+        - told to Jacques Vallee
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+        title: Stanford Research Institute (SRI)
+        slug: stanford-research-institute-sri
+      - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
+        title: USA, California, Menlo Park
+        slug: california-menlo-park-usa
+    date: 1972-02
+    date_end: null
+    location_in_record: ch9:7751-7841
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 9af68d51-bbef-476b-bc85-b22f39cd6d57
+    claim_hash: 3a42fb199b9a6cf0354ec565f9afb3e26afe78451569acddcb9f42503a7e41c3
+    content: An unnamed witness near Menlo Park, California reported that the UFO he observed in February 1972 made a humming
+      sound before it came into view.
+    original_excerpt: The man was first attracted to the object by a humming sound it made...The hum became more distinct
+      as the object came into view.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed male witness
+      relay:
+        - told to Jacques Vallee
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
+        title: USA, California, Menlo Park
+        slug: california-menlo-park-usa
+    date: 1972-02
+    date_end: null
+    location_in_record: ch9:7848-8022
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: a9595553-752f-4d5a-ab74-91b192931d8b
+    claim_hash: 01f1cee000af7c8b03e5a41487841657f3018c27878162d8e46bb06ca0a0c8e9
+    content: The witness near Menlo Park, California described the object he saw in February 1972 as glowing red, flying in
+      a straight line up and down a hill, then rising very high and very fast overhead.
+    original_excerpt: It was glowing red. It flew in a straight line, up the hill...Then it flew down again and was lost from
+      sight in the valley. But not for long. It soon came back into view and this time it took off, rising very high and very
+      fast as it passed overhead.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed male witness
+      relay:
+        - told to Jacques Vallee
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
+        title: USA, California, Menlo Park
+        slug: california-menlo-park-usa
+    date: 1972-02
+    date_end: null
+    location_in_record: ch9:8182-8473
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 95d91d99-f5fe-4aee-a964-9dbd0c397e10
+    claim_hash: 29935505fae8b4eb660b46c110e487d49289bc4d368ffa204c4945d952a1a76f
+    content: Jacques Vallee worked with scientists affiliated with the Stanford Research Institute, now SRI International,
+      an independent nonprofit research institute in Menlo Park.
+    original_excerpt: He worked with scientists affiliated with the Stanford Research Institute, now SRI International, an
+      independent, nonprofit research institute in Menlo Park.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
+        title: USA, California, Menlo Park
+        slug: california-menlo-park-usa
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: char:2017-2169
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: d37c3643-5c69-4a19-8ba7-d255bcbf15ec
+    claim_hash: c64a23f7ebb39c583ec0ea8039ea721643b1787d580003e9cb0b9efc21fe7e5a
+    content: Project Stargate began as a highly classified project in a research lab in California in the 1970s before moving
+      to a Maryland army base.
+    original_excerpt: they initiated a highly classified project that began in a research lab in California in the 70s before
+      moving to a Maryland army base
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
+        title: USA, California, Menlo Park
+        slug: california-menlo-park-usa
+      - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+        title: Project STARGATE
+        slug: project-stargate
+      - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+        title: USA, Maryland, Fort Meade
+        slug: maryland-fort-meade-usa
+    date: null
+    date_end: null
+    location_in_record: 00:02:54.5-00:03:01.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: b01ab687-c383-4643-a06e-e08c420cad48
+    claim_hash: 1b9885afc9595c5b39ba379fe8bcb454287f9d718276c02b76feb1fd35f94932
+    content: In response to Soviet spending on psychic phenomena, the Central Intelligence Agency (CIA) began funding its
+      own research in secret at the Stanford Research Institute (SRI) in Menlo Park, California.
+    original_excerpt: In response, the CIA began to fund their own research in secret at the Stanford Research Institute,
+      SRI, in Menlo Park, California.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+        title: Stanford Research Institute (SRI)
+        slug: stanford-research-institute-sri
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
+        title: USA, California, Menlo Park
+        slug: california-menlo-park-usa
+    date: null
+    date_end: null
+    location_in_record: 00:03:22.9-00:03:30.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null

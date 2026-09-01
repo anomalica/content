@@ -9,631 +9,646 @@ page:
   claim_count: 15
   claim_count_total: 15
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 15
+  tokens_estimated: 4942
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 15
 related_nodes:
-- node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-  title: Laura Lynne Jackson
-  node_type: person
-  slug: laura-lynne-jackson
-  shared_claims: 6
-- node_id: 880b88e9-fc8d-4ad5-9d7f-f821fbe47418
-  title: Jeff Tarrant's brain-mapping study of Laura Lynne Jackson (2013- )
-  node_type: project
-  slug: jeff-tarrants-brain-mapping-study-of-laura-lynne-jackson-2013
-  shared_claims: 3
-- node_id: 8d09e976-8eba-4e72-b2f5-385d020289b5
-  title: '"The Mind of the Medium: The Art and Science of Psychic Mediumship" (blog
-    post by Jeff Tarrant)'
-  node_type: document
-  slug: the-mind-of-the-medium-the-art-and-science-of-psychic-mediumship-blog-post-by-jeff-tarrant
-  shared_claims: 1
-- node_id: 4fefea91-5bbb-4235-90d1-ef49e1f4f913
-  title: Damon Abraham
-  node_type: person
-  slug: damon-abraham
-  shared_claims: 1
-- node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-  title: Julia Mossbridge
-  node_type: person
-  slug: julia-mossbridge
-  shared_claims: 1
-- node_id: 66df6be3-9190-4aa9-9a1c-ef19bb90f070
-  title: Living-Agent Psi (LAP) hypothesis
-  node_type: topic
-  slug: living-agent-psi-lap-hypothesis
-  shared_claims: 1
-- node_id: 403568b8-e08f-4e03-a466-0fd6ee7b828a
-  title: Maria Welch
-  node_type: person
-  slug: maria-welch
-  shared_claims: 1
-- node_id: a5dee2be-f39a-4bdf-a6f6-509bd5010697
-  title: Natalia Mann
-  node_type: person
-  slug: natalia-mann
-  shared_claims: 1
-- node_id: 690b8d70-fbfc-42ca-94f2-4f0042982149
-  title: Polly Washburn
-  node_type: person
-  slug: polly-washburn
-  shared_claims: 1
-- node_id: 767ea3f3-ea68-4317-8234-3d1a14eb3675
-  title: University of Missouri
-  node_type: organisation
-  slug: university-of-missouri
-  shared_claims: 1
-- node_id: 333767c0-204b-4270-af47-4eb11da45cf9
-  title: brain-wave activity study of mediums
-  node_type: topic
-  slug: brain-wave-activity-study-of-mediums
-  shared_claims: 1
-- node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-  title: survival hypothesis
-  node_type: topic
-  slug: survival-hypothesis
-  shared_claims: 1
-claims:
-- claim_id: f90ae4f6-ab21-4f27-8b90-e17f5d039ce5
-  claim_hash: 1f6530176a4cb178f1584c885fbeadbd32193efca8ccb67980030e95370e123e
-  content: 'The Windbridge Institute EEG study of six mediums monitored the mediums''
-    brain activity using electroencephalography (EEG) during four tasks: recollection
-    (thinking about a living person known to the medium), perception (listening to
-    information read about a person), fabrication (making up a fictitious person and
-    thinking about them), and communication (communicating with a deceased person
-    known to the medium).'
-  original_excerpt: null
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jeff Tarrant
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4de8bc91-d365-46ad-a965-5e4e097c3d4d
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 693acdd5-6e23-41d6-9ff7-adcda3ef160e
-    title: Windbridge Institute electroencephalography (EEG) study of six mediums
-    slug: windbridge-institute-electroencephalography-eeg-study-of-six-mediums
-  - node_id: ed31a19b-d67d-45ad-84cc-e3cb4184fa20
-    title: Windbridge Institute
-    slug: windbridge-institute
-  date: null
-  date_end: null
-  location_in_record: ch25:20617-21031
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 530838b9-fe20-43af-87e5-ebb3678c3696
-  claim_hash: 9db939c5da49f13156c06a9d5646222eb263e1b9c7442c4cce22c5600e13bb66
-  content: The Windbridge Institute EEG study of six mediums concluded that the experience
-    of communicating with the deceased may be a distinct mental state that is not
-    consistent with brain activity during ordinary thinking or imagination.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jeff Tarrant
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 693acdd5-6e23-41d6-9ff7-adcda3ef160e
-    title: Windbridge Institute electroencephalography (EEG) study of six mediums
-    slug: windbridge-institute-electroencephalography-eeg-study-of-six-mediums
-  - node_id: ed31a19b-d67d-45ad-84cc-e3cb4184fa20
-    title: Windbridge Institute
-    slug: windbridge-institute
-  date: null
-  date_end: null
-  location_in_record: ch25:21038-21209
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: f31fbe7c-4ddc-4612-a162-cfa1e1a88fad
-  claim_hash: a99ab35a07966bce3c7385aeed07a705280295bfda44732924b4d2f9042acdc2
-  content: Jeff Tarrant holds a PhD in Counseling Psychology.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Jeff Tarrant's website
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-    slug: jeff-tarrant
-  date: null
-  date_end: null
-  location_in_record: ch26:10973-11010
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: c65a31e7-1c3c-432c-95c9-da503baa324f
-  claim_hash: 7b6372f137e478c7edc971047d260a97e23cb00f9ec202c5aa34955af05c0675
-  content: Jeff Tarrant has a PhD in Counseling Psychology and is an adjunct professor
-    at the University of Missouri.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Leslie Kean
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 767ea3f3-ea68-4317-8234-3d1a14eb3675
-    title: University of Missouri
-    slug: university-of-missouri
-  - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-    slug: jeff-tarrant
-  date: null
-  date_end: null
-  location_in_record: ch26:10973-11070
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 12f41852-e032-43d8-9dac-c0384635b66d
-  claim_hash: d93802440f889077453fe518a63ccf655967bd0b46c0c1785ffe1b33927a092e
-  content: In 2013, Jeff Tarrant began mapping the brains of psychics and certified
-    mediums while they conducted readings.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Leslie Kean
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+  - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+    title: Laura Lynne Jackson
+    node_type: person
+    slug: laura-lynne-jackson
+    shared_claims: 6
   - node_id: 880b88e9-fc8d-4ad5-9d7f-f821fbe47418
     title: Jeff Tarrant's brain-mapping study of Laura Lynne Jackson (2013- )
+    node_type: project
     slug: jeff-tarrants-brain-mapping-study-of-laura-lynne-jackson-2013
-  - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-    slug: jeff-tarrant
-  date: '2013'
-  date_end: null
-  location_in_record: ch26:11080-11172
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: bf61756b-db00-48cc-85bf-a0895eb79d97
-  claim_hash: 3f609bfdd31b6fbae5ea62176318e2aadf1a1775dd2b42d61434816eac66ecc5
-  content: Jeff Tarrant's brain-mapping study found that mediums consistently showed
-    unusual brain-wave activity, sometimes including significant increases in fast
-    activity in the back of the head, an area of the brain associated with visual
-    processing, according to Tarrant's website.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Jeff Tarrant's website
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 880b88e9-fc8d-4ad5-9d7f-f821fbe47418
-    title: Jeff Tarrant's brain-mapping study of Laura Lynne Jackson (2013- )
-    slug: jeff-tarrants-brain-mapping-study-of-laura-lynne-jackson-2013
-  - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-    slug: jeff-tarrant
-  date: null
-  date_end: null
-  location_in_record: ch26:11182-11409
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 0e7a4f55-f3c3-4167-9e44-d2ea8f709a6f
-  claim_hash: 6f8dea1a905d16cc7af46055cd74b0dfcb127d0cbd382fc89d160975c1b58522
-  content: Jeff Tarrant considers that his brain-wave data does not prove communication
-    with the dead, but that it strongly suggests mediums enter a very different state
-    of consciousness while engaged in their work, and that they do not simply appear
-    to be faking.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jeff Tarrant
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-    slug: jeff-tarrant
-  date: null
-  date_end: null
-  location_in_record: ch26:11418-11710
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: eddc0707-a0dc-4bfc-a94e-8971c1a43754
-  claim_hash: 140c00777aff8b1722b9ae4e6887aef6dae6c1ef3d3d2ae94ebe796e15e992bc
-  content: Jeff Tarrant measured Laura Lynne Jackson's brain activity twice.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Leslie Kean
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-    slug: jeff-tarrant
-  - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-    title: Laura Lynne Jackson
-    slug: laura-lynne-jackson
-  date: null
-  date_end: null
-  location_in_record: ch26:11719-11759
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 09fd2d73-e0c4-49b2-a345-4c140913246c
-  claim_hash: fa0b7791358e23228c4f605594a2b3376cb3f18dc16d5ab043f3d304ebb207e2
-  content: Jeff Tarrant compared scans of Laura Lynne Jackson's brain during a psychic
-    reading, when she used living-agent psi, with scans taken during a mediumship
-    reading when she engaged survival psi, to see whether her two described types
-    of psi would register differently in her brain.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Leslie Kean
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 66df6be3-9190-4aa9-9a1c-ef19bb90f070
-    title: Living-Agent Psi (LAP) hypothesis
-    slug: living-agent-psi-lap-hypothesis
-  - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-    slug: jeff-tarrant
-  - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-    title: Laura Lynne Jackson
-    slug: laura-lynne-jackson
-  date: null
-  date_end: null
-  location_in_record: ch26:11766-12150
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: b3a3ef8d-17a9-4693-9e6c-c335457d45a3
-  claim_hash: e726661ee197b4475d7ab8f54b63972cd9a69c9b4a66b2ec0c22531b24e71b6d
-  content: Jeff Tarrant found applicable changes in the area of Laura Lynne Jackson's
-    brain involved in visual processing, corresponding to her two distinct types of
-    psychic reading.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Jeff Tarrant
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-    slug: jeff-tarrant
-  - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-    title: Laura Lynne Jackson
-    slug: laura-lynne-jackson
-  date: null
-  date_end: null
-  location_in_record: ch26:12237-12330
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 5658734c-93d5-4102-9c15-0b02631d550a
-  claim_hash: 1011f37369ee5b537e36aa4e7e1c796a168f60031169bd28da8e78ee773b03e5
-  content: Jeff Tarrant found that one area of Laura Lynne Jackson's brain becomes
-    active while she is receiving mediumship information and a different area becomes
-    activated when she is involved in a psychic reading, matching Laura Lynne Jackson's
-    own report that she sees psychic information in her left visual field and mediumship
-    information in her right visual field.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jeff Tarrant
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-    slug: jeff-tarrant
-  - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-    title: Laura Lynne Jackson
-    slug: laura-lynne-jackson
-  date: null
-  date_end: null
-  location_in_record: ch26:12356-12816
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: a2da18fb-1e79-4d6b-9ad8-fe9496a055d5
-  claim_hash: a556a5db18843062ba023db949d6892e8a28cde301b93c4d59a7b7754daeed2c
-  content: Jeff Tarrant's study does not prove that the difference between Laura Lynne
-    Jackson's two brain states reflects communications from dead people, but Leslie
-    Kean considers that it supports the survival hypothesis.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 953f6232-9902-437f-ad4c-add4fd080043
-    title: Leslie Kean
-  provenance_chain:
-    origin_kind: speaker
-    origin: Leslie Kean
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-    title: survival hypothesis
-    slug: survival-hypothesis
-  - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-    slug: jeff-tarrant
-  - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-    title: Laura Lynne Jackson
-    slug: laura-lynne-jackson
-  date: null
-  date_end: null
-  location_in_record: ch26:13391-13590
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: b48405ca-bb5e-4f5d-bef2-cbbc778ca075
-  claim_hash: 44e02e9e1e03d3f96085b286ddd80063c92a86ffdec87382594ffae8642c997a
-  content: Jeff Tarrant wrote in a 2014-11-08 blog post that something interesting
-    is definitely going on regarding psychic mediumship.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jeff Tarrant
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 333767c0-204b-4270-af47-4eb11da45cf9
-    title: brain-wave activity study of mediums
-    slug: brain-wave-activity-study-of-mediums
+    shared_claims: 3
   - node_id: 8d09e976-8eba-4e72-b2f5-385d020289b5
-    title: '"The Mind of the Medium: The Art and Science of Psychic Mediumship" (blog
-      post by Jeff Tarrant)'
+    title: '"The Mind of the Medium: The Art and Science of Psychic Mediumship" (blog post by Jeff Tarrant)'
+    node_type: document
     slug: the-mind-of-the-medium-the-art-and-science-of-psychic-mediumship-blog-post-by-jeff-tarrant
-  - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-    slug: jeff-tarrant
-  date: '2014-11-08'
-  date_end: null
-  location_in_record: ch41:34765-34944
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 1e526ecb-7abd-4be7-b448-fe15431a8a99
-  claim_hash: 8a19ef3c014a34368f28a091e61402e05ef91f86e88027b2206424ea66b030f5
-  content: Jeff Tarrant said, in a video describing his brain-mapping study of Laura
-    Lynne Jackson, that his findings offer confirmation of what Laura Lynne Jackson
-    reports from her own experience.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jeff Tarrant
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 880b88e9-fc8d-4ad5-9d7f-f821fbe47418
-    title: Jeff Tarrant's brain-mapping study of Laura Lynne Jackson (2013- )
-    slug: jeff-tarrants-brain-mapping-study-of-laura-lynne-jackson-2013
-  - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-    slug: jeff-tarrant
-  - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-    title: Laura Lynne Jackson
-    slug: laura-lynne-jackson
-  date: null
-  date_end: null
-  location_in_record: ch41:34952-35099
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 8c597151-f086-497f-8957-eb0e6c44f213
-  claim_hash: 55529985c437ee953274e802add4c3b46f5c8df64fcb0917afceb76f3ac34bf4
-  content: Julia Mossbridge's research team includes Jeff Tarrant, Maria Welch, Natalia
-    Mann, Damon Abraham and Polly Washburn.
-  original_excerpt: because I have this amazing team working with Jeff Tarrant and
-    Maria Welch and Natalia Mann and Damon Abraham and Polly Washburn.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Julia Mossbridge
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 403568b8-e08f-4e03-a466-0fd6ee7b828a
-    title: Maria Welch
-    slug: maria-welch
+    shared_claims: 1
   - node_id: 4fefea91-5bbb-4235-90d1-ef49e1f4f913
     title: Damon Abraham
+    node_type: person
     slug: damon-abraham
-  - node_id: 690b8d70-fbfc-42ca-94f2-4f0042982149
-    title: Polly Washburn
-    slug: polly-washburn
+    shared_claims: 1
   - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
     title: Julia Mossbridge
+    node_type: person
     slug: julia-mossbridge
-  - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-    slug: jeff-tarrant
+    shared_claims: 1
+  - node_id: 66df6be3-9190-4aa9-9a1c-ef19bb90f070
+    title: Living-Agent Psi (LAP) hypothesis
+    node_type: topic
+    slug: living-agent-psi-lap-hypothesis
+    shared_claims: 1
+  - node_id: 403568b8-e08f-4e03-a466-0fd6ee7b828a
+    title: Maria Welch
+    node_type: person
+    slug: maria-welch
+    shared_claims: 1
   - node_id: a5dee2be-f39a-4bdf-a6f6-509bd5010697
     title: Natalia Mann
+    node_type: person
     slug: natalia-mann
-  date: null
-  date_end: null
-  location_in_record: 01:50:40.8-01:50:48.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 690b8d70-fbfc-42ca-94f2-4f0042982149
+    title: Polly Washburn
+    node_type: person
+    slug: polly-washburn
+    shared_claims: 1
+  - node_id: 767ea3f3-ea68-4317-8234-3d1a14eb3675
+    title: University of Missouri
+    node_type: organisation
+    slug: university-of-missouri
+    shared_claims: 1
+  - node_id: 333767c0-204b-4270-af47-4eb11da45cf9
+    title: brain-wave activity study of mediums
+    node_type: topic
+    slug: brain-wave-activity-study-of-mediums
+    shared_claims: 1
+  - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+    title: survival hypothesis
+    node_type: topic
+    slug: survival-hypothesis
+    shared_claims: 1
+claims:
+  - claim_id: f90ae4f6-ab21-4f27-8b90-e17f5d039ce5
+    claim_hash: 1f6530176a4cb178f1584c885fbeadbd32193efca8ccb67980030e95370e123e
+    content: 'The Windbridge Institute EEG study of six mediums monitored the mediums'' brain activity using electroencephalography
+      (EEG) during four tasks: recollection (thinking about a living person known to the medium), perception (listening to
+      information read about a person), fabrication (making up a fictitious person and thinking about them), and communication
+      (communicating with a deceased person known to the medium).'
+    original_excerpt: 'In a study in which we monitored the brain activity of six Windbridge Institute mediums using electroencephalography
+      (EEG), we found differences for four tasks the mediums performed: recollection (think about a living person you know),
+      perception (listen while I read you information about a person), fabrication (make up someone and think about him/her),
+      and communication (communicate with a deceased person you know).'
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+      title: Jeff Tarrant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jeff Tarrant
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 693acdd5-6e23-41d6-9ff7-adcda3ef160e
+        title: Windbridge Institute electroencephalography (EEG) study of six mediums
+        slug: windbridge-institute-electroencephalography-eeg-study-of-six-mediums
+      - node_id: ed31a19b-d67d-45ad-84cc-e3cb4184fa20
+        title: Windbridge Institute
+        slug: windbridge-institute
+    date: null
+    date_end: null
+    location_in_record: ch25:20617-21031
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 530838b9-fe20-43af-87e5-ebb3678c3696
+    claim_hash: 9db939c5da49f13156c06a9d5646222eb263e1b9c7442c4cce22c5600e13bb66
+    content: The Windbridge Institute EEG study of six mediums concluded that the experience of communicating with the deceased
+      may be a distinct mental state that is not consistent with brain activity during ordinary thinking or imagination.
+    original_excerpt: We concluded that “the experience of communicating with the deceased may be a distinct mental state
+      that is not consistent with brain activity during ordinary thinking or imagination.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+      title: Jeff Tarrant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jeff Tarrant
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 693acdd5-6e23-41d6-9ff7-adcda3ef160e
+        title: Windbridge Institute electroencephalography (EEG) study of six mediums
+        slug: windbridge-institute-electroencephalography-eeg-study-of-six-mediums
+      - node_id: ed31a19b-d67d-45ad-84cc-e3cb4184fa20
+        title: Windbridge Institute
+        slug: windbridge-institute
+    date: null
+    date_end: null
+    location_in_record: ch25:21038-21209
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: f31fbe7c-4ddc-4612-a162-cfa1e1a88fad
+    claim_hash: a99ab35a07966bce3c7385aeed07a705280295bfda44732924b4d2f9042acdc2
+    content: Jeff Tarrant holds a PhD in Counseling Psychology.
+    original_excerpt: Jeff Tarrant has a PhD in Counseling Psychology
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Jeff Tarrant's website
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+        title: Jeff Tarrant
+        slug: jeff-tarrant
+    date: null
+    date_end: null
+    location_in_record: ch26:10973-11010
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: c65a31e7-1c3c-432c-95c9-da503baa324f
+    claim_hash: 7b6372f137e478c7edc971047d260a97e23cb00f9ec202c5aa34955af05c0675
+    content: Jeff Tarrant has a PhD in Counseling Psychology and is an adjunct professor at the University of Missouri.
+    original_excerpt: Jeff Tarrant has a PhD in Counseling Psychology and is an adjunct professor at the University of Missouri.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 767ea3f3-ea68-4317-8234-3d1a14eb3675
+        title: University of Missouri
+        slug: university-of-missouri
+      - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+        title: Jeff Tarrant
+        slug: jeff-tarrant
+    date: null
+    date_end: null
+    location_in_record: ch26:10973-11070
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 12f41852-e032-43d8-9dac-c0384635b66d
+    claim_hash: d93802440f889077453fe518a63ccf655967bd0b46c0c1785ffe1b33927a092e
+    content: In 2013, Jeff Tarrant began mapping the brains of psychics and certified mediums while they conducted readings.
+    original_excerpt: In 2013, he began mapping the brains of psychics and certified mediums while they conducted readings.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 880b88e9-fc8d-4ad5-9d7f-f821fbe47418
+        title: Jeff Tarrant's brain-mapping study of Laura Lynne Jackson (2013- )
+        slug: jeff-tarrants-brain-mapping-study-of-laura-lynne-jackson-2013
+      - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+        title: Jeff Tarrant
+        slug: jeff-tarrant
+    date: '2013'
+    date_end: null
+    location_in_record: ch26:11080-11172
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: bf61756b-db00-48cc-85bf-a0895eb79d97
+    claim_hash: 3f609bfdd31b6fbae5ea62176318e2aadf1a1775dd2b42d61434816eac66ecc5
+    content: Jeff Tarrant's brain-mapping study found that mediums consistently showed unusual brain-wave activity, sometimes
+      including significant increases in fast activity in the back of the head, an area of the brain associated with visual
+      processing, according to Tarrant's website.
+    original_excerpt: The mediums consistently showed unusual brain-wave activity, sometimes including “significant increases
+      in fast activity in the back of the head—the areas of the brain associated with visual processing,” according to Tarrant’s
+      website.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Jeff Tarrant's website
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 880b88e9-fc8d-4ad5-9d7f-f821fbe47418
+        title: Jeff Tarrant's brain-mapping study of Laura Lynne Jackson (2013- )
+        slug: jeff-tarrants-brain-mapping-study-of-laura-lynne-jackson-2013
+      - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+        title: Jeff Tarrant
+        slug: jeff-tarrant
+    date: null
+    date_end: null
+    location_in_record: ch26:11182-11409
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 0e7a4f55-f3c3-4167-9e44-d2ea8f709a6f
+    claim_hash: 6f8dea1a905d16cc7af46055cd74b0dfcb127d0cbd382fc89d160975c1b58522
+    content: Jeff Tarrant considers that his brain-wave data does not prove communication with the dead, but that it strongly
+      suggests mediums enter a very different state of consciousness while engaged in their work, and that they do not simply
+      appear to be faking.
+    original_excerpt: Of course, such data does not prove communication with the dead but “it does strongly suggest that mediums
+      are entering a very different state of consciousness when they are engaged in their work. They do not simply appear
+      to be faking—something interesting is definitely going on!” Tarrant writes.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+      title: Jeff Tarrant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jeff Tarrant
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+        title: Jeff Tarrant
+        slug: jeff-tarrant
+    date: null
+    date_end: null
+    location_in_record: ch26:11418-11710
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: eddc0707-a0dc-4bfc-a94e-8971c1a43754
+    claim_hash: 140c00777aff8b1722b9ae4e6887aef6dae6c1ef3d3d2ae94ebe796e15e992bc
+    content: Jeff Tarrant measured Laura Lynne Jackson's brain activity twice.
+    original_excerpt: Tarrant measured Laura’s brain activity twice.
+    claim_type: measurement
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+        title: Jeff Tarrant
+        slug: jeff-tarrant
+      - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+        title: Laura Lynne Jackson
+        slug: laura-lynne-jackson
+    date: null
+    date_end: null
+    location_in_record: ch26:11719-11759
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 09fd2d73-e0c4-49b2-a345-4c140913246c
+    claim_hash: fa0b7791358e23228c4f605594a2b3376cb3f18dc16d5ab043f3d304ebb207e2
+    content: Jeff Tarrant compared scans of Laura Lynne Jackson's brain during a psychic reading, when she used living-agent
+      psi, with scans taken during a mediumship reading when she engaged survival psi, to see whether her two described types
+      of psi would register differently in her brain.
+    original_excerpt: He then decided to take his study of Laura’s process one step further, by comparing scans of her brain
+      during a psychic reading—when she used her living-agent psi—with those taken during a mediumship reading when she engaged
+      her survival psi. In other words, he wanted to see if what Laura described as her use of two distinct types of psi would
+      actually register as different in her brain.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 66df6be3-9190-4aa9-9a1c-ef19bb90f070
+        title: Living-Agent Psi (LAP) hypothesis
+        slug: living-agent-psi-lap-hypothesis
+      - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+        title: Jeff Tarrant
+        slug: jeff-tarrant
+      - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+        title: Laura Lynne Jackson
+        slug: laura-lynne-jackson
+    date: null
+    date_end: null
+    location_in_record: ch26:11766-12150
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b3a3ef8d-17a9-4693-9e6c-c335457d45a3
+    claim_hash: e726661ee197b4475d7ab8f54b63972cd9a69c9b4a66b2ec0c22531b24e71b6d
+    content: Jeff Tarrant found applicable changes in the area of Laura Lynne Jackson's brain involved in visual processing,
+      corresponding to her two distinct types of psychic reading.
+    original_excerpt: In fact, Tarrant did discover applicable changes in the area of the brain involved in visual processing.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Jeff Tarrant
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+        title: Jeff Tarrant
+        slug: jeff-tarrant
+      - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+        title: Laura Lynne Jackson
+        slug: laura-lynne-jackson
+    date: null
+    date_end: null
+    location_in_record: ch26:12237-12330
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 5658734c-93d5-4102-9c15-0b02631d550a
+    claim_hash: 1011f37369ee5b537e36aa4e7e1c796a168f60031169bd28da8e78ee773b03e5
+    content: Jeff Tarrant found that one area of Laura Lynne Jackson's brain becomes active while she is receiving mediumship
+      information and a different area becomes activated when she is involved in a psychic reading, matching Laura Lynne Jackson's
+      own report that she sees psychic information in her left visual field and mediumship information in her right visual
+      field.
+    original_excerpt: One area of the brain is becoming active while she is receiving mediumship information; the other area
+      is becoming activated when she is involved in a psychic reading. Coincidentally—or not—Laura reports that she sees psychic
+      information in her left visual field, and she sees mediumship information on her right visual field. Actually, that
+      is exactly what we see on these brain images. So this appears to be confirmation of what Laura reports from her own
+      experience.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+      title: Jeff Tarrant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jeff Tarrant
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+        title: Jeff Tarrant
+        slug: jeff-tarrant
+      - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+        title: Laura Lynne Jackson
+        slug: laura-lynne-jackson
+    date: null
+    date_end: null
+    location_in_record: ch26:12356-12816
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a2da18fb-1e79-4d6b-9ad8-fe9496a055d5
+    claim_hash: a556a5db18843062ba023db949d6892e8a28cde301b93c4d59a7b7754daeed2c
+    content: Jeff Tarrant's study does not prove that the difference between Laura Lynne Jackson's two brain states reflects
+      communications from dead people, but Leslie Kean considers that it supports the survival hypothesis.
+    original_excerpt: This does *not* prove that the difference between these two brain states is that one involves communications
+      from dead people. But one could argue that Tarrant’s study at least supports the survival hypothesis.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 953f6232-9902-437f-ad4c-add4fd080043
+      title: Leslie Kean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+        title: survival hypothesis
+        slug: survival-hypothesis
+      - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+        title: Jeff Tarrant
+        slug: jeff-tarrant
+      - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+        title: Laura Lynne Jackson
+        slug: laura-lynne-jackson
+    date: null
+    date_end: null
+    location_in_record: ch26:13391-13590
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b48405ca-bb5e-4f5d-bef2-cbbc778ca075
+    claim_hash: 44e02e9e1e03d3f96085b286ddd80063c92a86ffdec87382594ffae8642c997a
+    content: Jeff Tarrant wrote in a 2014-11-08 blog post that something interesting is definitely going on regarding psychic
+      mediumship.
+    original_excerpt: '"something interesting is definitely going on!" Tarrant writes / Jeff Tarrant, "The Mind of the Medium:
+      The Art and Science of Psychic Mediumship" (article at his blog), November 8, 2014.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+      title: Jeff Tarrant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jeff Tarrant
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 333767c0-204b-4270-af47-4eb11da45cf9
+        title: brain-wave activity study of mediums
+        slug: brain-wave-activity-study-of-mediums
+      - node_id: 8d09e976-8eba-4e72-b2f5-385d020289b5
+        title: '"The Mind of the Medium: The Art and Science of Psychic Mediumship" (blog post by Jeff Tarrant)'
+        slug: the-mind-of-the-medium-the-art-and-science-of-psychic-mediumship-blog-post-by-jeff-tarrant
+      - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+        title: Jeff Tarrant
+        slug: jeff-tarrant
+    date: '2014-11-08'
+    date_end: null
+    location_in_record: ch41:34765-34944
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 1e526ecb-7abd-4be7-b448-fe15431a8a99
+    claim_hash: 8a19ef3c014a34368f28a091e61402e05ef91f86e88027b2206424ea66b030f5
+    content: Jeff Tarrant said, in a video describing his brain-mapping study of Laura Lynne Jackson, that his findings offer
+      confirmation of what Laura Lynne Jackson reports from her own experience.
+    original_excerpt: '"confirmation of what Laura reports from her own experience" / Jeff Tarrant, from a video of Tarrant
+      describing his study of Laura''s brain on Laura''s website.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+      title: Jeff Tarrant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jeff Tarrant
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 880b88e9-fc8d-4ad5-9d7f-f821fbe47418
+        title: Jeff Tarrant's brain-mapping study of Laura Lynne Jackson (2013- )
+        slug: jeff-tarrants-brain-mapping-study-of-laura-lynne-jackson-2013
+      - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+        title: Jeff Tarrant
+        slug: jeff-tarrant
+      - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+        title: Laura Lynne Jackson
+        slug: laura-lynne-jackson
+    date: null
+    date_end: null
+    location_in_record: ch41:34952-35099
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 8c597151-f086-497f-8957-eb0e6c44f213
+    claim_hash: 55529985c437ee953274e802add4c3b46f5c8df64fcb0917afceb76f3ac34bf4
+    content: Julia Mossbridge's research team includes Jeff Tarrant, Maria Welch, Natalia Mann, Damon Abraham and Polly Washburn.
+    original_excerpt: because I have this amazing team working with Jeff Tarrant and Maria Welch and Natalia Mann and Damon
+      Abraham and Polly Washburn.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403568b8-e08f-4e03-a466-0fd6ee7b828a
+        title: Maria Welch
+        slug: maria-welch
+      - node_id: 4fefea91-5bbb-4235-90d1-ef49e1f4f913
+        title: Damon Abraham
+        slug: damon-abraham
+      - node_id: 690b8d70-fbfc-42ca-94f2-4f0042982149
+        title: Polly Washburn
+        slug: polly-washburn
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+        title: Jeff Tarrant
+        slug: jeff-tarrant
+      - node_id: a5dee2be-f39a-4bdf-a6f6-509bd5010697
+        title: Natalia Mann
+        slug: natalia-mann
+    date: null
+    date_end: null
+    location_in_record: 01:50:40.8-01:50:48.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

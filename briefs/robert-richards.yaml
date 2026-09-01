@@ -9,274 +9,284 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1370
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
 related_nodes:
-- node_id: bd5fe380-d581-442f-b427-bb4d15cdb303
-  title: Optech Inc.
-  node_type: organisation
-  slug: optech-inc
-  shared_claims: 2
-- node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
-  title: Anti-Gravity Propulsion
-  node_type: topic
-  slug: anti-gravity-propulsion
-  shared_claims: 1
-- node_id: 9e77caea-bb2c-41f8-a729-84136877ed99
-  title: Gardell Martin
-  node_type: person
-  slug: gardell-martin
-  shared_claims: 1
-- node_id: 130e04b2-ffdd-4af7-a656-dfe21a7bd91b
-  title: Gardell Martin's drowning and resuscitation (2015-03)
-  node_type: event
-  slug: gardell-martins-drowning-and-resuscitation-2015-03
-  shared_claims: 1
-- node_id: 3986c08a-c162-4654-8522-227f2e721ff6
-  title: Giuseppe Belluzzo
-  node_type: person
-  slug: giuseppe-belluzzo
-  shared_claims: 1
-- node_id: 19efa81b-5928-4004-a498-3b4c138b0e99
-  title: Hans Kammler
-  node_type: person
-  slug: hans-kammler
-  shared_claims: 1
-- node_id: 9caeaff0-3abf-4a8b-b10b-54f883a431d6
-  title: Nazi underground
-  node_type: topic
-  slug: nazi-underground
-  shared_claims: 1
-- node_id: ca610bc7-9f84-4e2c-b11d-a5c0514bc4e4
-  title: Phobos Reconnaissance and International Mars Exploration (PRIME) Mission
-  node_type: project
-  slug: phobos-reconnaissance-and-international-mars-exploration-prime-mission
-  shared_claims: 1
-- node_id: 00c5cda4-11df-4403-9960-9c56adc8e711
-  title: Richard Miethe 1952 French newspaper interview
-  node_type: document
-  slug: richard-miethe-1952-french-newspaper-interview
-  shared_claims: 1
-- node_id: fadbf742-c344-49b5-a6c6-c6d10b2e6cdc
-  title: Rudolf Schriever
-  node_type: person
-  slug: rudolf-schriever
-  shared_claims: 1
-- node_id: 858d1069-9472-4574-96e2-dc72c4781998
-  title: Skoda Works
-  node_type: organisation
-  slug: skoda-works
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-claims:
-- claim_id: 152363e1-e07b-4d95-8428-c56d24220676
-  claim_hash: 712d2fe4a0347ab8b0075146aef75351c07975aaddd31fcc8821917e3422a758
-  content: Robert Richards is affiliated with Optech Inc.
-  original_excerpt: Robert Richards (Optech Inc.)
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6131015e-9308-4c36-bc89-ca45be5f90be
-    title: Robert Richards
-    slug: robert-richards
   - node_id: bd5fe380-d581-442f-b427-bb4d15cdb303
     title: Optech Inc.
+    node_type: organisation
     slug: optech-inc
-  date: null
-  date_end: null
-  location_in_record: char:230-254
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ee2ee3c5-355e-4a0b-90eb-ca963573a7a3
-    record_title: The PRIME (Phobos Reconnaissance and International Mars Exploration)
-      Mission and Mars Sample Return
-    record_date: '2008'
-    record_reference: https://www.lpi.usra.edu/meetings/lpsc2008/pdf/2268.pdf
-    content_hash: sha256:47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb6560294d732
-    friendly_name: 2008-pdf-the-prime-phobos-reconnaissance-and-international-mars
-- claim_id: 2b27fb05-e35d-46d7-ba33-2ae5384702a0
-  claim_hash: 6195acc086f66f1a7fdfb1df97c9c6847dfbd34b45f9a1d00072cdbde7185959
-  content: Robert Richards served as Project Manager of the PRIME Mission Science
-    Team, affiliated with Optech Inc.
-  original_excerpt: Bob Richards (PM) | Optech
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6131015e-9308-4c36-bc89-ca45be5f90be
-    title: Robert Richards
-    slug: robert-richards
-  - node_id: bd5fe380-d581-442f-b427-bb4d15cdb303
-    title: Optech Inc.
-    slug: optech-inc
-  - node_id: ca610bc7-9f84-4e2c-b11d-a5c0514bc4e4
-    title: Phobos Reconnaissance and International Mars Exploration (PRIME) Mission
-    slug: phobos-reconnaissance-and-international-mars-exploration-prime-mission
-  date: null
-  date_end: null
-  location_in_record: char:7840-7860
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ee2ee3c5-355e-4a0b-90eb-ca963573a7a3
-    record_title: The PRIME (Phobos Reconnaissance and International Mars Exploration)
-      Mission and Mars Sample Return
-    record_date: '2008'
-    record_reference: https://www.lpi.usra.edu/meetings/lpsc2008/pdf/2268.pdf
-    content_hash: sha256:47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb6560294d732
-    friendly_name: 2008-pdf-the-prime-phobos-reconnaissance-and-international-mars
-- claim_id: a2bbd70d-957a-48c2-b6e5-c29aca495a00
-  claim_hash: 92fc789327bb2afc97b8c1eca7f389639436e13aab9af0c5b841f22de6d5f289
-  content: Richard Lambert, a member of the critical care team, recalled that Gardell
-    Martin was a flaccid, cold corpse showing no signs of life.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 6131015e-9308-4c36-bc89-ca45be5f90be
-    title: Robert Richards
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard Lambert
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 130e04b2-ffdd-4af7-a656-dfe21a7bd91b
-    title: Gardell Martin's drowning and resuscitation (2015-03)
-    slug: gardell-martins-drowning-and-resuscitation-2015-03
-  - node_id: 6131015e-9308-4c36-bc89-ca45be5f90be
-    title: Robert Richards
-    slug: robert-richards
-  - node_id: 9e77caea-bb2c-41f8-a729-84136877ed99
-    title: Gardell Martin
-    slug: gardell-martin
-  date: 2015-03
-  date_end: null
-  location_in_record: ch17:23342-23456
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: a044c042-1d54-44b5-b2a8-acc15c716883
-  claim_hash: 38b31e189b07fcc082f5ec34c0f3cc0c36fff9ea4bbe462721a29421f38264c4
-  content: Richard Miethe, Rudolf Schriever, Giuseppe Belluzzo and four or five other
-    individuals all claimed to have worked on what appear to be multiple separate
-    attempts to build disc-shaped craft in the Nazi era.
-  original_excerpt: You've got Miethe, Schriever, Belluzzo. There's like four or five
-    other individuals who all claim to have worked on what appear to be multiple different
-    attempts to build disc-shaped craft.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: named
-    origin: Richard Miethe, Rudolf Schriever, Giuseppe Belluzzo and others
-    relay:
-    - Jason Samosa
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 2
   - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
     title: Anti-Gravity Propulsion
+    node_type: topic
     slug: anti-gravity-propulsion
+    shared_claims: 1
+  - node_id: 9e77caea-bb2c-41f8-a729-84136877ed99
+    title: Gardell Martin
+    node_type: person
+    slug: gardell-martin
+    shared_claims: 1
+  - node_id: 130e04b2-ffdd-4af7-a656-dfe21a7bd91b
+    title: Gardell Martin's drowning and resuscitation (2015-03)
+    node_type: event
+    slug: gardell-martins-drowning-and-resuscitation-2015-03
+    shared_claims: 1
   - node_id: 3986c08a-c162-4654-8522-227f2e721ff6
     title: Giuseppe Belluzzo
+    node_type: person
     slug: giuseppe-belluzzo
-  - node_id: 6131015e-9308-4c36-bc89-ca45be5f90be
-    title: Robert Richards
-    slug: robert-richards
-  - node_id: 9caeaff0-3abf-4a8b-b10b-54f883a431d6
-    title: Nazi underground
-    slug: nazi-underground
-  - node_id: fadbf742-c344-49b5-a6c6-c6d10b2e6cdc
-    title: Rudolf Schriever
-    slug: rudolf-schriever
-  date: null
-  date_end: null
-  location_in_record: 01:12:23.2-01:12:34.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 92b71101-a74f-489f-a1af-ff5b7d06811d
-  claim_hash: a3eaf3fd4e9289c66211a7d7373809c63b8c8f45ec262269572173dc6204ac8c
-  content: In a 1952 interview with a French newspaper, Richard Miethe said that UFOs
-    seen in the sky are probably the craft he designed and built, via the Skoda Works
-    under Hans Kammler.
-  original_excerpt: Mita in 52 gives this interview to this French paper. And he says,
-    if you see UFOs in the sky, they're probably the ones that I designed and built
-    by, you know, the Habermal project and, you know, um, uh, Skoda works under Hans
-    Kammler.
-  claim_type: testimony
-  attestation: third_hand
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: named
-    origin: Richard Miethe
-    relay:
-    - a 1952 French newspaper interview
-    - a video by Jason Samosa
-    - Jesse Michels
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 00c5cda4-11df-4403-9960-9c56adc8e711
-    title: Richard Miethe 1952 French newspaper interview
-    slug: richard-miethe-1952-french-newspaper-interview
+    shared_claims: 1
   - node_id: 19efa81b-5928-4004-a498-3b4c138b0e99
     title: Hans Kammler
+    node_type: person
     slug: hans-kammler
-  - node_id: 6131015e-9308-4c36-bc89-ca45be5f90be
-    title: Robert Richards
-    slug: robert-richards
+    shared_claims: 1
+  - node_id: 9caeaff0-3abf-4a8b-b10b-54f883a431d6
+    title: Nazi underground
+    node_type: topic
+    slug: nazi-underground
+    shared_claims: 1
+  - node_id: ca610bc7-9f84-4e2c-b11d-a5c0514bc4e4
+    title: Phobos Reconnaissance and International Mars Exploration (PRIME) Mission
+    node_type: project
+    slug: phobos-reconnaissance-and-international-mars-exploration-prime-mission
+    shared_claims: 1
+  - node_id: 00c5cda4-11df-4403-9960-9c56adc8e711
+    title: Richard Miethe 1952 French newspaper interview
+    node_type: document
+    slug: richard-miethe-1952-french-newspaper-interview
+    shared_claims: 1
+  - node_id: fadbf742-c344-49b5-a6c6-c6d10b2e6cdc
+    title: Rudolf Schriever
+    node_type: person
+    slug: rudolf-schriever
+    shared_claims: 1
   - node_id: 858d1069-9472-4574-96e2-dc72c4781998
     title: Skoda Works
+    node_type: organisation
     slug: skoda-works
+    shared_claims: 1
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
+    node_type: topic
     slug: unidentified-flying-object-ufo
-  date: '1952'
-  date_end: null
-  location_in_record: 01:13:04.2-01:13:20.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
+    shared_claims: 1
+claims:
+  - claim_id: 152363e1-e07b-4d95-8428-c56d24220676
+    claim_hash: 712d2fe4a0347ab8b0075146aef75351c07975aaddd31fcc8821917e3422a758
+    content: Robert Richards is affiliated with Optech Inc.
+    original_excerpt: Robert Richards (Optech Inc.)
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6131015e-9308-4c36-bc89-ca45be5f90be
+        title: Robert Richards
+        slug: robert-richards
+      - node_id: bd5fe380-d581-442f-b427-bb4d15cdb303
+        title: Optech Inc.
+        slug: optech-inc
+    date: null
+    date_end: null
+    location_in_record: char:230-254
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ee2ee3c5-355e-4a0b-90eb-ca963573a7a3
+      record_title: The PRIME (Phobos Reconnaissance and International Mars Exploration) Mission and Mars Sample Return
+      record_date: '2008'
+      record_reference: https://www.lpi.usra.edu/meetings/lpsc2008/pdf/2268.pdf
+      content_hash: sha256:47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb6560294d732
+      friendly_name: 2008-pdf-the-prime-phobos-reconnaissance-and-international-mars
+  - claim_id: 2b27fb05-e35d-46d7-ba33-2ae5384702a0
+    claim_hash: 6195acc086f66f1a7fdfb1df97c9c6847dfbd34b45f9a1d00072cdbde7185959
+    content: Robert Richards served as Project Manager of the PRIME Mission Science Team, affiliated with Optech Inc.
+    original_excerpt: Bob Richards (PM) | Optech
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6131015e-9308-4c36-bc89-ca45be5f90be
+        title: Robert Richards
+        slug: robert-richards
+      - node_id: bd5fe380-d581-442f-b427-bb4d15cdb303
+        title: Optech Inc.
+        slug: optech-inc
+      - node_id: ca610bc7-9f84-4e2c-b11d-a5c0514bc4e4
+        title: Phobos Reconnaissance and International Mars Exploration (PRIME) Mission
+        slug: phobos-reconnaissance-and-international-mars-exploration-prime-mission
+    date: null
+    date_end: null
+    location_in_record: char:7840-7860
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ee2ee3c5-355e-4a0b-90eb-ca963573a7a3
+      record_title: The PRIME (Phobos Reconnaissance and International Mars Exploration) Mission and Mars Sample Return
+      record_date: '2008'
+      record_reference: https://www.lpi.usra.edu/meetings/lpsc2008/pdf/2268.pdf
+      content_hash: sha256:47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb6560294d732
+      friendly_name: 2008-pdf-the-prime-phobos-reconnaissance-and-international-mars
+  - claim_id: a2bbd70d-957a-48c2-b6e5-c29aca495a00
+    claim_hash: 92fc789327bb2afc97b8c1eca7f389639436e13aab9af0c5b841f22de6d5f289
+    content: Richard Lambert, a member of the critical care team, recalled that Gardell Martin was a flaccid, cold corpse
+      showing no signs of life.
+    original_excerpt: He was “a flaccid, cold corpse showing no signs of life,” recalled Richard Lambert, a member of the
+      critical care team.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 6131015e-9308-4c36-bc89-ca45be5f90be
+      title: Robert Richards
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard Lambert
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 130e04b2-ffdd-4af7-a656-dfe21a7bd91b
+        title: Gardell Martin's drowning and resuscitation (2015-03)
+        slug: gardell-martins-drowning-and-resuscitation-2015-03
+      - node_id: 6131015e-9308-4c36-bc89-ca45be5f90be
+        title: Robert Richards
+        slug: robert-richards
+      - node_id: 9e77caea-bb2c-41f8-a729-84136877ed99
+        title: Gardell Martin
+        slug: gardell-martin
+    date: 2015-03
+    date_end: null
+    location_in_record: ch17:23342-23456
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a044c042-1d54-44b5-b2a8-acc15c716883
+    claim_hash: 38b31e189b07fcc082f5ec34c0f3cc0c36fff9ea4bbe462721a29421f38264c4
+    content: Richard Miethe, Rudolf Schriever, Giuseppe Belluzzo and four or five other individuals all claimed to have worked
+      on what appear to be multiple separate attempts to build disc-shaped craft in the Nazi era.
+    original_excerpt: You've got Miethe, Schriever, Belluzzo. There's like four or five other individuals who all claim to
+      have worked on what appear to be multiple different attempts to build disc-shaped craft.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Richard Miethe, Rudolf Schriever, Giuseppe Belluzzo and others
+      relay:
+        - Jason Samosa
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+        title: Anti-Gravity Propulsion
+        slug: anti-gravity-propulsion
+      - node_id: 3986c08a-c162-4654-8522-227f2e721ff6
+        title: Giuseppe Belluzzo
+        slug: giuseppe-belluzzo
+      - node_id: 6131015e-9308-4c36-bc89-ca45be5f90be
+        title: Robert Richards
+        slug: robert-richards
+      - node_id: 9caeaff0-3abf-4a8b-b10b-54f883a431d6
+        title: Nazi underground
+        slug: nazi-underground
+      - node_id: fadbf742-c344-49b5-a6c6-c6d10b2e6cdc
+        title: Rudolf Schriever
+        slug: rudolf-schriever
+    date: null
+    date_end: null
+    location_in_record: 01:12:23.2-01:12:34.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 92b71101-a74f-489f-a1af-ff5b7d06811d
+    claim_hash: a3eaf3fd4e9289c66211a7d7373809c63b8c8f45ec262269572173dc6204ac8c
+    content: In a 1952 interview with a French newspaper, Richard Miethe said that UFOs seen in the sky are probably the craft
+      he designed and built, via the Skoda Works under Hans Kammler.
+    original_excerpt: Mita in 52 gives this interview to this French paper. And he says, if you see UFOs in the sky, they're
+      probably the ones that I designed and built by, you know, the Habermal project and, you know, um, uh, Skoda works under
+      Hans Kammler.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Richard Miethe
+      relay:
+        - a 1952 French newspaper interview
+        - a video by Jason Samosa
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 00c5cda4-11df-4403-9960-9c56adc8e711
+        title: Richard Miethe 1952 French newspaper interview
+        slug: richard-miethe-1952-french-newspaper-interview
+      - node_id: 19efa81b-5928-4004-a498-3b4c138b0e99
+        title: Hans Kammler
+        slug: hans-kammler
+      - node_id: 6131015e-9308-4c36-bc89-ca45be5f90be
+        title: Robert Richards
+        slug: robert-richards
+      - node_id: 858d1069-9472-4574-96e2-dc72c4781998
+        title: Skoda Works
+        slug: skoda-works
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: '1952'
+    date_end: null
+    location_in_record: 01:13:04.2-01:13:20.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

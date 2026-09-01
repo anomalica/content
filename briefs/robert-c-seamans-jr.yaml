@@ -9,132 +9,140 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 904
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
 related_nodes:
-- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-  title: Project Blue Book
-  node_type: project
-  slug: project-blue-book
-  shared_claims: 2
-- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-  title: United States Air Force (USAF)
-  node_type: organisation
-  slug: united-states-air-force-usaf
-  shared_claims: 2
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    node_type: project
+    slug: project-blue-book
+    shared_claims: 2
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 2
 claims:
-- claim_id: 72bae7a4-98a7-4f42-94c3-d5b8ffdfdffd
-  claim_hash: 3fd5ba3d4aa62b984d0e06e97e951444ce3f33423d5128a21b94a8475cf3e88f
-  content: Robert C. Seamans Jr. said in a memorandum announcing the end of Project
-    Blue Book that it 'no longer can be justified either on the ground of national
-    security or in the interest of science.'
-  original_excerpt: Robert C. Seamans Jr., the secretary of the Air Force at the time,
-    said in a memorandum announcing the end of Project Blue Book that it “no longer
-    can be justified either on the ground of national security or in the interest
-    of science.”
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 61d9ff36-b51c-4763-8799-f74edb1ea479
-    title: Robert C. Seamans Jr.
-  provenance_chain:
-    origin_kind: speaker
-    origin: Seamans, Robert C. Jr.
-    relay:
-    - a memorandum
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 61d9ff36-b51c-4763-8799-f74edb1ea479
-    title: Robert C. Seamans Jr.
-    slug: robert-c-seamans-jr
-  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-    title: Project Blue Book
-    slug: project-blue-book
-  date: null
-  date_end: null
-  location_in_record: char:6854-7082
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
-      Program (Published 2017)'
-    record_date: '2017-12-16'
-    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
-    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
-    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
-- claim_id: 6461f42e-080f-4455-b633-eb67f30428f1
-  claim_hash: 28e4d72591d906ed042a4ae216226713c8e59340bae85feeef4ed16561e40cd1
-  content: Robert C. Seamans Jr. was the secretary of the Air Force at the time Project
-    Blue Book ended.
-  original_excerpt: Robert C. Seamans Jr., the secretary of the Air Force at the time,
-    said in a memorandum announcing the end of Project Blue Book that it “no longer
-    can be justified either on the ground of national security or in the interest
-    of science.”
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 61d9ff36-b51c-4763-8799-f74edb1ea479
-    title: Robert C. Seamans Jr.
-    slug: robert-c-seamans-jr
-  date: null
-  date_end: null
-  location_in_record: char:6854-7082
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
-      Program (Published 2017)'
-    record_date: '2017-12-16'
-    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
-    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
-    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
-- claim_id: 8cbf5fc7-2c72-4816-bd02-15cf4be92ac1
-  claim_hash: c9b8beb99eec8cb68d855b8718166712c5a83b8bbea0250e303ded2a5a3ba59a
-  content: Secretary of the Air Force Robert C. Seamans, Jr. announced Project BLUE
-    BOOK's termination on 1969-12-17.
-  original_excerpt: Secretary of the Air Force Robert C. Seamans, Jr. announced Project
-    BLUE BOOK's termination on December 17, 1969.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 61d9ff36-b51c-4763-8799-f74edb1ea479
-    title: Robert C. Seamans Jr.
-    slug: robert-c-seamans-jr
-  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-    title: Project Blue Book
-    slug: project-blue-book
-  date: '1969-12-17'
-  date_end: null
-  location_in_record: char:45196-45304
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 72bae7a4-98a7-4f42-94c3-d5b8ffdfdffd
+    claim_hash: 3fd5ba3d4aa62b984d0e06e97e951444ce3f33423d5128a21b94a8475cf3e88f
+    content: Robert C. Seamans Jr. said in a memorandum announcing the end of Project Blue Book that it 'no longer can be
+      justified either on the ground of national security or in the interest of science.'
+    original_excerpt: Robert C. Seamans Jr., the secretary of the Air Force at the time, said in a memorandum announcing the
+      end of Project Blue Book that it “no longer can be justified either on the ground of national security or in the interest
+      of science.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 61d9ff36-b51c-4763-8799-f74edb1ea479
+      title: Robert C. Seamans Jr.
+    provenance_chain:
+      origin_kind: speaker
+      origin: Seamans, Robert C. Jr.
+      relay:
+        - a memorandum
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 61d9ff36-b51c-4763-8799-f74edb1ea479
+        title: Robert C. Seamans Jr.
+        slug: robert-c-seamans-jr
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+    date: null
+    date_end: null
+    location_in_record: char:6854-7082
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: 6461f42e-080f-4455-b633-eb67f30428f1
+    claim_hash: 28e4d72591d906ed042a4ae216226713c8e59340bae85feeef4ed16561e40cd1
+    content: Robert C. Seamans Jr. was the secretary of the Air Force at the time Project Blue Book ended.
+    original_excerpt: Robert C. Seamans Jr., the secretary of the Air Force at the time, said in a memorandum announcing the
+      end of Project Blue Book that it “no longer can be justified either on the ground of national security or in the interest
+      of science.”
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 61d9ff36-b51c-4763-8799-f74edb1ea479
+        title: Robert C. Seamans Jr.
+        slug: robert-c-seamans-jr
+    date: null
+    date_end: null
+    location_in_record: char:6854-7082
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: 8cbf5fc7-2c72-4816-bd02-15cf4be92ac1
+    claim_hash: c9b8beb99eec8cb68d855b8718166712c5a83b8bbea0250e303ded2a5a3ba59a
+    content: Secretary of the Air Force Robert C. Seamans, Jr. announced Project BLUE BOOK's termination on 1969-12-17.
+    original_excerpt: Secretary of the Air Force Robert C. Seamans, Jr. announced Project BLUE BOOK's termination on December
+      17, 1969.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 61d9ff36-b51c-4763-8799-f74edb1ea479
+        title: Robert C. Seamans Jr.
+        slug: robert-c-seamans-jr
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+    date: '1969-12-17'
+    date_end: null
+    location_in_record: char:45196-45304
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

@@ -9,146 +9,160 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 840
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
 related_nodes:
-- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-  title: Whitley Strieber
-  node_type: person
-  slug: whitley-strieber
-  shared_claims: 3
-- node_id: 5a37f582-04ad-4962-ada9-2ac47747c87a
-  title: Betty and Barney Hill
-  node_type: person
-  slug: betty-and-barney-hill
-  shared_claims: 2
-- node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
-  title: Barney Hill
-  node_type: person
-  slug: barney-hill
-  shared_claims: 1
-- node_id: 827a669c-493c-4ea2-a245-a47d300ef053
-  title: Betty Hill
-  node_type: person
-  slug: betty-hill
-  shared_claims: 1
-claims:
-- claim_id: fdbe97a1-fb17-4c9d-8d36-6d2e6a8c22e2
-  claim_hash: f7ff2d37642284de92d25153cfab78119260f8e9474259a1a7429e5dd50ddf05
-  content: Whitley Strieber recalled possibly having seen years earlier a Look magazine
-    story about someone named Hill being taken aboard a flying disk.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 00dc4898-5cd9-4e8d-bea4-25e0d3d7abad
-    title: Look Magazine
-    slug: look-magazine
   - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
     title: Whitley Strieber
+    node_type: person
     slug: whitley-strieber
+    shared_claims: 3
   - node_id: 5a37f582-04ad-4962-ada9-2ac47747c87a
     title: Betty and Barney Hill
+    node_type: person
     slug: betty-and-barney-hill
-  date: null
-  date_end: null
-  location_in_record: ch9:64936-65083
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 66790e5a-a9d9-4874-96be-1ccd1d73b739
-  claim_hash: 2a5e4b59af6437f62bd2172c98b444d62fe69c19593ec623d8865ed82f608caa
-  content: In July 1986 Whitley Strieber obtained copies of the Look magazine issues
-    dated October 4 and October 18, 1966, concerning the Hill abduction story.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 00dc4898-5cd9-4e8d-bea4-25e0d3d7abad
-    title: Look Magazine
-    slug: look-magazine
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 5a37f582-04ad-4962-ada9-2ac47747c87a
-    title: Betty and Barney Hill
-    slug: betty-and-barney-hill
-  date: 1986-07
-  date_end: null
-  location_in_record: ch9:65090-65216
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 6005ecfa-5dd6-40fa-8d72-429b78a042ca
-  claim_hash: bfa2628c48fe524920ed7cd0c9998e0de37eb47e8355efb35da3e116f013d942
-  content: Whitley Strieber had no conscious memory of reading about the Betty Hill
-    and Barney Hill case in Look Magazine before his own hypnosis.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 00dc4898-5cd9-4e8d-bea4-25e0d3d7abad
-    title: Look Magazine
-    slug: look-magazine
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
-    title: Betty Hill
-    slug: betty-hill
+    shared_claims: 2
   - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
     title: Barney Hill
+    node_type: person
     slug: barney-hill
-  date: null
-  date_end: null
-  location_in_record: ch20:22297-22391
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+    title: Betty Hill
+    node_type: person
+    slug: betty-hill
+    shared_claims: 1
+claims:
+  - claim_id: fdbe97a1-fb17-4c9d-8d36-6d2e6a8c22e2
+    claim_hash: f7ff2d37642284de92d25153cfab78119260f8e9474259a1a7429e5dd50ddf05
+    content: Whitley Strieber recalled possibly having seen years earlier a Look magazine story about someone named Hill being
+      taken aboard a flying disk.
+    original_excerpt: Pressing myself I thought maybe I could remember seeing something years ago in Look magazine about somebody
+      named Hill being taken aboard a flying disk.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 00dc4898-5cd9-4e8d-bea4-25e0d3d7abad
+        title: Look Magazine
+        slug: look-magazine
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 5a37f582-04ad-4962-ada9-2ac47747c87a
+        title: Betty and Barney Hill
+        slug: betty-and-barney-hill
+    date: null
+    date_end: null
+    location_in_record: ch9:64936-65083
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 66790e5a-a9d9-4874-96be-1ccd1d73b739
+    claim_hash: 2a5e4b59af6437f62bd2172c98b444d62fe69c19593ec623d8865ed82f608caa
+    content: In July 1986 Whitley Strieber obtained copies of the Look magazine issues dated October 4 and October 18, 1966,
+      concerning the Hill abduction story.
+    original_excerpt: In July 1986 I got copies of the issues involved — October 4 and 18, 1966-and I do not think that I
+      actually read them at the time.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 00dc4898-5cd9-4e8d-bea4-25e0d3d7abad
+        title: Look Magazine
+        slug: look-magazine
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 5a37f582-04ad-4962-ada9-2ac47747c87a
+        title: Betty and Barney Hill
+        slug: betty-and-barney-hill
+    date: 1986-07
+    date_end: null
+    location_in_record: ch9:65090-65216
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 6005ecfa-5dd6-40fa-8d72-429b78a042ca
+    claim_hash: bfa2628c48fe524920ed7cd0c9998e0de37eb47e8355efb35da3e116f013d942
+    content: Whitley Strieber had no conscious memory of reading about the Betty Hill and Barney Hill case in Look Magazine
+      before his own hypnosis.
+    original_excerpt: I had, as I have said, no conscious memory of reading about the Betty and Barney Hill case in Look
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 00dc4898-5cd9-4e8d-bea4-25e0d3d7abad
+        title: Look Magazine
+        slug: look-magazine
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: ch20:22297-22391
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind

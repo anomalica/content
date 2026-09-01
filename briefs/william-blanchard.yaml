@@ -9,921 +9,941 @@ page:
   claim_count: 19
   claim_count_total: 19
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 19
+  tokens_estimated: 6190
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 19
 related_nodes:
-- node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-  title: Walter Haut
-  node_type: person
-  slug: walter-haut
-  shared_claims: 9
-- node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-  title: Roswell incident (1947)
-  node_type: event
-  slug: roswell-incident-1947
-  shared_claims: 7
-- node_id: f888411e-b882-4f89-8275-350d19f6c52d
-  title: Jesse Marcel
-  node_type: person
-  slug: jesse-marcel
-  shared_claims: 5
-- node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
-  title: Sheridan Cavitt
-  node_type: person
-  slug: sheridan-cavitt
-  shared_claims: 3
-- node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
-  title: USA, New Mexico, Roswell Army Air Force Base
-  node_type: place
-  slug: new-mexico-roswell-army-air-force-base-usa
-  shared_claims: 3
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 2
-- node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
-  title: Roger Ramey
-  node_type: person
-  slug: roger-ramey
-  shared_claims: 2
-- node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
-  title: Roswell Army Air Field
-  node_type: organisation
-  slug: roswell-army-air-field
-  shared_claims: 2
-- node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
-  title: 509th Bomb Group
-  node_type: organisation
-  slug: 509th-bomb-group
-  shared_claims: 1
-- node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
-  title: Barry Goldwater
-  node_type: person
-  slug: barry-goldwater
-  shared_claims: 1
-- node_id: b396851f-a4bb-406a-9a7f-761ea902a164
-  title: Building 84 (B-29 hangar, Roswell Army Air Base)
-  node_type: object
-  slug: roswell-army-air-base-building-84-b-29-hangar
-  shared_claims: 1
-- node_id: ec22df36-01d7-47c0-9a91-150b93b82532
-  title: French Air Force
-  node_type: organisation
-  slug: french-air-force
-  shared_claims: 1
-- node_id: d2b4890a-4999-4f45-9d1c-20e9393a88df
-  title: Isadore Brown
-  node_type: person
-  slug: isadore-brown
-  shared_claims: 1
-- node_id: c581a3e1-83fa-424c-840d-df874cfccebe
-  title: James I. Hopkins
-  node_type: person
-  slug: james-i-hopkins
-  shared_claims: 1
-- node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
-  title: July 8, 1947 Roswell Army Air Field press release
-  node_type: document
-  slug: 1947-roswell-army-air-field-press-release-july-8
-  shared_claims: 1
-- node_id: ce0b967f-b897-4754-aada-b48e03c4a84a
-  title: Patrick Saunders
-  node_type: person
-  slug: patrick-saunders
-  shared_claims: 1
-- node_id: 25070ed2-0721-488d-ba6b-3adac918a006
-  title: Roswell Morning Dispatch
-  node_type: organisation
-  slug: roswell-morning-dispatch
-  shared_claims: 1
-- node_id: 011c9b9f-187c-4a38-a713-19a677937d85
-  title: Thomas J. DuBose
-  node_type: person
-  slug: thomas-j-dubose
-  shared_claims: 1
-- node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-  title: USA, New Mexico
-  node_type: place
-  slug: new-mexico-usa
-  shared_claims: 1
-- node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
-  title: USA, Texas, Fort Worth
-  node_type: place
-  slug: texas-fort-worth-usa
-  shared_claims: 1
-- node_id: 345841bf-f575-4c5a-a40a-e11c97cf443f
-  title: USA, Texas, Fort Worth, Carswell Army Air Field
-  node_type: organisation
-  slug: texas-fort-worth-carswell-army-air-field-usa
-  shared_claims: 1
-- node_id: 085d3824-ddd8-49a0-891d-1fd008f6e704
-  title: Ulysses S. Nero
-  node_type: person
-  slug: ulysses-s-nero
-  shared_claims: 1
-- node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
-  title: United States Army
-  node_type: organisation
-  slug: united-states-army
-  shared_claims: 1
-- node_id: ac1d1ee5-756a-4a27-937b-a4664bed217d
-  title: Walter Haut affidavit (sworn 2002, released 2007)
-  node_type: document
-  slug: released-2007-walter-haut-affidavit-sworn-2002
-  shared_claims: 1
-- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-  title: Whitley Strieber
-  node_type: person
-  slug: whitley-strieber
-  shared_claims: 1
-claims:
-- claim_id: df76553f-a07c-4161-a321-e7f9c21590bb
-  claim_hash: f3b7574ead315e57d3f8144e38afe4d6efef724a69a4aebc1148c693def156b0
-  content: The Roswell Army Air Field press release of July 8, 1947 was issued by
-    public relations officer Lieutenant Walter Haut, on order from the base commander.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
-    title: July 8, 1947 Roswell Army Air Field press release
-    slug: 1947-roswell-army-air-field-press-release-july-8
   - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
     title: Walter Haut
+    node_type: person
     slug: walter-haut
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
+    shared_claims: 9
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    node_type: event
+    slug: roswell-incident-1947
+    shared_claims: 8
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    node_type: person
+    slug: jesse-marcel
+    shared_claims: 5
+  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+    title: Sheridan Cavitt
+    node_type: person
+    slug: sheridan-cavitt
+    shared_claims: 3
+  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+    title: USA, New Mexico, Roswell Army Air Field
+    node_type: place
+    slug: new-mexico-roswell-army-air-field-usa
+    shared_claims: 3
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    node_type: person
+    slug: roger-ramey
+    shared_claims: 2
   - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
     title: Roswell Army Air Field
+    node_type: organisation
     slug: roswell-army-air-field
-  date: '1947-07-08'
-  date_end: null
-  location_in_record: ch14:14274-14372
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: c058f85d-0c54-4539-9e5f-5bb04f1ffc41
-  claim_hash: 589f6a1689326b7dc6db754435492909e4abb92eeb156bb22d7b50d4e9178b06
-  content: Whitley Strieber considers it unlikely that a working base commander such
-    as Colonel William Blanchard, whose order led to the original press release claiming
-    the debris was a crashed disk, would have mistaken weather balloons, box kites,
-    or radar targets.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
+    shared_claims: 2
   - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
     title: 2004 USS Nimitz UAP encounter
+    node_type: event
     slug: 2004-uss-nimitz-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: ch14:16135-16374
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 7358ddd1-c8b0-444b-9a99-70df9693516e
-  claim_hash: f76363b2d49f07fc362527cb21d2bf08fa086be81c8885b397f88d381fda1c88
-  content: Barry Goldwater was a close friend of Air Force General William 'Butch'
-    Blanchard, who as a colonel in 1947 was the commanding officer of the 509th Bomb
-    Group at Roswell Army Air Field when the supposed Roswell UFO crash happened.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
-    title: Roswell Army Air Field
-    slug: roswell-army-air-field
-  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
-    title: Barry Goldwater
-    slug: barry-goldwater
+    shared_claims: 1
   - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
     title: 509th Bomb Group
+    node_type: organisation
     slug: 509th-bomb-group
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    slug: roswell-incident-1947
-  date: '1947'
-  date_end: null
-  location_in_record: ch27:19451-19703
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 285961e3-90e2-4268-b4d3-a4e3229366a0
-  claim_hash: 8193baaf7ba0b71048c33d4af2a57297c66a8f1f4f0a4ca6e0d08b01b629e5ed
-  content: When Jesse Marcel and Sheridan Cavitt brought their debris back to the
-    Roswell base, their commanding officer Colonel William Blanchard sent Marcel on
-    a flight to take the debris to the 8th Air Force headquarters in Fort Worth, Texas,
-    to meet Brigadier General Roger Ramey.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
-    title: Roger Ramey
-    slug: roger-ramey
-  - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
-    title: USA, Texas, Fort Worth
-    slug: texas-fort-worth-usa
-  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
-    title: Sheridan Cavitt
-    slug: sheridan-cavitt
-  - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
-    title: French Air Force
-    slug: french-air-force
-  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
-    title: Jesse Marcel
-    slug: jesse-marcel
-  date: '1947-07-08'
-  date_end: null
-  location_in_record: ch7:11422-11674
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 4d0c03f2-5f51-4884-b6de-467411880fa9
-  claim_hash: d4883687fee157a9a954306a6b04946e5dff90359c7f5a5064e9bd4cd0a42305
-  content: At midday on 8 July 1947, Colonel William Blanchard ordered his base public
-    information officer Lieutenant Walter Haut to issue a press release announcing
-    that the US Army had recovered a flying disc.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-    slug: walter-haut
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
-    title: United States Army
-    slug: united-states-army
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    slug: roswell-incident-1947
-  date: '1947-07-08'
-  date_end: null
-  location_in_record: ch7:11681-11874
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d25679ca-4390-489b-ab9c-f0c7e43ae7be
-  claim_hash: 92b89a13549a4a781b71fb4d4b133f9909b366169f50b0cb0a074d9e3209ac74
-  content: It has never been satisfactorily explained why Roswell commanding officer
-    Colonel William Blanchard so quickly concluded that what had crashed was a 'flying
-    disc' when supposedly all he was shown at the base by Jesse Marcel and Sheridan
-    Cavitt were small pieces of debris.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    slug: roswell-incident-1947
-  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
-    title: Sheridan Cavitt
-    slug: sheridan-cavitt
-  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
-    title: Jesse Marcel
-    slug: jesse-marcel
-  date: null
-  date_end: null
-  location_in_record: ch7:15799-16050
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 3a67efe8-4e7d-4611-aa51-3209fb4624bc
-  claim_hash: a0bcad3c7c4c3b1331523a6730aeabfdc534de9b149ee52a51dbde4dbf2d97f0
-  content: Colonel William Blanchard confided to his friend, the editor of the Roswell
-    Morning Dispatch newspaper, that the stuff he saw at Roswell he had never seen
-    anyplace else in his life.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-  provenance_chain:
-    origin_kind: named
-    origin: William Blanchard
-    relay:
-    - editor of the Roswell Morning Dispatch
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  - node_id: 25070ed2-0721-488d-ba6b-3adac918a006
-    title: Roswell Morning Dispatch
-    slug: roswell-morning-dispatch
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    slug: roswell-incident-1947
-  date: null
-  date_end: null
-  location_in_record: ch7:17371-17534
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 55ca4a47-6961-490c-9666-a5e171e5806b
-  claim_hash: 9bd5fa0ba39ea660c7ca4663e08775263d06f93bb8752f2f198e13b20c0ccf68
-  content: Former US Army public information officer Lieutenant Walter Haut testified
-    in a 2002 deathbed affidavit that he was taken out to a hangar by Colonel William
-    Blanchard to view recovered child-sized bodies with abnormally large heads, lying
-    under a tarpaulin at the base.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-  provenance_chain:
-    origin_kind: named
-    origin: Walter Haut
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-    slug: walter-haut
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    slug: roswell-incident-1947
-  date: '2002'
-  date_end: null
-  location_in_record: ch7:17570-17864
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 4975eefe-669c-47ca-bc7c-ac006e2675b8
-  claim_hash: 829855b700e8776f9747efd434e18569a3918712e070e0628ecd83f87b02c08b
-  content: Walter Haut alleged that Colonel William Blanchard allowed him to see an
-    apparent alien craft in a hangar approximately 3.7 to 4.6 metres in length, slightly
-    less wide, about 1.8 metres high and more of an egg shape, with poor lighting
-    but a surface that appeared metallic.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-  provenance_chain:
-    origin_kind: named
-    origin: Walter Haut
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-    slug: walter-haut
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    slug: roswell-incident-1947
-  date: '2002'
-  date_end: null
-  location_in_record: ch7:17911-18135
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: fbb5d4d6-9277-455b-aad9-17d756e29a83
-  claim_hash: 0def228e8d9311cfa96fd319e43822a9f46a59820ffade579d3d572e337619d7
-  content: Walter Haut alleged that Colonel William Blanchard's press release was
-    a ruse to divert public attention from the main recovery operation of the craft
-    from a different site.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-  provenance_chain:
-    origin_kind: named
-    origin: Walter Haut
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-    slug: walter-haut
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    slug: roswell-incident-1947
-  date: '2002'
-  date_end: null
-  location_in_record: ch7:18262-18407
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 644c76cd-8484-44b4-828e-04ff2f13cac2
-  claim_hash: 38df5320a11c89386311194e350ed8513fc3b60bbe1f784fc7aeb318a4bf7e16
-  content: The Walter Haut affidavit states that at a later date in William Blanchard's
-    office, Blanchard extended his arm about 1.2 metres above the floor to indicate
-    the height of the bodies.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-  provenance_chain:
-    origin_kind: document
-    origin: Walter Haut
-    relay:
-    - Walter Haut affidavit (sworn 2002, released 2007)
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  - node_id: ac1d1ee5-756a-4a27-937b-a4664bed217d
-    title: Walter Haut affidavit (sworn 2002, released 2007)
-    slug: released-2007-walter-haut-affidavit-sworn-2002
-  date: null
-  date_end: null
-  location_in_record: ch11:3907-4015
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: dffe5289-4d64-4503-9c79-e5f62434c8dc
-  claim_hash: 713252a247661c0fb1a27d8d20e1ce7ababeeec04737f95811e0cd68042acb11
-  content: At a later date in his office, William Blanchard indicated the height of
-    the recovered bodies by extending his arm about 1.2 metres above the floor.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter Haut
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-    slug: walter-haut
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  date: null
-  date_end: null
-  location_in_record: ch11:3907-4015
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 6b87785c-9914-4683-842a-192f19362454
-  claim_hash: b68cd0aeeaede8238d8fb35c74e725a44daee1aaa5b9ed84632d615ea2fd633e
-  content: The 1947-07-08 staff meeting at Roswell Army Air Force Base was attended
-    by William Blanchard, Jesse Marcel, Sheridan Cavitt, James I. Hopkins, Patrick
-    Saunders, Isadore Brown, and Ulysses S. Nero.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter Haut
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 085d3824-ddd8-49a0-891d-1fd008f6e704
-    title: Ulysses S. Nero
-    slug: ulysses-s-nero
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
-    title: USA, New Mexico, Roswell Army Air Force Base
-    slug: new-mexico-roswell-army-air-force-base-usa
-  - node_id: c581a3e1-83fa-424c-840d-df874cfccebe
-    title: James I. Hopkins
-    slug: james-i-hopkins
-  - node_id: ce0b967f-b897-4754-aada-b48e03c4a84a
-    title: Patrick Saunders
-    slug: patrick-saunders
-  - node_id: d2b4890a-4999-4f45-9d1c-20e9393a88df
-    title: Isadore Brown
-    slug: isadore-brown
-  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
-    title: Sheridan Cavitt
-    slug: sheridan-cavitt
-  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
-    title: Jesse Marcel
-    slug: jesse-marcel
-  date: '1947-07-08'
-  date_end: null
-  location_in_record: ch28:1231-1486
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: d66a30a2-0753-4b64-b0eb-0a695454f097
-  claim_hash: e4c8b2066d3baf3ef3aaab6ed3d8f807a35147835728fb6a3fd94d5ddc2a69f6
-  content: Brig. Gen. Roger Ramey, William Blanchard's boss from Carswell Army Air
-    Field in Fort Worth, Texas, and his chief of staff Thomas J. DuBose also attended
-    the 1947-07-08 staff meeting at Roswell Army Air Force Base.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter Haut
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 011c9b9f-187c-4a38-a713-19a677937d85
-    title: Thomas J. DuBose
-    slug: thomas-j-dubose
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  - node_id: 345841bf-f575-4c5a-a40a-e11c97cf443f
-    title: USA, Texas, Fort Worth, Carswell Army Air Field
-    slug: texas-fort-worth-carswell-army-air-field-usa
-  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
-    title: Roger Ramey
-    slug: roger-ramey
-  date: '1947-07-08'
-  date_end: null
-  location_in_record: ch28:1464-1608
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: a799bc98-ece8-462d-8606-4b94309bb4ac
-  claim_hash: 4f86b983ee417436e8d4dda4879d5cdd562a014b951c680a8a4e3d10568a1aad
-  content: At the 1947-07-08 staff meeting, William Blanchard gave a preliminary briefing
-    about a second debris site approximately 65 kilometres north of Roswell, New Mexico.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter Haut
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  date: '1947-07-08'
-  date_end: null
-  location_in_record: ch28:1769-1866
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 8293d6b2-fdb5-4504-b97c-f4d5544e55c4
-  claim_hash: 17317da6673c7078239c791a510bdc7152e3b70fcb44c8270ed27839db272f48
-  content: At approximately 9:30 a.m. on 1947-07-08, William Blanchard phoned Walter
-    Haut's office and dictated a press release stating that the Roswell Army Air Force
-    Base had in its possession a flying disc recovered from a ranch northwest of Roswell,
-    with Jesse Marcel flying the material to higher headquarters.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter Haut
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-    slug: walter-haut
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
-    title: Jesse Marcel
-    slug: jesse-marcel
-  date: '1947-07-08'
-  date_end: null
-  location_in_record: ch28:2659-2874
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: e22c1a70-8f17-44a5-8098-8c35778e4bd9
-  claim_hash: 6547a33915cb949ece7e5526718b582ab48468d53549e80ec40017c3e9ffd96c
-  content: William Blanchard suggested that Walter Haut go home and "hide out" after
-    the flying disc press release caused a flood of media inquiries.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter Haut
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-    slug: walter-haut
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  date: '1947-07-08'
-  date_end: null
-  location_in_record: ch28:3162-3253
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 5bd43ee5-5e57-4abe-b53f-2a92628b5862
-  claim_hash: 16883d5b28a8aeb98578031a8615eaa1b88037a17c2ac79fbe1d039f6fe4aadd
-  content: Before Walter Haut left the base, William Blanchard personally took him
-    to Building 84, a B-29 hangar located on the east side of the tarmac at Roswell
-    Army Air Force Base.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter Haut
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-    slug: walter-haut
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
+    shared_claims: 1
+  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+    node_type: person
+    slug: barry-goldwater
+    shared_claims: 1
   - node_id: b396851f-a4bb-406a-9a7f-761ea902a164
     title: Building 84 (B-29 hangar, Roswell Army Air Base)
+    node_type: object
     slug: roswell-army-air-base-building-84-b-29-hangar
-  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
-    title: USA, New Mexico, Roswell Army Air Force Base
-    slug: new-mexico-roswell-army-air-force-base-usa
-  date: '1947-07-08'
-  date_end: null
-  location_in_record: ch28:3260-3381
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: ced0c092-a6c8-49b9-b815-b43f61e67403
-  claim_hash: a8767257ac79272151a1e87a068db8d178ee3e04e868dfeaa451f3cf1cfcb4fb
-  content: Jesse Marcel, head of intelligence at Roswell Army Air Force Base, was
-    sent by base commander William Blanchard to investigate the reported downed vehicle
-    debris on 1947-07-07.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter Haut
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
-    title: USA, New Mexico, Roswell Army Air Force Base
-    slug: new-mexico-roswell-army-air-force-base-usa
-  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
-    title: Jesse Marcel
-    slug: jesse-marcel
-  date: '1947-07-07'
-  date_end: null
-  location_in_record: ch28:754-875
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+    title: French Air Force
+    node_type: organisation
+    slug: french-air-force
+    shared_claims: 1
+  - node_id: d2b4890a-4999-4f45-9d1c-20e9393a88df
+    title: Isadore Brown
+    node_type: person
+    slug: isadore-brown
+    shared_claims: 1
+  - node_id: c581a3e1-83fa-424c-840d-df874cfccebe
+    title: James I. Hopkins
+    node_type: person
+    slug: james-i-hopkins
+    shared_claims: 1
+  - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
+    title: July 8, 1947 Roswell Army Air Field press release
+    node_type: document
+    slug: 1947-roswell-army-air-field-press-release-july-8
+    shared_claims: 1
+  - node_id: ce0b967f-b897-4754-aada-b48e03c4a84a
+    title: Patrick Saunders
+    node_type: person
+    slug: patrick-saunders
+    shared_claims: 1
+  - node_id: 25070ed2-0721-488d-ba6b-3adac918a006
+    title: Roswell Morning Dispatch
+    node_type: organisation
+    slug: roswell-morning-dispatch
+    shared_claims: 1
+  - node_id: 011c9b9f-187c-4a38-a713-19a677937d85
+    title: Thomas J. DuBose
+    node_type: person
+    slug: thomas-j-dubose
+    shared_claims: 1
+  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+    title: USA, New Mexico
+    node_type: place
+    slug: new-mexico-usa
+    shared_claims: 1
+  - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+    title: USA, Texas, Fort Worth
+    node_type: place
+    slug: texas-fort-worth-usa
+    shared_claims: 1
+  - node_id: 345841bf-f575-4c5a-a40a-e11c97cf443f
+    title: USA, Texas, Fort Worth, Carswell Army Air Field
+    node_type: organisation
+    slug: texas-fort-worth-carswell-army-air-field-usa
+    shared_claims: 1
+  - node_id: 085d3824-ddd8-49a0-891d-1fd008f6e704
+    title: Ulysses S. Nero
+    node_type: person
+    slug: ulysses-s-nero
+    shared_claims: 1
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    node_type: organisation
+    slug: united-states-army
+    shared_claims: 1
+  - node_id: ac1d1ee5-756a-4a27-937b-a4664bed217d
+    title: Walter Haut affidavit (sworn 2002, released 2007)
+    node_type: document
+    slug: released-2007-walter-haut-affidavit-sworn-2002
+    shared_claims: 1
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+claims:
+  - claim_id: df76553f-a07c-4161-a321-e7f9c21590bb
+    claim_hash: f3b7574ead315e57d3f8144e38afe4d6efef724a69a4aebc1148c693def156b0
+    content: The Roswell Army Air Field press release of July 8, 1947 was issued by public relations officer Lieutenant Walter
+      Haut, on order from the base commander.
+    original_excerpt: The release was Issued by public relations officer Lieutenant Walter Haut, on order from the base commander.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
+        title: July 8, 1947 Roswell Army Air Field press release
+        slug: 1947-roswell-army-air-field-press-release-july-8
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+        title: Roswell Army Air Field
+        slug: roswell-army-air-field
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch14:14274-14372
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: c058f85d-0c54-4539-9e5f-5bb04f1ffc41
+    claim_hash: 589f6a1689326b7dc6db754435492909e4abb92eeb156bb22d7b50d4e9178b06
+    content: Whitley Strieber considers it unlikely that a working base commander such as Colonel William Blanchard, whose
+      order led to the original press release claiming the debris was a crashed disk, would have mistaken weather balloons,
+      box kites, or radar targets.
+    original_excerpt: Even less likely to be confused on this matter would have been a working base commander such as Colonel
+      William Blanchard, whose order led to the base press officer issuing the original press release claiming that the debris
+      was a crashed disk.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch14:16135-16374
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 7358ddd1-c8b0-444b-9a99-70df9693516e
+    claim_hash: f76363b2d49f07fc362527cb21d2bf08fa086be81c8885b397f88d381fda1c88
+    content: Barry Goldwater was a close friend of Air Force General William 'Butch' Blanchard, who as a colonel in 1947 was
+      the commanding officer of the 509th Bomb Group at Roswell Army Air Field when the supposed Roswell UFO crash happened.
+    original_excerpt: Goldwater was also a close friend of air force General William 'Butch' Blanchard who, as a colonel in
+      1947, was the commanding officer of the 509th Bomb Group at the Roswell Army Air Field when the supposed Roswell UFO
+      crash happened.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+        title: Roswell Army Air Field
+        slug: roswell-army-air-field
+      - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+        title: Barry Goldwater
+        slug: barry-goldwater
+      - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
+        title: 509th Bomb Group
+        slug: 509th-bomb-group
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: '1947'
+    date_end: null
+    location_in_record: ch27:19451-19703
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 285961e3-90e2-4268-b4d3-a4e3229366a0
+    claim_hash: 8193baaf7ba0b71048c33d4af2a57297c66a8f1f4f0a4ca6e0d08b01b629e5ed
+    content: When Jesse Marcel and Sheridan Cavitt brought their debris back to the Roswell base, their commanding officer
+      Colonel William Blanchard sent Marcel on a flight to take the debris to the 8th Air Force headquarters in Fort Worth,
+      Texas, to meet Brigadier General Roger Ramey.
+    original_excerpt: When Marcel and Cavitt brought their debris back to the Roswell base, their commanding officer Colonel
+      William Blanchard sent Marcel on a flight to take the debris to the 8th Air Force headquarters in Fort Worth, Texas,
+      to meet Brigadier General Roger Ramey.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+        title: Roger Ramey
+        slug: roger-ramey
+      - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+        title: USA, Texas, Fort Worth
+        slug: texas-fort-worth-usa
+      - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+        title: Sheridan Cavitt
+        slug: sheridan-cavitt
+      - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+        title: French Air Force
+        slug: french-air-force
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch7:11422-11674
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4d0c03f2-5f51-4884-b6de-467411880fa9
+    claim_hash: d4883687fee157a9a954306a6b04946e5dff90359c7f5a5064e9bd4cd0a42305
+    content: At midday on 8 July 1947, Colonel William Blanchard ordered his base public information officer Lieutenant Walter
+      Haut to issue a press release announcing that the US Army had recovered a flying disc.
+    original_excerpt: At midday on the same day, 8 July 1947, Blanchard ordered his base public information officer Lieutenant
+      Walter Haut to issue a press release announcing that the US Army had recovered a flying disc.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch7:11681-11874
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d25679ca-4390-489b-ab9c-f0c7e43ae7be
+    claim_hash: 92b89a13549a4a781b71fb4d4b133f9909b366169f50b0cb0a074d9e3209ac74
+    content: It has never been satisfactorily explained why Roswell commanding officer Colonel William Blanchard so quickly
+      concluded that what had crashed was a 'flying disc' when supposedly all he was shown at the base by Jesse Marcel and
+      Sheridan Cavitt were small pieces of debris.
+    original_excerpt: What has never been satisfactorily explained is why Roswell’s commanding officer Colonel Blanchard so
+      quickly concluded that what had crashed was a ‘flying disc’ when, supposedly, all he was shown at the base by Marcel
+      and Cavitt were small pieces of debris.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+        title: Sheridan Cavitt
+        slug: sheridan-cavitt
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: null
+    date_end: null
+    location_in_record: ch7:15799-16050
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3a67efe8-4e7d-4611-aa51-3209fb4624bc
+    claim_hash: a0bcad3c7c4c3b1331523a6730aeabfdc534de9b149ee52a51dbde4dbf2d97f0
+    content: Colonel William Blanchard confided to his friend, the editor of the Roswell Morning Dispatch newspaper, that
+      the stuff he saw at Roswell he had never seen anyplace else in his life.
+    original_excerpt: Colonel Blanchard even confided to his friend, the editor of the Roswell Morning Dispatch newspaper,
+      that, ‘The stuff I saw, I’ve never seen anyplace else in my life.’
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+      title: William Blanchard
+    provenance_chain:
+      origin_kind: named
+      origin: William Blanchard
+      relay:
+        - editor of the Roswell Morning Dispatch
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: 25070ed2-0721-488d-ba6b-3adac918a006
+        title: Roswell Morning Dispatch
+        slug: roswell-morning-dispatch
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: null
+    date_end: null
+    location_in_record: ch7:17371-17534
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 55ca4a47-6961-490c-9666-a5e171e5806b
+    claim_hash: 9bd5fa0ba39ea660c7ca4663e08775263d06f93bb8752f2f198e13b20c0ccf68
+    content: Former US Army public information officer Lieutenant Walter Haut testified in a 2002 deathbed affidavit that
+      he was taken out to a hangar by Colonel William Blanchard to view recovered child-sized bodies with abnormally large
+      heads, lying under a tarpaulin at the base.
+    original_excerpt: There is also the extraordinary deathbed affidavit of former US Army public information officer Lieutenant
+      Walter Haut, who testified in 2002 that he was taken out to a hangar by Colonel Blanchard to view recovered child-sized
+      bodies with abnormally large heads, lying under a tarpaulin at the base.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: named
+      origin: Walter Haut
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: '2002'
+    date_end: null
+    location_in_record: ch7:17570-17864
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4975eefe-669c-47ca-bc7c-ac006e2675b8
+    claim_hash: 829855b700e8776f9747efd434e18569a3918712e070e0628ecd83f87b02c08b
+    content: Walter Haut alleged that Colonel William Blanchard allowed him to see an apparent alien craft in a hangar approximately
+      3.7 to 4.6 metres in length, slightly less wide, about 1.8 metres high and more of an egg shape, with poor lighting
+      but a surface that appeared metallic.
+    original_excerpt: he alleged that Blanchard allowed him to see an apparent alien craft in a hangar ‘approx. 12 to 15 feet
+      in length, not quite as wide, about 6 feet high and more of an egg shape. Lighting was poor, but its surface did appear
+      metallic’.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: named
+      origin: Walter Haut
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: '2002'
+    date_end: null
+    location_in_record: ch7:17911-18135
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: fbb5d4d6-9277-455b-aad9-17d756e29a83
+    claim_hash: 0def228e8d9311cfa96fd319e43822a9f46a59820ffade579d3d572e337619d7
+    content: Walter Haut alleged that Colonel William Blanchard's press release was a ruse to divert public attention from
+      the main recovery operation of the craft from a different site.
+    original_excerpt: Haut also alleged Blanchard’s press release was a ruse to divert public attention from the main recovery
+      operation of the craft from a different site.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: named
+      origin: Walter Haut
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: '2002'
+    date_end: null
+    location_in_record: ch7:18262-18407
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 644c76cd-8484-44b4-828e-04ff2f13cac2
+    claim_hash: 38df5320a11c89386311194e350ed8513fc3b60bbe1f784fc7aeb318a4bf7e16
+    content: The Walter Haut affidavit states that at a later date in William Blanchard's office, Blanchard extended his arm
+      about 1.2 metres above the floor to indicate the height of the bodies.
+    original_excerpt: At a later date in Blanchard’s office, he would extend his arm about 4 feet above the floor to indicate
+      the height.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: document
+      origin: Walter Haut
+      relay:
+        - Walter Haut affidavit (sworn 2002, released 2007)
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: ac1d1ee5-756a-4a27-937b-a4664bed217d
+        title: Walter Haut affidavit (sworn 2002, released 2007)
+        slug: released-2007-walter-haut-affidavit-sworn-2002
+    date: null
+    date_end: null
+    location_in_record: ch11:3907-4015
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: dffe5289-4d64-4503-9c79-e5f62434c8dc
+    claim_hash: 713252a247661c0fb1a27d8d20e1ce7ababeeec04737f95811e0cd68042acb11
+    content: At a later date in his office, William Blanchard indicated the height of the recovered bodies by extending his
+      arm about 1.2 metres above the floor.
+    original_excerpt: At a later date in Blanchard's office, he would extend his arm about 4 feet above the floor to indicate
+      the height.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+    date: null
+    date_end: null
+    location_in_record: ch11:3907-4015
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 6b87785c-9914-4683-842a-192f19362454
+    claim_hash: b68cd0aeeaede8238d8fb35c74e725a44daee1aaa5b9ed84632d615ea2fd633e
+    content: The 1947-07-08 staff meeting at Roswell Army Air Force Base was attended by William Blanchard, Jesse Marcel,
+      Sheridan Cavitt, James I. Hopkins, Patrick Saunders, Isadore Brown, and Ulysses S. Nero.
+    original_excerpt: Besides Blanchard, Marcel; CID Capt. Sheridan Cavitt; Col. James I. Hopkins, the operations officer;
+      Major Patrick Saunders, the base adjutant; Major Isadore Brown the personnel officer; Lt. Col. Ulysses S. Nero, the
+      supply officer... were also in attendance.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 085d3824-ddd8-49a0-891d-1fd008f6e704
+        title: Ulysses S. Nero
+        slug: ulysses-s-nero
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+        title: USA, New Mexico, Roswell Army Air Field
+        slug: new-mexico-roswell-army-air-field-usa
+      - node_id: c581a3e1-83fa-424c-840d-df874cfccebe
+        title: James I. Hopkins
+        slug: james-i-hopkins
+      - node_id: ce0b967f-b897-4754-aada-b48e03c4a84a
+        title: Patrick Saunders
+        slug: patrick-saunders
+      - node_id: d2b4890a-4999-4f45-9d1c-20e9393a88df
+        title: Isadore Brown
+        slug: isadore-brown
+      - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+        title: Sheridan Cavitt
+        slug: sheridan-cavitt
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch28:1231-1486
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: d66a30a2-0753-4b64-b0eb-0a695454f097
+    claim_hash: e4c8b2066d3baf3ef3aaab6ed3d8f807a35147835728fb6a3fd94d5ddc2a69f6
+    content: Brig. Gen. Roger Ramey, William Blanchard's boss from Carswell Army Air Field in Fort Worth, Texas, and his chief
+      of staff Thomas J. DuBose also attended the 1947-07-08 staff meeting at Roswell Army Air Force Base.
+    original_excerpt: and from Carswell AAF in Fort Worth, Texas, Blanchard's boss, Brig. Gen. Roger Ramey and his chief of
+      staff, Col. Thomas J. DuBose were also in attendance.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 011c9b9f-187c-4a38-a713-19a677937d85
+        title: Thomas J. DuBose
+        slug: thomas-j-dubose
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: 345841bf-f575-4c5a-a40a-e11c97cf443f
+        title: USA, Texas, Fort Worth, Carswell Army Air Field
+        slug: texas-fort-worth-carswell-army-air-field-usa
+      - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+        title: Roger Ramey
+        slug: roger-ramey
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch28:1464-1608
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: a799bc98-ece8-462d-8606-4b94309bb4ac
+    claim_hash: 4f86b983ee417436e8d4dda4879d5cdd562a014b951c680a8a4e3d10568a1aad
+    content: At the 1947-07-08 staff meeting, William Blanchard gave a preliminary briefing about a second debris site approximately
+      65 kilometres north of Roswell, New Mexico.
+    original_excerpt: A preliminary briefing was provided by Blanchard about the second site approx. 40 miles north of town.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch28:1769-1866
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 8293d6b2-fdb5-4504-b97c-f4d5544e55c4
+    claim_hash: 17317da6673c7078239c791a510bdc7152e3b70fcb44c8270ed27839db272f48
+    content: At approximately 9:30 a.m. on 1947-07-08, William Blanchard phoned Walter Haut's office and dictated a press
+      release stating that the Roswell Army Air Force Base had in its possession a flying disc recovered from a ranch northwest
+      of Roswell, with Jesse Marcel flying the material to higher headquarters.
+    original_excerpt: At approximately 9:30 a.m. Col. Blanchard phoned my office and dictated the press release of having
+      in our possession a flying disc, coming from a ranch northwest of Roswell and Marcel flying the material to higher headquarters.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch28:2659-2874
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: e22c1a70-8f17-44a5-8098-8c35778e4bd9
+    claim_hash: 6547a33915cb949ece7e5526718b582ab48468d53549e80ec40017c3e9ffd96c
+    content: William Blanchard suggested that Walter Haut go home and "hide out" after the flying disc press release caused
+      a flood of media inquiries.
+    original_excerpt: rather than deal with the media concern, Col. Blanchard suggested that I go home and "hide out."
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch28:3162-3253
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 5bd43ee5-5e57-4abe-b53f-2a92628b5862
+    claim_hash: 16883d5b28a8aeb98578031a8615eaa1b88037a17c2ac79fbe1d039f6fe4aadd
+    content: Before Walter Haut left the base, William Blanchard personally took him to Building 84, a B-29 hangar located
+      on the east side of the tarmac at Roswell Army Air Force Base.
+    original_excerpt: Before leaving the base, Col. Blanchard took me personally to Building 84, a B-29 hangar located on
+      the east side of the tarmac.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: b396851f-a4bb-406a-9a7f-761ea902a164
+        title: Building 84 (B-29 hangar, Roswell Army Air Base)
+        slug: roswell-army-air-base-building-84-b-29-hangar
+      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+        title: USA, New Mexico, Roswell Army Air Field
+        slug: new-mexico-roswell-army-air-field-usa
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch28:3260-3381
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: ced0c092-a6c8-49b9-b815-b43f61e67403
+    claim_hash: a8767257ac79272151a1e87a068db8d178ee3e04e868dfeaa451f3cf1cfcb4fb
+    content: Jesse Marcel, head of intelligence at Roswell Army Air Force Base, was sent by base commander William Blanchard
+      to investigate the reported downed vehicle debris on 1947-07-07.
+    original_excerpt: I was aware that Major Jesse A. Marcel, head of intelligence, was sent by the base commander, Col. William
+      Blanchard, to investigate.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+        title: USA, New Mexico, Roswell Army Air Field
+        slug: new-mexico-roswell-army-air-field-usa
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1947-07-07'
+    date_end: null
+    location_in_record: ch28:754-875
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind

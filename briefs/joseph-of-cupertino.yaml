@@ -1,384 +1,479 @@
 schema: anomalica/brief/1
-brief_hash: de67d74e30964d87981f0c8f7df3883f969019b06239ec888931f65721d59811
+brief_hash: c7485e3fe6162ccba1d4557a668f131eef792bf185ec10fc94b10ab37771c586
 page:
   kind: entity
   node_id: e351583f-bcd7-4360-92b1-395ede249cc2
   node_type: person
   title: Joseph of Cupertino
   slug: joseph-of-cupertino
-  claim_count: 10
-  claim_count_total: 10
+  claim_count: 12
+  claim_count_total: 12
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 12
+  tokens_estimated: 3455
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 12
 related_nodes:
-- node_id: ccaada0b-7348-4d54-bd7b-22896b137901
-  title: Maria of Agreda
-  node_type: person
-  slug: maria-of-agreda
-  shared_claims: 2
-- node_id: 76368bb9-92e1-41a8-9e3b-f58895341942
-  title: Pope Urban VIII
-  node_type: person
-  slug: pope-urban-viii
-  shared_claims: 2
-- node_id: f2daae19-9351-4a8e-b466-664f83887f61
-  title: Diana Walsh Pasulka
-  node_type: person
-  slug: diana-walsh-pasulka
-  shared_claims: 1
-- node_id: 34cbcce0-b88a-4057-8691-635f2902c481
-  title: Italy, Rome
-  node_type: place
-  slug: rome-italy
-  shared_claims: 1
-- node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
-  title: Theresa of Avila
-  node_type: person
-  slug: theresa-of-avila
-  shared_claims: 1
-- node_id: c4e34315-2672-453b-9229-4ffc45af0a8f
-  title: They Flew
-  node_type: document
-  slug: they-flew
-  shared_claims: 1
-claims:
-- claim_id: b47e619c-d304-4dae-9fba-1d472c1b7cb4
-  claim_hash: 725c5eaa07ce3339563d167a0654202a1e1f9584a6026da5ff2717b5a59c9991
-  content: An organisation funded D. W. Pasulka's research trip to Rome, Italy to
-    analyse the canonisation trial records of St. Joseph of Cupertino and Sister Maria
-    of Agreda.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
-    title: Italy, Rome
-    slug: rome-italy
   - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
     title: Maria of Agreda
+    node_type: person
     slug: maria-of-agreda
-  - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
-    title: Joseph of Cupertino
-    slug: joseph-of-cupertino
+    shared_claims: 2
+  - node_id: 76368bb9-92e1-41a8-9e3b-f58895341942
+    title: Pope Urban VIII
+    node_type: person
+    slug: pope-urban-viii
+    shared_claims: 2
+  - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+    title: levitation
+    node_type: topic
+    slug: levitation
+    shared_claims: 2
   - node_id: f2daae19-9351-4a8e-b466-664f83887f61
     title: Diana Walsh Pasulka
+    node_type: person
     slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch7:4403-4559
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 4d96c205-023e-4491-8e7d-25b50d678e1a
-  claim_hash: 06ec30d498dec831e899bcc4fe3ffa708e61839edb593441ac8467cdae5df376
-  content: St. Joseph of Cupertino was a seventeenth-century Italian priest said to
-    have levitated so frequently that the priests handling his canonisation case stopped
-    counting the number of witnesses who presented themselves.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: canonisation trial witnesses
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
-    title: Joseph of Cupertino
-    slug: joseph-of-cupertino
-  date: null
-  date_end: null
-  location_in_record: ch7:4702-4924
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: d7892add-4468-4c69-92c5-0677817b9603
-  claim_hash: 34b400fb6b58b9afaa7dff9c3d6a2cc9fa644d250a5ed1023b2cd8492463acc6
-  content: There are extensive records of testimonies of St. Joseph of Cupertino's
-    flights and levitations, including at least one occasion of soaring to the ceiling
-    of a cathedral while carrying another person with him.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: canonisation trial records
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
-    title: Joseph of Cupertino
-    slug: joseph-of-cupertino
-  date: null
-  date_end: null
-  location_in_record: ch7:4935-5108
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 1be51fa1-af86-4be4-b0ef-1c8376c37fc5
-  claim_hash: c9814946b579b785710f9f1d239cec7bc263c20e90cde0c865c25f578b569646
-  content: Joseph of Cupertino was seen levitating by thousands of people, including
-    Pope Urban VIII.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 76368bb9-92e1-41a8-9e3b-f58895341942
-    title: Pope Urban VIII
-    slug: pope-urban-viii
-  - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
-    title: Joseph of Cupertino
-    slug: joseph-of-cupertino
-  date: null
-  date_end: null
-  location_in_record: ch22:20359-20424
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: ab0e8936-1b78-4cab-b2cc-f1f0f2b06dd6
-  claim_hash: 02ad02bffd88f60d1ed0bfb372f940ace5835daf4ad2364e5be862553489e830
-  content: When Joseph of Cupertino bent down to kiss Pope Urban VIII's feet, he shot
-    up into the rafters before the pope and a large assembly of clerics.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 76368bb9-92e1-41a8-9e3b-f58895341942
-    title: Pope Urban VIII
-    slug: pope-urban-viii
-  - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
-    title: Joseph of Cupertino
-    slug: joseph-of-cupertino
-  date: null
-  date_end: null
-  location_in_record: ch22:20430-20618
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 7a74f688-ecad-4986-a52e-558596d40d79
-  claim_hash: 4916045de0f5219813d38c55c1747c2a4aab7a618df7c27992370611a0737fc4
-  content: Joseph of Cupertino floated in ecstasy until ordered by his superiors to
-    come down.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
-    title: Joseph of Cupertino
-    slug: joseph-of-cupertino
-  date: null
-  date_end: null
-  location_in_record: ch22:20628-20696
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: d6b93014-bbff-4514-ac87-0710bdb55aef
-  claim_hash: 075d29a1d645cdb5241db72ec547badf11146b8228b425a355a0c389c7848a5b
-  content: Joseph of Cupertino died in 1663.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
-    title: Joseph of Cupertino
-    slug: joseph-of-cupertino
-  date: '1663'
-  date_end: null
-  location_in_record: ch22:20896-20957
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: f795b775-3b6e-45e4-848b-57aa73a28a78
-  claim_hash: 72ddcc4ea0374c6a469061e564699114536970e8cecf8e043c3408d01d4d9dd4
-  content: Witnesses reported that Theresa of Avila, Joseph of Cupertino, and Maria
-    of Agreda all appeared to be dead when they were levitating.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    node_type: place
+    slug: rome-italy
+    shared_claims: 1
   - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
     title: Theresa of Avila
+    node_type: person
     slug: theresa-of-avila
-  - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
-    title: Maria of Agreda
-    slug: maria-of-agreda
-  - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
-    title: Joseph of Cupertino
-    slug: joseph-of-cupertino
-  date: null
-  date_end: null
-  location_in_record: ch22:22010-22168
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: f465e54d-2fa3-442a-b5f9-49e41e33ee08
-  claim_hash: a12a18cd2184e3bbda825faf4060131615a3fd00565d9f0493f2bc0258e617cb
-  content: During intense meditation, Joseph of Cupertino's body became so rigid and
-    insensitive to stimulation that his feet could be pricked with needles, his hands
-    put into fire, and his eyeballs poked with a finger without eliciting a reaction.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
-    title: Joseph of Cupertino
-    slug: joseph-of-cupertino
-  date: null
-  date_end: null
-  location_in_record: ch22:23234-23487
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: e4ff73ff-99df-4404-8850-6205e577bc14
-  claim_hash: dbc3a8a2b7cd4857cd07ad9c80c2c346fb21fdf1b0d21efa6e235a6202367611
-  content: According to the account in They Flew, Joseph of Cupertino was himself
-    in a state of levitation when he flew to the heavy cross and moved it through
-    the air with him.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: They Flew
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
   - node_id: c4e34315-2672-453b-9229-4ffc45af0a8f
     title: They Flew
+    node_type: document
     slug: they-flew
-  - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
-    title: Joseph of Cupertino
-    slug: joseph-of-cupertino
-  date: null
-  date_end: null
-  location_in_record: ch25:7987-8097
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
+    shared_claims: 1
+claims:
+  - claim_id: b47e619c-d304-4dae-9fba-1d472c1b7cb4
+    claim_hash: 725c5eaa07ce3339563d167a0654202a1e1f9584a6026da5ff2717b5a59c9991
+    content: An organisation funded D. W. Pasulka's research trip to Rome, Italy to analyse the canonisation trial records
+      of St. Joseph of Cupertino and Sister Maria of Agreda.
+    original_excerpt: The organization that funded my research trip to Rome had asked me to analyze the canonization trial
+      records of St. Joseph of Cupertino and Sister Maria of Agreda.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+        title: Italy, Rome
+        slug: rome-italy
+      - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+        title: Maria of Agreda
+        slug: maria-of-agreda
+      - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+        title: Joseph of Cupertino
+        slug: joseph-of-cupertino
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch7:4403-4559
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 4d96c205-023e-4491-8e7d-25b50d678e1a
+    claim_hash: 06ec30d498dec831e899bcc4fe3ffa708e61839edb593441ac8467cdae5df376
+    content: St. Joseph of Cupertino was a seventeenth-century Italian priest said to have levitated so frequently that the
+      priests handling his canonisation case stopped counting the number of witnesses who presented themselves.
+    original_excerpt: Joseph was a seventeenth-century Italian priest who was said to have levitated so frequently that the
+      priests responsible for the case for his canonization stopped counting the number of people who presented themselves
+      as witnesses.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: canonisation trial witnesses
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+        title: Joseph of Cupertino
+        slug: joseph-of-cupertino
+    date: null
+    date_end: null
+    location_in_record: ch7:4702-4924
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: d7892add-4468-4c69-92c5-0677817b9603
+    claim_hash: 34b400fb6b58b9afaa7dff9c3d6a2cc9fa644d250a5ed1023b2cd8492463acc6
+    content: There are extensive records of testimonies of St. Joseph of Cupertino's flights and levitations, including at
+      least one occasion of soaring to the ceiling of a cathedral while carrying another person with him.
+    original_excerpt: There are copious records of the testimonies of his flights, levitations, and even soaring to the ceiling
+      of a cathedral—on at least one occasion taking another person with him.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: canonisation trial records
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+        title: Joseph of Cupertino
+        slug: joseph-of-cupertino
+    date: null
+    date_end: null
+    location_in_record: ch7:4935-5108
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 1be51fa1-af86-4be4-b0ef-1c8376c37fc5
+    claim_hash: c9814946b579b785710f9f1d239cec7bc263c20e90cde0c865c25f578b569646
+    content: Joseph of Cupertino was seen levitating by thousands of people, including Pope Urban VIII.
+    original_excerpt: He was seen to rise by thousands of people, including Pope Urban VIII.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76368bb9-92e1-41a8-9e3b-f58895341942
+        title: Pope Urban VIII
+        slug: pope-urban-viii
+      - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+        title: Joseph of Cupertino
+        slug: joseph-of-cupertino
+    date: null
+    date_end: null
+    location_in_record: ch22:20359-20424
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: ab0e8936-1b78-4cab-b2cc-f1f0f2b06dd6
+    claim_hash: 02ad02bffd88f60d1ed0bfb372f940ace5835daf4ad2364e5be862553489e830
+    content: When Joseph of Cupertino bent down to kiss Pope Urban VIII's feet, he shot up into the rafters before the pope
+      and a large assembly of clerics.
+    original_excerpt: When Joseph, who was overawed to meet the pope, bent down to kiss his feet, he instead shot up into
+      the rafters before the pope and the large assembly of clerics that were present for the audience.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76368bb9-92e1-41a8-9e3b-f58895341942
+        title: Pope Urban VIII
+        slug: pope-urban-viii
+      - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+        title: Joseph of Cupertino
+        slug: joseph-of-cupertino
+    date: null
+    date_end: null
+    location_in_record: ch22:20430-20618
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 7a74f688-ecad-4986-a52e-558596d40d79
+    claim_hash: 4916045de0f5219813d38c55c1747c2a4aab7a618df7c27992370611a0737fc4
+    content: Joseph of Cupertino floated in ecstasy until ordered by his superiors to come down.
+    original_excerpt: He floated in ecstasy until he was ordered by his superiors to come down.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+        title: Joseph of Cupertino
+        slug: joseph-of-cupertino
+    date: null
+    date_end: null
+    location_in_record: ch22:20628-20696
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: d6b93014-bbff-4514-ac87-0710bdb55aef
+    claim_hash: 075d29a1d645cdb5241db72ec547badf11146b8228b425a355a0c389c7848a5b
+    content: Joseph of Cupertino died in 1663.
+    original_excerpt: The pope died in 1644, Joseph in 1663, so he did not get the chance.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+        title: Joseph of Cupertino
+        slug: joseph-of-cupertino
+    date: '1663'
+    date_end: null
+    location_in_record: ch22:20896-20957
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: f795b775-3b6e-45e4-848b-57aa73a28a78
+    claim_hash: 72ddcc4ea0374c6a469061e564699114536970e8cecf8e043c3408d01d4d9dd4
+    content: Witnesses reported that Theresa of Avila, Joseph of Cupertino, and Maria of Agreda all appeared to be dead when
+      they were levitating.
+    original_excerpt: Witnesses reported that Theresa of Avila, Joseph of Cupertino, and Maria of Agreda, who was also a noteworthy
+      bilocator, all seemed to be dead when they were levitating.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+        title: Theresa of Avila
+        slug: theresa-of-avila
+      - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+        title: Maria of Agreda
+        slug: maria-of-agreda
+      - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+        title: Joseph of Cupertino
+        slug: joseph-of-cupertino
+    date: null
+    date_end: null
+    location_in_record: ch22:22010-22168
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: f465e54d-2fa3-442a-b5f9-49e41e33ee08
+    claim_hash: a12a18cd2184e3bbda825faf4060131615a3fd00565d9f0493f2bc0258e617cb
+    content: During intense meditation, Joseph of Cupertino's body became so rigid and insensitive to stimulation that his
+      feet could be pricked with needles, his hands put into fire, and his eyeballs poked with a finger without eliciting
+      a reaction.
+    original_excerpt: His state would be so intense that he would become completely rigid, and so insensitive to physical
+      stimulation that his feet could be pricked with needles, his hands put into fire, and his eyeballs actually poked with
+      the finger, and there would be no reaction.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+        title: Joseph of Cupertino
+        slug: joseph-of-cupertino
+    date: null
+    date_end: null
+    location_in_record: ch22:23234-23487
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: e4ff73ff-99df-4404-8850-6205e577bc14
+    claim_hash: dbc3a8a2b7cd4857cd07ad9c80c2c346fb21fdf1b0d21efa6e235a6202367611
+    content: According to the account in They Flew, Joseph of Cupertino was himself in a state of levitation when he flew
+      to the heavy cross and moved it through the air with him.
+    original_excerpt: Joseph, who was at that moment himself in a state of levitation, flew to it and moved it through the
+      air with him.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: They Flew
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c4e34315-2672-453b-9229-4ffc45af0a8f
+        title: They Flew
+        slug: they-flew
+      - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+        title: Joseph of Cupertino
+        slug: joseph-of-cupertino
+    date: null
+    date_end: null
+    location_in_record: ch25:7987-8097
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 9d34213c-941c-4378-aa0f-feefd5f9abd2
+    claim_hash: 4f868a2c5ee6f54161beee267e365806a4d9e80c6664b63fd259f72743d04f70
+    content: Joseph of Cupertino levitated in front of the Pope and a room full of people.
+    original_excerpt: Joseph of Cupertino yeah was seen by even the pope ... well he levitated in front of the pope and and
+      a room full of people
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: document
+      origin: They Flew by Carlos Eire
+      relay:
+        - Whitley Strieber's reading of the book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+        title: levitation
+        slug: levitation
+      - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+        title: Joseph of Cupertino
+        slug: joseph-of-cupertino
+    date: null
+    date_end: null
+    location_in_record: 01:58:41.7-01:58:49.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: c9d398ec-809f-4340-bf9a-a3954796d9cb
+    claim_hash: 4c129347f10f08b1bc4e3247903b85d4031202255c7ef8b543d4818661c90c6d
+    content: The Pope who witnessed Joseph of Cupertino levitate said that if Joseph of Cupertino died before he did, he would
+      make him a saint, but the Pope died first.
+    original_excerpt: the pope at that time said if he dies before i do i am going to make him a saint And unfortunately,
+      it happened the opposite way.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: document
+      origin: They Flew by Carlos Eire
+      relay:
+        - Whitley Strieber's reading of the book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+        title: levitation
+        slug: levitation
+      - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+        title: Joseph of Cupertino
+        slug: joseph-of-cupertino
+    date: null
+    date_end: null
+    location_in_record: 01:58:52.8-01:59:03.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

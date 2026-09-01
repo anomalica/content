@@ -1,46 +1,42 @@
 ---
 title: Report on the Historical Record of U.S. Government Involvement with Unidentified
   Anomalous Phenomena (UAP), Volume I
-description: A February 2024 report by the All-domain Anomaly Resolution Office reviewing
-  the history of official United States Government investigations into unidentified
-  anomalous phenomena from 1945 to October 2023, concluding that no evidence of extraterrestrial
-  technology has been found.
+description: A report by the All-domain Anomaly Resolution Office reviewing United
+  States Government investigations into unidentified anomalous phenomena since 1945
+  and assessing claims concerning extraterrestrial technology, recovered material
+  and concealed programmes.
 noindex: true
 metadata:
   medium: pdf
   date: '2024-02-01'
   publisher: All-domain Anomaly Resolution Office
 record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+source:
+  status: public_domain
+  effective_status: public_domain
+  type: pdf
+  display: text
+  url: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+  publisher: All-domain Anomaly Resolution Office
+  date_published: 2024-02-01
 references:
-- text: Volume I covers AARO's findings on US Government UAP involvement from 1945
-    to 31 October 2023
+- text: Volume I reviews United States Government activity concerning UAP since 1945.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
-  location: file_page 11, Section III
-  quote: Volume I contains AARO's findings from 1945 to 31 October 2023 based on the
-    requirements
-  claim_id: 91f0c400-96d4-4751-94ca-7235c17229b6
+  location: char:654-881
+  quote: This report represents Volume I of the All-domain Anomaly Resolution Office's
+    (AARO) Historical Record Report (HR2) which reviews the record of the United States
+    Government (USG) pertaining to unidentified anomalous phenomena (UAP).
+  claim_id: 3a8721b0-5098-4d82-b6f1-dacf16ab81d7
+  claim_fingerprint: 04fb2be0de193e2c7b1a79bafe85b86d040b5244ea0b6d2628ed0741f84b7782
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   copyright_status: public_domain
-- text: AARO reviewed all official US Government UAP investigatory efforts since 1945,
-    reviewed classified and unclassified archives, conducted approximately 30 interviews,
-    and partnered with Intelligence Community and DoD officials
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3a8721b0-5098-4d82-b6f1-dacf16ab81d7
+- text: The report was provided by the Department of Defense in response to a statutory
+    reporting requirement.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
-  location: file_page 6, Section I
-  quote: In completing this report, AARO reviewed all official USG investigatory efforts
-    since 1945, researched classified and unclassified archives, conducted approximately
-    30 interviews, and partnered with Intelligence Community (IC) and Department of
-    Defense (DoD) officials responsible for controlled and special access program
-    oversight, respectively.
-  claim_id: d0f51c74-e583-4d96-8709-9d93b3ecca78
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-- text: The report was provided by DoD in response to a requirement in the National
-    Defense Authorization Act for Fiscal Year 2023, Section 6802(j)
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: file_page 11, Section III
+  location: char:16531-17082
   quote: 'This HR2 is provided by DoD in response to a requirement established in
     the National Defense Authorization Act (NDAA) for FY 2023, Section 6802(j), which
     states: "Not later than 540 days after the date of the enactment of the Intelligence
@@ -48,321 +44,273 @@ references:
     to the congressional defense committees, the congressional intelligence committees
     and the congressional leadership a written report detailing the historical record
     of the United States Government relating to unidentified anomalous phenomena."'
-  claim_id: f62d69aa-502d-4878-bdaa-3b5795213895
+  claim_id: 7646d8bf-dc34-41cc-9a58-fd49c2c178bb
+  claim_fingerprint: 8c1404de241f56758986260baadb796724840f0ee2f48a4f133ec49993a06553
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   copyright_status: public_domain
-- text: AARO found no evidence that any US Government investigation, academic research,
-    or review panel confirmed any UAP sighting represented extraterrestrial technology
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7646d8bf-dc34-41cc-9a58-fd49c2c178bb
+- text: The report drew on government records, interviews, open-source analysis and
+    classified and unclassified archives.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
-  location: file_page 7, Section II
+  location: char:17094-17329
+  quote: This report, pursuant to the legislation, is based upon the records and documents
+    of the IC and DoD, oral history interviews, open source analysis, interviews of
+    current and former government officials, and classified and unclassified archives.
+  claim_id: d9c5b870-768f-488b-a106-ae4d6f75f690
+  claim_fingerprint: 79eabb88357b9f07ae5fd53ee640a05ab10a8b16a4ffdcb4a266fc1d1a9bce1a
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d9c5b870-768f-488b-a106-ae4d6f75f690
+- text: AARO conducted approximately 30 interviews during its research.
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:1028-1146
+  quote: conducted approximately 30 interviews, and partnered with Intelligence Community
+    (IC) and Department of Defense (DoD) officials
+  claim_id: 51d292b0-1a26-4210-8edf-11adeebc83c2
+  claim_fingerprint: 88a953fa16511dd22f35a3b94ecb2470febfee7648f5d7e6a25655d07f9a0c94
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-51d292b0-1a26-4210-8edf-11adeebc83c2
+- text: AARO used six parallel lines of effort for the historical review.
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:21703-21860
+  quote: AARO established six complementary lines of effort (LOEs) to conduct the
+    HR2 research with the goal of ensuring this report conveys an accurate and complete
+    picture.
+  claim_id: e80ef5c4-6acf-4269-a2a0-9c2c9520c499
+  claim_fingerprint: d3e1f68ea4f398988b837442bdf03efe58d3aa235de18ddb1d95c94f7f2738ec
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e80ef5c4-6acf-4269-a2a0-9c2c9520c499
+- text: AARO found no evidence that an official investigation or review panel had
+    confirmed a UAP sighting as extraterrestrial technology.
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:4289-4464
   quote: AARO found no evidence that any USG investigation, academic-sponsored research,
     or official review panel has confirmed that any sighting of a UAP represented
     extraterrestrial technology.
-  claim_id: 223c3ccb-b2d4-4916-8c2b-b28b0733a5ff
+  claim_id: 1797f937-1347-439e-b37e-eaa04c06c067
+  claim_fingerprint: 81f11fb8f26334ef24860f2f453611f0b9d14b76f55574268c245e219745027d
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   copyright_status: public_domain
-- text: All US Government UAP investigative efforts concluded most sightings were
-    ordinary objects and phenomena resulting from misidentification
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1797f937-1347-439e-b37e-eaa04c06c067
+- text: Investigative efforts concluded that most sightings involved ordinary objects
+    or phenomena and misidentification.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
-  location: file_page 7, Section II
+  location: char:4479-4623
   quote: All investigative efforts, at all levels of classification, concluded that
     most sightings were ordinary objects and phenomena and the result of misidentification.
-  claim_id: d9dfdf34-65d2-4628-ad53-6a322cd08874
+  claim_id: 6121a2ee-8a40-42ce-bdc9-1433f618d225
+  claim_fingerprint: 83dbfd4e6e8a5ea88a892abc7b9e1029fa9999f00792466522858aac7344e0e9
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   copyright_status: public_domain
-- text: AARO found no empirical evidence for claims that the US Government and private
-    companies have been reverse-engineering extraterrestrial technology
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-6121a2ee-8a40-42ce-bdc9-1433f618d225
+- text: AARO found no empirical evidence for reverse-engineering of extraterrestrial
+    technology by the United States Government or private companies.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
-  location: file_page 7, Section II
+  location: char:5651-5777
   quote: AARO found no empirical evidence for claims that the USG and private companies
     have been reverse-engineering extraterrestrial technology.
-  claim_id: 0a42f3f3-7933-448f-94b5-5c07d68a7fb3
+  claim_id: 838ba213-acae-4643-8f4d-38ed51f1d2c2
+  claim_fingerprint: 27bb3c5ccaa4fac2f71cb7fd9b1903b2449c11102ffd5b41a58a5967f581981b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   copyright_status: public_domain
-- text: AARO discovered approximately two dozen separate official US Government investigative
-    efforts into UFOs/UAP since 1945
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-838ba213-acae-4643-8f4d-38ed51f1d2c2
+- text: KONA BLUE was proposed to the Department of Homeland Security but was never
+    approved.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
-  location: lines 4
-  quote: This research revealed the existence of approximately two dozen separate
-    investigative efforts, depending on how they are counted.
-  claim_id: cf7f32f5-d10a-4641-8ea8-85aaea8cbf4f
+  location: char:10934-11283
+  quote: One named program was a UAP-related Prospective Special Access Program (PSAP)
+    called KONA BLUE that was proposed to the Department of Homeland Security (DHS)
+    and supported by individuals who believed the USG was hiding off-world technology.
+  claim_id: 2a867a89-5ae3-47e4-8844-4c2c06c4de9d
+  claim_fingerprint: 897f750af033f8368e043f7d6bbdf699478e7e31d043b9374870b5b9942222ea
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   copyright_status: public_domain
-- text: Project SAUCER investigated Kenneth Arnold's 1947 account near Mount Rainier
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-2a867a89-5ae3-47e4-8844-4c2c06c4de9d
+- text: The report describes an Intelligence Community Controlled Access Program expanded
+    in 2021 to include UAP reverse-engineering, but states that it recovered or reverse-engineered
+    no spacecraft and was later disestablished.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
-  location: lines 18
-  quote: Project SAUCER investigated one of the first well-known accounts provided
-    by a private pilot, Kenneth Arnold.
-  claim_id: e756d261-1e48-4188-bf18-c858b5f8ae19
+  location: char:102973-103446
+  quote: AARO confirmed the existence of one IC CAP that was unnecessarily expanded
+    in 2021 to include a UAP reverse-engineering mission.
+  claim_id: 153cc145-a710-4ea7-8959-8fa09d0ff678
+  claim_fingerprint: abbdbf31b18161b4a13ec35eb6fbcd172a472fd10b82c16df44a5f20352de853
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   copyright_status: public_domain
-- text: Kenneth Arnold observed nine circular objects travelling at approximately
-    2,700 kilometres per hour near Mount Rainier on 1947-06-23
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-153cc145-a710-4ea7-8959-8fa09d0ff678
+- text: Project BLUE BOOK recorded 12,618 sightings between 1947 and 1969, of which
+    701 remained unidentified.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
-  location: lines 18
-  quote: objects that periodically flipped and were traveling at 1,700 miles per hour
-  claim_id: b9f13d24-b369-4d1c-a285-ce8449bed4e2
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-- text: Kenneth Arnold described the objects as saucer-like, and his account led to
-    the term flying saucer
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: lines 18
-  quote: His account was picked up by several media outlets, and the term "flying
-    saucer" emerged.
-  claim_id: fb3be7db-b045-47e8-b52a-f8ec5dc05ca4
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-- text: Project SIGN evaluated 243 reported UFO sightings and in February 1949 concluded
-    no definitive evidence proved or disproved the existence of unconventional aircraft
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: lines 26
-  quote: The project evaluated 243 reported UFO sightings
-  claim_id: 4c28a4f4-2f59-46b9-acbc-0ce709582b72
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-- text: Project SIGN staff drafted the Estimate of the Situation, which allegedly
-    concluded UFOs were interplanetary, but it was rejected by USAF Chief of Staff
-    Hoyt S. Vandenberg as lacking proof
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: lines 28
-  quote: but it was rejected by USAF Chief of Staff General Hoyt S. Vandenberg as
-    lacking proof.
-  claim_id: 1706d9b4-9b6b-4bc8-8250-a1bc02b12639
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-- text: Project GRUDGE was renamed from Project SIGN in approximately February 1949
-    and investigated 244 UFO reports, finding no evidence of foreign technology
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: lines 38–40
-  quote: Project SIGN was renamed Project GRUDGE in approximately February 1949.
-  claim_id: b5305e17-c75f-4f06-9035-7ce37e1d9f90
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-- text: Project GRUDGE investigated 244 reports of UFO sightings
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: lines 40
-  quote: Project GRUDGE investigated 244 reports of UFO sightings.
-  claim_id: 3f167104-2f02-4f04-8995-15674998ef63
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-- text: The reorganised Project GRUDGE, led by Captain Edward J. Ruppelt, was established
-    in late October 1951
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: lines 52
-  quote: In late October 1951, almost two years after Project GRUDGE was disestablished,
-    the USAF's UFO mission was reorganized into another distinct program - also named
-    Project GRUDGE - led by Capt Ruppelt.
-  claim_id: 1e4324f4-85f5-4591-b426-7643c986b790
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-- text: Ruppelt created Project BEAR, a contract with the Battelle Memorial Institute
-    to provide scientific support to the reorganised Project GRUDGE
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: lines 67
-  quote: Project BEAR was an informal name given by Capt Ruppelt, Chief of Project
-    GRUDGE, to a contract he created with the Battelle Memorial Institute (BMI) to
-    provide scientific support to the new Project GRUDGE.
-  claim_id: d06708ed-ab5d-499b-98d0-ad2c117d4cfd
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-- text: The USAF recorded 12,618 UFO sightings between 1947 and 1969 under Project
-    BLUE BOOK
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: lines 109
+  location: char:42084-42146; char:46329-46433
   quote: The USAF recorded 12,618 UFO sightings between the years 1947-1969.
-  claim_id: 46215bea-bd02-47a0-8a9e-9f1a605f7730
+  claim_id: 337a2fa8-81e6-42c9-a0ff-b621d1e6d2cc
+  claim_fingerprint: 7b0d9edb99fbeb0b5410c25ce907c5576ef98bbe9bdd34e74ba3a51795401d3e
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   copyright_status: public_domain
-- text: Of 12,618 sightings in Project BLUE BOOK's holdings, 701 were categorised
-    as unidentified and never solved
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-337a2fa8-81e6-42c9-a0ff-b621d1e6d2cc
+- text: Project BLUE BOOK concluded that no evaluated sighting indicated a national-security
+    threat or technology beyond contemporary scientific knowledge.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
-  location: lines 133
-  quote: Of the 12,618 sightings in Project BLUE BOOK's holdings, 701 were categorized
-    as unidentified and never solved.
-  claim_id: f8634248-89c1-4320-a516-7247bfcc2b3a
+  location: char:45905-46205
+  quote: No UFO reported, investigated, and evaluated by the USAF demonstrated any
+    indication of a threat to national security.
+  claim_id: 32d2c583-11de-4c32-ac66-1e89c4a16518
+  claim_fingerprint: 1914e68249b11c2351e23bb075dec6fc913c9214eff9987c49b0f591d8f5a7a3
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   copyright_status: public_domain
-- text: Secretary of the Air Force Robert C. Seamans Jr. announced Project BLUE BOOK's
-    termination on 1969-12-17
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-32d2c583-11de-4c32-ac66-1e89c4a16518
+- text: AAWSAP was established in 2009 and was also known as AATIP.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
-  location: lines 119
-  quote: Secretary of the Air Force Robert C. Seamans, Jr. announced Project BLUE
-    BOOK's termination on December 17, 1969.
-  claim_id: 049bc80e-7542-4f66-a84f-176f39767bc8
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-- text: There was about a 40-year gap in UAP investigation programmes between Project
-    BLUE BOOK's termination in 1969 and the standup of AAWSAP/AATIP in 2009
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: file_page 10, Section II
-  quote: Prior to AAWSAP/AATIP there was about a 40 year gap in UAP investigation
-    programs since the termination of Project BLUE BOOK in 1969.
-  claim_id: 96fdde4f-6950-43d5-8e61-2a9d778422fa
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-- text: The Robertson Panel unanimously concluded there was no evidence of a direct
-    national security threat from UFOs or that they were extraterrestrial
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: lines 91
-  quote: The panel unanimously concluded that there was no evidence of a direct threat
-    to U.S. national security from UFOs or that they were of extraterrestrial origin.
-  claim_id: e4fd5546-4733-4876-afce-d6071cb7eeed
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-- text: The Condon Report concluded that nothing had come from studying UFOs in the
-    past 21 years that had added to scientific knowledge
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: lines 158
-  quote: '"Our general conclusion is that nothing has come from the study of UFOs
-    in the past 21 years that has added to scientific knowledge. Careful consideration
-    of the record as it is available to us leads us to conclude that further extensive
-    study of UFOs probably cannot be justified in the expectation that science will
-    be advanced thereby."'
-  claim_id: b7136104-4930-4d54-9fbe-1785c1d3f8b3
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-- text: The 1947 Roswell incident involved the recovery of metallic and rubber debris
-    from a crashed military balloon, which sparked conspiracy theories
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: lines 190
-  quote: The Roswell incident refers to the July 1947 recovery of metallic and rubber
-    debris from a crashed military balloon near Roswell Army Air Field personnel that
-    sparked conspiracy theories and claims that the debris was from an alien spaceship
-    and part of a USG cover-up.
-  claim_id: 6218bb18-8cc6-4776-b2dc-de9e5e36cca4
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-- text: The 1995 Roswell Report stated the USAF's research found no indication the
-    Roswell incident was a UFO event, and materials recovered were consistent with
-    a Project Mogul balloon
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: lines 194–201
-  quote: The report stated that the USAF's research did not locate or develop any
-    information that indicated the "Roswell Incident" was a UFO event, nor was there
-    any "cover-up" by the USG.
-  claim_id: 54f51f08-5b5e-48f4-a2b1-8345a91771d3
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-- text: At the direction of Senate Majority Leader Harry Reid, 22 million US dollars
-    were appropriated for the DIA to assess long-term foreign advanced aerospace threats
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: lines 211
-  quote: At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense
-    Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for
-    the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats
-    to the United States.
-  claim_id: 7ad90540-53aa-487b-8f4f-8e9e8dd21a63
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-- text: AAWSAP/AATIP was established in 2009 and terminated in 2012 due to DIA and
-    DoD concerns about the project
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: lines 211, 231
+  location: char:59232-59369
   quote: In coordination with the Office of the Under Secretary of Defense for Intelligence,
-    DIA established AAWSAP in 2009, which was also known AATIP. The contract for this
-    DIA-managed program was awarded to a private sector organization.
-  claim_id: ec362bca-da62-4ac6-9791-9ec36a2bbfad
+    DIA established AAWSAP in 2009, which was also known AATIP.
+  claim_id: 1d3d4680-6dd7-4260-bb05-f7e581c22808
+  claim_fingerprint: c8f4a88d32cfe30a626baa8c0fc88e7bba8c4f682eeb5622c0344f9d8f8588a1
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   copyright_status: public_domain
-- text: KONA BLUE was a proposed DHS Special Access Program that was never approved
-    and for which no extraterrestrial craft or bodies were ever collected
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1d3d4680-6dd7-4260-bb05-f7e581c22808
+- text: AARO found no substantive AAWSAP/AATIP casework beyond case reviews, observer
+    interviews and unrelated paranormal research at a Utah property.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
-  location: KONA BLUE, printed_page 34–35
-  quote: It is critical to note that no extraterrestrial craft or bodies were ever
-    collected - this material was only assumed to exist by KONA BLUE advocates and
-    its anticipated contract performers. This was the same assumption made by those
-    same individuals involved with the AAWSAP/AATIP program.
-  claim_id: 0e72967e-c361-4335-bf2f-3c145566fa87
+  location: char:63375-63700
+  quote: AARO has yet to uncover any other substantive UAP case work conducted by
+    AAWSAP/AATIP. Instead, AAWSAP/AATIP reviewed a large number of Project BLUE BOOK
+    and private cases and conducted interviews of UAP observers and conducted unrelated
+    work on alleged paranormal activities at the private sector organization's property
+    in Utah.
+  claim_id: a01a2cc6-3be1-4b11-b0ff-4be66553e61b
+  claim_fingerprint: b776fe3e670b238cc572d509bc74b5d8422df5defe23b897fc3f8f6c7cd8f2c7
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   copyright_status: public_domain
-- text: Deputy Secretary of Defense David L. Norquist approved the UAPTF in August
-    2020; it was later renamed AARO effective 2022-07-15
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a01a2cc6-3be1-4b11-b0ff-4be66553e61b
+- text: The UAPTF was established in 2020 to improve understanding of UAP and assess
+    possible threats to national security.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
-  location: lines 242, 271–273
+  location: char:64123-64618
   quote: Deputy Secretary of Defense David L. Norquist approved the establishment
     of the UAPTF in August 2020.
-  claim_id: 62f865e6-8c03-4aaf-8159-56309dd45741
+  claim_id: d81d92c7-b50c-4425-92eb-be9d94981ae3
+  claim_fingerprint: 028be90439ef84564401c68ab7bdea5770750ce53cb2b0d67754c12e274bac95
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   copyright_status: public_domain
-- text: AARO's investigative efforts determined that most UAP sightings were the result
-    of misidentification of ordinary objects and phenomena
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d81d92c7-b50c-4425-92eb-be9d94981ae3
+- text: AARO was created by renaming AOIMSG and expanding its mission.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
-  location: file_page 45, Section IX Conclusion
-  quote: Investigative efforts determined that most sightings were the result of misidentification
-    of ordinary objects and phenomena.
-  claim_id: b66c9838-cb97-40e0-aef8-affb3c55863d
+  location: char:69434-69624
+  quote: In response to the NDAA for FY22, the Deputy Secretary of Defense in coordination
+    with the DNI, conveyed direction to the USD(I&S) by renaming the AOIMSG as AARO,
+    and expanded its scope and mission.
+  claim_id: 2c4213ce-0bfe-4e5d-be37-93f6574588cd
+  claim_fingerprint: a5f283e73a29de6b0a4d5d050d9b812dbd87fe0b8314dd42ed6cca4ba939a49f
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   copyright_status: public_domain
-- text: Modern allegations that the US Government is hiding off-world technology largely
-    originate from the same group of individuals with ties to the cancelled AAWSAP/AATIP
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-2c4213ce-0bfe-4e5d-be37-93f6574588cd
+- text: AARO reported that all cases it had investigated and analysed did not represent
+    extraterrestrial or off-world technology.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
-  location: Nexus of Proponents, printed_page 36
-  quote: It has determined that modern allegations that the USG is hiding off-world
-    technology and beings largely originate from the same group of individuals who
-    have ties to the cancelled AAWSAP/AATIP program and a private sector organization's
-    paranormal research efforts. These individuals have worked with each other consistently
-    in various UAP-related efforts.
-  claim_id: 13fb1a35-4636-4908-b102-0cbb7ba09d82
+  location: char:71381-71482
+  quote: Of all the reports that AARO investigated and analyzed, none represent extraterrestrial
+    or off-world technology.
+  claim_id: a6a7a01b-d848-4108-9be6-ec0a891017ac
+  claim_fingerprint: 42d65dd0f7acb24ade2d3fa2f2f1c847481817699bb676c089351b516dd2c137
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   copyright_status: public_domain
-- text: An alleged sample from a crashed off-world spacecraft was found to be a manufactured
-    terrestrial alloy composed primarily of magnesium, zinc, and bismuth
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a6a7a01b-d848-4108-9be6-ec0a891017ac
+- text: AARO remains open to additional verifiable information that could alter Volume
+    I's conclusions.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
-  location: file_page 8–9, Section II
-  quote: The sample is primarily composed of magnesium, zinc, and bismuth with some
-    other trace elements, such as lead. This assessment was based on its materials
-    characterization.
-  claim_id: ca0638e0-a85b-4377-8e85-096c3c16306e
+  location: char:20272-20447
+  quote: AARO remains open to additional, verifiable information that may alter the
+    conclusions rendered in Volume I and will note any changes to the findings in
+    this report in Volume II.
+  claim_id: 47ee9aba-c282-4b0a-9f7b-f58623a16ad1
+  claim_fingerprint: 426626ae4c53f49290e98fd35e21a8f0d2092cf1c84a45bd9e87cc26ade252e7
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   copyright_status: public_domain
-ai_usage:
-- stage: digest
-  model: claude-opus-4-8
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-47ee9aba-c282-4b0a-9f7b-f58623a16ad1
+built_by:
+  model: openai/gpt-5.6-luna
+  model_version: openai/gpt-5.6-luna
+  transport: cli
+  prompt_sha256: b3760c585ce17ea702e3fe8bff31a377e8d4425624d771f4e060b90dc8195f2c
+  system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
+  directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 1305407
-    output: 138773
-- stage: assemble
-  model: claude-sonnet-4-6
-  tokens:
-    input: 83175
-    output: 5847
+    input: 211703
+    output: 8814
+    real_input: 211703
+    cache_read: 0
+    cache_write: 0
+    calls: 0
+  body_sha256: 61935498d28943c9d6fce77cfc2cfc6cbb5feffb4d2a29349788a7ec7b40673f
 ---
 
-The *Report on the Historical Record of U.S. Government Involvement with [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap), Volume I* is a report published on 2024-02-01 by the [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro). It covers AARO's findings from 1945 to 2023-10-31,<sup>1</sup> drawing on a review of classified and unclassified archives, approximately 30 interviews with individuals claiming knowledge of US Government UAP programmes, and partnerships with United States Intelligence Community (IC) and [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) officials responsible for controlled and special access programme oversight.<sup>2</sup> The report was produced in response to a statutory requirement in Section 6802(j) of the [National Defense Authorization Act for Fiscal Year 2023](/documents/national-defense-authorization-act-for-fiscal-year-2023), which directed AARO to submit a written history of US Government UAP involvement to congressional defence and intelligence committees.<sup>3</sup> It constitutes the first volume of what AARO designates the Historical Record Report (HR2); a companion document, the AARO Historical Record Report (HR2) Volume II, was to cover findings from interviews and research completed after 2023-10-31.
+The **Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I** is a historical review by the [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro) of United States Government activity concerning [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap) since 1945.<sup>1</sup> The Department of Defense (DoD) provided the report in response to a reporting requirement established by the [United States Congress](/organisations/united-states-congress).<sup>2</sup>
 
-AARO's central finding is that no US Government investigation, academic-sponsored research, or official review panel has confirmed that any [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) or UAP sighting represented extraterrestrial technology.<sup>4</sup> All investigative efforts, at all levels of classification, concluded that the vast majority of sightings were ordinary objects and phenomena resulting from misidentification.<sup>5</sup> AARO found no empirical evidence that the US Government or private companies had engaged in reverse-engineering of extraterrestrial technology,<sup>6</sup> and documented approximately two dozen separate official investigative efforts since 1945 to reach this conclusion.<sup>7</sup> The report addresses a persistent popular narrative holding that the US Government recovered off-world spacecraft and biological remains beginning in the 1940s, concluding that claims involving specific people, locations, and documents alleged to relate to such programmes are inaccurate. Where interviewees named authentic classified programmes, AARO found they had mistakenly associated those programmes with extraterrestrial activity.
+## Scope and method
 
-The report traces the institutional history of US Government UAP investigations in detail. Project SAUCER investigated one of the first widely reported accounts, the Kenneth Arnold UFO sighting of 1947-06-23, in which pilot [Kenneth Arnold](/people/kenneth-arnold) observed nine objects near USA, Washington, Mount Rainier travelling at approximately 2,700 kilometres per hour<sup>9</sup> and described them as saucer-like, giving rise to the term "flying saucer".<sup>10</sup> Project SAUCER was formalised as [Project SIGN](/projects/project-sign), which evaluated 243 sightings<sup>11</sup> before being renamed [Project GRUDGE](/projects/project-grudge) in approximately 1949-02.<sup>13</sup> A document allegedly drafted by Project SIGN staff, the Estimate of the Situation (1948), reportedly concluded UFOs were interplanetary in origin but was rejected by [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) Chief of Staff Hoyt S. Vandenberg as lacking proof.<sup>12</sup> Project GRUDGE investigated 244 sightings<sup>14</sup> before being reorganised in late 1951-10 under Captain Edward J. Ruppelt, who also served as the initial leader of [Project BLUE BOOK](/projects/project-blue-book).<sup>15</sup> Ruppelt created Project BEAR, a contract with the Battelle Memorial Institute (BMI) for scientific support.<sup>16</sup> Project BLUE BOOK, based at USA, Ohio, Wright-Patterson Air Force Base, recorded 12,618 UFO sightings between 1947 and 1969,<sup>17</sup> of which 701 remained unidentified.<sup>18</sup> It was terminated on 1969-12-17 by Secretary of the Air Force Robert C. Jr. Seamans,<sup>19</sup> leaving approximately a 40-year gap before the next dedicated investigation programme.<sup>20</sup> During this period, the CIA-sponsored The Robertson Panel, led by physicist H. P. Robertson and convened after a surge in sightings over USA, District of Columbia, Washington in the summer of 1952, unanimously concluded there was no evidence of a national security threat from UFOs or that they were extraterrestrial in origin.<sup>21</sup> The University of Colorado study under physicist Edward U. Condon, documented in The Condon Report, concluded that two decades of UFO study had added nothing to scientific knowledge.<sup>22</sup> Regarding the Roswell incident (1947), in which metallic and rubber debris from a crashed balloon recovered near USA, New Mexico, Roswell Army Air Field in 1947-07 generated enduring conspiracy claims,<sup>23</sup> the 1995 USAF investigation found no indication of a UFO event, with the debris assessed to be consistent with a Project Mogul balloon.<sup>24</sup>
+According to the report, its evidential base included records of the Intelligence Community (IC) and DoD, oral-history interviews, open-source analysis, interviews with current and former government officials, and classified and unclassified archives.<sup>3</sup> AARO conducted approximately 30 interviews during the research.<sup>4</sup>
 
-The report examines post-2009 investigations in detail. At the direction of Senate Majority Leader [Harry Reid](/people/harry-reid), 22 million US dollars were appropriated for the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia) to assess foreign advanced aerospace threats, leading to the establishment of the Advanced Aerospace Weapons System Application Program (AAWSAP), also known as the [Advanced Aerospace Threat Identification Program (AATIP)](/organisations/advanced-aerospace-threat-identification-program-aatip), in 2009.<sup>25</sup> AAWSAP/AATIP was terminated in 2012 and subsequently its supporters attempted, without success, to revive it under the [Department of Homeland Security (DHS)](/organisations/department-of-homeland-security-dhs) as the prospective Special Access Programme codenamed KONA BLUE.<sup>26</sup> No extraterrestrial craft or bodies were ever collected under KONA BLUE, which was rejected by DHS leadership for lacking merit.<sup>27</sup> The [Unidentified Aerial Phenomena Task Force (UAPTF)](/organisations/unidentified-aerial-phenomena-task-force-uaptf), established by David L. Norquist in 2020-08 under Department of the Navy leadership, was subsequently renamed AARO effective 2022-07-15.<sup>28</sup> The UAP Independent Study Team (UAPIST), established by [National Aeronautics and Space Administration (NASA)](/organisations/national-aeronautics-and-space-administration-nasa) as a subordinate group of its Earth Science Advisory Committee, released its report in 2023-09 focusing on identifying the best data streams for resolving UAP cases.
+AARO organised the work into six complementary lines of effort, conducted in parallel so that findings in one area could generate further research in another.<sup>5</sup> These efforts included open-source historical research, classified-programme research, historical interviews, work with the United States National Archives, engagement with commercial entities, and research with the archives of intelligence and national-security organisations.
 
-The report's findings address two primary narratives that emerged from AARO's interviews. The first alleges that the US Government and industry partners have possessed and tested off-world technology since approximately 1947 or 1964, concealed from [United States Congress](/organisations/united-states-congress) and the public. The second concerns UAP sightings near US nuclear facilities allegedly causing malfunctions in intercontinental ballistic missiles, with AARO interviewing five former [United States Army](/organisations/united-states-army) and USAF members who served near intercontinental ballistic missile silos at USA, Montana, Malmstrom Air Force Base, USA, South Dakota, Ellsworth Air Force Base, USA, California, Vandenberg Air Force Base, and USA, North Dakota, Minot Air Force Base between 1966 and 1977. In addressing the first narrative, AARO determined that claims were in most cases traceable to a consistent group of individuals with ties to the cancelled AAWSAP/AATIP effort,<sup>29</sup> and that company executives and officials named by interviewees denied on the record any involvement in extraterrestrial technology programmes. A physical sample claimed to originate from a crashed off-world spacecraft was analysed and found to be a manufactured terrestrial alloy composed primarily of magnesium, zinc, and bismuth.<sup>30</sup> The alleged 1961 Special National Intelligence Estimate on UFOs cited by interviewees as proof of UAP crashes was assessed as inauthentic after consultation with the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia) and the [National Security Agency (NSA)](/organisations/national-security-agency-nsa). AARO concluded that most UAP sightings were attributable to misidentification of ordinary phenomena, new technologies, or classified programmes — including experimental aircraft such as the U-2 Dragon Lady, A-12, F-117A Nighthawk, [B-2 Spirit](/objects/b-2-spirit), and unmanned systems including the Predator, Reaper, Dark Star, Sentinel, and Global Hawk — and that investigative efforts dating to 1945 had uniformly reached this conclusion.<sup>28</sup> AARO's investigative efforts found that most UAP sightings were the result of misidentification of ordinary objects and phenomena,<sup>28</sup> and assessed that if additional, quality data were available, most unsolved cases could similarly be resolved.<sup>31</sup>
+The report distinguishes between the initial identification of an observation and claims about its origin. It describes UAP as a category containing objects and events that are initially unidentified, rather than as a category with a common origin, purpose or threat. The report states that categories such as drones, balloons, aircraft, rockets, satellites, sensor artefacts, birds, planets and optical effects may all enter this category before being identified.
+
+## Principal findings
+
+The report states that AARO found no evidence that a United States Government investigation, academic-sponsored study or official review panel had confirmed any UAP sighting as extraterrestrial technology.<sup>6</sup> It further states that investigative efforts at all classification levels concluded that most sightings involved ordinary objects or phenomena and misidentification.<sup>7</sup>
+
+According to the report, AARO found no empirical evidence that the United States Government or private companies had reverse-engineered extraterrestrial technology.<sup>8</sup> The report also describes claims that authentic classified programmes were mistakenly associated with alien or extraterrestrial activity.
+
+AARO's review of these claims included the proposed KONA BLUE programme. The report characterises KONA BLUE as a UAP-related prospective special access programme proposed to the [Department of Homeland Security (DHS)](/organisations/department-of-homeland-security-dhs), but states that it was never approved and that its supporters supplied no empirical evidence for their claims.<sup>9</sup>
+
+The report also discusses an Intelligence Community Controlled Access Program whose scope was expanded in 2021 to include UAP reverse-engineering. It states that the programme recovered or reverse-engineered no UAP or extraterrestrial spacecraft, and that it was subsequently disestablished.<sup>10</sup>
+
+## Historical investigations
+
+The report places particular emphasis on the sequence of post-war United States investigations. [Project BLUE BOOK](/projects/project-blue-book) recorded 12,618 UFO sightings between 1947 and 1969, with 701 categorised as unidentified and never solved.<sup>11</sup> Its conclusions, as presented in the report, were that no evaluated sighting indicated a threat to national security or technology beyond the scientific knowledge of the period.<sup>12</sup>
+
+The earlier [Project SIGN](/projects/project-sign) evaluated 243 reported sightings and concluded in February 1949 that there was no definite and conclusive evidence proving or disproving the existence of aircraft of unknown and unconventional configuration. It determined that nearly all cases resulted from misinterpretation, hysteria, hallucination or hoax. The report also discusses the alleged The Estimate of the Situation, describing it as an unsubstantiated account that claimed some UFOs were interplanetary in origin and stating that it was rejected for lack of proof.
+
+The report describes two organisations known as [Project GRUDGE](/projects/project-grudge) and Project GRUDGE (Reestablishment). The first was terminated in 1949, while the later organisation was established in 1951 under Edward J. Ruppelt. The re-established organisation reviewed earlier cases and, according to the report, found no evidence of extraterrestrial origin.
+
+The report also covers the The Robertson Panel, which reviewed United States Air Force data and concluded that most UFO reports had ordinary explanations. It found no evidence of a direct national-security threat or extraterrestrial origin, while recommending public-information measures intended to reduce what it regarded as the risk of mass hysteria and possible exploitation by the Soviet Union.
+
+## Modern programmes and organisational changes
+
+The report identifies 2009 as the beginning of a modern period because of the establishment of the Advanced Aerospace Weapons System Application Program (AAWSAP), also known as the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip).<sup>13</sup> It states that AAWSAP was intended to examine next-generation aerospace technologies in 12 areas. Although UFO investigation was not specifically set out in the contract's statement of work, the contracted private organisation conducted UFO research with the support of a [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia) programme manager.
+
+According to the report, AARO found no substantive AAWSAP/AATIP casework beyond reviews of [Project BLUE BOOK](/projects/project-blue-book) and private cases, interviews with observers, and unrelated research into alleged paranormal activity at a property in Utah.<sup>14</sup> The report states that AAWSAP/AATIP was terminated in 2012.
+
+In August 2020, the [Unidentified Aerial Phenomena Task Force (UAPTF)](/projects/unidentified-aerial-phenomena-task-force-uaptf) was approved to improve understanding of UAP and to detect, analyse and catalogue objects that might pose a threat to United States national security. According to the report, the UAPTF also helped standardise reporting and improve sensor calibration.
+
+The UAPTF was followed by the [Airborne Object Identification and Management Synchronization Group (AOIMSG)](/organisations/airborne-object-identification-and-management-synchronization-group-aoimsg). The report states that AOIMSG had not reached initial operating capability when legislation led to its renaming as AARO and expanded its mission.<sup>15</sup> AARO subsequently organised its work around analysis, operations, science and technology, and strategic communications.
+
+## Assessment of UAP evidence
+
+The report states that none of the UAP reports investigated and analysed by AARO represented extraterrestrial or off-world technology.<sup>16</sup> It nevertheless records that a small percentage of cases had potentially anomalous or concerning characteristics. It attributes difficulties in resolving cases to limited or poor-quality data, including the frequent absence of reliable information about an object's speed, altitude and size.
+
+The report presents misidentification as a recurring feature of the historical record. Earlier cases were sometimes associated with balloons, aircraft, rockets, satellites, atmospheric phenomena, optical effects or experimental and operational systems that were not publicly known at the time. It also states that some reporting increases coincided with the observation of new technologies and testing.
+
+In relation to alleged physical evidence, the report describes analyses of material said to have come from an off-world spacecraft. AARO concluded that the sample was a terrestrial metallic alloy, and that it did not possess exceptional qualities. The report states that another piece of alleged spacecraft material was likewise ordinary and terrestrial.
+
+## Status of the report
+
+Volume I contains AARO's findings from 1945 to 2023-10-31. The report states that some allegations remained under evaluation and that the results of unresolved allegations would be addressed in Volume II. AARO remains open to additional verifiable information that could alter the conclusions presented in Volume I.<sup>17</sup>

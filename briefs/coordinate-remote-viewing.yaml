@@ -9,868 +9,880 @@ page:
   claim_count: 22
   claim_count_total: 22
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 22
+  tokens_estimated: 7038
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 22
 related_nodes:
-- node_id: 122c5474-8b82-401b-ac82-e2a300041b32
-  title: 'Remote Viewing Secrets: A Handbook'
-  node_type: document
-  slug: remote-viewing-secrets-a-handbook
-  shared_claims: 4
-- node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
-  title: Ingo Swann
-  node_type: person
-  slug: ingo-swann
-  shared_claims: 3
-- node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
-  title: Project STARGATE
-  node_type: project
-  slug: project-stargate
-  shared_claims: 3
-- node_id: b83494b0-eac6-4b7c-8852-2c000d801d54
-  title: Controlled Remote Viewing (CRV)
-  node_type: topic
-  slug: controlled-remote-viewing-crv
-  shared_claims: 2
-- node_id: 5884a8ca-9d73-4fe8-a349-9f4a0158dc26
-  title: Outbounder Remote Viewing
-  node_type: topic
-  slug: outbounder-remote-viewing
-  shared_claims: 2
-- node_id: 7c287527-8d72-41d4-adec-5dcf0ce9ad1d
-  title: Associative Remote Viewing
-  node_type: topic
-  slug: associative-remote-viewing
-  shared_claims: 1
-- node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
-  title: Ed Dames
-  node_type: person
-  slug: ed-dames
-  shared_claims: 1
-- node_id: a098a3c1-35d3-4498-b58e-a55d2e8d8a28
-  title: Extended Remote Viewing (ERV)
-  node_type: topic
-  slug: extended-remote-viewing-erv
-  shared_claims: 1
-- node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-  title: SRI International
-  node_type: organisation
-  slug: sri-international
-  shared_claims: 1
-- node_id: 766ec722-7074-4d35-89f8-11c77ddc77df
-  title: Scientific Remote Viewing (SRV)
-  node_type: topic
-  slug: scientific-remote-viewing-srv
-  shared_claims: 1
-- node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
-  title: Stanford Research Institute (SRI)
-  node_type: organisation
-  slug: stanford-research-institute-sri
-  shared_claims: 1
-- node_id: f9fa19e5-94e0-48ac-99b6-84f86e7c55b4
-  title: Technical Remote Viewing (TRV)
-  node_type: topic
-  slug: technical-remote-viewing-trv
-  shared_claims: 1
-claims:
-- claim_id: 4b0a590b-d264-4256-99c6-7104755f1c4f
-  claim_hash: 7953217f00a1c5669c99c63da7192b9d9e8242256c608f36765d74a205bc9630
-  content: Coordinate Remote Viewing uses numeric or alpha/numeric series to identify
-    the specific target.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: ch14:8923-9012
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 9c974499-911c-488e-bb66-fdb4c9977b25
-  claim_hash: 31fdc4fb54eae9b90eb3259c2273a5119311f2b9bf129dedacaba8dad29ce896
-  content: Extended Remote Viewing, Controlled Remote Viewing, Scientific Remote Viewing,
-    and Technical Remote Viewing are all named methods used in remote viewing, with
-    Technical Remote Viewing being a variation on Controlled Remote Viewing.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 766ec722-7074-4d35-89f8-11c77ddc77df
-    title: Scientific Remote Viewing (SRV)
-    slug: scientific-remote-viewing-srv
-  - node_id: a098a3c1-35d3-4498-b58e-a55d2e8d8a28
-    title: Extended Remote Viewing (ERV)
-    slug: extended-remote-viewing-erv
-  - node_id: b83494b0-eac6-4b7c-8852-2c000d801d54
-    title: Controlled Remote Viewing (CRV)
-    slug: controlled-remote-viewing-crv
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  - node_id: f9fa19e5-94e0-48ac-99b6-84f86e7c55b4
-    title: Technical Remote Viewing (TRV)
-    slug: technical-remote-viewing-trv
-  date: null
-  date_end: null
-  location_in_record: ch14:9493-9762
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 11171130-a8f8-4ecc-8e61-804212377dc9
-  claim_hash: 2f22761034422dbb99ca3c56fd26584dd3b0ebb4e51bb7f9554ac226e9d351ef
-  content: Ingo Swann, one of the psychics working at SRI International, suggested
-    using map coordinates to identify a specific location as a remote viewing target,
-    giving rise to the coordinate targeting system.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: named
-    origin: unnamed people involved, as related to Joseph McMoneagle
-    relay:
-    - people involved in the events
-  attribution_mode: unknown
-  node_refs:
+  - node_id: 122c5474-8b82-401b-ac82-e2a300041b32
+    title: 'Remote Viewing Secrets: A Handbook'
+    node_type: document
+    slug: remote-viewing-secrets-a-handbook
+    shared_claims: 4
   - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
     title: Ingo Swann
+    node_type: person
     slug: ingo-swann
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch17:10096-10320
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: ebf83b05-7724-4cb4-9838-e3166865d98e
-  claim_hash: 0f8c1d9f20a786db2c6cf9b3e34ccbe6cb2448cbbd6cf6c52b7613f7d1789ae7
-  content: The initial coordinate remote viewing targets were large geographic features
-    such as islands, rivers, mountains, waterfalls, and cityscapes, identified by
-    map coordinates.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: ch17:10330-10489
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: e4a7a7d2-e505-40ee-b187-10c53da1a5d4
-  claim_hash: d92306359b31469315d782a0c5e7b135788dda9dfa9e5e7c652306ef805daa43
-  content: Sceptics raised the theory that remote viewers using the coordinate system
-    could have unconsciously memorised major land features from topographical maps
-    by their longitude and latitude gridlines, an allegation Joseph McMoneagle interprets
-    as effectively accusing the viewers of cheating.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: ch17:10680-10970
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 4602e95f-a749-450f-83e2-aa4365e1b70c
-  claim_hash: 66c6f866b0bd07cb24c5b020b0bd25e9ce23d25ac68757c53003e16b9b9f7ee3
-  content: The military side of Project STARGATE used military maps with a different
-    coordinate system than standard grid coordinates, in which letter and number combinations
-    change based on the specific military map used, in an attempt to counter scepticism
-    about eidetic memory.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 3
   - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
     title: Project STARGATE
+    node_type: project
     slug: project-stargate
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: ch17:11119-11361
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: c57b12c7-d9fd-4670-8ecb-1457e1e28a18
-  claim_hash: ce373eb11ef5b7cb5c3d7844e6c1f4de390200f8e7f44d54f0c18c23046b5eb7
-  content: On the military side of Project STARGATE, real map coordinates were placed
-    inside sealed and opaque envelopes with false coordinates, lacking degrees, minutes,
-    and seconds, written on the outside to serve only as an identifier for that day's
-    project.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
-    title: Project STARGATE
-    slug: project-stargate
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: ch17:11790-12135
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 6bf6768f-d786-4bc1-bed2-b1455f1fa670
-  claim_hash: 03355a39ced8e72091e04d18d9943d53116cc7b89e13dd7fca527abfce470d25
-  content: The only two differences between the Outbounder Remote Viewing protocol
-    and the Coordinate Remote Viewing protocol are the absence of an outbounder at
-    the target site and the manner in which feedback is provided to the viewer.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 3
+  - node_id: b83494b0-eac6-4b7c-8852-2c000d801d54
+    title: Controlled Remote Viewing (CRV)
+    node_type: topic
+    slug: controlled-remote-viewing-crv
+    shared_claims: 2
   - node_id: 5884a8ca-9d73-4fe8-a349-9f4a0158dc26
     title: Outbounder Remote Viewing
+    node_type: topic
     slug: outbounder-remote-viewing
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: ch17:12663-12753
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 4180bfa9-4af1-466d-866e-887ac9521c68
-  claim_hash: 6aba4113c38b8b66c71d4fdbf9145bb892406f61cecdd90577e204e1337e5df2
-  content: In the Coordinate Remote Viewing protocol, since there is no outbounder
-    site the viewer can visit for feedback, the person who controls the targeting
-    information or target pool provides the viewer with as much feedback as feasible
-    about the original target after the remote viewing has been completed.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: ch17:13535-13943
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 102b7e7f-f680-409a-bf02-ab63d9f62b0d
-  claim_hash: fe32ac93b5434d34e28d79b2822ec412bc135df9040ac05aed9670e3784ff554
-  content: A remote viewer can be given specific tasking instructions for a mobile
-    target as long as the target is targeted through the Outbounder Remote Viewing,
-    Coordinate Remote Viewing, or photographic sealed-envelope protocols.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 122c5474-8b82-401b-ac82-e2a300041b32
-    title: 'Remote Viewing Secrets: A Handbook'
-    slug: remote-viewing-secrets-a-handbook
-  - node_id: 5884a8ca-9d73-4fe8-a349-9f4a0158dc26
-    title: Outbounder Remote Viewing
-    slug: outbounder-remote-viewing
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: ch17:21208-21388
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 5ad48822-f160-42c5-b4f1-867dffe2f460
-  claim_hash: 3e1abd6e6ed490f70ee35bff100e581fe23086e2bee21124e9cea495957462f1
-  content: Ideas, concepts, plans, thoughts, words, and feelings can be targeted using
-    a coordinate system with sealed envelopes, or photographs illustrating them.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 122c5474-8b82-401b-ac82-e2a300041b32
-    title: 'Remote Viewing Secrets: A Handbook'
-    slug: remote-viewing-secrets-a-handbook
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: ch17:21739-21906
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: c5edb116-f4bb-40f3-8845-ea1260d304b2
-  claim_hash: 05707ed5a886004a6b847bf2e792b944abce17905cfaf98aea0cc4bc263ecb63
-  content: Associative Remote Viewing works identically to the Coordinate Remote Viewing
-    protocol, except that two targets, Target A and Target B, are chosen rather than
-    one target being randomly selected.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 122c5474-8b82-401b-ac82-e2a300041b32
-    title: 'Remote Viewing Secrets: A Handbook'
-    slug: remote-viewing-secrets-a-handbook
+    shared_claims: 2
   - node_id: 7c287527-8d72-41d4-adec-5dcf0ce9ad1d
     title: Associative Remote Viewing
+    node_type: topic
     slug: associative-remote-viewing
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: ch17:27746-28079
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 7cd679d4-ba1b-421e-8257-94a3186a982d
-  claim_hash: 2a3264e36ae87f409cf3f28bc2e872c6af9f66071e476bc754171b89a14c6392
-  content: For sub-atomic or micro remote viewing targets, the coordinate or sealed
-    envelope protocol is the normal approach, but the difficulty is how to frame the
-    question since sub-atomic structures can only be hypothesised and rarely displayed.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 122c5474-8b82-401b-ac82-e2a300041b32
-    title: 'Remote Viewing Secrets: A Handbook'
-    slug: remote-viewing-secrets-a-handbook
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: ch17:38768-39031
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 4a4c5bd2-52d7-4d1d-a307-03b8f8690fcd
-  claim_hash: 8f3464d5d75cd0fb2980fef19cf45c912e1e813d40b1d4134e9de49c37dc4b42
-  content: Controlled Remote Viewing is sometimes referred to as Coordinate Remote
-    Viewing.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: b83494b0-eac6-4b7c-8852-2c000d801d54
-    title: Controlled Remote Viewing (CRV)
-    slug: controlled-remote-viewing-crv
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: ch17:50254-50307
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: c18c1dee-394f-4c3a-bfeb-5b114fabc828
-  claim_hash: 31bd7fa88573cfeedda8730111e2506dacbaa0fc989c8f625afee573f767860b
-  content: Coordinate Remote Viewing (CRV) is a form of remote viewing used by remote
-    viewers many years ago, which entailed prompting the remote viewer with specific
-    geographic coordinates for a specific target site.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: ch28:2885-3082
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 7b7b6e28-ee40-4a68-9ead-a59bcc1a0487
-  claim_hash: a4d145f1cb3032c2b5764f2a13cc700a871191439cde9575d7c874e8268bfbbe
-  content: In Coordinate Remote Viewing, coordinate targets use information written
-    on a sealed envelope, which can be alpha or numeric or a combination, to identify
-    the specific target of interest, with no relationship between the identifying
-    data and the envelope's contents.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: ch33:11776-12029
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 65fd1596-d4aa-4112-94f6-8e908d31221c
-  claim_hash: bba36ec80087e89dc37086663e2503841a405055315cd315199236363e9e6dd6
-  content: At the Stanford Research Institute (SRI), Ingo Swann developed a unique
-    approach to remote viewing called Coordinate Remote Viewing (CRV).
-  original_excerpt: It was at SRI that Swan developed his unique approach to remote
-    viewing, which he called Coordinate Remote Viewing, or CRV.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
-    title: Stanford Research Institute (SRI)
-    slug: stanford-research-institute-sri
-  - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
-    title: Ingo Swann
-    slug: ingo-swann
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: 00:04:41.5-00:04:48.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
-- claim_id: 61e23ef9-725a-4296-a210-845275fb2ef8
-  claim_hash: f8e28a60c24ac74ae1a1a4f68a8092f7c36fbc41548e54206f7cec548af98ecf
-  content: Coordinate Remote Viewing (CRV) involves a structured process of gathering
-    information through the use of visual sensory impressions.
-  original_excerpt: CRV involves a structured process of gathering information through
-    the use of visual sensory impressions.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: 00:04:49.6-00:04:54.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
-- claim_id: 75e749fe-9123-4656-a264-00658f98c632
-  claim_hash: 4944dcf55ecc5ea74a01a77f3da7d80037014c2bfefc41e2deea535df0d5fced
-  content: Coordinate Remote Viewing (CRV) starts with the viewer establishing a target,
-    typically a location or object, then gathering information through a series of
-    structured steps.
-  original_excerpt: It starts with the viewer establishing a target, typically a location
-    or object, and then working to gather information about that target through a
-    series of structured steps.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: 00:04:56.1-00:05:04.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
-- claim_id: 1484491c-9df4-47f0-8239-538988885b5e
-  claim_hash: 95da9a20485129c1a9c73399f5e7b1f951486898719bde0d9389bd85080e2290
-  content: Ingo Swann developed the remote-viewing structure used to train the Project
-    Stargate prototype team.
-  original_excerpt: Ingo had just developed his structure.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
-    title: Ed Dames
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ed Dames
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
-    title: Project STARGATE
-    slug: project-stargate
-  - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
-    title: Ingo Swann
-    slug: ingo-swann
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: 00:29:51.0-00:29:53.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
-- claim_id: 469f0dcb-f055-460d-af00-716fb7433f37
-  claim_hash: 27f455ad5292b4aca681a75c29703f497d3402f961f2238ff66e0d4de0b5ef5b
-  content: Ed Dames's remote-viewing process for locating a target proceeds through
-    four stages.
-  original_excerpt: Dames will go through stages one through four, as we've explained
-    previously.
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Ed Dames
-    relay:
-    - narrator
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
   - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
     title: Ed Dames
+    node_type: person
     slug: ed-dames
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: 00:31:54.0-00:31:57.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
-- claim_id: 2caa4923-14be-4899-81e8-e9ba2a8e6f34
-  claim_hash: a2acc69140e57055cd8345438926e5b69306c59a2e64ea9cd540de0932487f88
-  content: In coordinate remote viewing, target reference numbers are encased in square
-    brackets.
-  original_excerpt: when the target reference numbers are encased in square brackets,
-    they are target reference numbers
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
-    title: Ed Dames
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ed Dames
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
-    title: Coordinate Remote Viewing
-    slug: coordinate-remote-viewing
-  date: null
-  date_end: null
-  location_in_record: 00:32:07.7-00:32:13.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
+    shared_claims: 1
+  - node_id: a098a3c1-35d3-4498-b58e-a55d2e8d8a28
+    title: Extended Remote Viewing (ERV)
+    node_type: topic
+    slug: extended-remote-viewing-erv
+    shared_claims: 1
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    node_type: organisation
+    slug: sri-international
+    shared_claims: 1
+  - node_id: 766ec722-7074-4d35-89f8-11c77ddc77df
+    title: Scientific Remote Viewing (SRV)
+    node_type: topic
+    slug: scientific-remote-viewing-srv
+    shared_claims: 1
+  - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+    title: Stanford Research Institute (SRI)
+    node_type: organisation
+    slug: stanford-research-institute-sri
+    shared_claims: 1
+  - node_id: f9fa19e5-94e0-48ac-99b6-84f86e7c55b4
+    title: Technical Remote Viewing (TRV)
+    node_type: topic
+    slug: technical-remote-viewing-trv
+    shared_claims: 1
+claims:
+  - claim_id: 4b0a590b-d264-4256-99c6-7104755f1c4f
+    claim_hash: 7953217f00a1c5669c99c63da7192b9d9e8242256c608f36765d74a205bc9630
+    content: Coordinate Remote Viewing uses numeric or alpha/numeric series to identify the specific target.
+    original_excerpt: Coordinate Remote Viewing. Uses numeric or Alpha/numeric series to identify the specific target.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: ch14:8923-9012
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 9c974499-911c-488e-bb66-fdb4c9977b25
+    claim_hash: 31fdc4fb54eae9b90eb3259c2273a5119311f2b9bf129dedacaba8dad29ce896
+    content: Extended Remote Viewing, Controlled Remote Viewing, Scientific Remote Viewing, and Technical Remote Viewing are
+      all named methods used in remote viewing, with Technical Remote Viewing being a variation on Controlled Remote Viewing.
+    original_excerpt: 'Examples for some of these are: ERV (Extended Remote Viewing), CRV (first known as Coordinate Remote
+      Viewing, now known as Controlled Remote Viewing), SRV (Scientific Remote Viewing) that is scientific in name only, and
+      TRV (Technical Remote Viewing)[4] a variation on CRV.'
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 766ec722-7074-4d35-89f8-11c77ddc77df
+        title: Scientific Remote Viewing (SRV)
+        slug: scientific-remote-viewing-srv
+      - node_id: a098a3c1-35d3-4498-b58e-a55d2e8d8a28
+        title: Extended Remote Viewing (ERV)
+        slug: extended-remote-viewing-erv
+      - node_id: b83494b0-eac6-4b7c-8852-2c000d801d54
+        title: Controlled Remote Viewing (CRV)
+        slug: controlled-remote-viewing-crv
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+      - node_id: f9fa19e5-94e0-48ac-99b6-84f86e7c55b4
+        title: Technical Remote Viewing (TRV)
+        slug: technical-remote-viewing-trv
+    date: null
+    date_end: null
+    location_in_record: ch14:9493-9762
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 11171130-a8f8-4ecc-8e61-804212377dc9
+    claim_hash: 2f22761034422dbb99ca3c56fd26584dd3b0ebb4e51bb7f9554ac226e9d351ef
+    content: Ingo Swann, one of the psychics working at SRI International, suggested using map coordinates to identify a specific
+      location as a remote viewing target, giving rise to the coordinate targeting system.
+    original_excerpt: As I understand it, one of the psychics working at the lab, Ingo Swann, suggested the answer. They could
+      use map coordinates to identify a specific location on the ground. Hence was born what is now known as the "coordinate
+      system."
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: named
+      origin: unnamed people involved, as related to Joseph McMoneagle
+      relay:
+        - people involved in the events
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch17:10096-10320
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: ebf83b05-7724-4cb4-9838-e3166865d98e
+    claim_hash: 0f8c1d9f20a786db2c6cf9b3e34ccbe6cb2448cbbd6cf6c52b7613f7d1789ae7
+    content: The initial coordinate remote viewing targets were large geographic features such as islands, rivers, mountains,
+      waterfalls, and cityscapes, identified by map coordinates.
+    original_excerpt: The initial targets selected and identified by coordinates were large geographic features, such as islands,
+      rivers, mountains, waterfalls, cityscapes, and the like.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: ch17:10330-10489
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: e4a7a7d2-e505-40ee-b187-10c53da1a5d4
+    claim_hash: d92306359b31469315d782a0c5e7b135788dda9dfa9e5e7c652306ef805daa43
+    content: Sceptics raised the theory that remote viewers using the coordinate system could have unconsciously memorised
+      major land features from topographical maps by their longitude and latitude gridlines, an allegation Joseph McMoneagle
+      interprets as effectively accusing the viewers of cheating.
+    original_excerpt: This alleged that remote viewers could have memorized (at least unconsciously) all of the major land
+      features that can be identified from topographical maps, by their longitude and latitude gridlines. (I interpret this
+      as a nice way of saying we were all cheating. Which of course we weren't.)
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: ch17:10680-10970
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 4602e95f-a749-450f-83e2-aa4365e1b70c
+    claim_hash: 66c6f866b0bd07cb24c5b020b0bd25e9ce23d25ac68757c53003e16b9b9f7ee3
+    content: The military side of Project STARGATE used military maps with a different coordinate system than standard grid
+      coordinates, in which letter and number combinations change based on the specific military map used, in an attempt to
+      counter scepticism about eidetic memory.
+    original_excerpt: So, to deal with the skeptical issues, the military side of the house did what the military does best—they
+      improvised. Instead of using standard grid coordinates that anyone can read, they used military maps, which use a different
+      coordinate system.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+        title: Project STARGATE
+        slug: project-stargate
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: ch17:11119-11361
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: c57b12c7-d9fd-4670-8ecb-1457e1e28a18
+    claim_hash: ce373eb11ef5b7cb5c3d7844e6c1f4de390200f8e7f44d54f0c18c23046b5eb7
+    content: On the military side of Project STARGATE, real map coordinates were placed inside sealed and opaque envelopes
+      with false coordinates, lacking degrees, minutes, and seconds, written on the outside to serve only as an identifier
+      for that day's project.
+    original_excerpt: So, at least on the military side, we began putting the real map coordinates inside sealed and opaque
+      envelopes, and then we would write false coordinates on the outside. ... Point being, they really had no actual meaning,
+      other than to identify that day's project.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+        title: Project STARGATE
+        slug: project-stargate
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: ch17:11790-12135
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 6bf6768f-d786-4bc1-bed2-b1455f1fa670
+    claim_hash: 03355a39ced8e72091e04d18d9943d53116cc7b89e13dd7fca527abfce470d25
+    content: The only two differences between the Outbounder Remote Viewing protocol and the Coordinate Remote Viewing protocol
+      are the absence of an outbounder at the target site and the manner in which feedback is provided to the viewer.
+    original_excerpt: 'There are only two differences between the outbounder type of protocol and the coordinate protocol:'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5884a8ca-9d73-4fe8-a349-9f4a0158dc26
+        title: Outbounder Remote Viewing
+        slug: outbounder-remote-viewing
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: ch17:12663-12753
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 4180bfa9-4af1-466d-866e-887ac9521c68
+    claim_hash: 6aba4113c38b8b66c71d4fdbf9145bb892406f61cecdd90577e204e1337e5df2
+    content: In the Coordinate Remote Viewing protocol, since there is no outbounder site the viewer can visit for feedback,
+      the person who controls the targeting information or target pool provides the viewer with as much feedback as feasible
+      about the original target after the remote viewing has been completed.
+    original_excerpt: Since there is no outbounder site that the remote viewer can visit for feedback after the remote viewing
+      has been completed and information evaluated, it becomes necessary to provide the viewer with as much information as
+      is feasible about the original target after the remote viewing has been completed. The person who controls the targeting
+      information or the target pool is usually the person tasked with this.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: ch17:13535-13943
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 102b7e7f-f680-409a-bf02-ab63d9f62b0d
+    claim_hash: fe32ac93b5434d34e28d79b2822ec412bc135df9040ac05aed9670e3784ff554
+    content: A remote viewer can be given specific tasking instructions for a mobile target as long as the target is targeted
+      through the Outbounder Remote Viewing, Coordinate Remote Viewing, or photographic sealed-envelope protocols.
+    original_excerpt: In these examples, the viewer can be told the specific tasking (1-4), as long as the target is being
+      targeted through the outbounder, coordinate, or photographic (sealed envelope) protocols.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 122c5474-8b82-401b-ac82-e2a300041b32
+        title: 'Remote Viewing Secrets: A Handbook'
+        slug: remote-viewing-secrets-a-handbook
+      - node_id: 5884a8ca-9d73-4fe8-a349-9f4a0158dc26
+        title: Outbounder Remote Viewing
+        slug: outbounder-remote-viewing
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: ch17:21208-21388
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 5ad48822-f160-42c5-b4f1-867dffe2f460
+    claim_hash: 3e1abd6e6ed490f70ee35bff100e581fe23086e2bee21124e9cea495957462f1
+    content: Ideas, concepts, plans, thoughts, words, and feelings can be targeted using a coordinate system with sealed envelopes,
+      or photographs illustrating them.
+    original_excerpt: All humor aside, lots of things can be targeted using a coordinate system (sealed envelopes), or photographs
+      illustrating ideas, concepts, plans, thoughts, words, and feelings.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 122c5474-8b82-401b-ac82-e2a300041b32
+        title: 'Remote Viewing Secrets: A Handbook'
+        slug: remote-viewing-secrets-a-handbook
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: ch17:21739-21906
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: c5edb116-f4bb-40f3-8845-ea1260d304b2
+    claim_hash: 05707ed5a886004a6b847bf2e792b944abce17905cfaf98aea0cc4bc263ecb63
+    content: Associative Remote Viewing works identically to the Coordinate Remote Viewing protocol, except that two targets,
+      Target A and Target B, are chosen rather than one target being randomly selected.
+    original_excerpt: 'The way it works is identical to the Coordinate protocol, with the following change: First we must
+      know what the specific forced-choice question is and the kind of answers it might require... instead of randomly choosing
+      a single target from a pool of possible targets, two targets are chosen: Target A and Target B.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 122c5474-8b82-401b-ac82-e2a300041b32
+        title: 'Remote Viewing Secrets: A Handbook'
+        slug: remote-viewing-secrets-a-handbook
+      - node_id: 7c287527-8d72-41d4-adec-5dcf0ce9ad1d
+        title: Associative Remote Viewing
+        slug: associative-remote-viewing
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: ch17:27746-28079
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 7cd679d4-ba1b-421e-8257-94a3186a982d
+    claim_hash: 2a3264e36ae87f409cf3f28bc2e872c6af9f66071e476bc754171b89a14c6392
+    content: For sub-atomic or micro remote viewing targets, the coordinate or sealed envelope protocol is the normal approach,
+      but the difficulty is how to frame the question since sub-atomic structures can only be hypothesised and rarely displayed.
+    original_excerpt: Again, using the coordinate or sealed envelope protocol is the normal route here. However the difficulty
+      then becomes how to frame the question, as we can only hypothesize as to how most sub-atomic structures look, and there
+      are very few ways to actually display them.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 122c5474-8b82-401b-ac82-e2a300041b32
+        title: 'Remote Viewing Secrets: A Handbook'
+        slug: remote-viewing-secrets-a-handbook
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: ch17:38768-39031
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 4a4c5bd2-52d7-4d1d-a307-03b8f8690fcd
+    claim_hash: 8f3464d5d75cd0fb2980fef19cf45c912e1e813d40b1d4134e9de49c37dc4b42
+    content: Controlled Remote Viewing is sometimes referred to as Coordinate Remote Viewing.
+    original_excerpt: (Sometimes Referred to as Coordinate Remote Viewing [CRY])
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b83494b0-eac6-4b7c-8852-2c000d801d54
+        title: Controlled Remote Viewing (CRV)
+        slug: controlled-remote-viewing-crv
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: ch17:50254-50307
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: c18c1dee-394f-4c3a-bfeb-5b114fabc828
+    claim_hash: 31bd7fa88573cfeedda8730111e2506dacbaa0fc989c8f625afee573f767860b
+    content: Coordinate Remote Viewing (CRV) is a form of remote viewing used by remote viewers many years ago, which entailed
+      prompting the remote viewer with specific geographic coordinates for a specific target site.
+    original_excerpt: 'COORDINATE REMOTE VIEWING (CRV): Form of remote viewing used by remote viewers many years ago, which
+      entailed prompting the remote viewer with specific geographic coordinates for a specific target site.'
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: ch28:2885-3082
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 7b7b6e28-ee40-4a68-9ead-a59bcc1a0487
+    claim_hash: a4d145f1cb3032c2b5764f2a13cc700a871191439cde9575d7c874e8268bfbbe
+    content: In Coordinate Remote Viewing, coordinate targets use information written on a sealed envelope, which can be alpha
+      or numeric or a combination, to identify the specific target of interest, with no relationship between the identifying
+      data and the envelope's contents.
+    original_excerpt: Coordinate targets are where information written on the sealed envelope is used to identify the specific
+      target of interest. It can be alpha or numeric, or a combination of both. This identifying data has no relationship
+      to what is contained within the envelope.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: ch33:11776-12029
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 65fd1596-d4aa-4112-94f6-8e908d31221c
+    claim_hash: bba36ec80087e89dc37086663e2503841a405055315cd315199236363e9e6dd6
+    content: At the Stanford Research Institute (SRI), Ingo Swann developed a unique approach to remote viewing called Coordinate
+      Remote Viewing (CRV).
+    original_excerpt: It was at SRI that Swan developed his unique approach to remote viewing, which he called Coordinate
+      Remote Viewing, or CRV.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+        title: Stanford Research Institute (SRI)
+        slug: stanford-research-institute-sri
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: 00:04:41.5-00:04:48.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 61e23ef9-725a-4296-a210-845275fb2ef8
+    claim_hash: f8e28a60c24ac74ae1a1a4f68a8092f7c36fbc41548e54206f7cec548af98ecf
+    content: Coordinate Remote Viewing (CRV) involves a structured process of gathering information through the use of visual
+      sensory impressions.
+    original_excerpt: CRV involves a structured process of gathering information through the use of visual sensory impressions.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: 00:04:49.6-00:04:54.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 75e749fe-9123-4656-a264-00658f98c632
+    claim_hash: 4944dcf55ecc5ea74a01a77f3da7d80037014c2bfefc41e2deea535df0d5fced
+    content: Coordinate Remote Viewing (CRV) starts with the viewer establishing a target, typically a location or object,
+      then gathering information through a series of structured steps.
+    original_excerpt: It starts with the viewer establishing a target, typically a location or object, and then working to
+      gather information about that target through a series of structured steps.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: 00:04:56.1-00:05:04.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 1484491c-9df4-47f0-8239-538988885b5e
+    claim_hash: 95da9a20485129c1a9c73399f5e7b1f951486898719bde0d9389bd85080e2290
+    content: Ingo Swann developed the remote-viewing structure used to train the Project Stargate prototype team.
+    original_excerpt: Ingo had just developed his structure.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+      title: Ed Dames
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ed Dames
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+        title: Project STARGATE
+        slug: project-stargate
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: 00:29:51.0-00:29:53.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 469f0dcb-f055-460d-af00-716fb7433f37
+    claim_hash: 27f455ad5292b4aca681a75c29703f497d3402f961f2238ff66e0d4de0b5ef5b
+    content: Ed Dames's remote-viewing process for locating a target proceeds through four stages.
+    original_excerpt: Dames will go through stages one through four, as we've explained previously.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Ed Dames
+      relay:
+        - narrator
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+        title: Ed Dames
+        slug: ed-dames
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: 00:31:54.0-00:31:57.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 2caa4923-14be-4899-81e8-e9ba2a8e6f34
+    claim_hash: a2acc69140e57055cd8345438926e5b69306c59a2e64ea9cd540de0932487f88
+    content: In coordinate remote viewing, target reference numbers are encased in square brackets.
+    original_excerpt: when the target reference numbers are encased in square brackets, they are target reference numbers
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+      title: Ed Dames
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ed Dames
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: 00:32:07.7-00:32:13.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null

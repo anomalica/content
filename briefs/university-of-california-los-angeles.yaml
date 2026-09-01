@@ -9,221 +9,228 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1446
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
 related_nodes:
-- node_id: a0643448-eca0-4b08-9036-658daf27b1a3
-  title: Douglass Price-Williams
-  node_type: person
-  slug: douglass-price-williams
-  shared_claims: 3
-- node_id: cfa77832-a6d7-4b10-9409-23457cdb016b
-  title: Allan C. Wilson
-  node_type: person
-  slug: allan-c-wilson
-  shared_claims: 1
-- node_id: a4a7c1f0-a64a-40b0-91cf-4c625e626ad1
-  title: Gilgamesh epic
-  node_type: document
-  slug: gilgamesh-epic
-  shared_claims: 1
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 1
-- node_id: 02e10a76-6e99-4535-ba51-5d483ffc0c28
-  title: Mitochondrial Eve hypothesis
-  node_type: topic
-  slug: mitochondrial-eve-hypothesis
-  shared_claims: 1
-claims:
-- claim_id: 773aca39-4168-4f74-9b7f-5ef14eeb2127
-  claim_hash: 0cbc772c0ad8f6d1483bfdabed37ac8cae768abc95c6a462767a547cd11b51e8
-  content: According to studies led by Dr. Allan C. Wilson of the University of California,
-    genetic evidence indicates that the entire human species arose from a single female
-    in North Africa between 140,000 and 280,000 years ago.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Allan C. Wilson
-    relay:
-    - Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 02e10a76-6e99-4535-ba51-5d483ffc0c28
-    title: Mitochondrial Eve hypothesis
-    slug: mitochondrial-eve-hypothesis
-  - node_id: b00af215-6e30-4e08-b15b-21ab67773912
-    title: University of California Los Angeles
-    slug: university-of-california-los-angeles
+  - node_id: a0643448-eca0-4b08-9036-658daf27b1a3
+    title: Douglass Price-Williams
+    node_type: person
+    slug: douglass-price-williams
+    shared_claims: 3
   - node_id: cfa77832-a6d7-4b10-9409-23457cdb016b
     title: Allan C. Wilson
+    node_type: person
     slug: allan-c-wilson
-  date: null
-  date_end: null
-  location_in_record: ch12:28727-28941
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 57d90b63-6f1c-42f2-b2f2-6293e4560566
-  claim_hash: 937ebaf5166cbd2b757db541dea87dd84f36f052fc22e1de76b1b65dca60c5c2
-  content: Douglass Price-Williams is a professor at the University of California,
-    Los Angeles (UCLA).
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a0643448-eca0-4b08-9036-658daf27b1a3
-    title: Douglass Price-Williams
-    slug: douglass-price-williams
-  - node_id: b00af215-6e30-4e08-b15b-21ab67773912
-    title: University of California Los Angeles
-    slug: university-of-california-los-angeles
-  date: null
-  date_end: null
-  location_in_record: ch14:12182-12211
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 419a9b9e-1300-4e09-9eaf-0f42e81f6955
-  claim_hash: d2e478614368b772a0c766c3ac49c82033d37afc9c6205ba599e1ded4bb51d14
-  content: Douglass Price-Williams of the University of California, Los Angeles points
-    out that in the Gilgamesh epic the scorpion creatures were the guardians of the
-    mountain of the sun.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: a0643448-eca0-4b08-9036-658daf27b1a3
-    title: Douglass Price-Williams
-  provenance_chain:
-    origin_kind: named
-    origin: Douglass Price-Williams
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a0643448-eca0-4b08-9036-658daf27b1a3
-    title: Douglass Price-Williams
-    slug: douglass-price-williams
+    shared_claims: 1
   - node_id: a4a7c1f0-a64a-40b0-91cf-4c625e626ad1
     title: Gilgamesh epic
+    node_type: document
     slug: gilgamesh-epic
-  - node_id: b00af215-6e30-4e08-b15b-21ab67773912
-    title: University of California Los Angeles
-    slug: university-of-california-los-angeles
-  date: null
-  date_end: null
-  location_in_record: ch14:12182-12320
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 6fad0250-17cd-4b28-b932-46b96bf42cab
-  claim_hash: c263936591ae31058ea529b8447b2f8821092eb1632770ca0f54fa260af9b9ac
-  content: Jacques Vallee's decision to accept an invitation to speak about UFO research
-    at a University of California extension course on psychic phenomena was greeted
-    with disbelief among astronomers privately interested in the subject.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallee
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
   - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
     title: Jacques Vallée
+    node_type: person
     slug: jacques-vallee
-  - node_id: b00af215-6e30-4e08-b15b-21ab67773912
-    title: University of California Los Angeles
-    slug: university-of-california-los-angeles
-  date: null
-  date_end: null
-  location_in_record: ch16:13517-13752
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 2ba1c1e3-3cfc-4c53-88c1-b3751449c880
-  claim_hash: 914fd4068fa9a5a3332236cf4e3f0a30c070c8ef90cac32aff4475626eedbb6d
-  content: Douglass Price-Williams was based at the University of California, Los
-    Angeles (UCLA).
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallee
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a0643448-eca0-4b08-9036-658daf27b1a3
-    title: Douglass Price-Williams
-    slug: douglass-price-williams
-  - node_id: b00af215-6e30-4e08-b15b-21ab67773912
-    title: University of California Los Angeles
-    slug: university-of-california-los-angeles
-  date: null
-  date_end: null
-  location_in_record: ch7:1680-1707
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 02e10a76-6e99-4535-ba51-5d483ffc0c28
+    title: Mitochondrial Eve hypothesis
+    node_type: topic
+    slug: mitochondrial-eve-hypothesis
+    shared_claims: 1
+claims:
+  - claim_id: 773aca39-4168-4f74-9b7f-5ef14eeb2127
+    claim_hash: 0cbc772c0ad8f6d1483bfdabed37ac8cae768abc95c6a462767a547cd11b51e8
+    content: According to studies led by Dr. Allan C. Wilson of the University of California, genetic evidence indicates that
+      the entire human species arose from a single female in North Africa between 140,000 and 280,000 years ago.
+    original_excerpt: According to studies led by Dr. Allan C. Wilson of the University of California, there is genetic evidence
+      that the entire human species arose from a single female in North Africa between 140,000 and 280,000 years ago.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Allan C. Wilson
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02e10a76-6e99-4535-ba51-5d483ffc0c28
+        title: Mitochondrial Eve hypothesis
+        slug: mitochondrial-eve-hypothesis
+      - node_id: b00af215-6e30-4e08-b15b-21ab67773912
+        title: University of California Los Angeles
+        slug: university-of-california-los-angeles
+      - node_id: cfa77832-a6d7-4b10-9409-23457cdb016b
+        title: Allan C. Wilson
+        slug: allan-c-wilson
+    date: null
+    date_end: null
+    location_in_record: ch12:28727-28941
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 57d90b63-6f1c-42f2-b2f2-6293e4560566
+    claim_hash: 937ebaf5166cbd2b757db541dea87dd84f36f052fc22e1de76b1b65dca60c5c2
+    content: Douglass Price-Williams is a professor at the University of California, Los Angeles (UCLA).
+    original_excerpt: Professor Price-Williams of UCLA
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0643448-eca0-4b08-9036-658daf27b1a3
+        title: Douglass Price-Williams
+        slug: douglass-price-williams
+      - node_id: b00af215-6e30-4e08-b15b-21ab67773912
+        title: University of California Los Angeles
+        slug: university-of-california-los-angeles
+    date: null
+    date_end: null
+    location_in_record: ch14:12182-12211
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 419a9b9e-1300-4e09-9eaf-0f42e81f6955
+    claim_hash: d2e478614368b772a0c766c3ac49c82033d37afc9c6205ba599e1ded4bb51d14
+    content: Douglass Price-Williams of the University of California, Los Angeles points out that in the Gilgamesh epic the
+      scorpion creatures were the guardians of the mountain of the sun.
+    original_excerpt: (Professor Price-Williams, of UCLA, points out that in the Gilgamesh epic the scorpion creatures were
+      the guardians of the mountain of the sun.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: a0643448-eca0-4b08-9036-658daf27b1a3
+      title: Douglass Price-Williams
+    provenance_chain:
+      origin_kind: named
+      origin: Douglass Price-Williams
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0643448-eca0-4b08-9036-658daf27b1a3
+        title: Douglass Price-Williams
+        slug: douglass-price-williams
+      - node_id: a4a7c1f0-a64a-40b0-91cf-4c625e626ad1
+        title: Gilgamesh epic
+        slug: gilgamesh-epic
+      - node_id: b00af215-6e30-4e08-b15b-21ab67773912
+        title: University of California Los Angeles
+        slug: university-of-california-los-angeles
+    date: null
+    date_end: null
+    location_in_record: ch14:12182-12320
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 6fad0250-17cd-4b28-b932-46b96bf42cab
+    claim_hash: c263936591ae31058ea529b8447b2f8821092eb1632770ca0f54fa260af9b9ac
+    content: Jacques Vallee's decision to accept an invitation to speak about UFO research at a University of California extension
+      course on psychic phenomena was greeted with disbelief among astronomers privately interested in the subject.
+    original_excerpt: when I was recently invited to speak about UFO research at a University of California extension course
+      on psychic phenomena, my decision to accept the invitation was greeted with disbelief among astronomers privately interested
+      in the subject.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: b00af215-6e30-4e08-b15b-21ab67773912
+        title: University of California Los Angeles
+        slug: university-of-california-los-angeles
+    date: null
+    date_end: null
+    location_in_record: ch16:13517-13752
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 2ba1c1e3-3cfc-4c53-88c1-b3751449c880
+    claim_hash: 914fd4068fa9a5a3332236cf4e3f0a30c070c8ef90cac32aff4475626eedbb6d
+    content: Douglass Price-Williams was based at the University of California, Los Angeles (UCLA).
+    original_excerpt: Douglass Price-Williams at UCLA
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0643448-eca0-4b08-9036-658daf27b1a3
+        title: Douglass Price-Williams
+        slug: douglass-price-williams
+      - node_id: b00af215-6e30-4e08-b15b-21ab67773912
+        title: University of California Los Angeles
+        slug: university-of-california-los-angeles
+    date: null
+    date_end: null
+    location_in_record: ch7:1680-1707
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has

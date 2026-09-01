@@ -9,292 +9,303 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 7
+  tokens_estimated: 1965
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
 related_nodes:
-- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-  title: Project Blue Book
-  node_type: project
-  slug: project-blue-book
-  shared_claims: 3
-- node_id: 5df59680-ee25-40e5-8894-dbdfb8b54f85
-  title: 1966 Michigan swamp gas Unidentified Aerial Phenomena (UAP) sightings
-  node_type: event
-  slug: 1966-michigan-swamp-gas-unidentified-aerial-phenomena-uap-sightings
-  shared_claims: 2
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 1
-- node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
-  title: J. Allen Hynek
-  node_type: person
-  slug: j-allen-hynek
-  shared_claims: 1
-- node_id: dc23e6d8-444d-4e0e-bba8-2d5492d51c06
-  title: USA, Washington, D.C.
-  node_type: place
-  slug: washington-dc-usa
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-claims:
-- claim_id: a73959da-0e65-4531-939e-9c66d01d3055
-  claim_hash: 4536498d58aa8b80d4ab05d061081d93bb0a50e714e1762f14e30f05b08bcffb
-  content: Gerald Ford, then a local politician, demanded that full attention be given
-    to what had become known as the Swamp Gas scandal, carrying the case to Washington,
-    D.C.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
-    title: Gerald Ford
-    slug: gerald-ford
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    node_type: project
+    slug: project-blue-book
+    shared_claims: 3
+  - node_id: 5df59680-ee25-40e5-8894-dbdfb8b54f85
+    title: 1966 Michigan swamp gas Unidentified Aerial Phenomena (UAP) sightings
+    node_type: event
+    slug: 1966-michigan-swamp-gas-unidentified-aerial-phenomena-uap-sightings
+    shared_claims: 2
   - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
     title: 2004 USS Nimitz UAP encounter
+    node_type: event
     slug: 2004-uss-nimitz-uap-encounter
-  - node_id: dc23e6d8-444d-4e0e-bba8-2d5492d51c06
-    title: USA, Washington, D.C.
-    slug: washington-dc-usa
-  date: '1966'
-  date_end: null
-  location_in_record: ch10:9633-9852
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 042839d1-8961-4548-8ce4-345376563a28
-  claim_hash: b58ddec4c7089f12a19565db1b6517b4311f7dee8c19b1bd24561c9ceb219c0a
-  content: In 1966, Gerald Ford claimed to have seen a UFO.
-  original_excerpt: I also want to point out in 1966, President Gerald Ford claimed
-    to have seen a UFO
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Gerald Ford
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
-    title: Gerald Ford
-    slug: gerald-ford
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: '1966'
-  date_end: null
-  location_in_record: char:7294-7373
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: c6ab16b0-aa08-4454-b0f9-2cc0f06f4b47
-  claim_hash: f03a2d054036d2e274cd8858634056d7158a5868ada750020d69df40371c99a1
-  content: At the insistence of Michigan congressman Gerald Ford, J. Allen Hynek's
-    Project Blue Book reviewed the 1966 Michigan swamp gas Unidentified Aerial Phenomena
-    (UAP) sightings and announced that the witnesses had seen swamp gas.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
-    title: Gerald Ford
-    slug: gerald-ford
-  - node_id: 5df59680-ee25-40e5-8894-dbdfb8b54f85
-    title: 1966 Michigan swamp gas Unidentified Aerial Phenomena (UAP) sightings
-    slug: 1966-michigan-swamp-gas-unidentified-aerial-phenomena-uap-sightings
-  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-    title: Project Blue Book
-    slug: project-blue-book
+    shared_claims: 1
   - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
     title: J. Allen Hynek
+    node_type: person
     slug: j-allen-hynek
-  date: 1966-03
-  date_end: null
-  location_in_record: ch12:29184-29381
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: efdf0489-9b1c-4ce8-b99e-9eb7ee62ed63
-  claim_hash: 885761509ae1fd33f799c8b3c897a8fbf4db74e4526ecdc867ff50d3c2c46fc0
-  content: Luis Elizondo was told that Gerald Ford was not briefed on UAP, probably
-    because he had too much on his plate dealing with the aftermath of Watergate.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: anonymous
-    origin: an unnamed person who told Luis Elizondo about Gerald Ford's UAP briefing
-      status
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
-    title: Gerald Ford
-    slug: gerald-ford
-  date: null
-  date_end: null
-  location_in_record: ch31:16656-16781
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 38421a20-13b2-4942-a932-8937a2149fb2
-  claim_hash: d0532c4b74aa4e908a57608b148760d34ce3bbc7f68ca0de9c8bbae3fde47195
-  content: Gerald Ford had grappled with the UAP subject early in his congressional
-    career, during the 1966 Michigan swamp gas UAP sightings.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
-    title: Gerald Ford
-    slug: gerald-ford
-  - node_id: 5df59680-ee25-40e5-8894-dbdfb8b54f85
-    title: 1966 Michigan swamp gas Unidentified Aerial Phenomena (UAP) sightings
-    slug: 1966-michigan-swamp-gas-unidentified-aerial-phenomena-uap-sightings
-  date: null
-  date_end: null
-  location_in_record: ch31:16880-16986
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 44a83430-c440-4b05-b961-da6b4c3444dd
-  claim_hash: a778b9165c9da6be6fe0015417fc06452d19d3b4a910d35ce700dbc18f0f6924
-  content: The Ford Presidential Library has released at least fifteen documents related
-    to the Project Blue Book 'swamp gas' finding.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
-    title: Gerald Ford
-    slug: gerald-ford
-  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-    title: Project Blue Book
-    slug: project-blue-book
-  date: null
-  date_end: null
-  location_in_record: ch31:16996-17186
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 24728cff-3caa-479e-860e-d2f68bd3dbee
-  claim_hash: 5482d781a50002fc2781d201100db16f99f70747c683a1892a4a184e28d00e72
-  content: Gerald Ford remained forever sceptical of the Project Blue Book 'swamp
-    gas' finding.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
-    title: Gerald Ford
-    slug: gerald-ford
-  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-    title: Project Blue Book
-    slug: project-blue-book
-  date: null
-  date_end: null
-  location_in_record: ch31:17155-17186
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    node_type: place
+    slug: district-of-columbia-washington-usa
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+claims:
+  - claim_id: a73959da-0e65-4531-939e-9c66d01d3055
+    claim_hash: 4536498d58aa8b80d4ab05d061081d93bb0a50e714e1762f14e30f05b08bcffb
+    content: Gerald Ford, then a local politician, demanded that full attention be given to what had become known as the Swamp
+      Gas scandal, carrying the case to Washington, D.C.
+    original_excerpt: Public reaction following the swamp gas statement carried the case to Washington, with help from a then
+      local politician, Gerald Ford, who demanded that full attention be given to what had become known as the Swamp Gas scandal.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
+        title: Gerald Ford
+        slug: gerald-ford
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1966'
+    date_end: null
+    location_in_record: ch10:9633-9852
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 042839d1-8961-4548-8ce4-345376563a28
+    claim_hash: b58ddec4c7089f12a19565db1b6517b4311f7dee8c19b1bd24561c9ceb219c0a
+    content: In 1966, Gerald Ford claimed to have seen a UFO.
+    original_excerpt: I also want to point out in 1966, President Gerald Ford claimed to have seen a UFO
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Gerald Ford
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
+        title: Gerald Ford
+        slug: gerald-ford
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: '1966'
+    date_end: null
+    location_in_record: char:7294-7373
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: c6ab16b0-aa08-4454-b0f9-2cc0f06f4b47
+    claim_hash: f03a2d054036d2e274cd8858634056d7158a5868ada750020d69df40371c99a1
+    content: At the insistence of Michigan congressman Gerald Ford, J. Allen Hynek's Project Blue Book reviewed the 1966 Michigan
+      swamp gas Unidentified Aerial Phenomena (UAP) sightings and announced that the witnesses had seen swamp gas.
+    original_excerpt: At the insistence of a leading Michigan congressman named Gerald Ford, Dr. Hynek's Project Blue Book
+      reviewed the matter thoroughly, and unfortunately announced that the witnesses had seen… swamp gas.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
+        title: Gerald Ford
+        slug: gerald-ford
+      - node_id: 5df59680-ee25-40e5-8894-dbdfb8b54f85
+        title: 1966 Michigan swamp gas Unidentified Aerial Phenomena (UAP) sightings
+        slug: 1966-michigan-swamp-gas-unidentified-aerial-phenomena-uap-sightings
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+        title: J. Allen Hynek
+        slug: j-allen-hynek
+    date: 1966-03
+    date_end: null
+    location_in_record: ch12:29184-29381
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: efdf0489-9b1c-4ce8-b99e-9eb7ee62ed63
+    claim_hash: 885761509ae1fd33f799c8b3c897a8fbf4db74e4526ecdc867ff50d3c2c46fc0
+    content: Luis Elizondo was told that Gerald Ford was not briefed on UAP, probably because he had too much on his plate
+      dealing with the aftermath of Watergate.
+    original_excerpt: I was told Gerald Ford was not briefed, probably because he had too much on his plate picking up the
+      pieces of the Watergate debacle.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed person who told Luis Elizondo about Gerald Ford's UAP briefing status
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
+        title: Gerald Ford
+        slug: gerald-ford
+    date: null
+    date_end: null
+    location_in_record: ch31:16656-16781
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 38421a20-13b2-4942-a932-8937a2149fb2
+    claim_hash: d0532c4b74aa4e908a57608b148760d34ce3bbc7f68ca0de9c8bbae3fde47195
+    content: Gerald Ford had grappled with the UAP subject early in his congressional career, during the 1966 Michigan swamp
+      gas UAP sightings.
+    original_excerpt: Ford had grappled with the subject early in his congressional career, during the famous 1966 sightings
+      in Michigan.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
+        title: Gerald Ford
+        slug: gerald-ford
+      - node_id: 5df59680-ee25-40e5-8894-dbdfb8b54f85
+        title: 1966 Michigan swamp gas Unidentified Aerial Phenomena (UAP) sightings
+        slug: 1966-michigan-swamp-gas-unidentified-aerial-phenomena-uap-sightings
+    date: null
+    date_end: null
+    location_in_record: ch31:16880-16986
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 44a83430-c440-4b05-b961-da6b4c3444dd
+    claim_hash: a778b9165c9da6be6fe0015417fc06452d19d3b4a910d35ce700dbc18f0f6924
+    content: The Ford Presidential Library has released at least fifteen documents related to the Project Blue Book 'swamp
+      gas' finding.
+    original_excerpt: The Ford Presidential Library has since released at least fifteen documents related to the notorious
+      Blue Book “swamp gas” finding, of which Ford remained forever skeptical.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
+        title: Gerald Ford
+        slug: gerald-ford
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+    date: null
+    date_end: null
+    location_in_record: ch31:16996-17186
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 24728cff-3caa-479e-860e-d2f68bd3dbee
+    claim_hash: 5482d781a50002fc2781d201100db16f99f70747c683a1892a4a184e28d00e72
+    content: Gerald Ford remained forever sceptical of the Project Blue Book 'swamp gas' finding.
+    original_excerpt: of which Ford remained forever skeptical.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
+        title: Gerald Ford
+        slug: gerald-ford
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+    date: null
+    date_end: null
+    location_in_record: ch31:17155-17186
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

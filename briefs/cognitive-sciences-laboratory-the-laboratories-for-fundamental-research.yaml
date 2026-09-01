@@ -9,865 +9,885 @@ page:
   claim_count: 21
   claim_count_total: 21
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 21
+  tokens_estimated: 6658
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 21
 related_nodes:
-- node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-  title: Joseph McMoneagle
-  node_type: person
-  slug: joseph-mcmoneagle
-  shared_claims: 8
-- node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
-  title: Project STARGATE
-  node_type: project
-  slug: project-stargate
-  shared_claims: 3
-- node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-  title: SRI International
-  node_type: organisation
-  slug: sri-international
-  shared_claims: 3
-- node_id: abcb5364-007d-441a-b246-86e28f74227d
-  title: Anomalous Cognition (AC)
-  node_type: topic
-  slug: anomalous-cognition-ac
-  shared_claims: 2
-- node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
-  title: Edwin C. May
-  node_type: person
-  slug: edwin-c-may
-  shared_claims: 2
-- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-  title: Remote Viewing (RV)
-  node_type: topic
-  slug: remote-viewing-rv
-  shared_claims: 2
-- node_id: 0ef51947-c1a0-4888-99c1-313a2990a9c4
-  title: USA, California, Palo Alto
-  node_type: place
-  slug: california-palo-alto-usa
-  shared_claims: 2
-- node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
-  title: USA, Maryland, Fort Meade
-  node_type: place
-  slug: maryland-fort-meade-usa
-  shared_claims: 2
-- node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
-  title: Dowsing
-  node_type: topic
-  slug: dowsing
-  shared_claims: 1
-- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-  title: Harold E. Puthoff
-  node_type: person
-  slug: harold-e-puthoff
-  shared_claims: 1
-- node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-  title: Russell Targ
-  node_type: person
-  slug: russell-targ
-  shared_claims: 1
-- node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
-  title: S. James P. Spottiswoode
-  node_type: person
-  slug: s-james-p-spottiswoode
-  shared_claims: 1
-- node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
-  title: Science Applications International Corporation (SAIC)
-  node_type: organisation
-  slug: science-applications-international-corporation-saic
-  shared_claims: 1
-claims:
-- claim_id: 06a77554-72b3-4a1c-af35-ec29daf7a338
-  claim_hash: b6a7c27568d63a56081e318b2df7657952ae4a3184ac881d852801189fdc0fbd
-  content: The five occasions on which remote viewing exceeded sixty-five percent
-    reliability, known to Joseph McMoneagle, involved only two viewers, both of whom
-    worked in the Cognitive Sciences Laboratory.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
   - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
     title: Joseph McMoneagle
+    node_type: person
     slug: joseph-mcmoneagle
-  date: null
-  date_end: null
-  location_in_record: ch14:21042-21142
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 88019d1c-91ae-40c6-898c-cdeefcb18d7f
-  claim_hash: 10f6b0fd21cbcdf1cb60b72506774cd6e377bae481bf5fd00e98b35d1215971b
-  content: Joseph McMoneagle was later formally trained in dowsing at the Cognitive
-    Sciences Laboratory at SRI International by an internationally known dowser with
-    decades of experience.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-    slug: joseph-mcmoneagle
+    shared_claims: 8
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    node_type: project
+    slug: project-stargate
+    shared_claims: 3
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    node_type: organisation
+    slug: sri-international
+    shared_claims: 3
+  - node_id: abcb5364-007d-441a-b246-86e28f74227d
+    title: Anomalous Cognition (AC)
+    node_type: topic
+    slug: anomalous-cognition-ac
+    shared_claims: 2
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    node_type: person
+    slug: edwin-c-may
+    shared_claims: 2
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    node_type: topic
+    slug: remote-viewing-rv
+    shared_claims: 2
+  - node_id: 0ef51947-c1a0-4888-99c1-313a2990a9c4
+    title: USA, California, Palo Alto
+    node_type: place
+    slug: california-palo-alto-usa
+    shared_claims: 2
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    node_type: place
+    slug: maryland-fort-meade-usa
+    shared_claims: 2
   - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
     title: Dowsing
+    node_type: topic
     slug: dowsing
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch17:36138-36278
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: cfbb7886-37a8-451b-912b-465a69ffabd2
-  claim_hash: 01aa79d492696ae8492156a8cce7460fae6eeebf3559fc8af27a0e2faaaa9474
-  content: S. James P. Spottiswoode was the Operations Officer for the Laboratories
-    for Fundamental Research, Cognitive Sciences Laboratory.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
-    title: S. James P. Spottiswoode
-    slug: s-james-p-spottiswoode
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  date: null
-  date_end: null
-  location_in_record: ch25:505-748
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 62eb53aa-d4d1-4c23-9180-787c0d73e93c
-  claim_hash: bfe08d3981a528e6a16a36ab450f622dbee0307e2aab229c70cf526cb2f66208
-  content: The term "free response anomalous cognition" is the term used by the Laboratories
-    for Fundamental Research, Cognitive Sciences Laboratory to denote psychic functioning
-    under controls, including remote viewing.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
-    slug: remote-viewing-rv
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  - node_id: abcb5364-007d-441a-b246-86e28f74227d
-    title: Anomalous Cognition (AC)
-    slug: anomalous-cognition-ac
-  date: null
-  date_end: null
-  location_in_record: ch25:761-894
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: e88f1608-8dc9-40f7-94d8-b2d302a3059f
-  claim_hash: 4b8cca00a472fb855ed35625f687adc01fe84245e25053671bda26b757b7441f
-  content: Joseph McMoneagle observed that over the course of their careers, every
-    exceptional viewer studied at the SRI International Cognitive Sciences Laboratory
-    and Science Applications International Corporation, Inc. essentially produced
-    a near flat-line in ability, with the best remote viewers performing about as
-    well at the start of their careers as at the end.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-    slug: joseph-mcmoneagle
-  - node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
-    title: Science Applications International Corporation (SAIC)
-    slug: science-applications-international-corporation-saic
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: null
-  date_end: null
-  location_in_record: ch27:8265-8655
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: ff741884-6ec7-4693-a0ca-f7a8f1c7e887
-  claim_hash: 852f475bb23595cfe4b58cbb2ab8714c7085a4ca3d70798e6a481ae0347153bc
-  content: Anomalous Cognition (AC) is a term used by the Cognitive Sciences Laboratory
-    to define extrasensory perception (ESP).
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  - node_id: abcb5364-007d-441a-b246-86e28f74227d
-    title: Anomalous Cognition (AC)
-    slug: anomalous-cognition-ac
-  date: null
-  date_end: null
-  location_in_record: ch28:944-1053
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 93e00e3c-8475-4236-a454-c2dd42390757
-  claim_hash: 7583400ffd2e10a753e0c9d58e2b8c1d753124e685ec2cfef49f9837046ff5fe
-  content: Joseph McMoneagle has been a full-time Research Associate with The Laboratories
-    for Fundamental Research, Cognitive Sciences Laboratory, in Palo Alto, California,
-    for more than 30 years.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0ef51947-c1a0-4888-99c1-313a2990a9c4
-    title: USA, California, Palo Alto
-    slug: california-palo-alto-usa
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-    slug: joseph-mcmoneagle
-  date: null
-  date_end: null
-  location_in_record: ch4:1004-1164
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 996bf5b8-de2a-4769-8ed3-6e4af44274d7
-  claim_hash: fcc683befc7912b05a5c3a3dc1ac170f0b0e9aaa6297ee7298cb625a7cc40d2b
-  content: The Cognitive Sciences Laboratory functioned with at least three scientific
-    over-sight committees between 1986 and 1995.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  date: '1986'
-  date_end: null
-  location_in_record: ch9:12118-12232
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 666eb59b-66bc-4ebd-a8df-5ee7ebaefd54
-  claim_hash: 0c218644baf8695431316a1485ca3535f434fe7ea58aa8530fd228619eb84b56
-  content: A significant portion of the Cognitive Sciences Laboratory's research material
-    has already been published in peer-reviewed journals and refereed papers, though
-    much of it remains classified.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  date: null
-  date_end: null
-  location_in_record: ch9:13205-13403
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 7ada70fc-66d7-4247-af8f-ccd941798e95
-  claim_hash: 82119ad3e95fec97a6f05294aa9aa40969233a8ec99b0bb68fd600ac41457d9e
-  content: Joseph McMoneagle spent almost fifteen years at the Cognitive Sciences
-    Laboratory as both a research associate and a subject.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-    slug: joseph-mcmoneagle
-  date: null
-  date_end: null
-  location_in_record: ch9:1369-1491
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 9a0a4bfd-9496-4408-941c-ca01376a63a3
-  claim_hash: 6e08f031450267e0cdcdc78153e8331cc241e4c09898e1e5c2735acee3bbbcd2
-  content: Since Project STARGATE closed, Joseph McMoneagle has continued privately
-    to perform applications remote viewing for numerous companies and individuals,
-    and research remote viewing for the Cognitive Sciences Laboratory and other laboratories.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-    slug: joseph-mcmoneagle
-  date: null
-  date_end: null
-  location_in_record: ch9:1922-2079
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: e01eb761-53da-4919-83e6-c6be5538af2b
-  claim_hash: 6dcaf5d1142477e7021d1a578b30c573d0003fa742d76be6b122866e49054920
-  content: The Cognitive Sciences Laboratory at SRI International received considerable
-    funding, carried out and supported extensive experimentation, and provided support
-    to intelligence operations from 1972 through 1995.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-    title: SRI International
-    slug: sri-international
-  date: '1972'
-  date_end: null
-  location_in_record: ch9:6863-7029
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 0539ebd1-633f-43b0-a91e-0569db735222
-  claim_hash: c62b7a6b4ddf45a22d65df7ee577a6934036fcdd089e22e39bf220d864764c03
-  content: The Cognitive Sciences Laboratory shared its 23-year experimentation budget
-    through numerous sub-contracts with many other labs, enabling further research
-    into the paranormal in areas only peripherally related to remote viewing.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  date: null
-  date_end: null
-  location_in_record: ch9:7319-7514
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: f4cb33f4-fcae-4d9c-ac99-b5f27a536892
-  claim_hash: db72418f5e60be7dad8e399cfe4f063e886f3d3cc698bae7e5300308499f1136
-  content: Hal Puthoff and Russell Targ were directly responsible for the Cognitive
-    Sciences Laboratory's accomplishments during the early years, 1972 through 1986.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+    shared_claims: 1
   - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
     title: Harold E. Puthoff
+    node_type: person
     slug: harold-e-puthoff
+    shared_claims: 1
   - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
     title: Russell Targ
+    node_type: person
     slug: russell-targ
-  date: '1972'
-  date_end: null
-  location_in_record: ch9:7692-7822
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 42a1e688-629a-4f67-b440-b62ef6ac89c5
-  claim_hash: eb04c5476b19f392563806808cbe9db60cd109f5ddc7ce566fe34dc9a7b72ced
-  content: Edwin C. May and his colleagues were directly responsible for the Cognitive
-    Sciences Laboratory's accomplishments from 1986 through the termination of Project
-    STARGATE in November 1995.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
-    title: Edwin C. May
-    slug: edwin-c-may
-  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
-    title: Project STARGATE
-    slug: project-stargate
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  date: '1986'
-  date_end: null
-  location_in_record: ch9:7827-7931
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 28a9a275-a5a5-4b56-8eb3-80867756a320
-  claim_hash: 3766db486aab21c7e9d3959fb58446eb6c4d74de883b7c7505e2d5d22570f047
-  content: Edwin C. May worked at the Cognitive Sciences Laboratory for approximately
-    nine years before becoming its director in 1986.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
-    title: Edwin C. May
-    slug: edwin-c-may
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  date: '1986'
-  date_end: null
-  location_in_record: ch9:7957-8047
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 1655533f-73b2-438e-8d8c-ebdd00ab556c
-  claim_hash: 6eef7c11f2172979c425e4cb5a0e6cc939f68ff58af8bd0bcd9d36f0e88ac8aa
-  content: Dozens of other scientists worked at the Cognitive Sciences Laboratory
-    between 1972 and 1995, some of whom became leaders in various fields or directors
-    of other labs or organisations.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  date: null
-  date_end: null
-  location_in_record: ch9:8055-8293
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: e74a0e85-b437-4e01-9e67-d3bd94306800
-  claim_hash: 9b4e506254348fc6f3baa5cee78bf51cf49af6160db4343062a00be60f2e00bf
-  content: Findings and materials from the Cognitive Sciences Laboratory were shared
-    with and used within the operational element of Project STARGATE, located at Fort
-    Meade, Maryland, for most of the time it existed.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
-    title: Project STARGATE
-    slug: project-stargate
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
-    title: USA, Maryland, Fort Meade
-    slug: maryland-fort-meade-usa
-  date: null
-  date_end: null
-  location_in_record: ch9:8678-8853
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 03ab0d79-abbb-4414-82e9-789754dd07da
-  claim_hash: a420b44325c668f23d78698413f2714e2228bd6719cc793b2b8fa8cd89a2149a
-  content: Research findings at the Cognitive Sciences Laboratory that established
-    changes to specific remote viewing applications were sometimes dismissed as unnecessary
-    or discarded by the Fort Meade project managers of Project STARGATE.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
-    title: Project STARGATE
-    slug: project-stargate
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
-    title: USA, Maryland, Fort Meade
-    slug: maryland-fort-meade-usa
-  date: null
-  date_end: null
-  location_in_record: ch9:9090-9364
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: 25541471-65d5-4963-ac8b-f84e65cb80af
-  claim_hash: 3db4b148dd821a95edc9576414de723b49e7ac18d64f00aea6c4ab0de18dfe35
-  content: Joseph McMoneagle spent a considerable period of his life immersed in the
-    research and development side of remote viewing, primarily with the Cognitive
-    Sciences Laboratory.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-  provenance_chain:
-    origin_kind: speaker
-    origin: Joseph McMoneagle
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-    slug: joseph-mcmoneagle
-  date: null
-  date_end: null
-  location_in_record: ch9:916-1118
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
-    record_title: Remote Viewing Secrets
-    record_date: '2013-03-22'
-    record_reference: null
-    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
-    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
-  excerpt_withheld: restricted
-- claim_id: a4a4ba7a-e107-4286-8cbc-ba9e60cdbb6e
-  claim_hash: ecbcf14b0453d5d3491044f00e974191bad5c628ae550ed21b78cf4260cc4499
-  content: Joe McMoneagle is a full-time research associate and partner with the Laboratories
-    for Fundamental Research Cognitive Sciences Laboratory in Palo Alto, California,
-    providing consulting support to research and development in remote viewing.
-  original_excerpt: Joe McMoneagle is currently a full time research associate and
-    partner with the Laboratories for Fundamental Research Cognitive Sciences Laboratory,
-    Palo Alto, California, where he has provided consulting support to research and
-    development in remote viewing
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0ef51947-c1a0-4888-99c1-313a2990a9c4
-    title: USA, California, Palo Alto
-    slug: california-palo-alto-usa
-  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
-    slug: remote-viewing-rv
-  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
-    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
-    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-    title: Joseph McMoneagle
-    slug: joseph-mcmoneagle
-  date: null
-  date_end: null
-  location_in_record: 00:12:08.4-00:12:25.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
+    title: S. James P. Spottiswoode
+    node_type: person
+    slug: s-james-p-spottiswoode
+    shared_claims: 1
+  - node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
+    title: Science Applications International Corporation (SAIC)
+    node_type: organisation
+    slug: science-applications-international-corporation-saic
+    shared_claims: 1
+claims:
+  - claim_id: 06a77554-72b3-4a1c-af35-ec29daf7a338
+    claim_hash: b6a7c27568d63a56081e318b2df7657952ae4a3184ac881d852801189fdc0fbd
+    content: The five occasions on which remote viewing exceeded sixty-five percent reliability, known to Joseph McMoneagle,
+      involved only two viewers, both of whom worked in the Cognitive Sciences Laboratory.
+    original_excerpt: These five occasions had to do with only two viewers, both of whom worked in the Cognitive Sciences
+      Lab.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+    date: null
+    date_end: null
+    location_in_record: ch14:21042-21142
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 88019d1c-91ae-40c6-898c-cdeefcb18d7f
+    claim_hash: 10f6b0fd21cbcdf1cb60b72506774cd6e377bae481bf5fd00e98b35d1215971b
+    content: Joseph McMoneagle was later formally trained in dowsing at the Cognitive Sciences Laboratory at SRI International
+      by an internationally known dowser with decades of experience.
+    original_excerpt: I was later trained formally, at the Cognitive Sciences Laboratory at SRI-International, by an internationally-known
+      dowser with decades of experience.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+        title: Dowsing
+        slug: dowsing
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch17:36138-36278
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: cfbb7886-37a8-451b-912b-465a69ffabd2
+    claim_hash: 01aa79d492696ae8492156a8cce7460fae6eeebf3559fc8af27a0e2faaaa9474
+    content: S. James P. Spottiswoode was the Operations Officer for the Laboratories for Fundamental Research, Cognitive
+      Sciences Laboratory.
+    original_excerpt: The Operations Officer for the Laboratories for the Cognitive Sciences Laboratory (CSL), S. James P.
+      Spottiswoode, recognized an apparent association between the effect sizes in free response anomalous cognition experiments
+      and local Sidereal time.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
+        title: S. James P. Spottiswoode
+        slug: s-james-p-spottiswoode
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+    date: null
+    date_end: null
+    location_in_record: ch25:505-748
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 62eb53aa-d4d1-4c23-9180-787c0d73e93c
+    claim_hash: bfe08d3981a528e6a16a36ab450f622dbee0307e2aab229c70cf526cb2f66208
+    content: The term "free response anomalous cognition" is the term used by the Laboratories for Fundamental Research, Cognitive
+      Sciences Laboratory to denote psychic functioning under controls, including remote viewing.
+    original_excerpt: The term "free response anomalous cognition" is the term used in CSL to denote psychic functioning under
+      controls (to include remote viewing).
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: abcb5364-007d-441a-b246-86e28f74227d
+        title: Anomalous Cognition (AC)
+        slug: anomalous-cognition-ac
+    date: null
+    date_end: null
+    location_in_record: ch25:761-894
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: e88f1608-8dc9-40f7-94d8-b2d302a3059f
+    claim_hash: 4b8cca00a472fb855ed35625f687adc01fe84245e25053671bda26b757b7441f
+    content: Joseph McMoneagle observed that over the course of their careers, every exceptional viewer studied at the SRI
+      International Cognitive Sciences Laboratory and Science Applications International Corporation, Inc. essentially produced
+      a near flat-line in ability, with the best remote viewers performing about as well at the start of their careers as
+      at the end.
+    original_excerpt: Over the course of their careers, every exceptional viewer studied in the cognitive sciences labs at
+      SRI-International (SRI-I) and Science Applications International Corporation (SAIC) have essentially produced a near
+      flat-line in terms of ability... They are as good walking in the door as they are when they exit.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
+        title: Science Applications International Corporation (SAIC)
+        slug: science-applications-international-corporation-saic
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch27:8265-8655
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: ff741884-6ec7-4693-a0ca-f7a8f1c7e887
+    claim_hash: 852f475bb23595cfe4b58cbb2ab8714c7085a4ca3d70798e6a481ae0347153bc
+    content: Anomalous Cognition (AC) is a term used by the Cognitive Sciences Laboratory to define extrasensory perception
+      (ESP).
+    original_excerpt: 'ANOMALOUS COGNITION (AC): Term used by the Cognitive Sciences Laboratory to define Extra Sensory Perception
+      (ESP).'
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: abcb5364-007d-441a-b246-86e28f74227d
+        title: Anomalous Cognition (AC)
+        slug: anomalous-cognition-ac
+    date: null
+    date_end: null
+    location_in_record: ch28:944-1053
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 93e00e3c-8475-4236-a454-c2dd42390757
+    claim_hash: 7583400ffd2e10a753e0c9d58e2b8c1d753124e685ec2cfef49f9837046ff5fe
+    content: Joseph McMoneagle has been a full-time Research Associate with The Laboratories for Fundamental Research, Cognitive
+      Sciences Laboratory, in Palo Alto, California, for more than 30 years.
+    original_excerpt: He is also a full time Research Associate with The Laboratories for Fundamental Research, Cognitive
+      Sciences Laboratory, Palo Alto, California for more than 30 years.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ef51947-c1a0-4888-99c1-313a2990a9c4
+        title: USA, California, Palo Alto
+        slug: california-palo-alto-usa
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+    date: null
+    date_end: null
+    location_in_record: ch4:1004-1164
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 996bf5b8-de2a-4769-8ed3-6e4af44274d7
+    claim_hash: fcc683befc7912b05a5c3a3dc1ac170f0b0e9aaa6297ee7298cb625a7cc40d2b
+    content: The Cognitive Sciences Laboratory functioned with at least three scientific over-sight committees between 1986
+      and 1995.
+    original_excerpt: This is one of the primary reasons CSL always functioned with at least three of these committees between
+      1986 and 1995.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+    date: '1986'
+    date_end: null
+    location_in_record: ch9:12118-12232
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 666eb59b-66bc-4ebd-a8df-5ee7ebaefd54
+    claim_hash: 0c218644baf8695431316a1485ca3535f434fe7ea58aa8530fd228619eb84b56
+    content: A significant portion of the Cognitive Sciences Laboratory's research material has already been published in
+      peer-reviewed journals and refereed papers, though much of it remains classified.
+    original_excerpt: A significant portion of this material has already been published in peer review journals and within
+      refereed papers. However, like the operational material, quite a bit of this material remains classified.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+    date: null
+    date_end: null
+    location_in_record: ch9:13205-13403
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 7ada70fc-66d7-4247-af8f-ccd941798e95
+    claim_hash: 82119ad3e95fec97a6f05294aa9aa40969233a8ec99b0bb68fd600ac41457d9e
+    content: Joseph McMoneagle spent almost fifteen years at the Cognitive Sciences Laboratory as both a research associate
+      and a subject.
+    original_excerpt: I have spent almost fifteen years there as both research associate and subject, and I am still employed
+      full-time by that organization.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+    date: null
+    date_end: null
+    location_in_record: ch9:1369-1491
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 9a0a4bfd-9496-4408-941c-ca01376a63a3
+    claim_hash: 6e08f031450267e0cdcdc78153e8331cc241e4c09898e1e5c2735acee3bbbcd2
+    content: Since Project STARGATE closed, Joseph McMoneagle has continued privately to perform applications remote viewing
+      for numerous companies and individuals, and research remote viewing for the Cognitive Sciences Laboratory and other
+      laboratories.
+    original_excerpt: Since then, I've continued privately to do applications remote viewing for numerous companies and individuals,
+      and research remote viewing for CSL and other laboratories.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+    date: null
+    date_end: null
+    location_in_record: ch9:1922-2079
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: e01eb761-53da-4919-83e6-c6be5538af2b
+    claim_hash: 6dcaf5d1142477e7021d1a578b30c573d0003fa742d76be6b122866e49054920
+    content: The Cognitive Sciences Laboratory at SRI International received considerable funding, carried out and supported
+      extensive experimentation, and provided support to intelligence operations from 1972 through 1995.
+    original_excerpt: CSL received a considerable amount of funding, carried out and supported extensive experimentation,
+      and provided support to intelligence operations from 1972 through 1995.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: '1972'
+    date_end: null
+    location_in_record: ch9:6863-7029
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 0539ebd1-633f-43b0-a91e-0569db735222
+    claim_hash: c62b7a6b4ddf45a22d65df7ee577a6934036fcdd089e22e39bf220d864764c03
+    content: The Cognitive Sciences Laboratory shared its 23-year experimentation budget through numerous sub-contracts with
+      many other labs, enabling further research into the paranormal in areas only peripherally related to remote viewing.
+    original_excerpt: It was shared through numerous sub-contracts with many other labs, enabling a great deal of research
+      into the paranormal to be accomplished in areas sometimes only peripherally related to remote viewing.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+    date: null
+    date_end: null
+    location_in_record: ch9:7319-7514
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: f4cb33f4-fcae-4d9c-ac99-b5f27a536892
+    claim_hash: db72418f5e60be7dad8e399cfe4f063e886f3d3cc698bae7e5300308499f1136
+    content: Hal Puthoff and Russell Targ were directly responsible for the Cognitive Sciences Laboratory's accomplishments
+      during the early years, 1972 through 1986.
+    original_excerpt: These accomplishments were and are directly attributable to Dr. Hal Puthoff and Mr. Russell Targ in
+      the early years, 1972 through 1986
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+    date: '1972'
+    date_end: null
+    location_in_record: ch9:7692-7822
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 42a1e688-629a-4f67-b440-b62ef6ac89c5
+    claim_hash: eb04c5476b19f392563806808cbe9db60cd109f5ddc7ce566fe34dc9a7b72ced
+    content: Edwin C. May and his colleagues were directly responsible for the Cognitive Sciences Laboratory's accomplishments
+      from 1986 through the termination of Project STARGATE in November 1995.
+    original_excerpt: and to Dr. Edwin C. May and his colleagues—from 1986 through the termination of the project in November
+      1995.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+        title: Edwin C. May
+        slug: edwin-c-may
+      - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+        title: Project STARGATE
+        slug: project-stargate
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+    date: '1986'
+    date_end: null
+    location_in_record: ch9:7827-7931
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 28a9a275-a5a5-4b56-8eb3-80867756a320
+    claim_hash: 3766db486aab21c7e9d3959fb58446eb6c4d74de883b7c7505e2d5d22570f047
+    content: Edwin C. May worked at the Cognitive Sciences Laboratory for approximately nine years before becoming its director
+      in 1986.
+    original_excerpt: Dr. May worked for approximately nine plus years at CSL prior to becoming its director in 1986.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+        title: Edwin C. May
+        slug: edwin-c-may
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+    date: '1986'
+    date_end: null
+    location_in_record: ch9:7957-8047
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 1655533f-73b2-438e-8d8c-ebdd00ab556c
+    claim_hash: 6eef7c11f2172979c425e4cb5a0e6cc939f68ff58af8bd0bcd9d36f0e88ac8aa
+    content: Dozens of other scientists worked at the Cognitive Sciences Laboratory between 1972 and 1995, some of whom became
+      leaders in various fields or directors of other labs or organisations.
+    original_excerpt: In addition, dozens of other scientists worked at CSL between 1972 and 1995, some of whom have become
+      leaders in various fields, as well as directors of other labs or organizations on the cutting edge of investigations
+      into the nature of humankind.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+    date: null
+    date_end: null
+    location_in_record: ch9:8055-8293
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: e74a0e85-b437-4e01-9e67-d3bd94306800
+    claim_hash: 9b4e506254348fc6f3baa5cee78bf51cf49af6160db4343062a00be60f2e00bf
+    content: Findings and materials from the Cognitive Sciences Laboratory were shared with and used within the operational
+      element of Project STARGATE, located at Fort Meade, Maryland, for most of the time it existed.
+    original_excerpt: findings and materials from the lab were shared and used within the operational element of Project STARGATE,
+      located at Fort Meade, Maryland, at least for most of the time it existed.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+        title: Project STARGATE
+        slug: project-stargate
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+        title: USA, Maryland, Fort Meade
+        slug: maryland-fort-meade-usa
+    date: null
+    date_end: null
+    location_in_record: ch9:8678-8853
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 03ab0d79-abbb-4414-82e9-789754dd07da
+    claim_hash: a420b44325c668f23d78698413f2714e2228bd6719cc793b2b8fa8cd89a2149a
+    content: Research findings at the Cognitive Sciences Laboratory that established changes to specific remote viewing applications
+      were sometimes dismissed as unnecessary or discarded by the Fort Meade project managers of Project STARGATE.
+    original_excerpt: Research that established changes to specific remote viewing applications was sometimes not viewed as
+      constructive or conducive to the operational requirements by the Fort Meade project managers. In such cases, this research
+      was summarily dismissed as unnecessary or simply discarded.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+        title: Project STARGATE
+        slug: project-stargate
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+        title: USA, Maryland, Fort Meade
+        slug: maryland-fort-meade-usa
+    date: null
+    date_end: null
+    location_in_record: ch9:9090-9364
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 25541471-65d5-4963-ac8b-f84e65cb80af
+    claim_hash: 3db4b148dd821a95edc9576414de723b49e7ac18d64f00aea6c4ab0de18dfe35
+    content: Joseph McMoneagle spent a considerable period of his life immersed in the research and development side of remote
+      viewing, primarily with the Cognitive Sciences Laboratory.
+    original_excerpt: I have spent a considerable period of my life totally immersed within the research and development side
+      of remote viewing, primarily with the laboratory that started it all, the Cognitive Sciences Lab (CSL).
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+    date: null
+    date_end: null
+    location_in_record: ch9:916-1118
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: a4a4ba7a-e107-4286-8cbc-ba9e60cdbb6e
+    claim_hash: ecbcf14b0453d5d3491044f00e974191bad5c628ae550ed21b78cf4260cc4499
+    content: Joe McMoneagle is a full-time research associate and partner with the Laboratories for Fundamental Research Cognitive
+      Sciences Laboratory in Palo Alto, California, providing consulting support to research and development in remote viewing.
+    original_excerpt: Joe McMoneagle is currently a full time research associate and partner with the Laboratories for Fundamental
+      Research Cognitive Sciences Laboratory, Palo Alto, California, where he has provided consulting support to research
+      and development in remote viewing
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ef51947-c1a0-4888-99c1-313a2990a9c4
+        title: USA, California, Palo Alto
+        slug: california-palo-alto-usa
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+        title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+        slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+    date: null
+    date_end: null
+    location_in_record: 00:12:08.4-00:12:25.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null

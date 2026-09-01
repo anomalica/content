@@ -9,434 +9,445 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 9
+  tokens_estimated: 2757
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 9
 related_nodes:
-- node_id: 17818b71-890f-43b8-8660-2ba78b6be1b8
-  title: Mars Express
-  node_type: object
-  slug: mars-express
-  shared_claims: 3
-- node_id: f2daae19-9351-4a8e-b466-664f83887f61
-  title: Diana Walsh Pasulka
-  node_type: person
-  slug: diana-walsh-pasulka
-  shared_claims: 2
-- node_id: 59938d37-5056-45ab-a062-40df37f78a05
-  title: Mars, Gusev Crater
-  node_type: place
-  slug: gusev-crater-mars
-  shared_claims: 2
-- node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-  title: Tyler D.
-  node_type: person
-  slug: tyler-d
-  shared_claims: 2
-- node_id: de58d5ed-956d-4fd7-ac5e-3ff37e27fd64
-  title: B-2 Spirit
-  node_type: object
-  slug: b-2-spirit
-  shared_claims: 1
-- node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-  title: Cydonia
-  node_type: place
-  slug: cydonia
-  shared_claims: 1
-- node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-  title: Face on Mars
-  node_type: object
-  slug: face-on-mars
-  shared_claims: 1
-- node_id: 06ac6c4a-92c7-42ad-99da-a8e0a162a2f2
-  title: German Space Agency (DLR)
-  node_type: organisation
-  slug: german-space-agency-dlr
-  shared_claims: 1
-- node_id: 81999e13-93e8-4815-8b1a-7f5b14f67464
-  title: Guy Consolmagno
-  node_type: person
-  slug: guy-consolmagno
-  shared_claims: 1
-- node_id: 11e5d467-eddb-4565-b496-984e85ca249a
-  title: Italy, Castel Gandolfo
-  node_type: place
-  slug: castel-gandolfo-italy
-  shared_claims: 1
-- node_id: a9c32f29-d7aa-4bfd-8535-cded9f7144ef
-  title: Mars Express Gusev Crater colour image, 2004-01-16
-  node_type: document
-  slug: 2004-01-16-mars-express-gusev-crater-colour-image
-  shared_claims: 1
-- node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
-  title: Philip Christensen
-  node_type: person
-  slug: philip-christensen
-  shared_claims: 1
-- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-  title: Richard C. Hoagland
-  node_type: person
-  slug: richard-c-hoagland
-  shared_claims: 1
-- node_id: 39f4e6cf-7ce2-427c-8e86-257278df2c84
-  title: University of North Carolina
-  node_type: organisation
-  slug: university-of-north-carolina
-  shared_claims: 1
-claims:
-- claim_id: 77d4b768-45af-42f6-9c1a-b5608d76a59a
-  claim_hash: 6ddd84539e45383c3502f1251637586d5d2884cf67cce653a4580b22c6956404
-  content: The European Space Agency (ESA) released the first Mars Express colour
-    image of Gusev Crater on Mars.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: European Space Agency (ESA)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
   - node_id: 17818b71-890f-43b8-8660-2ba78b6be1b8
     title: Mars Express
+    node_type: object
     slug: mars-express
+    shared_claims: 3
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    node_type: person
+    slug: diana-walsh-pasulka
+    shared_claims: 2
   - node_id: 59938d37-5056-45ab-a062-40df37f78a05
     title: Mars, Gusev Crater
+    node_type: place
     slug: gusev-crater-mars
-  - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
-    title: European Space Agency
-    slug: european-space-agency
-  date: null
-  date_end: null
-  location_in_record: ch14:52900-53000
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 0c08ea84-1440-43d0-9abf-223e978bb570
-  claim_hash: edb0a70f99b3cc34d258b4d906b237aa93520c7bea768eaa4b184e62975e6b9d
-  content: Richard C. Hoagland considers that Philip Christensen's motivation for
-    imaging the Face on Mars under pre-dawn conditions was political, specifically
-    a desire to obtain results before the European Space Agency's Mars Express mission
-    could do so.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 17818b71-890f-43b8-8660-2ba78b6be1b8
-    title: Mars Express
-    slug: mars-express
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
-    title: European Space Agency
-    slug: european-space-agency
-  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-    slug: richard-c-hoagland
-  - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
-    title: Philip Christensen
-    slug: philip-christensen
-  date: null
-  date_end: null
-  location_in_record: ch18:13314-13479
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 75c8aa1c-9dfa-466b-af19-0031d98cbf37
-  claim_hash: 4cbcdb65b576d5572b882b27daf28d63b45149f912c1f4c7d22f2f89a9d2225c
-  content: Approximately two weeks after Spirit arrived at Gusev Crater on Mars, the
-    European Space Agency's Mars Express spacecraft took its first opportunity to
-    image the crater in high-resolution colour.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 17818b71-890f-43b8-8660-2ba78b6be1b8
-    title: Mars Express
-    slug: mars-express
-  - node_id: 59938d37-5056-45ab-a062-40df37f78a05
-    title: Mars, Gusev Crater
-    slug: gusev-crater-mars
-  - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
-    title: European Space Agency
-    slug: european-space-agency
+    shared_claims: 2
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    node_type: person
+    slug: tyler-d
+    shared_claims: 2
   - node_id: de58d5ed-956d-4fd7-ac5e-3ff37e27fd64
     title: B-2 Spirit
+    node_type: object
     slug: b-2-spirit
-  date: null
-  date_end: null
-  location_in_record: ch18:38328-38488
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: caf741c5-b9b9-4d01-8d8a-599f8cbea73b
-  claim_hash: d7fc90af9a3030582efa536862f6611714f73b642abdef9230bd8c3ef5e2faa3
-  content: The caption on the official European Space Agency (ESA) site carrying the
-    Gusev "green" image was altered to add the line "Note the green coloring is an
-    effect of image processing."
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
-    title: European Space Agency
-    slug: european-space-agency
-  - node_id: a9c32f29-d7aa-4bfd-8535-cded9f7144ef
-    title: Mars Express Gusev Crater colour image, 2004-01-16
-    slug: 2004-01-16-mars-express-gusev-crater-colour-image
-  date: null
-  date_end: null
-  location_in_record: ch18:40740-40918
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 6033c317-ce7a-4347-a447-8e3ac677176b
-  claim_hash: 5912e138a2caf0c03f97fb46ec49cb7312efb55cda579a31443c56321149f182
-  content: The Mars Express image itself remained unchanged on the European Space
-    Agency (ESA) site even though a recalibrated version of the same image had replaced
-    the original on the official German website.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06ac6c4a-92c7-42ad-99da-a8e0a162a2f2
-    title: German Space Agency (DLR)
-    slug: german-space-agency-dlr
-  - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
-    title: European Space Agency
-    slug: european-space-agency
-  date: null
-  date_end: null
-  location_in_record: ch18:40932-41134
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: b3fc492f-944f-4b8d-be7c-fc48841c009b
-  claim_hash: 9d5a0ee5008a8b2b40fc1c206b15be7a4a77a95e7df068d0fdf4769279d926a2
-  content: Richard C. Hoagland concluded that the European Space Agency (ESA) takes
-    a fairly neutral stance on hot political issues, providing honest data even without
-    a press release declaring Cydonia artificial.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
-    title: European Space Agency
-    slug: european-space-agency
+    shared_claims: 1
   - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
     title: Cydonia
+    node_type: place
     slug: cydonia
-  date: null
-  date_end: null
-  location_in_record: ch18:46662-46876
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 3125e85e-2cae-4eb8-a6aa-b037d380e41d
-  claim_hash: fb227ff8c7190b5f497d9576b2272fcb8288ec51e3dd9014225443314d4b1162
-  content: Guy Consolmagno invited Diana Pasulka and Tyler D. to a talk he gave to
-    young scientists from the European Space Agency at the Vatican Observatory in
-    Castel Gandolfo.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
-    title: Italy, Castel Gandolfo
-    slug: castel-gandolfo-italy
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
-    title: European Space Agency
-    slug: european-space-agency
+    shared_claims: 1
+  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+    title: Face on Mars
+    node_type: object
+    slug: face-on-mars
+    shared_claims: 1
+  - node_id: 06ac6c4a-92c7-42ad-99da-a8e0a162a2f2
+    title: German Space Agency (DLR)
+    node_type: organisation
+    slug: german-space-agency-dlr
+    shared_claims: 1
   - node_id: 81999e13-93e8-4815-8b1a-7f5b14f67464
     title: Guy Consolmagno
+    node_type: person
     slug: guy-consolmagno
-  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-    slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch7:27018-27230
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 5be0ff5d-e106-4cfd-be00-5661d434e748
-  claim_hash: 7c7b91c170e547aa5e62ac2d53da0952c489a930279e875a00ae05fb0cc7d468
-  content: Diana Pasulka was introduced to the young European Space Agency scientists
-    at Castel Gandolfo as a professor from the University of North Carolina.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
+  - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+    title: Italy, Castel Gandolfo
+    node_type: place
+    slug: castel-gandolfo-italy
+    shared_claims: 1
+  - node_id: a9c32f29-d7aa-4bfd-8535-cded9f7144ef
+    title: Mars Express Gusev Crater colour image, 2004-01-16
+    node_type: document
+    slug: 2004-01-16-mars-express-gusev-crater-colour-image
+    shared_claims: 1
+  - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+    title: Philip Christensen
+    node_type: person
+    slug: philip-christensen
+    shared_claims: 1
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 1
   - node_id: 39f4e6cf-7ce2-427c-8e86-257278df2c84
     title: University of North Carolina
+    node_type: organisation
     slug: university-of-north-carolina
-  - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
-    title: European Space Agency
-    slug: european-space-agency
-  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-    slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch7:28109-28170
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: abd78368-63f7-4719-a3c9-b984efbc5713
-  claim_hash: d61d55d97b8f9500b6b88dcd033a17fdf75d26eb1955e68698ef2bb08058ec3f
-  content: When Tyler D. was introduced to the young European Space Agency scientists
-    at Castel Gandolfo along with his affiliations, the crowd burst into cheers and
-    applause.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
-    title: European Space Agency
-    slug: european-space-agency
-  date: null
-  date_end: null
-  location_in_record: ch7:28180-28277
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
+    shared_claims: 1
+claims:
+  - claim_id: 77d4b768-45af-42f6-9c1a-b5608d76a59a
+    claim_hash: 6ddd84539e45383c3502f1251637586d5d2884cf67cce653a4580b22c6956404
+    content: The European Space Agency (ESA) released the first Mars Express colour image of Gusev Crater on Mars.
+    original_excerpt: 'Color Fig. 25 - First Mars Express color image of Gusev Crater (ESA): original (right) and altered
+      (left).'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: European Space Agency (ESA)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17818b71-890f-43b8-8660-2ba78b6be1b8
+        title: Mars Express
+        slug: mars-express
+      - node_id: 59938d37-5056-45ab-a062-40df37f78a05
+        title: Mars, Gusev Crater
+        slug: gusev-crater-mars
+      - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
+        title: European Space Agency
+        slug: european-space-agency
+    date: null
+    date_end: null
+    location_in_record: ch14:52900-53000
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 0c08ea84-1440-43d0-9abf-223e978bb570
+    claim_hash: edb0a70f99b3cc34d258b4d906b237aa93520c7bea768eaa4b184e62975e6b9d
+    content: Richard C. Hoagland considers that Philip Christensen's motivation for imaging the Face on Mars under pre-dawn
+      conditions was political, specifically a desire to obtain results before the European Space Agency's Mars Express mission
+      could do so.
+    original_excerpt: we were forced to look to the political arena for a reason he might have wanted to “get there first.”
+      After a little searching, the reason became obvious—ESA’s Mars Express.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17818b71-890f-43b8-8660-2ba78b6be1b8
+        title: Mars Express
+        slug: mars-express
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+      - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
+        title: European Space Agency
+        slug: european-space-agency
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+      - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+        title: Philip Christensen
+        slug: philip-christensen
+    date: null
+    date_end: null
+    location_in_record: ch18:13314-13479
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 75c8aa1c-9dfa-466b-af19-0031d98cbf37
+    claim_hash: 4cbcdb65b576d5572b882b27daf28d63b45149f912c1f4c7d22f2f89a9d2225c
+    content: Approximately two weeks after Spirit arrived at Gusev Crater on Mars, the European Space Agency's Mars Express
+      spacecraft took its first opportunity to image the crater in high-resolution colour.
+    original_excerpt: Just about two weeks after Spirit arrived on Mars in Gusev Crater, ESA’s Mars Express took advantage
+      of their first opportunity to image the crater in high-res color.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17818b71-890f-43b8-8660-2ba78b6be1b8
+        title: Mars Express
+        slug: mars-express
+      - node_id: 59938d37-5056-45ab-a062-40df37f78a05
+        title: Mars, Gusev Crater
+        slug: gusev-crater-mars
+      - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
+        title: European Space Agency
+        slug: european-space-agency
+      - node_id: de58d5ed-956d-4fd7-ac5e-3ff37e27fd64
+        title: B-2 Spirit
+        slug: b-2-spirit
+    date: null
+    date_end: null
+    location_in_record: ch18:38328-38488
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: caf741c5-b9b9-4d01-8d8a-599f8cbea73b
+    claim_hash: d7fc90af9a3030582efa536862f6611714f73b642abdef9230bd8c3ef5e2faa3
+    content: The caption on the official European Space Agency (ESA) site carrying the Gusev "green" image was altered to
+      add the line "Note the green coloring is an effect of image processing."
+    original_excerpt: 'while simultaneously the caption on the official ESA site carrying the Gusev “green” image was also
+      altered—with a key line added: “Note the green coloring is an effect of image processing…”'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
+        title: European Space Agency
+        slug: european-space-agency
+      - node_id: a9c32f29-d7aa-4bfd-8535-cded9f7144ef
+        title: Mars Express Gusev Crater colour image, 2004-01-16
+        slug: 2004-01-16-mars-express-gusev-crater-colour-image
+    date: null
+    date_end: null
+    location_in_record: ch18:40740-40918
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 6033c317-ce7a-4347-a447-8e3ac677176b
+    claim_hash: 5912e138a2caf0c03f97fb46ec49cb7312efb55cda579a31443c56321149f182
+    content: The Mars Express image itself remained unchanged on the European Space Agency (ESA) site even though a recalibrated
+      version of the same image had replaced the original on the official German website.
+    original_excerpt: However, inexplicably, the image on the site remained unchanged. Given that a “recalibrated” version
+      of this same image had just replaced the original on the official German website, this is completely baffling.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06ac6c4a-92c7-42ad-99da-a8e0a162a2f2
+        title: German Space Agency (DLR)
+        slug: german-space-agency-dlr
+      - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
+        title: European Space Agency
+        slug: european-space-agency
+    date: null
+    date_end: null
+    location_in_record: ch18:40932-41134
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b3fc492f-944f-4b8d-be7c-fc48841c009b
+    claim_hash: 9d5a0ee5008a8b2b40fc1c206b15be7a4a77a95e7df068d0fdf4769279d926a2
+    content: Richard C. Hoagland concluded that the European Space Agency (ESA) takes a fairly neutral stance on hot political
+      issues, providing honest data even without a press release declaring Cydonia artificial.
+    original_excerpt: To us, this confirmed that ESA was going to take a fairly neutral stance on hot political issues. It
+      might mean that we would never get a press release calling Cydonia artificial, but we would get honest data, at least.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
+        title: European Space Agency
+        slug: european-space-agency
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+    date: null
+    date_end: null
+    location_in_record: ch18:46662-46876
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 3125e85e-2cae-4eb8-a6aa-b037d380e41d
+    claim_hash: fb227ff8c7190b5f497d9576b2272fcb8288ec51e3dd9014225443314d4b1162
+    content: Guy Consolmagno invited Diana Pasulka and Tyler D. to a talk he gave to young scientists from the European Space
+      Agency at the Vatican Observatory in Castel Gandolfo.
+    original_excerpt: Brother Guy told us that he was heading up to the actual observatory where the telescopes were housed
+      and asked if we wanted to come to a talk he was giving to a group of young scientists from the European Space Agency.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+        title: Italy, Castel Gandolfo
+        slug: castel-gandolfo-italy
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
+        title: European Space Agency
+        slug: european-space-agency
+      - node_id: 81999e13-93e8-4815-8b1a-7f5b14f67464
+        title: Guy Consolmagno
+        slug: guy-consolmagno
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch7:27018-27230
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 5be0ff5d-e106-4cfd-be00-5661d434e748
+    claim_hash: 7c7b91c170e547aa5e62ac2d53da0952c489a930279e875a00ae05fb0cc7d468
+    content: Diana Pasulka was introduced to the young European Space Agency scientists at Castel Gandolfo as a professor
+      from the University of North Carolina.
+    original_excerpt: I was introduced as a professor from the University of North Carolina
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39f4e6cf-7ce2-427c-8e86-257278df2c84
+        title: University of North Carolina
+        slug: university-of-north-carolina
+      - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
+        title: European Space Agency
+        slug: european-space-agency
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch7:28109-28170
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: abd78368-63f7-4719-a3c9-b984efbc5713
+    claim_hash: d61d55d97b8f9500b6b88dcd033a17fdf75d26eb1955e68698ef2bb08058ec3f
+    content: When Tyler D. was introduced to the young European Space Agency scientists at Castel Gandolfo along with his
+      affiliations, the crowd burst into cheers and applause.
+    original_excerpt: when Tyler was introduced, along with his affiliations, the youthful crowd burst into cheers and applause.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
+        title: European Space Agency
+        slug: european-space-agency
+    date: null
+    date_end: null
+    location_in_record: ch7:28180-28277
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic

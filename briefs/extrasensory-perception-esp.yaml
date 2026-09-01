@@ -1,809 +1,911 @@
 schema: anomalica/brief/1
-brief_hash: d5b1930dd4ea61b3c87b7696763396867f51d8a27a596eb14315099f998e7767
+brief_hash: c37189091d8ebb06d01c2dd8642233b4d067eb5eb427e6c199c48921c165e1ef
 page:
   kind: entity
   node_id: 5a444e8f-c623-42c6-8018-293818d9df73
   node_type: topic
   title: extrasensory perception (ESP)
   slug: extrasensory-perception-esp
-  claim_count: 17
-  claim_count_total: 17
+  claim_count: 19
+  claim_count_total: 19
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 19
+  tokens_estimated: 5985
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 19
 related_nodes:
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 3
-- node_id: 997b4d63-99fb-499e-98d9-8656808e3db8
-  title: J. B. Rhine
-  node_type: person
-  slug: j-b-rhine
-  shared_claims: 3
-- node_id: 9dbd0699-bbc9-42ca-bbca-b4128803cc47
-  title: James Leininger
-  node_type: person
-  slug: james-leininger
-  shared_claims: 2
-- node_id: ac0abcfa-ccde-4913-8135-d55a8e61f1bd
-  title: Stephen Braude
-  node_type: person
-  slug: stephen-braude
-  shared_claims: 2
-- node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
-  title: United States Army
-  node_type: organisation
-  slug: united-states-army
-  shared_claims: 2
-- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-  title: Advanced Aerospace Threat Identification Program (AATIP)
-  node_type: project
-  slug: advanced-aerospace-threat-identification-program-aatip
-  shared_claims: 1
-- node_id: b65a228b-8581-437c-a083-670590b31c40
-  title: Alan Gauld
-  node_type: person
-  slug: alan-gauld
-  shared_claims: 1
-- node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
-  title: Defense Intelligence Agency (DIA)
-  node_type: organisation
-  slug: defense-intelligence-agency-dia
-  shared_claims: 1
-- node_id: 0eb5a109-2629-4129-b0ba-424ea7790ee9
-  title: Duke University
-  node_type: organisation
-  slug: duke-university
-  shared_claims: 1
-- node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
-  title: Ed Dames
-  node_type: person
-  slug: ed-dames
-  shared_claims: 1
-- node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
-  title: Erlendur Haraldsson
-  node_type: person
-  slug: erlendur-haraldsson
-  shared_claims: 1
-- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-  title: Harold E. Puthoff
-  node_type: person
-  slug: harold-e-puthoff
-  shared_claims: 1
-- node_id: 42651247-b0a1-4ce4-804a-101c623e504b
-  title: Ian Stevenson
-  node_type: person
-  slug: ian-stevenson
-  shared_claims: 1
-- node_id: 0a55aeb7-60f2-4b90-8acd-f00a3d0e1ae4
-  title: KGB
-  node_type: organisation
-  slug: kgb
-  shared_claims: 1
-- node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-  title: Laura Lynne Jackson
-  node_type: person
-  slug: laura-lynne-jackson
-  shared_claims: 1
-- node_id: 43d5d4a5-7db5-46c4-b0b5-27bd64faa692
-  title: Leonora E. Piper
-  node_type: person
-  slug: leonora-e-piper
-  shared_claims: 1
-- node_id: 953f6232-9902-437f-ad4c-add4fd080043
-  title: Leslie Kean
-  node_type: person
-  slug: leslie-kean
-  shared_claims: 1
-- node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
-  title: Out-of-Body Experience (OBE)
-  node_type: topic
-  slug: out-of-body-experience-obe
-  shared_claims: 1
-- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-  title: Remote Viewing (RV)
-  node_type: topic
-  slug: remote-viewing-rv
-  shared_claims: 1
-- node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
-  title: Runolfur Runolfsson ("Runki")
-  node_type: person
-  slug: runolfur-runolfsson-runki
-  shared_claims: 1
-- node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
-  title: Stanford Research Institute (SRI)
-  node_type: organisation
-  slug: stanford-research-institute-sri
-  shared_claims: 1
-- node_id: a3498c81-b42f-406d-b489-f4a2ea6d4d5f
-  title: Stanford Research Institute psychic spy program
-  node_type: project
-  slug: stanford-research-institute-psychic-spy-program
-  shared_claims: 1
-- node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
-  title: USA, Maryland, Fort Meade
-  node_type: place
-  slug: maryland-fort-meade-usa
-  shared_claims: 1
-- node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
-  title: psi (psychic functioning)
-  node_type: topic
-  slug: psi-psychic-functioning
-  shared_claims: 1
-- node_id: ec85bfdd-0899-4aa9-b790-b91008022037
-  title: super-Extrasensory Perception (ESP) hypothesis
-  node_type: topic
-  slug: super-extrasensory-perception-esp-hypothesis
-  shared_claims: 1
-- node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-  title: survival hypothesis
-  node_type: topic
-  slug: survival-hypothesis
-  shared_claims: 1
-claims:
-- claim_id: 6617cdeb-0a3b-4803-b009-7be916650b2e
-  claim_hash: a18bf58d93d2b3ab5c7ca332ca48ba642f1edc43b5b186fab1b97f37761893c2
-  content: J. B. Rhine, formerly of Duke University, conducted and compounded simple
-    statistical probability card tests for approximately thirty years to investigate
-    Extrasensory Perception (ESP).
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0eb5a109-2629-4129-b0ba-424ea7790ee9
-    title: Duke University
-    slug: duke-university
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
-  - node_id: 997b4d63-99fb-499e-98d9-8656808e3db8
-    title: J. B. Rhine
-    slug: j-b-rhine
-  date: null
-  date_end: null
-  location_in_record: ch10:8157-8322
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-  excerpt_withheld: restricted
-- claim_id: b3335883-e742-4aac-b229-3f8dd8d42f27
-  claim_hash: a1b1c727172c9c30b6e70d3ff974401244430823e2582ad132dcc18fd627c37d
-  content: J. B. Rhine's card tests proved to his own satisfaction that Extrasensory
-    Perception (ESP) is a fact.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: J. B. Rhine
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
-  - node_id: 997b4d63-99fb-499e-98d9-8656808e3db8
-    title: J. B. Rhine
-    slug: j-b-rhine
-  date: null
-  date_end: null
-  location_in_record: ch10:8329-8386
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-  excerpt_withheld: restricted
-- claim_id: 77306ba8-59d2-4283-af35-3737ce89ecd6
-  claim_hash: 7d534798937e4489b26e627817f9a1ee9b0832b435d525ec98e91d73f74d31e6
-  content: J. B. Rhine's Extrasensory Perception (ESP) results were regarded dubiously
-    and largely unacceptably by the majority of psychologists and psychiatrists in
-    the United States.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
-  - node_id: 997b4d63-99fb-499e-98d9-8656808e3db8
-    title: J. B. Rhine
-    slug: j-b-rhine
-  date: null
-  date_end: null
-  location_in_record: ch10:8392-8530
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-  excerpt_withheld: restricted
-- claim_id: a0291600-ed14-48be-bdaf-7d47a0606bf6
-  claim_hash: 6936935ac49710e2806e7cad83336209d42b5f2336f00cc0502a687227a203f8
-  content: Leslie Kean considers that the evidence points toward James Leininger actually
-    remembering and reliving a previous existence rather than acquiring information
-    through Extrasensory Perception (ESP).
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 953f6232-9902-437f-ad4c-add4fd080043
-    title: Leslie Kean
-  provenance_chain:
-    origin_kind: speaker
-    origin: Leslie Kean
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
-  - node_id: 953f6232-9902-437f-ad4c-add4fd080043
-    title: Leslie Kean
-    slug: leslie-kean
-  - node_id: 9dbd0699-bbc9-42ca-bbca-b4128803cc47
-    title: James Leininger
-    slug: james-leininger
-  date: null
-  date_end: null
-  location_in_record: ch10:10241-10351
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 382c353f-c2cc-4f2e-a20d-f25155a8a726
-  claim_hash: 6b14b022fe98f99879c5b99557f6ec31f0c72cfdef731c0a04382e2ac7b0701b
-  content: Stephen Braude considers that explaining the James Leininger case in terms
-    of psi alone would require positing either implausibly successful Extrasensory
-    Perception (ESP) links between James Leininger and multiple sources, or even more
-    incredible psi on the part of his parents involving both information gathering
-    and telepathic influence over James.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ac0abcfa-ccde-4913-8135-d55a8e61f1bd
-    title: Stephen Braude
-  provenance_chain:
-    origin_kind: speaker
-    origin: Stephen Braude
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
-  - node_id: 9dbd0699-bbc9-42ca-bbca-b4128803cc47
-    title: James Leininger
-    slug: james-leininger
-  - node_id: ac0abcfa-ccde-4913-8135-d55a8e61f1bd
-    title: Stephen Braude
-    slug: stephen-braude
-  date: null
-  date_end: null
-  location_in_record: ch10:9388-9687
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 62044337-b8c2-4b8d-9298-613e750b2dd1
-  claim_hash: fb43609e9b47eb7d9158878c9bb6b45e432ee415f1f2dced4e68ba23c429e7e2
-  content: Stephen Braude considers it reasonable to interpret out-of-body experiences
-    as imagery-rich manifestations of Extrasensory Perception (ESP).
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ac0abcfa-ccde-4913-8135-d55a8e61f1bd
-    title: Stephen Braude
-  provenance_chain:
-    origin_kind: speaker
-    origin: Stephen Braude
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
-  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
-    title: Out-of-Body Experience (OBE)
-    slug: out-of-body-experience-obe
-  - node_id: ac0abcfa-ccde-4913-8135-d55a8e61f1bd
-    title: Stephen Braude
-    slug: stephen-braude
-  date: null
-  date_end: null
-  location_in_record: ch16:2709-2805
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: a0dc4783-6902-48bb-9ecd-777800bd76c5
-  claim_hash: 359548a7a820db529651c7a7369bda8c79269e605b581be70a4ccc88afb1bd63
-  content: Laura Lynne Jackson grew up with natural psychic abilities involving an
-    exceptional perception of people's energies and an Extrasensory Perception (ESP)
-    she seemed to have been born with.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Leslie Kean
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
-  - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
-    title: Laura Lynne Jackson
-    slug: laura-lynne-jackson
-  date: null
-  date_end: null
-  location_in_record: ch26:6155-6320
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: ffcbe355-e681-4a5e-bc10-cc1acf199930
-  claim_hash: 6d4282594af2f23b882835be6dcf6ae3c8bf1125fe1581b95ab0686a663a639c
-  content: When pushed to its limits, a preferred counter-hypothesis to the survival
-    hypothesis is that mediums' information can be explained by extrasensory perception
-    (ESP) by living persons, sometimes called the super-ESP hypothesis.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: b65a228b-8581-437c-a083-670590b31c40
-    title: Alan Gauld
-  provenance_chain:
-    origin_kind: speaker
-    origin: Alan Gauld
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-    title: survival hypothesis
-    slug: survival-hypothesis
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
-  - node_id: ec85bfdd-0899-4aa9-b790-b91008022037
-    title: super-Extrasensory Perception (ESP) hypothesis
-    slug: super-extrasensory-perception-esp-hypothesis
-  date: null
-  date_end: null
-  location_in_record: ch28:11815-12170
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 048e735f-57de-41bf-9694-f75ad71965e1
-  claim_hash: 50df142af172ee546cb0815550f10924a207fd484fb889b4d2be6bb5d887e14d
-  content: Alan Gauld knows of no instance of undeniable telepathy between living
-    persons, or any other variety of ESP, in which the flow of paranormally acquired
-    information has been as quick, copious, and free from error as in the Piper sittings.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: b65a228b-8581-437c-a083-670590b31c40
-    title: Alan Gauld
-  provenance_chain:
-    origin_kind: speaker
-    origin: Alan Gauld
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 43d5d4a5-7db5-46c4-b0b5-27bd64faa692
-    title: Leonora E. Piper
-    slug: leonora-e-piper
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
-  - node_id: b65a228b-8581-437c-a083-670590b31c40
-    title: Alan Gauld
-    slug: alan-gauld
-  date: null
-  date_end: null
-  location_in_record: ch28:16886-17107
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: fb27781b-cb01-4caa-8726-cf2b1cdea175
-  claim_hash: 8abed5f5feb6093b3eb14631c2bd1c11572001151d7a71224e6f6ec2ae88b064
-  content: Erlendur Haraldsson and Ian Stevenson considered it not feasible to attribute
-    all the information in the Runolfur Runolfsson case to any single person or any
-    single written source, whether the medium acquired the information normally or
-    by extrasensory perception.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Erlendur Haraldsson and Ian Stevenson
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
-    title: Ian Stevenson
-    slug: ian-stevenson
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
-  - node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
-    title: Runolfur Runolfsson ("Runki")
-    slug: runolfur-runolfsson-runki
-  - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
-    title: Erlendur Haraldsson
-    slug: erlendur-haraldsson
-  date: null
-  date_end: null
-  location_in_record: ch28:46401-46623
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 3b85b230-b710-477f-b548-78d4b6bd571e
-  claim_hash: 2baa6b88709c5fcab98fd7ebcb168ed6196b2d8b078f9247813cc262adb623b3
-  content: Human beings have extraordinary mental abilities, called psi or psychic
-    functioning, interchangeable with Extrasensory Perception (ESP), that science
-    cannot explain but that have been documented by legitimate scientists for many
-    years.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Leslie Kean
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
-  - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
-    title: psi (psychic functioning)
-    slug: psi-psychic-functioning
-  date: null
-  date_end: null
-  location_in_record: ch7:13323-13654
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 03c7c248-b229-466d-a262-c931f0164bf4
-  claim_hash: ca7874f39b5049375b76f40ac01fb6bad3b8b9caa698fc86a68bf8a3116f3fb5
-  content: Harold E. Puthoff is an engineer who has conducted research on extrasensory
-    perception (ESP) for the Central Intelligence Agency (CIA) and later worked as
-    a contractor for the Advanced Aerospace Threat Identification Program (AATIP).
-  original_excerpt: said Harold E. Puthoff, an engineer who has conducted research
-    on extrasensory perception for the C.I.A. and later worked as a contractor for
-    the program.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
+    node_type: organisation
     slug: central-intelligence-agency-cia
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
-  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-    title: Advanced Aerospace Threat Identification Program (AATIP)
-    slug: advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 4
+  - node_id: 997b4d63-99fb-499e-98d9-8656808e3db8
+    title: J. B. Rhine
+    node_type: person
+    slug: j-b-rhine
+    shared_claims: 3
   - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
     title: Harold E. Puthoff
+    node_type: person
     slug: harold-e-puthoff
-  date: null
-  date_end: null
-  location_in_record: char:9966-10112
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
-      Program (Published 2017)'
-    record_date: '2017-12-16'
-    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
-    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
-    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
-- claim_id: bea31e22-ed15-4ef4-8434-4bdcee09b8df
-  claim_hash: acddbcfb9491df8fb2787e0d0cc4432414cbacac343164e3a67f46c8e84d9eba
-  content: The Central Intelligence Agency (CIA), United States Army, and Defense
-    Intelligence Agency (DIA) recruited people who claimed to have extrasensory perception
-    (ESP) to help uncover intelligence secrets.
-  original_excerpt: The CIA Army and Defense Intelligence Agency recruited people
-    who claimed to have extrasensory perception, otherwise known as ESP, to help them
-    uncover intelligence secrets.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 2
+  - node_id: 9dbd0699-bbc9-42ca-bbca-b4128803cc47
+    title: James Leininger
+    node_type: person
+    slug: james-leininger
+    shared_claims: 2
+  - node_id: ac0abcfa-ccde-4913-8135-d55a8e61f1bd
+    title: Stephen Braude
+    node_type: person
+    slug: stephen-braude
+    shared_claims: 2
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    node_type: organisation
+    slug: united-states-army
+    shared_claims: 2
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: project
+    slug: advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 1
+  - node_id: b65a228b-8581-437c-a083-670590b31c40
+    title: Alan Gauld
+    node_type: person
+    slug: alan-gauld
+    shared_claims: 1
   - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
     title: Defense Intelligence Agency (DIA)
+    node_type: organisation
     slug: defense-intelligence-agency-dia
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
-  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
-    title: United States Army
-    slug: united-states-army
-  date: null
-  date_end: null
-  location_in_record: 00:03:02.7-00:03:12.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
-- claim_id: 879e75d8-2488-415d-9eee-2298cb76995e
-  claim_hash: 5ca8dfedf79455abfd87816f2fe52562ed36b0e722dde565db1b25be250fd78a
-  content: The Soviet Union, including the KGB, was spending millions of dollars every
-    year on extrasensory perception phenomena.
-  original_excerpt: the Soviets, including the KGB, were spending millions of dollars
-    every year on this kind of phenomena
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0a55aeb7-60f2-4b90-8acd-f00a3d0e1ae4
-    title: KGB
-    slug: kgb
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
-  date: null
-  date_end: null
-  location_in_record: 00:03:15.4-00:03:22.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
-- claim_id: 9bd53a7a-30db-4e4c-b61d-91d4d1f3007a
-  claim_hash: 15d49e928fb7a4078dea883852b623f726a1ae531c602d3041bb7acd8ebbec0b
-  content: The Central Intelligence Agency (CIA)'s work on extrasensory perception
-    (ESP) concluded in the late 1970s, and the programme moved to the United States
-    Army's base at Fort Meade, Maryland.
-  original_excerpt: The CIA's work on ESP concluded in the late 1970s, and the program
-    moved to the US Army's Fort Meade in Maryland.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
-  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
-    title: United States Army
-    slug: united-states-army
-  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
-    title: USA, Maryland, Fort Meade
-    slug: maryland-fort-meade-usa
-  date: null
-  date_end: null
-  location_in_record: 00:06:58.2-00:07:05.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
-- claim_id: 34cdc1e7-aee1-401d-9572-1e4b5fe9fba3
-  claim_hash: e73e82888552b3e2c12e7fde2dfd763e2321304bee250c0e480ae5b5028d8dfb
-  content: Ed Dames and the other members of the five-person prototype team became
-    better remote viewers than some of the better natural psychics in the world.
-  original_excerpt: We became better than some of the better natural psychics in the
-    world.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
-    title: Ed Dames
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ed Dames
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
+  - node_id: 0eb5a109-2629-4129-b0ba-424ea7790ee9
+    title: Duke University
+    node_type: organisation
+    slug: duke-university
+    shared_claims: 1
   - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
     title: Ed Dames
+    node_type: person
     slug: ed-dames
+    shared_claims: 1
+  - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+    title: Erlendur Haraldsson
+    node_type: person
+    slug: erlendur-haraldsson
+    shared_claims: 1
+  - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+    title: Ian Stevenson
+    node_type: person
+    slug: ian-stevenson
+    shared_claims: 1
+  - node_id: 0a55aeb7-60f2-4b90-8acd-f00a3d0e1ae4
+    title: KGB
+    node_type: organisation
+    slug: kgb
+    shared_claims: 1
+  - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+    title: Laura Lynne Jackson
+    node_type: person
+    slug: laura-lynne-jackson
+    shared_claims: 1
+  - node_id: 43d5d4a5-7db5-46c4-b0b5-27bd64faa692
+    title: Leonora E. Piper
+    node_type: person
+    slug: leonora-e-piper
+    shared_claims: 1
+  - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+    node_type: person
+    slug: leslie-kean
+    shared_claims: 1
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    node_type: topic
+    slug: out-of-body-experience-obe
+    shared_claims: 1
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
     title: Remote Viewing (RV)
+    node_type: topic
     slug: remote-viewing-rv
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
-  date: null
-  date_end: null
-  location_in_record: 00:30:25.2-00:30:28.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
-      (Documentary 1 of 3)'
-    record_date: '2023-08-02'
-    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-    friendly_name: null
-- claim_id: 46bc8dce-753a-412a-b040-220f88e7369e
-  claim_hash: 0a4114be7da0d41c00f7690eac3ad5982802914918bbecd56494322194060785
-  content: The psychic spy programme at Stanford Research Institute was created during
-    the Project MKUltra period because Russia was experimenting with extrasensory
-    perception.
-  original_excerpt: During that period, the psychic spy program at Stanford Research
-    Institute was created because once again, Russia was experimenting in this extrasensory
-    perception and kind of the more woo type stuff.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
+  - node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
+    title: Runolfur Runolfsson ("Runki")
+    node_type: person
+    slug: runolfur-runolfsson-runki
+    shared_claims: 1
   - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
     title: Stanford Research Institute (SRI)
+    node_type: organisation
     slug: stanford-research-institute-sri
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    slug: extrasensory-perception-esp
+    shared_claims: 1
   - node_id: a3498c81-b42f-406d-b489-f4a2ea6d4d5f
     title: Stanford Research Institute psychic spy program
+    node_type: project
     slug: stanford-research-institute-psychic-spy-program
-  date: null
-  date_end: null
-  location_in_record: 00:11:35.1-00:11:48.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
-    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-    record_date: '2026-08-13'
-    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
-    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
-    friendly_name: null
+    shared_claims: 1
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    node_type: organisation
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+    shared_claims: 1
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    node_type: place
+    slug: maryland-fort-meade-usa
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
+    title: psi (psychic functioning)
+    node_type: topic
+    slug: psi-psychic-functioning
+    shared_claims: 1
+  - node_id: ec85bfdd-0899-4aa9-b790-b91008022037
+    title: super-Extrasensory Perception (ESP) hypothesis
+    node_type: topic
+    slug: super-extrasensory-perception-esp-hypothesis
+    shared_claims: 1
+  - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+    title: survival hypothesis
+    node_type: topic
+    slug: survival-hypothesis
+    shared_claims: 1
+  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+    title: telepathy
+    node_type: topic
+    slug: telepathy
+    shared_claims: 1
+claims:
+  - claim_id: 6617cdeb-0a3b-4803-b009-7be916650b2e
+    claim_hash: a18bf58d93d2b3ab5c7ca332ca48ba642f1edc43b5b186fab1b97f37761893c2
+    content: J. B. Rhine, formerly of Duke University, conducted and compounded simple statistical probability card tests
+      for approximately thirty years to investigate Extrasensory Perception (ESP).
+    original_excerpt: The most well-known of these is Dr. J. B. Rhine, formerly of Duke University, who conducted and compounded
+      simple statistical probability card tests for some thirty years.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb5a109-2629-4129-b0ba-424ea7790ee9
+        title: Duke University
+        slug: duke-university
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: 997b4d63-99fb-499e-98d9-8656808e3db8
+        title: J. B. Rhine
+        slug: j-b-rhine
+    date: null
+    date_end: null
+    location_in_record: ch10:8157-8322
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: b3335883-e742-4aac-b229-3f8dd8d42f27
+    claim_hash: a1b1c727172c9c30b6e70d3ff974401244430823e2582ad132dcc18fd627c37d
+    content: J. B. Rhine's card tests proved to his own satisfaction that Extrasensory Perception (ESP) is a fact.
+    original_excerpt: To his satisfaction, he proved statistically that ESP is fact.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: J. B. Rhine
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: 997b4d63-99fb-499e-98d9-8656808e3db8
+        title: J. B. Rhine
+        slug: j-b-rhine
+    date: null
+    date_end: null
+    location_in_record: ch10:8329-8386
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 77306ba8-59d2-4283-af35-3737ce89ecd6
+    claim_hash: 7d534798937e4489b26e627817f9a1ee9b0832b435d525ec98e91d73f74d31e6
+    content: J. B. Rhine's Extrasensory Perception (ESP) results were regarded dubiously and largely unacceptably by the majority
+      of psychologists and psychiatrists in the United States.
+    original_excerpt: His results are looked upon dubiously and for the most part unacceptably by the majority of psychologists
+      and psychiatrists in the United States.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: 997b4d63-99fb-499e-98d9-8656808e3db8
+        title: J. B. Rhine
+        slug: j-b-rhine
+    date: null
+    date_end: null
+    location_in_record: ch10:8392-8530
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: a0291600-ed14-48be-bdaf-7d47a0606bf6
+    claim_hash: 6936935ac49710e2806e7cad83336209d42b5f2336f00cc0502a687227a203f8
+    content: Leslie Kean considers that the evidence points toward James Leininger actually remembering and reliving a previous
+      existence rather than acquiring information through Extrasensory Perception (ESP).
+    original_excerpt: As implausible as it may sound, the evidence points toward James actually remembering and reliving a
+      previous existence.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 953f6232-9902-437f-ad4c-add4fd080043
+      title: Leslie Kean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+        title: Leslie Kean
+        slug: leslie-kean
+      - node_id: 9dbd0699-bbc9-42ca-bbca-b4128803cc47
+        title: James Leininger
+        slug: james-leininger
+    date: null
+    date_end: null
+    location_in_record: ch10:10241-10351
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 382c353f-c2cc-4f2e-a20d-f25155a8a726
+    claim_hash: 6b14b022fe98f99879c5b99557f6ec31f0c72cfdef731c0a04382e2ac7b0701b
+    content: Stephen Braude considers that explaining the James Leininger case in terms of psi alone would require positing
+      either implausibly successful Extrasensory Perception (ESP) links between James Leininger and multiple sources, or even
+      more incredible psi on the part of his parents involving both information gathering and telepathic influence over James.
+    original_excerpt: To explain such a case in terms of psi only, “we may need to posit either implausibly successful ESP
+      links between the subject and multiple sources, or even more incredible psi on the part of the parents, involving both
+      information gathering and telepathic influence over the subject,” says Stephen Braude
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ac0abcfa-ccde-4913-8135-d55a8e61f1bd
+      title: Stephen Braude
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stephen Braude
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: 9dbd0699-bbc9-42ca-bbca-b4128803cc47
+        title: James Leininger
+        slug: james-leininger
+      - node_id: ac0abcfa-ccde-4913-8135-d55a8e61f1bd
+        title: Stephen Braude
+        slug: stephen-braude
+    date: null
+    date_end: null
+    location_in_record: ch10:9388-9687
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 62044337-b8c2-4b8d-9298-613e750b2dd1
+    claim_hash: fb43609e9b47eb7d9158878c9bb6b45e432ee415f1f2dced4e68ba23c429e7e2
+    content: Stephen Braude considers it reasonable to interpret out-of-body experiences as imagery-rich manifestations of
+      Extrasensory Perception (ESP).
+    original_excerpt: '"It''s reasonable to interpret OBEs as imagery-rich manifestations of ESP," Stephen Braude points out.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ac0abcfa-ccde-4913-8135-d55a8e61f1bd
+      title: Stephen Braude
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stephen Braude
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+      - node_id: ac0abcfa-ccde-4913-8135-d55a8e61f1bd
+        title: Stephen Braude
+        slug: stephen-braude
+    date: null
+    date_end: null
+    location_in_record: ch16:2709-2805
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a0dc4783-6902-48bb-9ecd-777800bd76c5
+    claim_hash: 359548a7a820db529651c7a7369bda8c79269e605b581be70a4ccc88afb1bd63
+    content: Laura Lynne Jackson grew up with natural psychic abilities involving an exceptional perception of people's energies
+      and an Extrasensory Perception (ESP) she seemed to have been born with.
+    original_excerpt: Like Sandra, Laura grew up with natural abilities, which mainly involved an exceptional perception of
+      people’s energies and an ESP that she seemed to have been born with.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
+        title: Laura Lynne Jackson
+        slug: laura-lynne-jackson
+    date: null
+    date_end: null
+    location_in_record: ch26:6155-6320
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: ffcbe355-e681-4a5e-bc10-cc1acf199930
+    claim_hash: 6d4282594af2f23b882835be6dcf6ae3c8bf1125fe1581b95ab0686a663a639c
+    content: When pushed to its limits, a preferred counter-hypothesis to the survival hypothesis is that mediums' information
+      can be explained by extrasensory perception (ESP) by living persons, sometimes called the super-ESP hypothesis.
+    original_excerpt: When pushed to its limits, the preferred counterhypothesis to the survivalistic one is that mediums’
+      information can be more simply and satisfactorily explained in terms of ESP by living persons. Since we do not know
+      the limits of ESP we can never say for certain that ESP of the extraordinary extent that would often be necessary—“super-ESP”—is
+      actually impossible.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b65a228b-8581-437c-a083-670590b31c40
+      title: Alan Gauld
+    provenance_chain:
+      origin_kind: speaker
+      origin: Alan Gauld
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+        title: survival hypothesis
+        slug: survival-hypothesis
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: ec85bfdd-0899-4aa9-b790-b91008022037
+        title: super-Extrasensory Perception (ESP) hypothesis
+        slug: super-extrasensory-perception-esp-hypothesis
+    date: null
+    date_end: null
+    location_in_record: ch28:11815-12170
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 048e735f-57de-41bf-9694-f75ad71965e1
+    claim_hash: 50df142af172ee546cb0815550f10924a207fd484fb889b4d2be6bb5d887e14d
+    content: Alan Gauld knows of no instance of undeniable telepathy between living persons, or any other variety of ESP,
+      in which the flow of paranormally acquired information has been as quick, copious, and free from error as in the Piper
+      sittings.
+    original_excerpt: I know of no instance of undeniable telepathy between living persons, or for that matter of any other
+      variety of ESP, in which the flow of paranormally acquired information has been so quick, so copious, and so free from
+      error.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b65a228b-8581-437c-a083-670590b31c40
+      title: Alan Gauld
+    provenance_chain:
+      origin_kind: speaker
+      origin: Alan Gauld
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43d5d4a5-7db5-46c4-b0b5-27bd64faa692
+        title: Leonora E. Piper
+        slug: leonora-e-piper
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: b65a228b-8581-437c-a083-670590b31c40
+        title: Alan Gauld
+        slug: alan-gauld
+    date: null
+    date_end: null
+    location_in_record: ch28:16886-17107
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: fb27781b-cb01-4caa-8726-cf2b1cdea175
+    claim_hash: 8abed5f5feb6093b3eb14631c2bd1c11572001151d7a71224e6f6ec2ae88b064
+    content: Erlendur Haraldsson and Ian Stevenson considered it not feasible to attribute all the information in the Runolfur
+      Runolfsson case to any single person or any single written source, whether the medium acquired the information normally
+      or by extrasensory perception.
+    original_excerpt: …it does not seem feasible to attribute all of this information to any single person or any single written
+      source. And this would be true, we believe, whether the medium acquired the information normally or by extrasensory
+      perception.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Erlendur Haraldsson and Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
+        title: Runolfur Runolfsson ("Runki")
+        slug: runolfur-runolfsson-runki
+      - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+        title: Erlendur Haraldsson
+        slug: erlendur-haraldsson
+    date: null
+    date_end: null
+    location_in_record: ch28:46401-46623
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 3b85b230-b710-477f-b548-78d4b6bd571e
+    claim_hash: 2baa6b88709c5fcab98fd7ebcb168ed6196b2d8b078f9247813cc262adb623b3
+    content: Human beings have extraordinary mental abilities, called psi or psychic functioning, interchangeable with Extrasensory
+      Perception (ESP), that science cannot explain but that have been documented by legitimate scientists for many years.
+    original_excerpt: human beings have extraordinary mental abilities that science cannot explain. They may be controversial,
+      but they have been documented by legitimate scientists for many years; I have also personally witnessed them in operation.
+      We call these abilities “psi,” or psychic functioning, interchangeable with “extrasensory perception” (ESP).
+    claim_type: opinion
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
+        title: psi (psychic functioning)
+        slug: psi-psychic-functioning
+    date: null
+    date_end: null
+    location_in_record: ch7:13323-13654
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 03c7c248-b229-466d-a262-c931f0164bf4
+    claim_hash: ca7874f39b5049375b76f40ac01fb6bad3b8b9caa698fc86a68bf8a3116f3fb5
+    content: Harold E. Puthoff is an engineer who has conducted research on extrasensory perception (ESP) for the Central
+      Intelligence Agency (CIA) and later worked as a contractor for the Advanced Aerospace Threat Identification Program
+      (AATIP).
+    original_excerpt: said Harold E. Puthoff, an engineer who has conducted research on extrasensory perception for the C.I.A.
+      and later worked as a contractor for the program.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+    date: null
+    date_end: null
+    location_in_record: char:9966-10112
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: bea31e22-ed15-4ef4-8434-4bdcee09b8df
+    claim_hash: acddbcfb9491df8fb2787e0d0cc4432414cbacac343164e3a67f46c8e84d9eba
+    content: The Central Intelligence Agency (CIA), United States Army, and Defense Intelligence Agency (DIA) recruited people
+      who claimed to have extrasensory perception (ESP) to help uncover intelligence secrets.
+    original_excerpt: The CIA Army and Defense Intelligence Agency recruited people who claimed to have extrasensory perception,
+      otherwise known as ESP, to help them uncover intelligence secrets.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+    date: null
+    date_end: null
+    location_in_record: 00:03:02.7-00:03:12.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 879e75d8-2488-415d-9eee-2298cb76995e
+    claim_hash: 5ca8dfedf79455abfd87816f2fe52562ed36b0e722dde565db1b25be250fd78a
+    content: The Soviet Union, including the KGB, was spending millions of dollars every year on extrasensory perception phenomena.
+    original_excerpt: the Soviets, including the KGB, were spending millions of dollars every year on this kind of phenomena
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0a55aeb7-60f2-4b90-8acd-f00a3d0e1ae4
+        title: KGB
+        slug: kgb
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+    date: null
+    date_end: null
+    location_in_record: 00:03:15.4-00:03:22.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 9bd53a7a-30db-4e4c-b61d-91d4d1f3007a
+    claim_hash: 15d49e928fb7a4078dea883852b623f726a1ae531c602d3041bb7acd8ebbec0b
+    content: The Central Intelligence Agency (CIA)'s work on extrasensory perception (ESP) concluded in the late 1970s, and
+      the programme moved to the United States Army's base at Fort Meade, Maryland.
+    original_excerpt: The CIA's work on ESP concluded in the late 1970s, and the program moved to the US Army's Fort Meade
+      in Maryland.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+      - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+        title: USA, Maryland, Fort Meade
+        slug: maryland-fort-meade-usa
+    date: null
+    date_end: null
+    location_in_record: 00:06:58.2-00:07:05.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 34cdc1e7-aee1-401d-9572-1e4b5fe9fba3
+    claim_hash: e73e82888552b3e2c12e7fde2dfd763e2321304bee250c0e480ae5b5028d8dfb
+    content: Ed Dames and the other members of the five-person prototype team became better remote viewers than some of the
+      better natural psychics in the world.
+    original_excerpt: We became better than some of the better natural psychics in the world.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+      title: Ed Dames
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ed Dames
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+        title: Ed Dames
+        slug: ed-dames
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+    date: null
+    date_end: null
+    location_in_record: 00:30:25.2-00:30:28.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 2337e7a9-71c9-4993-8ffc-9748eb5f135e
+    claim_hash: e55a9666273727337875ab03094d9409fabd916262f6bb3be640fa379cb019a7
+    content: Hal Puthoff created the Central Intelligence Agency's (CIA) psychic spy programme.
+    original_excerpt: Dr. Pudoff is the creator of the CIA's own revolutionary psychic spy program still used to this day
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+    date: null
+    date_end: null
+    location_in_record: 00:08:31.9-00:08:37.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: 1cb82712-e941-49ea-987f-9e33ae7b6b46
+    claim_hash: 3c591eafb9d4bf1b0caef020d76db6913d8040dcc7fd622ffb897fd1c479952e
+    content: To The Stars Academy of Arts and Science intends to explore topics including unidentified aerial phenomena (UAP),
+      extrasensory perception (ESP), and telepathy.
+    original_excerpt: I think it's an opportunity for us to take certain topics, whether that's unidentified aerial phenomena
+      or ESP or telepathy, and really get to the bottom of it.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+        title: telepathy
+        slug: telepathy
+    date: null
+    date_end: null
+    location_in_record: 00:33:08.8-00:33:17.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: 46bc8dce-753a-412a-b040-220f88e7369e
+    claim_hash: 0a4114be7da0d41c00f7690eac3ad5982802914918bbecd56494322194060785
+    content: The psychic spy programme at Stanford Research Institute was created during the Project MKUltra period because
+      Russia was experimenting with extrasensory perception.
+    original_excerpt: During that period, the psychic spy program at Stanford Research Institute was created because once
+      again, Russia was experimenting in this extrasensory perception and kind of the more woo type stuff.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+        title: Stanford Research Institute (SRI)
+        slug: stanford-research-institute-sri
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: a3498c81-b42f-406d-b489-f4a2ea6d4d5f
+        title: Stanford Research Institute psychic spy program
+        slug: stanford-research-institute-psychic-spy-program
+    date: null
+    date_end: null
+    location_in_record: 00:11:35.1-00:11:48.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null

@@ -9,394 +9,411 @@ page:
   claim_count: 8
   claim_count_total: 8
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 8
+  tokens_estimated: 2785
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 8
 related_nodes:
-- node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-  title: Roswell incident (1947)
-  node_type: event
-  slug: roswell-incident-1947
-  shared_claims: 4
-- node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
-  title: July 8, 1947 Roswell Army Air Field press release
-  node_type: document
-  slug: 1947-roswell-army-air-field-press-release-july-8
-  shared_claims: 3
-- node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
-  title: 509th Bomb Group
-  node_type: organisation
-  slug: 509th-bomb-group
-  shared_claims: 2
-- node_id: f888411e-b882-4f89-8275-350d19f6c52d
-  title: Jesse Marcel
-  node_type: person
-  slug: jesse-marcel
-  shared_claims: 2
-- node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-  title: William Blanchard
-  node_type: person
-  slug: william-blanchard
-  shared_claims: 2
-- node_id: 3c140cbe-42ad-4ff7-8132-11b3073e99db
-  title: 1995 General Accounting Office review of the Roswell incident
-  node_type: event
-  slug: 1995-general-accounting-office-review-of-the-roswell-incident
-  shared_claims: 1
-- node_id: 6be1822d-05e4-4939-bdd6-64e1efb0c3f4
-  title: 9th Bomb Group, Eighth Air Force
-  node_type: organisation
-  slug: eighth-air-force-9th-bomb-group
-  shared_claims: 1
-- node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
-  title: Barry Goldwater
-  node_type: person
-  slug: barry-goldwater
-  shared_claims: 1
-- node_id: 292e8075-24ef-4b9e-becb-6a28c2930643
-  title: Chaves County Sheriff's Office
-  node_type: organisation
-  slug: chaves-county-sheriffs-office
-  shared_claims: 1
-- node_id: ec22df36-01d7-47c0-9a91-150b93b82532
-  title: French Air Force
-  node_type: organisation
-  slug: french-air-force
-  shared_claims: 1
-- node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
-  title: Mac Brazel
-  node_type: person
-  slug: mac-brazel
-  shared_claims: 1
-- node_id: 685dcd0b-a551-4f95-81a7-df5a2632d2d1
-  title: United States Congress General Accounting Office
-  node_type: organisation
-  slug: united-states-congress-general-accounting-office
-  shared_claims: 1
-- node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-  title: Walter Haut
-  node_type: person
-  slug: walter-haut
-  shared_claims: 1
-claims:
-- claim_id: df76553f-a07c-4161-a321-e7f9c21590bb
-  claim_hash: f3b7574ead315e57d3f8144e38afe4d6efef724a69a4aebc1148c693def156b0
-  content: The Roswell Army Air Field press release of July 8, 1947 was issued by
-    public relations officer Lieutenant Walter Haut, on order from the base commander.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    node_type: event
+    slug: roswell-incident-1947
+    shared_claims: 4
   - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
     title: July 8, 1947 Roswell Army Air Field press release
+    node_type: document
     slug: 1947-roswell-army-air-field-press-release-july-8
-  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-    slug: walter-haut
-  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-    title: William Blanchard
-    slug: william-blanchard
-  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
-    title: Roswell Army Air Field
-    slug: roswell-army-air-field
-  date: '1947-07-08'
-  date_end: null
-  location_in_record: ch14:14274-14372
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 2d2b9f24-cfda-426a-afb9-1db53be34562
-  claim_hash: a6e630e8756c23724d43bb5946245942528f7380dca5d94f15ef98ed51a2e84f
-  content: The July 8, 1947 Roswell Army Air Field press release stated that the intelligence
-    office of the 9th Bomb Group of the Eighth Air Force, Roswell Army Air Field,
-    gained possession of a disc through the cooperation of a local rancher and the
-    Chaves County Sheriff's Office.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: July 8, 1947 Roswell Army Air Field press release
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
-    title: July 8, 1947 Roswell Army Air Field press release
-    slug: 1947-roswell-army-air-field-press-release-july-8
-  - node_id: 292e8075-24ef-4b9e-becb-6a28c2930643
-    title: Chaves County Sheriff's Office
-    slug: chaves-county-sheriffs-office
-  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
-    title: Roswell Army Air Field
-    slug: roswell-army-air-field
-  - node_id: 6be1822d-05e4-4939-bdd6-64e1efb0c3f4
-    title: 9th Bomb Group, Eighth Air Force
-    slug: eighth-air-force-9th-bomb-group
-  date: '1947-07-08'
-  date_end: null
-  location_in_record: ch14:14384-14691
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 5fe5b734-6213-4b98-87a5-ae065f85e7d2
-  claim_hash: 1507f9ed80fdfdb07015790fa9b65f78ea8aea3dd3e370cee07c6012dd9fad51
-  content: The disc was picked up at the rancher's home, inspected at the Roswell
-    Army Air Field, and subsequently loaned by Major Jesse A. Marcel to higher headquarters.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: July 8, 1947 Roswell Army Air Field press release
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
-    title: July 8, 1947 Roswell Army Air Field press release
-    slug: 1947-roswell-army-air-field-press-release-july-8
-  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
-    title: Roswell Army Air Field
-    slug: roswell-army-air-field
+    shared_claims: 3
+  - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
+    title: 509th Bomb Group
+    node_type: organisation
+    slug: 509th-bomb-group
+    shared_claims: 2
   - node_id: f888411e-b882-4f89-8275-350d19f6c52d
     title: Jesse Marcel
+    node_type: person
     slug: jesse-marcel
-  date: 1947-07
-  date_end: null
-  location_in_record: ch14:14981-15157
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 7358ddd1-c8b0-444b-9a99-70df9693516e
-  claim_hash: f76363b2d49f07fc362527cb21d2bf08fa086be81c8885b397f88d381fda1c88
-  content: Barry Goldwater was a close friend of Air Force General William 'Butch'
-    Blanchard, who as a colonel in 1947 was the commanding officer of the 509th Bomb
-    Group at Roswell Army Air Field when the supposed Roswell UFO crash happened.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 2
   - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
     title: William Blanchard
+    node_type: person
     slug: william-blanchard
-  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
-    title: Roswell Army Air Field
-    slug: roswell-army-air-field
-  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
-    title: Barry Goldwater
-    slug: barry-goldwater
-  - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
-    title: 509th Bomb Group
-    slug: 509th-bomb-group
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    slug: roswell-incident-1947
-  date: '1947'
-  date_end: null
-  location_in_record: ch27:19451-19703
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 28646148-4164-4723-b436-a0af11771c46
-  claim_hash: 493deaedf815eb710748c30f3d5de49d84325318930639e987efa46fd71202e4
-  content: The initial Roswell press release stated that the many rumours regarding
-    the flying disc became a reality when the intelligence office of the 509th Bomb
-    Group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to
-    gain possession of a disc.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: United States Army press release
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
-    title: Roswell Army Air Field
-    slug: roswell-army-air-field
-  - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
-    title: 509th Bomb Group
-    slug: 509th-bomb-group
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    slug: roswell-incident-1947
-  - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
-    title: French Air Force
-    slug: french-air-force
-  date: '1947-07-08'
-  date_end: null
-  location_in_record: ch7:15567-15790
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 06d980b2-1a23-41de-beb0-8e514b7eb21a
-  claim_hash: 9dffe6d572b0c0c1e40b3876512a135dad232e2f2e31cb4527076bbcd402465c
-  content: As the United States Congress's General Accounting Office discovered during
-    its 1995 review of the Roswell incident's paperwork, not a single document from
-    Roswell Army Air Field in the crash period survives; every bit of paper relating
-    to the 1947 incident was destroyed with no apparent authorisation.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: United States Congress General Accounting Office
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 2
   - node_id: 3c140cbe-42ad-4ff7-8132-11b3073e99db
     title: 1995 General Accounting Office review of the Roswell incident
+    node_type: event
     slug: 1995-general-accounting-office-review-of-the-roswell-incident
-  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
-    title: Roswell Army Air Field
-    slug: roswell-army-air-field
-  - node_id: 685dcd0b-a551-4f95-81a7-df5a2632d2d1
-    title: United States Congress General Accounting Office
-    slug: united-states-congress-general-accounting-office
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    slug: roswell-incident-1947
-  date: '1995'
-  date_end: null
-  location_in_record: ch7:16842-17116
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 7db31437-74b3-4298-836e-7a6fbae76d40
-  claim_hash: e42137369f185e49a1fac609b82be4e02c1078f5996004e89045c9f291eb4642
-  content: Other witnesses, especially family members of former military personnel
-    who served at Roswell's Army Air Force base, have come forward offering second-hand
-    hearsay evidence of what their father or family member privately admitted to them,
-    verifying the alien spacecraft story.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: unnamed former Roswell Army Air Field military personnel, relayed by their
-      family members
-    relay:
-    - family members of the personnel
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
-    title: Roswell Army Air Field
-    slug: roswell-army-air-field
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    slug: roswell-incident-1947
-  date: null
-  date_end: null
-  location_in_record: ch7:19701-19976
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: a1fe41a3-6438-4606-9e9a-42c06c2b2661
-  claim_hash: 7e7d8a4ec8f41c2c567991f3c07f0486b66732d2e8d5394e4f6a2c9d643a003b
-  content: When Mac Brazel alerted the local sheriff, the nearby Roswell Army Air
-    Force Base was notified, and intelligence officer Major Jesse Marcel was sent
-    to investigate.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
-    title: Roswell Army Air Field
-    slug: roswell-army-air-field
+    shared_claims: 1
+  - node_id: 6be1822d-05e4-4939-bdd6-64e1efb0c3f4
+    title: 9th Bomb Group, Eighth Air Force
+    node_type: organisation
+    slug: eighth-air-force-9th-bomb-group
+    shared_claims: 1
+  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+    node_type: person
+    slug: barry-goldwater
+    shared_claims: 1
+  - node_id: 292e8075-24ef-4b9e-becb-6a28c2930643
+    title: Chaves County Sheriff's Office
+    node_type: organisation
+    slug: chaves-county-sheriffs-office
+    shared_claims: 1
+  - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+    title: French Air Force
+    node_type: organisation
+    slug: french-air-force
+    shared_claims: 1
   - node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
     title: Mac Brazel
+    node_type: person
     slug: mac-brazel
-  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
-    title: Jesse Marcel
-    slug: jesse-marcel
-  date: 1947-07
-  date_end: null
-  location_in_record: ch7:8938-9095
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 685dcd0b-a551-4f95-81a7-df5a2632d2d1
+    title: United States Congress General Accounting Office
+    node_type: organisation
+    slug: united-states-congress-general-accounting-office
+    shared_claims: 1
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    node_type: person
+    slug: walter-haut
+    shared_claims: 1
+claims:
+  - claim_id: df76553f-a07c-4161-a321-e7f9c21590bb
+    claim_hash: f3b7574ead315e57d3f8144e38afe4d6efef724a69a4aebc1148c693def156b0
+    content: The Roswell Army Air Field press release of July 8, 1947 was issued by public relations officer Lieutenant Walter
+      Haut, on order from the base commander.
+    original_excerpt: The release was Issued by public relations officer Lieutenant Walter Haut, on order from the base commander.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
+        title: July 8, 1947 Roswell Army Air Field press release
+        slug: 1947-roswell-army-air-field-press-release-july-8
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+        title: Roswell Army Air Field
+        slug: roswell-army-air-field
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch14:14274-14372
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 2d2b9f24-cfda-426a-afb9-1db53be34562
+    claim_hash: a6e630e8756c23724d43bb5946245942528f7380dca5d94f15ef98ed51a2e84f
+    content: The July 8, 1947 Roswell Army Air Field press release stated that the intelligence office of the 9th Bomb Group
+      of the Eighth Air Force, Roswell Army Air Field, gained possession of a disc through the cooperation of a local rancher
+      and the Chaves County Sheriff's Office.
+    original_excerpt: The many rumors regarding the flying disc became a reality yesterday when the intelligence office of
+      the 9th Bomb Group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc
+      through the cooperation of one of the local ranchers and the sheriff's office of Chaves County.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: July 8, 1947 Roswell Army Air Field press release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
+        title: July 8, 1947 Roswell Army Air Field press release
+        slug: 1947-roswell-army-air-field-press-release-july-8
+      - node_id: 292e8075-24ef-4b9e-becb-6a28c2930643
+        title: Chaves County Sheriff's Office
+        slug: chaves-county-sheriffs-office
+      - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+        title: Roswell Army Air Field
+        slug: roswell-army-air-field
+      - node_id: 6be1822d-05e4-4939-bdd6-64e1efb0c3f4
+        title: 9th Bomb Group, Eighth Air Force
+        slug: eighth-air-force-9th-bomb-group
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch14:14384-14691
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 5fe5b734-6213-4b98-87a5-ae065f85e7d2
+    claim_hash: 1507f9ed80fdfdb07015790fa9b65f78ea8aea3dd3e370cee07c6012dd9fad51
+    content: The disc was picked up at the rancher's home, inspected at the Roswell Army Air Field, and subsequently loaned
+      by Major Jesse A. Marcel to higher headquarters.
+    original_excerpt: Action was immediately taken and the disc was picked up at the rancher's home. It was inspected at the
+      Roswell Army Air Field and subsequently loaned by Major Marcel to higher headquarters.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: July 8, 1947 Roswell Army Air Field press release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
+        title: July 8, 1947 Roswell Army Air Field press release
+        slug: 1947-roswell-army-air-field-press-release-july-8
+      - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+        title: Roswell Army Air Field
+        slug: roswell-army-air-field
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch14:14981-15157
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 7358ddd1-c8b0-444b-9a99-70df9693516e
+    claim_hash: f76363b2d49f07fc362527cb21d2bf08fa086be81c8885b397f88d381fda1c88
+    content: Barry Goldwater was a close friend of Air Force General William 'Butch' Blanchard, who as a colonel in 1947 was
+      the commanding officer of the 509th Bomb Group at Roswell Army Air Field when the supposed Roswell UFO crash happened.
+    original_excerpt: Goldwater was also a close friend of air force General William 'Butch' Blanchard who, as a colonel in
+      1947, was the commanding officer of the 509th Bomb Group at the Roswell Army Air Field when the supposed Roswell UFO
+      crash happened.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+        title: Roswell Army Air Field
+        slug: roswell-army-air-field
+      - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+        title: Barry Goldwater
+        slug: barry-goldwater
+      - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
+        title: 509th Bomb Group
+        slug: 509th-bomb-group
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: '1947'
+    date_end: null
+    location_in_record: ch27:19451-19703
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 28646148-4164-4723-b436-a0af11771c46
+    claim_hash: 493deaedf815eb710748c30f3d5de49d84325318930639e987efa46fd71202e4
+    content: The initial Roswell press release stated that the many rumours regarding the flying disc became a reality when
+      the intelligence office of the 509th Bomb Group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough
+      to gain possession of a disc.
+    original_excerpt: 'It began: ‘The many rumors regarding the flying disc became a reality yesterday when the intelligence
+      office of 509th Bomb Group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession
+      of a disc.’'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: United States Army press release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+        title: Roswell Army Air Field
+        slug: roswell-army-air-field
+      - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
+        title: 509th Bomb Group
+        slug: 509th-bomb-group
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+        title: French Air Force
+        slug: french-air-force
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch7:15567-15790
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 06d980b2-1a23-41de-beb0-8e514b7eb21a
+    claim_hash: 9dffe6d572b0c0c1e40b3876512a135dad232e2f2e31cb4527076bbcd402465c
+    content: As the United States Congress's General Accounting Office discovered during its 1995 review of the Roswell incident's
+      paperwork, not a single document from Roswell Army Air Field in the crash period survives; every bit of paper relating
+      to the 1947 incident was destroyed with no apparent authorisation.
+    original_excerpt: As the US Congress’s General Accounting Office discovered during its 1995 review of the incident’s paperwork,
+      not a single document from the Roswell Army Airfield in the crash period survives; every bit of paper relating to this
+      1947 incident was destroyed with no apparent authorisation.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: United States Congress General Accounting Office
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3c140cbe-42ad-4ff7-8132-11b3073e99db
+        title: 1995 General Accounting Office review of the Roswell incident
+        slug: 1995-general-accounting-office-review-of-the-roswell-incident
+      - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+        title: Roswell Army Air Field
+        slug: roswell-army-air-field
+      - node_id: 685dcd0b-a551-4f95-81a7-df5a2632d2d1
+        title: United States Congress General Accounting Office
+        slug: united-states-congress-general-accounting-office
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: '1995'
+    date_end: null
+    location_in_record: ch7:16842-17116
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7db31437-74b3-4298-836e-7a6fbae76d40
+    claim_hash: e42137369f185e49a1fac609b82be4e02c1078f5996004e89045c9f291eb4642
+    content: Other witnesses, especially family members of former military personnel who served at Roswell's Army Air Force
+      base, have come forward offering second-hand hearsay evidence of what their father or family member privately admitted
+      to them, verifying the alien spacecraft story.
+    original_excerpt: Other witnesses have come forward, especially family members of former members of the military who served
+      at Roswell’s Army Air Force base, offering second-hand hearsay evidence of what their father or family member admitted
+      privately to them, verifying the alien spacecraft story
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed former Roswell Army Air Field military personnel, relayed by their family members
+      relay:
+        - family members of the personnel
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+        title: Roswell Army Air Field
+        slug: roswell-army-air-field
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: null
+    date_end: null
+    location_in_record: ch7:19701-19976
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a1fe41a3-6438-4606-9e9a-42c06c2b2661
+    claim_hash: 7e7d8a4ec8f41c2c567991f3c07f0486b66732d2e8d5394e4f6a2c9d643a003b
+    content: When Mac Brazel alerted the local sheriff, the nearby Roswell Army Air Force Base was notified, and intelligence
+      officer Major Jesse Marcel was sent to investigate.
+    original_excerpt: When Brazel alerted the local sheriff, the nearby Roswell Army Air Force Base was notified, and an intelligence
+      officer named Major Jesse Marcel was sent to investigate.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+        title: Roswell Army Air Field
+        slug: roswell-army-air-field
+      - node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
+        title: Mac Brazel
+        slug: mac-brazel
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch7:8938-9095
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

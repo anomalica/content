@@ -9,176 +9,185 @@ page:
   claim_count: 4
   claim_count_total: 4
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1161
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
 related_nodes:
-- node_id: c09e3558-1732-4676-a218-d67d285d98ef
-  title: David Fravor
-  node_type: person
-  slug: david-fravor
-  shared_claims: 4
-- node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-  title: Ray
-  node_type: person
-  slug: ray
-  shared_claims: 3
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    node_type: person
+    slug: david-fravor
+    shared_claims: 4
+  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+    title: Ray
+    node_type: person
+    slug: ray
+    shared_claims: 3
 claims:
-- claim_id: 283250af-5d12-4789-9b40-15a4af0f937d
-  claim_hash: 45420488c2413afb79bbac0e75b3ff4b526bdf00cb0585e9bf9bae1b12fd1768
-  content: David Fravor's cousin Chad and cousin Ray lived near him in the same neighbourhood
-    where they grew up as part of an Italian family.
-  original_excerpt: we all grew up in the same neighborhood uh we kind of they had
-    Italian side of the family that's how we grew up so it was my house right down
-    the street was my cousin Chad and then right around the corner is my cousin Ray
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
-    title: Chad
-    slug: chad
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: null
-  date_end: null
-  location_in_record: 00:13:18.9-00:13:29.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 86343c7a-0100-42cc-803d-37a9c0d48668
-  claim_hash: 630cd434675f95cc86ed4e51a42c8d4040b1683239a96a63905b3e735433d28b
-  content: David Fravor said he would drop everything and travel immediately if his
-    cousins Ray or Chad ever needed him.
-  original_excerpt: I said, if one of those, if Ray or Chad ever needs me, if something
-    happens... It's I'm booking the ticket and I don't give a shit what it costs because
-    I will be there
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
-    title: Chad
-    slug: chad
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: null
-  date_end: null
-  location_in_record: 03:54:34.0-03:54:43.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 33645fc1-b5b0-49ed-b109-28ea8ac3d806
-  claim_hash: 957bf176dde615ac01bbb65cb31898647f6ab75787a72a61b9416638c267471d
-  content: David Fravor grew up with his cousins Chad and Ray, along with two other
-    family members, and considers them like brothers.
-  original_excerpt: there's my cousin Chad, and I got two boys, there's 14 of us,
-    but there's only two boys, there's three of us together... my cousins who are
-    like my brothers
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
-    title: Chad
-    slug: chad
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: null
-  date_end: null
-  location_in_record: 240-243
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 0457f9df-392e-4aef-9f4f-1e62dbdbb400
-  claim_hash: 88bd5b51aade2452937f0d0a1fb01693274700048051ea777cc1ff6858864e4b
-  content: Chad, who took the video of the Tic Tac object, reviewed electro-optical
-    and infrared imaging modes and found no visual signs of propulsion.
-  original_excerpt: Chad, who took the video, went through all the EO, which is black
-    and white TV and the I&R modes and there is no visual signs of propulsion.
-  claim_type: observation
-  attestation: second_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: named
-    origin: Chad
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
-    title: Chad
-    slug: chad
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: '2004-11-14'
-  date_end: null
-  location_in_record: char:124924-125053
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 283250af-5d12-4789-9b40-15a4af0f937d
+    claim_hash: 45420488c2413afb79bbac0e75b3ff4b526bdf00cb0585e9bf9bae1b12fd1768
+    content: David Fravor's cousin Chad and cousin Ray lived near him in the same neighbourhood where they grew up as part
+      of an Italian family.
+    original_excerpt: we all grew up in the same neighborhood uh we kind of they had Italian side of the family that's how
+      we grew up so it was my house right down the street was my cousin Chad and then right around the corner is my cousin
+      Ray
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
+        title: Chad
+        slug: chad
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: null
+    date_end: null
+    location_in_record: 00:13:18.9-00:13:29.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 86343c7a-0100-42cc-803d-37a9c0d48668
+    claim_hash: 630cd434675f95cc86ed4e51a42c8d4040b1683239a96a63905b3e735433d28b
+    content: David Fravor said he would drop everything and travel immediately if his cousins Ray or Chad ever needed him.
+    original_excerpt: I said, if one of those, if Ray or Chad ever needs me, if something happens... It's I'm booking the
+      ticket and I don't give a shit what it costs because I will be there
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
+        title: Chad
+        slug: chad
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: null
+    date_end: null
+    location_in_record: 03:54:34.0-03:54:43.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 33645fc1-b5b0-49ed-b109-28ea8ac3d806
+    claim_hash: 957bf176dde615ac01bbb65cb31898647f6ab75787a72a61b9416638c267471d
+    content: David Fravor grew up with his cousins Chad and Ray, along with two other family members, and considers them like
+      brothers.
+    original_excerpt: there's my cousin Chad, and I got two boys, there's 14 of us, but there's only two boys, there's three
+      of us together... my cousins who are like my brothers
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
+        title: Chad
+        slug: chad
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: null
+    date_end: null
+    location_in_record: 240-243
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 0457f9df-392e-4aef-9f4f-1e62dbdbb400
+    claim_hash: 88bd5b51aade2452937f0d0a1fb01693274700048051ea777cc1ff6858864e4b
+    content: Chad, who took the video of the Tic Tac object, reviewed electro-optical and infrared imaging modes and found
+      no visual signs of propulsion.
+    original_excerpt: Chad, who took the video, went through all the EO, which is black and white TV and the I&R modes and
+      there is no visual signs of propulsion.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: named
+      origin: Chad
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
+        title: Chad
+        slug: chad
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: char:124924-125053
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety

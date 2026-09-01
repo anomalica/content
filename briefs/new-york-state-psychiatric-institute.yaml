@@ -9,127 +9,137 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 780
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
 related_nodes:
-- node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
-  title: Donald Klein
-  node_type: person
-  slug: donald-klein
-  shared_claims: 3
-- node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
-  title: Budd Hopkins
-  node_type: person
-  slug: budd-hopkins
-  shared_claims: 1
-claims:
-- claim_id: 8adc0251-ac22-4b56-85fd-95c1c49c6793
-  claim_hash: a80404bc2adb3691b04ba99d748d9bbdf2617dff584f4adc666e0fa224164259
-  content: Budd Hopkins recalled that Dr. Donald Klein of the New York State Psychiatric
-    Institute had expressed interest in and appeared open-minded about the visitor
-    phenomenon.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Budd Hopkins
-    relay:
-    - Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 76e440c9-d470-44bf-96ca-f1ce37cf7eca
-    title: New York State Psychiatric Institute
-    slug: new-york-state-psychiatric-institute
+  - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+    title: Donald Klein
+    node_type: person
+    slug: donald-klein
+    shared_claims: 3
   - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
     title: Budd Hopkins
+    node_type: person
     slug: budd-hopkins
-  - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
-    title: Donald Klein
-    slug: donald-klein
-  date: null
-  date_end: null
-  location_in_record: ch10:1559-1722
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: be0aaa39-01e9-42e5-a883-cb8242a09d07
-  claim_hash: 1deead4b6b57e51e645604c5da0b2163ae46b2c69ce029c4e80b4af7c557e1b8
-  content: Dr. Donald Klein is Director of Research at the New York State Psychiatric
-    Institute.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 'Document: Appendix I statement by Donald F. Klein, MD (Communion)'
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 76e440c9-d470-44bf-96ca-f1ce37cf7eca
-    title: New York State Psychiatric Institute
-    slug: new-york-state-psychiatric-institute
-  - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
-    title: Donald Klein
-    slug: donald-klein
-  date: null
-  date_end: null
-  location_in_record: ch16:856-905
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: d663939a-04a2-4128-9d9e-8ba295a781b6
-  claim_hash: dac98c6d59257ee4b39632826df49174adeb3f3793b447ec839647c137a05f02
-  content: Donald Klein was the Director of Research at the New York State Psychiatric
-    Institute.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 76e440c9-d470-44bf-96ca-f1ce37cf7eca
-    title: New York State Psychiatric Institute
-    slug: new-york-state-psychiatric-institute
-  - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
-    title: Donald Klein
-    slug: donald-klein
-  date: null
-  date_end: null
-  location_in_record: ch20:21587-21660
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
+    shared_claims: 1
+claims:
+  - claim_id: 8adc0251-ac22-4b56-85fd-95c1c49c6793
+    claim_hash: a80404bc2adb3691b04ba99d748d9bbdf2617dff584f4adc666e0fa224164259
+    content: Budd Hopkins recalled that Dr. Donald Klein of the New York State Psychiatric Institute had expressed interest
+      in and appeared open-minded about the visitor phenomenon.
+    original_excerpt: Hopkins remembered that Dr. Donald Klein of the New York State Psychiatric Institute had expressed interest
+      in the phenomenon and appeared to be open-minded about it.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Budd Hopkins
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76e440c9-d470-44bf-96ca-f1ce37cf7eca
+        title: New York State Psychiatric Institute
+        slug: new-york-state-psychiatric-institute
+      - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+        title: Budd Hopkins
+        slug: budd-hopkins
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch10:1559-1722
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: be0aaa39-01e9-42e5-a883-cb8242a09d07
+    claim_hash: 1deead4b6b57e51e645604c5da0b2163ae46b2c69ce029c4e80b4af7c557e1b8
+    content: Dr. Donald Klein is Director of Research at the New York State Psychiatric Institute.
+    original_excerpt: Director of Research, New York State Psychiatric Institute
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'Document: Appendix I statement by Donald F. Klein, MD (Communion)'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76e440c9-d470-44bf-96ca-f1ce37cf7eca
+        title: New York State Psychiatric Institute
+        slug: new-york-state-psychiatric-institute
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch16:856-905
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: d663939a-04a2-4128-9d9e-8ba295a781b6
+    claim_hash: dac98c6d59257ee4b39632826df49174adeb3f3793b447ec839647c137a05f02
+    content: Donald Klein was the Director of Research at the New York State Psychiatric Institute.
+    original_excerpt: Dr. Klein was the Director of Research at the New York State Psychiatric Institute
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76e440c9-d470-44bf-96ca-f1ce37cf7eca
+        title: New York State Psychiatric Institute
+        slug: new-york-state-psychiatric-institute
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch20:21587-21660
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind

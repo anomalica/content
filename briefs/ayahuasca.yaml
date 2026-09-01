@@ -1,0 +1,241 @@
+schema: anomalica/brief/1
+brief_hash: 6e8387c79a18fc68d27461f7d13d5cb64147838b7670322416186bfd8b54f34c
+page:
+  kind: entity
+  node_id: 2bcec438-4ef0-4869-a486-e4f13b450105
+  node_type: topic
+  title: ayahuasca
+  slug: ayahuasca
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1243
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+    title: Jason Quitt
+    node_type: person
+    slug: jason-quitt
+    shared_claims: 3
+  - node_id: 5e00bba1-273a-43e8-84bd-bc4ad9b19358
+    title: shamanism
+    node_type: topic
+    slug: shamanism
+    shared_claims: 2
+  - node_id: 4743a04d-09b6-4efc-941e-07bb177148a1
+    title: Dimethyltryptamine (DMT) (dimethyltryptamine)
+    node_type: topic
+    slug: dimethyltryptamine-dmt-dimethyltryptamine
+    shared_claims: 1
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    node_type: topic
+    slug: out-of-body-experience-obe
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 1
+  - node_id: f1bd457e-2e18-406b-aefa-c0e9eff27a64
+    title: ego death
+    node_type: topic
+    slug: ego-death
+    shared_claims: 1
+  - node_id: 1e747725-099c-4482-b543-2fdc913901aa
+    title: peyote
+    node_type: topic
+    slug: peyote
+    shared_claims: 1
+  - node_id: defa5ce6-288d-44b1-a84a-ad4f8b92bebc
+    title: psilocybin mushroom journey
+    node_type: topic
+    slug: psilocybin-mushroom-journey
+    shared_claims: 1
+claims:
+  - claim_id: bf7503ae-39a2-4539-a4a7-df2bddb4cde4
+    claim_hash: 60db4c7fb837e15c3b9e8dd149a78fc7fd4e6ab161a88f9ede84fef20f7afea4
+    content: Various forms of shamanism use substances like ayahuasca to generate DMT (dimethyltryptamine) floods.
+    original_excerpt: various forms of shamanism use substances like ayahuasca to generate DMT floods
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2bcec438-4ef0-4869-a486-e4f13b450105
+        title: ayahuasca
+        slug: ayahuasca
+      - node_id: 4743a04d-09b6-4efc-941e-07bb177148a1
+        title: Dimethyltryptamine (DMT) (dimethyltryptamine)
+        slug: dimethyltryptamine-dmt-dimethyltryptamine
+    date: null
+    date_end: null
+    location_in_record: ch24:6929-7002
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: f9353827-4517-4333-b129-f6b2aa2c4864
+    claim_hash: b146506ef727fce20c73171bb1cdf43428989926a07d675bf8e1fdfb75552b21
+    content: People who take plant medicines such as ayahuasca, peyote or psilocybin mushrooms in ceremony often find themselves
+      taken to UFOs during the journey.
+    original_excerpt: people that go on shamanic journeys that do plant medicines like ayahuasca or peyote or mushroom ceremonies
+      ... they find themselves where being taken to, to UFOs.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1e747725-099c-4482-b543-2fdc913901aa
+        title: peyote
+        slug: peyote
+      - node_id: 2bcec438-4ef0-4869-a486-e4f13b450105
+        title: ayahuasca
+        slug: ayahuasca
+      - node_id: 5e00bba1-273a-43e8-84bd-bc4ad9b19358
+        title: shamanism
+        slug: shamanism
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: defa5ce6-288d-44b1-a84a-ad4f8b92bebc
+        title: psilocybin mushroom journey
+        slug: psilocybin-mushroom-journey
+    date: null
+    date_end: null
+    location_in_record: 01:08:22.9-01:08:35.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 44105f91-680b-41d7-a286-597349c85d26
+    claim_hash: 16f1168fdb7dfd08a670ae56b002088b71104a1849e64e66ffc162cc58195411
+    content: During a plant-medicine ceremony the participant's friends are physically beside them on the ground singing songs
+      and burning sage, while in the participant's own experience they are not present but aboard a ship, sometimes being
+      operated on or healed.
+    original_excerpt: their friends will be right with them on the ground ... singing their songs or putting sage around them
+      ... But in their experience, they're not there. They're on a ship. Sometimes they're being operated on, they're being
+      healed.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2bcec438-4ef0-4869-a486-e4f13b450105
+        title: ayahuasca
+        slug: ayahuasca
+      - node_id: 5e00bba1-273a-43e8-84bd-bc4ad9b19358
+        title: shamanism
+        slug: shamanism
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 01:08:47.1-01:09:02.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 791ccd7e-db51-43fc-9f72-d36073a1c13e
+    claim_hash: 3efe05bc45e544eb3039029069b7d576251db40c5c9ea415c04e6b58b69d1845
+    content: The dissolving of boundaries is learned both in out-of-body experiences and on ayahuasca and other plant medicines,
+      with the body and the mind each being a boundary within which a person identifies as an individual.
+    original_excerpt: this is another thing you learn in the out of body experiences it's also what you learn on ayahuasca
+      and all these other plant medicines and it's the uh dissolving of boundaries ... I could say our body is a boundary.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2bcec438-4ef0-4869-a486-e4f13b450105
+        title: ayahuasca
+        slug: ayahuasca
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: f1bd457e-2e18-406b-aefa-c0e9eff27a64
+        title: ego death
+        slug: ego-death
+    date: null
+    date_end: null
+    location_in_record: 01:13:12.7-01:13:30.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null

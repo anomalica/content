@@ -9,159 +9,172 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 927
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
 related_nodes:
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 2
-- node_id: 17a19f04-2b61-4e79-ad2b-bb0509a15e21
-  title: Donald Hanlon
-  node_type: person
-  slug: donald-hanlon
-  shared_claims: 1
-- node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
-  title: Gordon Creighton
-  node_type: person
-  slug: gordon-creighton
-  shared_claims: 1
-- node_id: 02078575-6462-4874-ade3-beaacf18d46f
-  title: Jerome Clark
-  node_type: person
-  slug: jerome-clark
-  shared_claims: 1
-- node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-  title: Jonathan Caplan
-  node_type: person
-  slug: jonathan-caplan
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-claims:
-- claim_id: 20be2cfe-9cca-4b74-a572-c4b22ace69ca
-  claim_hash: 698319ba6b05abea803831c548f7a0c0b2c6505a035eb3ac479a0f05ccf44171
-  content: John Keel suggested in public statements and private conversations with
-    Jacques Vallée that there may be a link between UFO events and occult phenomena.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 22df0786-7788-4823-9724-2321f761ce05
-    title: John Keel
-  provenance_chain:
-    origin_kind: named
-    origin: John Keel
-    relay: []
-  attribution_mode: unknown
-  node_refs:
   - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
     title: Jacques Vallée
+    node_type: person
     slug: jacques-vallee
-  - node_id: 22df0786-7788-4823-9724-2321f761ce05
-    title: John Keel
-    slug: john-keel
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: ch13:36972-37185
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 1b2c3cd9-721d-47c3-a466-e87628a51a09
-  claim_hash: 4e7b33c22b6a8fe760d0090064bec0111c35888c56b59ba934ed673a9d725829
-  content: Jacques Vallee has verified observations made previously by Jerome Clark,
-    Donald Hanlon, Gordon Creighton, and John Keel, though he does not accept all
-    of their conclusions.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallee
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 02078575-6462-4874-ade3-beaacf18d46f
-    title: Jerome Clark
-    slug: jerome-clark
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
+    shared_claims: 2
   - node_id: 17a19f04-2b61-4e79-ad2b-bb0509a15e21
     title: Donald Hanlon
+    node_type: person
     slug: donald-hanlon
-  - node_id: 22df0786-7788-4823-9724-2321f761ce05
-    title: John Keel
-    slug: john-keel
+    shared_claims: 1
   - node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
     title: Gordon Creighton
+    node_type: person
     slug: gordon-creighton
-  date: null
-  date_end: null
-  location_in_record: ch13:12059-12301
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: cc65c575-51f2-4270-ad02-a50969b0c4b1
-  claim_hash: cf31a0a508533dd6e792db15a1376a79bdfa0d07c09b5d5700375b0215a14a81
-  content: Jonathan Caplan spoke to John Keel once and met him once, and considers
-    Keel to have been a frightened man at the time they spoke.
-  original_excerpt: I mean, I spoke to John once and I met him once and he was, I
-    think, a frightened man at the time I spoke to him.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jonathan Caplan
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 22df0786-7788-4823-9724-2321f761ce05
-    title: John Keel
-    slug: john-keel
+    shared_claims: 1
+  - node_id: 02078575-6462-4874-ade3-beaacf18d46f
+    title: Jerome Clark
+    node_type: person
+    slug: jerome-clark
+    shared_claims: 1
   - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
     title: Jonathan Caplan
+    node_type: person
     slug: jonathan-caplan
-  date: null
-  date_end: null
-  location_in_record: 01:23:50.5-01:23:57.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+claims:
+  - claim_id: 20be2cfe-9cca-4b74-a572-c4b22ace69ca
+    claim_hash: 698319ba6b05abea803831c548f7a0c0b2c6505a035eb3ac479a0f05ccf44171
+    content: John Keel suggested in public statements and private conversations with Jacques Vallée that there may be a link
+      between UFO events and occult phenomena.
+    original_excerpt: A few investigators – notably Ray Palmer, John Keel, and Salvatore Freixedo – have suggested both in
+      public statements and in private conversations with me that there may be a link between UFO events and “occult” phenomena.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 22df0786-7788-4823-9724-2321f761ce05
+      title: John Keel
+    provenance_chain:
+      origin_kind: named
+      origin: John Keel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 22df0786-7788-4823-9724-2321f761ce05
+        title: John Keel
+        slug: john-keel
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch13:36972-37185
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 1b2c3cd9-721d-47c3-a466-e87628a51a09
+    claim_hash: 4e7b33c22b6a8fe760d0090064bec0111c35888c56b59ba934ed673a9d725829
+    content: Jacques Vallee has verified observations made previously by Jerome Clark, Donald Hanlon, Gordon Creighton, and
+      John Keel, though he does not accept all of their conclusions.
+    original_excerpt: I have been in a position to verify observations that others like Jerome Clark and Donald Hanlon, Gordon
+      Creighton and John Keel had made before me; although I do not buy all their conclusions I have convinced myself of the
+      validity of their reports.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02078575-6462-4874-ade3-beaacf18d46f
+        title: Jerome Clark
+        slug: jerome-clark
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 17a19f04-2b61-4e79-ad2b-bb0509a15e21
+        title: Donald Hanlon
+        slug: donald-hanlon
+      - node_id: 22df0786-7788-4823-9724-2321f761ce05
+        title: John Keel
+        slug: john-keel
+      - node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
+        title: Gordon Creighton
+        slug: gordon-creighton
+    date: null
+    date_end: null
+    location_in_record: ch13:12059-12301
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: cc65c575-51f2-4270-ad02-a50969b0c4b1
+    claim_hash: cf31a0a508533dd6e792db15a1376a79bdfa0d07c09b5d5700375b0215a14a81
+    content: Jonathan Caplan spoke to John Keel once and met him once, and considers Keel to have been a frightened man at
+      the time they spoke.
+    original_excerpt: I mean, I spoke to John once and I met him once and he was, I think, a frightened man at the time I
+      spoke to him.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22df0786-7788-4823-9724-2321f761ce05
+        title: John Keel
+        slug: john-keel
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+    date: null
+    date_end: null
+    location_in_record: 01:23:50.5-01:23:57.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null

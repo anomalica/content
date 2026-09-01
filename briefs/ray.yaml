@@ -9,730 +9,725 @@ page:
   claim_count: 16
   claim_count_total: 16
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 16
+  tokens_estimated: 4648
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 16
 related_nodes:
-- node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
-  title: 1988 Ray and Nancy Tehachapi encounter
-  node_type: event
-  slug: 1988-ray-and-nancy-tehachapi-encounter
-  shared_claims: 12
-- node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
-  title: Nancy
-  node_type: person
-  slug: nancy
-  shared_claims: 8
-- node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
-  title: Chad
-  node_type: person
-  slug: chad
-  shared_claims: 3
-- node_id: c09e3558-1732-4676-a218-d67d285d98ef
-  title: David Fravor
-  node_type: person
-  slug: david-fravor
-  shared_claims: 3
-- node_id: 09d2912a-b07f-42c4-a09c-3b23e7fdeaf4
-  title: Northrop
-  node_type: organisation
-  slug: northrop
-  shared_claims: 3
-- node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
-  title: William F. Hamilton
-  node_type: person
-  slug: william-f-hamilton
-  shared_claims: 3
-- node_id: 41c15b6b-97eb-49fa-aa26-8885dae53f17
-  title: B-2 project
-  node_type: project
-  slug: b-2-project
-  shared_claims: 2
-- node_id: a0fc8a7b-9104-4908-892c-c904fdac9c6c
-  title: USA, California, Tehachapi Mountains
-  node_type: place
-  slug: california-tehachapi-mountains-usa
-  shared_claims: 2
-- node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
-  title: USA, California, Edwards Air Force Base
-  node_type: place
-  slug: california-edwards-air-force-base-usa
-  shared_claims: 1
-claims:
-- claim_id: d5f1f7dc-1212-477d-810c-1e5e085d68b5
-  claim_hash: e50e28756b05fe8a78eba0ea1f6dfce2a213806cab20bce88ce1414304682b72
-  content: The secret Northrop installation in the USA, California, Tehachapi Mountains
-    came to William F. Hamilton's attention during the summer of 1988, following an
-    encounter involving a man named Ray, an inspector on Northrop's B-2 project.
-  original_excerpt: And this installation came to my attention during a period of
-    time in the summer of 1988 when a couple, the man whose name is Ray, was an inspector
-    on the B2 project at Northrop.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
-    title: William F. Hamilton
-  provenance_chain:
-    origin_kind: speaker
-    origin: William F. Hamilton
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 09d2912a-b07f-42c4-a09c-3b23e7fdeaf4
-    title: Northrop
-    slug: northrop
-  - node_id: 41c15b6b-97eb-49fa-aa26-8885dae53f17
-    title: B-2 project
-    slug: b-2-project
   - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
     title: 1988 Ray and Nancy Tehachapi encounter
+    node_type: event
     slug: 1988-ray-and-nancy-tehachapi-encounter
-  - node_id: a0fc8a7b-9104-4908-892c-c904fdac9c6c
-    title: USA, California, Tehachapi Mountains
-    slug: california-tehachapi-mountains-usa
+    shared_claims: 12
+  - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
+    title: Nancy
+    node_type: person
+    slug: nancy
+    shared_claims: 8
+  - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
+    title: Chad
+    node_type: person
+    slug: chad
+    shared_claims: 3
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    node_type: person
+    slug: david-fravor
+    shared_claims: 3
+  - node_id: 09d2912a-b07f-42c4-a09c-3b23e7fdeaf4
+    title: Northrop
+    node_type: organisation
+    slug: northrop
+    shared_claims: 3
   - node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
     title: William F. Hamilton
+    node_type: person
     slug: william-f-hamilton
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: 1988-06
-  date_end: null
-  location_in_record: 00:02:57.6-00:03:10.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
-    record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien
-      Technology Being Tested'
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
-    content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
-    friendly_name: null
-- claim_id: 0d95ffee-c146-4fa1-839e-f83fad26745a
-  claim_hash: a1306023345195cf925c4fc0c867244c54ee995896be5de893cec9cdeec20a36
-  content: Ray was an inspector on the B-2 project at Northrop.
-  original_excerpt: the man whose name is Ray, was an inspector on the B2 project
-    at Northrop.
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
-    title: William F. Hamilton
-  provenance_chain:
-    origin_kind: named
-    origin: Ray
-    relay:
-    - William F. Hamilton
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09d2912a-b07f-42c4-a09c-3b23e7fdeaf4
-    title: Northrop
-    slug: northrop
+    shared_claims: 3
   - node_id: 41c15b6b-97eb-49fa-aa26-8885dae53f17
     title: B-2 project
+    node_type: project
     slug: b-2-project
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: null
-  date_end: null
-  location_in_record: 00:03:04.7-00:03:10.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
-    record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien
-      Technology Being Tested'
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
-    content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
-    friendly_name: null
-- claim_id: 1bcc355c-01ea-4f10-aff1-18f134ba78df
-  claim_hash: b26b57755b0a514d2fe90b0026c7b33c8f3dddaeda310a077d92dd2ab8ca045b
-  content: After finishing a swing shift, Ray and his girlfriend Nancy went up onto
-    a plateau just outside the perimeter fence of the secure Northrop installation
-    in the saddle of the USA, California, Tehachapi Mountains.
-  original_excerpt: And he had gotten off a swing shift, and he and his girlfriend
-    Nancy had gone up on this plateau, which is just outside of the perimeter fence
-    area of this secure installation up there in the saddle of the mountains
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
-    title: William F. Hamilton
-  provenance_chain:
-    origin_kind: named
-    origin: Ray
-    relay:
-    - William F. Hamilton
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09d2912a-b07f-42c4-a09c-3b23e7fdeaf4
-    title: Northrop
-    slug: northrop
-  - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
-    title: Nancy
-    slug: nancy
-  - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
-    title: 1988 Ray and Nancy Tehachapi encounter
-    slug: 1988-ray-and-nancy-tehachapi-encounter
+    shared_claims: 2
   - node_id: a0fc8a7b-9104-4908-892c-c904fdac9c6c
     title: USA, California, Tehachapi Mountains
+    node_type: place
     slug: california-tehachapi-mountains-usa
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: '1988'
-  date_end: null
-  location_in_record: 00:03:12.0-00:03:28.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
-    record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien
-      Technology Being Tested'
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
-    content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
-    friendly_name: null
-- claim_id: 0eb22bc4-575d-4829-9284-23a53463ca42
-  claim_hash: 063961068733f284a3e6709da5e13e507db4140db3af5cbf7bda591de7ec2535
-  content: At around one o'clock in the morning, Ray and Nancy saw an approximately
-    basketball-sized glowing orb rise out of the ground near the Northrop installation
-    in the USA, California, Tehachapi Mountains.
-  original_excerpt: they saw a very strange object at about one o'clock in the morning
-    when they were up there just looking at the lights the stars and what have you
-    and they saw what they described as being approximately a basketball-sized glowing
-    orb rise out of the ground
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
-    title: William F. Hamilton
-  provenance_chain:
-    origin_kind: named
-    origin: Ray and Nancy
-    relay:
-    - William F. Hamilton
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
-    title: Nancy
-    slug: nancy
-  - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
-    title: 1988 Ray and Nancy Tehachapi encounter
-    slug: 1988-ray-and-nancy-tehachapi-encounter
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: '1988'
-  date_end: null
-  location_in_record: 00:03:29.5-00:03:48.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
-    record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien
-      Technology Being Tested'
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
-    content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
-    friendly_name: null
-- claim_id: 47d8870f-eb60-4c70-be4a-c9daad0faebf
-  claim_hash: d89bdf784eacfb9a9f73449329bff72af3a05ef627e54ddb07f6dd7ad79b4757
-  content: The glowing orb Ray and Nancy observed gained elevation and was less than
-    about 91 metres away, to the east of them.
-  original_excerpt: and gained some elevation, and it was to the east of them, less
-    than about 100 yards away,
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
-    title: William F. Hamilton
-  provenance_chain:
-    origin_kind: named
-    origin: Ray and Nancy
-    relay:
-    - William F. Hamilton
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
-    title: Nancy
-    slug: nancy
-  - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
-    title: 1988 Ray and Nancy Tehachapi encounter
-    slug: 1988-ray-and-nancy-tehachapi-encounter
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: '1988'
-  date_end: null
-  location_in_record: 00:03:49.9-00:03:54.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
-    record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien
-      Technology Being Tested'
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
-    content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
-    friendly_name: null
-- claim_id: e0cb75e8-9302-4e8b-a4da-74d9872a03c1
-  claim_hash: 978480a627de55be5e6fb4c194b7e08105d78199fe2e1d6d08dfa26be25c0ba3
-  content: The glowing orb observed by Ray and Nancy sat flashing with electrical
-    sparks coming off it, and they observed it for several minutes.
-  original_excerpt: and it just kind of sat there flashing, and there were electrical
-    sparks coming off of it, and they were observing this for some minutes,
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
-    title: William F. Hamilton
-  provenance_chain:
-    origin_kind: named
-    origin: Ray and Nancy
-    relay:
-    - William F. Hamilton
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
-    title: Nancy
-    slug: nancy
-  - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
-    title: 1988 Ray and Nancy Tehachapi encounter
-    slug: 1988-ray-and-nancy-tehachapi-encounter
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: '1988'
-  date_end: null
-  location_in_record: 00:03:54.9-00:04:04.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
-    record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien
-      Technology Being Tested'
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
-    content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
-    friendly_name: null
-- claim_id: ba2b8f4d-0598-4f23-977d-a18f5a12fcfa
-  claim_hash: 10c93b501cb58071151edee51a21657cac4239c3131509b19c74ecdbd820de76
-  content: Ray and Nancy noticed the first dawn light appearing over the eastern horizon
-    shortly after observing the orb, and experienced missing time.
-  original_excerpt: when next they noticed that the first dawn rays of sunlight were
-    coming up over the eastern horizon, and they had some missing time.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
-    title: William F. Hamilton
-  provenance_chain:
-    origin_kind: named
-    origin: Ray and Nancy
-    relay:
-    - William F. Hamilton
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
-    title: Nancy
-    slug: nancy
-  - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
-    title: 1988 Ray and Nancy Tehachapi encounter
-    slug: 1988-ray-and-nancy-tehachapi-encounter
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: '1988'
-  date_end: null
-  location_in_record: 00:04:05.2-00:04:14.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
-    record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien
-      Technology Being Tested'
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
-    content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
-    friendly_name: null
-- claim_id: 1fa1791d-1049-4977-8be9-bea552576e6d
-  claim_hash: 60c23fe743df789f294af73a7c83c15ebfc8310d09082b8adaab6ff7f7b331b2
-  content: Under hypnosis, Ray recounted being taken underground to what appeared
-    to him to be a military installation with electronics, console panels, and uniformed
-    military men.
-  original_excerpt: And Ray was put under hypnosis, and he told a very bizarre tale
-    of being taken underground to what appeared to him to be a military installation.
-    There were electronics, there were console panels, there were military uniformed
-    men walking around.
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
-    title: William F. Hamilton
-  provenance_chain:
-    origin_kind: named
-    origin: Ray
-    relay:
-    - hypnosis session
-    - William F. Hamilton
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
-    title: 1988 Ray and Nancy Tehachapi encounter
-    slug: 1988-ray-and-nancy-tehachapi-encounter
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: '1988'
-  date_end: null
-  location_in_record: 00:04:15.8-00:04:32.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
-    record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien
-      Technology Being Tested'
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
-    content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
-    friendly_name: null
-- claim_id: 31825b96-533e-4712-a51f-6ef3fbf6bfd5
-  claim_hash: 40622afca6eb10981f6b8161b9b8a6ad6006e784dc3cd5308ef64e282561fcc8
-  content: Under hypnosis, Ray recounted seeing Nancy placed on a table surrounded
-    by small grey alien beings with large heads and almond-shaped eyes.
-  original_excerpt: And he saw Nancy being put on this table, and surrounding the
-    table were what he described as little gray alien beings the typical large-headed
-    almond-shaped eyes, what have you.
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
-    title: William F. Hamilton
-  provenance_chain:
-    origin_kind: named
-    origin: Ray
-    relay:
-    - hypnosis session
-    - William F. Hamilton
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
-    title: Nancy
-    slug: nancy
-  - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
-    title: 1988 Ray and Nancy Tehachapi encounter
-    slug: 1988-ray-and-nancy-tehachapi-encounter
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: '1988'
-  date_end: null
-  location_in_record: 00:04:33.9-00:04:45.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
-    record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien
-      Technology Being Tested'
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
-    content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
-    friendly_name: null
-- claim_id: 73754a87-ef1c-4657-adf9-4f9c3a57d63c
-  claim_hash: 926be5360dce55705d9e40c5fae292a1701560d36c7914883e22f2b995be1919
-  content: During his hypnosis session, Ray became very emotional and appeared mentally
-    blocked when recalling details of what happened to Nancy.
-  original_excerpt: And at that point in his narration, he got very emotional and
-    he seemed to be blocked mentally in recalling the details of what happened to
-    Nancy. He was very disturbed about this.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
-    title: William F. Hamilton
-  provenance_chain:
-    origin_kind: speaker
-    origin: William F. Hamilton
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
-    title: 1988 Ray and Nancy Tehachapi encounter
-    slug: 1988-ray-and-nancy-tehachapi-encounter
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: '1988'
-  date_end: null
-  location_in_record: 00:04:46.4-00:05:00.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
-    record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien
-      Technology Being Tested'
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
-    content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
-    friendly_name: null
-- claim_id: fe6a2087-4865-4ae4-945a-4ee8a6a898e1
-  claim_hash: b4bff16f641ac5d1a6171c151e5d33f057273925a10f75e1f124ff472cf31b4d
-  content: William F. Hamilton considered that Ray was going through genuine emotion
-    during the hypnosis session.
-  original_excerpt: And I considered that he was going through some genuine emotion.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
-    title: William F. Hamilton
-  provenance_chain:
-    origin_kind: speaker
-    origin: William F. Hamilton
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
-    title: 1988 Ray and Nancy Tehachapi encounter
-    slug: 1988-ray-and-nancy-tehachapi-encounter
-  - node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
-    title: William F. Hamilton
-    slug: william-f-hamilton
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: '1988'
-  date_end: null
-  location_in_record: 00:05:01.0-00:05:03.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
-    record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien
-      Technology Being Tested'
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
-    content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
-    friendly_name: null
-- claim_id: cf23d3c1-48ee-480b-babb-61f885a49804
-  claim_hash: 561bcb1e456106a5b92eaa3c89d38b2e9d120829ef1bc959e2b6a0c4415bee18
-  content: Ray and Nancy reported their 1988 encounter to someone at USA, California,
-    Edwards Air Force Base.
-  original_excerpt: Now they reported this, by the way, to somebody at Edwards Air
-    Force Base because they thought, what's going on here, right?
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
-    title: William F. Hamilton
-  provenance_chain:
-    origin_kind: named
-    origin: Ray and Nancy
-    relay:
-    - William F. Hamilton
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
-    title: Nancy
-    slug: nancy
-  - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
-    title: 1988 Ray and Nancy Tehachapi encounter
-    slug: 1988-ray-and-nancy-tehachapi-encounter
+    shared_claims: 2
   - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
     title: USA, California, Edwards Air Force Base
+    node_type: place
     slug: california-edwards-air-force-base-usa
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: '1988'
-  date_end: null
-  location_in_record: 00:05:04.3-00:05:11.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
-    record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien
-      Technology Being Tested'
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
-    content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
-    friendly_name: null
-- claim_id: e3632d45-3c7a-47fe-8592-2d8f3a4860e6
-  claim_hash: ddfe20c6956c6f5f23fe377c5ddea614395d802952a8a03cfc195adea51e30a0
-  content: After reporting the encounter, Ray and Nancy experienced harassment, decided
-    to withdraw, and stopped speaking to William F. Hamilton.
-  original_excerpt: And they had some harassment afterwards and they decided to withdraw
-    and they wouldn't even talk to me anymore.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
-    title: William F. Hamilton
-  provenance_chain:
-    origin_kind: speaker
-    origin: William F. Hamilton
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
-    title: Nancy
-    slug: nancy
-  - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
-    title: 1988 Ray and Nancy Tehachapi encounter
-    slug: 1988-ray-and-nancy-tehachapi-encounter
-  - node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
-    title: William F. Hamilton
-    slug: william-f-hamilton
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: '1988'
-  date_end: null
-  location_in_record: 00:05:12.0-00:05:18.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
-    record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien
-      Technology Being Tested'
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
-    content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
-    friendly_name: null
-- claim_id: 283250af-5d12-4789-9b40-15a4af0f937d
-  claim_hash: 45420488c2413afb79bbac0e75b3ff4b526bdf00cb0585e9bf9bae1b12fd1768
-  content: David Fravor's cousin Chad and cousin Ray lived near him in the same neighbourhood
-    where they grew up as part of an Italian family.
-  original_excerpt: we all grew up in the same neighborhood uh we kind of they had
-    Italian side of the family that's how we grew up so it was my house right down
-    the street was my cousin Chad and then right around the corner is my cousin Ray
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
-    title: Chad
-    slug: chad
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: null
-  date_end: null
-  location_in_record: 00:13:18.9-00:13:29.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 86343c7a-0100-42cc-803d-37a9c0d48668
-  claim_hash: 630cd434675f95cc86ed4e51a42c8d4040b1683239a96a63905b3e735433d28b
-  content: David Fravor said he would drop everything and travel immediately if his
-    cousins Ray or Chad ever needed him.
-  original_excerpt: I said, if one of those, if Ray or Chad ever needs me, if something
-    happens... It's I'm booking the ticket and I don't give a shit what it costs because
-    I will be there
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
-    title: Chad
-    slug: chad
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: null
-  date_end: null
-  location_in_record: 03:54:34.0-03:54:43.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 33645fc1-b5b0-49ed-b109-28ea8ac3d806
-  claim_hash: 957bf176dde615ac01bbb65cb31898647f6ab75787a72a61b9416638c267471d
-  content: David Fravor grew up with his cousins Chad and Ray, along with two other
-    family members, and considers them like brothers.
-  original_excerpt: there's my cousin Chad, and I got two boys, there's 14 of us,
-    but there's only two boys, there's three of us together... my cousins who are
-    like my brothers
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
-    title: Chad
-    slug: chad
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
-    title: Ray
-    slug: ray
-  date: null
-  date_end: null
-  location_in_record: 240-243
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+    shared_claims: 1
+claims:
+  - claim_id: d5f1f7dc-1212-477d-810c-1e5e085d68b5
+    claim_hash: e50e28756b05fe8a78eba0ea1f6dfce2a213806cab20bce88ce1414304682b72
+    content: The secret Northrop installation in the USA, California, Tehachapi Mountains came to William F. Hamilton's attention
+      during the summer of 1988, following an encounter involving a man named Ray, an inspector on Northrop's B-2 project.
+    original_excerpt: And this installation came to my attention during a period of time in the summer of 1988 when a couple,
+      the man whose name is Ray, was an inspector on the B2 project at Northrop.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+      title: William F. Hamilton
+    provenance_chain:
+      origin_kind: speaker
+      origin: William F. Hamilton
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09d2912a-b07f-42c4-a09c-3b23e7fdeaf4
+        title: Northrop
+        slug: northrop
+      - node_id: 41c15b6b-97eb-49fa-aa26-8885dae53f17
+        title: B-2 project
+        slug: b-2-project
+      - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
+        title: 1988 Ray and Nancy Tehachapi encounter
+        slug: 1988-ray-and-nancy-tehachapi-encounter
+      - node_id: a0fc8a7b-9104-4908-892c-c904fdac9c6c
+        title: USA, California, Tehachapi Mountains
+        slug: california-tehachapi-mountains-usa
+      - node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+        title: William F. Hamilton
+        slug: william-f-hamilton
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: 1988-06
+    date_end: null
+    location_in_record: 00:02:57.6-00:03:10.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+      record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology Being Tested'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+      content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+      friendly_name: null
+  - claim_id: 0d95ffee-c146-4fa1-839e-f83fad26745a
+    claim_hash: a1306023345195cf925c4fc0c867244c54ee995896be5de893cec9cdeec20a36
+    content: Ray was an inspector on the B-2 project at Northrop.
+    original_excerpt: the man whose name is Ray, was an inspector on the B2 project at Northrop.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+      title: William F. Hamilton
+    provenance_chain:
+      origin_kind: named
+      origin: Ray
+      relay:
+        - William F. Hamilton
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09d2912a-b07f-42c4-a09c-3b23e7fdeaf4
+        title: Northrop
+        slug: northrop
+      - node_id: 41c15b6b-97eb-49fa-aa26-8885dae53f17
+        title: B-2 project
+        slug: b-2-project
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: null
+    date_end: null
+    location_in_record: 00:03:04.7-00:03:10.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+      record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology Being Tested'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+      content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+      friendly_name: null
+  - claim_id: 1bcc355c-01ea-4f10-aff1-18f134ba78df
+    claim_hash: b26b57755b0a514d2fe90b0026c7b33c8f3dddaeda310a077d92dd2ab8ca045b
+    content: After finishing a swing shift, Ray and his girlfriend Nancy went up onto a plateau just outside the perimeter
+      fence of the secure Northrop installation in the saddle of the USA, California, Tehachapi Mountains.
+    original_excerpt: And he had gotten off a swing shift, and he and his girlfriend Nancy had gone up on this plateau, which
+      is just outside of the perimeter fence area of this secure installation up there in the saddle of the mountains
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+      title: William F. Hamilton
+    provenance_chain:
+      origin_kind: named
+      origin: Ray
+      relay:
+        - William F. Hamilton
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09d2912a-b07f-42c4-a09c-3b23e7fdeaf4
+        title: Northrop
+        slug: northrop
+      - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
+        title: Nancy
+        slug: nancy
+      - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
+        title: 1988 Ray and Nancy Tehachapi encounter
+        slug: 1988-ray-and-nancy-tehachapi-encounter
+      - node_id: a0fc8a7b-9104-4908-892c-c904fdac9c6c
+        title: USA, California, Tehachapi Mountains
+        slug: california-tehachapi-mountains-usa
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: '1988'
+    date_end: null
+    location_in_record: 00:03:12.0-00:03:28.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+      record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology Being Tested'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+      content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+      friendly_name: null
+  - claim_id: 0eb22bc4-575d-4829-9284-23a53463ca42
+    claim_hash: 063961068733f284a3e6709da5e13e507db4140db3af5cbf7bda591de7ec2535
+    content: At around one o'clock in the morning, Ray and Nancy saw an approximately basketball-sized glowing orb rise out
+      of the ground near the Northrop installation in the USA, California, Tehachapi Mountains.
+    original_excerpt: they saw a very strange object at about one o'clock in the morning when they were up there just looking
+      at the lights the stars and what have you and they saw what they described as being approximately a basketball-sized
+      glowing orb rise out of the ground
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+      title: William F. Hamilton
+    provenance_chain:
+      origin_kind: named
+      origin: Ray and Nancy
+      relay:
+        - William F. Hamilton
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
+        title: Nancy
+        slug: nancy
+      - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
+        title: 1988 Ray and Nancy Tehachapi encounter
+        slug: 1988-ray-and-nancy-tehachapi-encounter
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: '1988'
+    date_end: null
+    location_in_record: 00:03:29.5-00:03:48.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+      record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology Being Tested'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+      content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+      friendly_name: null
+  - claim_id: 47d8870f-eb60-4c70-be4a-c9daad0faebf
+    claim_hash: d89bdf784eacfb9a9f73449329bff72af3a05ef627e54ddb07f6dd7ad79b4757
+    content: The glowing orb Ray and Nancy observed gained elevation and was less than about 91 metres away, to the east of
+      them.
+    original_excerpt: and gained some elevation, and it was to the east of them, less than about 100 yards away,
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+      title: William F. Hamilton
+    provenance_chain:
+      origin_kind: named
+      origin: Ray and Nancy
+      relay:
+        - William F. Hamilton
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
+        title: Nancy
+        slug: nancy
+      - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
+        title: 1988 Ray and Nancy Tehachapi encounter
+        slug: 1988-ray-and-nancy-tehachapi-encounter
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: '1988'
+    date_end: null
+    location_in_record: 00:03:49.9-00:03:54.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+      record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology Being Tested'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+      content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+      friendly_name: null
+  - claim_id: e0cb75e8-9302-4e8b-a4da-74d9872a03c1
+    claim_hash: 978480a627de55be5e6fb4c194b7e08105d78199fe2e1d6d08dfa26be25c0ba3
+    content: The glowing orb observed by Ray and Nancy sat flashing with electrical sparks coming off it, and they observed
+      it for several minutes.
+    original_excerpt: and it just kind of sat there flashing, and there were electrical sparks coming off of it, and they
+      were observing this for some minutes,
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+      title: William F. Hamilton
+    provenance_chain:
+      origin_kind: named
+      origin: Ray and Nancy
+      relay:
+        - William F. Hamilton
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
+        title: Nancy
+        slug: nancy
+      - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
+        title: 1988 Ray and Nancy Tehachapi encounter
+        slug: 1988-ray-and-nancy-tehachapi-encounter
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: '1988'
+    date_end: null
+    location_in_record: 00:03:54.9-00:04:04.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+      record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology Being Tested'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+      content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+      friendly_name: null
+  - claim_id: ba2b8f4d-0598-4f23-977d-a18f5a12fcfa
+    claim_hash: 10c93b501cb58071151edee51a21657cac4239c3131509b19c74ecdbd820de76
+    content: Ray and Nancy noticed the first dawn light appearing over the eastern horizon shortly after observing the orb,
+      and experienced missing time.
+    original_excerpt: when next they noticed that the first dawn rays of sunlight were coming up over the eastern horizon,
+      and they had some missing time.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+      title: William F. Hamilton
+    provenance_chain:
+      origin_kind: named
+      origin: Ray and Nancy
+      relay:
+        - William F. Hamilton
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
+        title: Nancy
+        slug: nancy
+      - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
+        title: 1988 Ray and Nancy Tehachapi encounter
+        slug: 1988-ray-and-nancy-tehachapi-encounter
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: '1988'
+    date_end: null
+    location_in_record: 00:04:05.2-00:04:14.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+      record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology Being Tested'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+      content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+      friendly_name: null
+  - claim_id: 1fa1791d-1049-4977-8be9-bea552576e6d
+    claim_hash: 60c23fe743df789f294af73a7c83c15ebfc8310d09082b8adaab6ff7f7b331b2
+    content: Under hypnosis, Ray recounted being taken underground to what appeared to him to be a military installation with
+      electronics, console panels, and uniformed military men.
+    original_excerpt: And Ray was put under hypnosis, and he told a very bizarre tale of being taken underground to what appeared
+      to him to be a military installation. There were electronics, there were console panels, there were military uniformed
+      men walking around.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+      title: William F. Hamilton
+    provenance_chain:
+      origin_kind: named
+      origin: Ray
+      relay:
+        - hypnosis session
+        - William F. Hamilton
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
+        title: 1988 Ray and Nancy Tehachapi encounter
+        slug: 1988-ray-and-nancy-tehachapi-encounter
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: '1988'
+    date_end: null
+    location_in_record: 00:04:15.8-00:04:32.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+      record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology Being Tested'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+      content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+      friendly_name: null
+  - claim_id: 31825b96-533e-4712-a51f-6ef3fbf6bfd5
+    claim_hash: 40622afca6eb10981f6b8161b9b8a6ad6006e784dc3cd5308ef64e282561fcc8
+    content: Under hypnosis, Ray recounted seeing Nancy placed on a table surrounded by small grey alien beings with large
+      heads and almond-shaped eyes.
+    original_excerpt: And he saw Nancy being put on this table, and surrounding the table were what he described as little
+      gray alien beings the typical large-headed almond-shaped eyes, what have you.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+      title: William F. Hamilton
+    provenance_chain:
+      origin_kind: named
+      origin: Ray
+      relay:
+        - hypnosis session
+        - William F. Hamilton
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
+        title: Nancy
+        slug: nancy
+      - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
+        title: 1988 Ray and Nancy Tehachapi encounter
+        slug: 1988-ray-and-nancy-tehachapi-encounter
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: '1988'
+    date_end: null
+    location_in_record: 00:04:33.9-00:04:45.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+      record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology Being Tested'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+      content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+      friendly_name: null
+  - claim_id: 73754a87-ef1c-4657-adf9-4f9c3a57d63c
+    claim_hash: 926be5360dce55705d9e40c5fae292a1701560d36c7914883e22f2b995be1919
+    content: During his hypnosis session, Ray became very emotional and appeared mentally blocked when recalling details of
+      what happened to Nancy.
+    original_excerpt: And at that point in his narration, he got very emotional and he seemed to be blocked mentally in recalling
+      the details of what happened to Nancy. He was very disturbed about this.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+      title: William F. Hamilton
+    provenance_chain:
+      origin_kind: speaker
+      origin: William F. Hamilton
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
+        title: 1988 Ray and Nancy Tehachapi encounter
+        slug: 1988-ray-and-nancy-tehachapi-encounter
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: '1988'
+    date_end: null
+    location_in_record: 00:04:46.4-00:05:00.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+      record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology Being Tested'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+      content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+      friendly_name: null
+  - claim_id: fe6a2087-4865-4ae4-945a-4ee8a6a898e1
+    claim_hash: b4bff16f641ac5d1a6171c151e5d33f057273925a10f75e1f124ff472cf31b4d
+    content: William F. Hamilton considered that Ray was going through genuine emotion during the hypnosis session.
+    original_excerpt: And I considered that he was going through some genuine emotion.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+      title: William F. Hamilton
+    provenance_chain:
+      origin_kind: speaker
+      origin: William F. Hamilton
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
+        title: 1988 Ray and Nancy Tehachapi encounter
+        slug: 1988-ray-and-nancy-tehachapi-encounter
+      - node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+        title: William F. Hamilton
+        slug: william-f-hamilton
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: '1988'
+    date_end: null
+    location_in_record: 00:05:01.0-00:05:03.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+      record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology Being Tested'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+      content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+      friendly_name: null
+  - claim_id: cf23d3c1-48ee-480b-babb-61f885a49804
+    claim_hash: 561bcb1e456106a5b92eaa3c89d38b2e9d120829ef1bc959e2b6a0c4415bee18
+    content: Ray and Nancy reported their 1988 encounter to someone at USA, California, Edwards Air Force Base.
+    original_excerpt: Now they reported this, by the way, to somebody at Edwards Air Force Base because they thought, what's
+      going on here, right?
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+      title: William F. Hamilton
+    provenance_chain:
+      origin_kind: named
+      origin: Ray and Nancy
+      relay:
+        - William F. Hamilton
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
+        title: Nancy
+        slug: nancy
+      - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
+        title: 1988 Ray and Nancy Tehachapi encounter
+        slug: 1988-ray-and-nancy-tehachapi-encounter
+      - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+        title: USA, California, Edwards Air Force Base
+        slug: california-edwards-air-force-base-usa
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: '1988'
+    date_end: null
+    location_in_record: 00:05:04.3-00:05:11.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+      record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology Being Tested'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+      content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+      friendly_name: null
+  - claim_id: e3632d45-3c7a-47fe-8592-2d8f3a4860e6
+    claim_hash: ddfe20c6956c6f5f23fe377c5ddea614395d802952a8a03cfc195adea51e30a0
+    content: After reporting the encounter, Ray and Nancy experienced harassment, decided to withdraw, and stopped speaking
+      to William F. Hamilton.
+    original_excerpt: And they had some harassment afterwards and they decided to withdraw and they wouldn't even talk to
+      me anymore.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+      title: William F. Hamilton
+    provenance_chain:
+      origin_kind: speaker
+      origin: William F. Hamilton
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
+        title: Nancy
+        slug: nancy
+      - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
+        title: 1988 Ray and Nancy Tehachapi encounter
+        slug: 1988-ray-and-nancy-tehachapi-encounter
+      - node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+        title: William F. Hamilton
+        slug: william-f-hamilton
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: '1988'
+    date_end: null
+    location_in_record: 00:05:12.0-00:05:18.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+      record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology Being Tested'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+      content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+      friendly_name: null
+  - claim_id: 283250af-5d12-4789-9b40-15a4af0f937d
+    claim_hash: 45420488c2413afb79bbac0e75b3ff4b526bdf00cb0585e9bf9bae1b12fd1768
+    content: David Fravor's cousin Chad and cousin Ray lived near him in the same neighbourhood where they grew up as part
+      of an Italian family.
+    original_excerpt: we all grew up in the same neighborhood uh we kind of they had Italian side of the family that's how
+      we grew up so it was my house right down the street was my cousin Chad and then right around the corner is my cousin
+      Ray
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
+        title: Chad
+        slug: chad
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: null
+    date_end: null
+    location_in_record: 00:13:18.9-00:13:29.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 86343c7a-0100-42cc-803d-37a9c0d48668
+    claim_hash: 630cd434675f95cc86ed4e51a42c8d4040b1683239a96a63905b3e735433d28b
+    content: David Fravor said he would drop everything and travel immediately if his cousins Ray or Chad ever needed him.
+    original_excerpt: I said, if one of those, if Ray or Chad ever needs me, if something happens... It's I'm booking the
+      ticket and I don't give a shit what it costs because I will be there
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
+        title: Chad
+        slug: chad
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: null
+    date_end: null
+    location_in_record: 03:54:34.0-03:54:43.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 33645fc1-b5b0-49ed-b109-28ea8ac3d806
+    claim_hash: 957bf176dde615ac01bbb65cb31898647f6ab75787a72a61b9416638c267471d
+    content: David Fravor grew up with his cousins Chad and Ray, along with two other family members, and considers them like
+      brothers.
+    original_excerpt: there's my cousin Chad, and I got two boys, there's 14 of us, but there's only two boys, there's three
+      of us together... my cousins who are like my brothers
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
+        title: Chad
+        slug: chad
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+        title: Ray
+        slug: ray
+    date: null
+    date_end: null
+    location_in_record: 240-243
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2

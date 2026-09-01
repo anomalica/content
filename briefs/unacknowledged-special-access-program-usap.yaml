@@ -1,0 +1,224 @@
+schema: anomalica/brief/1
+brief_hash: 86c9088dd31c1a58cf468f860d2c08203f8be55aeeabfd9f619310ab68d5989f
+page:
+  kind: entity
+  node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
+  node_type: topic
+  title: unacknowledged special access program (USAP )
+  slug: unacknowledged-special-access-program-usap
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1252
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and
+    are carried through; full bodies and transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+- node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+  title: Jason Samosa
+  node_type: person
+  slug: jason-samosa
+  shared_claims: 2
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 2
+- node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
+  title: Collins Elite
+  node_type: organisation
+  slug: collins-elite
+  shared_claims: 1
+- node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+  title: Immaculate Constellation
+  node_type: project
+  slug: immaculate-constellation
+  shared_claims: 1
+- node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+  title: Skywatcher
+  node_type: organisation
+  slug: skywatcher
+  shared_claims: 1
+- node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+  title: crash retrieval and reverse engineering
+  node_type: topic
+  slug: crash-retrieval-and-reverse-engineering
+  shared_claims: 1
+claims:
+- claim_id: 2da7bea5-cea2-47b0-9df5-8cc3ba96bcb3
+  claim_hash: f993f664ae9dbaf10f97e69b0c6bfc767443a3b79d90b6938e368446b5af7021
+  content: Immaculate Constellation operates under an unacknowledged special access
+    program (USAP), according to Michael Schellenberger's report.
+  original_excerpt: and operates under an unacknowledged special access program, USAP.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: document
+    origin: Michael Schellenberger's report on Public
+    relay:
+    - Michael Schellenberger
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
+    title: unacknowledged special access program (USAP )
+    slug: unacknowledged-special-access-program-usap
+  date: null
+  date_end: null
+  location_in_record: 00:03:02.0-00:03:07.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: d08b4223-48aa-4f62-a33e-a34e4da61ed5
+  claim_hash: 3a82800b8fde1c2dd2fe7e2a5c6a3545c35945b6c49f75285a21419815fa8793
+  content: Jason Samosa considers that special access programs (SAPs) did not exist
+    under that terminology in 1952, but that the Collins Elite funding arrangement
+    resembles one.
+  original_excerpt: I don't think special access programs were a thing then by that
+    terminology, but it sounds like that
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jason Samosa
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
+    title: Collins Elite
+    slug: collins-elite
+  - node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
+    title: unacknowledged special access program (USAP )
+    slug: unacknowledged-special-access-program-usap
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    slug: jason-samosa
+  date: null
+  date_end: null
+  location_in_record: 00:17:34.8-00:17:40.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: f9ca144e-8259-47ee-be80-82f369f62b00
+  claim_hash: 486d536e623ab5725cb7c87386d23c8d653a5e92af3abc4bbb7d586648f49e8a
+  content: Skywatcher is a modern version of programmes that attempt to summon UFOs,
+    and such summoning work has been carried out for some time within special access
+    programmes.
+  original_excerpt: you have these summoning programs of UFOs, like Skywatcher is
+    this kind of modern version of this or whatever. But it seems like we've been
+    doing this kind of in, you know, special access programs for a while.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michels
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+    title: Skywatcher
+    slug: skywatcher
+  - node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
+    title: unacknowledged special access program (USAP )
+    slug: unacknowledged-special-access-program-usap
+  date: null
+  date_end: null
+  location_in_record: 01:06:32.5-01:06:42.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 1cd682d4-8078-479a-b297-ca037dc2fbc3
+  claim_hash: 590f10ff036021dcf871a43c2834c25846b974c94e7d3578a14a091d029276ae
+  content: 'Jason Samosa counts five or six stages of UFO disclosure as already delivered:
+    that there is something in the air, that its nature is unknown, that some of these
+    objects have crashed, that they are very likely not Russian or Chinese, that bodies
+    have been recovered, and that there is a secret and sensitive programme.'
+  original_excerpt: So we've had, there's something in the air. We don't know what
+    it is, but we've had, um, some of these things have crashed. It's very likely
+    not Russia or China. We've got the bodies, there's a secret program and it's sensitive.
+    We've been through like five or six courses.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jason Samosa
+    relay: []
+  attribution_mode: unknown
+  attachment: unreviewed
+  node_refs:
+  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+    title: crash retrieval and reverse engineering
+    slug: crash-retrieval-and-reverse-engineering
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
+    title: unacknowledged special access program (USAP )
+    slug: unacknowledged-special-access-program-usap
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    slug: jason-samosa
+  date: null
+  date_end: null
+  location_in_record: 02:07:58.0-02:08:09.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

@@ -1,0 +1,217 @@
+schema: anomalica/brief/1
+brief_hash: b52826841e486db710751ccc6442ac15162e7733cea89c9a95ce735bcee41a7e
+page:
+  kind: entity
+  node_id: 8eaaff01-6619-404c-a982-c605217c464a
+  node_type: organisation
+  title: Canadian Space Agency (CSA)
+  slug: canadian-space-agency-csa
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1211
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: a15491db-df02-4efd-83ff-0866fcec6e19
+    title: Canadian Space Agency Artemis II mission patch
+    node_type: object
+    slug: canadian-space-agency-artemis-ii-mission-patch
+    shared_claims: 2
+  - node_id: ca7cb054-9685-4497-ae2a-17102a2d2a0c
+    title: Artemis II
+    node_type: project
+    slug: artemis-ii
+    shared_claims: 1
+  - node_id: 0e7b0f3f-7c03-4b9c-9994-2221edcba605
+    title: Bigfoot (Sasquatch)
+    node_type: topic
+    slug: bigfoot-sasquatch
+    shared_claims: 1
+  - node_id: faf595ba-dfa0-4ba1-9bc1-163d51dc90d0
+    title: First Nations
+    node_type: topic
+    slug: first-nations
+    shared_claims: 1
+  - node_id: 0e75f647-2699-41e0-a0d1-66078a8a4105
+    title: Jeremy Hansen
+    node_type: person
+    slug: jeremy-hansen
+    shared_claims: 1
+  - node_id: 59a12e6f-06bb-4122-a3aa-1f6dc945ea33
+    title: Phobos Reconnaissance and International Mars Exploration (PRIME) Lander
+    node_type: object
+    slug: phobos-reconnaissance-and-international-mars-exploration-prime-lander
+    shared_claims: 1
+  - node_id: ca610bc7-9f84-4e2c-b11d-a5c0514bc4e4
+    title: Phobos Reconnaissance and International Mars Exploration (PRIME) Mission
+    node_type: project
+    slug: phobos-reconnaissance-and-international-mars-exploration-prime-mission
+    shared_claims: 1
+claims:
+  - claim_id: cd05398b-4698-4c72-a5b7-3fdd48987776
+    claim_hash: 3f934380f7083a09e91bf77895776f04a4c9d6c21e39cb318406f9b29cb233ab
+    content: The Phobos Reconnaissance and International Mars Exploration (PRIME) Mission was selected for conceptual study
+      in 2007 by the Canadian Space Agency (CSA).
+    original_excerpt: was selected for conceptual study in 2007 by the Canadian Space Agency
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8eaaff01-6619-404c-a982-c605217c464a
+        title: Canadian Space Agency (CSA)
+        slug: canadian-space-agency-csa
+      - node_id: ca610bc7-9f84-4e2c-b11d-a5c0514bc4e4
+        title: Phobos Reconnaissance and International Mars Exploration (PRIME) Mission
+        slug: phobos-reconnaissance-and-international-mars-exploration-prime-mission
+    date: '2007'
+    date_end: null
+    location_in_record: char:677-741
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ee2ee3c5-355e-4a0b-90eb-ca963573a7a3
+      record_title: The PRIME (Phobos Reconnaissance and International Mars Exploration) Mission and Mars Sample Return
+      record_date: '2008'
+      record_reference: https://www.lpi.usra.edu/meetings/lpsc2008/pdf/2268.pdf
+      content_hash: sha256:47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb6560294d732
+      friendly_name: 2008-pdf-the-prime-phobos-reconnaissance-and-international-mars
+  - claim_id: 277bbc86-8aad-45d2-a71b-67df6ae6d3bf
+    claim_hash: 529fe7602b7419d41b7375d0db4a283e85951803c841c63d9bf32a7f91390db4
+    content: The PRIME Lander mission concept study was selected and supported by the Canadian Space Agency (CSA) as part
+      of its Mars mission concept study programme.
+    original_excerpt: The PRIME Lander mission concept study was selected and supported by the Canadian Space Agency (CSA)
+      as part of its Mars mission concept study program.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 59a12e6f-06bb-4122-a3aa-1f6dc945ea33
+        title: Phobos Reconnaissance and International Mars Exploration (PRIME) Lander
+        slug: phobos-reconnaissance-and-international-mars-exploration-prime-lander
+      - node_id: 8eaaff01-6619-404c-a982-c605217c464a
+        title: Canadian Space Agency (CSA)
+        slug: canadian-space-agency-csa
+    date: null
+    date_end: null
+    location_in_record: char:9820-9963
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ee2ee3c5-355e-4a0b-90eb-ca963573a7a3
+      record_title: The PRIME (Phobos Reconnaissance and International Mars Exploration) Mission and Mars Sample Return
+      record_date: '2008'
+      record_reference: https://www.lpi.usra.edu/meetings/lpsc2008/pdf/2268.pdf
+      content_hash: sha256:47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb6560294d732
+      friendly_name: 2008-pdf-the-prime-phobos-reconnaissance-and-international-mars
+  - claim_id: 1cf14c42-04ea-4cb7-bb34-99a7da23f4e2
+    claim_hash: 15c6a87a1b8c1f32ce76f365d0deb41c01529152aa55e7a3533e385a4dd59fd9
+    content: The Canadian Space Agency (CSA) has a mission patch worn by Jeremy Hansen, the astronaut flying on Artemis II
+      to the Moon.
+    original_excerpt: they have a patch uh that they put on uh Jeremy i forget his last name but he was uh you know the the
+      pilot and astronaut that went on Artemis 2 for the Moon thing
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e75f647-2699-41e0-a0d1-66078a8a4105
+        title: Jeremy Hansen
+        slug: jeremy-hansen
+      - node_id: 8eaaff01-6619-404c-a982-c605217c464a
+        title: Canadian Space Agency (CSA)
+        slug: canadian-space-agency-csa
+      - node_id: a15491db-df02-4efd-83ff-0866fcec6e19
+        title: Canadian Space Agency Artemis II mission patch
+        slug: canadian-space-agency-artemis-ii-mission-patch
+      - node_id: ca7cb054-9685-4497-ae2a-17102a2d2a0c
+        title: Artemis II
+        slug: artemis-ii
+    date: null
+    date_end: null
+    location_in_record: 00:40:13.4-00:40:24.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: acb79be3-914f-4a8c-85eb-fcc6960d1c87
+    claim_hash: b835db4b7b79e3d284d362963c25319b3347ee7445aa64cd8b040f9f74c6808a
+    content: The Canadian Space Agency (CSA) Artemis II mission patch features a Bigfoot, along with other animals such as
+      an orca, in a design taken from First Nations imagery in which each animal represents something different.
+    original_excerpt: the canadian patch features a bigfoot on it it was really quite uh nice... they had like all these different
+      animals because it was taken from first nations and sort of you know the orca and this and then that represents different
+      things and on there was like the you know the walking sasquatch
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e7b0f3f-7c03-4b9c-9994-2221edcba605
+        title: Bigfoot (Sasquatch)
+        slug: bigfoot-sasquatch
+      - node_id: 8eaaff01-6619-404c-a982-c605217c464a
+        title: Canadian Space Agency (CSA)
+        slug: canadian-space-agency-csa
+      - node_id: a15491db-df02-4efd-83ff-0866fcec6e19
+        title: Canadian Space Agency Artemis II mission patch
+        slug: canadian-space-agency-artemis-ii-mission-patch
+      - node_id: faf595ba-dfa0-4ba1-9bc1-163d51dc90d0
+        title: First Nations
+        slug: first-nations
+    date: null
+    date_end: null
+    location_in_record: 00:40:26.2-00:40:47.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null

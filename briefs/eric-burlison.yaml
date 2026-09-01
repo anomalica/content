@@ -1,984 +1,1090 @@
 schema: anomalica/brief/1
-brief_hash: 233be3f25417a5665914b68102293ac310bb34fa06178d49ce4edca8f7b6743c
+brief_hash: 499180ac32ed08d0dbf382de5651792f733888f2d54bbb4f425d55aae6cb2613
 page:
   kind: entity
   node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
   node_type: person
   title: Eric Burlison
   slug: eric-burlison
-  claim_count: 21
-  claim_count_total: 21
+  claim_count: 24
+  claim_count_total: 24
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 24
+  tokens_estimated: 7108
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 24
 related_nodes:
-- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-  title: David Charles Grusch
-  node_type: person
-  slug: david-charles-grusch
-  shared_claims: 9
-- node_id: 1d228903-0bd7-401a-9902-2656e6e85650
-  title: Anna Paulina Luna
-  node_type: person
-  slug: anna-paulina-luna
-  shared_claims: 4
-- node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
-  title: Matt Gaetz
-  node_type: person
-  slug: matt-gaetz
-  shared_claims: 4
-- node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
-  title: Tim Burchett
-  node_type: person
-  slug: tim-burchett
-  shared_claims: 4
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 3
-- node_id: f813951c-0161-4bab-ad93-06d5511adf8b
-  title: Alexandria Ocasio-Cortez
-  node_type: person
-  slug: alexandria-ocasio-cortez
-  shared_claims: 2
-- node_id: 1017eefe-05d5-4310-bc45-827bb449863f
-  title: Andrew Ogles
-  node_type: person
-  slug: andrew-ogles
-  shared_claims: 2
-- node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
-  title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
-  node_type: event
-  slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
-  shared_claims: 2
-- node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
-  title: Legacy Program
-  node_type: project
-  slug: legacy-program
-  shared_claims: 2
-- node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-  title: Office of the Director of National Intelligence (ODNI)
-  node_type: organisation
-  slug: office-of-the-director-of-national-intelligence-odni
-  shared_claims: 2
-- node_id: 1ef2907b-d608-4a71-b164-05ea785b5765
-  title: USA, Florida, Eglin Air Force Base
-  node_type: place
-  slug: florida-eglin-air-force-base-usa
-  shared_claims: 2
-- node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
-  title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
-  node_type: project
-  slug: advanced-aerospace-weapon-system-applications-program-aawsap
-  shared_claims: 1
-- node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-  title: All-domain Anomaly Resolution Office (AARO)
-  node_type: organisation
-  slug: all-domain-anomaly-resolution-office-aaro
-  shared_claims: 1
-- node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
-  title: Defense Intelligence Agency (DIA)
-  node_type: organisation
-  slug: defense-intelligence-agency-dia
-  shared_claims: 1
-- node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
-  title: Glenn Grothman
-  node_type: person
-  slug: glenn-grothman
-  shared_claims: 1
-- node_id: de3e896e-c2b5-4cd6-8507-dd4f3acf4486
-  title: James Comer
-  node_type: person
-  slug: james-comer
-  shared_claims: 1
-- node_id: cb9ba091-aeb7-41fd-8753-15754baa8762
-  title: Jamie Raskin
-  node_type: person
-  slug: jamie-raskin
-  shared_claims: 1
-- node_id: 4d8a72a4-7ecf-4d18-b634-573e09b75b4f
-  title: Nick Langworthy
-  node_type: person
-  slug: nick-langworthy
-  shared_claims: 1
-- node_id: e4639aa7-0f1d-43c1-894d-19dba9978b31
-  title: Task Force on the Declassification of Federal Secrets
-  node_type: organisation
-  slug: task-force-on-the-declassification-of-federal-secrets
-  shared_claims: 1
-- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-  title: United States Congress
-  node_type: organisation
-  slug: united-states-congress
-  shared_claims: 1
-- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-  title: United States Department of Defense (DoD)
-  node_type: organisation
-  slug: united-states-department-of-defense-dod
-  shared_claims: 1
-- node_id: 3cba540c-c46f-42fc-8265-e97e17cc3d3d
-  title: United States Department of Justice (DOJ)
-  node_type: organisation
-  slug: united-states-department-of-justice-doj
-  shared_claims: 1
-claims:
-- claim_id: 771089ea-4d90-4e9c-979c-a78b450716cc
-  claim_hash: 97b4736681ef703ffda33668e6fccd221ef4858428b1eb63da5a60845c034591
-  content: If not for Matt Gaetz's involvement, Tim Burchett, Anna Paulina Luna, and
-    Eric Burlison would still be at Eglin Air Force Base trying to get answers about
-    UAP.
-  original_excerpt: it is not in my notes here but Matt Gaetz—if it had not been for
-    Matt Gaetz, myself, him, and Luna would still be down at Eglin Air Force Base
-    trying to get some answers.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
-    title: Tim Burchett
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tim Burchett
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 9
   - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
     title: Anna Paulina Luna
+    node_type: person
     slug: anna-paulina-luna
-  - node_id: 1ef2907b-d608-4a71-b164-05ea785b5765
-    title: USA, Florida, Eglin Air Force Base
-    slug: florida-eglin-air-force-base-usa
+    shared_claims: 4
   - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
     title: Matt Gaetz
+    node_type: person
     slug: matt-gaetz
+    shared_claims: 4
   - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
     title: Tim Burchett
+    node_type: person
     slug: tim-burchett
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  date: null
-  date_end: null
-  location_in_record: char:10458-10620
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 9725d5f4-e744-4876-a353-c6064d8da600
-  claim_hash: fc9578813e32fa44b7037bc9da650c8b2ded760fa2174bc82f13cf60db8206d0
-  content: Tim Burchett, Matt Gaetz, Anna Paulina Luna, and Eric Burlison visited
-    Eglin Air Force Base to try to get answers on UAP.
-  original_excerpt: if it had not been for Matt Gaetz, myself, him, and Luna would
-    still be down at Eglin Air Force Base trying to get some answers.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
-    title: Tim Burchett
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tim Burchett
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
-    title: Anna Paulina Luna
-    slug: anna-paulina-luna
-  - node_id: 1ef2907b-d608-4a71-b164-05ea785b5765
-    title: USA, Florida, Eglin Air Force Base
-    slug: florida-eglin-air-force-base-usa
-  - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
-    title: Matt Gaetz
-    slug: matt-gaetz
-  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
-    title: Tim Burchett
-    slug: tim-burchett
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  date: '2023-07-26'
-  date_end: null
-  location_in_record: char:10500-10620
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: c1ffe66f-44ad-454e-9da3-c137060f20b5
-  claim_hash: b7e44f8e807d0097765051591663832168827bcbfca194fed9f6bd5638bf5d7e
-  content: Representatives Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy,
-    Raskin, and Ocasio-Cortez were also present at the 2023-07-26 House hearing on
-    Unidentified Anomalous Phenomena.
-  original_excerpt: 'Also present: Representatives Luna, Burlison, Gaetz, Burchett,
-    Comer, Ogles, Langworthy, Raskin, and Ocasio-Cortez.'
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: the printed hearing volume
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1017eefe-05d5-4310-bc45-827bb449863f
-    title: Andrew Ogles
-    slug: andrew-ogles
-  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
-    title: Anna Paulina Luna
-    slug: anna-paulina-luna
-  - node_id: 4d8a72a4-7ecf-4d18-b634-573e09b75b4f
-    title: Nick Langworthy
-    slug: nick-langworthy
-  - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
-    title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
-    slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
-  - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
-    title: Matt Gaetz
-    slug: matt-gaetz
-  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
-    title: Tim Burchett
-    slug: tim-burchett
-  - node_id: cb9ba091-aeb7-41fd-8753-15754baa8762
-    title: Jamie Raskin
-    slug: jamie-raskin
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  - node_id: de3e896e-c2b5-4cd6-8507-dd4f3acf4486
-    title: James Comer
-    slug: james-comer
+    shared_claims: 4
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 3
   - node_id: f813951c-0161-4bab-ad93-06d5511adf8b
     title: Alexandria Ocasio-Cortez
+    node_type: person
     slug: alexandria-ocasio-cortez
-  date: '2023-07-26'
-  date_end: null
-  location_in_record: char:5085-5193
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 935ed13e-4329-4d08-80c6-2788a588a6d6
-  claim_hash: 5f92b778a6418a9c9665892db62ff319e8dd62efa72e6c47b185aab1d648d67c
-  content: Glenn Grothman waived Tim Burchett, Anna Paulina Luna, Matt Gaetz, Eric
-    Burlison, Alexandria Ocasio-Cortez, and Andy Ogles onto the Subcommittee for the
-    purpose of participating in the 2023-07-26 hearing.
-  original_excerpt: 'Additionally, without objection, the following Members are waived
-    on to the Subcommittee for the purpose of participating in today''s hearing: Mr.
-    Burchett of Tennessee, Ms. Luna of Florida, Mr. Gaetz of Florida, Mr. Burlison
-    of Missouri, Ms. Ocasio-Cortez of New York, and Mr. Ogles of Tennessee.'
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
-    title: Glenn Grothman
-  provenance_chain:
-    origin_kind: speaker
-    origin: Glenn Grothman
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 2
   - node_id: 1017eefe-05d5-4310-bc45-827bb449863f
     title: Andrew Ogles
+    node_type: person
     slug: andrew-ogles
-  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
-    title: Anna Paulina Luna
-    slug: anna-paulina-luna
+    shared_claims: 2
   - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
     title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+    node_type: event
     slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
-  - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
-    title: Matt Gaetz
-    slug: matt-gaetz
-  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
-    title: Tim Burchett
-    slug: tim-burchett
-  - node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
-    title: Glenn Grothman
-    slug: glenn-grothman
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  - node_id: f813951c-0161-4bab-ad93-06d5511adf8b
-    title: Alexandria Ocasio-Cortez
-    slug: alexandria-ocasio-cortez
-  date: '2023-07-26'
-  date_end: null
-  location_in_record: char:5382-5668
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 759ea0cb-9454-40d6-a5cf-253703128ea5
-  claim_hash: e08494e80553767183f59195aef8d4677b533f8f5f6fe945b9db9f00354e1f81
-  content: Eric Burlison announced David Grusch as a Special Advisor.
-  original_excerpt: Congressman Eric Burlison (R-MO-07) is pleased to announce David
-    Grusch, a decorated former U.S. Air Force officer and senior civilian intelligence
-    official, as a Special Advisor.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: '2025-03-27'
-  date_end: null
-  location_in_record: char:131-302
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
-    record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch
-      as Special Advisor
-    record_date: '2025-03-27'
-    record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
-    content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
-    friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
-- claim_id: 166a21c8-313a-4461-b5d6-75968472d2b1
-  claim_hash: 2853c0d8be44e0808ce81d85cbdae49c1acbd10150ec1274a680e1dd0152481b
-  content: David Grusch is immensely humbled and deeply honoured to join Eric Burlison
-    and his team of professionals in pushing for government transparency.
-  original_excerpt: '"I''m both immensely humbled and deeply honored to join Congressman
-    Burlison and his amazing team of professionals in pushing for government transparency,"
-    said Grusch.'
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: char:1904-2066
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
-    record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch
-      as Special Advisor
-    record_date: '2025-03-27'
-    record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
-    content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
-    friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
-- claim_id: 45334181-cfe9-4519-b7d2-5cbc55e0418d
-  claim_hash: dcd96ea3f0e8fc2d23ed240337d4a2d242d7d2902fdfa83c7be6c033fc4f16f1
-  content: David Grusch will use his expertise to support Eric Burlison and help the
-    United States Congress restore full oversight while enabling the Legislative Branch's
-    ability to investigate and hold accountable those who broke the law and lied to
-    Congress, the Executive Office of the President, the Office of the Director of
-    National Intelligence, and the United States Department of Justice.
-  original_excerpt: I will use all my expertise to support Rep. Burlison and help
-    the US Congress restore full oversight while enabling the Legislative Branch's
-    ability to investigate and hold those accountable who have broken the law and
-    lied not only to our Congress, but also to the Executive Office of the President,
-    Director of National Intelligence, and Department of Justice
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3cba540c-c46f-42fc-8265-e97e17cc3d3d
-    title: United States Department of Justice (DOJ)
-    slug: united-states-department-of-justice-doj
-  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-    title: United States Congress
-    slug: united-states-congress
+    shared_claims: 2
+  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+    title: Legacy Program
+    node_type: project
+    slug: legacy-program
+    shared_claims: 2
   - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
     title: Office of the Director of National Intelligence (ODNI)
+    node_type: organisation
     slug: office-of-the-director-of-national-intelligence-odni
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: char:2214-2568
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
-    record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch
-      as Special Advisor
-    record_date: '2025-03-27'
-    record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
-    content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
-    friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
-- claim_id: bb5045aa-883d-4765-b6ab-e9812961d7df
-  claim_hash: 02719a7c857e069ff99a3e9cdbf16da5557d859a387d94868d07924a7aea8a65
-  content: Eric Burlison is a strong advocate for government transparency.
-  original_excerpt: Rep. Burlison, a strong advocate for government transparency,
-    underscores his commitment to government accountability and transparency on the
-    UAP topic with this appointment.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  date: null
-  date_end: null
-  location_in_record: char:2580-2742
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
-    record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch
-      as Special Advisor
-    record_date: '2025-03-27'
-    record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
-    content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
-    friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
-- claim_id: bc59b51f-7498-4aff-a6c9-26b9f606d413
-  claim_hash: ba81382eb13c0e499b53398b9d2be7ef79ce1090cff66df8fe5f3fbeaa29c7e2
-  content: Eric Burlison underscores his commitment to government accountability and
-    transparency on the Unidentified Anomalous Phenomena (UAP) topic with the appointment
-    of David Grusch as Special Advisor.
-  original_excerpt: underscores his commitment to government accountability and transparency
-    on the UAP topic with this appointment
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: char:2642-2742
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
-    record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch
-      as Special Advisor
-    record_date: '2025-03-27'
-    record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
-    content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
-    friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
-- claim_id: aca2c343-62fc-4a9b-a375-d55eb5e1488e
-  claim_hash: 5a1529ac61d88db62c5f30c6ff254bc9c79f6bb23039f257138b523f89f4ca44
-  content: David Grusch will contribute his expertise to Eric Burlison's efforts to
-    promote transparency regarding Unidentified Anomalous Phenomena (UAP) and other
-    matters on the Task Force on the Declassification of Federal Secrets.
-  original_excerpt: will contribute his expertise to Rep. Burlison's efforts to promote
-    transparency regarding UAP and other matters on the Task Force on the Declassification
-    of Federal Secrets
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  - node_id: e4639aa7-0f1d-43c1-894d-19dba9978b31
-    title: Task Force on the Declassification of Federal Secrets
-    slug: task-force-on-the-declassification-of-federal-secrets
-  date: null
-  date_end: null
-  location_in_record: char:495-661
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
-    record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch
-      as Special Advisor
-    record_date: '2025-03-27'
-    record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
-    content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
-    friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
-- claim_id: 3dc20078-d173-4aae-8334-3f378c4aa134
-  claim_hash: 66ec072f84bda7a32242b431149ca38e7ce315fc57d65ff695d2448200e2aac7
-  content: The American people deserve answers about Unidentified Anomalous Phenomena
-    (UAP).
-  original_excerpt: '"The American people deserve answers about UAPs," said Rep. Burlison.'
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-  provenance_chain:
-    origin_kind: speaker
-    origin: Eric Burlison
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  date: null
-  date_end: null
-  location_in_record: char:673-735
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
-    record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch
-      as Special Advisor
-    record_date: '2025-03-27'
-    record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
-    content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
-    friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
-- claim_id: f13877ef-b5f2-4f6a-9404-af14301f7784
-  claim_hash: c988ac7bcaf77afc6275de5ced65b4c5ee29e0944eef5c8215d830efb321cd3b
-  content: David Grusch has risked his career to expose critical information.
-  original_excerpt: '"David Grusch has risked his career to expose critical information."'
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-  provenance_chain:
-    origin_kind: speaker
-    origin: Eric Burlison
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: char:749-803
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
-    record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch
-      as Special Advisor
-    record_date: '2025-03-27'
-    record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
-    content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
-    friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
-- claim_id: bbfdcf11-0549-4c24-b17a-68d8fa3022d4
-  claim_hash: 3f7b7d40fd129e95269dcd10a4654ffecd5c20c8d5c3bf43563c13055431dc5a
-  content: Eric Burlison considers David Grusch's expertise vital to efforts to uncover
-    the truth about Unidentified Anomalous Phenomena (UAP) and hold the government
-    accountable.
-  original_excerpt: '"His expertise will be vital as we work to uncover the truth
-    and hold the government accountable."'
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-  provenance_chain:
-    origin_kind: speaker
-    origin: Eric Burlison
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: char:816-900
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
-    record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch
-      as Special Advisor
-    record_date: '2025-03-27'
-    record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
-    content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
-    friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
-- claim_id: 916ec08f-3882-4473-973e-4cd5f3c66955
-  claim_hash: 283934aac893f16756e704f77c76a7d25f77dc719362a22a57847584fa7d7e70
-  content: Eric Burlison was briefed about an event at a military installation in
-    the Western United States where plasmoid-type phenomena were observed.
-  original_excerpt: when I was briefed about the event that happened recently in the
-    Western United States, the military installation, where they saw those plasmoid
-    type things,
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-  provenance_chain:
-    origin_kind: speaker
-    origin: Eric Burlison
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  date: null
-  date_end: null
-  location_in_record: 00:16:48.6-00:16:55.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: a777d4f3-a0c1-44a7-a54d-b9f753c801e4
-  claim_hash: b0ac776eacfebd94e029d827993559dd4c2042283e61f63c7efea7d6ffdc31a5
-  content: When Eric Burlison asked officials from the Office of the Director of National
-    Intelligence (ODNI) what the plasmoid-type phenomena observed at a Western United
-    States military installation were, the officials said they did not know, and confirmed
-    their top scientists also did not know.
-  original_excerpt: Sitting in that room with ODNI, I asked the question, what in
-    the world are these things doing? And they said, we don't know. And I said, surely
-    you have your top scientists looking into this. What do they say? They said, sir,
-    we really don't.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-  provenance_chain:
-    origin_kind: speaker
-    origin: Eric Burlison
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-    title: Office of the Director of National Intelligence (ODNI)
-    slug: office-of-the-director-of-national-intelligence-odni
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  date: null
-  date_end: null
-  location_in_record: 00:16:56.9-00:17:09.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: 2ea05986-9db0-4385-8306-25337c966805
-  claim_hash: d26385026bfbaf9220dc1356a405d83ba6ef5083907571a8ea3d149cb9219f6e
-  content: Eric Burlison distinguishes the Advanced Aerospace Weapon System Applications
-    Program (AAWSAP) from what people describe as the legacy program, noting they
-    are not necessarily the same thing.
-  original_excerpt: Dr. Puthoff, so help me understand the difference between AAWSAP
-    and what people describe as the legacy program, because it seems like... They
-    aren't necessarily the same thing.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-  provenance_chain:
-    origin_kind: speaker
-    origin: Eric Burlison
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 2
+  - node_id: 1ef2907b-d608-4a71-b164-05ea785b5765
+    title: USA, Florida, Eglin Air Force Base
+    node_type: place
+    slug: florida-eglin-air-force-base-usa
+    shared_claims: 2
+  - node_id: 1f332ee0-b97e-41af-a02c-7a920f224b93
+    title: 1996 Brazil Unidentified Flying Object (UFO) crash
+    node_type: event
+    slug: 1996-brazil-unidentified-flying-object-ufo-crash
+    shared_claims: 1
   - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
     title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    node_type: project
     slug: advanced-aerospace-weapon-system-applications-program-aawsap
-  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
-    title: Legacy Program
-    slug: legacy-program
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  date: null
-  date_end: null
-  location_in_record: 00:27:56.1-00:28:05.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: 28b1a583-12ac-4ac7-9a56-3c431f1e76c9
-  claim_hash: d85dbf66faabcee1d04071dd488adad05dac3f0611c5d5494f04fa9655174984
-  content: Eric Burlison states that the gatekeeper structure protecting the legacy
-    program still exists today.
-  original_excerpt: And this exists today. This exists today.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-  provenance_chain:
-    origin_kind: speaker
-    origin: Eric Burlison
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
-    title: Legacy Program
-    slug: legacy-program
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  date: null
-  date_end: null
-  location_in_record: 00:37:24.2-00:37:25.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: ccac9e9f-01cd-456c-9b33-4c37d79273d4
-  claim_hash: 2cbd789b7771b84fac9cfddadbf8b2ab2947cf74f89f12aa02cdc3ff75f90c41
-  content: If Avi Loeb cannot get through gatekeepers, Eric Burlison would ask the
-    White House and tell President Trump there is a problem.
-  original_excerpt: I'd ask the White House. I'd say, Mr. President, we got a problem.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-  provenance_chain:
-    origin_kind: speaker
-    origin: Eric Burlison
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  - node_id: 9fccea15-4512-4672-9127-b0c31800fbac
-    title: President Trump
-    slug: president-trump
-  date: null
-  date_end: null
-  location_in_record: 00:54:21.3-00:54:25.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: 1f1475ae-1941-454f-a6cb-b322643ed01e
-  claim_hash: 503d3cc9ce77cc2c705595d77177be40e461c36c9f8457658ae9cfdba2f2bd5d
-  content: Eric Burlison is likely to press Defense Intelligence Agency leadership
-    to obtain the withheld classified foreign intelligence reporting on Unidentified
-    Aerial Phenomena (UAP).
-  original_excerpt: and I know Representative Burlison is likely going to pulse DIA
-    leadership to get that.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
-    title: Defense Intelligence Agency (DIA)
-    slug: defense-intelligence-agency-dia
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: 00:31:37.1-00:31:42.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
-    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-    record_date: '2026-08-13'
-    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
-    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
-    friendly_name: null
-- claim_id: 05700599-32c5-46da-b6e5-52bd7f160d83
-  claim_hash: 7a95879946f28ebfd6b956ea980c495b3d47af1b9496b70956b9b6295e6f7130
-  content: David Grusch works part-time as a professional staff member for Eric Burlison.
-  original_excerpt: Obviously, I'm a professional staff member for Representative
-    Burlison part-time
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
-  date: null
-  date_end: null
-  location_in_record: 00:32:44.9-00:32:47.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
-    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-    record_date: '2026-08-13'
-    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
-    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
-    friendly_name: null
-- claim_id: ab781e88-ceb6-4faf-a086-191641c1362d
-  claim_hash: d60603a99c9f3461afd12b16a630797e9754252180b5f42b0182d499522a0c42
-  content: David Grusch attended a classified meeting with Representative Eric Burlison
-    in which he challenged the All-Domain Anomaly Resolution Office (AARO) of the
-    United States Department of Defense.
-  original_excerpt: I challenged DOD arrows office last year in a meeting. I was in
-    a in a classified meeting with Representative Burlison
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    slug: eric-burlison
-  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-    slug: david-charles-grusch
+    shared_claims: 1
   - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
     title: All-domain Anomaly Resolution Office (AARO)
+    node_type: organisation
     slug: all-domain-anomaly-resolution-office-aaro
-  date: null
-  date_end: null
-  location_in_record: 00:49:01.5-00:49:07.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
-    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-    record_date: '2026-08-13'
-    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
-    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    node_type: organisation
+    slug: defense-intelligence-agency-dia
+    shared_claims: 1
+  - node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Glenn Grothman
+    node_type: person
+    slug: glenn-grothman
+    shared_claims: 1
+  - node_id: de3e896e-c2b5-4cd6-8507-dd4f3acf4486
+    title: James Comer
+    node_type: person
+    slug: james-comer
+    shared_claims: 1
+  - node_id: cb9ba091-aeb7-41fd-8753-15754baa8762
+    title: Jamie Raskin
+    node_type: person
+    slug: jamie-raskin
+    shared_claims: 1
+  - node_id: 4d8a72a4-7ecf-4d18-b634-573e09b75b4f
+    title: Nick Langworthy
+    node_type: person
+    slug: nick-langworthy
+    shared_claims: 1
+  - node_id: e4639aa7-0f1d-43c1-894d-19dba9978b31
+    title: Task Force on the Declassification of Federal Secrets
+    node_type: organisation
+    slug: task-force-on-the-declassification-of-federal-secrets
+    shared_claims: 1
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 1
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 1
+  - node_id: 3cba540c-c46f-42fc-8265-e97e17cc3d3d
+    title: United States Department of Justice (DOJ)
+    node_type: organisation
+    slug: united-states-department-of-justice-doj
+    shared_claims: 1
+claims:
+  - claim_id: 67e62b74-0e49-45b7-a3a1-6fe4c32d4bb4
+    claim_hash: 9107d82d957fe784bc8f57163f32007607f57c30f10f48a6489946999b1a1705
+    content: A Brazilian soldier who arrived at the 1996 Brazil UFO crash site and touched the alleged craft or the being
+      subsequently died, and an unknown bacterium or microorganism was found in his body.
+    original_excerpt: We also heard from someone who does testing, who was testing the blood samples of one of the individuals,
+      the military personnel, that they said that he expired because of an interaction with either the craft or the alien.
+      And so that individual had tested and found that there was a type of bacteria or a type of you know, microorganism that
+      was unknown that they could not identify that was related to that individual's death.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+      title: Eric Burlison
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have tested blood samples from a military personnel
+      relay:
+        - Eric Burleson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1f332ee0-b97e-41af-a02c-7a920f224b93
+        title: 1996 Brazil Unidentified Flying Object (UFO) crash
+        slug: 1996-brazil-unidentified-flying-object-ufo-crash
+    date: '1996'
+    date_end: null
+    location_in_record: 00:04:38.0-00:05:10.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7d93dbc6-cefd-4488-8f36-1edb53824dbb
+      record_title: Congressman seeks CIA, FBI help on Brazil's alleged 1996 UFO crash | Elizabeth Vargas Reports
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=5BwrZCx2ENw
+      content_hash: sha256:721f07db7c6e0656b8b08fa5c1b318a60b0428f3193734e864dc017d51e747cf
+      friendly_name: null
+  - claim_id: 936555d6-f1aa-4fe1-8b82-949e15898edd
+    claim_hash: e2b1a66ef143f6f1e9461659637ace1b01b8c3d2d0216f97296551bdf5f8b53f
+    content: An unknown bacterium or microorganism found in the deceased Brazilian soldier could not be identified by testing
+      personnel.
+    original_excerpt: They couldn't identify the bacteria.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+      title: Eric Burlison
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have tested biological samples
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1f332ee0-b97e-41af-a02c-7a920f224b93
+        title: 1996 Brazil Unidentified Flying Object (UFO) crash
+        slug: 1996-brazil-unidentified-flying-object-ufo-crash
+    date: '1996'
+    date_end: null
+    location_in_record: 00:05:32.5-00:05:33.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7d93dbc6-cefd-4488-8f36-1edb53824dbb
+      record_title: Congressman seeks CIA, FBI help on Brazil's alleged 1996 UFO crash | Elizabeth Vargas Reports
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=5BwrZCx2ENw
+      content_hash: sha256:721f07db7c6e0656b8b08fa5c1b318a60b0428f3193734e864dc017d51e747cf
+      friendly_name: null
+  - claim_id: 660cc02a-a622-4278-ab78-f45450583b5f
+    claim_hash: 03ed31a1db7b94c2b91fff71d1f2fd089a9234f728b88687fc14cb158113224b
+    content: Congressman Eric Burleson holds the opinion that the witnesses who came forward regarding the 1996 Brazil UFO
+      crash have honest motives and are not deliberately lying.
+    original_excerpt: And so I don't think that people are purposefully trying to come forward and lie. I think that their
+      motives are pretty honest.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+      title: Eric Burlison
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Burleson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1f332ee0-b97e-41af-a02c-7a920f224b93
+        title: 1996 Brazil Unidentified Flying Object (UFO) crash
+        slug: 1996-brazil-unidentified-flying-object-ufo-crash
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+    date: null
+    date_end: null
+    location_in_record: 00:06:34.2-00:06:41.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7d93dbc6-cefd-4488-8f36-1edb53824dbb
+      record_title: Congressman seeks CIA, FBI help on Brazil's alleged 1996 UFO crash | Elizabeth Vargas Reports
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=5BwrZCx2ENw
+      content_hash: sha256:721f07db7c6e0656b8b08fa5c1b318a60b0428f3193734e864dc017d51e747cf
+      friendly_name: null
+  - claim_id: 771089ea-4d90-4e9c-979c-a78b450716cc
+    claim_hash: 97b4736681ef703ffda33668e6fccd221ef4858428b1eb63da5a60845c034591
+    content: If not for Matt Gaetz's involvement, Tim Burchett, Anna Paulina Luna, and Eric Burlison would still be at Eglin
+      Air Force Base trying to get answers about UAP.
+    original_excerpt: it is not in my notes here but Matt Gaetz—if it had not been for Matt Gaetz, myself, him, and Luna would
+      still be down at Eglin Air Force Base trying to get some answers.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+      title: Tim Burchett
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tim Burchett
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+        title: Anna Paulina Luna
+        slug: anna-paulina-luna
+      - node_id: 1ef2907b-d608-4a71-b164-05ea785b5765
+        title: USA, Florida, Eglin Air Force Base
+        slug: florida-eglin-air-force-base-usa
+      - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+        title: Matt Gaetz
+        slug: matt-gaetz
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+    date: null
+    date_end: null
+    location_in_record: char:10458-10620
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 9725d5f4-e744-4876-a353-c6064d8da600
+    claim_hash: fc9578813e32fa44b7037bc9da650c8b2ded760fa2174bc82f13cf60db8206d0
+    content: Tim Burchett, Matt Gaetz, Anna Paulina Luna, and Eric Burlison visited Eglin Air Force Base to try to get answers
+      on UAP.
+    original_excerpt: if it had not been for Matt Gaetz, myself, him, and Luna would still be down at Eglin Air Force Base
+      trying to get some answers.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+      title: Tim Burchett
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tim Burchett
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+        title: Anna Paulina Luna
+        slug: anna-paulina-luna
+      - node_id: 1ef2907b-d608-4a71-b164-05ea785b5765
+        title: USA, Florida, Eglin Air Force Base
+        slug: florida-eglin-air-force-base-usa
+      - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+        title: Matt Gaetz
+        slug: matt-gaetz
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+    date: '2023-07-26'
+    date_end: null
+    location_in_record: char:10500-10620
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: c1ffe66f-44ad-454e-9da3-c137060f20b5
+    claim_hash: b7e44f8e807d0097765051591663832168827bcbfca194fed9f6bd5638bf5d7e
+    content: Representatives Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy, Raskin, and Ocasio-Cortez were also
+      present at the 2023-07-26 House hearing on Unidentified Anomalous Phenomena.
+    original_excerpt: 'Also present: Representatives Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy, Raskin, and
+      Ocasio-Cortez.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: the printed hearing volume
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1017eefe-05d5-4310-bc45-827bb449863f
+        title: Andrew Ogles
+        slug: andrew-ogles
+      - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+        title: Anna Paulina Luna
+        slug: anna-paulina-luna
+      - node_id: 4d8a72a4-7ecf-4d18-b634-573e09b75b4f
+        title: Nick Langworthy
+        slug: nick-langworthy
+      - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+        title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+        slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+      - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+        title: Matt Gaetz
+        slug: matt-gaetz
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: cb9ba091-aeb7-41fd-8753-15754baa8762
+        title: Jamie Raskin
+        slug: jamie-raskin
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+      - node_id: de3e896e-c2b5-4cd6-8507-dd4f3acf4486
+        title: James Comer
+        slug: james-comer
+      - node_id: f813951c-0161-4bab-ad93-06d5511adf8b
+        title: Alexandria Ocasio-Cortez
+        slug: alexandria-ocasio-cortez
+    date: '2023-07-26'
+    date_end: null
+    location_in_record: char:5085-5193
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 935ed13e-4329-4d08-80c6-2788a588a6d6
+    claim_hash: 5f92b778a6418a9c9665892db62ff319e8dd62efa72e6c47b185aab1d648d67c
+    content: Glenn Grothman waived Tim Burchett, Anna Paulina Luna, Matt Gaetz, Eric Burlison, Alexandria Ocasio-Cortez, and
+      Andy Ogles onto the Subcommittee for the purpose of participating in the 2023-07-26 hearing.
+    original_excerpt: 'Additionally, without objection, the following Members are waived on to the Subcommittee for the purpose
+      of participating in today''s hearing: Mr. Burchett of Tennessee, Ms. Luna of Florida, Mr. Gaetz of Florida, Mr. Burlison
+      of Missouri, Ms. Ocasio-Cortez of New York, and Mr. Ogles of Tennessee.'
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+      title: Glenn Grothman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Glenn Grothman
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1017eefe-05d5-4310-bc45-827bb449863f
+        title: Andrew Ogles
+        slug: andrew-ogles
+      - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+        title: Anna Paulina Luna
+        slug: anna-paulina-luna
+      - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+        title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+        slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+      - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+        title: Matt Gaetz
+        slug: matt-gaetz
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+        title: Glenn Grothman
+        slug: glenn-grothman
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+      - node_id: f813951c-0161-4bab-ad93-06d5511adf8b
+        title: Alexandria Ocasio-Cortez
+        slug: alexandria-ocasio-cortez
+    date: '2023-07-26'
+    date_end: null
+    location_in_record: char:5382-5668
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 759ea0cb-9454-40d6-a5cf-253703128ea5
+    claim_hash: e08494e80553767183f59195aef8d4677b533f8f5f6fe945b9db9f00354e1f81
+    content: Eric Burlison announced David Grusch as a Special Advisor.
+    original_excerpt: Congressman Eric Burlison (R-MO-07) is pleased to announce David Grusch, a decorated former U.S. Air
+      Force officer and senior civilian intelligence official, as a Special Advisor.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: '2025-03-27'
+    date_end: null
+    location_in_record: char:131-302
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
+      record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special Advisor
+      record_date: '2025-03-27'
+      record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
+      content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
+      friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
+  - claim_id: 166a21c8-313a-4461-b5d6-75968472d2b1
+    claim_hash: 2853c0d8be44e0808ce81d85cbdae49c1acbd10150ec1274a680e1dd0152481b
+    content: David Grusch is immensely humbled and deeply honoured to join Eric Burlison and his team of professionals in
+      pushing for government transparency.
+    original_excerpt: '"I''m both immensely humbled and deeply honored to join Congressman Burlison and his amazing team of
+      professionals in pushing for government transparency," said Grusch.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:1904-2066
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
+      record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special Advisor
+      record_date: '2025-03-27'
+      record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
+      content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
+      friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
+  - claim_id: 45334181-cfe9-4519-b7d2-5cbc55e0418d
+    claim_hash: dcd96ea3f0e8fc2d23ed240337d4a2d242d7d2902fdfa83c7be6c033fc4f16f1
+    content: David Grusch will use his expertise to support Eric Burlison and help the United States Congress restore full
+      oversight while enabling the Legislative Branch's ability to investigate and hold accountable those who broke the law
+      and lied to Congress, the Executive Office of the President, the Office of the Director of National Intelligence, and
+      the United States Department of Justice.
+    original_excerpt: I will use all my expertise to support Rep. Burlison and help the US Congress restore full oversight
+      while enabling the Legislative Branch's ability to investigate and hold those accountable who have broken the law and
+      lied not only to our Congress, but also to the Executive Office of the President, Director of National Intelligence,
+      and Department of Justice
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3cba540c-c46f-42fc-8265-e97e17cc3d3d
+        title: United States Department of Justice (DOJ)
+        slug: united-states-department-of-justice-doj
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:2214-2568
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
+      record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special Advisor
+      record_date: '2025-03-27'
+      record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
+      content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
+      friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
+  - claim_id: bb5045aa-883d-4765-b6ab-e9812961d7df
+    claim_hash: 02719a7c857e069ff99a3e9cdbf16da5557d859a387d94868d07924a7aea8a65
+    content: Eric Burlison is a strong advocate for government transparency.
+    original_excerpt: Rep. Burlison, a strong advocate for government transparency, underscores his commitment to government
+      accountability and transparency on the UAP topic with this appointment.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+    date: null
+    date_end: null
+    location_in_record: char:2580-2742
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
+      record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special Advisor
+      record_date: '2025-03-27'
+      record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
+      content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
+      friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
+  - claim_id: bc59b51f-7498-4aff-a6c9-26b9f606d413
+    claim_hash: ba81382eb13c0e499b53398b9d2be7ef79ce1090cff66df8fe5f3fbeaa29c7e2
+    content: Eric Burlison underscores his commitment to government accountability and transparency on the Unidentified Anomalous
+      Phenomena (UAP) topic with the appointment of David Grusch as Special Advisor.
+    original_excerpt: underscores his commitment to government accountability and transparency on the UAP topic with this
+      appointment
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:2642-2742
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
+      record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special Advisor
+      record_date: '2025-03-27'
+      record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
+      content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
+      friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
+  - claim_id: aca2c343-62fc-4a9b-a375-d55eb5e1488e
+    claim_hash: 5a1529ac61d88db62c5f30c6ff254bc9c79f6bb23039f257138b523f89f4ca44
+    content: David Grusch will contribute his expertise to Eric Burlison's efforts to promote transparency regarding Unidentified
+      Anomalous Phenomena (UAP) and other matters on the Task Force on the Declassification of Federal Secrets.
+    original_excerpt: will contribute his expertise to Rep. Burlison's efforts to promote transparency regarding UAP and other
+      matters on the Task Force on the Declassification of Federal Secrets
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: e4639aa7-0f1d-43c1-894d-19dba9978b31
+        title: Task Force on the Declassification of Federal Secrets
+        slug: task-force-on-the-declassification-of-federal-secrets
+    date: null
+    date_end: null
+    location_in_record: char:495-661
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
+      record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special Advisor
+      record_date: '2025-03-27'
+      record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
+      content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
+      friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
+  - claim_id: 3dc20078-d173-4aae-8334-3f378c4aa134
+    claim_hash: 66ec072f84bda7a32242b431149ca38e7ce315fc57d65ff695d2448200e2aac7
+    content: The American people deserve answers about Unidentified Anomalous Phenomena (UAP).
+    original_excerpt: '"The American people deserve answers about UAPs," said Rep. Burlison.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+      title: Eric Burlison
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Burlison
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: char:673-735
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
+      record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special Advisor
+      record_date: '2025-03-27'
+      record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
+      content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
+      friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
+  - claim_id: f13877ef-b5f2-4f6a-9404-af14301f7784
+    claim_hash: c988ac7bcaf77afc6275de5ced65b4c5ee29e0944eef5c8215d830efb321cd3b
+    content: David Grusch has risked his career to expose critical information.
+    original_excerpt: '"David Grusch has risked his career to expose critical information."'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+      title: Eric Burlison
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Burlison
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:749-803
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
+      record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special Advisor
+      record_date: '2025-03-27'
+      record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
+      content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
+      friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
+  - claim_id: bbfdcf11-0549-4c24-b17a-68d8fa3022d4
+    claim_hash: 3f7b7d40fd129e95269dcd10a4654ffecd5c20c8d5c3bf43563c13055431dc5a
+    content: Eric Burlison considers David Grusch's expertise vital to efforts to uncover the truth about Unidentified Anomalous
+      Phenomena (UAP) and hold the government accountable.
+    original_excerpt: '"His expertise will be vital as we work to uncover the truth and hold the government accountable."'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+      title: Eric Burlison
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Burlison
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:816-900
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
+      record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special Advisor
+      record_date: '2025-03-27'
+      record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
+      content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
+      friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
+  - claim_id: 916ec08f-3882-4473-973e-4cd5f3c66955
+    claim_hash: 283934aac893f16756e704f77c76a7d25f77dc719362a22a57847584fa7d7e70
+    content: Eric Burlison was briefed about an event at a military installation in the Western United States where plasmoid-type
+      phenomena were observed.
+    original_excerpt: when I was briefed about the event that happened recently in the Western United States, the military
+      installation, where they saw those plasmoid type things,
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+      title: Eric Burlison
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Burlison
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+    date: null
+    date_end: null
+    location_in_record: 00:16:48.6-00:16:55.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: a777d4f3-a0c1-44a7-a54d-b9f753c801e4
+    claim_hash: b0ac776eacfebd94e029d827993559dd4c2042283e61f63c7efea7d6ffdc31a5
+    content: When Eric Burlison asked officials from the Office of the Director of National Intelligence (ODNI) what the plasmoid-type
+      phenomena observed at a Western United States military installation were, the officials said they did not know, and
+      confirmed their top scientists also did not know.
+    original_excerpt: Sitting in that room with ODNI, I asked the question, what in the world are these things doing? And
+      they said, we don't know. And I said, surely you have your top scientists looking into this. What do they say? They
+      said, sir, we really don't.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+      title: Eric Burlison
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Burlison
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+    date: null
+    date_end: null
+    location_in_record: 00:16:56.9-00:17:09.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 2ea05986-9db0-4385-8306-25337c966805
+    claim_hash: d26385026bfbaf9220dc1356a405d83ba6ef5083907571a8ea3d149cb9219f6e
+    content: Eric Burlison distinguishes the Advanced Aerospace Weapon System Applications Program (AAWSAP) from what people
+      describe as the legacy program, noting they are not necessarily the same thing.
+    original_excerpt: Dr. Puthoff, so help me understand the difference between AAWSAP and what people describe as the legacy
+      program, because it seems like... They aren't necessarily the same thing.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+      title: Eric Burlison
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Burlison
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+    date: null
+    date_end: null
+    location_in_record: 00:27:56.1-00:28:05.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 28b1a583-12ac-4ac7-9a56-3c431f1e76c9
+    claim_hash: d85dbf66faabcee1d04071dd488adad05dac3f0611c5d5494f04fa9655174984
+    content: Eric Burlison states that the gatekeeper structure protecting the legacy program still exists today.
+    original_excerpt: And this exists today. This exists today.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+      title: Eric Burlison
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Burlison
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+    date: null
+    date_end: null
+    location_in_record: 00:37:24.2-00:37:25.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: ccac9e9f-01cd-456c-9b33-4c37d79273d4
+    claim_hash: 2cbd789b7771b84fac9cfddadbf8b2ab2947cf74f89f12aa02cdc3ff75f90c41
+    content: If Avi Loeb cannot get through gatekeepers, Eric Burlison would ask the White House and tell President Trump
+      there is a problem.
+    original_excerpt: I'd ask the White House. I'd say, Mr. President, we got a problem.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+      title: Eric Burlison
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Burlison
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: 9fccea15-4512-4672-9127-b0c31800fbac
+        title: President Trump
+        slug: president-trump
+    date: null
+    date_end: null
+    location_in_record: 00:54:21.3-00:54:25.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 1f1475ae-1941-454f-a6cb-b322643ed01e
+    claim_hash: 503d3cc9ce77cc2c705595d77177be40e461c36c9f8457658ae9cfdba2f2bd5d
+    content: Eric Burlison is likely to press Defense Intelligence Agency leadership to obtain the withheld classified foreign
+      intelligence reporting on Unidentified Aerial Phenomena (UAP).
+    original_excerpt: and I know Representative Burlison is likely going to pulse DIA leadership to get that.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:31:37.1-00:31:42.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 05700599-32c5-46da-b6e5-52bd7f160d83
+    claim_hash: 7a95879946f28ebfd6b956ea980c495b3d47af1b9496b70956b9b6295e6f7130
+    content: David Grusch works part-time as a professional staff member for Eric Burlison.
+    original_excerpt: Obviously, I'm a professional staff member for Representative Burlison part-time
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:32:44.9-00:32:47.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: ab781e88-ceb6-4faf-a086-191641c1362d
+    claim_hash: d60603a99c9f3461afd12b16a630797e9754252180b5f42b0182d499522a0c42
+    content: David Grusch attended a classified meeting with Representative Eric Burlison in which he challenged the All-Domain
+      Anomaly Resolution Office (AARO) of the United States Department of Defense.
+    original_excerpt: I challenged DOD arrows office last year in a meeting. I was in a in a classified meeting with Representative
+      Burlison
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: 00:49:01.5-00:49:07.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null

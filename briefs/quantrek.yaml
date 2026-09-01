@@ -9,150 +9,163 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 909
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
 related_nodes:
-- node_id: 59476464-a679-46ce-9247-b0adcb287762
-  title: Edgar Mitchell
-  node_type: person
-  slug: edgar-mitchell
-  shared_claims: 3
-- node_id: 861ba74d-1ec7-409e-8109-2480212d96ac
-  title: Institute of Noetic Sciences (IONS)
-  node_type: organisation
-  slug: institute-of-noetic-sciences-ions
-  shared_claims: 1
-- node_id: a6c948fc-7294-4be2-9f46-943eb5d35a77
-  title: John Audette
-  node_type: person
-  slug: john-audette
-  shared_claims: 1
-- node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-  title: Ross Coulthart
-  node_type: person
-  slug: ross-coulthart
-  shared_claims: 1
-- node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-  title: Thomas Wilson
-  node_type: person
-  slug: thomas-wilson
-  shared_claims: 1
-claims:
-- claim_id: efdaf31e-375c-4f79-b06d-e867a2fcfd75
-  claim_hash: 247b0f6c281266e449b5889eb49e026471829c836e39109e3ac65e4b463a2569
-  content: Edgar Mitchell was the founder of Quantrek, an institute populated by physicists
-    and scientists who study energy and consciousness.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
   - node_id: 59476464-a679-46ce-9247-b0adcb287762
     title: Edgar Mitchell
+    node_type: person
     slug: edgar-mitchell
-  - node_id: 92749a9d-ccbb-4667-82b7-75e85625aed0
-    title: Quantrek
-    slug: quantrek
-  date: null
-  date_end: null
-  location_in_record: ch6:28697-28784
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: bc263e7f-cdf8-496b-8fbb-b74db8db55ac
-  claim_hash: b1619b86873e2992a11297c9664707f605a859fa80c89874918a3f2268f0fcb3
-  content: Edgar Mitchell founded the Institute of Noetic Sciences and Quantrek after
-    a remarkable, transcendent experience he had while on his way home from the moon,
-    floating in space and looking at Earth.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 59476464-a679-46ce-9247-b0adcb287762
-    title: Edgar Mitchell
-    slug: edgar-mitchell
+    shared_claims: 3
   - node_id: 861ba74d-1ec7-409e-8109-2480212d96ac
     title: Institute of Noetic Sciences (IONS)
+    node_type: organisation
     slug: institute-of-noetic-sciences-ions
-  - node_id: 92749a9d-ccbb-4667-82b7-75e85625aed0
-    title: Quantrek
-    slug: quantrek
-  date: null
-  date_end: null
-  location_in_record: ch6:28799-28951
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 6bd14f74-5b55-4de5-93a5-8edb79fef8fb
-  claim_hash: 4978885db2885e0914785308d80dc7777b7f33e379e400a56fb12f51896e3d75
-  content: John Audette, co-founder of Edgar Mitchell's Quantrek research organisation,
-    told Ross Coulthart, 'Yes, Ed shared with me details about the Admiral Wilson
-    meeting.'
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: a6c948fc-7294-4be2-9f46-943eb5d35a77
-    title: John Audette
-  provenance_chain:
-    origin_kind: named
-    origin: Edgar Mitchell
-    relay:
-    - John Audette
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 59476464-a679-46ce-9247-b0adcb287762
-    title: Edgar Mitchell
-    slug: edgar-mitchell
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  - node_id: 92749a9d-ccbb-4667-82b7-75e85625aed0
-    title: Quantrek
-    slug: quantrek
+    shared_claims: 1
   - node_id: a6c948fc-7294-4be2-9f46-943eb5d35a77
     title: John Audette
+    node_type: person
     slug: john-audette
+    shared_claims: 1
   - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
     title: Ross Coulthart
+    node_type: person
     slug: ross-coulthart
-  date: null
-  date_end: null
-  location_in_record: ch14:14671-14910
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    node_type: person
+    slug: thomas-wilson
+    shared_claims: 1
+claims:
+  - claim_id: efdaf31e-375c-4f79-b06d-e867a2fcfd75
+    claim_hash: 247b0f6c281266e449b5889eb49e026471829c836e39109e3ac65e4b463a2569
+    content: Edgar Mitchell was the founder of Quantrek, an institute populated by physicists and scientists who study energy
+      and consciousness.
+    original_excerpt: and Quantrek, an institute populated by physicists and scientists who study energy and consciousness.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: 92749a9d-ccbb-4667-82b7-75e85625aed0
+        title: Quantrek
+        slug: quantrek
+    date: null
+    date_end: null
+    location_in_record: ch6:28697-28784
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: bc263e7f-cdf8-496b-8fbb-b74db8db55ac
+    claim_hash: b1619b86873e2992a11297c9664707f605a859fa80c89874918a3f2268f0fcb3
+    content: Edgar Mitchell founded the Institute of Noetic Sciences and Quantrek after a remarkable, transcendent experience
+      he had while on his way home from the moon, floating in space and looking at Earth.
+    original_excerpt: He founded these institutions after a remarkable, transcendent experience he had while on his way home
+      from the moon, floating in space, and looking at Earth.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: 861ba74d-1ec7-409e-8109-2480212d96ac
+        title: Institute of Noetic Sciences (IONS)
+        slug: institute-of-noetic-sciences-ions
+      - node_id: 92749a9d-ccbb-4667-82b7-75e85625aed0
+        title: Quantrek
+        slug: quantrek
+    date: null
+    date_end: null
+    location_in_record: ch6:28799-28951
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 6bd14f74-5b55-4de5-93a5-8edb79fef8fb
+    claim_hash: 4978885db2885e0914785308d80dc7777b7f33e379e400a56fb12f51896e3d75
+    content: John Audette, co-founder of Edgar Mitchell's Quantrek research organisation, told Ross Coulthart, 'Yes, Ed shared
+      with me details about the Admiral Wilson meeting.'
+    original_excerpt: One of these friends was John Audette, the co-founder of Mitchell's Quantrek research organisation,
+      who responded in detail to my inquiry about this meeting. 'Yes, Ed shared with me details about the Admiral Wilson meeting,'
+      Audette tells me.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a6c948fc-7294-4be2-9f46-943eb5d35a77
+      title: John Audette
+    provenance_chain:
+      origin_kind: named
+      origin: Edgar Mitchell
+      relay:
+        - John Audette
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 92749a9d-ccbb-4667-82b7-75e85625aed0
+        title: Quantrek
+        slug: quantrek
+      - node_id: a6c948fc-7294-4be2-9f46-943eb5d35a77
+        title: John Audette
+        slug: john-audette
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: ch14:14671-14910
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

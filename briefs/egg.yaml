@@ -9,354 +9,366 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1843
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
 related_nodes:
-- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-  title: Eric Davis
-  node_type: person
-  slug: eric-davis
-  shared_claims: 3
-- node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
-  title: Janet Airlines
-  node_type: organisation
-  slug: janet-airlines
-  shared_claims: 2
-- node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-  title: Thomas Wilson
-  node_type: person
-  slug: thomas-wilson
-  shared_claims: 2
-- node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
-  title: USA, Nevada, Groom Lake
-  node_type: place
-  slug: nevada-groom-lake-usa
-  shared_claims: 2
-- node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-  title: Arizona State University
-  node_type: organisation
-  slug: arizona-state-university
-  shared_claims: 1
-- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-  title: Chris Ramsay
-  node_type: person
-  slug: chris-ramsay
-  shared_claims: 1
-- node_id: fcfc1448-b63d-4336-aa4d-ba414bf57d28
-  title: Dennis Mariani
-  node_type: person
-  slug: dennis-mariani
-  shared_claims: 1
-- node_id: 4ed6f08f-55b3-4d70-99ad-9e70ba96bea2
-  title: Eric Davis meeting with Admiral Thomas Wilson, 2002-10-16
-  node_type: event
-  slug: 2002-10-16-eric-davis-meeting-with-admiral-thomas-wilson
-  shared_claims: 1
-- node_id: 38fbdf77-a36d-4276-9ea2-f85f3b4968f5
-  title: Jim Dilettoso
-  node_type: person
-  slug: jim-dilettoso
-  shared_claims: 1
-- node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-  title: NASA Jet Propulsion Laboratory (JPL)
-  node_type: organisation
-  slug: nasa-jet-propulsion-laboratory-jpl
-  shared_claims: 1
-- node_id: a25fe5ab-c486-494f-bf84-17caeddfb240
-  title: Rich
-  node_type: person
-  slug: rich
-  shared_claims: 1
-- node_id: df3f9a71-067c-4b5f-acd0-4cdb96ee702d
-  title: TRW
-  node_type: organisation
-  slug: trw
-  shared_claims: 1
-- node_id: 9392904e-6a01-4707-8264-fceb1803d530
-  title: United States Geological Survey (USGS)
-  node_type: organisation
-  slug: united-states-geological-survey-usgs
-  shared_claims: 1
-- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-  title: United States Navy (USN)
-  node_type: organisation
-  slug: united-states-navy-usn
-  shared_claims: 1
-- node_id: 681c3b85-a34e-4425-b09b-e7ff743d2c67
-  title: University of Southern California (USC)
-  node_type: organisation
-  slug: university-of-southern-california-usc
-  shared_claims: 1
-- node_id: 537c518b-23ca-4725-aa74-5fe44b97fc85
-  title: Wendell Stevens
-  node_type: person
-  slug: wendell-stevens
-  shared_claims: 1
-claims:
-- claim_id: 1746e369-1f5c-4540-8be9-bdccb11ac3cc
-  claim_hash: 243d79d6462882d0f029068145753afdb83fdc88fd87eb471baa4738863733ef
-  content: Admiral Thomas Wilson arrived ten minutes late to the meeting with Eric
-    W. Davis at the EG&G building, accompanied by two Navy officers in uniform (one
-    full lieutenant and one commander) while he himself wore civilian clothing.
-  original_excerpt: '10:10 (Adm. late)
-
-    Arrives with two Navy officers in uniform - he''s in suit - now civilian
-
-    In uniform: 1 (full) Lt.; 1 Cmdr.; a petty officer drives car.'
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
     title: Eric Davis
-  provenance_chain:
-    origin_kind: speaker
-    origin: Eric W. Davis
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-    title: United States Navy (USN)
-    slug: united-states-navy-usn
-  - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
-    title: EG&G
-    slug: egg
+    node_type: person
+    slug: eric-davis
+    shared_claims: 3
+  - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
+    title: Janet Airlines
+    node_type: organisation
+    slug: janet-airlines
+    shared_claims: 2
   - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
     title: Thomas Wilson
+    node_type: person
     slug: thomas-wilson
-  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-    slug: eric-davis
-  date: '2002-10-16'
-  date_end: null
-  location_in_record: char:193-341
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: 360f5b6b-fece-4d09-be3e-b887c0c03451
-  claim_hash: 410c2809c5ca8f2a01033c2279c6589a01d8f83bf37ed45bc8a00c8d5f9d9945
-  content: Eric W. Davis and Admiral Thomas Wilson sat and talked in Wilson's car
-    behind the EG&G building until 11:20 A.M. while others attended a meeting inside.
-  original_excerpt: We sit in his car in back of EG&G building. Talk until 11:20 A.M.
-    Others departed for building, to attend meeting inside (at 10:10).
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-  provenance_chain:
-    origin_kind: speaker
-    origin: Eric W. Davis
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4ed6f08f-55b3-4d70-99ad-9e70ba96bea2
-    title: Eric Davis meeting with Admiral Thomas Wilson, 2002-10-16
-    slug: 2002-10-16-eric-davis-meeting-with-admiral-thomas-wilson
-  - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
-    title: EG&G
-    slug: egg
-  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-    title: Thomas Wilson
-    slug: thomas-wilson
-  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-    slug: eric-davis
-  date: '2002-10-16'
-  date_end: null
-  location_in_record: char:374-502
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: f3879c62-5746-4a84-a111-e95604f8393d
-  claim_hash: 8e7ede996b43aa3377fb6c503e935390b950f45ad92e7a9162bdf59c48548f6c
-  content: Rich told Eric W. Davis to go to the EG&G Special Projects building at
-    Grier and Paradise, and to meet at 10 A.M.
-  original_excerpt: Rich says to go to EG&G Special Projects building at Grier and
-    Paradise. "Meet at 10 A.M. - don't be late!!"
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Eric W. Davis's own notes
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
-    title: EG&G
-    slug: egg
-  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-    slug: eric-davis
-  - node_id: a25fe5ab-c486-494f-bf84-17caeddfb240
-    title: Rich
-    slug: rich
-  date: '2002-10-16'
-  date_end: null
-  location_in_record: char:83-184
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
-    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
-    record_date: '2002-10-16'
-    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
-    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
-    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
-- claim_id: 58ac56be-5ad4-4fdf-aa61-ee0f8a52f0b5
-  claim_hash: ec975b8c87d72666d48f630e9f5424b007419d997fe77db252e734cad80bb496
-  content: Jim Dilettoso went to dozens of manufacturers of image processing equipment,
-    including government contractors EG&G and TRW, government labs including the United
-    States Geological Survey and the Jet Propulsion Laboratory (JPL), and universities
-    including the University of Southern California (USC) and Arizona State University,
-    to find scientists able to contribute to photo-testing projects for Wendelle Stevens.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38fbdf77-a36d-4276-9ea2-f85f3b4968f5
-    title: Jim Dilettoso
-    slug: jim-dilettoso
-  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-    title: NASA Jet Propulsion Laboratory (JPL)
-    slug: nasa-jet-propulsion-laboratory-jpl
-  - node_id: 537c518b-23ca-4725-aa74-5fe44b97fc85
-    title: Wendell Stevens
-    slug: wendell-stevens
-  - node_id: 681c3b85-a34e-4425-b09b-e7ff743d2c67
-    title: University of Southern California (USC)
-    slug: university-of-southern-california-usc
-  - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
-    title: EG&G
-    slug: egg
-  - node_id: 9392904e-6a01-4707-8264-fceb1803d530
-    title: United States Geological Survey (USGS)
-    slug: united-states-geological-survey-usgs
-  - node_id: df3f9a71-067c-4b5f-acd0-4cdb96ee702d
-    title: TRW
-    slug: trw
+    shared_claims: 2
+  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+    title: USA, Nevada, Groom Lake
+    node_type: place
+    slug: nevada-groom-lake-usa
+    shared_claims: 2
   - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
     title: Arizona State University
+    node_type: organisation
     slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch10:18669-18994
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: c0bdd844-f16c-4555-9aa5-fa80648bffd5
-  claim_hash: be0dab07771e539520c140f76face8cae5967658797d6f47ca9a8fab097017ae
-  content: A pilot who had been a co-pilot for EG&G, flying Janet Airlines flights
-    into USA, Nevada, Groom Lake sometime between approximately 1987 and 1991, reached
-    out to Chris Ramsay.
-  original_excerpt: He was a co-pilot for EG&G flying the Janet flights into Groom
-    Lake between 87 and 91, something like that.
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: 9ee765f0-15bc-4d03-9bfa-c1d6b015a860
-    title: Luigi Venditelli
-  provenance_chain:
-    origin_kind: named
-    origin: a co-pilot who flew Janet Airlines flights for EG&G
-    relay:
-    - the pilot's account to Chris Ramsay
-    - Luigi Venditelli relaying it
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
-    title: Janet Airlines
-    slug: janet-airlines
+    shared_claims: 1
   - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
     title: Chris Ramsay
+    node_type: person
     slug: chris-ramsay
-  - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
-    title: EG&G
-    slug: egg
-  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
-    title: USA, Nevada, Groom Lake
-    slug: nevada-groom-lake-usa
-  date: 1987/1991
-  date_end: null
-  location_in_record: 00:11:20.5-00:11:27.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 1624e74b-8c2c-4403-a9fc-ff6de1745b49
-    record_title: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-    record_date: '2026-05-08'
-    record_reference: https://www.youtube.com/watch?v=SSeJ2883nF4
-    content_hash: sha256:5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c395425d1fcdbd
-    friendly_name: 2026-05-08-video-bob-lazar-just-revealed-his-biggest-secret-debriefed-ep-87.v2
-- claim_id: e82dc86c-f4f6-4603-9add-29cc038a3843
-  claim_hash: f6937ca5a94b781f96fe9d5a3dcdc5519c027d6b7ef8cf0ea2acb0be6f11689a
-  content: The EG&G co-pilot who flew Janet Airlines flights into USA, Nevada, Groom
-    Lake said he knew Dennis Mariani.
-  original_excerpt: And he said he knew Dennis Mariani.
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: 9ee765f0-15bc-4d03-9bfa-c1d6b015a860
-    title: Luigi Venditelli
-  provenance_chain:
-    origin_kind: named
-    origin: a co-pilot who flew Janet Airlines flights for EG&G
-    relay:
-    - the pilot's account to Chris Ramsay
-    - Luigi Venditelli relaying it
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
-    title: Janet Airlines
-    slug: janet-airlines
-  - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
-    title: EG&G
-    slug: egg
-  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
-    title: USA, Nevada, Groom Lake
-    slug: nevada-groom-lake-usa
+    shared_claims: 1
   - node_id: fcfc1448-b63d-4336-aa4d-ba414bf57d28
     title: Dennis Mariani
+    node_type: person
     slug: dennis-mariani
-  date: null
-  date_end: null
-  location_in_record: 00:11:31.8-00:11:33.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 1624e74b-8c2c-4403-a9fc-ff6de1745b49
-    record_title: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-    record_date: '2026-05-08'
-    record_reference: https://www.youtube.com/watch?v=SSeJ2883nF4
-    content_hash: sha256:5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c395425d1fcdbd
-    friendly_name: 2026-05-08-video-bob-lazar-just-revealed-his-biggest-secret-debriefed-ep-87.v2
+    shared_claims: 1
+  - node_id: 4ed6f08f-55b3-4d70-99ad-9e70ba96bea2
+    title: Eric Davis meeting with Admiral Thomas Wilson, 2002-10-16
+    node_type: event
+    slug: 2002-10-16-eric-davis-meeting-with-admiral-thomas-wilson
+    shared_claims: 1
+  - node_id: 38fbdf77-a36d-4276-9ea2-f85f3b4968f5
+    title: Jim Dilettoso
+    node_type: person
+    slug: jim-dilettoso
+    shared_claims: 1
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    node_type: organisation
+    slug: nasa-jet-propulsion-laboratory-jpl
+    shared_claims: 1
+  - node_id: a25fe5ab-c486-494f-bf84-17caeddfb240
+    title: Rich
+    node_type: person
+    slug: rich
+    shared_claims: 1
+  - node_id: df3f9a71-067c-4b5f-acd0-4cdb96ee702d
+    title: TRW
+    node_type: organisation
+    slug: trw
+    shared_claims: 1
+  - node_id: 9392904e-6a01-4707-8264-fceb1803d530
+    title: United States Geological Survey (USGS)
+    node_type: organisation
+    slug: united-states-geological-survey-usgs
+    shared_claims: 1
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 1
+  - node_id: 681c3b85-a34e-4425-b09b-e7ff743d2c67
+    title: University of Southern California (USC)
+    node_type: organisation
+    slug: university-of-southern-california-usc
+    shared_claims: 1
+  - node_id: 537c518b-23ca-4725-aa74-5fe44b97fc85
+    title: Wendell Stevens
+    node_type: person
+    slug: wendell-stevens
+    shared_claims: 1
+claims:
+  - claim_id: 1746e369-1f5c-4540-8be9-bdccb11ac3cc
+    claim_hash: 243d79d6462882d0f029068145753afdb83fdc88fd87eb471baa4738863733ef
+    content: Admiral Thomas Wilson arrived ten minutes late to the meeting with Eric W. Davis at the EG&G building, accompanied
+      by two Navy officers in uniform (one full lieutenant and one commander) while he himself wore civilian clothing.
+    original_excerpt: "10:10 (Adm. late)\nArrives with two Navy officers in uniform - he's in suit - now civilian\nIn uniform:
+      1 (full) Lt.; 1 Cmdr.; a petty officer drives car."
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+      title: Eric Davis
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric W. Davis
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
+        title: EG&G
+        slug: egg
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: '2002-10-16'
+    date_end: null
+    location_in_record: char:193-341
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: 360f5b6b-fece-4d09-be3e-b887c0c03451
+    claim_hash: 410c2809c5ca8f2a01033c2279c6589a01d8f83bf37ed45bc8a00c8d5f9d9945
+    content: Eric W. Davis and Admiral Thomas Wilson sat and talked in Wilson's car behind the EG&G building until 11:20 A.M.
+      while others attended a meeting inside.
+    original_excerpt: We sit in his car in back of EG&G building. Talk until 11:20 A.M. Others departed for building, to attend
+      meeting inside (at 10:10).
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+      title: Eric Davis
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric W. Davis
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ed6f08f-55b3-4d70-99ad-9e70ba96bea2
+        title: Eric Davis meeting with Admiral Thomas Wilson, 2002-10-16
+        slug: 2002-10-16-eric-davis-meeting-with-admiral-thomas-wilson
+      - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
+        title: EG&G
+        slug: egg
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: '2002-10-16'
+    date_end: null
+    location_in_record: char:374-502
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: f3879c62-5746-4a84-a111-e95604f8393d
+    claim_hash: 8e7ede996b43aa3377fb6c503e935390b950f45ad92e7a9162bdf59c48548f6c
+    content: Rich told Eric W. Davis to go to the EG&G Special Projects building at Grier and Paradise, and to meet at 10
+      A.M.
+    original_excerpt: Rich says to go to EG&G Special Projects building at Grier and Paradise. "Meet at 10 A.M. - don't be
+      late!!"
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric W. Davis's own notes
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
+        title: EG&G
+        slug: egg
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: a25fe5ab-c486-494f-bf84-17caeddfb240
+        title: Rich
+        slug: rich
+    date: '2002-10-16'
+    date_end: null
+    location_in_record: char:83-184
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: 58ac56be-5ad4-4fdf-aa61-ee0f8a52f0b5
+    claim_hash: ec975b8c87d72666d48f630e9f5424b007419d997fe77db252e734cad80bb496
+    content: Jim Dilettoso went to dozens of manufacturers of image processing equipment, including government contractors
+      EG&G and TRW, government labs including the United States Geological Survey and the Jet Propulsion Laboratory (JPL),
+      and universities including the University of Southern California (USC) and Arizona State University, to find scientists
+      able to contribute to photo-testing projects for Wendelle Stevens.
+    original_excerpt: Dilettoso went to dozens of manufacturers of image processing equipment, including government contractors
+      like EG&G and TRW, government labs like the United States Geological Survey and JPL, and certain universities that were
+      known for their image processing and analysis capabilities; USC and Arizona State University among them.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38fbdf77-a36d-4276-9ea2-f85f3b4968f5
+        title: Jim Dilettoso
+        slug: jim-dilettoso
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 537c518b-23ca-4725-aa74-5fe44b97fc85
+        title: Wendell Stevens
+        slug: wendell-stevens
+      - node_id: 681c3b85-a34e-4425-b09b-e7ff743d2c67
+        title: University of Southern California (USC)
+        slug: university-of-southern-california-usc
+      - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
+        title: EG&G
+        slug: egg
+      - node_id: 9392904e-6a01-4707-8264-fceb1803d530
+        title: United States Geological Survey (USGS)
+        slug: united-states-geological-survey-usgs
+      - node_id: df3f9a71-067c-4b5f-acd0-4cdb96ee702d
+        title: TRW
+        slug: trw
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch10:18669-18994
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c0bdd844-f16c-4555-9aa5-fa80648bffd5
+    claim_hash: be0dab07771e539520c140f76face8cae5967658797d6f47ca9a8fab097017ae
+    content: A pilot who had been a co-pilot for EG&G, flying Janet Airlines flights into USA, Nevada, Groom Lake sometime
+      between approximately 1987 and 1991, reached out to Chris Ramsay.
+    original_excerpt: He was a co-pilot for EG&G flying the Janet flights into Groom Lake between 87 and 91, something like
+      that.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 9ee765f0-15bc-4d03-9bfa-c1d6b015a860
+      title: Luigi Venditelli
+    provenance_chain:
+      origin_kind: named
+      origin: a co-pilot who flew Janet Airlines flights for EG&G
+      relay:
+        - the pilot's account to Chris Ramsay
+        - Luigi Venditelli relaying it
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
+        title: Janet Airlines
+        slug: janet-airlines
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
+        title: EG&G
+        slug: egg
+      - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+        title: USA, Nevada, Groom Lake
+        slug: nevada-groom-lake-usa
+    date: 1987/1991
+    date_end: null
+    location_in_record: 00:11:20.5-00:11:27.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 1624e74b-8c2c-4403-a9fc-ff6de1745b49
+      record_title: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+      record_date: '2026-05-08'
+      record_reference: https://www.youtube.com/watch?v=SSeJ2883nF4
+      content_hash: sha256:5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c395425d1fcdbd
+      friendly_name: 2026-05-08-video-bob-lazar-just-revealed-his-biggest-secret-debriefed-ep-87.v2
+  - claim_id: e82dc86c-f4f6-4603-9add-29cc038a3843
+    claim_hash: f6937ca5a94b781f96fe9d5a3dcdc5519c027d6b7ef8cf0ea2acb0be6f11689a
+    content: The EG&G co-pilot who flew Janet Airlines flights into USA, Nevada, Groom Lake said he knew Dennis Mariani.
+    original_excerpt: And he said he knew Dennis Mariani.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 9ee765f0-15bc-4d03-9bfa-c1d6b015a860
+      title: Luigi Venditelli
+    provenance_chain:
+      origin_kind: named
+      origin: a co-pilot who flew Janet Airlines flights for EG&G
+      relay:
+        - the pilot's account to Chris Ramsay
+        - Luigi Venditelli relaying it
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
+        title: Janet Airlines
+        slug: janet-airlines
+      - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
+        title: EG&G
+        slug: egg
+      - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+        title: USA, Nevada, Groom Lake
+        slug: nevada-groom-lake-usa
+      - node_id: fcfc1448-b63d-4336-aa4d-ba414bf57d28
+        title: Dennis Mariani
+        slug: dennis-mariani
+    date: null
+    date_end: null
+    location_in_record: 00:11:31.8-00:11:33.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 1624e74b-8c2c-4403-a9fc-ff6de1745b49
+      record_title: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+      record_date: '2026-05-08'
+      record_reference: https://www.youtube.com/watch?v=SSeJ2883nF4
+      content_hash: sha256:5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c395425d1fcdbd
+      friendly_name: 2026-05-08-video-bob-lazar-just-revealed-his-biggest-secret-debriefed-ep-87.v2

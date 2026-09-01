@@ -9,556 +9,571 @@ page:
   claim_count: 11
   claim_count_total: 11
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 11
+  tokens_estimated: 3485
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 11
 related_nodes:
-- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-  title: Harold E. Puthoff
-  node_type: person
-  slug: harold-e-puthoff
-  shared_claims: 3
-- node_id: 412679c1-c7c7-4961-aba8-f7116fe8f695
-  title: 1973 Pat Price remote-viewing of alleged "UFO bases" for Hal Puthoff
-  node_type: event
-  slug: 1973-pat-price-remote-viewing-of-alleged-ufo-bases-for-hal-puthoff
-  shared_claims: 2
-- node_id: 2bdd3c76-4ff1-47a1-820f-ea0eea457ba0
-  title: Australia, Northern Territory, Mt. Zeil
-  node_type: place
-  slug: northern-territory-mt-zeil-australia
-  shared_claims: 2
-- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-  title: Remote Viewing (RV)
-  node_type: topic
-  slug: remote-viewing-rv
-  shared_claims: 2
-- node_id: 91ceb7e1-3d73-4c48-a248-a14171c0e311
-  title: Skip Atwater
-  node_type: person
-  slug: skip-atwater
-  shared_claims: 2
-- node_id: 8c455260-40f9-4940-82c4-fc9c44f44d19
-  title: Spain, Pyrenees, Mt. Perdido
-  node_type: place
-  slug: pyrenees-mt-perdido-spain
-  shared_claims: 2
-- node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
-  title: Stanford Research Institute (SRI)
-  node_type: organisation
-  slug: stanford-research-institute-sri
-  shared_claims: 2
-- node_id: 71556af9-e202-4f6e-9978-a5c332cca743
-  title: Australia, Northern Territory, Pine Gap
-  node_type: place
-  slug: northern-territory-pine-gap-australia
-  shared_claims: 1
-- node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
-  title: Edwin C. May
-  node_type: person
-  slug: edwin-c-may
-  shared_claims: 1
-- node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
-  title: Ingo Swann
-  node_type: person
-  slug: ingo-swann
-  shared_claims: 1
-- node_id: 82998c55-df89-4fb9-882a-d2e2b1ebfe7a
-  title: Ingo Swann's 1975-1977 remote viewing episodes
-  node_type: event
-  slug: ingo-swanns-1975-1977-remote-viewing-episodes
-  shared_claims: 1
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 1
-- node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
-  title: Joseph McMoneagle
-  node_type: person
-  slug: joseph-mcmoneagle
-  shared_claims: 1
-- node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-  title: Julia Mossbridge
-  node_type: person
-  slug: julia-mossbridge
-  shared_claims: 1
-- node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
-  title: National Security Agency (NSA)
-  node_type: organisation
-  slug: national-security-agency-nsa
-  shared_claims: 1
-- node_id: 8e820a7d-25f1-4ac2-ab52-88185e6bbf94
-  title: USA, Alaska, Mt. Hayes
-  node_type: place
-  slug: alaska-mt-hayes-usa
-  shared_claims: 1
-- node_id: 7b68b243-b58d-411f-b05d-9e651cf08e33
-  title: USA, West Virginia
-  node_type: place
-  slug: west-virginia-usa
-  shared_claims: 1
-- node_id: 3e906a5d-7e96-4cd8-bcaa-b5cf7ff27dfa
-  title: Zimbabwe, Mount Inyangani
-  node_type: place
-  slug: mount-inyangani-zimbabwe
-  shared_claims: 1
-- node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
-  title: psi
-  node_type: topic
-  slug: psi
-  shared_claims: 1
-claims:
-- claim_id: df72ab9c-594b-4c7f-aed0-926606b21c24
-  claim_hash: 6be921e86490e07bc1a68ffcce088ecb88c2244015ee6bd79244f483ef6daaa8
-  content: Jacques Vallée considers the Stanford Research Institute (SRI) experiments
-    with Ingo Swann and Pat Price as suggesting that remote viewing is based on an
-    addressing scheme.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
-    title: Stanford Research Institute (SRI)
-    slug: stanford-research-institute-sri
-  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
-    slug: remote-viewing-rv
-  - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
-    title: Ingo Swann
-    slug: ingo-swann
-  - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
-    title: Pat Price
-    slug: pat-price
-  date: null
-  date_end: null
-  location_in_record: ch13:62704-62813
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 3e907b24-9c5a-4782-90b9-5a0f34231f7d
-  claim_hash: 7d198c0dda0a9a6552b27838bc2d8a73370a8eb6631a1d84f90314014b7ef5ee
-  content: In 1973, Pat Price, one of the leading psychics in the Stanford Research
-    Institute's remote viewing programme, gave Hal Puthoff an unsolicited package
-    containing his remote-viewing notes describing four alleged "UFO bases" on Earth.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 3ff75793-423c-4333-8402-d5c543074091
-    title: Bill Chalker
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bill Chalker
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
-    title: Stanford Research Institute (SRI)
-    slug: stanford-research-institute-sri
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    node_type: person
+    slug: harold-e-puthoff
+    shared_claims: 3
   - node_id: 412679c1-c7c7-4961-aba8-f7116fe8f695
     title: 1973 Pat Price remote-viewing of alleged "UFO bases" for Hal Puthoff
+    node_type: event
     slug: 1973-pat-price-remote-viewing-of-alleged-ufo-bases-for-hal-puthoff
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
-    title: Pat Price
-    slug: pat-price
-  date: '1973'
-  date_end: null
-  location_in_record: ch23:30560-30821
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 1afcba14-41a3-4e0b-9a65-abe9851f645f
-  claim_hash: a60097a0538bd1ec46d054c1e1bc32f4b982b98611249312ea429e1edb15e3bb
-  content: Hal Puthoff was uncertain what to make of Pat Price's remote-viewing notes
-    but was confident of Price's remarkable psychic skills.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 3ff75793-423c-4333-8402-d5c543074091
-    title: Bill Chalker
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bill Chalker
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
-    title: Pat Price
-    slug: pat-price
-  date: null
-  date_end: null
-  location_in_record: ch23:30828-30909
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 8e38f7aa-401b-4c72-9902-027951f2015e
-  claim_hash: 004be7b49781b2f5765c5b9cd046c4d66eea9e0b970a398f90efb6595ce69c24
-  content: One of the alleged UFO bases identified by Pat Price was located just west
-    of the secret United States spy base at Pine Gap in central Australia.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 3ff75793-423c-4333-8402-d5c543074091
-    title: Bill Chalker
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bill Chalker
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 2
+  - node_id: 2bdd3c76-4ff1-47a1-820f-ea0eea457ba0
+    title: Australia, Northern Territory, Mt. Zeil
+    node_type: place
+    slug: northern-territory-mt-zeil-australia
+    shared_claims: 2
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    node_type: topic
+    slug: remote-viewing-rv
+    shared_claims: 2
+  - node_id: 91ceb7e1-3d73-4c48-a248-a14171c0e311
+    title: Skip Atwater
+    node_type: person
+    slug: skip-atwater
+    shared_claims: 2
+  - node_id: 8c455260-40f9-4940-82c4-fc9c44f44d19
+    title: Spain, Pyrenees, Mt. Perdido
+    node_type: place
+    slug: pyrenees-mt-perdido-spain
+    shared_claims: 2
+  - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+    title: Stanford Research Institute (SRI)
+    node_type: organisation
+    slug: stanford-research-institute-sri
+    shared_claims: 2
   - node_id: 71556af9-e202-4f6e-9978-a5c332cca743
     title: Australia, Northern Territory, Pine Gap
+    node_type: place
     slug: northern-territory-pine-gap-australia
-  - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
-    title: Pat Price
-    slug: pat-price
-  date: null
-  date_end: null
-  location_in_record: ch23:31044-31158
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: cf93ff54-d6ea-4730-919f-db3ed81bf535
-  claim_hash: fa3c4ba6d1028ae705db802028efc2ee5c1e128469cd3695786b403affbf8326
-  content: Hal Puthoff was intrigued that Pat Price's remote-viewing location for
-    the alleged Australian alien base was Mt. Zeil.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 3ff75793-423c-4333-8402-d5c543074091
-    title: Bill Chalker
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bill Chalker
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2bdd3c76-4ff1-47a1-820f-ea0eea457ba0
-    title: Australia, Northern Territory, Mt. Zeil
-    slug: northern-territory-mt-zeil-australia
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
-    title: Pat Price
-    slug: pat-price
-  date: null
-  date_end: null
-  location_in_record: ch23:31503-31596
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 56fd6d72-f7f9-4518-9b55-6225be3ae50e
-  claim_hash: c093fe043ee20d582be041da097b91c18371d50465b3dd7d94808155a2260ffc
-  content: By the early 1980s, Pat Price's remote-viewing notes had reached army officer
-    Skip Atwater, who used Price's targets in a blind controlled fashion while training
-    and assessing army remote viewers.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 3ff75793-423c-4333-8402-d5c543074091
-    title: Bill Chalker
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bill Chalker
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 82998c55-df89-4fb9-882a-d2e2b1ebfe7a
-    title: Ingo Swann's 1975-1977 remote viewing episodes
-    slug: ingo-swanns-1975-1977-remote-viewing-episodes
-  - node_id: 91ceb7e1-3d73-4c48-a248-a14171c0e311
-    title: Skip Atwater
-    slug: skip-atwater
-  - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
-    title: Pat Price
-    slug: pat-price
-  date: null
-  date_end: null
-  location_in_record: ch23:31602-31822
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: f4c0f543-8660-4d81-9fbf-ace10434e311
-  claim_hash: c5d11348f623cd59f669811919aed1c750e3d6fba8c1e51f52fd261a127c60ef
-  content: Skip Atwater's own army remote viewers, working blind, supplied information
-    suggesting hidden underground facilities with an alien or extraterrestrial connection
-    at the same four localities Pat Price had identified a decade earlier.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 3ff75793-423c-4333-8402-d5c543074091
-    title: Bill Chalker
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bill Chalker
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 91ceb7e1-3d73-4c48-a248-a14171c0e311
-    title: Skip Atwater
-    slug: skip-atwater
-  - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
-    title: Pat Price
-    slug: pat-price
-  date: null
-  date_end: null
-  location_in_record: ch23:31831-32068
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 77cbd21a-7a00-476c-9b50-e01b0db11960
-  claim_hash: 3d1a452c7e0438270085d9018dc8ae29e188f9a68a166c1bff0cca5454150af7
-  content: The four alleged alien bases identified by Pat Price's remote viewing were
-    located at Mt. Zeil in Australia, Mt. Hayes in Alaska, Mt. Perdido in the Spanish
-    Pyrenees, and Mt. Inyangani in Zimbabwe.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 3ff75793-423c-4333-8402-d5c543074091
-    title: Bill Chalker
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bill Chalker
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2bdd3c76-4ff1-47a1-820f-ea0eea457ba0
-    title: Australia, Northern Territory, Mt. Zeil
-    slug: northern-territory-mt-zeil-australia
-  - node_id: 3e906a5d-7e96-4cd8-bcaa-b5cf7ff27dfa
-    title: Zimbabwe, Mount Inyangani
-    slug: mount-inyangani-zimbabwe
-  - node_id: 8c455260-40f9-4940-82c4-fc9c44f44d19
-    title: Spain, Pyrenees, Mt. Perdido
-    slug: pyrenees-mt-perdido-spain
-  - node_id: 8e820a7d-25f1-4ac2-ab52-88185e6bbf94
-    title: USA, Alaska, Mt. Hayes
-    slug: alaska-mt-hayes-usa
-  - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
-    title: Pat Price
-    slug: pat-price
-  date: null
-  date_end: null
-  location_in_record: ch23:32077-32236
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 6e06a9a1-b6ea-48fa-bc29-26d5ba6eb690
-  claim_hash: d4be03a95332c8c2943ddccee3ab084cd9412fd8035be2fc2b077703edf92a45
-  content: Mt. Perdido in the Spanish Pyrenees, near the Basque territories, was identified
-    as one of four underground "UFO bases" by remote viewer Pat Price during 1970s
-    remote viewing sessions.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: footnote 171
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 412679c1-c7c7-4961-aba8-f7116fe8f695
-    title: 1973 Pat Price remote-viewing of alleged "UFO bases" for Hal Puthoff
-    slug: 1973-pat-price-remote-viewing-of-alleged-ufo-bases-for-hal-puthoff
-  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
-    slug: remote-viewing-rv
-  - node_id: 8c455260-40f9-4940-82c4-fc9c44f44d19
-    title: Spain, Pyrenees, Mt. Perdido
-    slug: pyrenees-mt-perdido-spain
-  - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
-    title: Pat Price
-    slug: pat-price
-  date: null
-  date_end: null
-  location_in_record: ch23:54044-54286
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 76b1b0ab-78bd-45f0-88f3-73fbaab7a2b5
-  claim_hash: 0da084b2ce1518707421da9d677ce6d8de356c40e90a4f1e307dadf13e18cc1c
-  content: Pat Price, working from a couch on the west coast of the United States,
-    remote viewed a secret National Security Agency location in West Virginia and
-    correctly described identifying labels on file folders locked in a subterranean
-    cabinet there.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: named
-    origin: Pat Price
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
-    title: National Security Agency (NSA)
-    slug: national-security-agency-nsa
-  - node_id: 7b68b243-b58d-411f-b05d-9e651cf08e33
-    title: USA, West Virginia
-    slug: west-virginia-usa
-  - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
-    title: Pat Price
-    slug: pat-price
-  date: null
-  date_end: null
-  location_in_record: ch11:33958-34137
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: baef5e12-eeda-4d54-a79f-54a60695c2fb
-  claim_hash: b382b08683f513b984d306979ec5edae9f2d46fd0e4da4bdc12a09dcd0d2e894
-  content: Julia Mossbridge heard a story, she believes from Edwin May but possibly
-    from Joseph McMoneagle, that in the 1990s the Russians said to the Americans "you
-    killed all your psychics", referring to Pat Price and possibly others.
-  original_excerpt: And at the time I heard a story, I think it was from Ed May, but
-    maybe it was from Joe, about the Russians in the 90s saying, to America, you killed
-    all your psychics, referring to Pat Price and maybe others.
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: anonymous
-    origin: unnamed Russian officials in the 1990s
-    relay:
-    - Edwin May or Joseph McMoneagle
-    - Julia Mossbridge
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
   - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
     title: Edwin C. May
+    node_type: person
     slug: edwin-c-may
-  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-    slug: julia-mossbridge
+    shared_claims: 1
+  - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+    title: Ingo Swann
+    node_type: person
+    slug: ingo-swann
+    shared_claims: 1
+  - node_id: 82998c55-df89-4fb9-882a-d2e2b1ebfe7a
+    title: Ingo Swann's 1975-1977 remote viewing episodes
+    node_type: event
+    slug: ingo-swanns-1975-1977-remote-viewing-episodes
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
   - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
     title: Joseph McMoneagle
+    node_type: person
     slug: joseph-mcmoneagle
-  - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
-    title: Pat Price
-    slug: pat-price
+    shared_claims: 1
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    node_type: person
+    slug: julia-mossbridge
+    shared_claims: 1
+  - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+    title: National Security Agency (NSA)
+    node_type: organisation
+    slug: national-security-agency-nsa
+    shared_claims: 1
+  - node_id: 8e820a7d-25f1-4ac2-ab52-88185e6bbf94
+    title: USA, Alaska, Mt. Hayes
+    node_type: place
+    slug: alaska-mt-hayes-usa
+    shared_claims: 1
+  - node_id: 7b68b243-b58d-411f-b05d-9e651cf08e33
+    title: USA, West Virginia
+    node_type: place
+    slug: west-virginia-usa
+    shared_claims: 1
+  - node_id: 3e906a5d-7e96-4cd8-bcaa-b5cf7ff27dfa
+    title: Zimbabwe, Mount Inyangani
+    node_type: place
+    slug: mount-inyangani-zimbabwe
+    shared_claims: 1
   - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
     title: psi
+    node_type: topic
     slug: psi
-  date: null
-  date_end: null
-  location_in_record: 02:32:40.8-02:32:57.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
+    shared_claims: 1
+claims:
+  - claim_id: df72ab9c-594b-4c7f-aed0-926606b21c24
+    claim_hash: 6be921e86490e07bc1a68ffcce088ecb88c2244015ee6bd79244f483ef6daaa8
+    content: Jacques Vallée considers the Stanford Research Institute (SRI) experiments with Ingo Swann and Pat Price as suggesting
+      that remote viewing is based on an addressing scheme.
+    original_excerpt: The SRI experiments with Swann and Price, for example, suggest that remote viewing is based on an addressing
+      scheme.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+        title: Stanford Research Institute (SRI)
+        slug: stanford-research-institute-sri
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+        title: Pat Price
+        slug: pat-price
+    date: null
+    date_end: null
+    location_in_record: ch13:62704-62813
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 3e907b24-9c5a-4782-90b9-5a0f34231f7d
+    claim_hash: 7d198c0dda0a9a6552b27838bc2d8a73370a8eb6631a1d84f90314014b7ef5ee
+    content: In 1973, Pat Price, one of the leading psychics in the Stanford Research Institute's remote viewing programme,
+      gave Hal Puthoff an unsolicited package containing his remote-viewing notes describing four alleged "UFO bases" on Earth.
+    original_excerpt: In 1973 Pat Price, one of the “stars” of the Stanford Research Institute’s (SRI) genesis RV program,
+      gave an unsolicited package to Hal Puthoff, one of the key scientists running the SRI project. It contained Price’s
+      remote viewing notes of four “UFO bases” on Earth.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+        title: Stanford Research Institute (SRI)
+        slug: stanford-research-institute-sri
+      - node_id: 412679c1-c7c7-4961-aba8-f7116fe8f695
+        title: 1973 Pat Price remote-viewing of alleged "UFO bases" for Hal Puthoff
+        slug: 1973-pat-price-remote-viewing-of-alleged-ufo-bases-for-hal-puthoff
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+        title: Pat Price
+        slug: pat-price
+    date: '1973'
+    date_end: null
+    location_in_record: ch23:30560-30821
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 1afcba14-41a3-4e0b-9a65-abe9851f645f
+    claim_hash: a60097a0538bd1ec46d054c1e1bc32f4b982b98611249312ea429e1edb15e3bb
+    content: Hal Puthoff was uncertain what to make of Pat Price's remote-viewing notes but was confident of Price's remarkable
+      psychic skills.
+    original_excerpt: Puthoff didn’t know what to think, but he was sure of Price’s remarkable psychic skills.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+        title: Pat Price
+        slug: pat-price
+    date: null
+    date_end: null
+    location_in_record: ch23:30828-30909
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 8e38f7aa-401b-4c72-9902-027951f2015e
+    claim_hash: 004be7b49781b2f5765c5b9cd046c4d66eea9e0b970a398f90efb6595ce69c24
+    content: One of the alleged UFO bases identified by Pat Price was located just west of the secret United States spy base
+      at Pine Gap in central Australia.
+    original_excerpt: One of the bases was alleged to be located just to the west of the secret U.S. spy base in central Australia—Pine
+      Gap.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 71556af9-e202-4f6e-9978-a5c332cca743
+        title: Australia, Northern Territory, Pine Gap
+        slug: northern-territory-pine-gap-australia
+      - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+        title: Pat Price
+        slug: pat-price
+    date: null
+    date_end: null
+    location_in_record: ch23:31044-31158
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: cf93ff54-d6ea-4730-919f-db3ed81bf535
+    claim_hash: fa3c4ba6d1028ae705db802028efc2ee5c1e128469cd3695786b403affbf8326
+    content: Hal Puthoff was intrigued that Pat Price's remote-viewing location for the alleged Australian alien base was
+      Mt. Zeil.
+    original_excerpt: Puthoff was intrigued, as Price’s RV location of the alleged Australian “alien base” was Mt. Zeil!
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2bdd3c76-4ff1-47a1-820f-ea0eea457ba0
+        title: Australia, Northern Territory, Mt. Zeil
+        slug: northern-territory-mt-zeil-australia
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+        title: Pat Price
+        slug: pat-price
+    date: null
+    date_end: null
+    location_in_record: ch23:31503-31596
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 56fd6d72-f7f9-4518-9b55-6225be3ae50e
+    claim_hash: c093fe043ee20d582be041da097b91c18371d50465b3dd7d94808155a2260ffc
+    content: By the early 1980s, Pat Price's remote-viewing notes had reached army officer Skip Atwater, who used Price's
+      targets in a blind controlled fashion while training and assessing army remote viewers.
+    original_excerpt: By the early 1980s these notes made their way into the hands of army officer Atwater. Charged with the
+      responsibility of training and assessing the army remote viewers he utilized Price’s “targets” in a blind controlled
+      fashion.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 82998c55-df89-4fb9-882a-d2e2b1ebfe7a
+        title: Ingo Swann's 1975-1977 remote viewing episodes
+        slug: ingo-swanns-1975-1977-remote-viewing-episodes
+      - node_id: 91ceb7e1-3d73-4c48-a248-a14171c0e311
+        title: Skip Atwater
+        slug: skip-atwater
+      - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+        title: Pat Price
+        slug: pat-price
+    date: null
+    date_end: null
+    location_in_record: ch23:31602-31822
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: f4c0f543-8660-4d81-9fbf-ace10434e311
+    claim_hash: c5d11348f623cd59f669811919aed1c750e3d6fba8c1e51f52fd261a127c60ef
+    content: Skip Atwater's own army remote viewers, working blind, supplied information suggesting hidden underground facilities
+      with an alien or extraterrestrial connection at the same four localities Pat Price had identified a decade earlier.
+    original_excerpt: He was struck when his own army remote viewers supplied him with information that suggested there were
+      hidden underground facilities with some sort of alien or extraterrestrial connection at the four localities Price had
+      viewed a decade earlier.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 91ceb7e1-3d73-4c48-a248-a14171c0e311
+        title: Skip Atwater
+        slug: skip-atwater
+      - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+        title: Pat Price
+        slug: pat-price
+    date: null
+    date_end: null
+    location_in_record: ch23:31831-32068
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 77cbd21a-7a00-476c-9b50-e01b0db11960
+    claim_hash: 3d1a452c7e0438270085d9018dc8ae29e188f9a68a166c1bff0cca5454150af7
+    content: The four alleged alien bases identified by Pat Price's remote viewing were located at Mt. Zeil in Australia,
+      Mt. Hayes in Alaska, Mt. Perdido in the Spanish Pyrenees, and Mt. Inyangani in Zimbabwe.
+    original_excerpt: Apart from Mt. Zeil in Australia, the other three “alien bases” were located at Mt. Hayes in Alaska,
+      Mt. Perdido in the Spanish Pyrenees, and Mt. Inyangani in Zimbabwe!
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2bdd3c76-4ff1-47a1-820f-ea0eea457ba0
+        title: Australia, Northern Territory, Mt. Zeil
+        slug: northern-territory-mt-zeil-australia
+      - node_id: 3e906a5d-7e96-4cd8-bcaa-b5cf7ff27dfa
+        title: Zimbabwe, Mount Inyangani
+        slug: mount-inyangani-zimbabwe
+      - node_id: 8c455260-40f9-4940-82c4-fc9c44f44d19
+        title: Spain, Pyrenees, Mt. Perdido
+        slug: pyrenees-mt-perdido-spain
+      - node_id: 8e820a7d-25f1-4ac2-ab52-88185e6bbf94
+        title: USA, Alaska, Mt. Hayes
+        slug: alaska-mt-hayes-usa
+      - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+        title: Pat Price
+        slug: pat-price
+    date: null
+    date_end: null
+    location_in_record: ch23:32077-32236
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 6e06a9a1-b6ea-48fa-bc29-26d5ba6eb690
+    claim_hash: d4be03a95332c8c2943ddccee3ab084cd9412fd8035be2fc2b077703edf92a45
+    content: Mt. Perdido in the Spanish Pyrenees, near the Basque territories, was identified as one of four underground "UFO
+      bases" by remote viewer Pat Price during 1970s remote viewing sessions.
+    original_excerpt: Perhaps an interesting place to contemplate that Mt. Perdido in the Spanish Pyrenees, near the Basque
+      territories, was one of four underground “UFO bases” identified by remote viewing back in the 1970s by pioneer and “star”
+      remote viewer Pat Price.
+    claim_type: hearsay
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: footnote 171
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 412679c1-c7c7-4961-aba8-f7116fe8f695
+        title: 1973 Pat Price remote-viewing of alleged "UFO bases" for Hal Puthoff
+        slug: 1973-pat-price-remote-viewing-of-alleged-ufo-bases-for-hal-puthoff
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 8c455260-40f9-4940-82c4-fc9c44f44d19
+        title: Spain, Pyrenees, Mt. Perdido
+        slug: pyrenees-mt-perdido-spain
+      - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+        title: Pat Price
+        slug: pat-price
+    date: null
+    date_end: null
+    location_in_record: ch23:54044-54286
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 76b1b0ab-78bd-45f0-88f3-73fbaab7a2b5
+    claim_hash: 0da084b2ce1518707421da9d677ce6d8de356c40e90a4f1e307dadf13e18cc1c
+    content: Pat Price, working from a couch on the west coast of the United States, remote viewed a secret National Security
+      Agency location in West Virginia and correctly described identifying labels on file folders locked in a subterranean
+      cabinet there.
+    original_excerpt: From a couch on the west coast, Price penetrated a secret NSA location in West Virginia and correctly
+      described identifying labels on manila file folders locked in a subterranean cabinet.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Pat Price
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 7b68b243-b58d-411f-b05d-9e651cf08e33
+        title: USA, West Virginia
+        slug: west-virginia-usa
+      - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+        title: Pat Price
+        slug: pat-price
+    date: null
+    date_end: null
+    location_in_record: ch11:33958-34137
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: baef5e12-eeda-4d54-a79f-54a60695c2fb
+    claim_hash: b382b08683f513b984d306979ec5edae9f2d46fd0e4da4bdc12a09dcd0d2e894
+    content: Julia Mossbridge heard a story, she believes from Edwin May but possibly from Joseph McMoneagle, that in the
+      1990s the Russians said to the Americans "you killed all your psychics", referring to Pat Price and possibly others.
+    original_excerpt: And at the time I heard a story, I think it was from Ed May, but maybe it was from Joe, about the Russians
+      in the 90s saying, to America, you killed all your psychics, referring to Pat Price and maybe others.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed Russian officials in the 1990s
+      relay:
+        - Edwin May or Joseph McMoneagle
+        - Julia Mossbridge
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+        title: Edwin C. May
+        slug: edwin-c-may
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+      - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+        title: Pat Price
+        slug: pat-price
+      - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
+        title: psi
+        slug: psi
+    date: null
+    date_end: null
+    location_in_record: 02:32:40.8-02:32:57.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

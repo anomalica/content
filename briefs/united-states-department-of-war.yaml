@@ -9,691 +9,684 @@ page:
   claim_count: 15
   claim_count_total: 15
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 15
+  tokens_estimated: 4566
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 15
 related_nodes:
-- node_id: 8671e6b7-b36f-418a-a532-8a67c5f91010
-  title: Apollo 17
-  node_type: event
-  slug: apollo-17
-  shared_claims: 4
-- node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-  title: Ross Coulthart
-  node_type: person
-  slug: ross-coulthart
-  shared_claims: 4
-- node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-  title: war.gov/UFOs release
-  node_type: document
-  slug: wargovufos-release
-  shared_claims: 4
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 2
-- node_id: b258ba79-75af-4717-8da2-cd62d86428e6
-  title: Maaneli "Max" Derakhshani
-  node_type: person
-  slug: maaneli-max-derakhshani
-  shared_claims: 2
-- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-  title: National Aeronautics and Space Administration (NASA)
-  node_type: organisation
-  slug: national-aeronautics-and-space-administration-nasa
-  shared_claims: 2
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 2
-- node_id: be164183-f1cf-461d-be1d-53fc0b830a84
-  title: 1947 Roswell Unidentified Aerial Phenomena (UAP) crash
-  node_type: event
-  slug: 1947-roswell-unidentified-aerial-phenomena-uap-crash
-  shared_claims: 1
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 1
-- node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
-  title: Manhattan Project
-  node_type: project
-  slug: manhattan-project
-  shared_claims: 1
-- node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
-  title: The Pentagon
-  node_type: organisation
-  slug: the-pentagon
-  shared_claims: 1
-- node_id: efa24386-d6bb-4e71-a245-4ee4b647adcb
-  title: The White House
-  node_type: object
-  slug: the-white-house
-  shared_claims: 1
-- node_id: 378962cf-3d85-4df1-bf17-e4047e308491
-  title: Wikileaks
-  node_type: organisation
-  slug: wikileaks
-  shared_claims: 1
-- node_id: bee3c8f3-c1a2-4805-8f0f-178353cac7c4
-  title: catastrophic disclosure
-  node_type: topic
-  slug: catastrophic-disclosure
-  shared_claims: 1
-- node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
-  title: war.gov Unidentified Flying Object (UFO) files website
-  node_type: document
-  slug: wargov-unidentified-flying-object-ufo-files-website
-  shared_claims: 1
-claims:
-- claim_id: cb8920bd-8c29-43bc-b3c3-c937a8695d9b
-  claim_hash: f95b407b28124adcb1ed36248f4ce9bfda7471a0a7a44e8fa80b34bdc64dbc5b
-  content: Five years before the 1947 Roswell UAP crash, the United States Department
-    of War hid the Manhattan Project, the successful US mission to build the world's
-    first atomic bomb, using multiple secret facilities in multiple US locations staffed
-    by thousands of American workers.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
-    title: United States Department of War
-    slug: united-states-department-of-war
-  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
-    title: Manhattan Project
-    slug: manhattan-project
-  - node_id: be164183-f1cf-461d-be1d-53fc0b830a84
-    title: 1947 Roswell Unidentified Aerial Phenomena (UAP) crash
-    slug: 1947-roswell-unidentified-aerial-phenomena-uap-crash
-  date: null
-  date_end: null
-  location_in_record: ch12:17680-17936
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 67c9f2d3-4014-4e69-b97f-03236794c497
-  claim_hash: 5143f231df90ced284e199ff896511ca4c0bb50f7dedccf608768ede0a3d1244
-  content: The United States Department of War constructed the Pentagon at the beginning
-    of World War II.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
-    title: United States Department of War
-    slug: united-states-department-of-war
-  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
-    title: The Pentagon
-    slug: the-pentagon
-  date: null
-  date_end: null
-  location_in_record: ch17:417-497
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 43064c47-13c1-4065-93f6-55e14e475c29
-  claim_hash: 9a2b7da72da3722d81e5bda9b6514fcbbccad813e4882e426066335ddc1283d1
-  content: The war.gov/UFOs release of United States Department of War documents,
-    data, videos, and imagery received hundreds of millions of hits.
-  original_excerpt: which at last can't had hundreds of millions of hits
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
-    title: United States Department of War
-    slug: united-states-department-of-war
-  - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-    title: war.gov/UFOs release
-    slug: wargovufos-release
-  date: null
-  date_end: null
-  location_in_record: 00:00:34.5-00:00:38.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: a99f4f50-a225-457e-9568-2093fc5e03cc
-  claim_hash: 86aa6558178aef0376c4e74cf1a93b9aa0495d3438a62f93bda7acf72573bf9f
-  content: Ross Coulthart considers the war.gov/UFOs release an underwhelming release
-    of documents and information that will not put the genie back in the bottle on
-    the subject of Unidentified Aerial Phenomena (UAP).
-  original_excerpt: If the Pentagon was hoping it could put the genie back into the
-    bottle on the subject of UAPs by releasing such, quite frankly, an underwhelming
-    release of documents and information, it's not going to work.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
-    title: United States Department of War
-    slug: united-states-department-of-war
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-    title: war.gov/UFOs release
-    slug: wargovufos-release
-  date: null
-  date_end: null
-  location_in_record: 00:00:39.1-00:00:52.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: 52c9411c-7bf3-4201-9d86-1cd9bf9f901b
-  claim_hash: c6880778e17f5b72ebec16c174c491f795a6d287e98bd834813b014000a788ea
-  content: In its commentary on the Apollo 17 image of three blue lights, the United
-    States Department of War did not describe them as three objects but used the term
-    "potentially a physical object" in the singular.
-  original_excerpt: They didn't say it was three objects. They actually used the term
-    potentially a physical object singular.
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: document
-    origin: United States Department of War commentary on the Apollo 17 image
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
-    title: United States Department of War
-    slug: united-states-department-of-war
   - node_id: 8671e6b7-b36f-418a-a532-8a67c5f91010
     title: Apollo 17
+    node_type: event
     slug: apollo-17
-  date: null
-  date_end: null
-  location_in_record: 00:04:44.5-00:04:50.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: 9df814bc-4062-4b6f-b0fd-359e531799ca
-  claim_hash: 542e5781a575cacce301e0c0da26d95146ce6eb6dc16d22ccdd6d0783ddd48ad
-  content: NASA and the United States Department of War said they acquired the original
-    Apollo 17 film of the blue-lights image and would conduct further analyses and
-    report their findings.
-  original_excerpt: they said that they acquired the original film and they're going
-    to do further analyses, both NASA and, I guess, the Department of War, and then
-    they'll let us know what they find.
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
-    title: Maaneli "Max" Derakhshani
-  provenance_chain:
-    origin_kind: named
-    origin: National Aeronautics and Space Administration (NASA) and the United States
-      Department of War
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
-    title: United States Department of War
-    slug: united-states-department-of-war
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 8671e6b7-b36f-418a-a532-8a67c5f91010
-    title: Apollo 17
-    slug: apollo-17
-  date: null
-  date_end: null
-  location_in_record: 00:06:23.9-00:06:32.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: 32f38b60-2e05-4a89-a5d2-bbfb7d643430
-  claim_hash: d22c5591a63ad4c6f8c5012dc62d9984244c31e32bd47aa36544bc054c2fa082
-  content: The United States Department of War's war.gov/UFOs release acknowledged
-    that at least one of the Apollo lunar anomalies is potentially a physical object.
-  original_excerpt: now the Department of War has acknowledged that these are potentially,
-    at least one of them, is potentially a physical object.
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: document
-    origin: United States Department of War war.gov/UFOs release
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
-    title: United States Department of War
-    slug: united-states-department-of-war
-  - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-    title: war.gov/UFOs release
-    slug: wargovufos-release
-  date: null
-  date_end: null
-  location_in_record: 00:15:11.6-00:15:19.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: 65544a67-c966-457b-b581-cb8f08995821
-  claim_hash: dac5f733c0bed9f62a812d59192053db597e438ca237d446444f723b2ac4989e
-  content: The United States Department of War made its "potentially a physical object"
-    declaration about only the one Apollo 17 triangular blue-lights image, not about
-    other lunar anomalies.
-  original_excerpt: It's only made that declaration with that one Apollo 17 three
-    dotted image.
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: document
-    origin: United States Department of War war.gov/UFOs release
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
-    title: United States Department of War
-    slug: united-states-department-of-war
-  - node_id: 8671e6b7-b36f-418a-a532-8a67c5f91010
-    title: Apollo 17
-    slug: apollo-17
-  date: null
-  date_end: null
-  location_in_record: 00:15:29.3-00:15:34.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: 355db718-8e2e-497f-a6dc-3c73fc563059
-  claim_hash: afda538233e0cc47daa0ed48dea9b2faf95b0326106dbfbe68417d84b782ba7e
-  content: The STS-48 UAP incident footage did not feature among the UAP footage released
-    by the United States Department of War the week prior to this discussion.
-  original_excerpt: this STS video that you're talking about that yourself Dr Mark
-    Carlotto and others have taken a close interest in it didn't feature in the UAPs
-    released by the War Department last week.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
-    title: United States Department of War
-    slug: united-states-department-of-war
-  - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-    title: war.gov/UFOs release
-    slug: wargovufos-release
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 4
   - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
     title: Ross Coulthart
+    node_type: person
     slug: ross-coulthart
-  date: null
-  date_end: null
-  location_in_record: 00:31:20.3-00:31:35.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: 5f799684-b7f1-46ff-b83e-dbf3fbaf0114
-  claim_hash: db30ca27c7c61463b6fd88237832fe72460506c5207473584ad556a221957f4b
-  content: Maaneli "Max" Derakhshani hopes the current National Aeronautics and Space
-    Administration (NASA) leadership and the United States Department of War will
-    reassess the STS-48 and STS-80 videos, or at least release them to the public.
-  original_excerpt: I do hope that The current NASA leadership and Department of War
-    will reassess these videos, or at least release them to the public for the public
-    to decide for themselves.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
-    title: Maaneli "Max" Derakhshani
-  provenance_chain:
-    origin_kind: speaker
-    origin: Maaneli "Max" Derakhshani
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
-    title: United States Department of War
-    slug: united-states-department-of-war
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 4
+  - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
+    title: war.gov/UFOs release
+    node_type: document
+    slug: wargovufos-release
+    shared_claims: 4
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 2
   - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
     title: Maaneli "Max" Derakhshani
+    node_type: person
     slug: maaneli-max-derakhshani
-  date: null
-  date_end: null
-  location_in_record: 00:56:14.5-00:56:25.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: 888fa18c-8db5-4387-9727-5315283c5ae6
-  claim_hash: c76f71170a8895d7eaaac5fdfd6e0a43d8d94f3b773c339953ad7a1465bf44e1
-  content: Maaneli "Max" Derakhshani wonders whether Luis Elizondo's comment about
-    the space shuttle videos referred to STS-48 and STS-80, and whether Elizondo knows
-    what the United States Department of War will release next.
-  original_excerpt: I wonder if he was referring to STS-48 and STS-80, and if he knows
-    something about what the Department of War is going to release next in connection
-    with this.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
-    title: Maaneli "Max" Derakhshani
-  provenance_chain:
-    origin_kind: speaker
-    origin: Maaneli "Max" Derakhshani
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
-    title: United States Department of War
-    slug: united-states-department-of-war
+    shared_claims: 2
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 2
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 2
   - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
+    node_type: person
     slug: luis-elizondo
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
-    title: Maaneli "Max" Derakhshani
-    slug: maaneli-max-derakhshani
-  date: null
-  date_end: null
-  location_in_record: 01:00:02.2-01:00:11.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: 528520fa-37ed-4458-9148-2ad6dfa44cda
-  claim_hash: 1f7153308b234202c88c28b6557e6537f72b21efe43683824dee08ea850ba403
-  content: The United States Department of War has itself raised the Apollo 17 dots
-    as anomalous phenomena and as a physical object, according to Ross Coulthart.
-  original_excerpt: we have quite clearly anomalous phenomena that have been raised
-    as such by the Department of War, not by us, the Apollo 17 dots in particular,
-    as a physical object.
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: named
-    origin: United States Department of War
-    relay:
-    - Ross Coulthart
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
-    title: United States Department of War
-    slug: united-states-department-of-war
-  - node_id: 8671e6b7-b36f-418a-a532-8a67c5f91010
-    title: Apollo 17
-    slug: apollo-17
-  date: null
-  date_end: null
-  location_in_record: 01:01:29.5-01:01:40.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
-- claim_id: 33babc30-24d5-4ee3-bd88-f81b59389df2
-  claim_hash: e2463224d2d61d77b61d433035260fceab661e68039c451c6f2938cd73f62db9
-  content: Ross Coulthart considers the redactions applied to the videos posted on
-    the United States Department of War UFO website excessive.
-  original_excerpt: I know a lot of people get really frustrated about the redactions
-    that do appear on the videos, and I think they are excessive, the ones that have
-    been posted on the UFO Department of War website.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
-    title: United States Department of War
-    slug: united-states-department-of-war
-  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-    slug: ross-coulthart
-  - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
-    title: war.gov Unidentified Flying Object (UFO) files website
-    slug: wargov-unidentified-flying-object-ufo-files-website
-  date: null
-  date_end: null
-  location_in_record: 00:16:04.2-00:16:14.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
-    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
-    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
-    friendly_name: null
-- claim_id: 98d5cc85-a18b-4b86-8fb0-77be7dcc9e26
-  claim_hash: 77c9c56a2fd54f72b3db3d95bc48de6c95eb8060b5ed14a2e8708f15edc4dfa9
-  content: Ross Coulthart defines catastrophic disclosure as every video and piece
-    of information on ufology being inadvertently released in a single massive data
-    dump comparable to a WikiLeaks dump.
-  original_excerpt: Catastrophic disclosure would be for the government, for the Department
-    of War, for the president, if every single video, every single piece of information
-    on ufology was inadvertently released in a massive data dump, like a WikiLeaks
-    data dump
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
-    title: United States Department of War
-    slug: united-states-department-of-war
-  - node_id: 378962cf-3d85-4df1-bf17-e4047e308491
-    title: Wikileaks
-    slug: wikileaks
-  - node_id: bee3c8f3-c1a2-4805-8f0f-178353cac7c4
-    title: catastrophic disclosure
-    slug: catastrophic-disclosure
-  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-    slug: ross-coulthart
-  date: null
-  date_end: null
-  location_in_record: 00:17:20.6-00:17:35.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
-    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
-    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
-    friendly_name: null
-- claim_id: e6b117a6-acf9-4d0e-8833-b5f330beb140
-  claim_hash: 0ea2cc403682ed4a1e3269c32dfa5b96d06690fcc96c69dc56fdf325b1c11dab
-  content: Interest in the Unidentified Aerial Phenomena (UAP) subject has taken the
-    United States Department of War and the White House by surprise because of how
-    motivated people are to get at the truth.
-  original_excerpt: It has taken the Department of War and the White House by surprise
-    that people are so motivated to get to the truth of this.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
-    title: United States Department of War
-    slug: united-states-department-of-war
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-    slug: ross-coulthart
+    shared_claims: 1
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    node_type: project
+    slug: manhattan-project
+    shared_claims: 1
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    node_type: event
+    slug: roswell-incident-1947
+    shared_claims: 1
+  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+    title: The Pentagon
+    node_type: organisation
+    slug: the-pentagon
+    shared_claims: 1
   - node_id: efa24386-d6bb-4e71-a245-4ee4b647adcb
     title: The White House
+    node_type: object
     slug: the-white-house
-  date: null
-  date_end: null
-  location_in_record: 00:24:02.4-00:24:10.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
-    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
-    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 378962cf-3d85-4df1-bf17-e4047e308491
+    title: Wikileaks
+    node_type: organisation
+    slug: wikileaks
+    shared_claims: 1
+  - node_id: bee3c8f3-c1a2-4805-8f0f-178353cac7c4
+    title: catastrophic disclosure
+    node_type: topic
+    slug: catastrophic-disclosure
+    shared_claims: 1
+  - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
+    title: war.gov Unidentified Flying Object (UFO) files website
+    node_type: document
+    slug: wargov-unidentified-flying-object-ufo-files-website
+    shared_claims: 1
+claims:
+  - claim_id: cb8920bd-8c29-43bc-b3c3-c937a8695d9b
+    claim_hash: f95b407b28124adcb1ed36248f4ce9bfda7471a0a7a44e8fa80b34bdc64dbc5b
+    content: Five years before the 1947 Roswell UAP crash, the United States Department of War hid the Manhattan Project,
+      the successful US mission to build the world's first atomic bomb, using multiple secret facilities in multiple US locations
+      staffed by thousands of American workers.
+    original_excerpt: Five years before Roswell, the US Department of War hid the Manhattan Project—the successful US mission
+      to build the world’s first atomic bomb—utilizing multiple secret facilities in multiple US locations staffed by thousands
+      of patriotic American men and women
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+        title: United States Department of War
+        slug: united-states-department-of-war
+      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+        title: Manhattan Project
+        slug: manhattan-project
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: null
+    date_end: null
+    location_in_record: ch12:17680-17936
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 67c9f2d3-4014-4e69-b97f-03236794c497
+    claim_hash: 5143f231df90ced284e199ff896511ca4c0bb50f7dedccf608768ede0a3d1244
+    content: The United States Department of War constructed the Pentagon at the beginning of World War II.
+    original_excerpt: The US Department of War constructed the building at the beginning of World War II
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+        title: United States Department of War
+        slug: united-states-department-of-war
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+    date: null
+    date_end: null
+    location_in_record: ch17:417-497
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 43064c47-13c1-4065-93f6-55e14e475c29
+    claim_hash: 9a2b7da72da3722d81e5bda9b6514fcbbccad813e4882e426066335ddc1283d1
+    content: The war.gov/UFOs release of United States Department of War documents, data, videos, and imagery received hundreds
+      of millions of hits.
+    original_excerpt: which at last can't had hundreds of millions of hits
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+        title: United States Department of War
+        slug: united-states-department-of-war
+      - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
+        title: war.gov/UFOs release
+        slug: wargovufos-release
+    date: null
+    date_end: null
+    location_in_record: 00:00:34.5-00:00:38.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: a99f4f50-a225-457e-9568-2093fc5e03cc
+    claim_hash: 86aa6558178aef0376c4e74cf1a93b9aa0495d3438a62f93bda7acf72573bf9f
+    content: Ross Coulthart considers the war.gov/UFOs release an underwhelming release of documents and information that
+      will not put the genie back in the bottle on the subject of Unidentified Aerial Phenomena (UAP).
+    original_excerpt: If the Pentagon was hoping it could put the genie back into the bottle on the subject of UAPs by releasing
+      such, quite frankly, an underwhelming release of documents and information, it's not going to work.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+        title: United States Department of War
+        slug: united-states-department-of-war
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
+        title: war.gov/UFOs release
+        slug: wargovufos-release
+    date: null
+    date_end: null
+    location_in_record: 00:00:39.1-00:00:52.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: 52c9411c-7bf3-4201-9d86-1cd9bf9f901b
+    claim_hash: c6880778e17f5b72ebec16c174c491f795a6d287e98bd834813b014000a788ea
+    content: In its commentary on the Apollo 17 image of three blue lights, the United States Department of War did not describe
+      them as three objects but used the term "potentially a physical object" in the singular.
+    original_excerpt: They didn't say it was three objects. They actually used the term potentially a physical object singular.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: document
+      origin: United States Department of War commentary on the Apollo 17 image
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+        title: United States Department of War
+        slug: united-states-department-of-war
+      - node_id: 8671e6b7-b36f-418a-a532-8a67c5f91010
+        title: Apollo 17
+        slug: apollo-17
+    date: null
+    date_end: null
+    location_in_record: 00:04:44.5-00:04:50.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: 9df814bc-4062-4b6f-b0fd-359e531799ca
+    claim_hash: 542e5781a575cacce301e0c0da26d95146ce6eb6dc16d22ccdd6d0783ddd48ad
+    content: NASA and the United States Department of War said they acquired the original Apollo 17 film of the blue-lights
+      image and would conduct further analyses and report their findings.
+    original_excerpt: they said that they acquired the original film and they're going to do further analyses, both NASA and,
+      I guess, the Department of War, and then they'll let us know what they find.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+      title: Maaneli "Max" Derakhshani
+    provenance_chain:
+      origin_kind: named
+      origin: National Aeronautics and Space Administration (NASA) and the United States Department of War
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+        title: United States Department of War
+        slug: united-states-department-of-war
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 8671e6b7-b36f-418a-a532-8a67c5f91010
+        title: Apollo 17
+        slug: apollo-17
+    date: null
+    date_end: null
+    location_in_record: 00:06:23.9-00:06:32.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: 32f38b60-2e05-4a89-a5d2-bbfb7d643430
+    claim_hash: d22c5591a63ad4c6f8c5012dc62d9984244c31e32bd47aa36544bc054c2fa082
+    content: The United States Department of War's war.gov/UFOs release acknowledged that at least one of the Apollo lunar
+      anomalies is potentially a physical object.
+    original_excerpt: now the Department of War has acknowledged that these are potentially, at least one of them, is potentially
+      a physical object.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: document
+      origin: United States Department of War war.gov/UFOs release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+        title: United States Department of War
+        slug: united-states-department-of-war
+      - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
+        title: war.gov/UFOs release
+        slug: wargovufos-release
+    date: null
+    date_end: null
+    location_in_record: 00:15:11.6-00:15:19.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: 65544a67-c966-457b-b581-cb8f08995821
+    claim_hash: dac5f733c0bed9f62a812d59192053db597e438ca237d446444f723b2ac4989e
+    content: The United States Department of War made its "potentially a physical object" declaration about only the one Apollo
+      17 triangular blue-lights image, not about other lunar anomalies.
+    original_excerpt: It's only made that declaration with that one Apollo 17 three dotted image.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: document
+      origin: United States Department of War war.gov/UFOs release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+        title: United States Department of War
+        slug: united-states-department-of-war
+      - node_id: 8671e6b7-b36f-418a-a532-8a67c5f91010
+        title: Apollo 17
+        slug: apollo-17
+    date: null
+    date_end: null
+    location_in_record: 00:15:29.3-00:15:34.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: 355db718-8e2e-497f-a6dc-3c73fc563059
+    claim_hash: afda538233e0cc47daa0ed48dea9b2faf95b0326106dbfbe68417d84b782ba7e
+    content: The STS-48 UAP incident footage did not feature among the UAP footage released by the United States Department
+      of War the week prior to this discussion.
+    original_excerpt: this STS video that you're talking about that yourself Dr Mark Carlotto and others have taken a close
+      interest in it didn't feature in the UAPs released by the War Department last week.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+        title: United States Department of War
+        slug: united-states-department-of-war
+      - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
+        title: war.gov/UFOs release
+        slug: wargovufos-release
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:31:20.3-00:31:35.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: 5f799684-b7f1-46ff-b83e-dbf3fbaf0114
+    claim_hash: db30ca27c7c61463b6fd88237832fe72460506c5207473584ad556a221957f4b
+    content: Maaneli "Max" Derakhshani hopes the current National Aeronautics and Space Administration (NASA) leadership and
+      the United States Department of War will reassess the STS-48 and STS-80 videos, or at least release them to the public.
+    original_excerpt: I do hope that The current NASA leadership and Department of War will reassess these videos, or at least
+      release them to the public for the public to decide for themselves.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+      title: Maaneli "Max" Derakhshani
+    provenance_chain:
+      origin_kind: speaker
+      origin: Maaneli "Max" Derakhshani
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+        title: United States Department of War
+        slug: united-states-department-of-war
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+        title: Maaneli "Max" Derakhshani
+        slug: maaneli-max-derakhshani
+    date: null
+    date_end: null
+    location_in_record: 00:56:14.5-00:56:25.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: 888fa18c-8db5-4387-9727-5315283c5ae6
+    claim_hash: c76f71170a8895d7eaaac5fdfd6e0a43d8d94f3b773c339953ad7a1465bf44e1
+    content: Maaneli "Max" Derakhshani wonders whether Luis Elizondo's comment about the space shuttle videos referred to
+      STS-48 and STS-80, and whether Elizondo knows what the United States Department of War will release next.
+    original_excerpt: I wonder if he was referring to STS-48 and STS-80, and if he knows something about what the Department
+      of War is going to release next in connection with this.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+      title: Maaneli "Max" Derakhshani
+    provenance_chain:
+      origin_kind: speaker
+      origin: Maaneli "Max" Derakhshani
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+        title: United States Department of War
+        slug: united-states-department-of-war
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+        title: Maaneli "Max" Derakhshani
+        slug: maaneli-max-derakhshani
+    date: null
+    date_end: null
+    location_in_record: 01:00:02.2-01:00:11.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: 528520fa-37ed-4458-9148-2ad6dfa44cda
+    claim_hash: 1f7153308b234202c88c28b6557e6537f72b21efe43683824dee08ea850ba403
+    content: The United States Department of War has itself raised the Apollo 17 dots as anomalous phenomena and as a physical
+      object, according to Ross Coulthart.
+    original_excerpt: we have quite clearly anomalous phenomena that have been raised as such by the Department of War, not
+      by us, the Apollo 17 dots in particular, as a physical object.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: United States Department of War
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+        title: United States Department of War
+        slug: united-states-department-of-war
+      - node_id: 8671e6b7-b36f-418a-a532-8a67c5f91010
+        title: Apollo 17
+        slug: apollo-17
+    date: null
+    date_end: null
+    location_in_record: 01:01:29.5-01:01:40.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: 33babc30-24d5-4ee3-bd88-f81b59389df2
+    claim_hash: e2463224d2d61d77b61d433035260fceab661e68039c451c6f2938cd73f62db9
+    content: Ross Coulthart considers the redactions applied to the videos posted on the United States Department of War UFO
+      website excessive.
+    original_excerpt: I know a lot of people get really frustrated about the redactions that do appear on the videos, and
+      I think they are excessive, the ones that have been posted on the UFO Department of War website.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+        title: United States Department of War
+        slug: united-states-department-of-war
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
+        title: war.gov Unidentified Flying Object (UFO) files website
+        slug: wargov-unidentified-flying-object-ufo-files-website
+    date: null
+    date_end: null
+    location_in_record: 00:16:04.2-00:16:14.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+      record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+      content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null
+  - claim_id: 98d5cc85-a18b-4b86-8fb0-77be7dcc9e26
+    claim_hash: 77c9c56a2fd54f72b3db3d95bc48de6c95eb8060b5ed14a2e8708f15edc4dfa9
+    content: Ross Coulthart defines catastrophic disclosure as every video and piece of information on ufology being inadvertently
+      released in a single massive data dump comparable to a WikiLeaks dump.
+    original_excerpt: Catastrophic disclosure would be for the government, for the Department of War, for the president, if
+      every single video, every single piece of information on ufology was inadvertently released in a massive data dump,
+      like a WikiLeaks data dump
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+        title: United States Department of War
+        slug: united-states-department-of-war
+      - node_id: 378962cf-3d85-4df1-bf17-e4047e308491
+        title: Wikileaks
+        slug: wikileaks
+      - node_id: bee3c8f3-c1a2-4805-8f0f-178353cac7c4
+        title: catastrophic disclosure
+        slug: catastrophic-disclosure
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:17:20.6-00:17:35.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+      record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+      content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null
+  - claim_id: e6b117a6-acf9-4d0e-8833-b5f330beb140
+    claim_hash: 0ea2cc403682ed4a1e3269c32dfa5b96d06690fcc96c69dc56fdf325b1c11dab
+    content: Interest in the Unidentified Aerial Phenomena (UAP) subject has taken the United States Department of War and
+      the White House by surprise because of how motivated people are to get at the truth.
+    original_excerpt: It has taken the Department of War and the White House by surprise that people are so motivated to get
+      to the truth of this.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+        title: United States Department of War
+        slug: united-states-department-of-war
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: efa24386-d6bb-4e71-a245-4ee4b647adcb
+        title: The White House
+        slug: the-white-house
+    date: null
+    date_end: null
+    location_in_record: 00:24:02.4-00:24:10.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+      record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+      content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null

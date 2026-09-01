@@ -1,0 +1,138 @@
+schema: anomalica/brief/1
+brief_hash: d17a3714c2e1dec358b0e8debf63302fb5743bc2680483b5822ffd531af5e521
+page:
+  kind: entity
+  node_id: e5269a5e-6135-4e3e-862f-0627b7d5a785
+  node_type: organisation
+  title: Holy Roman Empire
+  slug: holy-roman-empire
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 876
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
+related_nodes:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+  - node_id: 759d09f7-4e88-44b0-939e-b717271ba713
+    title: single-nucleotide polymorphism (SNP)
+    node_type: topic
+    slug: single-nucleotide-polymorphism-snp
+    shared_claims: 1
+claims:
+  - claim_id: 776c2a37-c29c-402e-9b52-091bc8417849
+    claim_hash: a56a3cd52bf72d93935d93e8b7758c4e7ad8f46388a556b63a3091d2cc7a4dd4
+    content: Roman cranes were capable of lifting between approximately 54,000 and 90,000 kilograms.
+    original_excerpt: We do know that Roman cranes were capable of lifting 60 to 100 tons
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e5269a5e-6135-4e3e-862f-0627b7d5a785
+        title: Holy Roman Empire
+        slug: holy-roman-empire
+    date: null
+    date_end: null
+    location_in_record: ch26:1908-1971
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 4029fd90-e0cf-4ca4-af30-37a49336d457
+    claim_hash: e0e8c42cd5b8936a91ea265de2a1147023452d2914a44f621fbf5bdc1d1d6c47
+    content: Central Europe, where the Holy Roman Empire governed for hundreds of years and aggressively pursued the elimination
+      of people with psychic powers, now has a higher proportion of people with the non-psychic genetic variant.
+    original_excerpt: Central Europe, where the Holy Roman Empire governed for hundreds of years and aggressively pursued
+      the elimination of people with psychic powers, now has a higher proportion of people with the non-psychic variant.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: '"Genetics of psychic ability" (Wahbeh et al. 2022 study)'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 759d09f7-4e88-44b0-939e-b717271ba713
+        title: single-nucleotide polymorphism (SNP)
+        slug: single-nucleotide-polymorphism-snp
+      - node_id: e5269a5e-6135-4e3e-862f-0627b7d5a785
+        title: Holy Roman Empire
+        slug: holy-roman-empire
+    date: null
+    date_end: null
+    location_in_record: ch27:15799-16005
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 7c751860-8d61-4bb8-ac4f-96696406e43a
+    claim_hash: a0d1f7787450e4147422e3aa141bbf417e810d9e51b208bf35729b852faca272
+    content: Whitley Strieber considers that the pace of change increased with the arrival of the Roman Empire and accelerated
+      much further after the Roman Empire collapsed.
+    original_excerpt: But then the Roman Empire came and things started perking up. Then it collapsed. And when it collapsed,
+      things really started changing much more quickly.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: e5269a5e-6135-4e3e-862f-0627b7d5a785
+        title: Holy Roman Empire
+        slug: holy-roman-empire
+    date: null
+    date_end: null
+    location_in_record: 01:36:25.2-01:36:35.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

@@ -1,0 +1,502 @@
+schema: anomalica/brief/1
+brief_hash: 885e2b59c375e1eb82086b85dc8d3f4f1260555ba7ae00269481b832dcdb2982
+page:
+  kind: entity
+  node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+  node_type: topic
+  title: clairvoyance
+  slug: clairvoyance
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 9
+  tokens_estimated: 3121
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 9
+related_nodes:
+  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+    title: telepathy
+    node_type: topic
+    slug: telepathy
+    shared_claims: 4
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    node_type: topic
+    slug: precognition
+    shared_claims: 2
+  - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
+    title: drop-in communicators
+    node_type: topic
+    slug: drop-in-communicators
+    shared_claims: 2
+  - node_id: b65a228b-8581-437c-a083-670590b31c40
+    title: Alan Gauld
+    node_type: person
+    slug: alan-gauld
+    shared_claims: 1
+  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+    title: Chris
+    node_type: person
+    slug: chris
+    shared_claims: 1
+  - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+    title: Consciousness studies
+    node_type: topic
+    slug: consciousness-studies
+    shared_claims: 1
+  - node_id: b0a1c36b-e9d1-4629-aa6d-5e95333b7b3c
+    title: High Sense Perception
+    node_type: topic
+    slug: high-sense-perception
+    shared_claims: 1
+  - node_id: 66df6be3-9190-4aa9-9a1c-ef19bb90f070
+    title: Living-Agent Psi (LAP) hypothesis
+    node_type: topic
+    slug: living-agent-psi-lap-hypothesis
+    shared_claims: 1
+  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+    title: Lois
+    node_type: person
+    slug: lois
+    shared_claims: 1
+  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+    node_type: person
+    slug: loyd-auerbach
+    shared_claims: 1
+  - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+    title: Mary Rodwell
+    node_type: person
+    slug: mary-rodwell
+    shared_claims: 1
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    node_type: topic
+    slug: remote-viewing-rv
+    shared_claims: 1
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    node_type: person
+    slug: robert-bigelow
+    shared_claims: 1
+  - node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
+    title: Runolfur Runolfsson ("Runki")
+    node_type: person
+    slug: runolfur-runolfsson-runki
+    shared_claims: 1
+  - node_id: 37977667-bf57-4a8f-beca-cc4ab84f66c4
+    title: Stewart Alexander
+    node_type: person
+    slug: stewart-alexander
+    shared_claims: 1
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 1
+  - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
+    title: mediumship
+    node_type: topic
+    slug: mediumship
+    shared_claims: 1
+  - node_id: ec85bfdd-0899-4aa9-b790-b91008022037
+    title: super-Extrasensory Perception (ESP) hypothesis
+    node_type: topic
+    slug: super-extrasensory-perception-esp-hypothesis
+    shared_claims: 1
+  - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+    title: survival hypothesis
+    node_type: topic
+    slug: survival-hypothesis
+    shared_claims: 1
+claims:
+  - claim_id: aed3d643-7c1a-4300-88c8-2a4226d16fb1
+    claim_hash: 94310aaaab6cb8e442044a74a57064418344c4b82f61b92b8da7df41e37092fd
+    content: Individuals who experience alien abduction frequently develop high sense perception, clairvoyance, and telepathic
+      abilities.
+    original_excerpt: High sense perception, clairvoyance, telepathy, remote viewing abilities.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+        title: clairvoyance
+        slug: clairvoyance
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+      - node_id: b0a1c36b-e9d1-4629-aa6d-5e95333b7b3c
+        title: High Sense Perception
+        slug: high-sense-perception
+      - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+        title: telepathy
+        slug: telepathy
+    date: null
+    date_end: null
+    location_in_record: 00:23:56.7-00:24:00.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 5323b9f7-5573-491d-8281-53184642d560
+    claim_hash: af4b5404a984c2972c00b699882fb868d3d1182628507dbfb1e6aa1ec6f03b36
+    content: There is at least one carefully investigated case in the literature where a drop-in communicator made a series
+      of correct statements whose totality could not have been obtained clairvoyantly from a single document or obituary,
+      or telepathically from the mind of a single living person.
+    original_excerpt: There is in the literature at least one carefully investigated case in which a drop-in communicator
+      made a series of correct statements, the totality of which could not have been obtained either clairvoyantly from a
+      single document, obituary, etc., or telepathically, from the mind of a single living person.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b65a228b-8581-437c-a083-670590b31c40
+      title: Alan Gauld
+    provenance_chain:
+      origin_kind: speaker
+      origin: Alan Gauld
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
+        title: drop-in communicators
+        slug: drop-in-communicators
+      - node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
+        title: Runolfur Runolfsson ("Runki")
+        slug: runolfur-runolfsson-runki
+      - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+        title: clairvoyance
+        slug: clairvoyance
+      - node_id: b65a228b-8581-437c-a083-670590b31c40
+        title: Alan Gauld
+        slug: alan-gauld
+      - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+        title: telepathy
+        slug: telepathy
+    date: null
+    date_end: null
+    location_in_record: ch28:42150-42451
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 32365fe4-612e-439b-832c-5ab4ef8fcc61
+    claim_hash: 595c52bdf4263eab8c0b6b680390833f4ef21c96d04064ca6509812da38d1e73
+    content: Under the super-ESP hypothesis, a medium producing a drop-in communicator's biographical facts would have to
+      cull the details from various, sometimes obscure, sources in multiple locations and pull them together to create the
+      personality, requiring an almost unimaginable level of telepathy and clairvoyance.
+    original_excerpt: the facts of the communicator’s life would often have to be culled from various types of sometimes obscure
+      sources in multiple locations and pulled together to create the personality. The highly refined level of telepathy and
+      clairvoyance needed to do this would be almost unimaginable.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 953f6232-9902-437f-ad4c-add4fd080043
+      title: Leslie Kean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+        title: clairvoyance
+        slug: clairvoyance
+      - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+        title: telepathy
+        slug: telepathy
+      - node_id: ec85bfdd-0899-4aa9-b790-b91008022037
+        title: super-Extrasensory Perception (ESP) hypothesis
+        slug: super-extrasensory-perception-esp-hypothesis
+    date: null
+    date_end: null
+    location_in_record: ch29:1790-2063
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: d6e9a6b3-8174-4ff2-9ce6-9e8874feed92
+    claim_hash: e7199ce6509c66e51723e9079285d1bcf0d310e354f7f84b389b2166b91bb54b
+    content: Loyd Auerbach considers it more likely, given corroborating witnesses to Lois manifesting visually and Chris's
+      lack of any other psychic perceptions, that Lois was an interacting apparition rather than Chris being a super-psychic
+      accessing information through clairvoyance or retrocognition.
+    original_excerpt: But since there were other witnesses to Lois actually manifesting visually, a heavier emphasis can legitimately
+      be placed on the former possibility rather than the latter. Add to that Chris’s utter lack of any other psychic perceptions
+      or experiences, and I think we’re left with a likely apparition as opposed to a one-note super-psychic.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: speaker
+      origin: Loyd Auerbach
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+        title: Lois
+        slug: lois
+      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+        title: Precognition
+        slug: precognition
+      - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+        title: clairvoyance
+        slug: clairvoyance
+      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+        title: Loyd Auerbach
+        slug: loyd-auerbach
+      - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+        title: Chris
+        slug: chris
+    date: null
+    date_end: null
+    location_in_record: ch31:31549-31880
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 998233a3-9234-4c7e-b3a9-c6c3c11d6837
+    claim_hash: cff95c2f396fe40bf165fa93c33cb813cb2452445fced0b3bc9b2e43705e6f1c
+    content: Erlendur Haraldsson considers that the hypothesis of telepathy among living persons and/or clairvoyance does
+      not adequately explain the strongest drop-in communicator cases, establishing such cases as being of particular significance
+      for the question of survival of the human personality past death.
+    original_excerpt: The hypothesis of telepathy among living persons and/or clairvoyance does not adequately explain the
+      strongest drop-in cases, thus establishing them as being of particular significance for the question of the survival
+      of the human personality past death.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+      title: Erlendur Haraldsson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Erlendur Haraldsson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+        title: survival hypothesis
+        slug: survival-hypothesis
+      - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
+        title: drop-in communicators
+        slug: drop-in-communicators
+      - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+        title: clairvoyance
+        slug: clairvoyance
+      - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+        title: telepathy
+        slug: telepathy
+    date: null
+    date_end: null
+    location_in_record: ch36:4511-4759
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: ed71a126-fca4-4325-a4e4-574124125db0
+    claim_hash: 270901c8ef109b7c8272fe559f8a2a67d9258f194e942b14aeedd2312edf6304
+    content: Stewart Alexander considers the possibility that he unconsciously used clairvoyance to perceive the book's contents
+      and location while unconscious to be preposterous.
+    original_excerpt: Or could Stewart have such extraordinary clairvoyance that he could have “seen” the five words on that
+      specific book page, along with the book’s location on the shelf, while unconscious? He considers that possibility preposterous.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 37977667-bf57-4a8f-beca-cc4ab84f66c4
+      title: Stewart Alexander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stewart Alexander
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 37977667-bf57-4a8f-beca-cc4ab84f66c4
+        title: Stewart Alexander
+        slug: stewart-alexander
+      - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+        title: clairvoyance
+        slug: clairvoyance
+    date: null
+    date_end: null
+    location_in_record: ch38:44416-44633
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 5b36c30a-5c93-4d8f-8641-94936a07f714
+    claim_hash: f045131a3992f681565282a5a38cd4f3cd7bb05658d0f86479e9db435ea8b25f
+    content: Clairvoyance involves the perception of objects or physical events at a distance, such as knowing the location
+      of something missing or what a faraway document says.
+    original_excerpt: Clairvoyance involves the perception of objects or physical events at a distance, such as knowing the
+      location of something missing or what a faraway document says.
+    claim_type: opinion
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+        title: clairvoyance
+        slug: clairvoyance
+    date: null
+    date_end: null
+    location_in_record: ch7:14106-14265
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b30c4594-9631-4a33-9d5b-2dea46da5de6
+    claim_hash: 728fe2e27b8c963ba54f3b7619de882bb248082ecd0f30acf035b24ffb0a338c
+    content: Under the living-agent psi (LAP) hypothesis, a gifted person who locates a hidden will unknown to any living
+      person could be using their own clairvoyance rather than receiving the information from the deceased author of the will.
+    original_excerpt: Or, gifted people able to locate a hidden will unknown to anyone living could be using their own clairvoyance
+      rather than relying on the now disembodied author of that will to convey its hiding place.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 66df6be3-9190-4aa9-9a1c-ef19bb90f070
+        title: Living-Agent Psi (LAP) hypothesis
+        slug: living-agent-psi-lap-hypothesis
+      - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+        title: clairvoyance
+        slug: clairvoyance
+    date: null
+    date_end: null
+    location_in_record: ch7:23113-23307
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a12ed943-4299-4756-a737-e9dcba1c4b9f
+    claim_hash: 37d1f2c49406906aee6f23d62c76160a65381a6a884c6b2d0f72d5a2642e24b7
+    content: Robert Bigelow considers that consciousness has an effect in our dimension that can be initiated through clairvoyance,
+      precognition, remote viewing and mediumship.
+    original_excerpt: So consciousness has an effect in our dimension that we can initiate through various other kinds of
+      things, clairvoyance, precognition, remote viewing, Mediumship.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+        title: Precognition
+        slug: precognition
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+        title: clairvoyance
+        slug: clairvoyance
+      - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
+        title: mediumship
+        slug: mediumship
+    date: null
+    date_end: null
+    location_in_record: 00:18:39.2-00:18:54.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

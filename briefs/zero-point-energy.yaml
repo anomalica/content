@@ -9,844 +9,852 @@ page:
   claim_count: 19
   claim_count_total: 19
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 19
+  tokens_estimated: 5935
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 19
 related_nodes:
-- node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
-  title: Arthur C. Clarke
-  node_type: person
-  slug: arthur-c-clarke
-  shared_claims: 3
-- node_id: 4056024b-6788-453b-a270-7b9890087c91
-  title: Buzz Aldrin
-  node_type: person
-  slug: buzz-aldrin
-  shared_claims: 3
-- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-  title: Harold E. Puthoff
-  node_type: person
-  slug: harold-e-puthoff
-  shared_claims: 3
-- node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-  title: Tom DeLonge
-  node_type: person
-  slug: tom-delonge
-  shared_claims: 3
-- node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-  title: Ross Coulthart
-  node_type: person
-  slug: ross-coulthart
-  shared_claims: 2
-- node_id: ed4d0501-7b55-479e-add3-34db79ee9afe
-  title: Alpha Centauri
-  node_type: place
-  slug: alpha-centauri
-  shared_claims: 1
-- node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
-  title: Anti-Gravity Propulsion
-  node_type: topic
-  slug: anti-gravity-propulsion
-  shared_claims: 1
-- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-  title: Chris Ramsay
-  node_type: person
-  slug: chris-ramsay
-  shared_claims: 1
-- node_id: fb349523-76fb-4f68-ad4c-e11301eb09f8
-  title: Fluxliner alien reproduction vehicle
-  node_type: object
-  slug: fluxliner-alien-reproduction-vehicle
-  shared_claims: 1
-- node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
-  title: Gordon Novel
-  node_type: person
-  slug: gordon-novel
-  shared_claims: 1
-- node_id: 38056c94-8e88-4ea8-8761-89856badf530
-  title: James Clerk Maxwell
-  node_type: person
-  slug: james-clerk-maxwell
-  shared_claims: 1
-- node_id: 6fad4a47-44e6-40ed-a769-8a9eb31109f3
-  title: Joe Rogan
-  node_type: person
-  slug: joe-rogan
-  shared_claims: 1
-- node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
-  title: Nat Kobitz
-  node_type: person
-  slug: nat-kobitz
-  shared_claims: 1
-- node_id: b43c0c61-dbd7-44ab-ac40-9ed591eeea73
-  title: Paul Murad
-  node_type: person
-  slug: paul-murad
-  shared_claims: 1
-- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-  title: Richard C. Hoagland
-  node_type: person
-  slug: richard-c-hoagland
-  shared_claims: 1
-- node_id: 60717a85-0753-40e2-8ff3-aa15895c8c52
-  title: Supreme Cosmic Secret - How the U.S. Government Reverse-Engineered An Extra-terrestrial
-    Spacecraft
-  node_type: document
-  slug: supreme-cosmic-secret---how-the-us-government-reverse-engineered-an-extra-terrestrial-spacecraft
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-- node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-  title: hyper-dimensional physics theory
-  node_type: topic
-  slug: hyper-dimensional-physics-theory
-  shared_claims: 1
-- node_id: be3bc9ad-43db-4515-8c79-f5c22b46af9b
-  title: quantum entanglement
-  node_type: topic
-  slug: quantum-entanglement
-  shared_claims: 1
-- node_id: a277299e-f01c-4af8-82d9-6c22698093cf
-  title: torsion field
-  node_type: topic
-  slug: torsion-field
-  shared_claims: 1
-- node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-  title: unconditional love
-  node_type: topic
-  slug: unconditional-love
-  shared_claims: 1
-claims:
-- claim_id: 79646744-ab52-44cd-be49-6183654cf506
-  claim_hash: 0bbcc7169a94418f1c58920143accfed64fa7c0b8419c66b895a196756681423
-  content: Arthur C. Clarke said that many of his scientist friends think it is crazy
-    to believe there is anything to the idea of zero-point energy.
-  original_excerpt: A lot of my scientist friends are crazy to believe there's anything
-    in this.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
-    title: Arthur C. Clarke
-  provenance_chain:
-    origin_kind: speaker
-    origin: Arthur C. Clarke
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
   - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
     title: Arthur C. Clarke
+    node_type: person
     slug: arthur-c-clarke
-  date: null
-  date_end: null
-  location_in_record: char:1074-1145
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
-    record_title: Clarke's Believe It or Not
-    record_date: '2001-04-13'
-    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
-    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
-    friendly_name: null
-- claim_id: 4e01a7f4-89dc-474a-81ce-41f57bb01834
-  claim_hash: 5c627d9e707837b156a522ba28eda76afd92985df4696615c8aeac9eb58b92e5
-  content: Buzz Aldrin did not comment on Arthur C. Clarke's claim about photographic
-    evidence of life on Mars, and instead raised the topic of zero-point energy.
-  original_excerpt: Aldrin did not comment, but responded by referring to another
-    remarkable topic, so-called zero-point energy
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
+    shared_claims: 3
   - node_id: 4056024b-6788-453b-a270-7b9890087c91
     title: Buzz Aldrin
+    node_type: person
     slug: buzz-aldrin
-  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
-    title: Arthur C. Clarke
-    slug: arthur-c-clarke
-  date: null
-  date_end: null
-  location_in_record: char:566-667
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
-    record_title: Clarke's Believe It or Not
-    record_date: '2001-04-13'
-    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
-    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
-    friendly_name: null
-- claim_id: 93fa281f-307b-4ed2-8b6d-6fe2e43126ce
-  claim_hash: 7b847951ed6a21d53e92f622c505abb81890737322ed4092b622dace40177715
-  content: Zero-point energy is theorised by some physicists as a powerful energy
-    source that exists in the vacuum of space.
-  original_excerpt: so-called zero-point energy, theorized by some physicists as being
-    a powerful energy source that exists in the vacuum of space
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: some physicists
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
-  date: null
-  date_end: null
-  location_in_record: char:646-767
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
-    record_title: Clarke's Believe It or Not
-    record_date: '2001-04-13'
-    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
-    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
-    friendly_name: null
-- claim_id: 1a31cf29-db3b-4d45-805e-80e5301fb1e2
-  claim_hash: 19e2305de60d3fb0a8e67d7f42e3639738da985bce78daab452c79d2be421b7d
-  content: Buzz Aldrin believes it may take 200 to 400 years, but zero-point energy
-    will be needed to reach Alpha Centauri.
-  original_excerpt: It may take 200, 300 or 400 years, but it's going to take zero-point
-    energy to get us to Alpha Centauri.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 4056024b-6788-453b-a270-7b9890087c91
-    title: Buzz Aldrin
-  provenance_chain:
-    origin_kind: speaker
-    origin: Buzz Aldrin
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
-  - node_id: 4056024b-6788-453b-a270-7b9890087c91
-    title: Buzz Aldrin
-    slug: buzz-aldrin
+    shared_claims: 3
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    node_type: person
+    slug: harold-e-puthoff
+    shared_claims: 3
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    node_type: person
+    slug: tom-delonge
+    shared_claims: 3
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 2
   - node_id: ed4d0501-7b55-479e-add3-34db79ee9afe
     title: Alpha Centauri
+    node_type: place
     slug: alpha-centauri
-  date: null
-  date_end: null
-  location_in_record: char:845-940
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
-    record_title: Clarke's Believe It or Not
-    record_date: '2001-04-13'
-    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
-    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
-    friendly_name: null
-- claim_id: 8c8d3fcc-be70-44b6-bb70-6d8e596917dc
-  claim_hash: e09e8322e4ef23b059fb608e2de3c5028b486ba68407c1f8a43acf0960290571
-  content: Arthur C. Clarke said he was glad that Buzz Aldrin raised the controversial
-    question of zero-point energy.
-  original_excerpt: '"I''m glad that Buzz has raised this rather controversial question,"
-    Clarke said.'
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
-    title: Arthur C. Clarke
-  provenance_chain:
-    origin_kind: speaker
-    origin: Arthur C. Clarke
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
-  - node_id: 4056024b-6788-453b-a270-7b9890087c91
-    title: Buzz Aldrin
-    slug: buzz-aldrin
-  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
-    title: Arthur C. Clarke
-    slug: arthur-c-clarke
-  date: null
-  date_end: null
-  location_in_record: char:993-1067
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
-    record_title: Clarke's Believe It or Not
-    record_date: '2001-04-13'
-    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
-    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
-    friendly_name: null
-- claim_id: 3f6fc901-43c5-4311-9066-0c7a187ebde8
-  claim_hash: 9b97a7b025e112f6c35d977610dd86fb09c06f96ea2bdbc99b41ed6ef4e6ee39
-  content: Richard C. Hoagland regards the Quantum Electrodynamics Zero Point Energy
-    of space, currently discussed among Western physicists, as nothing more than James
-    Clerk Maxwell's hyperdimensional physics under another name.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
-  - node_id: 38056c94-8e88-4ea8-8761-89856badf530
-    title: James Clerk Maxwell
-    slug: james-clerk-maxwell
-  - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-    title: hyper-dimensional physics theory
-    slug: hyper-dimensional-physics-theory
-  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-    slug: richard-c-hoagland
-  date: null
-  date_end: null
-  location_in_record: ch9:37547-37715
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: de0fd3df-95b8-4e1d-96e1-3dcd3e861ac3
-  claim_hash: 92dd67cd1d8850b40a0e67dd8d351ff63469aec84168c6049b1cc1ea76d706e7
-  content: According to current quantum mechanics models, the vacuum possesses a staggering
-    amount of zero-point energy per cubic inch of empty space.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
-  date: null
-  date_end: null
-  location_in_record: ch9:37729-37981
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: e023559c-d7ca-47d0-9530-8c2c2987c4f9
-  claim_hash: 61497981d47ff9216cf8a72aacab2a8f5918b93c57babd1b6083a729c19e29d2
-  content: Paul Murad cites a comment by Matveeko that the torsion field is identical
-    to the transverse spin polarisation of the physical vacuum, and a gravitational
-    field is identical to the longitudinal spin polarisation of the physical vacuum.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: b43c0c61-dbd7-44ab-ac40-9ed591eeea73
-    title: Paul Murad
-  provenance_chain:
-    origin_kind: named
-    origin: Paul Murad, citing Matveeko
-    relay:
-    - Paul Murad
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
-  - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
-    title: torsion field
-    slug: torsion-field
-  - node_id: b43c0c61-dbd7-44ab-ac40-9ed591eeea73
-    title: Paul Murad
-    slug: paul-murad
-  date: null
-  date_end: null
-  location_in_record: ch9:92996-93290
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: c5da5a00-587b-4135-aff3-ebd18432bca8
-  claim_hash: 66c485f64ed7f39979896008b0990782a45c0a3da74487f0a706e89f84a2f15b
-  content: Tom DeLonge claimed the US government already knew the secrets of free
-    energy, so-called zero-point energy.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch21:5797-5887
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: ae2363ed-3860-43dc-a74f-32e209f64e6f
-  claim_hash: 7d3980c6c6452ba5867019fb3d1f5e61e965dd282ef6f0302a804e07359a759d
-  content: Tom DeLonge said one inch of air could power the United States for hundreds
-    of years.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch21:5896-5958
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 4bd0fdaf-487e-4698-b3cb-713e7599dfcf
-  claim_hash: 89c5f554b4a0072c123c4a65c50a771a782bb4114931493833aa73cdb48dfdf5
-  content: When Joe Rogan pressed Tom DeLonge on who exactly was telling him the secrets
-    about zero-point energy, DeLonge said Rogan did not know what he knew and that
-    he could not tell him some of what he knew.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
-  - node_id: 6fad4a47-44e6-40ed-a769-8a9eb31109f3
-    title: Joe Rogan
-    slug: joe-rogan
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch21:5964-6132
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 6b8354c6-110a-4284-9c52-9fa70bbda8e6
-  claim_hash: f7a84d69eb20bc2b7184306841995985fbbccb6c5f4ff1b75ee9fe219fe462ed
-  content: Gordon Novel's book quoted 'Wally Katz' as reluctantly admitting the alien
-    reproduction vehicle (ARV) was a reproduction of a universal UFO drive design,
-    that he was willing to fund Hal Puthoff's zero-point energy research and development
-    program and secretly show how to do it, but that the antigravity system of the
-    ARV had to remain a 'Supreme Cosmic Secret' and the number one national security
-    issue.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Gordon Novel
-    relay:
-    - Gordon Novel's book on the ARV Fluxliner
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
+    shared_claims: 1
   - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
     title: Anti-Gravity Propulsion
+    node_type: topic
     slug: anti-gravity-propulsion
-  - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
-    title: Nat Kobitz
-    slug: nat-kobitz
-  - node_id: 60717a85-0753-40e2-8ff3-aa15895c8c52
-    title: Supreme Cosmic Secret - How the U.S. Government Reverse-Engineered An Extra-terrestrial
-      Spacecraft
-    slug: supreme-cosmic-secret---how-the-us-government-reverse-engineered-an-extra-terrestrial-spacecraft
-  - node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
-    title: Gordon Novel
-    slug: gordon-novel
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: fb349523-76fb-4f68-ad4c-e11301eb09f8
-    title: Fluxliner alien reproduction vehicle
-    slug: fluxliner-alien-reproduction-vehicle
-  date: null
-  date_end: null
-  location_in_record: ch27:2788-3160
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 338eb159-f71d-4ff0-b7dd-519c59ac17b2
-  claim_hash: 93581201c3959b605710e39ccfd35e5420814853c0ecb1152b7fd78210fec6bb
-  content: Harold Puthoff is an expert on the theory of zero-point energy, which posits
-    free energy exists in the vacuum of space that could be harnessed.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  date: null
-  date_end: null
-  location_in_record: ch22:1018-1173
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 9a9d6a77-c6d0-479e-8a21-2f6673c5a9ca
-  claim_hash: 722a512b9637f9b91bfb9569836b1066584911b0bafeb8c384a823430b89e8be
-  content: Harold Puthoff proposed that the energy required to warp space-time might
-    originate from vacuum fluctuations, the underlying quantum fluctuations of empty
-    space, based on the phenomenon known as zero-point energy.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-  provenance_chain:
-    origin_kind: speaker
-    origin: Harold Puthoff
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  date: null
-  date_end: null
-  location_in_record: ch24:19411-19839
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 6aeb81a1-2084-409a-a078-2415a5a27fda
-  claim_hash: 5d7bd74959839663f29b65b939efde334052e7645a8481dfda1904959b68dc65
-  content: Whitley Strieber considers zero-point energy the one known force that might
-    enable the limitless propulsion observed in small Unidentified Flying Objects.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: ch21:14483-14583
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 28e703f2-e708-487c-980a-3494dcf86df4
-  claim_hash: 3f9bf2010c4b37773b9da0cfd375ee0ad2881e4517ab013437c18de8c8c84ede
-  content: Zero-point energy is energy drawn from the quantum vacuum, offering the
-    capacity to draw unlimited amounts of energy through an understanding of quantum
-    science not yet fully explained in the public domain.
-  original_excerpt: zero point energy, energy from the quantum vacuum, the capacity
-    to draw unlimited amounts of energy through an understanding of quantum science
-    that at least in the public domain has not yet been fully explained.
-  claim_type: administrative
-  attestation: null
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: unattributed
-    origin: Ross Coulthart's narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
-  date: null
-  date_end: null
-  location_in_record: 00:19:19.2-00:19:32.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
-    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
-    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
-    friendly_name: null
-- claim_id: 9d3dbba9-2aba-4875-a322-042329e0387f
-  claim_hash: aaf6183165dda1874b96e719d1a56124ab65ba07bcb29ffe1bf7ca5e8d39dfa2
-  content: Ross Coulthart considers that the development of zero-point energy would
-    be an ontological shock to humanity and particularly to the markets, and would
-    probably wipe out every top 100 company on the American stock exchange overnight.
-  original_excerpt: That would be an absolute ontological shock, not just to humanity,
-    but particularly to the markets. It would probably wipe out every top 100 company
-    on the American stock exchange overnight.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
-  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-    slug: ross-coulthart
-  date: null
-  date_end: null
-  location_in_record: 00:19:34.1-00:19:46.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
-    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
-    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
-    friendly_name: null
-- claim_id: b7a062ad-3a5f-4856-ac9c-6ea08dcec89e
-  claim_hash: ba84323f9df66e064c03fcf891b66685fc0c95b2fa9bbfcc9a2d52fe92f1a61e
-  content: Ross Coulthart considers that many wealthy business people do not want
-    the public to have free energy.
-  original_excerpt: There are a lot of wealthy business people, plutocrats, who frankly
-    don't want you to have free energy.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
-  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-    slug: ross-coulthart
-  date: null
-  date_end: null
-  location_in_record: 00:22:39.7-00:22:47.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
-    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
-    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
-    friendly_name: null
-- claim_id: 2aff2fb8-c3c7-4098-b483-3669450e2cd8
-  claim_hash: a2e3f22dd061e6fa934bc7e253c013aa59f8cfed3730a89350e05c7ac9f06002
-  content: Chris Ramsay equates the oneness measured in quantum physics, observed
-    by physicists looking at the quantum vacuum or zero-point field, with the feeling
-    of oneness experienced through unconditional love.
-  original_excerpt: I'm just now realizing that that's the, uh, it's the oneness that
-    you measure in quantum physics, but it's also that oneness you feel unconditionally
-    through this, like love. ... that's also what scientists, uh, you know, and physicists
-    observe when they're looking at the quantum vacuum or, you know, the zero point,
-    like, it's like, oh, this is all one.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-    title: Chris Ramsay
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chris Ramsay
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
-    slug: zero-point-energy
+    shared_claims: 1
   - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
     title: Chris Ramsay
+    node_type: person
     slug: chris-ramsay
-  - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-    title: unconditional love
-    slug: unconditional-love
+    shared_claims: 1
+  - node_id: fb349523-76fb-4f68-ad4c-e11301eb09f8
+    title: Fluxliner alien reproduction vehicle
+    node_type: object
+    slug: fluxliner-alien-reproduction-vehicle
+    shared_claims: 1
+  - node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
+    title: Gordon Novel
+    node_type: person
+    slug: gordon-novel
+    shared_claims: 1
+  - node_id: 38056c94-8e88-4ea8-8761-89856badf530
+    title: James Clerk Maxwell
+    node_type: person
+    slug: james-clerk-maxwell
+    shared_claims: 1
+  - node_id: 6fad4a47-44e6-40ed-a769-8a9eb31109f3
+    title: Joe Rogan
+    node_type: person
+    slug: joe-rogan
+    shared_claims: 1
+  - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+    node_type: person
+    slug: nat-kobitz
+    shared_claims: 1
+  - node_id: b43c0c61-dbd7-44ab-ac40-9ed591eeea73
+    title: Paul Murad
+    node_type: person
+    slug: paul-murad
+    shared_claims: 1
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 1
+  - node_id: 60717a85-0753-40e2-8ff3-aa15895c8c52
+    title: Supreme Cosmic Secret - How the U.S. Government Reverse-Engineered An Extra-terrestrial Spacecraft
+    node_type: document
+    slug: supreme-cosmic-secret---how-the-us-government-reverse-engineered-an-extra-terrestrial-spacecraft
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
+    title: hyper-dimensional physics theory
+    node_type: topic
+    slug: hyper-dimensional-physics-theory
+    shared_claims: 1
   - node_id: be3bc9ad-43db-4515-8c79-f5c22b46af9b
     title: quantum entanglement
+    node_type: topic
     slug: quantum-entanglement
-  date: null
-  date_end: null
-  location_in_record: 02:40:00.0-02:40:25.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
+    shared_claims: 1
+  - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
+    title: torsion field
+    node_type: topic
+    slug: torsion-field
+    shared_claims: 1
+  - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
+    title: unconditional love
+    node_type: topic
+    slug: unconditional-love
+    shared_claims: 1
+claims:
+  - claim_id: 79646744-ab52-44cd-be49-6183654cf506
+    claim_hash: 0bbcc7169a94418f1c58920143accfed64fa7c0b8419c66b895a196756681423
+    content: Arthur C. Clarke said that many of his scientist friends think it is crazy to believe there is anything to the
+      idea of zero-point energy.
+    original_excerpt: A lot of my scientist friends are crazy to believe there's anything in this.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+      title: Arthur C. Clarke
+    provenance_chain:
+      origin_kind: speaker
+      origin: Arthur C. Clarke
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+      - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+        title: Arthur C. Clarke
+        slug: arthur-c-clarke
+    date: null
+    date_end: null
+    location_in_record: char:1074-1145
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+      record_title: Clarke's Believe It or Not
+      record_date: '2001-04-13'
+      record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+      content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+      friendly_name: null
+  - claim_id: 4e01a7f4-89dc-474a-81ce-41f57bb01834
+    claim_hash: 5c627d9e707837b156a522ba28eda76afd92985df4696615c8aeac9eb58b92e5
+    content: Buzz Aldrin did not comment on Arthur C. Clarke's claim about photographic evidence of life on Mars, and instead
+      raised the topic of zero-point energy.
+    original_excerpt: Aldrin did not comment, but responded by referring to another remarkable topic, so-called zero-point
+      energy
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+      - node_id: 4056024b-6788-453b-a270-7b9890087c91
+        title: Buzz Aldrin
+        slug: buzz-aldrin
+      - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+        title: Arthur C. Clarke
+        slug: arthur-c-clarke
+    date: null
+    date_end: null
+    location_in_record: char:566-667
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+      record_title: Clarke's Believe It or Not
+      record_date: '2001-04-13'
+      record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+      content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+      friendly_name: null
+  - claim_id: 93fa281f-307b-4ed2-8b6d-6fe2e43126ce
+    claim_hash: 7b847951ed6a21d53e92f622c505abb81890737322ed4092b622dace40177715
+    content: Zero-point energy is theorised by some physicists as a powerful energy source that exists in the vacuum of space.
+    original_excerpt: so-called zero-point energy, theorized by some physicists as being a powerful energy source that exists
+      in the vacuum of space
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: some physicists
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+    date: null
+    date_end: null
+    location_in_record: char:646-767
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+      record_title: Clarke's Believe It or Not
+      record_date: '2001-04-13'
+      record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+      content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+      friendly_name: null
+  - claim_id: 1a31cf29-db3b-4d45-805e-80e5301fb1e2
+    claim_hash: 19e2305de60d3fb0a8e67d7f42e3639738da985bce78daab452c79d2be421b7d
+    content: Buzz Aldrin believes it may take 200 to 400 years, but zero-point energy will be needed to reach Alpha Centauri.
+    original_excerpt: It may take 200, 300 or 400 years, but it's going to take zero-point energy to get us to Alpha Centauri.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 4056024b-6788-453b-a270-7b9890087c91
+      title: Buzz Aldrin
+    provenance_chain:
+      origin_kind: speaker
+      origin: Buzz Aldrin
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+      - node_id: 4056024b-6788-453b-a270-7b9890087c91
+        title: Buzz Aldrin
+        slug: buzz-aldrin
+      - node_id: ed4d0501-7b55-479e-add3-34db79ee9afe
+        title: Alpha Centauri
+        slug: alpha-centauri
+    date: null
+    date_end: null
+    location_in_record: char:845-940
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+      record_title: Clarke's Believe It or Not
+      record_date: '2001-04-13'
+      record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+      content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+      friendly_name: null
+  - claim_id: 8c8d3fcc-be70-44b6-bb70-6d8e596917dc
+    claim_hash: e09e8322e4ef23b059fb608e2de3c5028b486ba68407c1f8a43acf0960290571
+    content: Arthur C. Clarke said he was glad that Buzz Aldrin raised the controversial question of zero-point energy.
+    original_excerpt: '"I''m glad that Buzz has raised this rather controversial question," Clarke said.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+      title: Arthur C. Clarke
+    provenance_chain:
+      origin_kind: speaker
+      origin: Arthur C. Clarke
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+      - node_id: 4056024b-6788-453b-a270-7b9890087c91
+        title: Buzz Aldrin
+        slug: buzz-aldrin
+      - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+        title: Arthur C. Clarke
+        slug: arthur-c-clarke
+    date: null
+    date_end: null
+    location_in_record: char:993-1067
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+      record_title: Clarke's Believe It or Not
+      record_date: '2001-04-13'
+      record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+      content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+      friendly_name: null
+  - claim_id: 3f6fc901-43c5-4311-9066-0c7a187ebde8
+    claim_hash: 9b97a7b025e112f6c35d977610dd86fb09c06f96ea2bdbc99b41ed6ef4e6ee39
+    content: Richard C. Hoagland regards the Quantum Electrodynamics Zero Point Energy of space, currently discussed among
+      Western physicists, as nothing more than James Clerk Maxwell's hyperdimensional physics under another name.
+    original_excerpt: Described as some sort of exotic quantum effect to make it seem acceptable, this “zero-point energy”
+      is nothing more than Maxwell’s hyperdimensional physics in another guise.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+      - node_id: 38056c94-8e88-4ea8-8761-89856badf530
+        title: James Clerk Maxwell
+        slug: james-clerk-maxwell
+      - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
+        title: hyper-dimensional physics theory
+        slug: hyper-dimensional-physics-theory
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch9:37547-37715
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: de0fd3df-95b8-4e1d-96e1-3dcd3e861ac3
+    claim_hash: 92dd67cd1d8850b40a0e67dd8d351ff63469aec84168c6049b1cc1ea76d706e7
+    content: According to current quantum mechanics models, the vacuum possesses a staggering amount of zero-point energy
+      per cubic inch of empty space.
+    original_excerpt: creating and then relieving a “stress” in Maxwell’s vorticular aether is precisely equivalent to tapping
+      the energy of the vacuum that, according to current quantum mechanics models, possesses a staggering amount of such
+      energy per cubic inch of empty space.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+    date: null
+    date_end: null
+    location_in_record: ch9:37729-37981
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e023559c-d7ca-47d0-9530-8c2c2987c4f9
+    claim_hash: 61497981d47ff9216cf8a72aacab2a8f5918b93c57babd1b6083a729c19e29d2
+    content: Paul Murad cites a comment by Matveeko that the torsion field is identical to the transverse spin polarisation
+      of the physical vacuum, and a gravitational field is identical to the longitudinal spin polarisation of the physical
+      vacuum.
+    original_excerpt: The closest thing I could find [in reading the existing Russian literature] is a comment made by Matveeko
+      that the torsion field is identical to the transverse spin polarization of the physical vacuum and a gravitational field
+      is identical to the longitudinal spin polarization of the physical vacuum.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: b43c0c61-dbd7-44ab-ac40-9ed591eeea73
+      title: Paul Murad
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Murad, citing Matveeko
+      relay:
+        - Paul Murad
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+      - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
+        title: torsion field
+        slug: torsion-field
+      - node_id: b43c0c61-dbd7-44ab-ac40-9ed591eeea73
+        title: Paul Murad
+        slug: paul-murad
+    date: null
+    date_end: null
+    location_in_record: ch9:92996-93290
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c5da5a00-587b-4135-aff3-ebd18432bca8
+    claim_hash: 66c485f64ed7f39979896008b0990782a45c0a3da74487f0a706e89f84a2f15b
+    content: Tom DeLonge claimed the US government already knew the secrets of free energy, so-called zero-point energy.
+    original_excerpt: DeLonge also claimed the US already knew the secrets of free energy, so-called zero-point energy.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch21:5797-5887
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ae2363ed-3860-43dc-a74f-32e209f64e6f
+    claim_hash: 7d3980c6c6452ba5867019fb3d1f5e61e965dd282ef6f0302a804e07359a759d
+    content: Tom DeLonge said one inch of air could power the United States for hundreds of years.
+    original_excerpt: '''One inch of air could power the US for hundreds of years,'' he said.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch21:5896-5958
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4bd0fdaf-487e-4698-b3cb-713e7599dfcf
+    claim_hash: 89c5f554b4a0072c123c4a65c50a771a782bb4114931493833aa73cdb48dfdf5
+    content: When Joe Rogan pressed Tom DeLonge on who exactly was telling him the secrets about zero-point energy, DeLonge
+      said Rogan did not know what he knew and that he could not tell him some of what he knew.
+    original_excerpt: But when Joe Rogan pressed him on who exactly was telling him this, DeLonge went vague. 'You don't know
+      what I know. I can't tell you some of the shit that I know,' he said.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+      - node_id: 6fad4a47-44e6-40ed-a769-8a9eb31109f3
+        title: Joe Rogan
+        slug: joe-rogan
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch21:5964-6132
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6b8354c6-110a-4284-9c52-9fa70bbda8e6
+    claim_hash: f7a84d69eb20bc2b7184306841995985fbbccb6c5f4ff1b75ee9fe219fe462ed
+    content: Gordon Novel's book quoted 'Wally Katz' as reluctantly admitting the alien reproduction vehicle (ARV) was a reproduction
+      of a universal UFO drive design, that he was willing to fund Hal Puthoff's zero-point energy research and development
+      program and secretly show how to do it, but that the antigravity system of the ARV had to remain a 'Supreme Cosmic Secret'
+      and the number one national security issue.
+    original_excerpt: '''Wally [Katz] admitted reluctantly that [the] ARV was, in fact, a reproduction of a universal UFO
+      drive design . . . he was willing to fund [Hal Puthoff''s] zero point energy (ZPE) research and development program
+      and secretly show us how to do it, but the antigravity system of ARV was going to have to remain a "Supreme Cosmic Secret"
+      and the Number one national security issue.'''
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Gordon Novel
+      relay:
+        - Gordon Novel's book on the ARV Fluxliner
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+      - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+        title: Anti-Gravity Propulsion
+        slug: anti-gravity-propulsion
+      - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+        title: Nat Kobitz
+        slug: nat-kobitz
+      - node_id: 60717a85-0753-40e2-8ff3-aa15895c8c52
+        title: Supreme Cosmic Secret - How the U.S. Government Reverse-Engineered An Extra-terrestrial Spacecraft
+        slug: supreme-cosmic-secret---how-the-us-government-reverse-engineered-an-extra-terrestrial-spacecraft
+      - node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
+        title: Gordon Novel
+        slug: gordon-novel
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: fb349523-76fb-4f68-ad4c-e11301eb09f8
+        title: Fluxliner alien reproduction vehicle
+        slug: fluxliner-alien-reproduction-vehicle
+    date: null
+    date_end: null
+    location_in_record: ch27:2788-3160
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 338eb159-f71d-4ff0-b7dd-519c59ac17b2
+    claim_hash: 93581201c3959b605710e39ccfd35e5420814853c0ecb1152b7fd78210fec6bb
+    content: Harold Puthoff is an expert on the theory of zero-point energy, which posits free energy exists in the vacuum
+      of space that could be harnessed.
+    original_excerpt: Hal was an expert on the theory of zero-point energy, a holy grail of science that stipulates there
+      is free energy even in the vacuum of space that we can harness.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+    date: null
+    date_end: null
+    location_in_record: ch22:1018-1173
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 9a9d6a77-c6d0-479e-8a21-2f6673c5a9ca
+    claim_hash: 722a512b9637f9b91bfb9569836b1066584911b0bafeb8c384a823430b89e8be
+    content: Harold Puthoff proposed that the energy required to warp space-time might originate from vacuum fluctuations,
+      the underlying quantum fluctuations of empty space, based on the phenomenon known as zero-point energy.
+    original_excerpt: Hal explained that if one were to try to achieve the levels of energy required to warp space-time, one
+      might need to start with the most basic form of energy that we know of—that of the underlying roiling quantum fluctuations
+      of empty space, so-called vacuum fluctuations. This speculative hypothesis, yet to be practically implemented, was based
+      on the now well-studied phenomenon of what is commonly referred to as zero-point energy.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+      title: Harold E. Puthoff
+    provenance_chain:
+      origin_kind: speaker
+      origin: Harold Puthoff
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+    date: null
+    date_end: null
+    location_in_record: ch24:19411-19839
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 6aeb81a1-2084-409a-a078-2415a5a27fda
+    claim_hash: 5d7bd74959839663f29b65b939efde334052e7645a8481dfda1904959b68dc65
+    content: Whitley Strieber considers zero-point energy the one known force that might enable the limitless propulsion observed
+      in small Unidentified Flying Objects.
+    original_excerpt: The one force we know of that might enable this level of functionality is the release of zero-point
+      energy.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch21:14483-14583
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 28e703f2-e708-487c-980a-3494dcf86df4
+    claim_hash: 3f9bf2010c4b37773b9da0cfd375ee0ad2881e4517ab013437c18de8c8c84ede
+    content: Zero-point energy is energy drawn from the quantum vacuum, offering the capacity to draw unlimited amounts of
+      energy through an understanding of quantum science not yet fully explained in the public domain.
+    original_excerpt: zero point energy, energy from the quantum vacuum, the capacity to draw unlimited amounts of energy
+      through an understanding of quantum science that at least in the public domain has not yet been fully explained.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Ross Coulthart's narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+    date: null
+    date_end: null
+    location_in_record: 00:19:19.2-00:19:32.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+      record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+      content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null
+  - claim_id: 9d3dbba9-2aba-4875-a322-042329e0387f
+    claim_hash: aaf6183165dda1874b96e719d1a56124ab65ba07bcb29ffe1bf7ca5e8d39dfa2
+    content: Ross Coulthart considers that the development of zero-point energy would be an ontological shock to humanity
+      and particularly to the markets, and would probably wipe out every top 100 company on the American stock exchange overnight.
+    original_excerpt: That would be an absolute ontological shock, not just to humanity, but particularly to the markets.
+      It would probably wipe out every top 100 company on the American stock exchange overnight.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:19:34.1-00:19:46.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+      record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+      content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null
+  - claim_id: b7a062ad-3a5f-4856-ac9c-6ea08dcec89e
+    claim_hash: ba84323f9df66e064c03fcf891b66685fc0c95b2fa9bbfcc9a2d52fe92f1a61e
+    content: Ross Coulthart considers that many wealthy business people do not want the public to have free energy.
+    original_excerpt: There are a lot of wealthy business people, plutocrats, who frankly don't want you to have free energy.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:22:39.7-00:22:47.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+      record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+      content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null
+  - claim_id: 2aff2fb8-c3c7-4098-b483-3669450e2cd8
+    claim_hash: a2e3f22dd061e6fa934bc7e253c013aa59f8cfed3730a89350e05c7ac9f06002
+    content: Chris Ramsay equates the oneness measured in quantum physics, observed by physicists looking at the quantum vacuum
+      or zero-point field, with the feeling of oneness experienced through unconditional love.
+    original_excerpt: I'm just now realizing that that's the, uh, it's the oneness that you measure in quantum physics, but
+      it's also that oneness you feel unconditionally through this, like love. ... that's also what scientists, uh, you know,
+      and physicists observe when they're looking at the quantum vacuum or, you know, the zero point, like, it's like, oh,
+      this is all one.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: zero-point energy
+        slug: zero-point-energy
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
+        title: unconditional love
+        slug: unconditional-love
+      - node_id: be3bc9ad-43db-4515-8c79-f5c22b46af9b
+        title: quantum entanglement
+        slug: quantum-entanglement
+    date: null
+    date_end: null
+    location_in_record: 02:40:00.0-02:40:25.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

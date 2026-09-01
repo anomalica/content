@@ -9,115 +9,127 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 703
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
 related_nodes:
-- node_id: c24f4050-f4c7-49f4-82eb-c44d74c1b7f2
-  title: Claude Vorilhon
-  node_type: person
-  slug: claude-vorilhon
-  shared_claims: 1
-- node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
-  title: Peter Khoury
-  node_type: person
-  slug: peter-khoury
-  shared_claims: 1
-claims:
-- claim_id: 714f4ced-32ff-4c64-8ac6-fccb28eba9ed
-  claim_hash: 156dcaaa85e4a7889ad186a50f1aec1a8b46e86c31ce239ef4948d9c1bc10b11
-  content: By the time of the 2008 edition foreword, the Raëlian Movement had flourished
-    internationally and gained prominence with claims of human cloning.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 602e4c3f-f31a-4082-87e1-940b4407d8fa
-    title: Raëlian Movement
-    slug: raelian-movement
-  date: null
-  date_end: null
-  location_in_record: ch3:1002-1099
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 8a02dcb7-3c6c-44af-9e2f-bdd2ee582724
-  claim_hash: fdde54877fee46966ce1020562987412b073490af423de7b5b77ffd4ebf645ef
-  content: Claude Vorilhon started the Raëlian Movement.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 602e4c3f-f31a-4082-87e1-940b4407d8fa
-    title: Raëlian Movement
-    slug: raelian-movement
   - node_id: c24f4050-f4c7-49f4-82eb-c44d74c1b7f2
     title: Claude Vorilhon
+    node_type: person
     slug: claude-vorilhon
-  date: null
-  date_end: null
-  location_in_record: ch3:908-928
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 8138e2d7-89e0-40fb-815d-37cb0d515969
-  claim_hash: 9979d70bf0ddbf0b0bc4ee18730b8401c44ac27743c6bb95de9d58eba863441e
-  content: The Raelian Movement claimed to have cloned a baby.
-  original_excerpt: And, um, the Raelians claimed to have cloned the baby as well.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
-    title: Peter Khoury
-  provenance_chain:
-    origin_kind: named
-    origin: Raelian Movement
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 602e4c3f-f31a-4082-87e1-940b4407d8fa
-    title: Raëlian Movement
-    slug: raelian-movement
+    shared_claims: 1
   - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
     title: Peter Khoury
+    node_type: person
     slug: peter-khoury
-  date: null
-  date_end: null
-  location_in_record: 02:01:40.8-02:01:44.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3b05e864-7a02-462a-828a-903374db8ce7
-    record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury
-      - DEBRIEFED ep. 58
-    record_date: '2025-10-17'
-    record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
-    content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
-    friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+    shared_claims: 1
+claims:
+  - claim_id: 714f4ced-32ff-4c64-8ac6-fccb28eba9ed
+    claim_hash: 156dcaaa85e4a7889ad186a50f1aec1a8b46e86c31ce239ef4948d9c1bc10b11
+    content: By the time of the 2008 edition foreword, the Raëlian Movement had flourished internationally and gained prominence
+      with claims of human cloning.
+    original_excerpt: it has flourished internationally and burst into prominence in recent years with claims of human cloning
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 602e4c3f-f31a-4082-87e1-940b4407d8fa
+        title: Raëlian Movement
+        slug: raelian-movement
+    date: null
+    date_end: null
+    location_in_record: ch3:1002-1099
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 8a02dcb7-3c6c-44af-9e2f-bdd2ee582724
+    claim_hash: fdde54877fee46966ce1020562987412b073490af423de7b5b77ffd4ebf645ef
+    content: Claude Vorilhon started the Raëlian Movement.
+    original_excerpt: the cult started by Vorilhon
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 602e4c3f-f31a-4082-87e1-940b4407d8fa
+        title: Raëlian Movement
+        slug: raelian-movement
+      - node_id: c24f4050-f4c7-49f4-82eb-c44d74c1b7f2
+        title: Claude Vorilhon
+        slug: claude-vorilhon
+    date: null
+    date_end: null
+    location_in_record: ch3:908-928
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 8138e2d7-89e0-40fb-815d-37cb0d515969
+    claim_hash: 9979d70bf0ddbf0b0bc4ee18730b8401c44ac27743c6bb95de9d58eba863441e
+    content: The Raelian Movement claimed to have cloned a baby.
+    original_excerpt: And, um, the Raelians claimed to have cloned the baby as well.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+      title: Peter Khoury
+    provenance_chain:
+      origin_kind: named
+      origin: Raelian Movement
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 602e4c3f-f31a-4082-87e1-940b4407d8fa
+        title: Raëlian Movement
+        slug: raelian-movement
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+    date: null
+    date_end: null
+    location_in_record: 02:01:40.8-02:01:44.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+      record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED ep. 58
+      record_date: '2025-10-17'
+      record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+      content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+      friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2

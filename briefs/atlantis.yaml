@@ -1,554 +1,2153 @@
 schema: anomalica/brief/1
-brief_hash: f7ed59c40226d3bcb57acf24fc42cf6fcbafc4280f185dcca8d0f3c272e8a0e6
+brief_hash: 1d7909015362bda3ff19065fdc41dba5f3b0c7b0e6b306b3fca832d51be771d6
 page:
   kind: entity
   node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
   node_type: topic
   title: Atlantis
   slug: atlantis
-  claim_count: 13
-  claim_count_total: 13
+  claim_count: 49
+  claim_count_total: 49
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 49
+  tokens_estimated: 14692
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 49
 related_nodes:
-- node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
-  title: Grace Hooper Pettipher
-  node_type: person
-  slug: grace-hooper-pettipher
-  shared_claims: 3
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 2
-- node_id: 6e43e203-2a7e-4529-b917-d21f4a2b50a8
-  title: Maha (self-proclaimed superior being)
-  node_type: person
-  slug: maha-self-proclaimed-superior-being
-  shared_claims: 2
-- node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
-  title: Raymond Bernard
-  node_type: person
-  slug: raymond-bernard
-  shared_claims: 2
-- node_id: e95835fe-733e-4777-bb60-740d9727e2c8
-  title: Adolf Hitler
-  node_type: person
-  slug: adolf-hitler
-  shared_claims: 1
-- node_id: 43c9d059-a7f3-46da-86a7-d24eb6ed8322
-  title: Ancient and Mystical Order of the Rosy Cross (AMORC)
-  node_type: organisation
-  slug: ancient-and-mystical-order-of-the-rosy-cross-amorc
-  shared_claims: 1
-- node_id: e830d98d-6555-4898-9e4c-2808aac1e6c8
-  title: Emma Fox
-  node_type: person
-  slug: emma-fox
-  shared_claims: 1
-- node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
-  title: Heinrich Himmler
-  node_type: person
-  slug: heinrich-himmler
-  shared_claims: 1
-- node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
-  title: Plato
-  node_type: person
-  slug: plato
-  shared_claims: 1
-- node_id: 4a5f3ce6-bc0b-4064-b849-498204e1f76a
-  title: Younger Dryas
-  node_type: event
-  slug: younger-dryas
-  shared_claims: 1
-- node_id: fb350229-87cd-41df-98d3-016277d59b90
-  title: ancient astronaut hypothesis
-  node_type: topic
-  slug: ancient-astronaut-hypothesis
-  shared_claims: 1
-claims:
-- claim_id: f1ec719b-3a15-4bed-867f-bb9743bb9dc1
-  claim_hash: 4553bb1d84cfdeb2b4d6447433017a3d32f1afdb6d72fd00813e8c07f105a1b4
-  content: Grace Hooper Pettipher told her Order of Melchizedek audience that they
-    had all met before near the Mediterranean, had lived in Egypt and Greece in past
-    lives, and had lived in Atlantis.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
-    title: Grace Hooper Pettipher
-  provenance_chain:
-    origin_kind: named
-    origin: Grace Hooper Pettipher
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
-    title: Atlantis
-    slug: atlantis
-  - node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
-    title: Grace Hooper Pettipher
-    slug: grace-hooper-pettipher
-  date: null
-  date_end: null
-  location_in_record: ch10:11857-12062
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 2bd95d10-3869-4a0a-83e9-435107358461
-  claim_hash: 34af81d7573bd80c259e7a23fd8e8c671c1bd928f6295764a47cd05712e05d6d
-  content: Grace Hooper Pettipher said Atlantis sank because of the heaviness of the
-    minds of its inhabitants.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
-    title: Grace Hooper Pettipher
-  provenance_chain:
-    origin_kind: named
-    origin: Grace Hooper Pettipher
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
-    title: Atlantis
-    slug: atlantis
-  - node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
-    title: Grace Hooper Pettipher
-    slug: grace-hooper-pettipher
-  date: null
-  date_end: null
-  location_in_record: ch10:12100-12320
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 8ed2f0e4-f9a8-4f68-a6bc-3df8542f43c6
-  claim_hash: f5cb8165eefe80e7d69c9b8233313d9ec2c4ac8e634b42b19c8ee338c374e592
-  content: Grace Hooper Pettipher said that ten or twelve years earlier, while walking
-    on Fifth Avenue on a hot summer day, she experienced a vision of Atlantis as an
-    ancient city alive with palaces and parks, and saw her friend Emma Fox in a doorway.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: named
-    origin: Grace Hooper Pettipher
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
-    title: Atlantis
-    slug: atlantis
-  - node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
-    title: Grace Hooper Pettipher
-    slug: grace-hooper-pettipher
-  - node_id: e830d98d-6555-4898-9e4c-2808aac1e6c8
-    title: Emma Fox
-    slug: emma-fox
-  date: null
-  date_end: null
-  location_in_record: ch10:12326-12625
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 5eae526f-122f-4dc1-909e-dc941d269550
-  claim_hash: c52cc7f55ace1f1a8fc66bce22cb9aa73c0d6c429329c83c73dc09f47ef3388f
-  content: Many contactees mention Atlantis when describing the origins of their claimed
-    space-brother visitors.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
-    title: Atlantis
-    slug: atlantis
-  date: null
-  date_end: null
-  location_in_record: ch11:52263-52301
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 0e0477f0-d8c1-4a8c-bb62-b235e63074bc
-  claim_hash: 2c144047a242819aa5d8563763ca5aa99e46810a4ec6243ddcf38a8e8ab78aa9
-  content: The Ancient and Mystical Order of the Rosy Cross (AMORC) claims its ancient
-    knowledge originated from Atlantis and was preserved by Egyptian priests and their
-    descendants.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Ancient and Mystical Order of the Rosy Cross (AMORC)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
-    title: Atlantis
-    slug: atlantis
-  - node_id: 43c9d059-a7f3-46da-86a7-d24eb6ed8322
-    title: Ancient and Mystical Order of the Rosy Cross (AMORC)
-    slug: ancient-and-mystical-order-of-the-rosy-cross-amorc
-  date: null
-  date_end: null
-  location_in_record: ch11:65624-65739
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: c6c9fd98-3710-4ec4-9b7b-6a9bd29d2f11
-  claim_hash: ab2458140807e12e461b24b18746125d9cf7f5331689cdfa227b5897aa33759d
-  content: Maha told Raymond Bernard that the ancient knowledge came from another
-    galaxy and was brought to Earth by the founders of Atlantis.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
-    title: Raymond Bernard
-  provenance_chain:
-    origin_kind: named
-    origin: Maha (self-proclaimed superior being)
-    relay:
-    - Raymond Bernard
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
-    title: Atlantis
-    slug: atlantis
-  - node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
-    title: Raymond Bernard
-    slug: raymond-bernard
-  - node_id: 6e43e203-2a7e-4529-b917-d21f4a2b50a8
-    title: Maha (self-proclaimed superior being)
-    slug: maha-self-proclaimed-superior-being
-  date: null
-  date_end: null
-  location_in_record: ch11:74943-75084
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 0ebe9de4-32dd-4591-9a4e-8f424d272cb1
-  claim_hash: fc8135fbe4e6df1e3552fa5406fd8e7414ce395fda76fe59d195f6de97d24ab8
-  content: Maha claimed the pure race of the Atlanteans has continued throughout the
-    millennia but would not reveal to Raymond Bernard where they now live, hinting
-    they are linked to reports of unidentified beings who pay for goods with pure
-    gold.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
-    title: Raymond Bernard
-  provenance_chain:
-    origin_kind: named
-    origin: Maha (self-proclaimed superior being)
-    relay:
-    - Raymond Bernard
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
-    title: Atlantis
-    slug: atlantis
-  - node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
-    title: Raymond Bernard
-    slug: raymond-bernard
-  - node_id: 6e43e203-2a7e-4529-b917-d21f4a2b50a8
-    title: Maha (self-proclaimed superior being)
-    slug: maha-self-proclaimed-superior-being
-  date: null
-  date_end: null
-  location_in_record: ch11:75094-75404
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 0ea67b86-c5ab-453b-8fa6-582994d250e1
-  claim_hash: 2fc65cb295f0dbc957cfc070a7dce7dcfab10c6616002e6c30a51b9d42dde5ba
-  content: Jacques Vallée notes that contactee literature contains suggestions that
-    all major human achievements, including agriculture, the mastery of fire, the
-    wheel, and most religious traditions, would have been impossible without celestial
-    intervention, beginning with the idea of Atlantis and continuing with the "Chariots
-    of the Gods" hypothesis and interpretations of Yahweh as an extraterrestrial.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
-    title: Atlantis
-    slug: atlantis
-  - node_id: fb350229-87cd-41df-98d3-016277d59b90
-    title: ancient astronaut hypothesis
-    slug: ancient-astronaut-hypothesis
-  date: null
-  date_end: null
-  location_in_record: ch13:66329-66612
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 92d8a685-8add-4969-8063-94a0350093d2
-  claim_hash: 2d9ddc7d687391999ec4c21103e141a56660b318ed3ceb0477ad908de655ee36
-  content: Jacques Vallée interviewed a woman psychic in the United States who argued
-    about Atlantis and the elimination of the money system.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: unattributed
-    origin: an unnamed woman psychic interviewed by Jacques Vallée
-    relay:
-    - Jacques Vallée
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
-    title: Atlantis
-    slug: atlantis
-  date: null
-  date_end: null
-  location_in_record: ch6:17966-18075
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: b50d24a5-152b-40c8-81c4-83bb430f635d
-  claim_hash: eaaa3eca48b9a4778f3e70afe8302fa331d56acd5092e01bc4702507ce72226a
-  content: Adolf Hitler and Heinrich Himmler believed that the ancient Egyptian gods
-    came from Atlantis, which they believed was a high civilisation established on
-    Earth by extraterrestrials.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: The Occult Roots of Nazism (book)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
-    title: Atlantis
-    slug: atlantis
-  - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
-    title: Heinrich Himmler
-    slug: heinrich-himmler
-  - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
-    title: Adolf Hitler
-    slug: adolf-hitler
-  date: null
-  date_end: null
-  location_in_record: ch12:121510-121696
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 1396bba9-beb8-4c22-ba79-fdd2976e8514
-  claim_hash: 921d55e440ff995158410260dd00dd004da5e2dd18231aa75ebfe0c8b0e03c58
-  content: The pre-Egyptian, potentially high-tech global civilisation described in
-    the Pyramid Texts became known in later Greek tradition, transmitted through Plato's
-    Egyptian sources, as "Atlantis."
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Robert Bauval and Graham Hancock
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
-    title: Atlantis
-    slug: atlantis
   - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
     title: Plato
+    node_type: person
     slug: plato
-  date: null
-  date_end: null
-  location_in_record: ch12:16338-16595
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 4913d5d9-5db0-49ea-9f18-ccf1a6055a51
-  claim_hash: 7c0b4f778c193a319e1d70df7f35f5d3129b91f1bb8224070fc9b9eedd525e0a
-  content: Whitley Strieber considers the Atlantis story likely a distant memory of
-    the Younger Dryas period, with a diffuse pre-catastrophe civilisation idealised
-    into a single grand city.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
-    title: Atlantis
-    slug: atlantis
-  - node_id: 4a5f3ce6-bc0b-4064-b849-498204e1f76a
-    title: Younger Dryas
-    slug: younger-dryas
-  date: null
-  date_end: null
-  location_in_record: ch26:10094-10216
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: f3e04354-6d2b-4056-ade4-c52c59d85acc
-  claim_hash: d998fbbe111e14e6294e6fed44a90ff763be377529a125c2f997d84c21f68b04
-  content: Whitley Strieber considers it obvious that some sort of lost civilisation
-    existed and that the archaeological evidence proves its people were master engineers.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
-    title: Atlantis
-    slug: atlantis
-  date: null
-  date_end: null
-  location_in_record: ch26:9066-9218
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
+    shared_claims: 17
+  - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+    title: Jason Quitt
+    node_type: person
+    slug: jason-quitt
+    shared_claims: 9
+  - node_id: 9eb498ae-b397-4eeb-93e3-8d15c1a1de29
+    title: Timaeus (dialogue by Plato)
+    node_type: document
+    slug: timaeus-dialogue-by-plato
+    shared_claims: 5
+  - node_id: 35e9f350-1b95-48bf-8815-ebaf041c72d8
+    title: Critias (dialogue by Plato)
+    node_type: document
+    slug: critias-dialogue-by-plato
+    shared_claims: 4
+  - node_id: 39508b14-f28f-4d32-8eeb-5b263af81114
+    title: Poseidon
+    node_type: person
+    slug: poseidon
+    shared_claims: 4
+  - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
+    title: precession of the equinoxes
+    node_type: topic
+    slug: precession-of-the-equinoxes
+    shared_claims: 4
+  - node_id: 46aaeeb4-05cc-413a-892a-bd9f52e4c35f
+    title: Egyptian creation myths
+    node_type: topic
+    slug: egyptian-creation-myths
+    shared_claims: 3
+  - node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
+    title: Grace Hooper Pettipher
+    node_type: person
+    slug: grace-hooper-pettipher
+    shared_claims: 3
+  - node_id: c587d170-065c-40c8-89b0-bdf0ba8e95b5
+    title: Hercules
+    node_type: person
+    slug: hercules
+    shared_claims: 3
+  - node_id: a264f1fe-2e5e-42d4-b688-60d4289a3a98
+    title: Solon
+    node_type: person
+    slug: solon
+    shared_claims: 3
+  - node_id: fb957752-4779-4c68-9ab7-deea7f628ecc
+    title: Spain-Morocco, Strait of Gibraltar
+    node_type: place
+    slug: strait-of-gibraltar-spain-morocco
+    shared_claims: 3
+  - node_id: 7a34e267-ee5c-4172-9230-fb920cddde2a
+    title: cyclical destruction by fire and water
+    node_type: topic
+    slug: cyclical-destruction-by-fire-and-water
+    shared_claims: 3
+  - node_id: 6987da55-6570-45e6-ac96-ce73a15eabb8
+    title: Egypt
+    node_type: place
+    slug: egypt
+    shared_claims: 2
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 2
+  - node_id: 6e43e203-2a7e-4529-b917-d21f4a2b50a8
+    title: Maha (self-proclaimed superior being)
+    node_type: person
+    slug: maha-self-proclaimed-superior-being
+    shared_claims: 2
+  - node_id: a27f6b98-6732-48c1-9eb6-642003047d48
+    title: Phaethon
+    node_type: person
+    slug: phaethon
+    shared_claims: 2
+  - node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
+    title: Raymond Bernard
+    node_type: person
+    slug: raymond-bernard
+    shared_claims: 2
+  - node_id: 064e30a2-3d9f-4036-ada6-ce7df15f66d1
+    title: Vega (star)
+    node_type: object
+    slug: vega-star
+    shared_claims: 2
+  - node_id: a64c32cb-291d-4a81-8663-e91dfbb7b803
+    title: astrotheology
+    node_type: topic
+    slug: astrotheology
+    shared_claims: 2
+  - node_id: 88d33fdf-3494-410f-9137-935db5c9c45c
+    title: demiurge
+    node_type: topic
+    slug: demiurge
+    shared_claims: 2
+  - node_id: 65b0455e-7d9d-419b-93bc-46a1fa6a5c4d
+    title: secret societies
+    node_type: topic
+    slug: secret-societies
+    shared_claims: 2
+  - node_id: b29d51b3-ea18-46c3-b059-8edf8e7c72a9
+    title: 12 labours of Hercules
+    node_type: topic
+    slug: 12-labours-of-hercules
+    shared_claims: 1
+  - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+    title: Adolf Hitler
+    node_type: person
+    slug: adolf-hitler
+    shared_claims: 1
+  - node_id: 43c9d059-a7f3-46da-86a7-d24eb6ed8322
+    title: Ancient and Mystical Order of the Rosy Cross (AMORC)
+    node_type: organisation
+    slug: ancient-and-mystical-order-of-the-rosy-cross-amorc
+    shared_claims: 1
+  - node_id: 23ff61ce-e9da-4b1b-b3e0-a0975965e9f6
+    title: Atlas
+    node_type: person
+    slug: atlas
+    shared_claims: 1
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 1
+  - node_id: b900faaa-0e7d-4baf-a026-408c717cdb1f
+    title: Contact in the Desert
+    node_type: event
+    slug: contact-in-the-desert
+    shared_claims: 1
+  - node_id: 78a74d99-a84c-47d2-8854-f52052a9f90a
+    title: Critias
+    node_type: person
+    slug: critias
+    shared_claims: 1
+  - node_id: e830d98d-6555-4898-9e4c-2808aac1e6c8
+    title: Emma Fox
+    node_type: person
+    slug: emma-fox
+    shared_claims: 1
+  - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
+    title: Heinrich Himmler
+    node_type: person
+    slug: heinrich-himmler
+    shared_claims: 1
+claims:
+  - claim_id: f1ec719b-3a15-4bed-867f-bb9743bb9dc1
+    claim_hash: 4553bb1d84cfdeb2b4d6447433017a3d32f1afdb6d72fd00813e8c07f105a1b4
+    content: Grace Hooper Pettipher told her Order of Melchizedek audience that they had all met before near the Mediterranean,
+      had lived in Egypt and Greece in past lives, and had lived in Atlantis.
+    original_excerpt: We've all met before, near the Mediterranean. For the last twenty years we've had Egypt with us, people
+      who reincarnated from that period. We're coming out of it now. People remember meeting in Greece, in Atlantis…
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
+      title: Grace Hooper Pettipher
+    provenance_chain:
+      origin_kind: named
+      origin: Grace Hooper Pettipher
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
+        title: Grace Hooper Pettipher
+        slug: grace-hooper-pettipher
+    date: null
+    date_end: null
+    location_in_record: ch10:11857-12062
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 2bd95d10-3869-4a0a-83e9-435107358461
+    claim_hash: 34af81d7573bd80c259e7a23fd8e8c671c1bd928f6295764a47cd05712e05d6d
+    content: Grace Hooper Pettipher said Atlantis sank because of the heaviness of the minds of its inhabitants.
+    original_excerpt: '"We lived in harmony in Atlantis," she said with the matter-of- fact intonation of a housewife recalling
+      some childhood memory. "Unfortunately the heaviness of mind sank the island. Parts of this heaviness are still with
+      us."'
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
+      title: Grace Hooper Pettipher
+    provenance_chain:
+      origin_kind: named
+      origin: Grace Hooper Pettipher
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
+        title: Grace Hooper Pettipher
+        slug: grace-hooper-pettipher
+    date: null
+    date_end: null
+    location_in_record: ch10:12100-12320
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 8ed2f0e4-f9a8-4f68-a6bc-3df8542f43c6
+    claim_hash: f5cb8165eefe80e7d69c9b8233313d9ec2c4ac8e634b42b19c8ee338c374e592
+    content: Grace Hooper Pettipher said that ten or twelve years earlier, while walking on Fifth Avenue on a hot summer day,
+      she experienced a vision of Atlantis as an ancient city alive with palaces and parks, and saw her friend Emma Fox in
+      a doorway.
+    original_excerpt: 'Atlantis… she saw it on Fifth Avenue, ten or twelve years ago. Grace was walking on the sidewalk on
+      a hot summer day, and suddenly it was there at her feet: a vision of palaces and parks, an ancient city alive and excited.
+      "God, give me a witness!" she prayed. Then she saw her friend Emma Fox in a doorway.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Grace Hooper Pettipher
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
+        title: Grace Hooper Pettipher
+        slug: grace-hooper-pettipher
+      - node_id: e830d98d-6555-4898-9e4c-2808aac1e6c8
+        title: Emma Fox
+        slug: emma-fox
+    date: null
+    date_end: null
+    location_in_record: ch10:12326-12625
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 5eae526f-122f-4dc1-909e-dc941d269550
+    claim_hash: c52cc7f55ace1f1a8fc66bce22cb9aa73c0d6c429329c83c73dc09f47ef3388f
+    content: Many contactees mention Atlantis when describing the origins of their claimed space-brother visitors.
+    original_excerpt: Many contactees, for example, mention Atlantis.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+    date: null
+    date_end: null
+    location_in_record: ch11:52263-52301
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 0e0477f0-d8c1-4a8c-bb62-b235e63074bc
+    claim_hash: 2c144047a242819aa5d8563763ca5aa99e46810a4ec6243ddcf38a8e8ab78aa9
+    content: The Ancient and Mystical Order of the Rosy Cross (AMORC) claims its ancient knowledge originated from Atlantis
+      and was preserved by Egyptian priests and their descendants.
+    original_excerpt: AMORC says it comes from – you guessed it – Atlantis. It was preserved all this time by Egyptian priests
+      and their descendants.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Ancient and Mystical Order of the Rosy Cross (AMORC)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 43c9d059-a7f3-46da-86a7-d24eb6ed8322
+        title: Ancient and Mystical Order of the Rosy Cross (AMORC)
+        slug: ancient-and-mystical-order-of-the-rosy-cross-amorc
+    date: null
+    date_end: null
+    location_in_record: ch11:65624-65739
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: c6c9fd98-3710-4ec4-9b7b-6a9bd29d2f11
+    claim_hash: ab2458140807e12e461b24b18746125d9cf7f5331689cdfa227b5897aa33759d
+    content: Maha told Raymond Bernard that the ancient knowledge came from another galaxy and was brought to Earth by the
+      founders of Atlantis.
+    original_excerpt: Maha stated the answer unequivocally, by insisting that this knowledge came from another galaxy, and
+      was brought to Earth by the founders of Atlantis.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
+      title: Raymond Bernard
+    provenance_chain:
+      origin_kind: named
+      origin: Maha (self-proclaimed superior being)
+      relay:
+        - Raymond Bernard
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
+        title: Raymond Bernard
+        slug: raymond-bernard
+      - node_id: 6e43e203-2a7e-4529-b917-d21f4a2b50a8
+        title: Maha (self-proclaimed superior being)
+        slug: maha-self-proclaimed-superior-being
+    date: null
+    date_end: null
+    location_in_record: ch11:74943-75084
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 0ebe9de4-32dd-4591-9a4e-8f424d272cb1
+    claim_hash: fc8135fbe4e6df1e3552fa5406fd8e7414ce395fda76fe59d195f6de97d24ab8
+    content: Maha claimed the pure race of the Atlanteans has continued throughout the millennia but would not reveal to Raymond
+      Bernard where they now live, hinting they are linked to reports of unidentified beings who pay for goods with pure gold.
+    original_excerpt: The claim is made that the 'pure race' of these Atlanteans has continued throughout the millennia. Maha
+      will not reveal where they now live, not even to his dear disciple Bernard. He hinted that they are linked to reports
+      of unidentified beings, coming from elsewhere, who pay for the goods they buy with pure gold.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
+      title: Raymond Bernard
+    provenance_chain:
+      origin_kind: named
+      origin: Maha (self-proclaimed superior being)
+      relay:
+        - Raymond Bernard
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
+        title: Raymond Bernard
+        slug: raymond-bernard
+      - node_id: 6e43e203-2a7e-4529-b917-d21f4a2b50a8
+        title: Maha (self-proclaimed superior being)
+        slug: maha-self-proclaimed-superior-being
+    date: null
+    date_end: null
+    location_in_record: ch11:75094-75404
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 0ea67b86-c5ab-453b-8fa6-582994d250e1
+    claim_hash: 2fc65cb295f0dbc957cfc070a7dce7dcfab10c6616002e6c30a51b9d42dde5ba
+    content: Jacques Vallée notes that contactee literature contains suggestions that all major human achievements, including
+      agriculture, the mastery of fire, the wheel, and most religious traditions, would have been impossible without celestial
+      intervention, beginning with the idea of Atlantis and continuing with the "Chariots of the Gods" hypothesis and interpretations
+      of Yahweh as an extraterrestrial.
+    original_excerpt: Beginning with the idea of Atlantis and of "Chariots of the Gods," and continuing with Biblical interpretations
+      of Yahweh as an extraterrestrial, contactee literature is replete with suggestions that all the great achievements of
+      mankind would have been impossible without celestial intervention.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: fb350229-87cd-41df-98d3-016277d59b90
+        title: ancient astronaut hypothesis
+        slug: ancient-astronaut-hypothesis
+    date: null
+    date_end: null
+    location_in_record: ch13:66329-66612
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 92d8a685-8add-4969-8063-94a0350093d2
+    claim_hash: 2d9ddc7d687391999ec4c21103e141a56660b318ed3ceb0477ad908de655ee36
+    content: Jacques Vallée interviewed a woman psychic in the United States who argued about Atlantis and the elimination
+      of the money system.
+    original_excerpt: I came back to the States and met a woman psychic who argued about Atlantis and the elimination of our
+      money system.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: unattributed
+      origin: an unnamed woman psychic interviewed by Jacques Vallée
+      relay:
+        - Jacques Vallée
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+    date: null
+    date_end: null
+    location_in_record: ch6:17966-18075
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: b50d24a5-152b-40c8-81c4-83bb430f635d
+    claim_hash: eaaa3eca48b9a4778f3e70afe8302fa331d56acd5092e01bc4702507ce72226a
+    content: Adolf Hitler and Heinrich Himmler believed that the ancient Egyptian gods came from Atlantis, which they believed
+      was a high civilisation established on Earth by extraterrestrials.
+    original_excerpt: Goodrick-Clarke also shows that Hitler and Himmler believed that these Egyptian gods themselves came
+      from "Atlantis"—which they believed was "a high civilization established on Earth by extraterrestrials."
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Occult Roots of Nazism (book)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
+        title: Heinrich Himmler
+        slug: heinrich-himmler
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: ch12:121510-121696
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 1396bba9-beb8-4c22-ba79-fdd2976e8514
+    claim_hash: 921d55e440ff995158410260dd00dd004da5e2dd18231aa75ebfe0c8b0e03c58
+    content: The pre-Egyptian, potentially high-tech global civilisation described in the Pyramid Texts became known in later
+      Greek tradition, transmitted through Plato's Egyptian sources, as "Atlantis."
+    original_excerpt: This pre-Egyptian and potentially high-tech global terrestrial civilization (with mysterious extraterrestrial
+      connections, also identified within the texts) was what was known later in the descendant Greek tradition—through Plato’s
+      own Egyptian sources—as “Atlantis.”
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert Bauval and Graham Hancock
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+    date: null
+    date_end: null
+    location_in_record: ch12:16338-16595
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4913d5d9-5db0-49ea-9f18-ccf1a6055a51
+    claim_hash: 7c0b4f778c193a319e1d70df7f35f5d3129b91f1bb8224070fc9b9eedd525e0a
+    content: Whitley Strieber considers the Atlantis story likely a distant memory of the Younger Dryas period, with a diffuse
+      pre-catastrophe civilisation idealised into a single grand city.
+    original_excerpt: The Atlantis story is probably a distant memory of those times, with a diffuse civilization idealized
+      into a single grand city.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 4a5f3ce6-bc0b-4064-b849-498204e1f76a
+        title: Younger Dryas
+        slug: younger-dryas
+    date: null
+    date_end: null
+    location_in_record: ch26:10094-10216
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: f3e04354-6d2b-4056-ade4-c52c59d85acc
+    claim_hash: d998fbbe111e14e6294e6fed44a90ff763be377529a125c2f997d84c21f68b04
+    content: Whitley Strieber considers it obvious that some sort of lost civilisation existed and that the archaeological
+      evidence proves its people were master engineers.
+    original_excerpt: I think it's obvious that some sort of civilization existed and has been lost, and the evidence on the
+      ground proves conclusively that they were master engineers.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+    date: null
+    date_end: null
+    location_in_record: ch26:9066-9218
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: c026fd48-203c-4887-b37e-1a22315932fe
+    claim_hash: c4101d7af2b2c8197591584e1bc2cd088497b82e392cab60798eee0287a26d56
+    content: Chris Ramsay considers Jason Quitt's account of Atlantis, given at the Contact in the Desert conference, a brand
+      new take on the subject.
+    original_excerpt: you talking about it at contact i was really taken back because i was like oh this is a brand new take
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: b900faaa-0e7d-4baf-a026-408c717cdb1f
+        title: Contact in the Desert
+        slug: contact-in-the-desert
+    date: null
+    date_end: null
+    location_in_record: 00:02:35.2-00:02:39.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: e792952e-5bc5-44df-a0d3-f0fcd8a6901c
+    claim_hash: 2460f4af65e4ef17a7700567a12fd823f2bae91b064c1e2ed80f78362c4d43c5
+    content: Plato wrote two works containing the Atlantis story and was supposed to write three; the Timaeus is complete
+      and the Critias is only halfway complete.
+    original_excerpt: Plato wrote two works. He was supposed to write three. Uh, one is called the Timaeus. One is called
+      Critias and Critias is halfway complete.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 35e9f350-1b95-48bf-8815-ebaf041c72d8
+        title: Critias (dialogue by Plato)
+        slug: critias-dialogue-by-plato
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+      - node_id: 9eb498ae-b397-4eeb-93e3-8d15c1a1de29
+        title: Timaeus (dialogue by Plato)
+        slug: timaeus-dialogue-by-plato
+    date: null
+    date_end: null
+    location_in_record: 01:38:13.4-01:38:22.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 2576c9fb-f648-4567-836f-4cce5110677e
+    claim_hash: b2c4f563b8fedbed71c9e505f780f487ceea9ced8cad89a5f0528c29eb27f243
+    content: The Atlantis story is introduced in Plato's Timaeus and detailed in the half-complete Critias.
+    original_excerpt: you get the Atlantis story from the Timaeus, which is like introduced in the Timaeus... And then you
+      have, let's say, like a half a book of the Critias, which details Atlantis.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 35e9f350-1b95-48bf-8815-ebaf041c72d8
+        title: Critias (dialogue by Plato)
+        slug: critias-dialogue-by-plato
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+      - node_id: 9eb498ae-b397-4eeb-93e3-8d15c1a1de29
+        title: Timaeus (dialogue by Plato)
+        slug: timaeus-dialogue-by-plato
+    date: null
+    date_end: null
+    location_in_record: 01:38:26.1-01:38:37.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 5fbbf07d-ee85-4f33-8ddc-464bcf1beac7
+    claim_hash: fb679d0750094187c4f87db352d247938a0bcd05a7ee21f0a786ccdfb42d8693
+    content: Jason Quitt's research finds the Atlantis story contains hermetic and ancient creation myth material that cannot
+      be seen without prior knowledge of those creation myths.
+    original_excerpt: when you read the Atlantis story, there's a lot of, I would say, hermetic and ancient creation myth
+      in there. And unless you know those creation myths, you won't be able to see them.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 46aaeeb4-05cc-413a-892a-bd9f52e4c35f
+        title: Egyptian creation myths
+        slug: egyptian-creation-myths
+      - node_id: 8b91d74c-3d45-46e6-8fbc-076d20c27c22
+        title: hermeticism
+        slug: hermeticism
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+    date: null
+    date_end: null
+    location_in_record: 01:38:41.2-01:38:57.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 5a9d92ab-684b-4403-80a1-37476d8b3cb3
+    claim_hash: 51dc45dca19874b760d2158ed93e0c5e43801d431b74bdc0e9d806be792ecde0
+    content: Jason Quitt considers Plato's telling of the Atlantis story, via Critias and Solon, to be a reflection of the
+      universe and of creation.
+    original_excerpt: the way that Plato writes the story from Critias or Solon is in a way, a reflection of the universe.
+      It's a reflection of the creation.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+      - node_id: 78a74d99-a84c-47d2-8854-f52052a9f90a
+        title: Critias
+        slug: critias
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: a264f1fe-2e5e-42d4-b688-60d4289a3a98
+        title: Solon
+        slug: solon
+    date: null
+    date_end: null
+    location_in_record: 01:38:58.8-01:39:09.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: e4c44f92-c431-430e-9216-e18d356be31c
+    claim_hash: caffc99475d743e3e79b85aaa8a4de61d21f0b43fe4913cf7e25639d2c2074ea
+    content: In Plato's Atlantis story, Poseidon, the god of the sea, is gifted an allotment of land.
+    original_excerpt: it starts with Poseidon. He's gifted an allotment of land, of earth. He's the God of the sea.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: document
+      origin: Plato's Atlantis account in the Timaeus and Critias
+      relay:
+        - Jason Quitt's reading
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 39508b14-f28f-4d32-8eeb-5b263af81114
+        title: Poseidon
+        slug: poseidon
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+    date: null
+    date_end: null
+    location_in_record: 01:39:18.5-01:39:26.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 2a1bdee6-89b8-4f84-96cc-b8b1443444fb
+    claim_hash: a120184806ce9d1dbf6942af3411428fb49cdbbd4d928ce9f1bc5072f31e1fcd
+    content: In Plato's Atlantis story, Poseidon falls in love with the daughter of an earth family living on a central hill
+      and encircles her with alternating rings of land and water, turned as on a lathe, to protect her.
+    original_excerpt: On a central hill, there's an earth family, has a daughter. He falls in love with her. He comes down,
+      he puts um, land and water, like a lathe, like circles of land and water rendered to protect her.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: document
+      origin: Plato's Atlantis account in the Timaeus and Critias
+      relay:
+        - Jason Quitt's reading
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 39508b14-f28f-4d32-8eeb-5b263af81114
+        title: Poseidon
+        slug: poseidon
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+    date: null
+    date_end: null
+    location_in_record: 01:39:28.3-01:39:46.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: a16d01c1-9602-4427-a659-88da9432e5bd
+    claim_hash: b52d831dc5b607882e8d1a0bc02e565125b8a3e538a1e1d614ed437b6cbe99b6
+    content: In Plato's Atlantis story, Poseidon's mortal partner bears five sets of twins, and the first born is named Atlas.
+    original_excerpt: So then she has five twins, sets of twins and the first born they named Atlas.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: document
+      origin: Plato's Atlantis account in the Timaeus and Critias
+      relay:
+        - Jason Quitt's reading
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 23ff61ce-e9da-4b1b-b3e0-a0975965e9f6
+        title: Atlas
+        slug: atlas
+      - node_id: 39508b14-f28f-4d32-8eeb-5b263af81114
+        title: Poseidon
+        slug: poseidon
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+    date: null
+    date_end: null
+    location_in_record: 01:40:04.3-01:40:11.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: e56a4e41-2b20-40ae-b98c-b812150c7ea7
+    claim_hash: 214c5d131a5640c44df85baa6a47ebb99c330125c8609a00bf949475784bfb1f
+    content: In Plato's Atlantis story the Temple of Poseidon is placed at the centre of the island of Atlantis.
+    original_excerpt: And they place the Temple of Poseidon right at the center of the island.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: document
+      origin: Plato's Atlantis account in the Timaeus and Critias
+      relay:
+        - Jason Quitt's reading
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 39508b14-f28f-4d32-8eeb-5b263af81114
+        title: Poseidon
+        slug: poseidon
+      - node_id: c474cbe6-a5e2-47f7-8e52-24f092073d89
+        title: Temple of Poseidon on Atlantis
+        slug: temple-of-poseidon-on-atlantis
+    date: null
+    date_end: null
+    location_in_record: 01:40:30.0-01:40:33.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: afa20c39-5ac7-4b30-b935-4ac13c3c24da
+    claim_hash: 227f13327865e931970dba3edb80e6a5ded9265dc4f537deeb8b7d871bfb0f36
+    content: In Plato's Atlantis story a pillar of orichalcum, a mythological sacred metal of reddish-gold colour, stands
+      directly at the centre of the island of Atlantis.
+    original_excerpt: In the middle, there is an orichalcum, which is a sacred metal. It's a mythological metal, which is
+      kind of reddish gold, a pillar directly in the center of the island.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: document
+      origin: Plato's Atlantis account in the Timaeus and Critias
+      relay:
+        - Jason Quitt's reading
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: a338ad98-1490-4da4-b1bd-8c1c1a0f0fee
+        title: orichalcum
+        slug: orichalcum
+    date: null
+    date_end: null
+    location_in_record: 01:40:34.6-01:40:45.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 0b329808-2bc9-4f86-bf14-c37bbdc0043b
+    claim_hash: 8553c9221d32808ad342678ba76921e059e7e040a8c33adff1600aa8e1994049
+    content: In Plato's Atlantis story the Atlanteans lived in harmony and perfection as a naval power, then mixed too much
+      with mortals, became warlike, and went to war beyond their boundaries into the Strait of Gibraltar, the Pillars of Hercules.
+    original_excerpt: over time, they live in harmony, perfection, they navigate their naval power. And then they go to war,
+      they get too much mixing with mortals, they become warlike, and then they're going to go outside their boundaries into
+      the Straits of Gibraltar, which is the Pillars of Hercules.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: document
+      origin: Plato's Atlantis account in the Timaeus and Critias
+      relay:
+        - Jason Quitt's reading
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: c587d170-065c-40c8-89b0-bdf0ba8e95b5
+        title: Hercules
+        slug: hercules
+      - node_id: fb957752-4779-4c68-9ab7-deea7f628ecc
+        title: Spain-Morocco, Strait of Gibraltar
+        slug: strait-of-gibraltar-spain-morocco
+    date: null
+    date_end: null
+    location_in_record: 01:40:52.1-01:41:17.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 275627ef-8f6c-4f4a-a874-fc1354ecfec8
+    claim_hash: 270983a41cd7e21daa5a84c65f84abc57dcb395e5b42f4def39ce5d43eff16e0
+    content: The Timaeus and the Critias date the Atlantis events specifically to about 9,000 years before, which works out
+      to 9600 BC.
+    original_excerpt: They give a date very specifically in the Timaeus and the Critias about 9,000 years, or it comes to
+      9,600 BC.
+    claim_type: measurement
+    attestation: second_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: document
+      origin: Plato's Atlantis account in the Timaeus and Critias
+      relay:
+        - Jason Quitt's reading
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 35e9f350-1b95-48bf-8815-ebaf041c72d8
+        title: Critias (dialogue by Plato)
+        slug: critias-dialogue-by-plato
+      - node_id: 9eb498ae-b397-4eeb-93e3-8d15c1a1de29
+        title: Timaeus (dialogue by Plato)
+        slug: timaeus-dialogue-by-plato
+    date: null
+    date_end: null
+    location_in_record: 01:41:22.8-01:41:33.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: ccc07b57-c8c8-4fb6-aea9-434859555cfb
+    claim_hash: 4ba4fe1c1a30a0d67771ed751ef8d1be94a9523f6bfb613467de3b7907f77b6b
+    content: At 9600 BC the north celestial pole lay directly between the legs of the constellation Hercules in the northern
+      sky.
+    original_excerpt: If you look up in the sky, at the northern sky at that time, the North Pole is directly in between the
+      legs of Hercules in the sky.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
+        title: precession of the equinoxes
+        slug: precession-of-the-equinoxes
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: c587d170-065c-40c8-89b0-bdf0ba8e95b5
+        title: Hercules
+        slug: hercules
+    date: null
+    date_end: null
+    location_in_record: 01:41:35.4-01:41:44.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 25f9972c-6d5f-41f3-88e3-07dc1f150e9b
+    claim_hash: 2fe0b1c58defa688af07c188885a6a122bed39faae4d09efbaec7ba789bd73ec
+    content: Jason Quitt considers the Atlantis myth to mirror the actual dating and positioning of the stars in the heavens,
+      making it an "as above, so below" story.
+    original_excerpt: So the myth or the story of Atlantis mirrors the actual date and timing of the stars in the heavens.
+      So it's kind of this as above, so below story.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: a64c32cb-291d-4a81-8663-e91dfbb7b803
+        title: astrotheology
+        slug: astrotheology
+      - node_id: c06dafc2-fee5-4276-8680-226eaef49f82
+        title: as above, so below
+        slug: so-below-as-above
+    date: null
+    date_end: null
+    location_in_record: 01:41:46.1-01:41:57.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 3ec139c8-c578-4722-b81c-cedbb12b37eb
+    claim_hash: 15d2ec6931ca898fdd097e87e41700e537932bac68112a89813962b62a968f06
+    content: At the height of Atlantis's power, around 12,000 BCE, the pole star was Vega, the brightest star in the northern
+      sky.
+    original_excerpt: The pole star is Vega in the north sky. And so Vega is the brightest star in the north sky. If you go
+      back 12,000 BCE
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
+        title: precession of the equinoxes
+        slug: precession-of-the-equinoxes
+      - node_id: 064e30a2-3d9f-4036-ada6-ce7df15f66d1
+        title: Vega (star)
+        slug: vega-star
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+    date: null
+    date_end: null
+    location_in_record: 01:42:07.1-01:42:16.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 7092cfc7-b6fc-457a-b537-19238ee97049
+    claim_hash: ad7746975c4c8c9cab7f9f53c5fdad7088901348a9927db1532e17dc4e4ce041
+    content: A stable north star is required to travel the world, and a civilisation could only be a naval power while it
+      had such a star.
+    original_excerpt: that star would have been so important for travelers because you need a north star, a stable north star
+      to travel the world. You could only be a naval power if you have this star
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 064e30a2-3d9f-4036-ada6-ce7df15f66d1
+        title: Vega (star)
+        slug: vega-star
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+    date: null
+    date_end: null
+    location_in_record: 01:42:18.5-01:42:29.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: eb5c643f-bc77-4187-94ec-2433763ad3c1
+    claim_hash: 1a2d803ebcc8fa3766126f6241dfbc57fd47ccd2e729980f5b139532290f3b03
+    content: Jason Quitt links the cataclysm in the Atlantis story to the loss of the north star and a resulting loss of cosmic
+      navigational understanding.
+    original_excerpt: now the pole star is in between Hercules and you have this cataclysm because there is no north star
+      anymore... So you have this loss of the world, loss of cosmic navigational understanding.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
+        title: precession of the equinoxes
+        slug: precession-of-the-equinoxes
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: c587d170-065c-40c8-89b0-bdf0ba8e95b5
+        title: Hercules
+        slug: hercules
+    date: null
+    date_end: null
+    location_in_record: 01:43:06.1-01:43:16.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: fa1948a3-a7c9-4508-b79c-baeed3280cee
+    claim_hash: 31b87948f5da84492b977d97816419326a2ebd8cf326b386321770381ed966a4
+    content: Jason Quitt interprets the great flood or deluge of the Atlantis story as the dark waters of space.
+    original_excerpt: The great flood. It's like the deluge because it's the dark waters of space.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 6c29983f-5e77-43ce-8399-b29c3c5a2c10
+        title: Nun (ancient Egyptian primordial waters)
+        slug: nun-ancient-egyptian-primordial-waters
+      - node_id: 7a34e267-ee5c-4172-9230-fb920cddde2a
+        title: cyclical destruction by fire and water
+        slug: cyclical-destruction-by-fire-and-water
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+    date: null
+    date_end: null
+    location_in_record: 01:43:29.1-01:43:32.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 2a7e3a1a-ccec-42be-bb25-709629dcef09
+    claim_hash: f8f7b3d44d2a0602e4c04e53321ea018653408a290d32fbe9917972ea03ced23
+    content: Jason Quitt acknowledges a reflection between the Younger Dryas and the date given for the Atlantis cataclysm.
+    original_excerpt: of course there's a reflection between the younger Dryas and the, the date
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: 92847e5f-890b-43a1-8535-b85bad96b2dd
+        title: Younger Dryas
+        slug: younger-dryas
+    date: null
+    date_end: null
+    location_in_record: 01:43:34.4-01:43:37.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: c9a0d886-8a40-4c73-ae01-2d38806a81ba
+    claim_hash: 0c56b05e5912eff326c7574cab1ef1f69bfc0c39f0101acd95ae7f16e663f5a7
+    content: In Plato's Timaeus the Atlantis story appears just before the character Timaeus speaks about the creation of
+      the world by the benevolent demiurge.
+    original_excerpt: you have the Atlantis story that pops in just before Timaeus speaks... And he talks about the creation
+      of the world by the bevalent demiurge.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: document
+      origin: Plato's Timaeus
+      relay:
+        - Jason Quitt's reading
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+      - node_id: 88d33fdf-3494-410f-9137-935db5c9c45c
+        title: demiurge
+        slug: demiurge
+      - node_id: 9eb498ae-b397-4eeb-93e3-8d15c1a1de29
+        title: Timaeus (dialogue by Plato)
+        slug: timaeus-dialogue-by-plato
+    date: null
+    date_end: null
+    location_in_record: 01:43:48.0-01:44:00.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 6315e537-ad6f-4576-a49e-41c9015a0d9c
+    claim_hash: 37f703da465e9d484f4537466ca6ddf9f9126e5627c3726e7163c1832c12f553
+    content: Jason Quitt finds that merging Timaeus's description of the creation of the universe with Critias's account of
+      the creation of Atlantis yields the same circular pattern as the shape of Atlantis.
+    original_excerpt: if you take the image of Timaeus talking about the creation of the universe and you take the Atlantis
+      story and you actually just merge them together, it's like they're describing that same circular pattern that Atlantis
+      is shaped of.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 35e9f350-1b95-48bf-8815-ebaf041c72d8
+        title: Critias (dialogue by Plato)
+        slug: critias-dialogue-by-plato
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: 9eb498ae-b397-4eeb-93e3-8d15c1a1de29
+        title: Timaeus (dialogue by Plato)
+        slug: timaeus-dialogue-by-plato
+      - node_id: fd7ec391-52f8-4411-8a6b-793458e83a27
+        title: sacred geometry
+        slug: sacred-geometry
+    date: null
+    date_end: null
+    location_in_record: 01:44:35.1-01:44:50.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 5e52f5e3-f054-4f7d-8297-b3d59e1780b8
+    claim_hash: b181a788d571c72489b02d035e0092a9d7daba6593bf3e2c113903c9a99798f2
+    content: Jason Quitt considers that Plato took ancient creation myths, wrapped them and gave them the new name of Atlantis,
+      so the whole Atlantis story can be found in other myths.
+    original_excerpt: it's almost like Plato took ancient creation myths and then he wrapped it and gave it a new name, you
+      know?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 46aaeeb4-05cc-413a-892a-bd9f52e4c35f
+        title: Egyptian creation myths
+        slug: egyptian-creation-myths
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+    date: null
+    date_end: null
+    location_in_record: 01:45:06.9-01:45:13.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 8bcea49b-9431-45d9-9528-01c514a7be3c
+    claim_hash: c4c8acceea961ea7915efdbc6e4e2c7d40e8acccef45ffce8e65679fb529aa45
+    content: Understanding Plato's Atlantis account requires knowledge of Egypt, the Egyptian creation myths, The Odyssey
+      and the 12 labours of Hercules.
+    original_excerpt: you have to know about Egypt. You have to know about the Egyptian creation myths. You have to know about,
+      um, the Odyssey... 12 labors of Hercules.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 1f7e363f-62ce-4edf-8c5a-41c6247086d7
+        title: The Odyssey
+        slug: the-odyssey
+      - node_id: 46aaeeb4-05cc-413a-892a-bd9f52e4c35f
+        title: Egyptian creation myths
+        slug: egyptian-creation-myths
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+      - node_id: 6987da55-6570-45e6-ac96-ce73a15eabb8
+        title: Egypt
+        slug: egypt
+      - node_id: b29d51b3-ea18-46c3-b059-8edf8e7c72a9
+        title: 12 labours of Hercules
+        slug: 12-labours-of-hercules
+    date: null
+    date_end: null
+    location_in_record: 01:45:20.2-01:45:32.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 27a5bad4-d655-4d55-99e7-358b9af4f34f
+    claim_hash: c32c0d1ac129df702f2ff84b262a553b97af9732f746fb2fd88157c0320cec92
+    content: Jason Quitt considers that in telling the Atlantis myth Plato followed a long line of earlier authors who created
+      myths of the gods that actually tell another story to those initiated into it.
+    original_excerpt: by giving this kind of fable, this myth, he's actually following a very long line of other authors in
+      the past that create myths of the gods. But it's actually telling another story when initiated into this.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+      - node_id: 65b0455e-7d9d-419b-93bc-46a1fa6a5c4d
+        title: secret societies
+        slug: secret-societies
+    date: null
+    date_end: null
+    location_in_record: 01:46:43.3-01:46:56.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 354d207f-228a-48a5-8ef7-0d003668a7bc
+    claim_hash: a6ee7f8658ef16268869ae537b73d673e5bc54a3b375bd41e3755970c0eff253
+    content: In Plato's Atlantis account an Egyptian priest tells Solon that Phaethon took his father's chariot and burnt
+      the earth, causing a catastrophe by fire, and that the world goes through periodic cataclysms by water and fire.
+    original_excerpt: why did the um the priest tell Solon that um that Phaethon stole his chair his father's chariot and
+      burnt the earth causing a catastrophe by fire and that the um the world goes through these periodic cataclysms by water
+      and fire
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: document
+      origin: Plato's Atlantis account
+      relay:
+        - Jason Quitt's reading
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 7a34e267-ee5c-4172-9230-fb920cddde2a
+        title: cyclical destruction by fire and water
+        slug: cyclical-destruction-by-fire-and-water
+      - node_id: a264f1fe-2e5e-42d4-b688-60d4289a3a98
+        title: Solon
+        slug: solon
+      - node_id: a27f6b98-6732-48c1-9eb6-642003047d48
+        title: Phaethon
+        slug: phaethon
+    date: null
+    date_end: null
+    location_in_record: 01:48:29.2-01:48:49.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: a9a8ebc5-e578-4564-b31b-ee1fdb2862e0
+    claim_hash: 3dfe727d6791764fca451517408072dce88e61cc8bc4e1e498bb34bb9d6b21ee
+    content: Immediately before relating the Atlantis story, the Egyptian priest tells Solon that the account has the form
+      of a myth but really means the declination of the stars of the heavens over long periods of time.
+    original_excerpt: the priest also says, you know, this story has a form of a myth, but what it really means is the declination
+      of the stars of the heavens. over long periods of time.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: document
+      origin: Plato's Atlantis account
+      relay:
+        - Jason Quitt's reading
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
+        title: precession of the equinoxes
+        slug: precession-of-the-equinoxes
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: a264f1fe-2e5e-42d4-b688-60d4289a3a98
+        title: Solon
+        slug: solon
+      - node_id: a64c32cb-291d-4a81-8663-e91dfbb7b803
+        title: astrotheology
+        slug: astrotheology
+    date: null
+    date_end: null
+    location_in_record: 01:48:55.0-01:49:05.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 54a57714-071b-4e04-81dd-9c2ccb42b5d2
+    claim_hash: f737973435fe40ac58b0764759910b7fa7e8b49b23e134de627f672799ad97bf
+    content: The story of Phaethon is a destruction of the world by fire and the Atlantis story carries the same theme but
+      with water.
+    original_excerpt: the story of Phaeton is the destruction of the world by fire. The exact same theme is in the Atlantis
+      story, but it's with water.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 7a34e267-ee5c-4172-9230-fb920cddde2a
+        title: cyclical destruction by fire and water
+        slug: cyclical-destruction-by-fire-and-water
+      - node_id: a27f6b98-6732-48c1-9eb6-642003047d48
+        title: Phaethon
+        slug: phaethon
+    date: null
+    date_end: null
+    location_in_record: 01:49:20.8-01:49:28.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 1cc82275-71ef-44cb-adc5-b3e16847c5d0
+    claim_hash: 3e684aa6bb534097dacda392386bd2f3b9b83fe4d072947f4369e9bc4c455db9
+    content: In Plato's account Atlantis is located just outside the Pillars of Hercules, identified as the Strait of Gibraltar
+      between Spain and Morocco.
+    original_excerpt: he says it's right outside the pillars of Hercules, which we know exactly that location on earth
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: document
+      origin: Plato's Atlantis account
+      relay:
+        - Jason Quitt's reading
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+      - node_id: fb957752-4779-4c68-9ab7-deea7f628ecc
+        title: Spain-Morocco, Strait of Gibraltar
+        slug: strait-of-gibraltar-spain-morocco
+    date: null
+    date_end: null
+    location_in_record: 01:49:50.3-01:49:56.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: c605640b-6f67-4882-bd12-4a31f9377e49
+    claim_hash: 4a2c1ef195a9289367ce5712825379c11e9f92afe441737d09afe0cdfc72eda1
+    content: In Plato's account Atlantis is larger than Libya and Asia combined.
+    original_excerpt: He says it's larger than Libya and Asia combined.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: document
+      origin: Plato's Atlantis account
+      relay:
+        - Jason Quitt's reading
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+    date: null
+    date_end: null
+    location_in_record: 01:50:02.4-01:50:05.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 87e1c764-e0a5-41b5-be52-70498af77f83
+    claim_hash: e7d63ae7ad56ff9329256e5129dc21178593f4a8cbe1fbb2613040e4ef39628b
+    content: Jason Quitt puts the combined size of Libya and Asia as given in Plato's Atlantis account at a continent roughly
+      the size of North America.
+    original_excerpt: if you put those two places together, you're talking about a continent, roughly the size of North America.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+    date: null
+    date_end: null
+    location_in_record: 01:50:07.3-01:50:12.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 36ccc4bf-af78-4d39-961d-dfb3ecf52031
+    claim_hash: 303a28d7863bc32ded3924cba544fe44cfc183080509b4d5ec6aef19ce813960
+    content: Jason Quitt considers that a continent-sized landmass sinking into the ocean around 11,000 years ago would have
+      left evidence, and no such evidence is found outside the Strait of Gibraltar.
+    original_excerpt: if that went into the ocean 11,000 years ago, give or take, there's going to be evidence of that. Um,
+      you're going to see it, but we don't, it's, it's completely not in that location
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: fb957752-4779-4c68-9ab7-deea7f628ecc
+        title: Spain-Morocco, Strait of Gibraltar
+        slug: strait-of-gibraltar-spain-morocco
+    date: null
+    date_end: null
+    location_in_record: 01:50:15.9-01:50:28.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 4f0b68ca-7ed0-4288-8b3d-3491a89869c4
+    claim_hash: 9dde5d2fface0c880cc4e710b62874134882e755a28c094f59938f8baee95352
+    content: Chris Ramsay considers that leading readers on a treasure hunt towards a lost civilisation does not fit what
+      Plato and the Greek philosophers did, as they were imparting knowledge such as mathematics, science and astronomy.
+    original_excerpt: they wouldn't send you on a treasure hunt you know it seems like something hollywood would do ... but
+      in terms of philosophers those guys were imparting knowledge like math and science and astronomy
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+    date: null
+    date_end: null
+    location_in_record: 01:51:08.7-01:51:21.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: ad26b4b3-3524-4d69-add9-56e81fe209c9
+    claim_hash: fb75de5a2fb9bc2df63c841e9f3ee105b888131de2304f8352ee816f3f5561c3
+    content: Jason Quitt draws a parallel between the Atlantis story and Plato's The Republic, in which the search for the
+      ideal society ends with the society falling apart whatever is chosen.
+    original_excerpt: it's the same thing with the Republic where they're trying to find the ideal society. And it's, it's
+      almost like it doesn't matter what they choose. It falls apart.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 0de3e43d-fc55-4f91-abea-da57ec1605d2
+        title: The Republic (dialogue by Plato)
+        slug: the-republic-dialogue-by-plato
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+    date: null
+    date_end: null
+    location_in_record: 01:51:30.0-01:51:39.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 1a4eea11-eab8-4418-96c7-fa41e9493f7b
+    claim_hash: 6b01b872e8fb8dcab285054d187d89a80e71ff5f8c01a8eb7cb92f6e119d86f0
+    content: Jason Quitt holds the personal opinion that the hubris and arrogance theme in Plato's Atlantis story concerns
+      the ideal state of consciousness rather than the ideal state of society.
+    original_excerpt: in my personal opinion this hubris and arrogance is not about the ideal state it's the ideal state of
+      consciousness
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+    date: null
+    date_end: null
+    location_in_record: 01:52:16.8-01:52:23.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: a638ac83-cc22-41e4-9cf3-ca638477b6b4
+    claim_hash: 2e4da0177c7b3e294509c8ab56a39e78f8b6de1a93e3d077846fbeafa3085600
+    content: Proclus, a Neoplatonist of the 5th century AD, wrote a book of roughly 200 to 300 pages or more arguing that
+      the story of Atlantis is a celestial allegory of the cycles, the demiurge and the creation.
+    original_excerpt: Yes, Proclus, which is 5th century AD, he is a Neoplatonist and he looked at the Atlantis story and
+      he wrote a huge book, I think it's about 200-300 pages if not more, saying that the story of Atlantis is actually a
+      celestial allegory of the cycles and the demiurge and the creation.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 18308856-524f-4b5a-8057-aedf8260125c
+        title: Neoplatonism
+        slug: neoplatonism
+      - node_id: 2df033d6-9350-4bb0-addf-4b7dc94ca959
+        title: Proclus's commentary on the Atlantis story
+        slug: procluss-commentary-on-the-atlantis-story
+      - node_id: 88d33fdf-3494-410f-9137-935db5c9c45c
+        title: demiurge
+        slug: demiurge
+      - node_id: c40e0763-32f3-4358-b5d0-bee352a7f4c8
+        title: Proclus
+        slug: proclus
+    date: null
+    date_end: null
+    location_in_record: 01:53:14.4-01:53:39.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: e27407da-3220-48db-858d-378c69c468eb
+    claim_hash: 157a8f30a981f1809990e69887e93ae2d8ced7d34bac93107993711b257ea3a4
+    content: Jason Quitt considers that understanding the hidden meaning of Plato's Atlantis story requires initiation into
+      orders such as the initiations in Egypt, which hold the keys to unlocking it.
+    original_excerpt: This is where we get into the initiations in Egypt ... you'd have to be initiated into these other orders
+      in order to have the keys to unlock them and understand it.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+        title: Plato
+        slug: plato
+      - node_id: 65b0455e-7d9d-419b-93bc-46a1fa6a5c4d
+        title: secret societies
+        slug: secret-societies
+      - node_id: 6987da55-6570-45e6-ac96-ce73a15eabb8
+        title: Egypt
+        slug: egypt
+    date: null
+    date_end: null
+    location_in_record: lines 18-21
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null

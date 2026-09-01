@@ -1,773 +1,840 @@
 schema: anomalica/brief/1
-brief_hash: 5fecf1a1223ab2ef9366973428363f2182e15a68d0915dc1b1e6a643f67af7c0
+brief_hash: 6878cbed903f2ffb1471f4557245226c32416a941efa09476cd05af3b5920c8b
 page:
   kind: entity
   node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
   node_type: person
   title: Colm Kelleher
   slug: colm-kelleher
-  claim_count: 17
-  claim_count_total: 17
+  claim_count: 18
+  claim_count_total: 18
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 18
+  tokens_estimated: 5705
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 18
 related_nodes:
-- node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
-  title: 2000-09 Gary Lowrey alien claw discovery
-  node_type: event
-  slug: 2000-09-gary-lowrey-alien-claw-discovery
-  shared_claims: 5
-- node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
-  title: National Institute for Discovery Science
-  node_type: organisation
-  slug: national-institute-for-discovery-science
-  shared_claims: 4
-- node_id: a0931369-67de-42b5-a58c-e687698c9999
-  title: Skinwalker Ranch
-  node_type: place
-  slug: skinwalker-ranch
-  shared_claims: 4
-- node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
-  title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
-  node_type: project
-  slug: advanced-aerospace-weapon-system-applications-program-aawsap
-  shared_claims: 2
-- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-  title: Eric Davis
-  node_type: person
-  slug: eric-davis
-  shared_claims: 2
-- node_id: 0d5dfa23-7c7f-4cad-a5b9-0fb834300b04
-  title: Jicarilla Apache Tribe
-  node_type: organisation
-  slug: jicarilla-apache-tribe
-  shared_claims: 2
-- node_id: 0739737b-9ed2-4f6a-8bc7-0ad160b863b8
-  title: 1997-09 National Institute for Discovery Science (NIDS) Dulce investigation
-  node_type: event
-  slug: 1997-09-national-institute-for-discovery-science-nids-dulce-investigation
-  shared_claims: 1
-- node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
-  title: Bigelow Aerospace Advanced Space Studies, LLC
-  node_type: organisation
-  slug: llc-bigelow-aerospace-advanced-space-studies
-  shared_claims: 1
-- node_id: 4a1e8aa8-8162-4ed9-9451-506b8d4376c0
-  title: Gabe Valdez
-  node_type: person
-  slug: gabe-valdez
-  shared_claims: 1
-- node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
-  title: Garry Nolan
-  node_type: person
-  slug: garry-nolan
-  shared_claims: 1
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 1
-- node_id: 880a06d2-0059-4fda-9842-9acd6898f60a
-  title: Mount Archuleta
-  node_type: place
-  slug: mount-archuleta
-  shared_claims: 1
-- node_id: 585701fd-5bc1-4e61-b3f7-3af9f547f0f0
-  title: New Mexico State Police
-  node_type: organisation
-  slug: new-mexico-state-police
-  shared_claims: 1
-- node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
-  title: Roger Leir
-  node_type: person
-  slug: roger-leir
-  shared_claims: 1
-- node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
-  title: Terry Sherman
-  node_type: person
-  slug: terry-sherman
-  shared_claims: 1
-- node_id: 32016caa-0114-45af-aec0-5b397fd0dc5c
-  title: USA, Colorado, University of Colorado
-  node_type: organisation
-  slug: colorado-university-of-colorado-usa
-  shared_claims: 1
-- node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
-  title: USA, Nevada, Las Vegas
-  node_type: place
-  slug: nevada-las-vegas-usa
-  shared_claims: 1
-- node_id: 35f45839-edcf-4b99-8ba7-b9ec5b94bced
-  title: USA, New Mexico, Dulce
-  node_type: place
-  slug: new-mexico-dulce-usa
-  shared_claims: 1
-- node_id: bfdc8095-3798-4086-bafa-9b4709c3c2b0
-  title: William Livingston
-  node_type: person
-  slug: william-livingston
-  shared_claims: 1
-- node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-  title: polymerase chain reaction
-  node_type: topic
-  slug: polymerase-chain-reaction
-  shared_claims: 1
-claims:
-- claim_id: d92785b3-4884-4a8d-ad45-f057737bd0b1
-  claim_hash: 8ad344a2f644cad06a6841ceaf40eedab73b7f49c7ec2a8197cff9726c7c2c9c
-  content: The Advanced Aerospace Weapon System Applications Program database included
-    reports from civilian organisations and foreign governments, as well as new investigations
-    conducted by boots-on-the-ground teams dispatched by the programme's manager in
-    Las Vegas, Dr. Colm Kelleher.
-  original_excerpt: The data base included reports from civilian organizations and
-    foreign governments, as well as new investigations conducted by boots-on-the ground
-    teams dispatched by AAWSAP's manager in Las Vegas, Dr. Colm Kelleher.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
-    title: George Knapp
-  provenance_chain:
-    origin_kind: speaker
-    origin: George Knapp
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
-    title: USA, Nevada, Las Vegas
-    slug: nevada-las-vegas-usa
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
+  - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
+    title: 2000-09 Gary Lowrey alien claw discovery
+    node_type: event
+    slug: 2000-09-gary-lowrey-alien-claw-discovery
+    shared_claims: 5
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    node_type: organisation
+    slug: national-institute-for-discovery-science
+    shared_claims: 4
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    node_type: place
+    slug: skinwalker-ranch
+    shared_claims: 4
   - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
     title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    node_type: project
     slug: advanced-aerospace-weapon-system-applications-program-aawsap
-  date: null
-  date_end: null
-  location_in_record: char:10667-10874
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
-    record_title: Statement to Congress
-    record_date: null
-    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
-    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
-    friendly_name: undated-pdf-statement-to-congress
-- claim_id: 4c82a40a-21fe-4da0-a03a-cdd069946904
-  claim_hash: e78a4789a234a3d11bb87046f7ff99ee62bd7c9ac17d02496008bcd06aa0a12e
-  content: Colm Kelleher agreed to look into the Gary Lowrey alien claw case.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bill Chalker
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
-    title: 2000-09 Gary Lowrey alien claw discovery
-    slug: 2000-09-gary-lowrey-alien-claw-discovery
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
-  date: null
-  date_end: null
-  location_in_record: 37-37
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: b4b76c9a-1aae-4920-a875-1fbfa3aac4c1
-  claim_hash: 98d287ade82ad28ed95d26667f0754fad59de1cc441102a4cbfb90066049b419
-  content: Colm Kelleher is a biochemist and administrator of the National Institute
-    for Discovery Science.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bill Chalker
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
-  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
-    title: National Institute for Discovery Science
-    slug: national-institute-for-discovery-science
-  date: null
-  date_end: null
-  location_in_record: ch18:26254-26377
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 7ccd8905-be5e-4908-9ae1-03f57edb7d1d
-  claim_hash: ad4e994318d1a127f62c75735444e811915e43c7fe26131f1487fc9887d809e8
-  content: Colm Kelleher, after consultation with Roger Leir, who had already made
-    extensive enquiries into the Gary Lowrey case, felt the claw sample could be a
-    good candidate for DNA study.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Colm Kelleher
-    relay:
-    - Bill Chalker
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
-    title: 2000-09 Gary Lowrey alien claw discovery
-    slug: 2000-09-gary-lowrey-alien-claw-discovery
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
-  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
-    title: Roger Leir
-    slug: roger-leir
-  date: null
-  date_end: null
-  location_in_record: ch18:26436-26599
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: ae676b4b-cfe5-4944-a2ce-e0a233f38d33
-  claim_hash: ffc11e503a74269a131928f2b46d0778d8c44bd0f00dde33df1efa131e385376
-  content: Colm Kelleher wrote that the investigation of the Gary Lowrey claw case
-    went far beyond the analyses usually afforded anomaly cases, and evolved into
-    a major molecular biology research project in its own right.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Colm Kelleher
-    relay:
-    - 'A Cautionary Tale: DNA Analysis of Alleged Extraterrestrial Biological Material—Anatomy
-      of a Molecular Forensic Investigation'
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
-    title: 2000-09 Gary Lowrey alien claw discovery
-    slug: 2000-09-gary-lowrey-alien-claw-discovery
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
-  date: null
-  date_end: null
-  location_in_record: ch18:27085-27295
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 57e6fcce-56d5-4265-9311-4e1034827ae8
-  claim_hash: 414b374b36f236e63703dae5c755550407919f7cfc306c32827825ce94d7d3d9
-  content: Six separate rounds of subsequent DNA analysis, using different and sometimes
-    very novel approaches, were carried out in the Gary Lowrey claw case, including
-    a new polymerase chain reaction (PCR) using novel primers to the most conserved
-    DNA sequences on Earth, to finally resolve the case.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Colm Kelleher
-    relay:
-    - 'A Cautionary Tale: DNA Analysis of Alleged Extraterrestrial Biological Material—Anatomy
-      of a Molecular Forensic Investigation'
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
-    title: 2000-09 Gary Lowrey alien claw discovery
-    slug: 2000-09-gary-lowrey-alien-claw-discovery
-  - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-    title: polymerase chain reaction
-    slug: polymerase-chain-reaction
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
-  date: null
-  date_end: null
-  location_in_record: ch18:27313-27624
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 78c81f8d-7651-44c2-95c7-b45c94dd0c94
-  claim_hash: e3159f28c8a4358fdc79005ecac827e3d6a1627d4950a68c5ca6590f6b53750c
-  content: Colm Kelleher wrote that painstaking DNA analyses and bioinformatics methodology
-    over a 12-month period by highly qualified teams of experts in three countries
-    established that the biological specimen found in the Gary Lowrey house was a
-    mundane terrestrial mollusc.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Colm Kelleher
-    relay:
-    - 'A Cautionary Tale: DNA Analysis of Alleged Extraterrestrial Biological Material—Anatomy
-      of a Molecular Forensic Investigation'
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
-    title: 2000-09 Gary Lowrey alien claw discovery
-    slug: 2000-09-gary-lowrey-alien-claw-discovery
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
-  date: null
-  date_end: null
-  location_in_record: ch18:27875-28122
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 9d1286ec-0f59-4d43-9d28-cf54e592506f
-  claim_hash: 195a377e0e424bbc01876dfe25a5afe2e4d9bab2891c2c147692f4d447919386
-  content: Eric Davis alerted Colm Kelleher and ranch manager Terry Sherman, and all
-    three saw a huge creature suddenly jump down in front of them, far larger than
-    any wildcat, the size of a bear or a cow.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-  provenance_chain:
-    origin_kind: speaker
-    origin: Eric Davis
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-    slug: eric-davis
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
-  - node_id: a0931369-67de-42b5-a58c-e687698c9999
-    title: Skinwalker Ranch
-    slug: skinwalker-ranch
-  - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
-    title: Terry Sherman
-    slug: terry-sherman
-  date: null
-  date_end: null
-  location_in_record: ch15:10800-11012
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 09e2e5e9-383f-4f98-b691-72f38a58d328
-  claim_hash: c6f0337e7e0fe5f12201b4ac8751efe15940f4e9fdd17ad30f3f7442ff707669
-  content: Colm Kelleher came from a cancer research centre at the University of Colorado.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 32016caa-0114-45af-aec0-5b397fd0dc5c
-    title: USA, Colorado, University of Colorado
-    slug: colorado-university-of-colorado-usa
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
-  date: null
-  date_end: null
-  location_in_record: ch15:12256-12329
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: b7201cf5-f4cd-4f90-9b63-15aa525653d4
-  claim_hash: f30f0fa983ff9a295d44bacb92ef6a41a2d2fa1c503c5314743505e3e3588b2e
-  content: Colm Kelleher described a lot of anomalous phenomena at Skinwalker Ranch,
-    none of which was captured on numerous cameras set up around the ranch.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-  provenance_chain:
-    origin_kind: named
-    origin: Colm Kelleher
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
-  - node_id: a0931369-67de-42b5-a58c-e687698c9999
-    title: Skinwalker Ranch
-    slug: skinwalker-ranch
-  date: null
-  date_end: null
-  location_in_record: ch15:13845-13962
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: e752aecd-226d-4a20-8f6a-9ccf70605b2c
-  claim_hash: 279e87ad5212cb12520aa7bbef670eb1f194f841798083a06ee2122185cc6975
-  content: Gabe Valdez, a New Mexico State Police officer with strong links to the
-    Jicarilla Apache tribe in Dulce, worked with Colm Kelleher during the 1997 National
-    Institute for Discovery Science investigation in New Mexico.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0d5dfa23-7c7f-4cad-a5b9-0fb834300b04
-    title: Jicarilla Apache Tribe
-    slug: jicarilla-apache-tribe
-  - node_id: 35f45839-edcf-4b99-8ba7-b9ec5b94bced
-    title: USA, New Mexico, Dulce
-    slug: new-mexico-dulce-usa
-  - node_id: 4a1e8aa8-8162-4ed9-9451-506b8d4376c0
-    title: Gabe Valdez
-    slug: gabe-valdez
-  - node_id: 585701fd-5bc1-4e61-b3f7-3af9f547f0f0
-    title: New Mexico State Police
-    slug: new-mexico-state-police
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
-  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
-    title: National Institute for Discovery Science
-    slug: national-institute-for-discovery-science
-  date: '1997'
-  date_end: null
-  location_in_record: ch15:22971-23177
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: c4df3a48-44de-4ba7-b580-3e34d6295ab5
-  claim_hash: d223e72e18f3cd05952ba6908231b279992bf783940b6fa646a4710153296449
-  content: Colm Kelleher's National Institute for Discovery Science report contains
-    interviews with multiple members of the Jicarilla Apache community who claimed
-    in September 1997 to have witnessed hovering UAP and to have found a mysterious
-    ventilation shaft dug into Mount Archuleta.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: members of the Jicarilla Apache community
-    relay:
-    - Colm Kelleher
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0739737b-9ed2-4f6a-8bc7-0ad160b863b8
-    title: 1997-09 National Institute for Discovery Science (NIDS) Dulce investigation
-    slug: 1997-09-national-institute-for-discovery-science-nids-dulce-investigation
-  - node_id: 0d5dfa23-7c7f-4cad-a5b9-0fb834300b04
-    title: Jicarilla Apache Tribe
-    slug: jicarilla-apache-tribe
-  - node_id: 880a06d2-0059-4fda-9842-9acd6898f60a
-    title: Mount Archuleta
-    slug: mount-archuleta
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
-  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
-    title: National Institute for Discovery Science
-    slug: national-institute-for-discovery-science
-  date: 1997-09
-  date_end: null
-  location_in_record: ch15:25668-25944
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 006ce987-fc23-4530-b9f5-89232b1c8552
-  claim_hash: 47191455af4e9a8d545421c510e814ad7b20bdba872abf9ae4955c4c22edf10e
-  content: In November 1996, Eric Davis was sitting with fellow scientist Colm Kelleher
-    on the ranch-house's back porch at Skinwalker Ranch when a similarly lit craft
-    hurtled out from above a nearby bluff and executed a sharp high-speed 90-degree
-    turn right above them.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-  provenance_chain:
-    origin_kind: speaker
-    origin: Eric Davis
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-    title: Eric Davis
-    slug: eric-davis
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
-  - node_id: a0931369-67de-42b5-a58c-e687698c9999
-    title: Skinwalker Ranch
-    slug: skinwalker-ranch
-  date: 1996-11
-  date_end: null
-  location_in_record: ch15:9786-10022
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: f01f42bb-9eae-495f-9105-b1ee26a861a9
-  claim_hash: a23488d6fd35e4717dbbabd9912d7cc606459a17cefb510d0f7103c33fa49364
-  content: Colm Kelleher replied that there was information over the previous several
-    years indicating that pieces of technology had certainly been recovered.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-  provenance_chain:
-    origin_kind: speaker
-    origin: Colm Kelleher
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
-  date: '2004'
-  date_end: null
-  location_in_record: ch17:16954-17099
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: c6ce0df3-ae6e-4bc3-9d2b-7ca5cdf088b5
-  claim_hash: 80e71a2f448a8bacdd7a48924318d3c29fd2bbdde15137da3522ded9094081e4
-  content: Colm Kelleher wrote reports to the National Institute for Discovery Science
-    about strange occurrences at Skinwalker Ranch and other parts of Utah and New
-    Mexico.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
-  - node_id: a0931369-67de-42b5-a58c-e687698c9999
-    title: Skinwalker Ranch
-    slug: skinwalker-ranch
-  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
-    title: National Institute for Discovery Science
-    slug: national-institute-for-discovery-science
-  date: null
-  date_end: null
-  location_in_record: ch25:15149-15294
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: f775c4c3-96c1-4807-ab6a-bf19bb351011
-  claim_hash: 3445677b95383bdf2718ca0220fac711ce952933e169f13d74fc4ba50b7c7f97
-  content: William "Will" Livingston flew to California with a team that included
-    Colm Kelleher and Jacques Vallée to meet Garry P. Nolan.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
-    title: Garry Nolan
-    slug: garry-nolan
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
-  - node_id: bfdc8095-3798-4086-bafa-9b4709c3c2b0
-    title: William Livingston
-    slug: william-livingston
-  date: null
-  date_end: null
-  location_in_record: ch18:14594-14842
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 6bea6b1c-3eda-474e-b1b0-967c675b92a6
-  claim_hash: 2a10c30c3fa819191f23c60304780eac6cff3111a025bc2fb63f1783756e21d4
-  content: Colm Kelleher is a biochemist who was the deputy administrator for Bigelow
-    Aerospace Advanced Space Studies (BAASS) during the Advanced Aerospace Weapons
-    System Application Program (AAWSAP).
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
-    title: Colm Kelleher
-    slug: colm-kelleher
-  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
-    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
-    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    shared_claims: 3
   - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
     title: Bigelow Aerospace Advanced Space Studies, LLC
+    node_type: organisation
     slug: llc-bigelow-aerospace-advanced-space-studies
-  date: null
-  date_end: null
-  location_in_record: ch18:14650-14728
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
+    shared_claims: 2
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    node_type: person
+    slug: eric-davis
+    shared_claims: 2
+  - node_id: 0d5dfa23-7c7f-4cad-a5b9-0fb834300b04
+    title: Jicarilla Apache Tribe
+    node_type: organisation
+    slug: jicarilla-apache-tribe
+    shared_claims: 2
+  - node_id: 0739737b-9ed2-4f6a-8bc7-0ad160b863b8
+    title: 1997-09 National Institute for Discovery Science (NIDS) Dulce investigation
+    node_type: event
+    slug: 1997-09-national-institute-for-discovery-science-nids-dulce-investigation
+    shared_claims: 1
+  - node_id: 4a1e8aa8-8162-4ed9-9451-506b8d4376c0
+    title: Gabe Valdez
+    node_type: person
+    slug: gabe-valdez
+    shared_claims: 1
+  - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+    title: Garry Nolan
+    node_type: person
+    slug: garry-nolan
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+    title: James Lacatski
+    node_type: person
+    slug: james-lacatski
+    shared_claims: 1
+  - node_id: 880a06d2-0059-4fda-9842-9acd6898f60a
+    title: Mount Archuleta
+    node_type: place
+    slug: mount-archuleta
+    shared_claims: 1
+  - node_id: 585701fd-5bc1-4e61-b3f7-3af9f547f0f0
+    title: New Mexico State Police
+    node_type: organisation
+    slug: new-mexico-state-police
+    shared_claims: 1
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    node_type: person
+    slug: roger-leir
+    shared_claims: 1
+  - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+    title: Terry Sherman
+    node_type: person
+    slug: terry-sherman
+    shared_claims: 1
+  - node_id: 32016caa-0114-45af-aec0-5b397fd0dc5c
+    title: USA, Colorado, University of Colorado
+    node_type: organisation
+    slug: colorado-university-of-colorado-usa
+    shared_claims: 1
+  - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+    title: USA, Nevada, Las Vegas
+    node_type: place
+    slug: nevada-las-vegas-usa
+    shared_claims: 1
+  - node_id: 35f45839-edcf-4b99-8ba7-b9ec5b94bced
+    title: USA, New Mexico, Dulce
+    node_type: place
+    slug: new-mexico-dulce-usa
+    shared_claims: 1
+  - node_id: bfdc8095-3798-4086-bafa-9b4709c3c2b0
+    title: William Livingston
+    node_type: person
+    slug: william-livingston
+    shared_claims: 1
+  - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+    title: polymerase chain reaction
+    node_type: topic
+    slug: polymerase-chain-reaction
+    shared_claims: 1
+claims:
+  - claim_id: d92785b3-4884-4a8d-ad45-f057737bd0b1
+    claim_hash: 8ad344a2f644cad06a6841ceaf40eedab73b7f49c7ec2a8197cff9726c7c2c9c
+    content: The Advanced Aerospace Weapon System Applications Program database included reports from civilian organisations
+      and foreign governments, as well as new investigations conducted by boots-on-the-ground teams dispatched by the programme's
+      manager in Las Vegas, Dr. Colm Kelleher.
+    original_excerpt: The data base included reports from civilian organizations and foreign governments, as well as new investigations
+      conducted by boots-on-the ground teams dispatched by AAWSAP's manager in Las Vegas, Dr. Colm Kelleher.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+        title: USA, Nevada, Las Vegas
+        slug: nevada-las-vegas-usa
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: char:10667-10874
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+      record_title: Statement to Congress
+      record_date: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+      content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+      friendly_name: undated-pdf-statement-to-congress
+  - claim_id: 4c82a40a-21fe-4da0-a03a-cdd069946904
+    claim_hash: e78a4789a234a3d11bb87046f7ff99ee62bd7c9ac17d02496008bcd06aa0a12e
+    content: Colm Kelleher agreed to look into the Gary Lowrey alien claw case.
+    original_excerpt: Dr. Colm Kelleher... agreed to look into the case.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
+        title: 2000-09 Gary Lowrey alien claw discovery
+        slug: 2000-09-gary-lowrey-alien-claw-discovery
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+    date: null
+    date_end: null
+    location_in_record: 37-37
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: b4b76c9a-1aae-4920-a875-1fbfa3aac4c1
+    claim_hash: 98d287ade82ad28ed95d26667f0754fad59de1cc441102a4cbfb90066049b419
+    content: Colm Kelleher is a biochemist and administrator of the National Institute for Discovery Science.
+    original_excerpt: Dr. Colm Kelleher, a biochemist and administrator of the National Institute for Discovery Science, agreed
+      to look into the case.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+      - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+        title: National Institute for Discovery Science
+        slug: national-institute-for-discovery-science
+    date: null
+    date_end: null
+    location_in_record: ch18:26254-26377
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 7ccd8905-be5e-4908-9ae1-03f57edb7d1d
+    claim_hash: ad4e994318d1a127f62c75735444e811915e43c7fe26131f1487fc9887d809e8
+    content: Colm Kelleher, after consultation with Roger Leir, who had already made extensive enquiries into the Gary Lowrey
+      case, felt the claw sample could be a good candidate for DNA study.
+    original_excerpt: Kelleher, after consultation with Dr. Roger Leir, who had already made extensive enquiries into the
+      case, felt the “claw” sample could be a good candidate for DNA study.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Colm Kelleher
+      relay:
+        - Bill Chalker
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
+        title: 2000-09 Gary Lowrey alien claw discovery
+        slug: 2000-09-gary-lowrey-alien-claw-discovery
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+      - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+        title: Roger Leir
+        slug: roger-leir
+    date: null
+    date_end: null
+    location_in_record: ch18:26436-26599
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: ae676b4b-cfe5-4944-a2ce-e0a233f38d33
+    claim_hash: ffc11e503a74269a131928f2b46d0778d8c44bd0f00dde33df1efa131e385376
+    content: Colm Kelleher wrote that the investigation of the Gary Lowrey claw case went far beyond the analyses usually
+      afforded anomaly cases, and evolved into a major molecular biology research project in its own right.
+    original_excerpt: “The investigation of this case went far beyond the ‘busi-ness-as-usual’ analyses usually afforded anomaly
+      cases,” wrote Kelleher. “The project evolved into a major molecular biology research project in its own right.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Colm Kelleher
+      relay:
+        - 'A Cautionary Tale: DNA Analysis of Alleged Extraterrestrial Biological Material—Anatomy of a Molecular Forensic
+          Investigation'
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
+        title: 2000-09 Gary Lowrey alien claw discovery
+        slug: 2000-09-gary-lowrey-alien-claw-discovery
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+    date: null
+    date_end: null
+    location_in_record: ch18:27085-27295
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 57e6fcce-56d5-4265-9311-4e1034827ae8
+    claim_hash: 414b374b36f236e63703dae5c755550407919f7cfc306c32827825ce94d7d3d9
+    content: Six separate rounds of subsequent DNA analysis, using different and sometimes very novel approaches, were carried
+      out in the Gary Lowrey claw case, including a new polymerase chain reaction (PCR) using novel primers to the most conserved
+      DNA sequences on Earth, to finally resolve the case.
+    original_excerpt: six separate rounds of subsequent DNA analysis, using different and sometimes very novel approaches,
+      were carried out to bring this case to a conclusion. It was necessary to invent a new polymerase chain reaction using
+      novel primers to the most conserved DNA sequences on Earth in order to finally resolve this case.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Colm Kelleher
+      relay:
+        - 'A Cautionary Tale: DNA Analysis of Alleged Extraterrestrial Biological Material—Anatomy of a Molecular Forensic
+          Investigation'
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
+        title: 2000-09 Gary Lowrey alien claw discovery
+        slug: 2000-09-gary-lowrey-alien-claw-discovery
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+    date: null
+    date_end: null
+    location_in_record: ch18:27313-27624
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 78c81f8d-7651-44c2-95c7-b45c94dd0c94
+    claim_hash: e3159f28c8a4358fdc79005ecac827e3d6a1627d4950a68c5ca6590f6b53750c
+    content: Colm Kelleher wrote that painstaking DNA analyses and bioinformatics methodology over a 12-month period by highly
+      qualified teams of experts in three countries established that the biological specimen found in the Gary Lowrey house
+      was a mundane terrestrial mollusc.
+    original_excerpt: painstaking DNA analyses and the use of bioinformatics methodology over a 12 month period by highly
+      qualified teams of experts in three countries was necessary to establish that the biological specimen found in the house
+      was a mundane terrestrial mollusk.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Colm Kelleher
+      relay:
+        - 'A Cautionary Tale: DNA Analysis of Alleged Extraterrestrial Biological Material—Anatomy of a Molecular Forensic
+          Investigation'
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
+        title: 2000-09 Gary Lowrey alien claw discovery
+        slug: 2000-09-gary-lowrey-alien-claw-discovery
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+    date: null
+    date_end: null
+    location_in_record: ch18:27875-28122
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 9d1286ec-0f59-4d43-9d28-cf54e592506f
+    claim_hash: 195a377e0e424bbc01876dfe25a5afe2e4d9bab2891c2c147692f4d447919386
+    content: Eric Davis alerted Colm Kelleher and ranch manager Terry Sherman, and all three saw a huge creature suddenly
+      jump down in front of them, far larger than any wildcat, the size of a bear or a cow.
+    original_excerpt: Davis alerted Colm Kelleher and Terry, the ranch manager, who were with him, and they all saw a huge
+      creature suddenly jump down just in front of them; it was far larger than any wildcat, the size of a bear or a cow.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+      title: Eric Davis
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Davis
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+        title: Terry Sherman
+        slug: terry-sherman
+    date: null
+    date_end: null
+    location_in_record: ch15:10800-11012
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 09e2e5e9-383f-4f98-b691-72f38a58d328
+    claim_hash: c6f0337e7e0fe5f12201b4ac8751efe15940f4e9fdd17ad30f3f7442ff707669
+    content: Colm Kelleher came from a cancer research centre at the University of Colorado.
+    original_excerpt: Dr Colm Kelleher came from a cancer research centre at the University of Colorado.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32016caa-0114-45af-aec0-5b397fd0dc5c
+        title: USA, Colorado, University of Colorado
+        slug: colorado-university-of-colorado-usa
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+    date: null
+    date_end: null
+    location_in_record: ch15:12256-12329
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b7201cf5-f4cd-4f90-9b63-15aa525653d4
+    claim_hash: f30f0fa983ff9a295d44bacb92ef6a41a2d2fa1c503c5314743505e3e3588b2e
+    content: Colm Kelleher described a lot of anomalous phenomena at Skinwalker Ranch, none of which was captured on numerous
+      cameras set up around the ranch.
+    original_excerpt: Kelleher described a lot of 'anomalous phenomena', but none of it was captured on numerous cameras set
+      up around the ranch.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+      title: Colm Kelleher
+    provenance_chain:
+      origin_kind: named
+      origin: Colm Kelleher
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+    date: null
+    date_end: null
+    location_in_record: ch15:13845-13962
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e752aecd-226d-4a20-8f6a-9ccf70605b2c
+    claim_hash: 279e87ad5212cb12520aa7bbef670eb1f194f841798083a06ee2122185cc6975
+    content: Gabe Valdez, a New Mexico State Police officer with strong links to the Jicarilla Apache tribe in Dulce, worked
+      with Colm Kelleher during the 1997 National Institute for Discovery Science investigation in New Mexico.
+    original_excerpt: One of the NIDS investigators working with Colm Kelleher during this 1997 New Mexico NIDS investigation
+      was Gabe Valdez, a New Mexico State policeman who had strong links with the Jicarilla Apache tribe in Dulce.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d5dfa23-7c7f-4cad-a5b9-0fb834300b04
+        title: Jicarilla Apache Tribe
+        slug: jicarilla-apache-tribe
+      - node_id: 35f45839-edcf-4b99-8ba7-b9ec5b94bced
+        title: USA, New Mexico, Dulce
+        slug: new-mexico-dulce-usa
+      - node_id: 4a1e8aa8-8162-4ed9-9451-506b8d4376c0
+        title: Gabe Valdez
+        slug: gabe-valdez
+      - node_id: 585701fd-5bc1-4e61-b3f7-3af9f547f0f0
+        title: New Mexico State Police
+        slug: new-mexico-state-police
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+      - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+        title: National Institute for Discovery Science
+        slug: national-institute-for-discovery-science
+    date: '1997'
+    date_end: null
+    location_in_record: ch15:22971-23177
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c4df3a48-44de-4ba7-b580-3e34d6295ab5
+    claim_hash: d223e72e18f3cd05952ba6908231b279992bf783940b6fa646a4710153296449
+    content: Colm Kelleher's National Institute for Discovery Science report contains interviews with multiple members of
+      the Jicarilla Apache community who claimed in September 1997 to have witnessed hovering UAP and to have found a mysterious
+      ventilation shaft dug into Mount Archuleta.
+    original_excerpt: Kelleher’s NIDS report contains interviews with multiple members of the Jicarilla Apache community who
+      claimed in September 1997 to have witnessed not only hovering UAPs but even to have stumbled across a mysterious ventilation
+      shaft dug into Mount Archuleta.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: members of the Jicarilla Apache community
+      relay:
+        - Colm Kelleher
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0739737b-9ed2-4f6a-8bc7-0ad160b863b8
+        title: 1997-09 National Institute for Discovery Science (NIDS) Dulce investigation
+        slug: 1997-09-national-institute-for-discovery-science-nids-dulce-investigation
+      - node_id: 0d5dfa23-7c7f-4cad-a5b9-0fb834300b04
+        title: Jicarilla Apache Tribe
+        slug: jicarilla-apache-tribe
+      - node_id: 880a06d2-0059-4fda-9842-9acd6898f60a
+        title: Mount Archuleta
+        slug: mount-archuleta
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+      - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+        title: National Institute for Discovery Science
+        slug: national-institute-for-discovery-science
+    date: 1997-09
+    date_end: null
+    location_in_record: ch15:25668-25944
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 006ce987-fc23-4530-b9f5-89232b1c8552
+    claim_hash: 47191455af4e9a8d545421c510e814ad7b20bdba872abf9ae4955c4c22edf10e
+    content: In November 1996, Eric Davis was sitting with fellow scientist Colm Kelleher on the ranch-house's back porch
+      at Skinwalker Ranch when a similarly lit craft hurtled out from above a nearby bluff and executed a sharp high-speed
+      90-degree turn right above them.
+    original_excerpt: Later that year, in November, he was sitting with fellow scientist Colm Kelleher on the ranch-house's
+      back porch and a similarly lit craft hurtled out from above a nearby bluff and executed a sharp high-speed 90-degree
+      turn right above them.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+      title: Eric Davis
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Davis
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+    date: 1996-11
+    date_end: null
+    location_in_record: ch15:9786-10022
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f01f42bb-9eae-495f-9105-b1ee26a861a9
+    claim_hash: a23488d6fd35e4717dbbabd9912d7cc606459a17cefb510d0f7103c33fa49364
+    content: Colm Kelleher replied that there was information over the previous several years indicating that pieces of technology
+      had certainly been recovered.
+    original_excerpt: Dr Kelleher replied, 'We have had information over the last several years that seems to indicate that,
+      certainly, pieces of technology have been recovered.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+      title: Colm Kelleher
+    provenance_chain:
+      origin_kind: speaker
+      origin: Colm Kelleher
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+    date: '2004'
+    date_end: null
+    location_in_record: ch17:16954-17099
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c6ce0df3-ae6e-4bc3-9d2b-7ca5cdf088b5
+    claim_hash: 80e71a2f448a8bacdd7a48924318d3c29fd2bbdde15137da3522ded9094081e4
+    content: Colm Kelleher wrote reports to the National Institute for Discovery Science about strange occurrences at Skinwalker
+      Ranch and other parts of Utah and New Mexico.
+    original_excerpt: There were the aforementioned reports Dr Colm Kelleher wrote to NIDS about strange goings-on at Skinwalker
+      Ranch and other parts of Utah and New Mexico.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+        title: National Institute for Discovery Science
+        slug: national-institute-for-discovery-science
+    date: null
+    date_end: null
+    location_in_record: ch25:15149-15294
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f775c4c3-96c1-4807-ab6a-bf19bb351011
+    claim_hash: 3445677b95383bdf2718ca0220fac711ce952933e169f13d74fc4ba50b7c7f97
+    content: William "Will" Livingston flew to California with a team that included Colm Kelleher and Jacques Vallée to meet
+      Garry P. Nolan.
+    original_excerpt: Will flew to California with a small team that included Colm Kelleher, a biochemist who was the deputy
+      administrator for BAASS during AAWSAP, and the French scientist Jacques Vallée, who had US government clearances related
+      to the investigation of UAP.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+      - node_id: bfdc8095-3798-4086-bafa-9b4709c3c2b0
+        title: William Livingston
+        slug: william-livingston
+    date: null
+    date_end: null
+    location_in_record: ch18:14594-14842
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 6bea6b1c-3eda-474e-b1b0-967c675b92a6
+    claim_hash: 2a10c30c3fa819191f23c60304780eac6cff3111a025bc2fb63f1783756e21d4
+    content: Colm Kelleher is a biochemist who was the deputy administrator for Bigelow Aerospace Advanced Space Studies (BAASS)
+      during the Advanced Aerospace Weapons System Application Program (AAWSAP).
+    original_excerpt: Colm Kelleher, a biochemist who was the deputy administrator for BAASS during AAWSAP
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+      - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+        title: Bigelow Aerospace Advanced Space Studies, LLC
+        slug: llc-bigelow-aerospace-advanced-space-studies
+    date: null
+    date_end: null
+    location_in_record: ch18:14650-14728
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 037febf6-f41c-4a63-bbf2-d15d96c1b8b2
+    claim_hash: 249bcd956b077aa9d8cf947c75c14228c7e4ab1e2eed394b88ffed723595e56f
+    content: The Bigelow Aerospace Advanced Space Studies (BAASS) papers contain highly sensitive material including personal
+      medical information and the identities of people who work for the government.
+    original_excerpt: there's a lot of really sensitive stuff in there. Personal medical information. There's the identities
+      of people who work for the government.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski and Colm Kelleher
+      relay:
+        - George Knapp
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+      - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+        title: Bigelow Aerospace Advanced Space Studies, LLC
+        slug: llc-bigelow-aerospace-advanced-space-studies
+    date: null
+    date_end: null
+    location_in_record: 00:41:50.9-00:41:57.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

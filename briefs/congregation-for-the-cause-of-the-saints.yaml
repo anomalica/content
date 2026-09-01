@@ -9,141 +9,154 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 927
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
 related_nodes:
-- node_id: 6a4167db-9a90-470f-aa84-74a9e515d880
-  title: Beatification of Jacinta and Francisco Marto (2000)
-  node_type: event
-  slug: beatification-of-jacinta-and-francisco-marto-2000
-  shared_claims: 1
-- node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
-  title: Francisco Marto
-  node_type: person
-  slug: francisco-marto
-  shared_claims: 1
-- node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
-  title: Jacinta Marto
-  node_type: person
-  slug: jacinta-marto
-  shared_claims: 1
-- node_id: ccaada0b-7348-4d54-bd7b-22896b137901
-  title: Maria of Agreda
-  node_type: person
-  slug: maria-of-agreda
-  shared_claims: 1
-- node_id: 74ace31b-f1bd-4fc0-8497-d7d358315892
-  title: Paolo Molinari
-  node_type: person
-  slug: paolo-molinari
-  shared_claims: 1
-claims:
-- claim_id: 1dc0109b-4774-4a6e-a5b3-d00c10305998
-  claim_hash: e78636d901ca48d98b0e2f79e816461f5a8f4596f9bf98caf532833f23c614a1
-  content: A miracle attributed to Francisco Marto and Jacinta Marto, documented by
-    the Vatican Congregation for the Cause of the Saints, put them on the road to
-    sainthood.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
-    title: Francisco Marto
-    slug: francisco-marto
-  - node_id: 5e1e45c3-3628-423d-b155-37209309df3f
-    title: Congregation for the Cause of the Saints
-    slug: congregation-for-the-cause-of-the-saints
-  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
-    title: Jacinta Marto
-    slug: jacinta-marto
-  date: null
-  date_end: null
-  location_in_record: ch24:2341-2491
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: afa3b8f2-aade-4eaf-82bb-d866b679dbf3
-  claim_hash: ee1ed78792a9b721055a3d00c44a00854a818f537d98bc93eb7f9b6302113732
-  content: On 1999-04-16, Monsignor Paolo Molinari, the postulator of the Congregation
-    for the Cause of the Saints, publicly announced the upcoming beatification of
-    Francisco Marto and Jacinta Marto without revealing when or where it would occur.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5e1e45c3-3628-423d-b155-37209309df3f
-    title: Congregation for the Cause of the Saints
-    slug: congregation-for-the-cause-of-the-saints
   - node_id: 6a4167db-9a90-470f-aa84-74a9e515d880
     title: Beatification of Jacinta and Francisco Marto (2000)
+    node_type: event
     slug: beatification-of-jacinta-and-francisco-marto-2000
-  - node_id: 74ace31b-f1bd-4fc0-8497-d7d358315892
-    title: Paolo Molinari
-    slug: paolo-molinari
-  date: '1999-04-16'
-  date_end: null
-  location_in_record: ch24:3070-3258
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: aa481527-654b-4258-ab27-c15bc24aee25
-  claim_hash: 3085b3c0f75fd8036db653e9666ca481e5d4dfbfc3325f1c0ef0063447039802
-  content: Sister Maria of Agreda was never canonised, although her cause has been
-    proposed to the Congregation for the Causes of Saints many times.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5e1e45c3-3628-423d-b155-37209309df3f
-    title: Congregation for the Cause of the Saints
-    slug: congregation-for-the-cause-of-the-saints
+    shared_claims: 1
+  - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+    title: Francisco Marto
+    node_type: person
+    slug: francisco-marto
+    shared_claims: 1
+  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+    title: Jacinta Marto
+    node_type: person
+    slug: jacinta-marto
+    shared_claims: 1
   - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
     title: Maria of Agreda
+    node_type: person
     slug: maria-of-agreda
-  date: null
-  date_end: null
-  location_in_record: ch7:5252-5402
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 74ace31b-f1bd-4fc0-8497-d7d358315892
+    title: Paolo Molinari
+    node_type: person
+    slug: paolo-molinari
+    shared_claims: 1
+claims:
+  - claim_id: 1dc0109b-4774-4a6e-a5b3-d00c10305998
+    claim_hash: e78636d901ca48d98b0e2f79e816461f5a8f4596f9bf98caf532833f23c614a1
+    content: A miracle attributed to Francisco Marto and Jacinta Marto, documented by the Vatican Congregation for the Cause
+      of the Saints, put them on the road to sainthood.
+    original_excerpt: The documentation of a miracle at Fatima by the Vatican Congregation for the Cause of the Saints had
+      finally put Francisco and Jacinta on the road to sainthood.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+        title: Francisco Marto
+        slug: francisco-marto
+      - node_id: 5e1e45c3-3628-423d-b155-37209309df3f
+        title: Congregation for the Cause of the Saints
+        slug: congregation-for-the-cause-of-the-saints
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+    date: null
+    date_end: null
+    location_in_record: ch24:2341-2491
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: afa3b8f2-aade-4eaf-82bb-d866b679dbf3
+    claim_hash: ee1ed78792a9b721055a3d00c44a00854a818f537d98bc93eb7f9b6302113732
+    content: On 1999-04-16, Monsignor Paolo Molinari, the postulator of the Congregation for the Cause of the Saints, publicly
+      announced the upcoming beatification of Francisco Marto and Jacinta Marto without revealing when or where it would occur.
+    original_excerpt: On April 16, 1999, Monsignor Paolo Molinari, the postulator of the congregation, publicly announced
+      the upcoming beatification, without revealing any details about when and where it would occur.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e1e45c3-3628-423d-b155-37209309df3f
+        title: Congregation for the Cause of the Saints
+        slug: congregation-for-the-cause-of-the-saints
+      - node_id: 6a4167db-9a90-470f-aa84-74a9e515d880
+        title: Beatification of Jacinta and Francisco Marto (2000)
+        slug: beatification-of-jacinta-and-francisco-marto-2000
+      - node_id: 74ace31b-f1bd-4fc0-8497-d7d358315892
+        title: Paolo Molinari
+        slug: paolo-molinari
+    date: '1999-04-16'
+    date_end: null
+    location_in_record: ch24:3070-3258
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: aa481527-654b-4258-ab27-c15bc24aee25
+    claim_hash: 3085b3c0f75fd8036db653e9666ca481e5d4dfbfc3325f1c0ef0063447039802
+    content: Sister Maria of Agreda was never canonised, although her cause has been proposed to the Congregation for the
+      Causes of Saints many times.
+    original_excerpt: Sister Maria of Agreda, however, was never canonized, although her cause has been proposed to the church’s
+      Congregation for the Causes of Saints many times.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e1e45c3-3628-423d-b155-37209309df3f
+        title: Congregation for the Cause of the Saints
+        slug: congregation-for-the-cause-of-the-saints
+      - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+        title: Maria of Agreda
+        slug: maria-of-agreda
+    date: null
+    date_end: null
+    location_in_record: ch7:5252-5402
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic

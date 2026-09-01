@@ -9,1604 +9,1608 @@ page:
   claim_count: 39
   claim_count_total: 39
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 39
+  tokens_estimated: 11246
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 39
 related_nodes:
-- node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-  title: To the Stars Academy of Arts and Science (TTSA)
-  node_type: organisation
-  slug: to-the-stars-academy-of-arts-and-science-ttsa
-  shared_claims: 20
-- node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-  title: Lockheed Martin Skunk Works
-  node_type: organisation
-  slug: lockheed-martin-skunk-works
-  shared_claims: 9
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 8
-- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-  title: Christopher K. Mellon
-  node_type: person
-  slug: christopher-k-mellon
-  shared_claims: 7
-- node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-  title: Tom DeLonge
-  node_type: person
-  slug: tom-delonge
-  shared_claims: 4
-- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-  title: Harold E. Puthoff
-  node_type: person
-  slug: harold-e-puthoff
-  shared_claims: 3
-- node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
-  title: 2017 To The Stars Academy of Arts & Sciences launch event
-  node_type: event
-  slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
-  shared_claims: 2
-- node_id: 389d0c85-b557-433e-8054-107e29b1de11
-  title: 2019 To The Stars Academy of Arts & Sciences (TTSA) Twitter claim about metamaterials
-    from an advanced aerospace vehicle
-  node_type: document
-  slug: 2019-to-the-stars-academy-of-arts-sciences-ttsa-twitter-claim-about-metamaterials-from-an-advanced-aerospace-vehicle
-  shared_claims: 2
-- node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
-  title: Jim Semivan
-  node_type: person
-  slug: jim-semivan
-  shared_claims: 2
-- node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
-  title: Art's Parts (alleged Roswell metal samples)
-  node_type: object
-  slug: arts-parts-alleged-roswell-metal-samples
-  shared_claims: 1
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 1
-- node_id: a5b3971d-48da-4c25-b3a4-3a3e274a2449
-  title: Securities and Exchange Commission (SEC)
-  node_type: organisation
-  slug: securities-and-exchange-commission-sec
-  shared_claims: 1
-- node_id: b9426d1b-312c-4e02-969e-ab9ad4dab259
-  title: The Pentagon
-  node_type: place
-  slug: the-pentagon
-  shared_claims: 1
-- node_id: d212d6ab-72c2-4dad-85ef-15a6b44d9bab
-  title: U-2
-  node_type: object
-  slug: u-2
-  shared_claims: 1
-- node_id: 1152039f-eae8-4605-aa3c-dd839f17bbc6
-  title: US Air Force magazine article on the U-2 (1976)
-  node_type: document
-  slug: us-air-force-magazine-article-on-the-u-2-1976
-  shared_claims: 1
-- node_id: 2658cc67-2b0a-4b7f-a324-f1fa16dc21b7
-  title: 'Unidentified: Inside America''s UFO Investigation'
-  node_type: document
-  slug: unidentified-inside-americas-ufo-investigation
-  shared_claims: 1
-- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-  title: United States Department of Defense (DoD)
-  node_type: organisation
-  slug: united-states-department-of-defense-dod
-  shared_claims: 1
-- node_id: 911da153-0f60-456f-be3d-03bc393882a2
-  title: vacuum spacetime metric engineering
-  node_type: topic
-  slug: vacuum-spacetime-metric-engineering
-  shared_claims: 1
-claims:
-- claim_id: 4498bf0a-9703-4119-8f7f-debed1d7f04f
-  claim_hash: d61e39861d7c9c9a661f95fe48efd4488c77cb2a68faaaf2506d10863cab2f6c
-  content: Steve Justice is part of the group working with Luis Elizondo on UAP disclosure
-    efforts.
-  original_excerpt: And I've talked to Lou Elizondo about this and the group that
-    they're working with, which is incredible. I mean, they've got Steve Justice who
-    used to run Skunk Works
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: 01:54:22.7-01:54:30.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: b8bc290d-52de-4e83-af2c-d4ab83a6f4a3
-  claim_hash: 824c711cc23241e9d4cbda900a81a77a9bc4bb4ff53eaba9a34053222d805fa9
-  content: Steve Justice previously ran Lockheed Skunk Works.
-  original_excerpt: I mean, they've got Steve Justice who used to run Skunk Works
-    where they built projects.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    node_type: organisation
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+    shared_claims: 20
   - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
     title: Lockheed Martin Skunk Works
+    node_type: organisation
     slug: lockheed-martin-skunk-works
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: 01:54:28.6-01:54:31.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 21d4b51c-b61c-4c75-849b-95ef1d37daa7
-  claim_hash: 3c00896f4d4335909d0a954092caf4c7442d3cb29bb70af32c590ce82bc4de4d
-  content: Steve Justice headed To The Stars Academy of Arts & Sciences' aerospace
-    division at its 2017 launch.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch21:1170-1272
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 6f60ad98-6c37-4619-ada2-cd8d385705f4
-  claim_hash: 704b8b524292e1cfc9a133c5571b00957b9b682a7af537f195ef90cb5ed4fc98
-  content: Steve Justice had, a month before the October 2017 To The Stars Academy
-    of Arts & Sciences launch, finished as director of advanced systems at Lockheed
-    Martin Skunk Works.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch21:1281-1376
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 4b297bdc-12ce-4fc8-8fbc-c135321c4275
-  claim_hash: 8cce556b76a6d59eeb781d13a3cadd3197cc311a226fab5936c46d042115bffe
-  content: Speculation mounted for months that Christopher Mellon, Luis Elizondo,
-    and Steve Justice were leaving To The Stars Academy of Arts & Sciences.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-    slug: christopher-k-mellon
+    shared_claims: 9
   - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
+    node_type: person
     slug: luis-elizondo
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch21:23469-23624
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
-  claim_hash: 291bd92e602ef19ec7c4ba3ff67153915ce1f59bbca9416df69a515d687e46fb
-  content: It took Tom DeLonge several months to formally admit to the Securities
-    and Exchange Commission that Christopher Mellon, Luis Elizondo, and Steve Justice
-    had departed To The Stars Academy of Arts & Sciences.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 8
   - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
     title: Christopher K. Mellon
+    node_type: person
     slug: christopher-k-mellon
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: a5b3971d-48da-4c25-b3a4-3a3e274a2449
-    title: Securities and Exchange Commission (SEC)
-    slug: securities-and-exchange-commission-sec
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
+    shared_claims: 7
   - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
     title: Tom DeLonge
+    node_type: person
     slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch21:23699-23837
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d8bee6c2-0d08-48f2-84be-b607c8ced809
-  claim_hash: bbb088d74da67be489d735a1e09b0f5c5904d991dbe55ef229f5024c3328dd7d
-  content: Steve Justice was Chief Operating Officer of To The Stars Academy of Arts
-    & Sciences.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch21:9242-9352
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 7db5d234-5f6b-4af9-a15c-23b724ad8a79
-  claim_hash: 87da5540c3a1ecf1bdcb88311fbafdc2332a761b29c2afdaf0ad48285499174f
-  content: Steve Justice was former head of Advanced Systems at Lockheed Martin's
-    Skunk Works.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch21:9293-9352
-  evidence:
-    score: null
-    independent_sources: 2
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d502da75-f4fe-4ee1-ac64-36f0a320ce65
-  claim_hash: 49b646b8006ba30ff9a6481f594bc7990809bbae9119b47b8f9e5443bac24ff4
-  content: Steve Justice is a former Lockheed Martin Skunk Works executive who was
-    affiliated with To The Stars Academy of Arts & Sciences.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch22:21142-21199
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: bf86b2a2-94a5-4368-a500-7a138736fc72
-  claim_hash: d3771c047a24bf4f3e7c8cdee894270c58f8023d95b6e6bf43527f8da9307eef
-  content: Steve Justice fears that an adversary has already discovered the technology
-    behind the observed UAP and that the United States is far behind.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: speaker
-    origin: Steve Justice
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch22:21217-21303
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: cb96298a-ccfc-4eb7-9664-e97a007c094d
-  claim_hash: 065352098851bb5aefc54c3bcac76855db5995e029a0e41372b5f9fb607d2e0a
-  content: Before he left TTSA in 2021, former Lockheed Martin Skunk Works engineer
-    Steve Justice led TTSA's aerospace division.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: '2021'
-  date_end: null
-  location_in_record: ch23:16038-16150
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
-  claim_hash: e08b9b69b75fb29faa90a9912a58aa8c8ac6e95a5d9bf4ecea13a37ec00db0b8
-  content: In a 2019 tweeted announcement, TTSA posted an image of the bent lump of
-    layered metal from the Art's Parts samples with a quote from then-COO Steve Justice
-    that the structure and composition of the materials are not from any known existing
-    military or commercial application.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: speaker
-    origin: Steve Justice
-    relay:
-    - a TTSA tweet
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 4
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    node_type: person
+    slug: harold-e-puthoff
+    shared_claims: 3
+  - node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
+    title: 2017 To The Stars Academy of Arts & Sciences launch event
+    node_type: event
+    slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
+    shared_claims: 2
   - node_id: 389d0c85-b557-433e-8054-107e29b1de11
-    title: 2019 To The Stars Academy of Arts & Sciences (TTSA) Twitter claim about
-      metamaterials from an advanced aerospace vehicle
+    title: 2019 To The Stars Academy of Arts & Sciences (TTSA) Twitter claim about metamaterials from an advanced aerospace
+      vehicle
+    node_type: document
     slug: 2019-to-the-stars-academy-of-arts-sciences-ttsa-twitter-claim-about-metamaterials-from-an-advanced-aerospace-vehicle
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
+    shared_claims: 2
+  - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
+    title: Jim Semivan
+    node_type: person
+    slug: jim-semivan
+    shared_claims: 2
   - node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
     title: Art's Parts (alleged Roswell metal samples)
+    node_type: object
     slug: arts-parts-alleged-roswell-metal-samples
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: '2019'
-  date_end: null
-  location_in_record: ch23:18158-18459
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: b4d2ca8f-3957-444d-b666-f57a1be3c4e6
-  claim_hash: 39fc5e314c9a441e4d361ab446ba6c774abc55bcf246c42af5bbbde6234d84d5
-  content: Steve Justice stated in the 2019 TTSA tweet that they are focusing on verifiable
-    facts and working to develop independent scientific proof of the materials' properties
-    and attributes.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: speaker
-    origin: Steve Justice
-    relay:
-    - a TTSA tweet
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 389d0c85-b557-433e-8054-107e29b1de11
-    title: 2019 To The Stars Academy of Arts & Sciences (TTSA) Twitter claim about
-      metamaterials from an advanced aerospace vehicle
-    slug: 2019-to-the-stars-academy-of-arts-sciences-ttsa-twitter-claim-about-metamaterials-from-an-advanced-aerospace-vehicle
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: '2019'
-  date_end: null
-  location_in_record: ch23:18469-18588
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: ae288279-4321-4651-ad08-654c6e8ebf02
-  claim_hash: d30f3c28824a888d9823004dc2fb24aa87e5ff69aa0a2a4b286021d6e260f47c
-  content: In the Unidentified documentary series on the History Channel, Luis Elizondo
-    tells Steve Justice, then Director of To The Stars Academy of Arts & Sciences'
-    aerospace division, that the company has multiple metamaterials samples from numerous
-    sources, including government sources.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Luis Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2658cc67-2b0a-4b7f-a324-f1fa16dc21b7
-    title: 'Unidentified: Inside America''s UFO Investigation'
-    slug: unidentified-inside-americas-ufo-investigation
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch24:6403-6686
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 2c9764af-1fb0-432f-a6bc-ef91aa3f3502
-  claim_hash: e1fc0963b3beb4dad4a4953dd71ef25bd437e4d68b5b0ba02029c8f17df2cd95
-  content: Steve Justice said the expectations placed on him regarding To The Stars
-    Academy of Arts & Sciences' metamaterials work were huge, and that performance
-    had to follow such high expectations.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: speaker
-    origin: Steve Justice
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch24:7121-7270
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: a6ad6337-0efa-4c0b-b2a3-21c02cbc0a16
-  claim_hash: 2373aefa3616ac8a621a6f7a4eeeb390d5c275502b0f20e68744b315746772ae
-  content: Steve Justice left the To The Stars Academy of Arts & Sciences project.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: unattributed narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch24:7444-7537
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: f36be07b-772b-495e-bf18-61a2d52681bb
-  claim_hash: 45f5ec3ec96ff8124f345f7edb01400098146b39f4262009016a0a0546599e64
-  content: At the To The Stars Academy of Arts & Sciences (TTSA) launch on 2017-10-11,
-    Steve Justice, then the Skunk Works Lockheed Martin Program Director for Advanced
-    Systems, stated that TTSA was working on a revolutionary Advanced Electromagnetic
-    Vehicle that could dramatically reduce current travel limits of distance and time.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: named
-    origin: Steve Justice
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
-    title: 2017 To The Stars Academy of Arts & Sciences launch event
-    slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: '2017-10-11'
-  date_end: null
-  location_in_record: ch28:6936-7213
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 5709d803-d1ad-43f8-89c6-fb29dafc18ad
-  claim_hash: 9525be2c70455c4e6b0f5f09dd2bd52b891dc4d52ebc9d6fda7c123985f6ceb0
-  content: Steve Justice said the Advanced Electromagnetic Vehicle mimics the capabilities
-    observed in unidentified aerial phenomena (UAP) by employing a drive system that
-    alters the space-time metric.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: named
-    origin: Steve Justice
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 911da153-0f60-456f-be3d-03bc393882a2
-    title: vacuum spacetime metric engineering
-    slug: vacuum-spacetime-metric-engineering
-  - node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
-    title: 2017 To The Stars Academy of Arts & Sciences launch event
-    slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: '2017-10-11'
-  date_end: null
-  location_in_record: ch28:7219-7344
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 361f3868-e1a1-4004-bcc5-9b28cf83901d
-  claim_hash: 8f021780b3b464f38475d71375955f1dfa3414907f662d4e98c4481f8fe7b332
-  content: Ross Coulthart considers it possible that Steve Justice's departure from
-    To The Stars Academy of Arts & Sciences (TTSA) meant the Advanced Electromagnetic
-    Vehicle project was shut down.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch28:7517-7612
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 60718dbf-3218-4794-bc22-9b5da564d285
-  claim_hash: 802850f628c27d46fbb2bf8a5c7f3d6ca2d76c7c09a02a09a8175a9e9488c949
-  content: Luis Elizondo left the Pentagon in protest and joined with Tom DeLonge,
-    Chris Mellon, and Steve Justice to form To the Stars Academy.
-  original_excerpt: Lue had left the Pentagon in protest and joined forces with Tom
-    DeLonge, Chris Mellon, Steve Justice and others to form To the Stars Academy
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-    slug: christopher-k-mellon
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: char:44234-44367
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 5f155a23-b54a-4d82-adbb-33675b47e448
-  claim_hash: 9d4fde306efa3eb477e8ad28240101e4920774785bf471ef518493f8148250a9
-  content: Luis Elizondo left the Pentagon in protest and joined Tom DeLonge, Chris
-    Mellon, Steve Justice and others to form To The Stars Academy.
-  original_excerpt: In the weeks that passed I was made aware that Lue had left the
-    pentagon in protest and joined forces with Tom Delonge, Chris Mellon, Steve Justice
-    and others to form To The Stars Academy.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-    slug: christopher-k-mellon
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  - node_id: b9426d1b-312c-4e02-969e-ab9ad4dab259
-    title: The Pentagon
-    slug: the-pentagon
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: char:5783-5963
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d123926b-16b5-462d-86e0-d3b77fa6b2c0
-    record_title: David Fravor Statement for the House Oversight Committee
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b9448520c64a
-    friendly_name: 2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee
-- claim_id: 78d203a4-fae9-4bc7-bb3b-baa980e13cf4
-  claim_hash: f14e53664cb6907d14478a3c03623a873904ddff493ddd0d4ea84553cff1d801
-  content: Steve Justice is a former director of Advanced Systems Development at Lockheed
-    Martin's Skunk Works division.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch19:5009-5126
-  evidence:
-    score: null
-    independent_sources: 2
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 068bc415-c79a-4396-ad2c-1541d693edf5
-  claim_hash: 77e8359908d4c0081942a15d125c44c211cc1d92db649278f17635a74ee773a6
-  content: Steve Justice believes there is no such thing as impossible, saying impossible
-    is just something one has not seen yet.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: named
-    origin: Steve Justice
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch19:5150-5234
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: e95a488f-bd34-4b22-b1c9-9af90cd1a10b
-  claim_hash: dd5fbe0afbbf41e1170d4311d384ac53706ce4ef91baaa775fa77a1d84a532cc
-  content: Steve Justice, an aerospace engineer, spent thirty-one years working for
-    Lockheed Martin's Skunk Works before joining Tom DeLonge's advisory board.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch29:13378-13547
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 322abff2-064d-4715-854d-a05b5bdb15ea
-  claim_hash: 5ffa556509592797ddf35d7df2d061842c1d1feafeeba248a6235d8d2e2352ff
-  content: Christopher Mellon, Harold Puthoff, and Steve Justice moved on from To
-    The Stars Academy (TTSA) after Lue Elizondo did.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-    slug: christopher-k-mellon
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch30:12930-12984
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 3bfd0cef-467b-4da6-8291-0ddbc6b44550
-  claim_hash: 336177e4f6261a989ce76f9996430565b81d1a489eeb4a59e74b6220e17e0913
-  content: Steve Justice leads the aerospace division of To The Stars Academy of Arts
-    and Science.
-  original_excerpt: Leading our aerospace division, Steve Justice, last month
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: 00:08:46.7-00:08:50.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
-- claim_id: 9446ea19-1e02-4cc6-a10b-72547e55e71b
-  claim_hash: 4a4e52a258b240030930a754fe3f31a6215381aa132fc3649b1d52a83435ff2a
-  content: Steve Justice finished his career as Director of Advanced Systems at Lockheed
-    Martin Skunk Works the month before this broadcast.
-  original_excerpt: Literally, last month, Steve finished his career as Director of
-    Advanced Systems at Lockheed Martin Skunk Works.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: 00:08:51.8-00:08:58.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
-- claim_id: 128fde05-8fc0-4735-8985-87412fadd2fa
-  claim_hash: d50bc4b5cffd46b857f03abfb9dc283ea5c13758f2aa03e43c9b0b9632c1f333
-  content: Steve Justice is the head of the aerospace division of To The Stars Academy
-    of Arts and Science.
-  original_excerpt: I would like to introduce you to the head of our aerospace division,
-    Steve Justice.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: 00:24:11.0-00:24:15.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
-- claim_id: 2e27008d-519b-4649-9a39-c23ab5900ae4
-  claim_hash: ec7204b6e493f8c633879f5e7b4fb72796050d939eaee95505c692361301fcda
-  content: During To The Stars Academy of Arts and Science's announcement, the science
-    division of the academy is designed to collect information from sources worldwide
-    and connect it together.
-  original_excerpt: The science division of the academy is designed to go out and
-    collect the information, connect the dots inside there... we're going to be collecting
-    from sources all over the place
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: speaker
-    origin: Steve Justice
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  date: null
-  date_end: null
-  location_in_record: 00:25:23.2-00:25:32.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
-- claim_id: d67a1163-ee34-4cd4-ad18-52ad2e2f2a86
-  claim_hash: ba726b61f1524dc80578949c5c4f018d589f2183a58ef6297aaaa217aa27be97
-  content: During To The Stars Academy of Arts and Science's announcement, the aerospace
-    division is intended to harvest technologies and understanding from the science
-    division and build prototypes and production systems.
-  original_excerpt: The aerospace division is going to harvest technologies and understanding
-    from the science division. Try to go through and demonstrate the technologies,
-    build prototypes, and even production systems that can change life as we know
-    it.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: speaker
-    origin: Steve Justice
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  date: null
-  date_end: null
-  location_in_record: 00:25:46.9-00:26:00.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
-- claim_id: 1df404b8-cedb-49a5-a1bf-3d381a619ef4
-  claim_hash: ffd19b608e2342d303adcd20f3036222ac5b7dad0f0213c1f1c955c26c04c546
-  content: During To The Stars Academy of Arts and Science's announcement, an entertainment
-    division is described as a way for the public to participate in and be informed
-    about the academy's work.
-  original_excerpt: there's the entertainment division that Tom talked about, where
-    you will walk this journey with us. You will participate with us, and we'll inform
-    everyone along the way.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: speaker
-    origin: Steve Justice
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: 00:26:01.9-00:26:09.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
-- claim_id: c369377e-a5d1-4e10-8010-c6b3137f9fb1
-  claim_hash: 892799d6ca023298d8f80d828954d6c695a947a05ed6a49a9e146c54b253930f
-  content: Steve Justice read a 1976 US Air Force magazine article about flying the
-    U-2 aircraft.
-  original_excerpt: It was US Air Force magazine. It had an article about flying the
-    U-2.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: speaker
-    origin: Steve Justice
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1152039f-eae8-4605-aa3c-dd839f17bbc6
-    title: US Air Force magazine article on the U-2 (1976)
-    slug: us-air-force-magazine-article-on-the-u-2-1976
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  - node_id: d212d6ab-72c2-4dad-85ef-15a6b44d9bab
-    title: U-2
-    slug: u-2
-  date: null
-  date_end: null
-  location_in_record: 00:26:29.3-00:26:32.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
-- claim_id: a2e6d1e9-e36f-4657-81ba-2c71ec02690d
-  claim_hash: 228883a122750bd5905920e063b8926bbf03e5917d54395d4d7ebb50b013d257
-  content: The 1976 US Air Force magazine article on the U-2 also included an article
-    about a new system called GPS (Global Positioning System).
-  original_excerpt: there was this article about this magical new system called GPS.
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: document
-    origin: US Air Force magazine article on the U-2 (1976)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1152039f-eae8-4605-aa3c-dd839f17bbc6
-    title: US Air Force magazine article on the U-2 (1976)
-    slug: us-air-force-magazine-article-on-the-u-2-1976
-  - node_id: ee385c79-7b49-4862-b360-c64bf5a098e8
-    title: Global Positioning System (GPS)
-    slug: global-positioning-system-gps
-  date: '1976'
-  date_end: null
-  location_in_record: 00:26:40.2-00:26:42.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
-- claim_id: 86943422-1f48-40f0-8299-df1c98c46bcb
-  claim_hash: b8a7fa412c4a1a9d92dddd3da0324c3a03c5bb02af07deca7b15c4f0e4344ba0
-  content: The 1976 article speculated that if the United States focused on electronic
-    miniaturisation, a soldier would someday be able to wear a backpack weighing approximately
-    4.5 kilograms and costing $10,000 that would tell him his location on Earth.
-  original_excerpt: if the United States really focused on electronic miniaturization,
-    A soldier would be able to wear a backpack that weighed 10 pounds and cost $10,000.
-    It would tell him where he is on the face of the earth.
-  claim_type: measurement
-  attestation: second_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: document
-    origin: US Air Force magazine article on the U-2 (1976)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1152039f-eae8-4605-aa3c-dd839f17bbc6
-    title: US Air Force magazine article on the U-2 (1976)
-    slug: us-air-force-magazine-article-on-the-u-2-1976
-  - node_id: ee385c79-7b49-4862-b360-c64bf5a098e8
-    title: Global Positioning System (GPS)
-    slug: global-positioning-system-gps
-  date: '1976'
-  date_end: null
-  location_in_record: 00:26:44.7-00:26:55.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
-- claim_id: 1e1de70c-4327-47e5-8c31-068f66a2a152
-  claim_hash: 75243d1b81a8e394d592f0b56bc4a80cf60a6b887f304a87df68945afe810a2c
-  content: Modern GPS (Global Positioning System)-enabled devices fit in a pocket,
-    cost a couple of hundred dollars, and also function as a camera.
-  original_excerpt: we have something that does that, that fits in our hip pocket,
-    that costs a couple hundred bucks, but it's also a camera.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: speaker
-    origin: Steve Justice
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ee385c79-7b49-4862-b360-c64bf5a098e8
-    title: Global Positioning System (GPS)
-    slug: global-positioning-system-gps
-  date: null
-  date_end: null
-  location_in_record: 00:26:59.0-00:27:04.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
-- claim_id: 1267ecd3-1f40-4e81-83f9-4581626ac991
-  claim_hash: d9fc95778422e83824ee88e3c0fac2c85aede32571d37d63754ead6c2e03f961
-  content: Modern GPS (Global Positioning System) systems can provide verbal turn-by-turn
-    navigation instructions.
-  original_excerpt: that GPS system can also tell you where to go with verbal instructions
-    if you're lost.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: speaker
-    origin: Steve Justice
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ee385c79-7b49-4862-b360-c64bf5a098e8
-    title: Global Positioning System (GPS)
-    slug: global-positioning-system-gps
-  date: null
-  date_end: null
-  location_in_record: 00:27:05.8-00:27:09.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
-- claim_id: fe122f77-eea0-47df-9fc7-3dfcaa780e16
-  claim_hash: 43740fe2759b1205ef35167e5bd9a9a1d38b5a0f412a454b7cffc73c218efb70
-  content: An unnamed writer credits a quote attributed to the head of the United
-    States Patent and Trademark Office in a report, stating that humanity is approaching
-    a period when human improvement must end.
-  original_excerpt: This quote that you see up on the screen right now with the Patent
-    Office, the head of the Patent Office in this report says that we're coming upon
-    the arrival of a period when human improvement must end.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: named
-    origin: the head of the United States Patent and Trademark Office
-    relay:
-    - a report quoted on screen
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
-    title: United States Patent and Trademark Office
-    slug: united-states-patent-and-trademark-office
-  date: null
-  date_end: null
-  location_in_record: 00:29:58.7-00:30:10.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
-- claim_id: 355268b8-0d0c-4501-acaa-ecbeffc5dd85
-  claim_hash: 31eadf6c93e782f71be70be02df152cd04a660e6ef3372dbc567da9ed8fdf45a
-  content: The team behind To The Stars Academy of Arts and Science includes a prominent
-    aerospace engineer, a senior intelligence officer from the Central Intelligence
-    Agency (CIA), two former senior Pentagon officials, and an experimental physicist
-    from the United States Department of Defense (DoD).
-  original_excerpt: one of the biggest aerospace engineers in the world, a senior
-    intelligence officer from the CIA, two former senior Pentagon officials, and an
-    experimental physicist from the DOD
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
-    title: Jim Semivan
-    slug: jim-semivan
+    shared_claims: 1
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
+    node_type: organisation
     slug: central-intelligence-agency-cia
-  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-    slug: christopher-k-mellon
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
+    shared_claims: 1
+  - node_id: a5b3971d-48da-4c25-b3a4-3a3e274a2449
+    title: Securities and Exchange Commission (SEC)
+    node_type: organisation
+    slug: securities-and-exchange-commission-sec
+    shared_claims: 1
+  - node_id: b9426d1b-312c-4e02-969e-ab9ad4dab259
+    title: The Pentagon
+    node_type: place
+    slug: the-pentagon
+    shared_claims: 1
+  - node_id: d212d6ab-72c2-4dad-85ef-15a6b44d9bab
+    title: U-2
+    node_type: object
+    slug: u-2
+    shared_claims: 1
+  - node_id: 1152039f-eae8-4605-aa3c-dd839f17bbc6
+    title: US Air Force magazine article on the U-2 (1976)
+    node_type: document
+    slug: us-air-force-magazine-article-on-the-u-2-1976
+    shared_claims: 1
+  - node_id: 2658cc67-2b0a-4b7f-a324-f1fa16dc21b7
+    title: 'Unidentified: Inside America''s UFO Investigation'
+    node_type: document
+    slug: unidentified-inside-americas-ufo-investigation
+    shared_claims: 1
   - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
     title: United States Department of Defense (DoD)
+    node_type: organisation
     slug: united-states-department-of-defense-dod
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: 00:37:25.5-00:37:35.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
-- claim_id: 2cbb2884-5ce2-4290-9c3b-2a1cee3104df
-  claim_hash: d2f7fb43b338caf7b575ea367926fd909dd3604f3d47fc6936fa32e55c8d8b05
-  content: To the Stars Academy (TTSA) involved Christopher Mellon, Luis Elizondo,
-    Jim Semivan, Steve Justice, and Hal Puthoff.
-  original_excerpt: the people who went ahead and setting up to the STARS Academy,
-    I mean, did involve Chris Mellon, involved Lou Elizondo, Jim Simivan, Steve Justice
-    from, you know, So anyway, and me.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-  provenance_chain:
-    origin_kind: speaker
-    origin: Hal Puthoff
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
-    title: Jim Semivan
-    slug: jim-semivan
-  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-    slug: christopher-k-mellon
-  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-    slug: harold-e-puthoff
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: 00:48:19.7-00:48:35.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 911da153-0f60-456f-be3d-03bc393882a2
+    title: vacuum spacetime metric engineering
+    node_type: topic
+    slug: vacuum-spacetime-metric-engineering
+    shared_claims: 1
+claims:
+  - claim_id: 4498bf0a-9703-4119-8f7f-debed1d7f04f
+    claim_hash: d61e39861d7c9c9a661f95fe48efd4488c77cb2a68faaaf2506d10863cab2f6c
+    content: Steve Justice is part of the group working with Luis Elizondo on UAP disclosure efforts.
+    original_excerpt: And I've talked to Lou Elizondo about this and the group that they're working with, which is incredible.
+      I mean, they've got Steve Justice who used to run Skunk Works
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: 01:54:22.7-01:54:30.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: b8bc290d-52de-4e83-af2c-d4ab83a6f4a3
+    claim_hash: 824c711cc23241e9d4cbda900a81a77a9bc4bb4ff53eaba9a34053222d805fa9
+    content: Steve Justice previously ran Lockheed Skunk Works.
+    original_excerpt: I mean, they've got Steve Justice who used to run Skunk Works where they built projects.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: 01:54:28.6-01:54:31.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 21d4b51c-b61c-4c75-849b-95ef1d37daa7
+    claim_hash: 3c00896f4d4335909d0a954092caf4c7442d3cb29bb70af32c590ce82bc4de4d
+    content: Steve Justice headed To The Stars Academy of Arts & Sciences' aerospace division at its 2017 launch.
+    original_excerpt: Another team member on stage, heading TTSA's aerospace division, was Steve Justice
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch21:1170-1272
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6f60ad98-6c37-4619-ada2-cd8d385705f4
+    claim_hash: 704b8b524292e1cfc9a133c5571b00957b9b682a7af537f195ef90cb5ed4fc98
+    content: Steve Justice had, a month before the October 2017 To The Stars Academy of Arts & Sciences launch, finished as
+      director of advanced systems at Lockheed Martin Skunk Works.
+    original_excerpt: who just a month earlier had finished as director of advanced systems at Lockheed Martin Skunk Works
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch21:1281-1376
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4b297bdc-12ce-4fc8-8fbc-c135321c4275
+    claim_hash: 8cce556b76a6d59eeb781d13a3cadd3197cc311a226fab5936c46d042115bffe
+    content: Speculation mounted for months that Christopher Mellon, Luis Elizondo, and Steve Justice were leaving To The
+      Stars Academy of Arts & Sciences.
+    original_excerpt: Speculation had mounted for months that former Defence Department mandarin Christopher Mellon and key
+      figures Luis Elizondo and Steve Justice were leaving TTSA.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch21:23469-23624
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
+    claim_hash: 291bd92e602ef19ec7c4ba3ff67153915ce1f59bbca9416df69a515d687e46fb
+    content: It took Tom DeLonge several months to formally admit to the Securities and Exchange Commission that Christopher
+      Mellon, Luis Elizondo, and Steve Justice had departed To The Stars Academy of Arts & Sciences.
+    original_excerpt: it took Tom DeLonge several more months to formally admit to the Securities Exchange Commission not
+      only their departure
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: a5b3971d-48da-4c25-b3a4-3a3e274a2449
+        title: Securities and Exchange Commission (SEC)
+        slug: securities-and-exchange-commission-sec
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch21:23699-23837
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d8bee6c2-0d08-48f2-84be-b607c8ced809
+    claim_hash: bbb088d74da67be489d735a1e09b0f5c5904d991dbe55ef229f5024c3328dd7d
+    content: Steve Justice was Chief Operating Officer of To The Stars Academy of Arts & Sciences.
+    original_excerpt: Steve Justice, Chief Operating Officer of TTSA and former head of Advanced Systems at Lockheed Martin's
+      Skunk Works
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch21:9242-9352
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7db5d234-5f6b-4af9-a15c-23b724ad8a79
+    claim_hash: 87da5540c3a1ecf1bdcb88311fbafdc2332a761b29c2afdaf0ad48285499174f
+    content: Steve Justice was former head of Advanced Systems at Lockheed Martin's Skunk Works.
+    original_excerpt: former head of Advanced Systems at Lockheed Martin's Skunk Works
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch21:9293-9352
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d502da75-f4fe-4ee1-ac64-36f0a320ce65
+    claim_hash: 49b646b8006ba30ff9a6481f594bc7990809bbae9119b47b8f9e5443bac24ff4
+    content: Steve Justice is a former Lockheed Martin Skunk Works executive who was affiliated with To The Stars Academy
+      of Arts & Sciences.
+    original_excerpt: TTSA’s Steve Justice, former Lockheed Martin Skunk Works executive
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch22:21142-21199
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bf86b2a2-94a5-4368-a500-7a138736fc72
+    claim_hash: d3771c047a24bf4f3e7c8cdee894270c58f8023d95b6e6bf43527f8da9307eef
+    content: Steve Justice fears that an adversary has already discovered the technology behind the observed UAP and that
+      the United States is far behind.
+    original_excerpt: My greatest fear is that an adversary did figure it out and we are just way, way, way behind.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: speaker
+      origin: Steve Justice
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch22:21217-21303
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cb96298a-ccfc-4eb7-9664-e97a007c094d
+    claim_hash: 065352098851bb5aefc54c3bcac76855db5995e029a0e41372b5f9fb607d2e0a
+    content: Before he left TTSA in 2021, former Lockheed Martin Skunk Works engineer Steve Justice led TTSA's aerospace division.
+    original_excerpt: Before he left TTSA in 2021, the former Lockheed Martin Skunk Works engineer Steve Justice led TTSA's
+      aerospace division
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: '2021'
+    date_end: null
+    location_in_record: ch23:16038-16150
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
+    claim_hash: e08b9b69b75fb29faa90a9912a58aa8c8ac6e95a5d9bf4ecea13a37ec00db0b8
+    content: In a 2019 tweeted announcement, TTSA posted an image of the bent lump of layered metal from the Art's Parts samples
+      with a quote from then-COO Steve Justice that the structure and composition of the materials are not from any known
+      existing military or commercial application.
+    original_excerpt: 'Another hint came in a tweeted TTSA announcement in 2019, when it posted an image of the strange bent
+      lump of layered metal from the Art''s Parts samples saying: ''"The structure & composition of these materials are not
+      from any known existing military or commercial application," said [then] COO Steve Justice.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: speaker
+      origin: Steve Justice
+      relay:
+        - a TTSA tweet
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 389d0c85-b557-433e-8054-107e29b1de11
+        title: 2019 To The Stars Academy of Arts & Sciences (TTSA) Twitter claim about metamaterials from an advanced aerospace
+          vehicle
+        slug: 2019-to-the-stars-academy-of-arts-sciences-ttsa-twitter-claim-about-metamaterials-from-an-advanced-aerospace-vehicle
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
+        title: Art's Parts (alleged Roswell metal samples)
+        slug: arts-parts-alleged-roswell-metal-samples
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: '2019'
+    date_end: null
+    location_in_record: ch23:18158-18459
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b4d2ca8f-3957-444d-b666-f57a1be3c4e6
+    claim_hash: 39fc5e314c9a441e4d361ab446ba6c774abc55bcf246c42af5bbbde6234d84d5
+    content: Steve Justice stated in the 2019 TTSA tweet that they are focusing on verifiable facts and working to develop
+      independent scientific proof of the materials' properties and attributes.
+    original_excerpt: '"We are focusing on verifiable facts and working to develop independent scientific proof of the materials''
+      properties & attributes".'
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: speaker
+      origin: Steve Justice
+      relay:
+        - a TTSA tweet
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 389d0c85-b557-433e-8054-107e29b1de11
+        title: 2019 To The Stars Academy of Arts & Sciences (TTSA) Twitter claim about metamaterials from an advanced aerospace
+          vehicle
+        slug: 2019-to-the-stars-academy-of-arts-sciences-ttsa-twitter-claim-about-metamaterials-from-an-advanced-aerospace-vehicle
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: '2019'
+    date_end: null
+    location_in_record: ch23:18469-18588
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ae288279-4321-4651-ad08-654c6e8ebf02
+    claim_hash: d30f3c28824a888d9823004dc2fb24aa87e5ff69aa0a2a4b286021d6e260f47c
+    content: In the Unidentified documentary series on the History Channel, Luis Elizondo tells Steve Justice, then Director
+      of To The Stars Academy of Arts & Sciences' aerospace division, that the company has multiple metamaterials samples
+      from numerous sources, including government sources.
+    original_excerpt: Season one of TTSA's Unidentified documentary series on the History Channel has a sequence where Luis
+      Elizondo tells the then Director of the company's aerospace division, Steve Justice, that they now have multiple metamaterials
+      samples from numerous sources, including government sources.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2658cc67-2b0a-4b7f-a324-f1fa16dc21b7
+        title: 'Unidentified: Inside America''s UFO Investigation'
+        slug: unidentified-inside-americas-ufo-investigation
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch24:6403-6686
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2c9764af-1fb0-432f-a6bc-ef91aa3f3502
+    claim_hash: e1fc0963b3beb4dad4a4953dd71ef25bd437e4d68b5b0ba02029c8f17df2cd95
+    content: Steve Justice said the expectations placed on him regarding To The Stars Academy of Arts & Sciences' metamaterials
+      work were huge, and that performance had to follow such high expectations.
+    original_excerpt: '''The expectations were huge. When the expectations are extremely high, performance has to follow.
+      And so, performing is key to me now,'' Steve Justice admitted.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: speaker
+      origin: Steve Justice
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch24:7121-7270
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a6ad6337-0efa-4c0b-b2a3-21c02cbc0a16
+    claim_hash: 2373aefa3616ac8a621a6f7a4eeeb390d5c275502b0f20e68744b315746772ae
+    content: Steve Justice left the To The Stars Academy of Arts & Sciences project.
+    original_excerpt: the fact that Steve Justice has walked away from the project suggests something came off the rails
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unattributed narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch24:7444-7537
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f36be07b-772b-495e-bf18-61a2d52681bb
+    claim_hash: 45f5ec3ec96ff8124f345f7edb01400098146b39f4262009016a0a0546599e64
+    content: At the To The Stars Academy of Arts & Sciences (TTSA) launch on 2017-10-11, Steve Justice, then the Skunk Works
+      Lockheed Martin Program Director for Advanced Systems, stated that TTSA was working on a revolutionary Advanced Electromagnetic
+      Vehicle that could dramatically reduce current travel limits of distance and time.
+    original_excerpt: At TTSA's October 2017 launch, Steve Justice, the then Skunk Works Lockheed Martin Program Director
+      for Advanced Systems, stated that TTSA was working on a revolutionary Advanced Electromagnetic Vehicle that could 'dramatically
+      reduce the current travel limits of distance and time.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: named
+      origin: Steve Justice
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
+        title: 2017 To The Stars Academy of Arts & Sciences launch event
+        slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: '2017-10-11'
+    date_end: null
+    location_in_record: ch28:6936-7213
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5709d803-d1ad-43f8-89c6-fb29dafc18ad
+    claim_hash: 9525be2c70455c4e6b0f5f09dd2bd52b891dc4d52ebc9d6fda7c123985f6ceb0
+    content: Steve Justice said the Advanced Electromagnetic Vehicle mimics the capabilities observed in unidentified aerial
+      phenomena (UAP) by employing a drive system that alters the space-time metric.
+    original_excerpt: It mimics the capabilities observed in Unidentified Aerial Phenomenon by employing a drive system that
+      alters the space-time metric'.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: named
+      origin: Steve Justice
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 911da153-0f60-456f-be3d-03bc393882a2
+        title: vacuum spacetime metric engineering
+        slug: vacuum-spacetime-metric-engineering
+      - node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
+        title: 2017 To The Stars Academy of Arts & Sciences launch event
+        slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: '2017-10-11'
+    date_end: null
+    location_in_record: ch28:7219-7344
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 361f3868-e1a1-4004-bcc5-9b28cf83901d
+    claim_hash: 8f021780b3b464f38475d71375955f1dfa3414907f662d4e98c4481f8fe7b332
+    content: Ross Coulthart considers it possible that Steve Justice's departure from To The Stars Academy of Arts & Sciences
+      (TTSA) meant the Advanced Electromagnetic Vehicle project was shut down.
+    original_excerpt: Does Steve Justice's departure from TTSA mean that this revolutionary vehicle project was shut down?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch28:7517-7612
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 60718dbf-3218-4794-bc22-9b5da564d285
+    claim_hash: 802850f628c27d46fbb2bf8a5c7f3d6ca2d76c7c09a02a09a8175a9e9488c949
+    content: Luis Elizondo left the Pentagon in protest and joined with Tom DeLonge, Chris Mellon, and Steve Justice to form
+      To the Stars Academy.
+    original_excerpt: Lue had left the Pentagon in protest and joined forces with Tom DeLonge, Chris Mellon, Steve Justice
+      and others to form To the Stars Academy
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: char:44234-44367
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 5f155a23-b54a-4d82-adbb-33675b47e448
+    claim_hash: 9d4fde306efa3eb477e8ad28240101e4920774785bf471ef518493f8148250a9
+    content: Luis Elizondo left the Pentagon in protest and joined Tom DeLonge, Chris Mellon, Steve Justice and others to
+      form To The Stars Academy.
+    original_excerpt: In the weeks that passed I was made aware that Lue had left the pentagon in protest and joined forces
+      with Tom Delonge, Chris Mellon, Steve Justice and others to form To The Stars Academy.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+      - node_id: b9426d1b-312c-4e02-969e-ab9ad4dab259
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: char:5783-5963
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d123926b-16b5-462d-86e0-d3b77fa6b2c0
+      record_title: David Fravor Statement for the House Oversight Committee
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b9448520c64a
+      friendly_name: 2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee
+  - claim_id: 78d203a4-fae9-4bc7-bb3b-baa980e13cf4
+    claim_hash: f14e53664cb6907d14478a3c03623a873904ddff493ddd0d4ea84553cff1d801
+    content: Steve Justice is a former director of Advanced Systems Development at Lockheed Martin's Skunk Works division.
+    original_excerpt: my friend Steve Justice, former director of Advanced Systems Development at Lockheed Martin’s mysterious
+      Skunk Works division
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch19:5009-5126
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 068bc415-c79a-4396-ad2c-1541d693edf5
+    claim_hash: 77e8359908d4c0081942a15d125c44c211cc1d92db649278f17635a74ee773a6
+    content: Steve Justice believes there is no such thing as impossible, saying impossible is just something one has not
+      seen yet.
+    original_excerpt: “There is no such thing as impossible. Impossible is just something you haven’t seen yet.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: named
+      origin: Steve Justice
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch19:5150-5234
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e95a488f-bd34-4b22-b1c9-9af90cd1a10b
+    claim_hash: dd5fbe0afbbf41e1170d4311d384ac53706ce4ef91baaa775fa77a1d84a532cc
+    content: Steve Justice, an aerospace engineer, spent thirty-one years working for Lockheed Martin's Skunk Works before
+      joining Tom DeLonge's advisory board.
+    original_excerpt: DeLonge’s advisory board included Steve Justice, a highly respected aerospace engineer who’d spent thirty-one
+      years working for Lockheed Martin’s highly secretive Skunk Works
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch29:13378-13547
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 322abff2-064d-4715-854d-a05b5bdb15ea
+    claim_hash: 5ffa556509592797ddf35d7df2d061842c1d1feafeeba248a6235d8d2e2352ff
+    content: Christopher Mellon, Harold Puthoff, and Steve Justice moved on from To The Stars Academy (TTSA) after Lue Elizondo
+      did.
+    original_excerpt: Chris, Hal, and Steve Justice also soon moved on from TTSA.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch30:12930-12984
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 3bfd0cef-467b-4da6-8291-0ddbc6b44550
+    claim_hash: 336177e4f6261a989ce76f9996430565b81d1a489eeb4a59e74b6220e17e0913
+    content: Steve Justice leads the aerospace division of To The Stars Academy of Arts and Science.
+    original_excerpt: Leading our aerospace division, Steve Justice, last month
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: 00:08:46.7-00:08:50.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: 9446ea19-1e02-4cc6-a10b-72547e55e71b
+    claim_hash: 4a4e52a258b240030930a754fe3f31a6215381aa132fc3649b1d52a83435ff2a
+    content: Steve Justice finished his career as Director of Advanced Systems at Lockheed Martin Skunk Works the month before
+      this broadcast.
+    original_excerpt: Literally, last month, Steve finished his career as Director of Advanced Systems at Lockheed Martin
+      Skunk Works.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: 00:08:51.8-00:08:58.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: 128fde05-8fc0-4735-8985-87412fadd2fa
+    claim_hash: d50bc4b5cffd46b857f03abfb9dc283ea5c13758f2aa03e43c9b0b9632c1f333
+    content: Steve Justice is the head of the aerospace division of To The Stars Academy of Arts and Science.
+    original_excerpt: I would like to introduce you to the head of our aerospace division, Steve Justice.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: 00:24:11.0-00:24:15.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: 2e27008d-519b-4649-9a39-c23ab5900ae4
+    claim_hash: ec7204b6e493f8c633879f5e7b4fb72796050d939eaee95505c692361301fcda
+    content: During To The Stars Academy of Arts and Science's announcement, the science division of the academy is designed
+      to collect information from sources worldwide and connect it together.
+    original_excerpt: The science division of the academy is designed to go out and collect the information, connect the dots
+      inside there... we're going to be collecting from sources all over the place
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: speaker
+      origin: Steve Justice
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+    date: null
+    date_end: null
+    location_in_record: 00:25:23.2-00:25:32.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: d67a1163-ee34-4cd4-ad18-52ad2e2f2a86
+    claim_hash: ba726b61f1524dc80578949c5c4f018d589f2183a58ef6297aaaa217aa27be97
+    content: During To The Stars Academy of Arts and Science's announcement, the aerospace division is intended to harvest
+      technologies and understanding from the science division and build prototypes and production systems.
+    original_excerpt: The aerospace division is going to harvest technologies and understanding from the science division.
+      Try to go through and demonstrate the technologies, build prototypes, and even production systems that can change life
+      as we know it.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: speaker
+      origin: Steve Justice
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+    date: null
+    date_end: null
+    location_in_record: 00:25:46.9-00:26:00.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: 1df404b8-cedb-49a5-a1bf-3d381a619ef4
+    claim_hash: ffd19b608e2342d303adcd20f3036222ac5b7dad0f0213c1f1c955c26c04c546
+    content: During To The Stars Academy of Arts and Science's announcement, an entertainment division is described as a way
+      for the public to participate in and be informed about the academy's work.
+    original_excerpt: there's the entertainment division that Tom talked about, where you will walk this journey with us.
+      You will participate with us, and we'll inform everyone along the way.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: speaker
+      origin: Steve Justice
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: 00:26:01.9-00:26:09.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: c369377e-a5d1-4e10-8010-c6b3137f9fb1
+    claim_hash: 892799d6ca023298d8f80d828954d6c695a947a05ed6a49a9e146c54b253930f
+    content: Steve Justice read a 1976 US Air Force magazine article about flying the U-2 aircraft.
+    original_excerpt: It was US Air Force magazine. It had an article about flying the U-2.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: speaker
+      origin: Steve Justice
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1152039f-eae8-4605-aa3c-dd839f17bbc6
+        title: US Air Force magazine article on the U-2 (1976)
+        slug: us-air-force-magazine-article-on-the-u-2-1976
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+      - node_id: d212d6ab-72c2-4dad-85ef-15a6b44d9bab
+        title: U-2
+        slug: u-2
+    date: null
+    date_end: null
+    location_in_record: 00:26:29.3-00:26:32.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: a2e6d1e9-e36f-4657-81ba-2c71ec02690d
+    claim_hash: 228883a122750bd5905920e063b8926bbf03e5917d54395d4d7ebb50b013d257
+    content: The 1976 US Air Force magazine article on the U-2 also included an article about a new system called GPS (Global
+      Positioning System).
+    original_excerpt: there was this article about this magical new system called GPS.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: document
+      origin: US Air Force magazine article on the U-2 (1976)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1152039f-eae8-4605-aa3c-dd839f17bbc6
+        title: US Air Force magazine article on the U-2 (1976)
+        slug: us-air-force-magazine-article-on-the-u-2-1976
+      - node_id: ee385c79-7b49-4862-b360-c64bf5a098e8
+        title: Global Positioning System (GPS)
+        slug: global-positioning-system-gps
+    date: '1976'
+    date_end: null
+    location_in_record: 00:26:40.2-00:26:42.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: 86943422-1f48-40f0-8299-df1c98c46bcb
+    claim_hash: b8a7fa412c4a1a9d92dddd3da0324c3a03c5bb02af07deca7b15c4f0e4344ba0
+    content: The 1976 article speculated that if the United States focused on electronic miniaturisation, a soldier would
+      someday be able to wear a backpack weighing approximately 4.5 kilograms and costing $10,000 that would tell him his
+      location on Earth.
+    original_excerpt: if the United States really focused on electronic miniaturization, A soldier would be able to wear a
+      backpack that weighed 10 pounds and cost $10,000. It would tell him where he is on the face of the earth.
+    claim_type: measurement
+    attestation: second_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: document
+      origin: US Air Force magazine article on the U-2 (1976)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1152039f-eae8-4605-aa3c-dd839f17bbc6
+        title: US Air Force magazine article on the U-2 (1976)
+        slug: us-air-force-magazine-article-on-the-u-2-1976
+      - node_id: ee385c79-7b49-4862-b360-c64bf5a098e8
+        title: Global Positioning System (GPS)
+        slug: global-positioning-system-gps
+    date: '1976'
+    date_end: null
+    location_in_record: 00:26:44.7-00:26:55.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: 1e1de70c-4327-47e5-8c31-068f66a2a152
+    claim_hash: 75243d1b81a8e394d592f0b56bc4a80cf60a6b887f304a87df68945afe810a2c
+    content: Modern GPS (Global Positioning System)-enabled devices fit in a pocket, cost a couple of hundred dollars, and
+      also function as a camera.
+    original_excerpt: we have something that does that, that fits in our hip pocket, that costs a couple hundred bucks, but
+      it's also a camera.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: speaker
+      origin: Steve Justice
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ee385c79-7b49-4862-b360-c64bf5a098e8
+        title: Global Positioning System (GPS)
+        slug: global-positioning-system-gps
+    date: null
+    date_end: null
+    location_in_record: 00:26:59.0-00:27:04.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: 1267ecd3-1f40-4e81-83f9-4581626ac991
+    claim_hash: d9fc95778422e83824ee88e3c0fac2c85aede32571d37d63754ead6c2e03f961
+    content: Modern GPS (Global Positioning System) systems can provide verbal turn-by-turn navigation instructions.
+    original_excerpt: that GPS system can also tell you where to go with verbal instructions if you're lost.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: speaker
+      origin: Steve Justice
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ee385c79-7b49-4862-b360-c64bf5a098e8
+        title: Global Positioning System (GPS)
+        slug: global-positioning-system-gps
+    date: null
+    date_end: null
+    location_in_record: 00:27:05.8-00:27:09.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: fe122f77-eea0-47df-9fc7-3dfcaa780e16
+    claim_hash: 43740fe2759b1205ef35167e5bd9a9a1d38b5a0f412a454b7cffc73c218efb70
+    content: An unnamed writer credits a quote attributed to the head of the United States Patent and Trademark Office in
+      a report, stating that humanity is approaching a period when human improvement must end.
+    original_excerpt: This quote that you see up on the screen right now with the Patent Office, the head of the Patent Office
+      in this report says that we're coming upon the arrival of a period when human improvement must end.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: named
+      origin: the head of the United States Patent and Trademark Office
+      relay:
+        - a report quoted on screen
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
+        title: United States Patent and Trademark Office
+        slug: united-states-patent-and-trademark-office
+    date: null
+    date_end: null
+    location_in_record: 00:29:58.7-00:30:10.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: 355268b8-0d0c-4501-acaa-ecbeffc5dd85
+    claim_hash: 31eadf6c93e782f71be70be02df152cd04a660e6ef3372dbc567da9ed8fdf45a
+    content: The team behind To The Stars Academy of Arts and Science includes a prominent aerospace engineer, a senior intelligence
+      officer from the Central Intelligence Agency (CIA), two former senior Pentagon officials, and an experimental physicist
+      from the United States Department of Defense (DoD).
+    original_excerpt: one of the biggest aerospace engineers in the world, a senior intelligence officer from the CIA, two
+      former senior Pentagon officials, and an experimental physicist from the DOD
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
+        title: Jim Semivan
+        slug: jim-semivan
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: 00:37:25.5-00:37:35.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: 2cbb2884-5ce2-4290-9c3b-2a1cee3104df
+    claim_hash: d2f7fb43b338caf7b575ea367926fd909dd3604f3d47fc6936fa32e55c8d8b05
+    content: To the Stars Academy (TTSA) involved Christopher Mellon, Luis Elizondo, Jim Semivan, Steve Justice, and Hal Puthoff.
+    original_excerpt: the people who went ahead and setting up to the STARS Academy, I mean, did involve Chris Mellon, involved
+      Lou Elizondo, Jim Simivan, Steve Justice from, you know, So anyway, and me.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+      title: Harold E. Puthoff
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hal Puthoff
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
+        title: Jim Semivan
+        slug: jim-semivan
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: 00:48:19.7-00:48:35.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null

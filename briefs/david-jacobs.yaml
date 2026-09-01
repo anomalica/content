@@ -1,242 +1,344 @@
 schema: anomalica/brief/1
-brief_hash: 6d638a39ca036d0a98feb160b5944322aa0d8106f1e7e80939739d2f284e5ed3
+brief_hash: 5a25fc1ec13b25935546bff8b1096b9f69aba662c55c56ec2869855a2bbf3e6e
 page:
   kind: entity
   node_id: a6562833-55c1-43a2-ba01-47c66c2d327f
   node_type: person
   title: David Jacobs
   slug: david-jacobs
-  claim_count: 5
-  claim_count_total: 5
+  claim_count: 7
+  claim_count_total: 7
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2290
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
 related_nodes:
-- node_id: 4bd6ea48-e005-44ba-8a8d-d7279c3a730a
-  title: USA, Pennsylvania, Philadelphia, flying disk sighting
-  node_type: event
-  slug: pennsylvania-philadelphia-flying-disk-sighting-usa
-  shared_claims: 3
-- node_id: 3ff75793-423c-4333-8402-d5c543074091
-  title: Bill Chalker
-  node_type: person
-  slug: bill-chalker
-  shared_claims: 1
-- node_id: ee504fb8-15ee-4206-bf0f-204d64fe8f24
-  title: Sally (Budd Hopkins abductee)
-  node_type: person
-  slug: sally-budd-hopkins-abductee
-  shared_claims: 1
-- node_id: 32e5c219-f4a9-4424-b4e1-e35e1698ada6
-  title: Temple University
-  node_type: organisation
-  slug: temple-university
-  shared_claims: 1
-- node_id: 29e71a7d-7bab-459d-b1d5-c7c5f83cb661
-  title: The Threat
-  node_type: document
-  slug: the-threat
-  shared_claims: 1
-- node_id: 6868042d-2525-4808-96f4-d74c1c3522da
-  title: alien-human hybridisation programme
-  node_type: topic
-  slug: alien-human-hybridisation-programme
-  shared_claims: 1
-claims:
-- claim_id: 5dfc7e0a-a448-4d1b-bc1b-838aa7da53fa
-  claim_hash: 7e68464b32ee32521c2bacdaeefe9ea922ea615882ca17039a6e8801a8d4d27c
-  content: Bill Chalker considers that the abductee "Deborah" described in David Jacobs's
-    The Threat (1998), who experiences a strange job interview and lifelong interactions
-    with an alien sadist, may be the same person as "Sally".
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 3ff75793-423c-4333-8402-d5c543074091
-    title: Bill Chalker
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bill Chalker
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 29e71a7d-7bab-459d-b1d5-c7c5f83cb661
-    title: The Threat
-    slug: the-threat
+  - node_id: 4bd6ea48-e005-44ba-8a8d-d7279c3a730a
+    title: USA, Pennsylvania, Philadelphia, flying disk sighting
+    node_type: event
+    slug: pennsylvania-philadelphia-flying-disk-sighting-usa
+    shared_claims: 3
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 2
+  - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
+    title: human-alien hybrid children
+    node_type: topic
+    slug: human-alien-hybrid-children
+    shared_claims: 2
   - node_id: 3ff75793-423c-4333-8402-d5c543074091
     title: Bill Chalker
+    node_type: person
     slug: bill-chalker
-  - node_id: a6562833-55c1-43a2-ba01-47c66c2d327f
-    title: David Jacobs
-    slug: david-jacobs
+    shared_claims: 1
   - node_id: ee504fb8-15ee-4206-bf0f-204d64fe8f24
     title: Sally (Budd Hopkins abductee)
+    node_type: person
     slug: sally-budd-hopkins-abductee
-  date: null
-  date_end: null
-  location_in_record: ch23:20659-20848
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: bd6c1434-6a00-4cda-b307-c22f6f37208b
-  claim_hash: 25b34c2d17f3ebc61386d32f74a5cbe3ccadf9cd2754911375083bd208e52341
-  content: David M. Jacobs of Temple University recounted a story of a woman in Philadelphia
-    who saw a flying disk across the street from her house, which came closer as soon
-    as she looked at it.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: anonymous
-    origin: an unnamed woman in Philadelphia who reported the sighting
-    relay:
-    - David M. Jacobs
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
   - node_id: 32e5c219-f4a9-4424-b4e1-e35e1698ada6
     title: Temple University
+    node_type: organisation
     slug: temple-university
-  - node_id: 4bd6ea48-e005-44ba-8a8d-d7279c3a730a
-    title: USA, Pennsylvania, Philadelphia, flying disk sighting
-    slug: pennsylvania-philadelphia-flying-disk-sighting-usa
-  - node_id: a6562833-55c1-43a2-ba01-47c66c2d327f
-    title: David Jacobs
-    slug: david-jacobs
-  date: null
-  date_end: null
-  location_in_record: ch15:7790-7985
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: f0a9e922-b49c-41a9-8ae3-1d81bc42b178
-  claim_hash: d940b819a2f94b767d08fd384cc21a4a68172bf2fd3966865171fa49ac19ae6a
-  content: In the account recounted by David M. Jacobs, the woman beheld a row of
-    nine windows on the flying disk, with a man holding a cigar motionless in one
-    window and a woman in a flowered dress sitting in a trance in the next.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: anonymous
-    origin: an unnamed woman in Philadelphia who reported the sighting
-    relay:
-    - David M. Jacobs
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4bd6ea48-e005-44ba-8a8d-d7279c3a730a
-    title: USA, Pennsylvania, Philadelphia, flying disk sighting
-    slug: pennsylvania-philadelphia-flying-disk-sighting-usa
-  - node_id: a6562833-55c1-43a2-ba01-47c66c2d327f
-    title: David Jacobs
-    slug: david-jacobs
-  date: null
-  date_end: null
-  location_in_record: ch15:7993-8221
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: fc4048e4-95f4-4c06-afba-1bf86c4c890b
-  claim_hash: 06ebd651225aec76660217fd8977ab6eb1c1484983f75e326852db48d4874c1f
-  content: In the account recounted by David M. Jacobs, three small gray beings came
-    past the windows of the flying disk and conducted the entranced woman from her
-    chair and off down a corridor.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: anonymous
-    origin: an unnamed woman in Philadelphia who reported the sighting
-    relay:
-    - David M. Jacobs
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4bd6ea48-e005-44ba-8a8d-d7279c3a730a
-    title: USA, Pennsylvania, Philadelphia, flying disk sighting
-    slug: pennsylvania-philadelphia-flying-disk-sighting-usa
-  - node_id: a6562833-55c1-43a2-ba01-47c66c2d327f
-    title: David Jacobs
-    slug: david-jacobs
-  date: null
-  date_end: null
-  location_in_record: ch15:8229-8357
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: b0a1e568-9ab8-474b-8c66-7a5ba058f1e9
-  claim_hash: b89f434db33852342decf1cb6dff5df3250d52427a51840c36675d493e98684f
-  content: David Jacobs, through his studies of hypnotic regression, was a firm believer
-    that there were multiple transitional phases, about five, between the human and
-    the human-looking hybrid, the hubrid, which looks identical to a human, with earlier
-    stages being egg-headed, genderless and crude before becoming more human-like.
-  original_excerpt: if you look at David Jacobs' work, which you cite in your book,
-    David was a firm believer through his studies of hypnotic regression that there
-    was a transitional movement there was multiple, I think five transitional phases
-    between the human and the hubrid, which is the human hybrid that looks identical.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-    title: Chris Ramsay
-  provenance_chain: null
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
+  - node_id: 29e71a7d-7bab-459d-b1d5-c7c5f83cb661
+    title: The Threat
+    node_type: document
+    slug: the-threat
+    shared_claims: 1
   - node_id: 6868042d-2525-4808-96f4-d74c1c3522da
     title: alien-human hybridisation programme
+    node_type: topic
     slug: alien-human-hybridisation-programme
-  - node_id: a6562833-55c1-43a2-ba01-47c66c2d327f
-    title: David Jacobs
-    slug: david-jacobs
-  date: null
-  date_end: null
-  location_in_record: 01:39:07.9-01:39:47.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
-    record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik
-      Nanstiel | DEBRIEFED ep. 85'
-    record_date: '2026-04-24'
-    record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
-    content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
-    friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+    shared_claims: 1
+claims:
+  - claim_id: 5dfc7e0a-a448-4d1b-bc1b-838aa7da53fa
+    claim_hash: 7e68464b32ee32521c2bacdaeefe9ea922ea615882ca17039a6e8801a8d4d27c
+    content: Bill Chalker considers that the abductee "Deborah" described in David Jacobs's The Threat (1998), who experiences
+      a strange job interview and lifelong interactions with an alien sadist, may be the same person as "Sally".
+    original_excerpt: The abductee “Deborah” in David Jacob’s book The Threat (1998) pp. 186, 198-202, may also be “Sally.”
+      She experiences a strange “job interview” and has lifelong interactions with an “alien sadist.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 29e71a7d-7bab-459d-b1d5-c7c5f83cb661
+        title: The Threat
+        slug: the-threat
+      - node_id: 3ff75793-423c-4333-8402-d5c543074091
+        title: Bill Chalker
+        slug: bill-chalker
+      - node_id: a6562833-55c1-43a2-ba01-47c66c2d327f
+        title: David Jacobs
+        slug: david-jacobs
+      - node_id: ee504fb8-15ee-4206-bf0f-204d64fe8f24
+        title: Sally (Budd Hopkins abductee)
+        slug: sally-budd-hopkins-abductee
+    date: null
+    date_end: null
+    location_in_record: ch23:20659-20848
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: bd6c1434-6a00-4cda-b307-c22f6f37208b
+    claim_hash: 25b34c2d17f3ebc61386d32f74a5cbe3ccadf9cd2754911375083bd208e52341
+    content: David M. Jacobs of Temple University recounted a story of a woman in Philadelphia who saw a flying disk across
+      the street from her house, which came closer as soon as she looked at it.
+    original_excerpt: Dr. David M. Jacobs of Temple University recounts a fascinating story of a woman in Philadelphia who
+      once saw a flying disk across the street from her house. As soon as she looked at it, it came closer.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed woman in Philadelphia who reported the sighting
+      relay:
+        - David M. Jacobs
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32e5c219-f4a9-4424-b4e1-e35e1698ada6
+        title: Temple University
+        slug: temple-university
+      - node_id: 4bd6ea48-e005-44ba-8a8d-d7279c3a730a
+        title: USA, Pennsylvania, Philadelphia, flying disk sighting
+        slug: pennsylvania-philadelphia-flying-disk-sighting-usa
+      - node_id: a6562833-55c1-43a2-ba01-47c66c2d327f
+        title: David Jacobs
+        slug: david-jacobs
+    date: null
+    date_end: null
+    location_in_record: ch15:7790-7985
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: f0a9e922-b49c-41a9-8ae3-1d81bc42b178
+    claim_hash: d940b819a2f94b767d08fd384cc21a4a68172bf2fd3966865171fa49ac19ae6a
+    content: In the account recounted by David M. Jacobs, the woman beheld a row of nine windows on the flying disk, with
+      a man holding a cigar motionless in one window and a woman in a flowered dress sitting in a trance in the next.
+    original_excerpt: She beheld a row of nine windows. In one window stood a man with a cigar in his mouth, staring out.
+      He was as motionless as a statue. The next window revealed a woman in a flowered dress sitting in a chair, also in some
+      sort of trance.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed woman in Philadelphia who reported the sighting
+      relay:
+        - David M. Jacobs
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4bd6ea48-e005-44ba-8a8d-d7279c3a730a
+        title: USA, Pennsylvania, Philadelphia, flying disk sighting
+        slug: pennsylvania-philadelphia-flying-disk-sighting-usa
+      - node_id: a6562833-55c1-43a2-ba01-47c66c2d327f
+        title: David Jacobs
+        slug: david-jacobs
+    date: null
+    date_end: null
+    location_in_record: ch15:7993-8221
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: fc4048e4-95f4-4c06-afba-1bf86c4c890b
+    claim_hash: 06ebd651225aec76660217fd8977ab6eb1c1484983f75e326852db48d4874c1f
+    content: In the account recounted by David M. Jacobs, three small gray beings came past the windows of the flying disk
+      and conducted the entranced woman from her chair and off down a corridor.
+    original_excerpt: Three of the small gray beings then came past the other windows and conducted the entranced woman from
+      the chair and off down a corridor.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed woman in Philadelphia who reported the sighting
+      relay:
+        - David M. Jacobs
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4bd6ea48-e005-44ba-8a8d-d7279c3a730a
+        title: USA, Pennsylvania, Philadelphia, flying disk sighting
+        slug: pennsylvania-philadelphia-flying-disk-sighting-usa
+      - node_id: a6562833-55c1-43a2-ba01-47c66c2d327f
+        title: David Jacobs
+        slug: david-jacobs
+    date: null
+    date_end: null
+    location_in_record: ch15:8229-8357
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: b0a1e568-9ab8-474b-8c66-7a5ba058f1e9
+    claim_hash: b89f434db33852342decf1cb6dff5df3250d52427a51840c36675d493e98684f
+    content: David Jacobs, through his studies of hypnotic regression, was a firm believer that there were multiple transitional
+      phases, about five, between the human and the human-looking hybrid, the hubrid, which looks identical to a human, with
+      earlier stages being egg-headed, genderless and crude before becoming more human-like.
+    original_excerpt: if you look at David Jacobs' work, which you cite in your book, David was a firm believer through his
+      studies of hypnotic regression that there was a transitional movement there was multiple, I think five transitional
+      phases between the human and the hubrid, which is the human hybrid that looks identical.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6868042d-2525-4808-96f4-d74c1c3522da
+        title: alien-human hybridisation programme
+        slug: alien-human-hybridisation-programme
+      - node_id: a6562833-55c1-43a2-ba01-47c66c2d327f
+        title: David Jacobs
+        slug: david-jacobs
+    date: null
+    date_end: null
+    location_in_record: 01:39:07.9-01:39:47.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+      record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel | DEBRIEFED ep. 85'
+      record_date: '2026-04-24'
+      record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+      content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+      friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+  - claim_id: f62a2198-fa5e-4f58-96cd-5523b986cf0a
+    claim_hash: ac4efd68fad1fa52da330cf8ec87ad85c1942daa0ac699a7f9e17fe8ac4f0305
+    content: David Jacobs described a five-stage evolution of alien hybrids, stages one to five, in which each stage appears
+      progressively more human.
+    original_excerpt: David Jacobs, you know, obviously would look into this a lot and he had a whole, uh, sort of evolution
+      going from, he had five stages, stage one, hybrid two, three, four, five ... as it would go on, you would see, you know,
+      the change get more and more human.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: David Jacobs
+      relay:
+        - David Jacobs's research as described by Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: a6562833-55c1-43a2-ba01-47c66c2d327f
+        title: David Jacobs
+        slug: david-jacobs
+      - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
+        title: human-alien hybrid children
+        slug: human-alien-hybrid-children
+    date: null
+    date_end: null
+    location_in_record: 02:11:39.7-02:12:02.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 221507bf-6206-405e-a748-eab2ef9af896
+    claim_hash: b354a3235191b9dae722aaeed235725b7f698dc9c57369d9388fe2b907bf3ba4
+    content: David Jacobs called the fifth stage of hybrid the hubrid, which was indistinguishable from a human.
+    original_excerpt: and the five, he would call the hubrid, which was, uh, indistinguishable
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: David Jacobs
+      relay:
+        - David Jacobs's research as described by Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: a6562833-55c1-43a2-ba01-47c66c2d327f
+        title: David Jacobs
+        slug: david-jacobs
+      - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
+        title: human-alien hybrid children
+        slug: human-alien-hybrid-children
+    date: null
+    date_end: null
+    location_in_record: 02:11:52.2-02:11:54.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null

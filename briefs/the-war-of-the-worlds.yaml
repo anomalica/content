@@ -9,322 +9,336 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1869
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
 related_nodes:
-- node_id: 3b1ebc48-28cf-4c0c-8703-416d0b71f224
-  title: Orson Welles
-  node_type: person
-  slug: orson-welles
-  shared_claims: 3
-- node_id: 1ac588a8-ab7b-44be-bfb6-d1942f1d4de6
-  title: H. G. Wells
-  node_type: person
-  slug: h-g-wells
-  shared_claims: 2
-- node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-  title: Annie Jacobsen
-  node_type: person
-  slug: annie-jacobsen
-  shared_claims: 1
-- node_id: 0ebef494-7138-409f-8759-58961e45979e
-  title: Area 51 (Annie Jacobsen book)
-  node_type: document
-  slug: area-51-annie-jacobsen-book
-  shared_claims: 1
-- node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
-  title: Close Encounters of the Third Kind (1977 film)
-  node_type: document
-  slug: close-encounters-of-the-third-kind-1977-film
-  shared_claims: 1
-- node_id: 8b7c5c94-edc4-4380-b49b-de4c9ecddc6a
-  title: Colares Incidents
-  node_type: event
-  slug: colares-incidents
-  shared_claims: 1
-- node_id: f4841a52-2478-4a33-bdcf-25da0e0d8f7f
-  title: E.T. the Extra-Terrestrial (1982 film)
-  node_type: document
-  slug: et-the-extra-terrestrial-1982-film
-  shared_claims: 1
-- node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
-  title: Joseph Stalin
-  node_type: person
-  slug: joseph-stalin
-  shared_claims: 1
-- node_id: af9aeb57-f7bd-4b2f-8add-3e173d217a43
-  title: Paulo Roberto Yog de Miranda Uchôa
-  node_type: person
-  slug: paulo-roberto-yog-de-miranda-uchoa
-  shared_claims: 1
-- node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
-  title: Sean Chittle
-  node_type: person
-  slug: sean-chittle
-  shared_claims: 1
-- node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
-  title: Steven Spielberg
-  node_type: person
-  slug: steven-spielberg
-  shared_claims: 1
-- node_id: f6a33fb2-13dd-4409-9815-d4d186c4dfdf
-  title: Super 8
-  node_type: document
-  slug: super-8
-  shared_claims: 1
-- node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-  title: USA, New Mexico, Roswell
-  node_type: place
-  slug: new-mexico-roswell-usa
-  shared_claims: 1
-- node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-  title: grey aliens
-  node_type: topic
-  slug: grey-aliens
-  shared_claims: 1
-claims:
-- claim_id: 1afaeda5-e619-46d5-a742-917a46fd2196
-  claim_hash: a1a4fc038f2d13326810ac9d321f0b136a05dc077098c20e3b23b50677b97133
-  content: According to Annie Jacobsen's book, Joseph Stalin intended the Roswell
-    craft to land in New Mexico and cause a War of the Worlds-style panic.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Annie Jacobsen's Area 51 book
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0ebef494-7138-409f-8759-58961e45979e
-    title: Area 51 (Annie Jacobsen book)
-    slug: area-51-annie-jacobsen-book
-  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-    title: USA, New Mexico, Roswell
-    slug: new-mexico-roswell-usa
+  - node_id: 3b1ebc48-28cf-4c0c-8703-416d0b71f224
+    title: Orson Welles
+    node_type: person
+    slug: orson-welles
+    shared_claims: 3
+  - node_id: 1ac588a8-ab7b-44be-bfb6-d1942f1d4de6
+    title: H. G. Wells
+    node_type: person
+    slug: h-g-wells
+    shared_claims: 2
   - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
     title: Annie Jacobsen
+    node_type: person
     slug: annie-jacobsen
-  - node_id: a17397f1-2702-420a-9578-584220463893
-    title: The War of the Worlds
-    slug: the-war-of-the-worlds
-  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
-    title: Joseph Stalin
-    slug: joseph-stalin
-  date: '1947'
-  date_end: null
-  location_in_record: ch18:2655-2759
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 52069619-5da9-45fa-85a4-8f49a9b4b5a3
-  claim_hash: 0d41157450df018258cd354aaa3a088c214b9a409dee13b2e426f77c113e6402
-  content: Orson Welles's 1938 radio broadcast of The War of the Worlds sparked alarm
-    among some listeners who thought an alien invasion was actually underway.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3b1ebc48-28cf-4c0c-8703-416d0b71f224
-    title: Orson Welles
-    slug: orson-welles
-  - node_id: a17397f1-2702-420a-9578-584220463893
-    title: The War of the Worlds
-    slug: the-war-of-the-worlds
-  date: '1938'
-  date_end: null
-  location_in_record: ch7:1901-2086
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 61043ea2-1d2b-4235-90a1-dd2ae2412be8
-  claim_hash: f2b58b056244aa770dbe17cbfa2eb7bbaebc2b1c2ad9cc41ca5f8f9723cf49ae
-  content: In 1938, Orson Welles broadcast a radio adaptation from New York of H.
-    G. Wells's 1897 novel The War of the Worlds.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1ac588a8-ab7b-44be-bfb6-d1942f1d4de6
-    title: H. G. Wells
-    slug: h-g-wells
-  - node_id: 3b1ebc48-28cf-4c0c-8703-416d0b71f224
-    title: Orson Welles
-    slug: orson-welles
-  - node_id: a17397f1-2702-420a-9578-584220463893
-    title: The War of the Worlds
-    slug: the-war-of-the-worlds
-  date: '1938'
-  date_end: null
-  location_in_record: ch7:1901-2086
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: fbd29b76-4033-4d46-b4da-7914c1798752
-  claim_hash: 48eda979ac5e3c7b2625248fffb1f1558957931b983b7cc9c7b482706f32730e
-  content: Recent research suggests the popular belief that Orson Welles's radio broadcast
-    of The War of the Worlds caused a mass national panic was exaggerated, and the
-    panic narrative was whipped up after the broadcast by a rival media 'beat-up'.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration citing recent research
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3b1ebc48-28cf-4c0c-8703-416d0b71f224
-    title: Orson Welles
-    slug: orson-welles
-  - node_id: a17397f1-2702-420a-9578-584220463893
-    title: The War of the Worlds
-    slug: the-war-of-the-worlds
-  date: null
-  date_end: null
-  location_in_record: ch7:2096-2341
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 76c212b5-b4cb-43f0-a5b1-fadffd8cecb4
-  claim_hash: 361a794cf2849f1da530928252be7098dd75475c15c800fdb365888ec2a8b520
-  content: Paulo Roberto Yog de Miranda Uchôa's description of the Colares Incidents
-    was not consistent with any known Soviet strategy or capability, and was closer
-    to H. G. Wells's War of the Worlds, an airborne alien invasion.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1ac588a8-ab7b-44be-bfb6-d1942f1d4de6
-    title: H. G. Wells
-    slug: h-g-wells
-  - node_id: 8b7c5c94-edc4-4380-b49b-de4c9ecddc6a
-    title: Colares Incidents
-    slug: colares-incidents
-  - node_id: a17397f1-2702-420a-9578-584220463893
-    title: The War of the Worlds
-    slug: the-war-of-the-worlds
-  - node_id: af9aeb57-f7bd-4b2f-8add-3e173d217a43
-    title: Paulo Roberto Yog de Miranda Uchôa
-    slug: paulo-roberto-yog-de-miranda-uchoa
-  date: null
-  date_end: null
-  location_in_record: ch10:9777-9947
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 0abfa22f-c3b6-46b1-95ff-d4170e4d2702
-  claim_hash: 6d9c3e8461901973ba1af45f18037a761f8aa064ab6c1e0695b2c053f9090aab
-  content: Sean Chittle said Steven Spielberg used the Grey alien depiction in E.T.
-    the Extra-Terrestrial and Close Encounters of the Third Kind, and deviated from
-    it somewhat in War of the Worlds and Super 8.
-  original_excerpt: he'd used that version in E.T., Close Encounters, War of the Worlds
-    and Super 8. Oh, no, deviated from it a bit with War of the Worlds and Super 8.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: named
-    origin: Sean Chittle
-    relay:
-    - Ross Coulthart
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
+  - node_id: 0ebef494-7138-409f-8759-58961e45979e
+    title: Area 51 (Annie Jacobsen book)
+    node_type: document
+    slug: area-51-annie-jacobsen-book
+    shared_claims: 1
   - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
     title: Close Encounters of the Third Kind (1977 film)
+    node_type: document
     slug: close-encounters-of-the-third-kind-1977-film
-  - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-    title: grey aliens
-    slug: grey-aliens
-  - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
-    title: Steven Spielberg
-    slug: steven-spielberg
-  - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
-    title: Sean Chittle
-    slug: sean-chittle
-  - node_id: a17397f1-2702-420a-9578-584220463893
-    title: The War of the Worlds
-    slug: the-war-of-the-worlds
+    shared_claims: 1
+  - node_id: 8b7c5c94-edc4-4380-b49b-de4c9ecddc6a
+    title: Colares Incidents
+    node_type: event
+    slug: colares-incidents
+    shared_claims: 1
   - node_id: f4841a52-2478-4a33-bdcf-25da0e0d8f7f
     title: E.T. the Extra-Terrestrial (1982 film)
+    node_type: document
     slug: et-the-extra-terrestrial-1982-film
+    shared_claims: 1
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    node_type: person
+    slug: joseph-stalin
+    shared_claims: 1
+  - node_id: af9aeb57-f7bd-4b2f-8add-3e173d217a43
+    title: Paulo Roberto Yog de Miranda Uchôa
+    node_type: person
+    slug: paulo-roberto-yog-de-miranda-uchoa
+    shared_claims: 1
+  - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
+    title: Sean Chittle
+    node_type: person
+    slug: sean-chittle
+    shared_claims: 1
+  - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
+    title: Steven Spielberg
+    node_type: person
+    slug: steven-spielberg
+    shared_claims: 1
   - node_id: f6a33fb2-13dd-4409-9815-d4d186c4dfdf
     title: Super 8
+    node_type: document
     slug: super-8
-  date: null
-  date_end: null
-  location_in_record: 00:12:20.2-00:12:28.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
-    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
-    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    node_type: place
+    slug: new-mexico-roswell-usa
+    shared_claims: 1
+  - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
+    title: grey aliens
+    node_type: topic
+    slug: grey-aliens
+    shared_claims: 1
+claims:
+  - claim_id: 1afaeda5-e619-46d5-a742-917a46fd2196
+    claim_hash: a1a4fc038f2d13326810ac9d321f0b136a05dc077098c20e3b23b50677b97133
+    content: According to Annie Jacobsen's book, Joseph Stalin intended the Roswell craft to land in New Mexico and cause
+      a War of the Worlds-style panic.
+    original_excerpt: Joseph Stalin supposedly intended the craft to land at New Mexico and cause a War of the Worlds-style
+      panic.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Annie Jacobsen's Area 51 book
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ebef494-7138-409f-8759-58961e45979e
+        title: Area 51 (Annie Jacobsen book)
+        slug: area-51-annie-jacobsen-book
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+      - node_id: a17397f1-2702-420a-9578-584220463893
+        title: The War of the Worlds
+        slug: the-war-of-the-worlds
+      - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+        title: Joseph Stalin
+        slug: joseph-stalin
+    date: '1947'
+    date_end: null
+    location_in_record: ch18:2655-2759
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 52069619-5da9-45fa-85a4-8f49a9b4b5a3
+    claim_hash: 0d41157450df018258cd354aaa3a088c214b9a409dee13b2e426f77c113e6402
+    content: Orson Welles's 1938 radio broadcast of The War of the Worlds sparked alarm among some listeners who thought an
+      alien invasion was actually underway.
+    original_excerpt: In 1938, Orson Welles’ radio adaption from New York of HG Wells’ 1897 novel The War of the Worlds sparked
+      alarm among some of his audience, who thought an alien invasion was actually underway.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3b1ebc48-28cf-4c0c-8703-416d0b71f224
+        title: Orson Welles
+        slug: orson-welles
+      - node_id: a17397f1-2702-420a-9578-584220463893
+        title: The War of the Worlds
+        slug: the-war-of-the-worlds
+    date: '1938'
+    date_end: null
+    location_in_record: ch7:1901-2086
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 61043ea2-1d2b-4235-90a1-dd2ae2412be8
+    claim_hash: f2b58b056244aa770dbe17cbfa2eb7bbaebc2b1c2ad9cc41ca5f8f9723cf49ae
+    content: In 1938, Orson Welles broadcast a radio adaptation from New York of H. G. Wells's 1897 novel The War of the Worlds.
+    original_excerpt: In 1938, Orson Welles’ radio adaption from New York of HG Wells’ 1897 novel The War of the Worlds sparked
+      alarm among some of his audience, who thought an alien invasion was actually underway.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1ac588a8-ab7b-44be-bfb6-d1942f1d4de6
+        title: H. G. Wells
+        slug: h-g-wells
+      - node_id: 3b1ebc48-28cf-4c0c-8703-416d0b71f224
+        title: Orson Welles
+        slug: orson-welles
+      - node_id: a17397f1-2702-420a-9578-584220463893
+        title: The War of the Worlds
+        slug: the-war-of-the-worlds
+    date: '1938'
+    date_end: null
+    location_in_record: ch7:1901-2086
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: fbd29b76-4033-4d46-b4da-7914c1798752
+    claim_hash: 48eda979ac5e3c7b2625248fffb1f1558957931b983b7cc9c7b482706f32730e
+    content: Recent research suggests the popular belief that Orson Welles's radio broadcast of The War of the Worlds caused
+      a mass national panic was exaggerated, and the panic narrative was whipped up after the broadcast by a rival media 'beat-up'.
+    original_excerpt: It has become a popular myth that Wells’ radio show caused a mass national panic about an alien invasion,
+      but recent research suggests this was exaggerated; it was whipped up after the broadcast by what would today be called
+      a rival media ‘beat-up’.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration citing recent research
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3b1ebc48-28cf-4c0c-8703-416d0b71f224
+        title: Orson Welles
+        slug: orson-welles
+      - node_id: a17397f1-2702-420a-9578-584220463893
+        title: The War of the Worlds
+        slug: the-war-of-the-worlds
+    date: null
+    date_end: null
+    location_in_record: ch7:2096-2341
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 76c212b5-b4cb-43f0-a5b1-fadffd8cecb4
+    claim_hash: 361a794cf2849f1da530928252be7098dd75475c15c800fdb365888ec2a8b520
+    content: Paulo Roberto Yog de Miranda Uchôa's description of the Colares Incidents was not consistent with any known Soviet
+      strategy or capability, and was closer to H. G. Wells's War of the Worlds, an airborne alien invasion.
+    original_excerpt: But what Uchôa described was not consistent with any known Soviet strategy or capability. His scenario
+      was closer to H. G. Wells’s *War of the Worlds*. An airborne alien invasion.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1ac588a8-ab7b-44be-bfb6-d1942f1d4de6
+        title: H. G. Wells
+        slug: h-g-wells
+      - node_id: 8b7c5c94-edc4-4380-b49b-de4c9ecddc6a
+        title: Colares Incidents
+        slug: colares-incidents
+      - node_id: a17397f1-2702-420a-9578-584220463893
+        title: The War of the Worlds
+        slug: the-war-of-the-worlds
+      - node_id: af9aeb57-f7bd-4b2f-8add-3e173d217a43
+        title: Paulo Roberto Yog de Miranda Uchôa
+        slug: paulo-roberto-yog-de-miranda-uchoa
+    date: null
+    date_end: null
+    location_in_record: ch10:9777-9947
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 0abfa22f-c3b6-46b1-95ff-d4170e4d2702
+    claim_hash: 6d9c3e8461901973ba1af45f18037a761f8aa064ab6c1e0695b2c053f9090aab
+    content: Sean Chittle said Steven Spielberg used the Grey alien depiction in E.T. the Extra-Terrestrial and Close Encounters
+      of the Third Kind, and deviated from it somewhat in War of the Worlds and Super 8.
+    original_excerpt: he'd used that version in E.T., Close Encounters, War of the Worlds and Super 8. Oh, no, deviated from
+      it a bit with War of the Worlds and Super 8.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Sean Chittle
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+        title: Close Encounters of the Third Kind (1977 film)
+        slug: close-encounters-of-the-third-kind-1977-film
+      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
+        title: grey aliens
+        slug: grey-aliens
+      - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
+        title: Steven Spielberg
+        slug: steven-spielberg
+      - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
+        title: Sean Chittle
+        slug: sean-chittle
+      - node_id: a17397f1-2702-420a-9578-584220463893
+        title: The War of the Worlds
+        slug: the-war-of-the-worlds
+      - node_id: f4841a52-2478-4a33-bdcf-25da0e0d8f7f
+        title: E.T. the Extra-Terrestrial (1982 film)
+        slug: et-the-extra-terrestrial-1982-film
+      - node_id: f6a33fb2-13dd-4409-9815-d4d186c4dfdf
+        title: Super 8
+        slug: super-8
+    date: null
+    date_end: null
+    location_in_record: 00:12:20.2-00:12:28.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+      record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+      content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null

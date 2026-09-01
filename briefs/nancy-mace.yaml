@@ -9,345 +9,346 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1581
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
 related_nodes:
-- node_id: a818643c-d43f-4cc2-b79b-13a87ecf6700
-  title: Andy Biggs
-  node_type: person
-  slug: andy-biggs
-  shared_claims: 1
-- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-  title: David Charles Grusch
-  node_type: person
-  slug: david-charles-grusch
-  shared_claims: 1
-- node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
-  title: Glenn Grothman
-  node_type: person
-  slug: glenn-grothman
-  shared_claims: 1
-- node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
-  title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
-  node_type: event
-  slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
-  shared_claims: 1
-- node_id: 0796e825-bdb0-45f9-85f2-a9c7b2858e4b
-  title: Jake LaTurner
-  node_type: person
-  slug: jake-laturner
-  shared_claims: 1
-- node_id: d9d1a305-5d69-4cc4-b7ef-bb743ba9d8be
-  title: Jared Moskowitz
-  node_type: person
-  slug: jared-moskowitz
-  shared_claims: 1
-- node_id: dde33cfe-13f9-438c-ab59-15af1ef1b09e
-  title: Kelly Armstrong
-  node_type: person
-  slug: kelly-armstrong
-  shared_claims: 1
-- node_id: a780b830-629b-42fd-9a3c-83da9eea0e78
-  title: Maxwell Frost
-  node_type: person
-  slug: maxwell-frost
-  shared_claims: 1
-- node_id: 516cc520-b1f2-41de-a248-b7b4376bfa6e
-  title: November 13, 2024 congressional hearing on Unidentified Aerial Phenomena
-    (UAP)
-  node_type: event
-  slug: 2024-congressional-hearing-on-unidentified-aerial-phenomena-uap-november-13
-  shared_claims: 1
-- node_id: b1b4c0bd-c5ed-4863-825a-40b2fba4f593
-  title: Paul Gosar
-  node_type: person
-  slug: paul-gosar
-  shared_claims: 1
-- node_id: 2ea8a994-f59e-4d84-a098-3ea2795019e7
-  title: Pete Sessions
-  node_type: person
-  slug: pete-sessions
-  shared_claims: 1
-- node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
-  title: Reverse engineering of recovered craft of non-human origin
-  node_type: topic
-  slug: reverse-engineering-of-recovered-craft-of-non-human-origin
-  shared_claims: 1
-- node_id: 80d1049c-74b9-4e21-93bb-6e0eb933a52b
-  title: Robert Garcia
-  node_type: person
-  slug: robert-garcia
-  shared_claims: 1
-- node_id: 5b40eefa-1cb5-4855-bf31-011790cb95cc
-  title: Scott Perry
-  node_type: person
-  slug: scott-perry
-  shared_claims: 1
-- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-  title: United States Congress
-  node_type: organisation
-  slug: united-states-congress
-  shared_claims: 1
-- node_id: 1e8837b6-9c9c-4c7e-a704-b9e010436e13
-  title: Virginia Foxx
-  node_type: person
-  slug: virginia-foxx
-  shared_claims: 1
-claims:
-- claim_id: 8dfe1861-47bd-4943-878f-e8c0f2bf07b8
-  claim_hash: 172056f710b0cf11e9737c694b8a7402c1f58f0a8e6294efcd9779c2aabbc446
-  content: Earlier in 2023, a Chinese spy balloon was shot down off the coast of South
-    Carolina.
-  original_excerpt: Earlier this year a Chinese spy balloon was shot down off the
-    coast of my home state of South Carolina.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
-    title: Nancy Mace
-  provenance_chain:
-    origin_kind: speaker
-    origin: Nancy Mace
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
-    title: USA, South Carolina
-    slug: south-carolina-usa
-  - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
-    title: 2023 Chinese spy balloon incident
-    slug: 2023-chinese-spy-balloon-incident
-  date: '2023'
-  date_end: null
-  location_in_record: char:116821-116915
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 25728181-1383-48ea-bf18-76249d7e9ddb
-  claim_hash: 8e96b620dd3801e1640eff742ad56ceddcfe9fcf580a48c1e198d45c3904a980
-  content: It took over 15 years for footage of David Fravor's Tic Tac object encounter
-    to be declassified.
-  original_excerpt: It took over 15 years for your encounter with the Tic Tac to be
-    declassified.
-  claim_type: administrative
-  attestation: null
-  speaker:
-    node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
-    title: Nancy Mace
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
-    title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous
-      Phenomena (UAP) encounter
-    slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: char:119283-119347
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: c1ae0c39-9b6c-4d58-87a7-74c6dea9224e
-  claim_hash: 15ae22a53e94f5cbc0859efb8a0b67349da9d255e95c34fec2d8380879ac24c2
-  content: Representatives Grothman, Gosar, Foxx, Sessions, Biggs, Mace, LaTurner,
-    Armstrong, Perry, Garcia, Moskowitz, and Frost were present as members at the
-    2023-07-26 House hearing on Unidentified Anomalous Phenomena.
-  original_excerpt: 'Present: Representatives Grothman, Gosar, Foxx, Sessions, Biggs,
-    Mace, LaTurner, Armstrong, Perry, Garcia, Moskowitz, and Frost.'
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: the printed hearing volume
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0796e825-bdb0-45f9-85f2-a9c7b2858e4b
-    title: Jake LaTurner
-    slug: jake-laturner
-  - node_id: 1e8837b6-9c9c-4c7e-a704-b9e010436e13
-    title: Virginia Foxx
-    slug: virginia-foxx
-  - node_id: 2ea8a994-f59e-4d84-a098-3ea2795019e7
-    title: Pete Sessions
-    slug: pete-sessions
-  - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
-    title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
-    slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
-  - node_id: 5b40eefa-1cb5-4855-bf31-011790cb95cc
-    title: Scott Perry
-    slug: scott-perry
-  - node_id: 80d1049c-74b9-4e21-93bb-6e0eb933a52b
-    title: Robert Garcia
-    slug: robert-garcia
-  - node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
-    title: Glenn Grothman
-    slug: glenn-grothman
-  - node_id: a780b830-629b-42fd-9a3c-83da9eea0e78
-    title: Maxwell Frost
-    slug: maxwell-frost
   - node_id: a818643c-d43f-4cc2-b79b-13a87ecf6700
     title: Andy Biggs
+    node_type: person
     slug: andy-biggs
-  - node_id: b1b4c0bd-c5ed-4863-825a-40b2fba4f593
-    title: Paul Gosar
-    slug: paul-gosar
-  - node_id: d9d1a305-5d69-4cc4-b7ef-bb743ba9d8be
-    title: Jared Moskowitz
-    slug: jared-moskowitz
-  - node_id: dde33cfe-13f9-438c-ab59-15af1ef1b09e
-    title: Kelly Armstrong
-    slug: kelly-armstrong
-  - node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
-    title: Nancy Mace
-    slug: nancy-mace
-  date: '2023-07-26'
-  date_end: null
-  location_in_record: char:4964-5077
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 2ed7f366-cafb-4b10-97f3-9343825ac66d
-  claim_hash: 9408390edf44431063c084643350c44206c63c0b4f1c95043227378739bba9f0
-  content: Nancy Mace is poised to lead the next congressional UAP hearing in September
-    2024.
-  original_excerpt: Representative Nancy Mace is poised to lead the next congressional
-    UAP hearing this September.
-  claim_type: administrative
-  attestation: null
-  speaker:
-    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-    title: Chris Ramsay
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-    title: United States Congress
-    slug: united-states-congress
-  - node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
-    title: Nancy Mace
-    slug: nancy-mace
-  date: 2024-09
-  date_end: null
-  location_in_record: 00:02:53.2-00:02:58.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: cba0d55b-adea-411f-9937-fa491d3a2c35
-    record_title: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
-    record_date: '2024-09-13'
-    record_reference: https://www.youtube.com/watch?v=YtfMhIbdc98
-    content_hash: sha256:64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff45095cfc
-    friendly_name: null
-- claim_id: efc9603d-ea63-4b2d-a42e-a43bb097f555
-  claim_hash: f6aa7b239505439ef20687d3555d04e06ba9a6c8f04f8fb00fc34bc5213010e9
-  content: Nancy Mace will lead the congressional hearing on UAP scheduled for November
-    13, 2024.
-  original_excerpt: So Nancy Mace will be leading the congressional hearing on UAPs
-    November 13th.
-  claim_type: administrative
-  attestation: null
-  speaker:
-    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-    title: Chris Ramsay
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 516cc520-b1f2-41de-a248-b7b4376bfa6e
-    title: November 13, 2024 congressional hearing on Unidentified Aerial Phenomena
-      (UAP)
-    slug: 2024-congressional-hearing-on-unidentified-aerial-phenomena-uap-november-13
-  - node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
-    title: Nancy Mace
-    slug: nancy-mace
-  date: '2024-11-13'
-  date_end: null
-  location_in_record: 00:15:50.9-00:15:54.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
-    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
-      ep. 10
-    record_date: '2024-10-18'
-    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
-    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
-    friendly_name: null
-- claim_id: 3c4781a9-5026-479d-93b1-35651070ae3b
-  claim_hash: 0575f3758885c8ef8e1524fc2465a0c5370460cce7d6cbd8f723482dbd564125
-  content: The audiovisual evidence shown to David Grusch also depicted some of the
-    dead cadavers recovered alongside the craft, which he referred to as the pilots
-    in his interview with Nancy Mace.
-  original_excerpt: some of the dead cadavers that were recovered, you know, call
-    it the pilots, as I said in my interview with Nancy Mace.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
-    title: Reverse engineering of recovered craft of non-human origin
-    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+    shared_claims: 1
   - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
     title: David Charles Grusch
+    node_type: person
     slug: david-charles-grusch
-  - node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
-    title: Nancy Mace
-    slug: nancy-mace
-  date: null
-  date_end: null
-  location_in_record: 00:25:40.0-00:25:46.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
-    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-    record_date: '2026-08-13'
-    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
-    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Glenn Grothman
+    node_type: person
+    slug: glenn-grothman
+    shared_claims: 1
+  - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+    title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+    node_type: event
+    slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+    shared_claims: 1
+  - node_id: 0796e825-bdb0-45f9-85f2-a9c7b2858e4b
+    title: Jake LaTurner
+    node_type: person
+    slug: jake-laturner
+    shared_claims: 1
+  - node_id: d9d1a305-5d69-4cc4-b7ef-bb743ba9d8be
+    title: Jared Moskowitz
+    node_type: person
+    slug: jared-moskowitz
+    shared_claims: 1
+  - node_id: dde33cfe-13f9-438c-ab59-15af1ef1b09e
+    title: Kelly Armstrong
+    node_type: person
+    slug: kelly-armstrong
+    shared_claims: 1
+  - node_id: a780b830-629b-42fd-9a3c-83da9eea0e78
+    title: Maxwell Frost
+    node_type: person
+    slug: maxwell-frost
+    shared_claims: 1
+  - node_id: 516cc520-b1f2-41de-a248-b7b4376bfa6e
+    title: November 13, 2024 congressional hearing on Unidentified Aerial Phenomena (UAP)
+    node_type: event
+    slug: 2024-congressional-hearing-on-unidentified-aerial-phenomena-uap-november-13
+    shared_claims: 1
+  - node_id: b1b4c0bd-c5ed-4863-825a-40b2fba4f593
+    title: Paul Gosar
+    node_type: person
+    slug: paul-gosar
+    shared_claims: 1
+  - node_id: 2ea8a994-f59e-4d84-a098-3ea2795019e7
+    title: Pete Sessions
+    node_type: person
+    slug: pete-sessions
+    shared_claims: 1
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    node_type: topic
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+    shared_claims: 1
+  - node_id: 80d1049c-74b9-4e21-93bb-6e0eb933a52b
+    title: Robert Garcia
+    node_type: person
+    slug: robert-garcia
+    shared_claims: 1
+  - node_id: 5b40eefa-1cb5-4855-bf31-011790cb95cc
+    title: Scott Perry
+    node_type: person
+    slug: scott-perry
+    shared_claims: 1
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 1
+  - node_id: 1e8837b6-9c9c-4c7e-a704-b9e010436e13
+    title: Virginia Foxx
+    node_type: person
+    slug: virginia-foxx
+    shared_claims: 1
+claims:
+  - claim_id: 8dfe1861-47bd-4943-878f-e8c0f2bf07b8
+    claim_hash: 172056f710b0cf11e9737c694b8a7402c1f58f0a8e6294efcd9779c2aabbc446
+    content: Earlier in 2023, a Chinese spy balloon was shot down off the coast of South Carolina.
+    original_excerpt: Earlier this year a Chinese spy balloon was shot down off the coast of my home state of South Carolina.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
+      title: Nancy Mace
+    provenance_chain:
+      origin_kind: speaker
+      origin: Nancy Mace
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+        title: USA, South Carolina
+        slug: south-carolina-usa
+      - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
+        title: 2023 Chinese spy balloon incident
+        slug: 2023-chinese-spy-balloon-incident
+    date: '2023'
+    date_end: null
+    location_in_record: char:116821-116915
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 25728181-1383-48ea-bf18-76249d7e9ddb
+    claim_hash: 8e96b620dd3801e1640eff742ad56ceddcfe9fcf580a48c1e198d45c3904a980
+    content: It took over 15 years for footage of David Fravor's Tic Tac object encounter to be declassified.
+    original_excerpt: It took over 15 years for your encounter with the Tic Tac to be declassified.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
+      title: Nancy Mace
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
+        title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) encounter
+        slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: char:119283-119347
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: c1ae0c39-9b6c-4d58-87a7-74c6dea9224e
+    claim_hash: 15ae22a53e94f5cbc0859efb8a0b67349da9d255e95c34fec2d8380879ac24c2
+    content: Representatives Grothman, Gosar, Foxx, Sessions, Biggs, Mace, LaTurner, Armstrong, Perry, Garcia, Moskowitz,
+      and Frost were present as members at the 2023-07-26 House hearing on Unidentified Anomalous Phenomena.
+    original_excerpt: 'Present: Representatives Grothman, Gosar, Foxx, Sessions, Biggs, Mace, LaTurner, Armstrong, Perry,
+      Garcia, Moskowitz, and Frost.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: the printed hearing volume
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0796e825-bdb0-45f9-85f2-a9c7b2858e4b
+        title: Jake LaTurner
+        slug: jake-laturner
+      - node_id: 1e8837b6-9c9c-4c7e-a704-b9e010436e13
+        title: Virginia Foxx
+        slug: virginia-foxx
+      - node_id: 2ea8a994-f59e-4d84-a098-3ea2795019e7
+        title: Pete Sessions
+        slug: pete-sessions
+      - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+        title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+        slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+      - node_id: 5b40eefa-1cb5-4855-bf31-011790cb95cc
+        title: Scott Perry
+        slug: scott-perry
+      - node_id: 80d1049c-74b9-4e21-93bb-6e0eb933a52b
+        title: Robert Garcia
+        slug: robert-garcia
+      - node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+        title: Glenn Grothman
+        slug: glenn-grothman
+      - node_id: a780b830-629b-42fd-9a3c-83da9eea0e78
+        title: Maxwell Frost
+        slug: maxwell-frost
+      - node_id: a818643c-d43f-4cc2-b79b-13a87ecf6700
+        title: Andy Biggs
+        slug: andy-biggs
+      - node_id: b1b4c0bd-c5ed-4863-825a-40b2fba4f593
+        title: Paul Gosar
+        slug: paul-gosar
+      - node_id: d9d1a305-5d69-4cc4-b7ef-bb743ba9d8be
+        title: Jared Moskowitz
+        slug: jared-moskowitz
+      - node_id: dde33cfe-13f9-438c-ab59-15af1ef1b09e
+        title: Kelly Armstrong
+        slug: kelly-armstrong
+      - node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
+        title: Nancy Mace
+        slug: nancy-mace
+    date: '2023-07-26'
+    date_end: null
+    location_in_record: char:4964-5077
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 2ed7f366-cafb-4b10-97f3-9343825ac66d
+    claim_hash: 9408390edf44431063c084643350c44206c63c0b4f1c95043227378739bba9f0
+    content: Nancy Mace is poised to lead the next congressional UAP hearing in September 2024.
+    original_excerpt: Representative Nancy Mace is poised to lead the next congressional UAP hearing this September.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
+        title: Nancy Mace
+        slug: nancy-mace
+    date: 2024-09
+    date_end: null
+    location_in_record: 00:02:53.2-00:02:58.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: cba0d55b-adea-411f-9937-fa491d3a2c35
+      record_title: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
+      record_date: '2024-09-13'
+      record_reference: https://www.youtube.com/watch?v=YtfMhIbdc98
+      content_hash: sha256:64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff45095cfc
+      friendly_name: null
+  - claim_id: efc9603d-ea63-4b2d-a42e-a43bb097f555
+    claim_hash: f6aa7b239505439ef20687d3555d04e06ba9a6c8f04f8fb00fc34bc5213010e9
+    content: Nancy Mace will lead the congressional hearing on UAP scheduled for November 13, 2024.
+    original_excerpt: So Nancy Mace will be leading the congressional hearing on UAPs November 13th.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 516cc520-b1f2-41de-a248-b7b4376bfa6e
+        title: November 13, 2024 congressional hearing on Unidentified Aerial Phenomena (UAP)
+        slug: 2024-congressional-hearing-on-unidentified-aerial-phenomena-uap-november-13
+      - node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
+        title: Nancy Mace
+        slug: nancy-mace
+    date: '2024-11-13'
+    date_end: null
+    location_in_record: 00:15:50.9-00:15:54.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+      record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep. 10
+      record_date: '2024-10-18'
+      record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+      content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+      friendly_name: null
+  - claim_id: 3c4781a9-5026-479d-93b1-35651070ae3b
+    claim_hash: 0575f3758885c8ef8e1524fc2465a0c5370460cce7d6cbd8f723482dbd564125
+    content: The audiovisual evidence shown to David Grusch also depicted some of the dead cadavers recovered alongside the
+      craft, which he referred to as the pilots in his interview with Nancy Mace.
+    original_excerpt: some of the dead cadavers that were recovered, you know, call it the pilots, as I said in my interview
+      with Nancy Mace.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+        title: Reverse engineering of recovered craft of non-human origin
+        slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
+        title: Nancy Mace
+        slug: nancy-mace
+    date: null
+    date_end: null
+    location_in_record: 00:25:40.0-00:25:46.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null

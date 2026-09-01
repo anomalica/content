@@ -9,359 +9,372 @@ page:
   claim_count: 8
   claim_count_total: 8
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 8
+  tokens_estimated: 2441
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 8
 related_nodes:
-- node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
-  title: Jacques Bordas
-  node_type: person
-  slug: jacques-bordas
-  shared_claims: 4
-- node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
-  title: Jacinta Marto
-  node_type: person
-  slug: jacinta-marto
-  shared_claims: 2
-- node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-  title: World War II
-  node_type: event
-  slug: world-war-ii
-  shared_claims: 2
-- node_id: a0c4368d-55ac-4af0-b387-4ccc6148a39d
-  title: Antonio de Oliveira Salazar
-  node_type: person
-  slug: antonio-de-oliveira-salazar
-  shared_claims: 1
-- node_id: 19a3601f-bc98-49bb-8d34-aa41b0e9f4bb
-  title: Cold War
-  node_type: topic
-  slug: cold-war
-  shared_claims: 1
-- node_id: f52851d1-6388-4961-b21d-d5ef7454c950
-  title: Communism
-  node_type: topic
-  slug: communism
-  shared_claims: 1
-- node_id: 9f228ba3-0275-4852-a7f7-c58cbd73ca4a
-  title: France, Montseny, Turo Weather Observatory
-  node_type: place
-  slug: montseny-turo-weather-observatory-france
-  shared_claims: 1
-- node_id: 6ebca47c-8e8d-4b27-a6a4-b12d8842978b
-  title: Francisco Franco
-  node_type: person
-  slug: francisco-franco
-  shared_claims: 1
-- node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
-  title: Third Secret of Fatima
-  node_type: document
-  slug: third-secret-of-fatima
-  shared_claims: 1
-claims:
-- claim_id: 61b67a17-5351-408d-b407-e40809bd9e22
-  claim_hash: ae5d9f7068efa553dda40b4e751e92f26dec3b1e694a4b3523223945e23b434d
-  content: Shortly before the Spanish Civil War, Jacques Bordas passed the examination
-    to become the meteorologist in charge of the Turo Weather Observatory at Montseny,
-    coming out first of many applicants.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
-    title: Spanish Civil War
-    slug: spanish-civil-war
   - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
     title: Jacques Bordas
+    node_type: person
     slug: jacques-bordas
-  - node_id: 9f228ba3-0275-4852-a7f7-c58cbd73ca4a
-    title: France, Montseny, Turo Weather Observatory
-    slug: montseny-turo-weather-observatory-france
-  date: null
-  date_end: null
-  location_in_record: ch9:22759-22940
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 3ed122ea-305d-432f-b6f6-f576039c6baf
-  claim_hash: 2193e0bac5b2e92fb2c5da93fa9b59972d09f3c4eb87ad3dfd29568f97170588
-  content: During the Spanish Civil War, Jacques Bordas served as an Air Force officer
-    and joined the Nationalist side.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
-    title: Spanish Civil War
-    slug: spanish-civil-war
-  - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
-    title: Jacques Bordas
-    slug: jacques-bordas
-  date: null
-  date_end: null
-  location_in_record: ch9:23570-23717
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 51963578-b321-492d-b9ae-96a2a0eb4f04
-  claim_hash: c213ef61d1f07605e6a3579e206287b946fd0389da0784f8876064d39913513f
-  content: Jacques Bordas became the leader of a Nationalist group that took refuge
-    in the mountains, was tracked down, arrested, tortured, put on a prison ship,
-    and managed to escape.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
-    title: Spanish Civil War
-    slug: spanish-civil-war
-  - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
-    title: Jacques Bordas
-    slug: jacques-bordas
-  date: null
-  date_end: null
-  location_in_record: ch9:23693-23881
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 154235c5-f1ca-4318-80c1-9427b07f3cb0
-  claim_hash: 01e6b38eacf70e1bd4b84c633572bc10637920f656d7e17d35666c2779e3ca91
-  content: Jacques Bordas rejoined the Nationalist ranks but came into conflict with
-    his superiors because he disapproved of the summary trial and massacre of "Red"
-    prisoners.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
-    title: Spanish Civil War
-    slug: spanish-civil-war
-  - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
-    title: Jacques Bordas
-    slug: jacques-bordas
-  date: null
-  date_end: null
-  location_in_record: ch9:23889-24061
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: e166b584-f125-4968-a39f-6905fb96b1a2
-  claim_hash: a6bbeb913292ba41333803384dbc3a35ba4eaa065b18fb612e32eeaa6af05227
-  content: The Third Secret of Fatima included revelations about disasters of the
-    twentieth century, including communist revolutions, the Spanish Civil War, Nazi
-    terror, World War II, the Cold War, the arms race, the nuclear threat, and the
-    spread of atheism.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Hesemann, Michael
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
-    title: Spanish Civil War
-    slug: spanish-civil-war
-  - node_id: 19a3601f-bc98-49bb-8d34-aa41b0e9f4bb
-    title: Cold War
-    slug: cold-war
-  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
-    title: Third Secret of Fatima
-    slug: third-secret-of-fatima
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
-    title: Communism
-    slug: communism
-  date: null
-  date_end: null
-  location_in_record: ch10:8768-9065
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 10d9cd0a-4f65-40b5-9f38-8ff17c0b6038
-  claim_hash: 4a3feb9a08e7cd86f484c1cd2466e0412460b28378fcab66e2759b54ed7113be
-  content: Michael Hesemann considers Jacinta Marto's prediction of a punishment beginning
-    in Spain to have predicted the Spanish Civil War, which started in 1936 and preceded
-    the Second World War.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-    title: Michael Hesemann
-  provenance_chain:
-    origin_kind: speaker
-    origin: Hesemann, Michael
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
-    title: Spanish Civil War
-    slug: spanish-civil-war
+    shared_claims: 4
   - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
     title: Jacinta Marto
+    node_type: person
     slug: jacinta-marto
+    shared_claims: 2
   - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
     title: World War II
+    node_type: event
     slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: ch13:7728-7831
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: a8c18d99-0036-4751-b9fc-7b7c9b33076e
-  claim_hash: 2c5262789bbc181100b068164386ae781461b2ad74a24fa787ac97fa6241ba2e
-  content: Jacinta Marto's prophecy of civil war in Portugal did not come true; civil
-    war broke out in Spain instead.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
-    title: Michael Hesemann
-  provenance_chain:
-    origin_kind: speaker
-    origin: Hesemann, Michael
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
-    title: Spanish Civil War
-    slug: spanish-civil-war
-  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
-    title: Jacinta Marto
-    slug: jacinta-marto
-  date: null
-  date_end: null
-  location_in_record: ch13:8994-9035
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: a500e91f-323a-4e72-a1a4-05e6c39c528f
-  claim_hash: 57755901d8e07e1a0e2d78af00d743b1aef48788ad343d803fbecd83a7e90dcc
-  content: During the Spanish Civil War, Antonio de Oliveira Salazar supported General
-    Francisco Franco, who like himself was conservative, Catholic, and militaristic.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
-    title: Spanish Civil War
-    slug: spanish-civil-war
-  - node_id: 6ebca47c-8e8d-4b27-a6a4-b12d8842978b
-    title: Francisco Franco
-    slug: francisco-franco
+    shared_claims: 2
   - node_id: a0c4368d-55ac-4af0-b387-4ccc6148a39d
     title: Antonio de Oliveira Salazar
+    node_type: person
     slug: antonio-de-oliveira-salazar
-  date: null
-  date_end: null
-  location_in_record: ch14:11384-11540
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 19a3601f-bc98-49bb-8d34-aa41b0e9f4bb
+    title: Cold War
+    node_type: topic
+    slug: cold-war
+    shared_claims: 1
+  - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
+    title: Communism
+    node_type: topic
+    slug: communism
+    shared_claims: 1
+  - node_id: 9f228ba3-0275-4852-a7f7-c58cbd73ca4a
+    title: France, Montseny, Turo Weather Observatory
+    node_type: place
+    slug: montseny-turo-weather-observatory-france
+    shared_claims: 1
+  - node_id: 6ebca47c-8e8d-4b27-a6a4-b12d8842978b
+    title: Francisco Franco
+    node_type: person
+    slug: francisco-franco
+    shared_claims: 1
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    node_type: document
+    slug: third-secret-of-fatima
+    shared_claims: 1
+claims:
+  - claim_id: 61b67a17-5351-408d-b407-e40809bd9e22
+    claim_hash: ae5d9f7068efa553dda40b4e751e92f26dec3b1e694a4b3523223945e23b434d
+    content: Shortly before the Spanish Civil War, Jacques Bordas passed the examination to become the meteorologist in charge
+      of the Turo Weather Observatory at Montseny, coming out first of many applicants.
+    original_excerpt: A short time before the Spanish Civil War he passed the examination to become the meteorologist in charge
+      of Turo Weather Observatory, on top of Montseny. He came out first of many applicants
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
+        title: Spanish Civil War
+        slug: spanish-civil-war
+      - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
+        title: Jacques Bordas
+        slug: jacques-bordas
+      - node_id: 9f228ba3-0275-4852-a7f7-c58cbd73ca4a
+        title: France, Montseny, Turo Weather Observatory
+        slug: montseny-turo-weather-observatory-france
+    date: null
+    date_end: null
+    location_in_record: ch9:22759-22940
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 3ed122ea-305d-432f-b6f6-f576039c6baf
+    claim_hash: 2193e0bac5b2e92fb2c5da93fa9b59972d09f3c4eb87ad3dfd29568f97170588
+    content: During the Spanish Civil War, Jacques Bordas served as an Air Force officer and joined the Nationalist side.
+    original_excerpt: The Civil War forced him to go back to Spain as an Air Force officer. As the political structure of
+      the country collapsed, he took the side of the Nationalists
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
+        title: Spanish Civil War
+        slug: spanish-civil-war
+      - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
+        title: Jacques Bordas
+        slug: jacques-bordas
+    date: null
+    date_end: null
+    location_in_record: ch9:23570-23717
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 51963578-b321-492d-b9ae-96a2a0eb4f04
+    claim_hash: c213ef61d1f07605e6a3579e206287b946fd0389da0784f8876064d39913513f
+    content: Jacques Bordas became the leader of a Nationalist group that took refuge in the mountains, was tracked down,
+      arrested, tortured, put on a prison ship, and managed to escape.
+    original_excerpt: he took the side of the Nationalists and became the leader of a group that sought refuge in the mountains.
+      He was tracked down, arrested, tortured, thrown on a prison ship, and managed to escape.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
+        title: Spanish Civil War
+        slug: spanish-civil-war
+      - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
+        title: Jacques Bordas
+        slug: jacques-bordas
+    date: null
+    date_end: null
+    location_in_record: ch9:23693-23881
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 154235c5-f1ca-4318-80c1-9427b07f3cb0
+    claim_hash: 01e6b38eacf70e1bd4b84c633572bc10637920f656d7e17d35666c2779e3ca91
+    content: Jacques Bordas rejoined the Nationalist ranks but came into conflict with his superiors because he disapproved
+      of the summary trial and massacre of "Red" prisoners.
+    original_excerpt: He rejoined the ranks of the Nationalists, but soon came into conflict with his superiors because he
+      disapproved of the summary way in which “Red” prisoners were tried and massacred.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
+        title: Spanish Civil War
+        slug: spanish-civil-war
+      - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
+        title: Jacques Bordas
+        slug: jacques-bordas
+    date: null
+    date_end: null
+    location_in_record: ch9:23889-24061
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: e166b584-f125-4968-a39f-6905fb96b1a2
+    claim_hash: a6bbeb913292ba41333803384dbc3a35ba4eaa065b18fb612e32eeaa6af05227
+    content: The Third Secret of Fatima included revelations about disasters of the twentieth century, including communist
+      revolutions, the Spanish Civil War, Nazi terror, World War II, the Cold War, the arms race, the nuclear threat, and
+      the spread of atheism.
+    original_excerpt: They had also been told about the real hell that would happen on earth during the twentieth century—the
+      hell of Communist revolutions and the Spanish Civil War, of the Nazi terror and the Second World War, with the Cold
+      War following it; of the arms race and the nuclear threat, and the spread of atheism.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
+        title: Spanish Civil War
+        slug: spanish-civil-war
+      - node_id: 19a3601f-bc98-49bb-8d34-aa41b0e9f4bb
+        title: Cold War
+        slug: cold-war
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
+        title: Communism
+        slug: communism
+    date: null
+    date_end: null
+    location_in_record: ch10:8768-9065
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 10d9cd0a-4f65-40b5-9f38-8ff17c0b6038
+    claim_hash: 4a3feb9a08e7cd86f484c1cd2466e0412460b28378fcab66e2759b54ed7113be
+    content: Michael Hesemann considers Jacinta Marto's prediction of a punishment beginning in Spain to have predicted the
+      Spanish Civil War, which started in 1936 and preceded the Second World War.
+    original_excerpt: With that Jacinta predicted the Spanish Civil War, which started in 1936 and preceded the Second World
+      War.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
+        title: Spanish Civil War
+        slug: spanish-civil-war
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: null
+    date_end: null
+    location_in_record: ch13:7728-7831
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: a8c18d99-0036-4751-b9fc-7b7c9b33076e
+    claim_hash: 2c5262789bbc181100b068164386ae781461b2ad74a24fa787ac97fa6241ba2e
+    content: Jacinta Marto's prophecy of civil war in Portugal did not come true; civil war broke out in Spain instead.
+    original_excerpt: But civil war broke out in Spain, not in Portugal.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
+        title: Spanish Civil War
+        slug: spanish-civil-war
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+    date: null
+    date_end: null
+    location_in_record: ch13:8994-9035
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: a500e91f-323a-4e72-a1a4-05e6c39c528f
+    claim_hash: 57755901d8e07e1a0e2d78af00d743b1aef48788ad343d803fbecd83a7e90dcc
+    content: During the Spanish Civil War, Antonio de Oliveira Salazar supported General Francisco Franco, who like himself
+      was conservative, Catholic, and militaristic.
+    original_excerpt: When the civil war broke out in the neighboring country of Spain, he supported General Francisco Franco,
+      who, like himself, was conservative, Catholic, and militaristic.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
+        title: Spanish Civil War
+        slug: spanish-civil-war
+      - node_id: 6ebca47c-8e8d-4b27-a6a4-b12d8842978b
+        title: Francisco Franco
+        slug: francisco-franco
+      - node_id: a0c4368d-55ac-4af0-b387-4ccc6148a39d
+        title: Antonio de Oliveira Salazar
+        slug: antonio-de-oliveira-salazar
+    date: null
+    date_end: null
+    location_in_record: ch14:11384-11540
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret

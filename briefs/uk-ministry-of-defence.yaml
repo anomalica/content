@@ -1,0 +1,626 @@
+schema: anomalica/brief/1
+brief_hash: 8860e3dae71b38ca427678140fecb4d165259704f2445d84c42649ba3e882636
+page:
+  kind: entity
+  node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+  node_type: organisation
+  title: UK Ministry of Defence
+  slug: uk-ministry-of-defence
+  claim_count: 14
+  claim_count_total: 14
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 14
+  tokens_estimated: 4301
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 14
+related_nodes:
+  - node_id: 7a34498a-e727-43f3-aa35-6794f29ceedb
+    title: Henry Tizard
+    node_type: person
+    slug: henry-tizard
+    shared_claims: 5
+  - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
+    title: Nick Pope
+    node_type: person
+    slug: nick-pope
+    shared_claims: 4
+  - node_id: ec304822-db5e-484b-9c4a-b2d43d70757a
+    title: James Forrestal
+    node_type: person
+    slug: james-forrestal
+    shared_claims: 3
+  - node_id: 00342f1c-59c8-4b00-aa9d-ad2b8cc6f2f4
+    title: 1947-10 Forrestal-Tizard meetings
+    node_type: event
+    slug: 1947-10-forrestal-tizard-meetings
+    shared_claims: 2
+  - node_id: a4f584ab-b230-4924-92a9-3c20c1523bdd
+    title: Project Condign
+    node_type: matter
+    slug: project-condign
+    shared_claims: 2
+  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+    node_type: person
+    slug: jonathan-caplan
+    shared_claims: 1
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    node_type: project
+    slug: majestic-12-mj-12
+    shared_claims: 1
+  - node_id: 556b7bc5-ebb4-4927-92dc-b5f07e03cf9c
+    title: RAF Cosford UAP Sighting 1993
+    node_type: event
+    slug: raf-cosford-uap-sighting-1993
+    shared_claims: 1
+  - node_id: bfaddf4a-fb20-422c-8cdf-ea575d113ce7
+    title: RAF Tornado UAP Encounter 1990
+    node_type: event
+    slug: raf-tornado-uap-encounter-1990
+    shared_claims: 1
+  - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+    title: Soviet Union
+    node_type: organisation
+    slug: soviet-union
+    shared_claims: 1
+  - node_id: 4128bd50-87f8-46c4-92e5-b0e1e7239816
+    title: Truman Directive of 1947-09-24
+    node_type: document
+    slug: truman-directive-of-1947-09-24
+    shared_claims: 1
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    node_type: person
+    slug: vannevar-bush
+    shared_claims: 1
+claims:
+  - claim_id: c7a100e5-d025-408d-8940-0ec6c99995aa
+    claim_hash: 7938847f55e2cdc71e19299f48d69c694097641c39443fda064eb55fe8a8e87b
+    content: Project Condign is a Unidentified Aerial Phenomena (UAP) investigation study whose files were declassified by
+      the British Ministry of Defence.
+    original_excerpt: Declassified UAP investigation files from the British Ministry of Defence,18 the so-called Project Condign
+      study, also record Colonel Sokolov admitting that Soviet pilots were killed in engagements with UAPs.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a4f584ab-b230-4924-92a9-3c20c1523bdd
+        title: Project Condign
+        slug: project-condign
+      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
+    date: null
+    date_end: null
+    location_in_record: ch12:20173-20376
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d9c81ed7-9db6-470c-862c-0815e5ba196a
+    claim_hash: 220214a495f340c3b16ae11170db99136783aafcc3d7ead516545773c381852e
+    content: The British Ministry of Defence's Project Condign study concluded that the Russians took Unidentified Aerial
+      Phenomena (UAP) extremely seriously and regarded them as a clear threat.
+    original_excerpt: The British concluded the Russians took UAPs extremely seriously and saw them as a clear threat.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Project Condign report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a4f584ab-b230-4924-92a9-3c20c1523bdd
+        title: Project Condign
+        slug: project-condign
+      - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+        title: Soviet Union
+        slug: soviet-union
+      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
+    date: null
+    date_end: null
+    location_in_record: ch12:20676-20765
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3a8ef6a0-374a-499a-913e-2af89612ab5a
+    claim_hash: 15eaae01a0364f90872f5f56db86ccbc34f96b919368ee62cbc6b0519d9a699f
+    content: Nick Pope headed the British Ministry of Defence's 'UFO Desk' in the 1990s.
+    original_excerpt: Nick Pope, who headed the British Ministry of Defence's 'UFO Desk' in the 1990s, told me the radiation
+      levels tested the next day were many times higher than normal background, a finding challenged by sceptics.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
+      title: Nick Pope
+    provenance_chain:
+      origin_kind: speaker
+      origin: Nick Pope
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
+        title: Nick Pope
+        slug: nick-pope
+      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
+    date: null
+    date_end: null
+    location_in_record: ch12:8251-8452
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 91beaa0c-bfd4-465a-933e-1016b4060d1d
+    claim_hash: 5452fcd76c95de11458dfff97e8097da791d11df59a7af27a55bfcf7c6108ef8
+    content: The United Kingdom Ministry of Defence speculated that the object in the 1990 North Sea RAF Tornado UAP encounter
+      might have been an unknown stealth aircraft.
+    original_excerpt: The Ministry of Defence weakly speculated it might have been an unknown stealth aircraft.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: United Kingdom Ministry of Defence
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: bfaddf4a-fb20-422c-8cdf-ea575d113ce7
+        title: RAF Tornado UAP Encounter 1990
+        slug: raf-tornado-uap-encounter-1990
+      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
+    date: null
+    date_end: null
+    location_in_record: ch13:5540-5620
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6e009e94-fd0c-4979-a512-a79a76ca73ef
+    claim_hash: 442b0cfb2e1099b2d02f4425c8a72160f5115e4771fe7272326cc12accae1784
+    content: After leaving the Ministry of Defence, Nick Pope detailed his inside knowledge of a major wave of UAP sightings
+      across the United Kingdom in March 1993, all involving massive triangular-shaped craft.
+    original_excerpt: After he left the Ministry of Defence, Nick Pope detailed his inside knowledge of a major wave of UAP
+      sightings across the UK in March 1993, all involving massive triangular-shaped craft.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
+      title: Nick Pope
+    provenance_chain:
+      origin_kind: speaker
+      origin: Nick Pope
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
+        title: Nick Pope
+        slug: nick-pope
+      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
+    date: 1993-03
+    date_end: null
+    location_in_record: ch13:5630-5811
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b08da5d8-f46d-4578-8a9d-344c855d7216
+    claim_hash: 847590a5d1977e809d4e13d6862fca346e147cd3586a72aad238bae61181d8b0
+    content: Nick Pope's superior in the Ministry of Defence told him, 'I don't believe in little green men but even I think
+      this is highly unusual', regarding the 1993 RAF Cosford UAP sighting.
+    original_excerpt: Pope says his superior in the Ministry of Defence told him, 'I don't believe in little green men but
+      even I think this is highly unusual.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
+      title: Nick Pope
+    provenance_chain:
+      origin_kind: named
+      origin: Nick Pope's superior at the Ministry of Defence
+      relay:
+        - Nick Pope
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 556b7bc5-ebb4-4927-92dc-b5f07e03cf9c
+        title: RAF Cosford UAP Sighting 1993
+        slug: raf-cosford-uap-sighting-1993
+      - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
+        title: Nick Pope
+        slug: nick-pope
+      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
+    date: null
+    date_end: null
+    location_in_record: ch13:6361-6490
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cde2f32b-a662-4f6f-ac8f-5252ba909700
+    claim_hash: 235d1dd5100316d1c3e0ee166b7daece677945fdd573d376cf1160d5533ed4a9
+    content: Nick Pope said he had to publicly maintain the party line that UFOs are of no defence significance while at the
+      Ministry of Defence, but knew that was nonsense.
+    original_excerpt: '''When I was doing that job, I had to come out with this party line that UFOs are of no defence significance
+      but clearly I knew that was nonsense.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
+      title: Nick Pope
+    provenance_chain:
+      origin_kind: speaker
+      origin: Nick Pope
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
+        title: Nick Pope
+        slug: nick-pope
+      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
+    date: null
+    date_end: null
+    location_in_record: ch13:7123-7258
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cb41eaa9-9348-4294-a0fe-b7f45a213b91
+    claim_hash: b699acba2e1ec0c4345e6b4805aabc52a08ed3511b072b8ce270692ea8648fee
+    content: Jonathan Caplan believes UFO matters are handled within small departments of the UK Ministry of Defence, whose
+      principal interest is national security and ensuring no threat to UK airspace or oceans.
+    original_excerpt: within small departments of the Department of Defence, whose principal interest is national security
+      and ensuring that there is no threat to our airspace or our oceans.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
+    date: null
+    date_end: null
+    location_in_record: 00:04:35.4-00:04:46.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 0b698905-3653-44a3-9427-8f19df49bf71
+    claim_hash: 357306129a0b3af72b381139399d8ddb7656303c4a1c4ccc84a0b0bf7ab23073
+    content: Within one week of the Truman Directive of 24 September 1947 directing Vannevar Bush and James Forrestal to set
+      up Majestic 12 (MJ-12) and report directly to him, Forrestal met with Henry Tizard, then chief scientific advisor to
+      the UK Ministry of Defence, at the beginning of October 1947.
+    original_excerpt: within one week of the Truman directive to Bush and James Forrestal to, in fact, set up Majestic 12
+      and to report directly to him, at the beginning of October 1947, Forrestal then had a meeting with Sir Henry Tizard,
+      who at that time was the chief scientific advisor to the Ministry of Defence.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 00342f1c-59c8-4b00-aa9d-ad2b8cc6f2f4
+        title: 1947-10 Forrestal-Tizard meetings
+        slug: 1947-10-forrestal-tizard-meetings
+      - node_id: 4128bd50-87f8-46c4-92e5-b0e1e7239816
+        title: Truman Directive of 1947-09-24
+        slug: truman-directive-of-1947-09-24
+      - node_id: 7a34498a-e727-43f3-aa35-6794f29ceedb
+        title: Henry Tizard
+        slug: henry-tizard
+      - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+        title: Majestic 12 (MJ-12)
+        slug: majestic-12-mj-12
+      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
+      - node_id: ec304822-db5e-484b-9c4a-b2d43d70757a
+        title: James Forrestal
+        slug: james-forrestal
+    date: null
+    date_end: null
+    location_in_record: 00:13:30.1-00:13:56.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: c21ac923-9f65-4261-85be-668eb65122d2
+    claim_hash: 427b28e1c96f78ef1c45e87fe29dbf21c45ae2f51a2420a05140cb4a9c353b4e
+    content: Henry Tizard returned to the United Kingdom and set up a secret flying saucer working party within the Ministry
+      of Defence.
+    original_excerpt: Sir Henry Tizard, in fact, came back to the United Kingdom and did set up a secret flying saucer working
+      party in the Ministry of Defence.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a34498a-e727-43f3-aa35-6794f29ceedb
+        title: Henry Tizard
+        slug: henry-tizard
+      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
+    date: null
+    date_end: null
+    location_in_record: 00:14:14.9-00:14:24.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 6ab2281d-c9aa-4954-b55e-c5bcdbeef1ae
+    claim_hash: 62fe209638b67bf6a1682061f2ba551ca24e39b1a0ffcc68ba2fbdf2ec43ae98
+    content: In October 1947, James Forrestal held a number of meetings with other Air Force officers and British Ministry
+      of Defence officials.
+    original_excerpt: Forrestal then had, in the month of October 1947, a number of meetings with other Air Force officers
+      and British Ministry of Defence officials.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
+      - node_id: ec304822-db5e-484b-9c4a-b2d43d70757a
+        title: James Forrestal
+        slug: james-forrestal
+    date: null
+    date_end: null
+    location_in_record: 00:14:26.4-00:14:36.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 10988019-e1bc-4e72-8302-53217dfdc95c
+    claim_hash: f3e22e173b27d13421990f92e95654a03d045ab218a4937a8fef5281d2117a29
+    content: James Forrestal and Vannevar Bush held a lunch with Henry Tizard, the chief scientific adviser to the UK Ministry
+      of Defence, on 1 October 1947.
+    original_excerpt: They held a lunch, Forrestal and Bush, Vannevar Bush, held a lunch with the British scientist, Sir Henry
+      Tizard, the chief scientific adviser to the UK Ministry of Defence. On, as you say, the 1st of October 1947
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 00342f1c-59c8-4b00-aa9d-ad2b8cc6f2f4
+        title: 1947-10 Forrestal-Tizard meetings
+        slug: 1947-10-forrestal-tizard-meetings
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 7a34498a-e727-43f3-aa35-6794f29ceedb
+        title: Henry Tizard
+        slug: henry-tizard
+      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
+      - node_id: ec304822-db5e-484b-9c4a-b2d43d70757a
+        title: James Forrestal
+        slug: james-forrestal
+    date: '1947-10-01'
+    date_end: null
+    location_in_record: 00:22:43.0-00:22:56.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 39a1a62c-457f-4d92-b74f-edd5ee10f4e4
+    claim_hash: 2e1ad2f7fc284b186748d42a1b7341069077d27d2abb725d8e4e1690d6681d26
+    content: After the October 1947 meeting, Henry Tizard set up a flying saucer working party in the UK Ministry of Defence.
+    original_excerpt: He then comes back and sets up a flying saucer working party in the Ministry of Defence.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a34498a-e727-43f3-aa35-6794f29ceedb
+        title: Henry Tizard
+        slug: henry-tizard
+      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
+    date: null
+    date_end: null
+    location_in_record: 00:23:16.2-00:23:19.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: c6b37a2d-7dbb-4af6-8891-cb32ed72624a
+    claim_hash: e76e5c04e2a06895a094e76e177f8980a28ba0cb4849e3996a3b1b2be014c8f9
+    content: A report produced by the UK Ministry of Defence following the October 1947 meetings stated that, following the
+      American lead, as little publicity as possible should be given to the matter, and that only one copy of the report would
+      be produced, to be sent to Henry Tizard.
+    original_excerpt: the report which was then produced by the Ministry of Defence has these words, not precisely, but almost.
+      Following the American lead, it is desirable that should be as little publicity as possible given to this matter and
+      only one copy of this report will be produced and that will be sent to Sir Henry Tizard.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: document
+      origin: a UK Ministry of Defence report following the October 1947 meetings
+      relay:
+        - Jonathan Caplan
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a34498a-e727-43f3-aa35-6794f29ceedb
+        title: Henry Tizard
+        slug: henry-tizard
+      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
+    date: null
+    date_end: null
+    location_in_record: 00:23:29.6-00:23:54.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null

@@ -1,0 +1,242 @@
+schema: anomalica/brief/1
+brief_hash: 8245fd7d81d5ac7b5719a783a261709275c7ddb568cefa59c73e5e85b55bccbc
+page:
+  kind: entity
+  node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+  node_type: organisation
+  title: Esalen Institute
+  slug: esalen-institute
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1531
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+    title: Jeffrey Kripal
+    node_type: person
+    slug: jeffrey-kripal
+    shared_claims: 3
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 3
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 1
+  - node_id: 7bf3a5af-70a5-4e9e-8f96-2dbf37ffaf39
+    title: USA, California, Southern California
+    node_type: place
+    slug: california-southern-california-usa
+    shared_claims: 1
+claims:
+  - claim_id: 6f50e4fd-584b-4914-96c4-a8cd6fd3d9e8
+    claim_hash: d7d48cdcfcecacf5262b4d87ea4652f005eb15aa2c4d77a8e2eb45f6aa3f83d8
+    content: Jeff Kripal experienced a sense of annihilation while sleeping in the same room as Whitley Strieber at a conference
+      at the Esalen Institute in Northern California.
+    original_excerpt: my Super Natural co-author, Jeff Kripal, experienced it when sleeping in the same room with me at a
+      conference at the Esalen Institute in Northern California.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Jeff Kripal
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 7bf3a5af-70a5-4e9e-8f96-2dbf37ffaf39
+        title: USA, California, Southern California
+        slug: california-southern-california-usa
+      - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+        title: Jeffrey Kripal
+        slug: jeffrey-kripal
+    date: null
+    date_end: null
+    location_in_record: ch18:13699-13846
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: a4244173-3b2a-40e4-9c63-a06740ef18d5
+    claim_hash: 03d1ecffc680ef6d01035dc7f9a150b1461267cabba14fd330571c59b089488f
+    content: Whitley Strieber regularly attends conferences at the Esalen Institute in Northern California and uses a relatively
+      isolated room overlooking the Pacific where visitors sometimes appear.
+    original_excerpt: I go to conferences there often, and sometimes the visitors will show up in the room I use, as it is
+      relatively isolated and overlooks the Pacific, making for easy and secure physical contact for them.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+    date: null
+    date_end: null
+    location_in_record: ch18:13859-14055
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 92d2cdb6-0d36-40ab-acfb-9579174d482a
+    claim_hash: ad16b935cf83e5fcff8f673558a9a942b0450d499f6ca923af97f3b8f6e12a1e
+    content: During a night at the Esalen Institute with Jeff Kripal sleeping in a second bed, Whitley Strieber and then Jeff
+      Kripal each experienced a brief physical contact with a visitor.
+    original_excerpt: one night when Jeff was sleeping in the second bed, there was a brief physical contact, first with me,
+      then a few minutes later with him.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+        title: Jeffrey Kripal
+        slug: jeffrey-kripal
+    date: null
+    date_end: null
+    location_in_record: ch18:14121-14254
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 77035cd9-0d1b-415a-9576-b72af74b7274
+    claim_hash: 892aa7be783e74695ae14d9f90ca240e04fdd04e6a7055ee046423276ba24965
+    content: During the contact experience at the Esalen Institute, Jeff Kripal heard a great noise as if of glass breaking,
+      followed by his own voice crying out from within himself, "Oh my God!"
+    original_excerpt: He heard a great noise as if of glass breaking and then his own voice crying out from deep within himself,
+      “Oh my God!”
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Jeff Kripal
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+        title: Jeffrey Kripal
+        slug: jeffrey-kripal
+    date: null
+    date_end: null
+    location_in_record: ch18:14355-14469
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 8bf52c70-152c-4b01-a197-74a398cbd3fc
+    claim_hash: 584d83f46f053b105073bbfdd685f120d7a3174d569b32fe57fe6f91d97c97e2
+    content: Whitley Strieber has seen the Non-Human Intelligence beings from time to time at isolated places including the
+      Esalen Institute, and there seeks to stay in a room convenient for them to enter.
+    original_excerpt: when I go out to places, isolated places where I've seen them from time to time, like the Esalen Institute,
+      what I want to do is be in a room where it's convenient for them to come.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 00:48:39.2-00:48:48.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

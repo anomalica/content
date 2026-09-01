@@ -9,146 +9,156 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 932
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
 related_nodes:
-- node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-  title: Barry Greenwood
-  node_type: person
-  slug: barry-greenwood
-  shared_claims: 2
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 1
-- node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
-  title: Sean Chittle
-  node_type: person
-  slug: sean-chittle
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-claims:
-- claim_id: eb228ce3-95c1-4cdb-85f9-27949f150fda
-  claim_hash: 91766df81faac418e7aa375ffec0b0bd155e11dcf79a9347e9f28bf7bd80f434
-  content: Twelve months after being threatened by government officials, Greenwood
-    was approached by officials from the Office of the President of the United States
-    asking him to speak about the 1966 Westall High School UFO sighting.
-  original_excerpt: Which is quite interesting when you realise that officials from
-    another government, 12 months later, begged me to speak about it. The Office of
-    the President.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-  provenance_chain:
-    origin_kind: speaker
-    origin: Greenwood
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
   - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
     title: Barry Greenwood
+    node_type: person
     slug: barry-greenwood
-  - node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
-    title: Office of the President of the United States
-    slug: office-of-the-president-of-the-united-states
+    shared_claims: 2
   - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
     title: 2004 USS Nimitz UAP encounter
+    node_type: event
     slug: 2004-uss-nimitz-uap-encounter
-  date: '1967'
-  date_end: null
-  location_in_record: 00:53:33.1-00:53:42.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-- claim_id: c5c9912b-526e-477a-8a20-25ac7e941bb0
-  claim_hash: cb574f30d9b6390d04beeadac4d3f0249274d26d345c008c7db1dac3a90a5224
-  content: According to officials from the Office of the President of the United States,
-    the President of the United States had authorised the establishment of a board
-    of inquiry into unidentified flying objects.
-  original_excerpt: The President had authorised the establishment of a board of inquiry
-    or an inquiry to inquire into issues of unidentified flying objects and that they
-    were sending out somebody who I believe turned out to be a Mr...
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-  provenance_chain:
-    origin_kind: named
-    origin: Office of the President of the United States
-    relay:
-    - Greenwood
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
-    title: Barry Greenwood
-    slug: barry-greenwood
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
-    title: Office of the President of the United States
-    slug: office-of-the-president-of-the-united-states
-  date: null
-  date_end: null
-  location_in_record: 00:53:49.2-00:54:05.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
-    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-    record_date: '2021-09-06'
-    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
-    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
-    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-- claim_id: 9117df39-6b0c-4332-92d7-7725c7fe5c59
-  claim_hash: 7edcd930bf327d58196222cead278999436e665d54a4060d401f27725be4ab9c
-  content: Sean Chittle is a special advisor to the president and senior director
-    at the Executive Office of the President of the United States.
-  original_excerpt: A special advisor to the president, Sean Chittle ... Sean Chittle,
-    senior director at the executive office of the president.
-  claim_type: administrative
-  attestation: null
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: unattributed
-    origin: Ross Coulthart's narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
   - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
     title: Sean Chittle
+    node_type: person
     slug: sean-chittle
-  - node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
-    title: Office of the President of the United States
-    slug: office-of-the-president-of-the-united-states
-  date: null
-  date_end: null
-  location_in_record: lines 116-125
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
-    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
-    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+claims:
+  - claim_id: eb228ce3-95c1-4cdb-85f9-27949f150fda
+    claim_hash: 91766df81faac418e7aa375ffec0b0bd155e11dcf79a9347e9f28bf7bd80f434
+    content: Twelve months after being threatened by government officials, Greenwood was approached by officials from the
+      Office of the President of the United States asking him to speak about the 1966 Westall High School UFO sighting.
+    original_excerpt: Which is quite interesting when you realise that officials from another government, 12 months later,
+      begged me to speak about it. The Office of the President.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+      title: Barry Greenwood
+    provenance_chain:
+      origin_kind: speaker
+      origin: Greenwood
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+        title: Barry Greenwood
+        slug: barry-greenwood
+      - node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
+        title: Office of the President of the United States
+        slug: office-of-the-president-of-the-united-states
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1967'
+    date_end: null
+    location_in_record: 00:53:33.1-00:53:42.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: c5c9912b-526e-477a-8a20-25ac7e941bb0
+    claim_hash: cb574f30d9b6390d04beeadac4d3f0249274d26d345c008c7db1dac3a90a5224
+    content: According to officials from the Office of the President of the United States, the President of the United States
+      had authorised the establishment of a board of inquiry into unidentified flying objects.
+    original_excerpt: The President had authorised the establishment of a board of inquiry or an inquiry to inquire into issues
+      of unidentified flying objects and that they were sending out somebody who I believe turned out to be a Mr...
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+      title: Barry Greenwood
+    provenance_chain:
+      origin_kind: named
+      origin: Office of the President of the United States
+      relay:
+        - Greenwood
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+        title: Barry Greenwood
+        slug: barry-greenwood
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
+        title: Office of the President of the United States
+        slug: office-of-the-president-of-the-united-states
+    date: null
+    date_end: null
+    location_in_record: 00:53:49.2-00:54:05.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 9117df39-6b0c-4332-92d7-7725c7fe5c59
+    claim_hash: 7edcd930bf327d58196222cead278999436e665d54a4060d401f27725be4ab9c
+    content: Sean Chittle is a special advisor to the president and senior director at the Executive Office of the President
+      of the United States.
+    original_excerpt: A special advisor to the president, Sean Chittle ... Sean Chittle, senior director at the executive
+      office of the president.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Ross Coulthart's narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
+        title: Sean Chittle
+        slug: sean-chittle
+      - node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
+        title: Office of the President of the United States
+        slug: office-of-the-president-of-the-united-states
+    date: null
+    date_end: null
+    location_in_record: lines 116-125
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+      record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+      content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null

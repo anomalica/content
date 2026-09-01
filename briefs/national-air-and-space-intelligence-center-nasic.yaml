@@ -9,400 +9,401 @@ page:
   claim_count: 10
   claim_count_total: 10
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 10
+  tokens_estimated: 2857
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 10
 related_nodes:
-- node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
-  title: Jonathan Grey
-  node_type: person
-  slug: jonathan-grey
-  shared_claims: 3
-- node_id: 73728e30-29a1-4939-ab42-78e3fdeaf5dd
-  title: Foreign Technology Division
-  node_type: organisation
-  slug: foreign-technology-division
-  shared_claims: 2
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 2
-- node_id: 4fca1350-3310-4376-94f8-19d3ddff86d6
-  title: Air Technical Intelligence Center (ATIC)
-  node_type: organisation
-  slug: air-technical-intelligence-center-atic
-  shared_claims: 1
-- node_id: acde03ee-7227-486d-854c-9673dd837619
-  title: USA, Ohio, Wright-Patterson Air Force Base
-  node_type: place
-  slug: ohio-wright-patterson-air-force-base-usa
-  shared_claims: 1
-- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-  title: United States Air Force (USAF)
-  node_type: organisation
-  slug: united-states-air-force-usaf
-  shared_claims: 1
-- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-  title: United States Department of Defense (DoD)
-  node_type: organisation
-  slug: united-states-department-of-defense-dod
-  shared_claims: 1
-claims:
-- claim_id: 514722ce-63fa-4448-81a0-0ea4f5398461
-  claim_hash: 1840fde75806929d189144b7076136a260069e22cd23e9d70cc2090e55862d34
-  content: The Foreign Technology Division has been rolled into the National Air and
-    Space Intelligence Center (NASIC).
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
-    title: National Air and Space Intelligence Center (NASIC)
-    slug: national-air-and-space-intelligence-center-nasic
+  - node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
+    title: Jonathan Grey
+    node_type: person
+    slug: jonathan-grey
+    shared_claims: 3
   - node_id: 73728e30-29a1-4939-ab42-78e3fdeaf5dd
     title: Foreign Technology Division
+    node_type: organisation
     slug: foreign-technology-division
-  date: null
-  date_end: null
-  location_in_record: ch20:8447-8555
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 977690ec-9b74-449d-8bb1-54bf031c433f
-  claim_hash: ea557aabc6cb5406571f72850baef44ef153a06f70d1912a1663909c80e2fe7d
-  content: In 2003, the Foreign Technology Division was absorbed into the National
-    Air and Space Intelligence Center (NASIC).
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
-    title: National Air and Space Intelligence Center (NASIC)
-    slug: national-air-and-space-intelligence-center-nasic
-  - node_id: 73728e30-29a1-4939-ab42-78e3fdeaf5dd
-    title: Foreign Technology Division
-    slug: foreign-technology-division
-  date: '2003'
-  date_end: null
-  location_in_record: ch27:20214-20291
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: ce0964aa-62e2-4f4a-a0aa-e5569f9bded5
-  claim_hash: 9d24c6c8fb5f5ac1e8432f8bab4b5f2d3df3991e98620bb0a8c88141aefac651
-  content: Jonathan Grey, the intelligence officer specialising in Unidentified Aerial
-    Phenomena (UAP) analysis at the National Air and Space Intelligence Center, spoke
-    publicly for the first time in this article, identified under the identity he
-    uses inside the agency.
-  original_excerpt: Jonathan Grey, the intelligence officer specializing in UAP analysis
-    at the National Air and Space Intelligence Center, is speaking publicly for the
-    first time, identified here under the identity he uses inside the agency.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
-    title: National Air and Space Intelligence Center (NASIC)
-    slug: national-air-and-space-intelligence-center-nasic
-  - node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
-    title: Jonathan Grey
-    slug: jonathan-grey
+    shared_claims: 2
   - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
     title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
     slug: unidentified-anomalous-phenomena-uap
-  date: null
-  date_end: null
-  location_in_record: char:14255-14470
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
-      Origin
-    record_date: '2023-06-05'
-    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-- claim_id: abf0e9da-8693-4761-ab8b-af418e3758b4
-  claim_hash: b222083cb73d5f23224afc93c4e39d7d4a161c4909c4dbf93d24fe4e0cdf196b
-  content: The National Air and Space Intelligence Center is headquartered at Wright-Patterson
-    Air Force Base.
-  original_excerpt: NASIC, headquartered at Wright Patterson Air Force Base
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
-    title: National Air and Space Intelligence Center (NASIC)
-    slug: national-air-and-space-intelligence-center-nasic
-  - node_id: acde03ee-7227-486d-854c-9673dd837619
-    title: USA, Ohio, Wright-Patterson Air Force Base
-    slug: ohio-wright-patterson-air-force-base-usa
-  date: null
-  date_end: null
-  location_in_record: char:14479-14530
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
-      Origin
-    record_date: '2023-06-05'
-    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-- claim_id: a0e4c719-b8da-4dd2-992c-cc8ce74496f4
-  claim_hash: 7bd78f8bd101fa4ff7c4ed5f7c5d80fa8da0379050aafd584f95c925cad8d560
-  content: The National Air and Space Intelligence Center is the Department of Defense's
-    primary Air Force source for foreign air and space threat analysis.
-  original_excerpt: is the Department of Defense’s primary Air Force source for foreign
-    air and space threat analysis.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
-    title: National Air and Space Intelligence Center (NASIC)
-    slug: national-air-and-space-intelligence-center-nasic
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  date: null
-  date_end: null
-  location_in_record: char:14536-14625
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
-      Origin
-    record_date: '2023-06-05'
-    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-- claim_id: 33372836-f491-4bc1-bd3f-86085d1ce391
-  claim_hash: 4a2b07a134997ad315e9cef8d702d3dbb2f2210683d012b6d481880c5d98b51e
-  content: According to its website, the National Air and Space Intelligence Center's
-    mission is to "discover and characterize air, space, missile, and cyber threats."
-  original_excerpt: Its mission is to “discover and characterize air, space, missile,
-    and cyber threats,” according to the agency’s website.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: National Air and Space Intelligence Center (NASIC) website
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
-    title: National Air and Space Intelligence Center (NASIC)
-    slug: national-air-and-space-intelligence-center-nasic
-  date: null
-  date_end: null
-  location_in_record: char:14635-14747
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
-      Origin
-    record_date: '2023-06-05'
-    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-- claim_id: 9f3af96b-f24d-459f-b7f3-8d7365204fb7
-  claim_hash: d095443315490494efd5623f34615be48b25b59f6482b7bf7b4d1291d902ff37
-  content: According to its website, the National Air and Space Intelligence Center's
-    team of trusted subject matter experts "deliver unique collection, exploitation,
-    and analytic capabilities not found elsewhere."
-  original_excerpt: “The center’s team of trusted subject matter experts deliver unique
-    collection, exploitation, and analytic capabilities not found elsewhere,” the
-    website states.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: National Air and Space Intelligence Center (NASIC) website
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
-    title: National Air and Space Intelligence Center (NASIC)
-    slug: national-air-and-space-intelligence-center-nasic
-  date: null
-  date_end: null
-  location_in_record: char:14757-14910
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
-      Origin
-    record_date: '2023-06-05'
-    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-- claim_id: 49599f3b-e591-4413-b37e-405187d0e0db
-  claim_hash: 8f343a812d237f37e216f0da02595c3750b3827e259086cef1970125bd5a4f08
-  content: Classified briefings are often presented for Jonathan Grey and his team
-    at the National Air and Space Intelligence Center.
-  original_excerpt: Classified briefings are often presented for Jonathan Grey and
-    his team at NASIC.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
-    title: National Air and Space Intelligence Center (NASIC)
-    slug: national-air-and-space-intelligence-center-nasic
-  - node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
-    title: Jonathan Grey
-    slug: jonathan-grey
-  date: null
-  date_end: null
-  location_in_record: char:17309-17384
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
-      Origin
-    record_date: '2023-06-05'
-    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-- claim_id: 1332afd7-cc5b-48b3-b771-5b74844eec92
-  claim_hash: 976ad2e5526b2e9217c6c41fb38c4ec35cc0ffb97a517dca194f6ce31b34d5a8
-  content: Jonathan Grey is a generational officer of the United States Intelligence
-    Community with a Top-Secret Clearance who currently works for the National Air
-    and Space Intelligence Center (NASIC), where the analysis of Unidentified Aerial
-    Phenomena (UAP) has been his focus.
-  original_excerpt: Jonathan Grey is a generational officer of the United States Intelligence
-    Community with a Top-Secret Clearance who currently works for the National Air
-    and Space Intelligence Center (NASIC), where the analysis of UAP has been his
-    focus.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
-    title: National Air and Space Intelligence Center (NASIC)
-    slug: national-air-and-space-intelligence-center-nasic
-  - node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
-    title: Jonathan Grey
-    slug: jonathan-grey
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  date: null
-  date_end: null
-  location_in_record: char:5080-5311
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
-      Origin
-    record_date: '2023-06-05'
-    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-- claim_id: 252d0b85-5c43-47c9-81f7-1fca98affda2
-  claim_hash: 4dd106db1a0b052bbd4e1d5c54c26afcf6205479269823ce290736b85c333a0d
-  content: The Air Technical Intelligence Center (ATIC) later became the National
-    Air and Space Intelligence Center (NASIC).
-  original_excerpt: (ATIC later became the National Air and Space Intelligence Center
-    - NASIC).
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
-    title: National Air and Space Intelligence Center (NASIC)
-    slug: national-air-and-space-intelligence-center-nasic
+    shared_claims: 2
   - node_id: 4fca1350-3310-4376-94f8-19d3ddff86d6
     title: Air Technical Intelligence Center (ATIC)
+    node_type: organisation
     slug: air-technical-intelligence-center-atic
-  date: null
-  date_end: null
-  location_in_record: char:27311-27378
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+    shared_claims: 1
+  - node_id: acde03ee-7227-486d-854c-9673dd837619
+    title: USA, Ohio, Wright-Patterson Air Force Base
+    node_type: place
+    slug: ohio-wright-patterson-air-force-base-usa
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 1
+claims:
+  - claim_id: 514722ce-63fa-4448-81a0-0ea4f5398461
+    claim_hash: 1840fde75806929d189144b7076136a260069e22cd23e9d70cc2090e55862d34
+    content: The Foreign Technology Division has been rolled into the National Air and Space Intelligence Center (NASIC).
+    original_excerpt: Today, the Foreign Technology Division has been rolled into the National Air and Space Intelligence
+      Center (NASIC).
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
+        title: National Air and Space Intelligence Center (NASIC)
+        slug: national-air-and-space-intelligence-center-nasic
+      - node_id: 73728e30-29a1-4939-ab42-78e3fdeaf5dd
+        title: Foreign Technology Division
+        slug: foreign-technology-division
+    date: null
+    date_end: null
+    location_in_record: ch20:8447-8555
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 977690ec-9b74-449d-8bb1-54bf031c433f
+    claim_hash: ea557aabc6cb5406571f72850baef44ef153a06f70d1912a1663909c80e2fe7d
+    content: In 2003, the Foreign Technology Division was absorbed into the National Air and Space Intelligence Center (NASIC).
+    original_excerpt: In 2003, it was absorbed into NASIC, the National Air and Space Intelligence Centre.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
+        title: National Air and Space Intelligence Center (NASIC)
+        slug: national-air-and-space-intelligence-center-nasic
+      - node_id: 73728e30-29a1-4939-ab42-78e3fdeaf5dd
+        title: Foreign Technology Division
+        slug: foreign-technology-division
+    date: '2003'
+    date_end: null
+    location_in_record: ch27:20214-20291
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ce0964aa-62e2-4f4a-a0aa-e5569f9bded5
+    claim_hash: 9d24c6c8fb5f5ac1e8432f8bab4b5f2d3df3991e98620bb0a8c88141aefac651
+    content: Jonathan Grey, the intelligence officer specialising in Unidentified Aerial Phenomena (UAP) analysis at the National
+      Air and Space Intelligence Center, spoke publicly for the first time in this article, identified under the identity
+      he uses inside the agency.
+    original_excerpt: Jonathan Grey, the intelligence officer specializing in UAP analysis at the National Air and Space Intelligence
+      Center, is speaking publicly for the first time, identified here under the identity he uses inside the agency.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
+        title: National Air and Space Intelligence Center (NASIC)
+        slug: national-air-and-space-intelligence-center-nasic
+      - node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
+        title: Jonathan Grey
+        slug: jonathan-grey
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: char:14255-14470
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: abf0e9da-8693-4761-ab8b-af418e3758b4
+    claim_hash: b222083cb73d5f23224afc93c4e39d7d4a161c4909c4dbf93d24fe4e0cdf196b
+    content: The National Air and Space Intelligence Center is headquartered at Wright-Patterson Air Force Base.
+    original_excerpt: NASIC, headquartered at Wright Patterson Air Force Base
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
+        title: National Air and Space Intelligence Center (NASIC)
+        slug: national-air-and-space-intelligence-center-nasic
+      - node_id: acde03ee-7227-486d-854c-9673dd837619
+        title: USA, Ohio, Wright-Patterson Air Force Base
+        slug: ohio-wright-patterson-air-force-base-usa
+    date: null
+    date_end: null
+    location_in_record: char:14479-14530
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: a0e4c719-b8da-4dd2-992c-cc8ce74496f4
+    claim_hash: 7bd78f8bd101fa4ff7c4ed5f7c5d80fa8da0379050aafd584f95c925cad8d560
+    content: The National Air and Space Intelligence Center is the Department of Defense's primary Air Force source for foreign
+      air and space threat analysis.
+    original_excerpt: is the Department of Defense’s primary Air Force source for foreign air and space threat analysis.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
+        title: National Air and Space Intelligence Center (NASIC)
+        slug: national-air-and-space-intelligence-center-nasic
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: char:14536-14625
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 33372836-f491-4bc1-bd3f-86085d1ce391
+    claim_hash: 4a2b07a134997ad315e9cef8d702d3dbb2f2210683d012b6d481880c5d98b51e
+    content: According to its website, the National Air and Space Intelligence Center's mission is to "discover and characterize
+      air, space, missile, and cyber threats."
+    original_excerpt: Its mission is to “discover and characterize air, space, missile, and cyber threats,” according to the
+      agency’s website.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: National Air and Space Intelligence Center (NASIC) website
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
+        title: National Air and Space Intelligence Center (NASIC)
+        slug: national-air-and-space-intelligence-center-nasic
+    date: null
+    date_end: null
+    location_in_record: char:14635-14747
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 9f3af96b-f24d-459f-b7f3-8d7365204fb7
+    claim_hash: d095443315490494efd5623f34615be48b25b59f6482b7bf7b4d1291d902ff37
+    content: According to its website, the National Air and Space Intelligence Center's team of trusted subject matter experts
+      "deliver unique collection, exploitation, and analytic capabilities not found elsewhere."
+    original_excerpt: “The center’s team of trusted subject matter experts deliver unique collection, exploitation, and analytic
+      capabilities not found elsewhere,” the website states.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: National Air and Space Intelligence Center (NASIC) website
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
+        title: National Air and Space Intelligence Center (NASIC)
+        slug: national-air-and-space-intelligence-center-nasic
+    date: null
+    date_end: null
+    location_in_record: char:14757-14910
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 49599f3b-e591-4413-b37e-405187d0e0db
+    claim_hash: 8f343a812d237f37e216f0da02595c3750b3827e259086cef1970125bd5a4f08
+    content: Classified briefings are often presented for Jonathan Grey and his team at the National Air and Space Intelligence
+      Center.
+    original_excerpt: Classified briefings are often presented for Jonathan Grey and his team at NASIC.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
+        title: National Air and Space Intelligence Center (NASIC)
+        slug: national-air-and-space-intelligence-center-nasic
+      - node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
+        title: Jonathan Grey
+        slug: jonathan-grey
+    date: null
+    date_end: null
+    location_in_record: char:17309-17384
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 1332afd7-cc5b-48b3-b771-5b74844eec92
+    claim_hash: 976ad2e5526b2e9217c6c41fb38c4ec35cc0ffb97a517dca194f6ce31b34d5a8
+    content: Jonathan Grey is a generational officer of the United States Intelligence Community with a Top-Secret Clearance
+      who currently works for the National Air and Space Intelligence Center (NASIC), where the analysis of Unidentified Aerial
+      Phenomena (UAP) has been his focus.
+    original_excerpt: Jonathan Grey is a generational officer of the United States Intelligence Community with a Top-Secret
+      Clearance who currently works for the National Air and Space Intelligence Center (NASIC), where the analysis of UAP
+      has been his focus.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
+        title: National Air and Space Intelligence Center (NASIC)
+        slug: national-air-and-space-intelligence-center-nasic
+      - node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
+        title: Jonathan Grey
+        slug: jonathan-grey
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: char:5080-5311
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 252d0b85-5c43-47c9-81f7-1fca98affda2
+    claim_hash: 4dd106db1a0b052bbd4e1d5c54c26afcf6205479269823ce290736b85c333a0d
+    content: The Air Technical Intelligence Center (ATIC) later became the National Air and Space Intelligence Center (NASIC).
+    original_excerpt: (ATIC later became the National Air and Space Intelligence Center - NASIC).
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
+        title: National Air and Space Intelligence Center (NASIC)
+        slug: national-air-and-space-intelligence-center-nasic
+      - node_id: 4fca1350-3310-4376-94f8-19d3ddff86d6
+        title: Air Technical Intelligence Center (ATIC)
+        slug: air-technical-intelligence-center-atic
+    date: null
+    date_end: null
+    location_in_record: char:27311-27378
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

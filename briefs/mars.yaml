@@ -1,390 +1,434 @@
 schema: anomalica/brief/1
-brief_hash: a20d5eb0c2f471743ac9a1d4ee357659c9030e8dd420d3f604b00d2f14fd4e72
+brief_hash: 1e24c6fac44e4297fb2a2da81092a71521c34332148e7deef30756f55f5a7e54
 page:
   kind: entity
   node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
   node_type: place
   title: Mars
   slug: mars
-  claim_count: 8
-  claim_count_total: 8
+  claim_count: 9
+  claim_count_total: 9
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 9
+  tokens_estimated: 2784
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 9
 related_nodes:
-- node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
-  title: Arthur C. Clarke
-  node_type: person
-  slug: arthur-c-clarke
-  shared_claims: 2
-- node_id: 557c2990-aaf5-42ae-ba40-a8e03f221ed1
-  title: Mars Sample Return (MSR)
-  node_type: project
-  slug: mars-sample-return-msr
-  shared_claims: 2
-- node_id: 50eff9cd-0bfb-46f0-b460-dda7c8976989
-  title: Phobos
-  node_type: place
-  slug: phobos
-  shared_claims: 2
-- node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
-  title: Albert Einstein
-  node_type: person
-  slug: albert-einstein
-  shared_claims: 1
-- node_id: 6471c859-721e-4344-af49-aa097c93f6a5
-  title: Circum-Mars formation hypothesis (Phobos origin)
-  node_type: topic
-  slug: circum-mars-formation-hypothesis-phobos-origin
-  shared_claims: 1
-- node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
-  title: J. Robert Oppenheimer
-  node_type: person
-  slug: j-robert-oppenheimer
-  shared_claims: 1
-- node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
-  title: Mark C. Carlotto
-  node_type: person
-  slug: mark-c-carlotto
-  shared_claims: 1
-- node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-  title: NASA Jet Propulsion Laboratory (JPL)
-  node_type: organisation
-  slug: nasa-jet-propulsion-laboratory-jpl
-  shared_claims: 1
-- node_id: 59a12e6f-06bb-4122-a3aa-1f6dc945ea33
-  title: Phobos Reconnaissance and International Mars Exploration (PRIME) Lander
-  node_type: object
-  slug: phobos-reconnaissance-and-international-mars-exploration-prime-lander
-  shared_claims: 1
-- node_id: 88c79814-346f-42b0-a74a-75f34ffaaf43
-  title: Pleiaren
-  node_type: organisation
-  slug: pleiaren
-  shared_claims: 1
-- node_id: a46ce807-3f52-469e-81b5-0b859ce6dd6b
-  title: Space.com
-  node_type: organisation
-  slug: spacecom
-  shared_claims: 1
-- node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-  title: the Moon
-  node_type: place
-  slug: the-moon
-  shared_claims: 1
-claims:
-- claim_id: af83eb16-1d91-42c0-bd7c-4a6e7d5e1f13
-  claim_hash: 8d8fff3a2da35198cc11ce89d26efb1fb48344d4eb4b1f59b149693dfdc9dc1b
-  content: J. Robert Oppenheimer and Albert Einstein hold that living conditions on
-    celestial bodies such as the moon or Mars would need to permit a stable and, to
-    a certain extent economically independent, life for independent settlement to
-    be possible.
-  original_excerpt: living conditions on these bodies lets say the moon, or the planet
-    Mars, would have to be such as to permit a stable, and to a certain extent, independent
-    life, from an economic standpoint
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
-    title: J. Robert Oppenheimer
-    slug: j-robert-oppenheimer
-  - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-    title: the Moon
-    slug: the-moon
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    node_type: person
+    slug: arthur-c-clarke
+    shared_claims: 2
+  - node_id: 557c2990-aaf5-42ae-ba40-a8e03f221ed1
+    title: Mars Sample Return (MSR)
+    node_type: project
+    slug: mars-sample-return-msr
+    shared_claims: 2
+  - node_id: 50eff9cd-0bfb-46f0-b460-dda7c8976989
+    title: Phobos
+    node_type: place
+    slug: phobos
+    shared_claims: 2
   - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
     title: Albert Einstein
+    node_type: person
     slug: albert-einstein
-  - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
-    title: Mars
-    slug: mars
-  date: null
-  date_end: null
-  location_in_record: char:2634-2812
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
-    record_title: Relationships with Inhabitants of Celestial Bodies
-    record_date: 1947-06
-    record_reference: null
-    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
-    friendly_name: null
-- claim_id: 042c1ccb-0001-4227-a733-1a881c96809e
-  claim_hash: 8716010b5df94202edd4c331f4459fbc637c1d66b2f55882becf47399191c6fb
-  content: Arthur C. Clarke told SPACE.com that he is fairly convinced life has been
-    discovered on Mars.
-  original_excerpt: '"I''m fairly convinced that we have discovered life on Mars,"
-    Clarke told SPACE.com'
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
-    title: Arthur C. Clarke
-  provenance_chain:
-    origin_kind: speaker
-    origin: Arthur C. Clarke
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a46ce807-3f52-469e-81b5-0b859ce6dd6b
-    title: Space.com
-    slug: spacecom
-  - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
-    title: Mars
-    slug: mars
-  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
-    title: Arthur C. Clarke
-    slug: arthur-c-clarke
-  date: null
-  date_end: null
-  location_in_record: char:223-302
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
-    record_title: Clarke's Believe It or Not
-    record_date: '2001-04-13'
-    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
-    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
-    friendly_name: null
-- claim_id: 0fd37e23-7ff8-48c4-8434-3d16278aae71
-  claim_hash: d2d2b2b7e4a753be366919b99b287c59f9c163181702055386cc8d08772ae768
-  content: Arthur C. Clarke considers photographs from the Jet Propulsion Laboratory
-    (JPL) to be convincing proof of the existence of large forms of life on Mars.
-  original_excerpt: There are some incredible photographs from [the Jet Propulsion
-    Laboratory], which to me are pretty convincing proof of the existence of large
-    forms of life on Mars! Have a look at them. I don't see any other interpretation.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
-    title: Arthur C. Clarke
-  provenance_chain:
-    origin_kind: speaker
-    origin: Arthur C. Clarke
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-    title: NASA Jet Propulsion Laboratory (JPL)
-    slug: nasa-jet-propulsion-laboratory-jpl
-  - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
-    title: Mars
-    slug: mars
-  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
-    title: Arthur C. Clarke
-    slug: arthur-c-clarke
-  date: null
-  date_end: null
-  location_in_record: char:341-549
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
-    record_title: Clarke's Believe It or Not
-    record_date: '2001-04-13'
-    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
-    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
-    friendly_name: null
-- claim_id: e9be23c8-4cf9-4884-9623-05ae97c2bee3
-  claim_hash: 220bc765c0af41f50cee112d0c789f570e40ff36ced151cd92d9263f7d847d23
-  content: Resolving the question of Phobos's origin will address the nature of Mars's
-    inner satellite and answer fundamental questions about planet and satellite formation,
-    small body evolution, impact cratering frequency and dynamics, Mars surface evolution,
-    and the role Phobos might play in future Mars exploration.
-  original_excerpt: Resolving this issue will not only address the nature of Mars's
-    inner satellite, but also answer fundamental questions about planet and satellite
-    formation, small body evolution, impact cratering frequency and dynamics, Mars
-    surface evolution, and the role Phobos might play in future Mars exploration,
-    from Mars Sample Return to human missions
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 50eff9cd-0bfb-46f0-b460-dda7c8976989
-    title: Phobos
-    slug: phobos
-  - node_id: 557c2990-aaf5-42ae-ba40-a8e03f221ed1
-    title: Mars Sample Return (MSR)
-    slug: mars-sample-return-msr
-  - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
-    title: Mars
-    slug: mars
-  date: null
-  date_end: null
-  location_in_record: char:1319-1655
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ee2ee3c5-355e-4a0b-90eb-ca963573a7a3
-    record_title: The PRIME (Phobos Reconnaissance and International Mars Exploration)
-      Mission and Mars Sample Return
-    record_date: '2008'
-    record_reference: https://www.lpi.usra.edu/meetings/lpsc2008/pdf/2268.pdf
-    content_hash: sha256:47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb6560294d732
-    friendly_name: 2008-pdf-the-prime-phobos-reconnaissance-and-international-mars
-- claim_id: 4f27e6fc-5d29-4ac6-b145-c4b2530a37b1
-  claim_hash: abe7c92f56920cc1ba4a08a2ba5e0de5f984844716f0fb5a49d9e9ca2a5425a8
-  content: The circum-Mars formation hypothesis holds that Phobos is a circum-Mars
-    formed body or the collisional remnant of a once larger body formed around Mars.
-  original_excerpt: 'Circum-Mars Formation: Phobos is a circum-Mars formed body or
-    the collisional remnant of a once larger body formed around Mars'
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Burns 1992, "Mars" (University of Arizona Press)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 50eff9cd-0bfb-46f0-b460-dda7c8976989
-    title: Phobos
-    slug: phobos
+    shared_claims: 1
   - node_id: 6471c859-721e-4344-af49-aa097c93f6a5
     title: Circum-Mars formation hypothesis (Phobos origin)
+    node_type: topic
     slug: circum-mars-formation-hypothesis-phobos-origin
-  - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
-    title: Mars
-    slug: mars
-  date: null
-  date_end: null
-  location_in_record: char:2047-2146
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ee2ee3c5-355e-4a0b-90eb-ca963573a7a3
-    record_title: The PRIME (Phobos Reconnaissance and International Mars Exploration)
-      Mission and Mars Sample Return
-    record_date: '2008'
-    record_reference: https://www.lpi.usra.edu/meetings/lpsc2008/pdf/2268.pdf
-    content_hash: sha256:47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb6560294d732
-    friendly_name: 2008-pdf-the-prime-phobos-reconnaissance-and-international-mars
-- claim_id: 38c27e13-8f17-486d-914f-0ba45bf993b8
-  claim_hash: bdeb77fdd4b72002c770631ce3d9d9af1087a870f823a999dd3a3b962190225d
-  content: The PRIME Lander mission involves mastery of technologies and strategies
-    of direct relevance for an eventual Mars Sample Return mission, namely orbital
-    rendezvous in Mars orbit, landing hazard avoidance, and high precision landing
-    via the rock dock manoeuvre.
-  original_excerpt: 'the PRIME Lander mission involves mastery of key technologies
-    and strategies of direct relevance for an eventual Mars Sample Return (MSR) mission,
-    namely: 1) Orbital rendez-vous in Mars orbit, 2) Landing hazard avoidance, and
-    3) High precision landing (rock dock maneuver).'
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 557c2990-aaf5-42ae-ba40-a8e03f221ed1
-    title: Mars Sample Return (MSR)
-    slug: mars-sample-return-msr
-  - node_id: 59a12e6f-06bb-4122-a3aa-1f6dc945ea33
-    title: Phobos Reconnaissance and International Mars Exploration (PRIME) Lander
-    slug: phobos-reconnaissance-and-international-mars-exploration-prime-lander
-  - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
-    title: Mars
-    slug: mars
-  date: null
-  date_end: null
-  location_in_record: char:6953-7216
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ee2ee3c5-355e-4a0b-90eb-ca963573a7a3
-    record_title: The PRIME (Phobos Reconnaissance and International Mars Exploration)
-      Mission and Mars Sample Return
-    record_date: '2008'
-    record_reference: https://www.lpi.usra.edu/meetings/lpsc2008/pdf/2268.pdf
-    content_hash: sha256:47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb6560294d732
-    friendly_name: 2008-pdf-the-prime-phobos-reconnaissance-and-international-mars
-- claim_id: 48e765a3-1c50-4463-b962-04cafe953bf1
-  claim_hash: 2085730e241ab4b3cecb02e9345ed8714e924005280f624c807ee84a508a6e11
-  content: The Pleiaren and another group carried out a similar elimination action
-    on Mars.
-  original_excerpt: The Pleiarian and, uh, another group did this on Mars when they,
-    ah, it's another story for another time.
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
-    title: Michael Horn
-  provenance_chain: null
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 88c79814-346f-42b0-a74a-75f34ffaaf43
-    title: Pleiaren
-    slug: pleiaren
-  - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
-    title: Mars
-    slug: mars
-  date: null
-  date_end: null
-  location_in_record: 01:33:51.2-01:34:00.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
-    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
-      ep. 92
-    record_date: '2026-06-12'
-    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
-    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
-    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
-- claim_id: 47cf6d7b-84e3-4c7d-baf3-19efe5de32ea
-  claim_hash: 43114c64b9c635636e5856e0326c3cbfc879b7a83d5c4c301d15c1bcb5a4543f
-  content: Mark Carlotto has done extensive work on lunar and Mars anomalies over
-    the decades.
-  original_excerpt: He's also done a lot of work on lunar and Mars anomalies over
-    the decades.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
-    title: Maaneli "Max" Derakhshani
-  provenance_chain:
-    origin_kind: speaker
-    origin: Maaneli "Max" Derakhshani
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
+  - node_id: b8a6011e-b78f-4d91-88fb-7e12c96e29d8
+    title: Galactic cosmic radiation exposure
+    node_type: topic
+    slug: galactic-cosmic-radiation-exposure
+    shared_claims: 1
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    node_type: person
+    slug: j-robert-oppenheimer
+    shared_claims: 1
   - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
     title: Mark C. Carlotto
+    node_type: person
     slug: mark-c-carlotto
-  - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
-    title: Mars
-    slug: mars
-  date: null
-  date_end: null
-  location_in_record: 00:20:09.3-00:20:13.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    node_type: organisation
+    slug: nasa-jet-propulsion-laboratory-jpl
+    shared_claims: 1
+  - node_id: 59a12e6f-06bb-4122-a3aa-1f6dc945ea33
+    title: Phobos Reconnaissance and International Mars Exploration (PRIME) Lander
+    node_type: object
+    slug: phobos-reconnaissance-and-international-mars-exploration-prime-lander
+    shared_claims: 1
+  - node_id: 88c79814-346f-42b0-a74a-75f34ffaaf43
+    title: Pleiaren
+    node_type: organisation
+    slug: pleiaren
+    shared_claims: 1
+  - node_id: a46ce807-3f52-469e-81b5-0b859ce6dd6b
+    title: Space.com
+    node_type: organisation
+    slug: spacecom
+    shared_claims: 1
+  - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
+    title: the Moon
+    node_type: place
+    slug: the-moon
+    shared_claims: 1
+claims:
+  - claim_id: af83eb16-1d91-42c0-bd7c-4a6e7d5e1f13
+    claim_hash: 8d8fff3a2da35198cc11ce89d26efb1fb48344d4eb4b1f59b149693dfdc9dc1b
+    content: J. Robert Oppenheimer and Albert Einstein hold that living conditions on celestial bodies such as the moon or
+      Mars would need to permit a stable and, to a certain extent economically independent, life for independent settlement
+      to be possible.
+    original_excerpt: living conditions on these bodies lets say the moon, or the planet Mars, would have to be such as to
+      permit a stable, and to a certain extent, independent life, from an economic standpoint
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+        title: J. Robert Oppenheimer
+        slug: j-robert-oppenheimer
+      - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
+        title: the Moon
+        slug: the-moon
+      - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+        title: Albert Einstein
+        slug: albert-einstein
+      - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+        title: Mars
+        slug: mars
+    date: null
+    date_end: null
+    location_in_record: char:2634-2812
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+      record_title: Relationships with Inhabitants of Celestial Bodies
+      record_date: 1947-06
+      record_reference: null
+      content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+      friendly_name: null
+  - claim_id: 042c1ccb-0001-4227-a733-1a881c96809e
+    claim_hash: 8716010b5df94202edd4c331f4459fbc637c1d66b2f55882becf47399191c6fb
+    content: Arthur C. Clarke told SPACE.com that he is fairly convinced life has been discovered on Mars.
+    original_excerpt: '"I''m fairly convinced that we have discovered life on Mars," Clarke told SPACE.com'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+      title: Arthur C. Clarke
+    provenance_chain:
+      origin_kind: speaker
+      origin: Arthur C. Clarke
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a46ce807-3f52-469e-81b5-0b859ce6dd6b
+        title: Space.com
+        slug: spacecom
+      - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+        title: Mars
+        slug: mars
+      - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+        title: Arthur C. Clarke
+        slug: arthur-c-clarke
+    date: null
+    date_end: null
+    location_in_record: char:223-302
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+      record_title: Clarke's Believe It or Not
+      record_date: '2001-04-13'
+      record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+      content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+      friendly_name: null
+  - claim_id: 0fd37e23-7ff8-48c4-8434-3d16278aae71
+    claim_hash: d2d2b2b7e4a753be366919b99b287c59f9c163181702055386cc8d08772ae768
+    content: Arthur C. Clarke considers photographs from the Jet Propulsion Laboratory (JPL) to be convincing proof of the
+      existence of large forms of life on Mars.
+    original_excerpt: There are some incredible photographs from [the Jet Propulsion Laboratory], which to me are pretty convincing
+      proof of the existence of large forms of life on Mars! Have a look at them. I don't see any other interpretation.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+      title: Arthur C. Clarke
+    provenance_chain:
+      origin_kind: speaker
+      origin: Arthur C. Clarke
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+        title: Mars
+        slug: mars
+      - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+        title: Arthur C. Clarke
+        slug: arthur-c-clarke
+    date: null
+    date_end: null
+    location_in_record: char:341-549
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+      record_title: Clarke's Believe It or Not
+      record_date: '2001-04-13'
+      record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+      content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+      friendly_name: null
+  - claim_id: e9be23c8-4cf9-4884-9623-05ae97c2bee3
+    claim_hash: 220bc765c0af41f50cee112d0c789f570e40ff36ced151cd92d9263f7d847d23
+    content: Resolving the question of Phobos's origin will address the nature of Mars's inner satellite and answer fundamental
+      questions about planet and satellite formation, small body evolution, impact cratering frequency and dynamics, Mars
+      surface evolution, and the role Phobos might play in future Mars exploration.
+    original_excerpt: Resolving this issue will not only address the nature of Mars's inner satellite, but also answer fundamental
+      questions about planet and satellite formation, small body evolution, impact cratering frequency and dynamics, Mars
+      surface evolution, and the role Phobos might play in future Mars exploration, from Mars Sample Return to human missions
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 50eff9cd-0bfb-46f0-b460-dda7c8976989
+        title: Phobos
+        slug: phobos
+      - node_id: 557c2990-aaf5-42ae-ba40-a8e03f221ed1
+        title: Mars Sample Return (MSR)
+        slug: mars-sample-return-msr
+      - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+        title: Mars
+        slug: mars
+    date: null
+    date_end: null
+    location_in_record: char:1319-1655
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ee2ee3c5-355e-4a0b-90eb-ca963573a7a3
+      record_title: The PRIME (Phobos Reconnaissance and International Mars Exploration) Mission and Mars Sample Return
+      record_date: '2008'
+      record_reference: https://www.lpi.usra.edu/meetings/lpsc2008/pdf/2268.pdf
+      content_hash: sha256:47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb6560294d732
+      friendly_name: 2008-pdf-the-prime-phobos-reconnaissance-and-international-mars
+  - claim_id: 4f27e6fc-5d29-4ac6-b145-c4b2530a37b1
+    claim_hash: abe7c92f56920cc1ba4a08a2ba5e0de5f984844716f0fb5a49d9e9ca2a5425a8
+    content: The circum-Mars formation hypothesis holds that Phobos is a circum-Mars formed body or the collisional remnant
+      of a once larger body formed around Mars.
+    original_excerpt: 'Circum-Mars Formation: Phobos is a circum-Mars formed body or the collisional remnant of a once larger
+      body formed around Mars'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Burns 1992, "Mars" (University of Arizona Press)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 50eff9cd-0bfb-46f0-b460-dda7c8976989
+        title: Phobos
+        slug: phobos
+      - node_id: 6471c859-721e-4344-af49-aa097c93f6a5
+        title: Circum-Mars formation hypothesis (Phobos origin)
+        slug: circum-mars-formation-hypothesis-phobos-origin
+      - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+        title: Mars
+        slug: mars
+    date: null
+    date_end: null
+    location_in_record: char:2047-2146
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ee2ee3c5-355e-4a0b-90eb-ca963573a7a3
+      record_title: The PRIME (Phobos Reconnaissance and International Mars Exploration) Mission and Mars Sample Return
+      record_date: '2008'
+      record_reference: https://www.lpi.usra.edu/meetings/lpsc2008/pdf/2268.pdf
+      content_hash: sha256:47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb6560294d732
+      friendly_name: 2008-pdf-the-prime-phobos-reconnaissance-and-international-mars
+  - claim_id: 38c27e13-8f17-486d-914f-0ba45bf993b8
+    claim_hash: bdeb77fdd4b72002c770631ce3d9d9af1087a870f823a999dd3a3b962190225d
+    content: The PRIME Lander mission involves mastery of technologies and strategies of direct relevance for an eventual
+      Mars Sample Return mission, namely orbital rendezvous in Mars orbit, landing hazard avoidance, and high precision landing
+      via the rock dock manoeuvre.
+    original_excerpt: 'the PRIME Lander mission involves mastery of key technologies and strategies of direct relevance for
+      an eventual Mars Sample Return (MSR) mission, namely: 1) Orbital rendez-vous in Mars orbit, 2) Landing hazard avoidance,
+      and 3) High precision landing (rock dock maneuver).'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 557c2990-aaf5-42ae-ba40-a8e03f221ed1
+        title: Mars Sample Return (MSR)
+        slug: mars-sample-return-msr
+      - node_id: 59a12e6f-06bb-4122-a3aa-1f6dc945ea33
+        title: Phobos Reconnaissance and International Mars Exploration (PRIME) Lander
+        slug: phobos-reconnaissance-and-international-mars-exploration-prime-lander
+      - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+        title: Mars
+        slug: mars
+    date: null
+    date_end: null
+    location_in_record: char:6953-7216
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ee2ee3c5-355e-4a0b-90eb-ca963573a7a3
+      record_title: The PRIME (Phobos Reconnaissance and International Mars Exploration) Mission and Mars Sample Return
+      record_date: '2008'
+      record_reference: https://www.lpi.usra.edu/meetings/lpsc2008/pdf/2268.pdf
+      content_hash: sha256:47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb6560294d732
+      friendly_name: 2008-pdf-the-prime-phobos-reconnaissance-and-international-mars
+  - claim_id: 48e765a3-1c50-4463-b962-04cafe953bf1
+    claim_hash: 2085730e241ab4b3cecb02e9345ed8714e924005280f624c807ee84a508a6e11
+    content: The Pleiaren and another group carried out a similar elimination action on Mars.
+    original_excerpt: The Pleiarian and, uh, another group did this on Mars when they, ah, it's another story for another
+      time.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 88c79814-346f-42b0-a74a-75f34ffaaf43
+        title: Pleiaren
+        slug: pleiaren
+      - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+        title: Mars
+        slug: mars
+    date: null
+    date_end: null
+    location_in_record: 01:33:51.2-01:34:00.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+  - claim_id: 47cf6d7b-84e3-4c7d-baf3-19efe5de32ea
+    claim_hash: 43114c64b9c635636e5856e0326c3cbfc879b7a83d5c4c301d15c1bcb5a4543f
+    content: Mark Carlotto has done extensive work on lunar and Mars anomalies over the decades.
+    original_excerpt: He's also done a lot of work on lunar and Mars anomalies over the decades.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+      title: Maaneli "Max" Derakhshani
+    provenance_chain:
+      origin_kind: speaker
+      origin: Maaneli "Max" Derakhshani
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+        title: Mark C. Carlotto
+        slug: mark-c-carlotto
+      - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+        title: Mars
+        slug: mars
+    date: null
+    date_end: null
+    location_in_record: 00:20:09.3-00:20:13.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: f17852e4-070b-4ec1-a542-d9cd7c8ece20
+    claim_hash: ba4b4e3e8aea32335629e8e056b88d06842647556e824f081c6d4b8941012bb4
+    content: Mars has only one per cent of Earth's atmosphere and no magnetosphere, so a person walking on its surface faces
+      a cancer risk within a short time.
+    original_excerpt: and ditto for Mars. Mars only has one percent of the atmosphere of earth there's no magnetosphere on
+      Mars so you're walking around there you you you're getting cancer potential you know in a short time
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b8a6011e-b78f-4d91-88fb-7e12c96e29d8
+        title: Galactic cosmic radiation exposure
+        slug: galactic-cosmic-radiation-exposure
+      - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+        title: Mars
+        slug: mars
+    date: null
+    date_end: null
+    location_in_record: 01:08:43.8-01:08:54.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

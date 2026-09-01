@@ -9,919 +9,919 @@ page:
   claim_count: 20
   claim_count_total: 20
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 20
+  tokens_estimated: 5897
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 20
 related_nodes:
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 10
-- node_id: c09e3558-1732-4676-a218-d67d285d98ef
-  title: David Fravor
-  node_type: person
-  slug: david-fravor
-  shared_claims: 8
-- node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-  title: USS Nimitz (CVN-68)
-  node_type: object
-  slug: uss-nimitz-cvn-68
-  shared_claims: 4
-- node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
-  title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena
-    (UAP) encounter
-  node_type: event
-  slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
-  shared_claims: 3
-- node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
-  title: USS Princeton (CG-59)
-  node_type: object
-  slug: uss-princeton-cg-59
-  shared_claims: 2
-- node_id: 91687522-b681-4c28-b7aa-c170efa860ab
-  title: A-6 Intruder
-  node_type: object
-  slug: a-6-intruder
-  shared_claims: 1
-- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-  title: Advanced Aerospace Threat Identification Program (AATIP)
-  node_type: project
-  slug: advanced-aerospace-threat-identification-program-aatip
-  shared_claims: 1
-- node_id: 2acf45fc-91f9-4565-9e36-929c510689b4
-  title: Alex Elizondo
-  node_type: person
-  slug: alex-elizondo
-  shared_claims: 1
-- node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
-  title: Bruce Leininger
-  node_type: person
-  slug: bruce-leininger
-  shared_claims: 1
-- node_id: c9e262ab-e817-4429-a91c-d526b8251825
-  title: Chris Sato
-  node_type: person
-  slug: chris-sato
-  shared_claims: 1
-- node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
-  title: F/A-18
-  node_type: object
-  slug: fa-18
-  shared_claims: 1
-- node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-  title: F/A-18F Super Hornet
-  node_type: object
-  slug: fa-18f-super-hornet
-  shared_claims: 1
-- node_id: 97dd20b2-8c81-4909-a42e-9034abd5b1e5
-  title: Mexico, Ensenada
-  node_type: place
-  slug: ensenada-mexico
-  shared_claims: 1
-- node_id: 72bef949-9031-45b3-aa40-d17d83b77171
-  title: Natoma Bay reunion, San Diego (2002)
-  node_type: event
-  slug: san-diego-2002-natoma-bay-reunion
-  shared_claims: 1
-- node_id: 8c8742d7-44c1-4f67-bf40-895e1a51da60
-  title: Taylor Elizondo
-  node_type: person
-  slug: taylor-elizondo
-  shared_claims: 1
-- node_id: 55991bcf-937b-46da-9858-2b733307190b
-  title: Tic Tac
-  node_type: object
-  slug: tic-tac
-  shared_claims: 1
-- node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-  title: To the Stars Academy of Arts and Science (TTSA)
-  node_type: organisation
-  slug: to-the-stars-academy-of-arts-and-science-ttsa
-  shared_claims: 1
-- node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-  title: Tom DeLonge
-  node_type: person
-  slug: tom-delonge
-  shared_claims: 1
-- node_id: e8cfacb5-8b7d-4e2a-934c-ebf934b27667
-  title: USA, California, Encinitas
-  node_type: place
-  slug: california-encinitas-usa
-  shared_claims: 1
-- node_id: d0624c56-994f-42bd-992c-ab7ed806d1d7
-  title: USA, California, Poway
-  node_type: place
-  slug: california-poway-usa
-  shared_claims: 1
-- node_id: 3e9a3527-501e-4e8e-94ee-5ddda242dce7
-  title: USA, California, San Clemente Island
-  node_type: place
-  slug: california-san-clemente-island-usa
-  shared_claims: 1
-- node_id: 844445fd-fb3d-4c6b-98e7-10c917264425
-  title: USS Ranger
-  node_type: object
-  slug: uss-ranger
-  shared_claims: 1
-claims:
-- claim_id: b65feea6-3e04-47fe-800a-a3139ab4f65e
-  claim_hash: 147a6b3a2ad55f55efb1f94bc1980fa25caa4016f1fe026359b5d7841c60d20a
-  content: In September 2002, Bruce Leininger attended a Natoma Bay reunion in San
-    Diego, California, expecting to find answers there.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: 72bef949-9031-45b3-aa40-d17d83b77171
-    title: Natoma Bay reunion, San Diego (2002)
-    slug: san-diego-2002-natoma-bay-reunion
-  - node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
-    title: Bruce Leininger
-    slug: bruce-leininger
-  date: 2002-09
-  date_end: null
-  location_in_record: ch9:19303-19443
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 76b0d4cc-7365-4f96-8151-7d82dc791dfa
-  claim_hash: 43307a0bd111bd9ec24a74bb2cbf45d4a7d2a3d0e9dd9a689a298a2119d84a32
-  content: In August 2017 the Advanced Aerospace Threat Identification Program (AATIP)
-    released a video of a whitish oval object, about the size of a commercial plane,
-    chased by two Navy F/A-18F fighter jets from the aircraft carrier USS Nimitz off
-    the coast of San Diego in 2004.
-  original_excerpt: including one released in August of a whitish oval object, about
-    the size of a commercial plane, chased by two Navy F/A-18F fighter jets from the
-    aircraft carrier Nimitz off the coast of San Diego in 2004.
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
-    title: F/A-18F Super Hornet
-    slug: fa-18f-super-hornet
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-    title: Advanced Aerospace Threat Identification Program (AATIP)
-    slug: advanced-aerospace-threat-identification-program-aatip
   - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
     title: 2004 USS Nimitz UAP encounter
+    node_type: event
     slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 10
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    node_type: person
+    slug: david-fravor
+    shared_claims: 8
   - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
     title: USS Nimitz (CVN-68)
+    node_type: object
     slug: uss-nimitz-cvn-68
-  date: '2004'
-  date_end: null
-  location_in_record: char:2946-3146
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
-      Program (Published 2017)'
-    record_date: '2017-12-16'
-    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
-    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
-    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
-- claim_id: 983b9e52-942f-4fb3-a3f1-3d60297195ce
-  claim_hash: 3337a1afcdf723e90d6f4c83432021823494ee99274e16952c789786f6807963
-  content: David Fravor flew an A-6 Intruder together with Chris Sato aboard the USS
-    Ranger during a night landing off San Diego in poor weather during an El Nino
-    year.
-  original_excerpt: i remember landing as i was with chris uh sato and uh chris and
-    i we were off the uss ranger which is now decommissioned it's sitting getting
-    turned into razor blades um we're flying the old a6 and we come in and it was
-    off of san diego
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: 844445fd-fb3d-4c6b-98e7-10c917264425
-    title: USS Ranger
-    slug: uss-ranger
+    shared_claims: 4
+  - node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
+    title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) encounter
+    node_type: event
+    slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
+    shared_claims: 3
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    node_type: object
+    slug: uss-princeton-cg-59
+    shared_claims: 2
   - node_id: 91687522-b681-4c28-b7aa-c170efa860ab
     title: A-6 Intruder
+    node_type: object
     slug: a-6-intruder
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  - node_id: c9e262ab-e817-4429-a91c-d526b8251825
-    title: Chris Sato
-    slug: chris-sato
-  date: null
-  date_end: null
-  location_in_record: 00:51:13.1-00:51:25.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: d6453ca0-17dd-4012-ac89-8c60f622c4a0
-  claim_hash: 5dc68bf27e2f31b2f4d64e59dda6355a3d5160b20cf8e76e913aa70b087ba4c6
-  content: David Fravor states that the marine layer cloud ceiling off San Diego is
-    typically around 370 metres, and on the night in question it was lower than that,
-    with heavy rain and thunderstorms.
-  original_excerpt: san diego always has a marine layer that is about 1200 feet was
-    lower than that that night and it was pouring down rain it was an el nino year
-    and there's thunderstorms all around it was just craziest night i've ever seen
-    out of san diego
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:51:27.2-00:51:36.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: c40117a2-a98b-4032-98f9-cab61fa48b02
-  claim_hash: 106fdc58a3f3a16862517e24b993cd4100db80378cbcb5d248c0eaf9807ae94f
-  content: The 2004 USS Nimitz UFO incident took place off the coast of San Diego,
-    California, near Mexico.
-  original_excerpt: If you look at a map and you go San Diego and then inside of Mexico,
-    we're kind of in between that
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '2004'
-  date_end: null
-  location_in_record: 01:19:13.8-01:19:18.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 00ffd9c5-4a3d-4675-8f5a-f10337214346
-  claim_hash: 245f6b874bc72c78acbb9c5c576ecf1f4f1d879ed876cc843e262de8fca0e964
-  content: The FLIR video of the 2004 USS Nimitz Tic Tac object leaked online around
-    2008 to early 2009, after David Fravor had retired from the Navy and was working
-    in San Diego.
-  original_excerpt: It was leaked in 2007? / About, no... so this is about 2008 early
-    2009.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: '2008'
-  date_end: null
-  location_in_record: 01:34:50.7-01:34:54.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 721494c9-7f6d-4a0d-9af9-acdddc267a51
-  claim_hash: 9ee04f4acbf0996d877ac05564ca416c3135f26b60337acf5081e23e8b0969e1
-  content: During the 2004 USS Nimitz Tic Tac UAP encounter, unidentified aerial objects
-    were first spotted at an altitude of over approximately 24,000 metres, tracking
-    south towards the carrier fleet from around San Clemente Island off San Diego.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: 3e9a3527-501e-4e8e-94ee-5ddda242dce7
-    title: USA, California, San Clemente Island
-    slug: california-san-clemente-island-usa
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '2004-11-10'
-  date_end: null
-  location_in_record: ch16:2144-2298
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 7cf43ad3-fab9-4454-90ab-5e25d61e6bc2
-  claim_hash: 5f5629bbabc3019407a910e1eb976ae04dad42e8cbffea9722c1fb5ecbe6a544
-  content: The 2004 USS Nimitz Tic Tac UAP encounter occurred in the north-eastern
-    Pacific Ocean, about 100 kilometres off the coast at a mid-point between San Diego,
-    California and Ensenada, Mexico.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: 97dd20b2-8c81-4909-a42e-9034abd5b1e5
-    title: Mexico, Ensenada
-    slug: ensenada-mexico
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '2004-11-14'
-  date_end: null
-  location_in_record: ch16:270-440
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 5d9c3e93-4e0e-4d13-ab4e-f031aeefd54d
-  claim_hash: 3c395b223b1a8361605c5b1724aac4c95012492e3292cc1f2749bec1e729e72f
-  content: Within a few hours of the initial radar sightings on 2004-11-14, the USS
-    Nimitz planned to launch as many as 30 aircraft, with more scheduled to join the
-    carrier group exercise from San Diego.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-    title: USS Nimitz (CVN-68)
-    slug: uss-nimitz-cvn-68
-  date: '2004-11-14'
-  date_end: null
-  location_in_record: ch16:6036-6205
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: a692b189-1226-41ca-9540-c4445d57fa01
-  claim_hash: b505f99d70b2b13f1886a851106550a7a5f2c38fb58e09bedc1625f259ff0fe3
-  content: In November 2004, the USS Nimitz Carrier Strike Group was training approximately
-    160 kilometres southwest of San Diego, California.
-  original_excerpt: It was November 2004, and the USS Nimitz Carrier Strike Group
-    was training about 100 miles southwest of San Diego.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-    title: USS Nimitz (CVN-68)
-    slug: uss-nimitz-cvn-68
-  date: 2004-11
-  date_end: null
-  location_in_record: 00:07:14.4-00:07:22.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
-    record_title: Navy pilots describe encounters with UFOs
-    record_date: '2021-05-17'
-    record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
-    content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
-    friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
-- claim_id: d627804e-93ed-4079-b8dc-0d416a218f7f
-  claim_hash: a1bad04e3321afd941f9f99eb669f867a84d4084c9a9ca1103e743f0ab1673a5
-  content: On 2004-11-14, David Fravor and his squadron were conducting a work-up
-    integrating ships and the carrier air wing off the coast of San Diego, California.
-  original_excerpt: we were doing an air to air defense to hone not only our skills
-    but those of the USS Princeton when they had been tracking them for 2 weeks.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
-    title: USS Princeton (CG-59)
-    slug: uss-princeton-cg-59
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: '2004-11-14'
-  date_end: null
-  location_in_record: char:123271-123405
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 5aa8fa38-da09-452c-ac60-44e2fc1227c4
-  claim_hash: 6ec64f66beb31080d311e4793fdd28d9e8ca8c0211bf0e9d33a8006608167ec8
-  content: The weather off San Diego on 2004-11-14 was clear with light winds, no
-    whitecaps, and no clouds.
-  original_excerpt: it was a perfect day, light winds, no whitecaps, clear skies.
-    Not a cloud.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
-    title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous
-      Phenomena (UAP) encounter
-    slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: '2004-11-14'
-  date_end: null
-  location_in_record: char:123795-123863
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 3e683cf6-566b-4c9a-95e6-28f71619e079
-  claim_hash: 1a7ab979339d863e49d0c4bad9291d3fd6954104e638c0173f6e71af59d39af7
-  content: During the 2004 USS Nimitz UAP encounter, David Fravor's crew observed
-    whitewater disturbance on the ocean surface off the coast of San Diego.
-  original_excerpt: we noticed that we saw some whitewater off our right side
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
-    title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous
-      Phenomena (UAP) encounter
-    slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: 2004-11
-  date_end: null
-  location_in_record: char:41342-41395
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: e07dae07-6caf-467c-8b3d-115f6b2454ec
-  claim_hash: 5bf4d93e28576ad8c28b2965117d5adfeecb4b70904f9e6cfe52c969c7fbc584
-  content: Weather conditions off the coast of San Diego during the 2004 USS Nimitz
-    UAP encounter were clear skies, light winds, calm seas, and no whitecaps.
-  original_excerpt: the weather on this day was as close to perfect as you could ask
-    for off the coast of San Diego. Clear skies, light winds, calm seas, no whitecaps
-    from waves.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
-    title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous
-      Phenomena (UAP) encounter
-    slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: 2004-11
-  date_end: null
-  location_in_record: char:41431-41583
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: b6856481-ac2a-4a83-9363-333839eaa2b8
-  claim_hash: 4e11c0990248dee5546d6b6ef69b101b75661d4bc344c1523f78ac3165ebc94e
-  content: The egg-shaped Unidentified Aerial Phenomena (UAP) form seen at Socorro
-    in 1964 recurs in reports over the following decades, most famously in the 2004
-    sightings by naval aviators off the coast of San Diego, California.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: ch12:23962-24108
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: bd4ed419-95d2-490a-a9a3-95f7f8c34563
-  claim_hash: f5cb051743baf00e61f36bd1d2d71e7d318b67b8348ee2012bc8b825d6f6cd76
-  content: Five vessels began travelling together in US waters off the coast of San
-    Diego, California, forming a carrier strike group, ahead of the 2004 USS Nimitz
-    UAP encounter.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: ch15:1129-1248
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 95240f23-2f22-4843-95fa-116c48ba9070
-  claim_hash: 0b8400139040bd633b594b49a2ad91e1407581546caf5defe68372845fa9ae97
-  content: During the 2004 USS Nimitz Unidentified Aerial Phenomena (UAP) encounter,
-    Dave Fravor flew an F/A-18 Hornet and circled down to confront a Tic Tac-shaped
-    object off the coast of San Diego, California.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: 55991bcf-937b-46da-9858-2b733307190b
-    title: Tic Tac
-    slug: tic-tac
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
-    title: F/A-18
-    slug: fa-18
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: 2004-11
-  date_end: null
-  location_in_record: ch24:7582-7708
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 5242da16-a248-4220-93c8-a00b043f7cb6
-  claim_hash: f687e2b088c422da52f5c9ef73180468338db0e6e0163119e54c6f8ff2f9d746
-  content: To The Stars Academy's planned location was in Encinitas, California, about
-    thirty minutes north of San Diego along the coast.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  - node_id: d0624c56-994f-42bd-992c-ab7ed806d1d7
-    title: USA, California, Poway
-    slug: california-poway-usa
-  - node_id: e8cfacb5-8b7d-4e2a-934c-ebf934b27667
-    title: USA, California, Encinitas
-    slug: california-encinitas-usa
-  date: null
-  date_end: null
-  location_in_record: ch29:15232-15374
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 3c7ab0d3-c53e-4b35-9254-a6696bb3b451
-  claim_hash: 73b172d09b16aebb554fb635daefa3209e45ca22adabbb4f11c883e873ae2210
-  content: During the family's move to California, Luis Elizondo's daughter Taylor
-    Elizondo stayed behind for college while his daughter Alex Elizondo was uprooted
-    to finish her senior year of high school in California.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: project
+    slug: advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 1
   - node_id: 2acf45fc-91f9-4565-9e36-929c510689b4
     title: Alex Elizondo
+    node_type: person
     slug: alex-elizondo
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
+    shared_claims: 1
+  - node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
+    title: Bruce Leininger
+    node_type: person
+    slug: bruce-leininger
+    shared_claims: 1
+  - node_id: c9e262ab-e817-4429-a91c-d526b8251825
+    title: Chris Sato
+    node_type: person
+    slug: chris-sato
+    shared_claims: 1
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    node_type: object
+    slug: fa-18
+    shared_claims: 1
+  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+    title: F/A-18F Super Hornet
+    node_type: object
+    slug: fa-18f-super-hornet
+    shared_claims: 1
+  - node_id: 97dd20b2-8c81-4909-a42e-9034abd5b1e5
+    title: Mexico, Ensenada
+    node_type: place
+    slug: ensenada-mexico
+    shared_claims: 1
+  - node_id: 72bef949-9031-45b3-aa40-d17d83b77171
+    title: Natoma Bay reunion, San Diego (2002)
+    node_type: event
+    slug: san-diego-2002-natoma-bay-reunion
+    shared_claims: 1
   - node_id: 8c8742d7-44c1-4f67-bf40-895e1a51da60
     title: Taylor Elizondo
+    node_type: person
     slug: taylor-elizondo
-  date: null
-  date_end: null
-  location_in_record: ch29:18610-18719
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: b2bb4817-61e7-4d5b-80fb-c4eec4be0539
-  claim_hash: 352cacabb8438882a5f833f1ec18aacda4c3c941aef5e1cb52e6099c5971327a
-  content: During the 2004 USS Nimitz UAP encounter, the USS Nimitz was operating
-    off the coast of San Diego, California, escorted by the USS Princeton.
-  original_excerpt: Envision the Nimitz operating off the coast of San Diego on a
-    brilliant sunny day, escorted by the USS Princeton
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-  provenance_chain:
-    origin_kind: named
-    origin: a Navy pilot who participated in the 2004 USS Nimitz UAP encounter
-    relay:
-    - confirmed to Chris Mellon
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
-    title: USS Princeton (CG-59)
-    slug: uss-princeton-cg-59
-  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-    title: USA, California, San Diego
-    slug: california-san-diego-usa
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-    title: USS Nimitz (CVN-68)
-    slug: uss-nimitz-cvn-68
-  date: '2004-11-14'
-  date_end: null
-  location_in_record: 00:13:41.9-00:13:48.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 55991bcf-937b-46da-9858-2b733307190b
+    title: Tic Tac
+    node_type: object
+    slug: tic-tac
+    shared_claims: 1
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    node_type: organisation
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+    shared_claims: 1
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    node_type: person
+    slug: tom-delonge
+    shared_claims: 1
+  - node_id: e8cfacb5-8b7d-4e2a-934c-ebf934b27667
+    title: USA, California, Encinitas
+    node_type: place
+    slug: california-encinitas-usa
+    shared_claims: 1
+  - node_id: d0624c56-994f-42bd-992c-ab7ed806d1d7
+    title: USA, California, Poway
+    node_type: place
+    slug: california-poway-usa
+    shared_claims: 1
+  - node_id: 3e9a3527-501e-4e8e-94ee-5ddda242dce7
+    title: USA, California, San Clemente Island
+    node_type: place
+    slug: california-san-clemente-island-usa
+    shared_claims: 1
+  - node_id: 844445fd-fb3d-4c6b-98e7-10c917264425
+    title: USS Ranger
+    node_type: object
+    slug: uss-ranger
+    shared_claims: 1
+claims:
+  - claim_id: b65feea6-3e04-47fe-800a-a3139ab4f65e
+    claim_hash: 147a6b3a2ad55f55efb1f94bc1980fa25caa4016f1fe026359b5d7841c60d20a
+    content: In September 2002, Bruce Leininger attended a Natoma Bay reunion in San Diego, California, expecting to find
+      answers there.
+    original_excerpt: In September 2002, Bruce finally took the step of attending a Natoma Bay reunion in San Diego, California,
+      expecting to find some answers there.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: 72bef949-9031-45b3-aa40-d17d83b77171
+        title: Natoma Bay reunion, San Diego (2002)
+        slug: san-diego-2002-natoma-bay-reunion
+      - node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
+        title: Bruce Leininger
+        slug: bruce-leininger
+    date: 2002-09
+    date_end: null
+    location_in_record: ch9:19303-19443
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 76b0d4cc-7365-4f96-8151-7d82dc791dfa
+    claim_hash: 43307a0bd111bd9ec24a74bb2cbf45d4a7d2a3d0e9dd9a689a298a2119d84a32
+    content: In August 2017 the Advanced Aerospace Threat Identification Program (AATIP) released a video of a whitish oval
+      object, about the size of a commercial plane, chased by two Navy F/A-18F fighter jets from the aircraft carrier USS
+      Nimitz off the coast of San Diego in 2004.
+    original_excerpt: including one released in August of a whitish oval object, about the size of a commercial plane, chased
+      by two Navy F/A-18F fighter jets from the aircraft carrier Nimitz off the coast of San Diego in 2004.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004'
+    date_end: null
+    location_in_record: char:2946-3146
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: 983b9e52-942f-4fb3-a3f1-3d60297195ce
+    claim_hash: 3337a1afcdf723e90d6f4c83432021823494ee99274e16952c789786f6807963
+    content: David Fravor flew an A-6 Intruder together with Chris Sato aboard the USS Ranger during a night landing off San
+      Diego in poor weather during an El Nino year.
+    original_excerpt: i remember landing as i was with chris uh sato and uh chris and i we were off the uss ranger which is
+      now decommissioned it's sitting getting turned into razor blades um we're flying the old a6 and we come in and it was
+      off of san diego
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: 844445fd-fb3d-4c6b-98e7-10c917264425
+        title: USS Ranger
+        slug: uss-ranger
+      - node_id: 91687522-b681-4c28-b7aa-c170efa860ab
+        title: A-6 Intruder
+        slug: a-6-intruder
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: c9e262ab-e817-4429-a91c-d526b8251825
+        title: Chris Sato
+        slug: chris-sato
+    date: null
+    date_end: null
+    location_in_record: 00:51:13.1-00:51:25.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: d6453ca0-17dd-4012-ac89-8c60f622c4a0
+    claim_hash: 5dc68bf27e2f31b2f4d64e59dda6355a3d5160b20cf8e76e913aa70b087ba4c6
+    content: David Fravor states that the marine layer cloud ceiling off San Diego is typically around 370 metres, and on
+      the night in question it was lower than that, with heavy rain and thunderstorms.
+    original_excerpt: san diego always has a marine layer that is about 1200 feet was lower than that that night and it was
+      pouring down rain it was an el nino year and there's thunderstorms all around it was just craziest night i've ever seen
+      out of san diego
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:51:27.2-00:51:36.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: c40117a2-a98b-4032-98f9-cab61fa48b02
+    claim_hash: 106fdc58a3f3a16862517e24b993cd4100db80378cbcb5d248c0eaf9807ae94f
+    content: The 2004 USS Nimitz UFO incident took place off the coast of San Diego, California, near Mexico.
+    original_excerpt: If you look at a map and you go San Diego and then inside of Mexico, we're kind of in between that
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '2004'
+    date_end: null
+    location_in_record: 01:19:13.8-01:19:18.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 00ffd9c5-4a3d-4675-8f5a-f10337214346
+    claim_hash: 245f6b874bc72c78acbb9c5c576ecf1f4f1d879ed876cc843e262de8fca0e964
+    content: The FLIR video of the 2004 USS Nimitz Tic Tac object leaked online around 2008 to early 2009, after David Fravor
+      had retired from the Navy and was working in San Diego.
+    original_excerpt: It was leaked in 2007? / About, no... so this is about 2008 early 2009.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: '2008'
+    date_end: null
+    location_in_record: 01:34:50.7-01:34:54.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 721494c9-7f6d-4a0d-9af9-acdddc267a51
+    claim_hash: 9ee04f4acbf0996d877ac05564ca416c3135f26b60337acf5081e23e8b0969e1
+    content: During the 2004 USS Nimitz Tic Tac UAP encounter, unidentified aerial objects were first spotted at an altitude
+      of over approximately 24,000 metres, tracking south towards the carrier fleet from around San Clemente Island off San
+      Diego.
+    original_excerpt: The UAPs were first spotted somewhere above 80,000 feet (24,383 metres) tracking south towards the carrier
+      fleet from around San Clemente Island (off San Diego)
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: 3e9a3527-501e-4e8e-94ee-5ddda242dce7
+        title: USA, California, San Clemente Island
+        slug: california-san-clemente-island-usa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '2004-11-10'
+    date_end: null
+    location_in_record: ch16:2144-2298
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7cf43ad3-fab9-4454-90ab-5e25d61e6bc2
+    claim_hash: 5f5629bbabc3019407a910e1eb976ae04dad42e8cbffea9722c1fb5ecbe6a544
+    content: The 2004 USS Nimitz Tic Tac UAP encounter occurred in the north-eastern Pacific Ocean, about 100 kilometres off
+      the coast at a mid-point between San Diego, California and Ensenada, Mexico.
+    original_excerpt: On a clear day in the north-eastern Pacific Ocean, about 100 kilometres off the coast at a mid-point
+      between the US city of San Diego and the coastal town of Ensenada in Mexico
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: 97dd20b2-8c81-4909-a42e-9034abd5b1e5
+        title: Mexico, Ensenada
+        slug: ensenada-mexico
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:270-440
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5d9c3e93-4e0e-4d13-ab4e-f031aeefd54d
+    claim_hash: 3c395b223b1a8361605c5b1724aac4c95012492e3292cc1f2749bec1e729e72f
+    content: Within a few hours of the initial radar sightings on 2004-11-14, the USS Nimitz planned to launch as many as
+      30 aircraft, with more scheduled to join the carrier group exercise from San Diego.
+    original_excerpt: Within a few hours of this sighting, the USS Nimitz planned to launch as many as 30 aircraft and more
+      were scheduled to be joining the carrier group exercise from San Diego.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:6036-6205
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a692b189-1226-41ca-9540-c4445d57fa01
+    claim_hash: b505f99d70b2b13f1886a851106550a7a5f2c38fb58e09bedc1625f259ff0fe3
+    content: In November 2004, the USS Nimitz Carrier Strike Group was training approximately 160 kilometres southwest of
+      San Diego, California.
+    original_excerpt: It was November 2004, and the USS Nimitz Carrier Strike Group was training about 100 miles southwest
+      of San Diego.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: 2004-11
+    date_end: null
+    location_in_record: 00:07:14.4-00:07:22.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+      record_title: Navy pilots describe encounters with UFOs
+      record_date: '2021-05-17'
+      record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+      content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
+      friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
+  - claim_id: d627804e-93ed-4079-b8dc-0d416a218f7f
+    claim_hash: a1bad04e3321afd941f9f99eb669f867a84d4084c9a9ca1103e743f0ab1673a5
+    content: On 2004-11-14, David Fravor and his squadron were conducting a work-up integrating ships and the carrier air
+      wing off the coast of San Diego, California.
+    original_excerpt: we were doing an air to air defense to hone not only our skills but those of the USS Princeton when
+      they had been tracking them for 2 weeks.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+        title: USS Princeton (CG-59)
+        slug: uss-princeton-cg-59
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: char:123271-123405
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 5aa8fa38-da09-452c-ac60-44e2fc1227c4
+    claim_hash: 6ec64f66beb31080d311e4793fdd28d9e8ca8c0211bf0e9d33a8006608167ec8
+    content: The weather off San Diego on 2004-11-14 was clear with light winds, no whitecaps, and no clouds.
+    original_excerpt: it was a perfect day, light winds, no whitecaps, clear skies. Not a cloud.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
+        title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) encounter
+        slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: char:123795-123863
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 3e683cf6-566b-4c9a-95e6-28f71619e079
+    claim_hash: 1a7ab979339d863e49d0c4bad9291d3fd6954104e638c0173f6e71af59d39af7
+    content: During the 2004 USS Nimitz UAP encounter, David Fravor's crew observed whitewater disturbance on the ocean surface
+      off the coast of San Diego.
+    original_excerpt: we noticed that we saw some whitewater off our right side
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
+        title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) encounter
+        slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: 2004-11
+    date_end: null
+    location_in_record: char:41342-41395
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: e07dae07-6caf-467c-8b3d-115f6b2454ec
+    claim_hash: 5bf4d93e28576ad8c28b2965117d5adfeecb4b70904f9e6cfe52c969c7fbc584
+    content: Weather conditions off the coast of San Diego during the 2004 USS Nimitz UAP encounter were clear skies, light
+      winds, calm seas, and no whitecaps.
+    original_excerpt: the weather on this day was as close to perfect as you could ask for off the coast of San Diego. Clear
+      skies, light winds, calm seas, no whitecaps from waves.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
+        title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) encounter
+        slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: 2004-11
+    date_end: null
+    location_in_record: char:41431-41583
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: b6856481-ac2a-4a83-9363-333839eaa2b8
+    claim_hash: 4e11c0990248dee5546d6b6ef69b101b75661d4bc344c1523f78ac3165ebc94e
+    content: The egg-shaped Unidentified Aerial Phenomena (UAP) form seen at Socorro in 1964 recurs in reports over the following
+      decades, most famously in the 2004 sightings by naval aviators off the coast of San Diego, California.
+    original_excerpt: This "egg" shape pops up in reports over the decades, arguably most famously in the 2004 case of sightings
+      by naval aviators off the coast of San Diego.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch12:23962-24108
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: bd4ed419-95d2-490a-a9a3-95f7f8c34563
+    claim_hash: f5cb051743baf00e61f36bd1d2d71e7d318b67b8348ee2012bc8b825d6f6cd76
+    content: Five vessels began travelling together in US waters off the coast of San Diego, California, forming a carrier
+      strike group, ahead of the 2004 USS Nimitz UAP encounter.
+    original_excerpt: Five vessels had begun traveling together in US waters off the coast of San Diego in what is known as
+      a carrier strike group.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch15:1129-1248
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 95240f23-2f22-4843-95fa-116c48ba9070
+    claim_hash: 0b8400139040bd633b594b49a2ad91e1407581546caf5defe68372845fa9ae97
+    content: During the 2004 USS Nimitz Unidentified Aerial Phenomena (UAP) encounter, Dave Fravor flew an F/A-18 Hornet and
+      circled down to confront a Tic Tac-shaped object off the coast of San Diego, California.
+    original_excerpt: Think back to Commander Dave Fravor flying that F/A-18 Hornet as he circled down to confront the Tic
+      Tac off the coast of San Diego.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: 55991bcf-937b-46da-9858-2b733307190b
+        title: Tic Tac
+        slug: tic-tac
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+        title: F/A-18
+        slug: fa-18
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: 2004-11
+    date_end: null
+    location_in_record: ch24:7582-7708
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 5242da16-a248-4220-93c8-a00b043f7cb6
+    claim_hash: f687e2b088c422da52f5c9ef73180468338db0e6e0163119e54c6f8ff2f9d746
+    content: To The Stars Academy's planned location was in Encinitas, California, about thirty minutes north of San Diego
+      along the coast.
+    original_excerpt: DeLonge was a proud son of Poway, near San Diego. TTSA’s planned location was in Encinitas, about thirty
+      minutes north of the city, along the coast.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: d0624c56-994f-42bd-992c-ab7ed806d1d7
+        title: USA, California, Poway
+        slug: california-poway-usa
+      - node_id: e8cfacb5-8b7d-4e2a-934c-ebf934b27667
+        title: USA, California, Encinitas
+        slug: california-encinitas-usa
+    date: null
+    date_end: null
+    location_in_record: ch29:15232-15374
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 3c7ab0d3-c53e-4b35-9254-a6696bb3b451
+    claim_hash: 73b172d09b16aebb554fb635daefa3209e45ca22adabbb4f11c883e873ae2210
+    content: During the family's move to California, Luis Elizondo's daughter Taylor Elizondo stayed behind for college while
+      his daughter Alex Elizondo was uprooted to finish her senior year of high school in California.
+    original_excerpt: Taylor was staying behind for college. Alex would be uprooted and finish her senior year at a high school
+      in California.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2acf45fc-91f9-4565-9e36-929c510689b4
+        title: Alex Elizondo
+        slug: alex-elizondo
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: 8c8742d7-44c1-4f67-bf40-895e1a51da60
+        title: Taylor Elizondo
+        slug: taylor-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch29:18610-18719
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b2bb4817-61e7-4d5b-80fb-c4eec4be0539
+    claim_hash: 352cacabb8438882a5f833f1ec18aacda4c3c941aef5e1cb52e6099c5971327a
+    content: During the 2004 USS Nimitz UAP encounter, the USS Nimitz was operating off the coast of San Diego, California,
+      escorted by the USS Princeton.
+    original_excerpt: Envision the Nimitz operating off the coast of San Diego on a brilliant sunny day, escorted by the USS
+      Princeton
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: named
+      origin: a Navy pilot who participated in the 2004 USS Nimitz UAP encounter
+      relay:
+        - confirmed to Chris Mellon
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+        title: USS Princeton (CG-59)
+        slug: uss-princeton-cg-59
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: 00:13:41.9-00:13:48.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null

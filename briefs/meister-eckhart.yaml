@@ -9,205 +9,218 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1401
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
 related_nodes:
-- node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
-  title: Anne Strieber
-  node_type: person
-  slug: anne-strieber
-  shared_claims: 1
-- node_id: ac57aa9b-7242-4443-a17f-649c07915a1d
-  title: Gerald's Party (novel by Robert Coover)
-  node_type: document
-  slug: geralds-party-novel-by-robert-coover
-  shared_claims: 1
-- node_id: d34544c9-56f7-4910-a711-f75dfc632998
-  title: Robert Coover
-  node_type: person
-  slug: robert-coover
-  shared_claims: 1
-- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-  title: Whitley Strieber
-  node_type: person
-  slug: whitley-strieber
-  shared_claims: 1
-claims:
-- claim_id: b9ffd9fd-dd17-4470-b354-f49b335f42de
-  claim_hash: cd378b0c60fbd5709b385e03013183d72beda4178c8797337f35bdf401130681
-  content: Meister Eckhart said, "God laughs and plays."
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: c04062b2-67fe-4d39-9274-2fb3c36287ad
-    title: Meister Eckhart
-  provenance_chain:
-    origin_kind: named
-    origin: Meister Eckhart
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c04062b2-67fe-4d39-9274-2fb3c36287ad
-    title: Meister Eckhart
-    slug: meister-eckhart
-  date: null
-  date_end: null
-  location_in_record: ch15:7744-7780
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: cbb2261f-ee43-48d5-9c22-4efc01fd0042
-  claim_hash: a8346dd75ae728d24607773ad5acbaa810dcab59751200e0798a51ce8fc65ec2
-  content: After writing "Pain," Whitley Strieber found he could not sustain attention
-    for more than five or ten minutes at a time, and an attempt to read Gerald's Party
-    by Robert Coover left him profoundly confused, as did his study of sermons by
-    the thirteenth-century mystical philosopher Meister Eckhart.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: ac57aa9b-7242-4443-a17f-649c07915a1d
-    title: Gerald's Party (novel by Robert Coover)
-    slug: geralds-party-novel-by-robert-coover
-  - node_id: c04062b2-67fe-4d39-9274-2fb3c36287ad
-    title: Meister Eckhart
-    slug: meister-eckhart
-  - node_id: d34544c9-56f7-4910-a711-f75dfc632998
-    title: Robert Coover
-    slug: robert-coover
-  date: null
-  date_end: null
-  location_in_record: ch9:33531-33947
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: e5759373-cfd8-48fb-ab8f-7494c6278f2d
-  claim_hash: cd4f9b6dc04afae3e0c8671e8f8c51d092a4aeddb269a59e9674e94e81335c7e
-  content: Meister Eckhart was tried for heresy in the Middle Ages and would have
-    been burned to death if found guilty.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c04062b2-67fe-4d39-9274-2fb3c36287ad
-    title: Meister Eckhart
-    slug: meister-eckhart
-  date: null
-  date_end: null
-  location_in_record: ch18:11685-11800
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 00a66024-5e96-49c2-a7ba-8d5ce81a10eb
-  claim_hash: d6119ad130651a6ec28e4d7f25c7f8afd2c8f73c1fb7034d93c806381dcb9b86
-  content: Anne Strieber regarded one of Meister Eckhart's sermon statements, "God
-    laughs and plays," as the most revealing and deeply true statement in the Western
-    religious canon.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
-    title: Anne Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Anne Strieber
-    relay:
-    - Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
   - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
     title: Anne Strieber
+    node_type: person
     slug: anne-strieber
-  - node_id: c04062b2-67fe-4d39-9274-2fb3c36287ad
-    title: Meister Eckhart
-    slug: meister-eckhart
-  date: null
-  date_end: null
-  location_in_record: ch18:11886-12009
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: a0bf80d1-79c1-454f-aac3-0e6a9b8a2273
-  claim_hash: bb4eae9a9e733d0f2f1a613fd64ab46da3fb0fd4d3215819708ebec01565e28b
-  content: Meister Eckhart was a fourteenth-century mystic.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    shared_claims: 1
+  - node_id: ac57aa9b-7242-4443-a17f-649c07915a1d
+    title: Gerald's Party (novel by Robert Coover)
+    node_type: document
+    slug: geralds-party-novel-by-robert-coover
+    shared_claims: 1
+  - node_id: d34544c9-56f7-4910-a711-f75dfc632998
+    title: Robert Coover
+    node_type: person
+    slug: robert-coover
+    shared_claims: 1
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
     title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c04062b2-67fe-4d39-9274-2fb3c36287ad
-    title: Meister Eckhart
-    slug: meister-eckhart
-  date: null
-  date_end: null
-  location_in_record: ch18:9934-9972
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+claims:
+  - claim_id: b9ffd9fd-dd17-4470-b354-f49b335f42de
+    claim_hash: cd378b0c60fbd5709b385e03013183d72beda4178c8797337f35bdf401130681
+    content: Meister Eckhart said, "God laughs and plays."
+    original_excerpt: '"God laughs and plays," said Meister Eckhart.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c04062b2-67fe-4d39-9274-2fb3c36287ad
+      title: Meister Eckhart
+    provenance_chain:
+      origin_kind: named
+      origin: Meister Eckhart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c04062b2-67fe-4d39-9274-2fb3c36287ad
+        title: Meister Eckhart
+        slug: meister-eckhart
+    date: null
+    date_end: null
+    location_in_record: ch15:7744-7780
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: cbb2261f-ee43-48d5-9c22-4efc01fd0042
+    claim_hash: a8346dd75ae728d24607773ad5acbaa810dcab59751200e0798a51ce8fc65ec2
+    content: After writing "Pain," Whitley Strieber found he could not sustain attention for more than five or ten minutes
+      at a time, and an attempt to read Gerald's Party by Robert Coover left him profoundly confused, as did his study of
+      sermons by the thirteenth-century mystical philosopher Meister Eckhart.
+    original_excerpt: After writing "Pain" I found that I could not sustain enough attention to work for more than five or
+      ten minutes at a time. An attempt to read *Gerald's Party* by Robert Coover left me profoundly confused... I had been
+      reading some sermons of the thirteenth-century mystical philosopher Meister Eckhart, but this study had to be abandoned.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: ac57aa9b-7242-4443-a17f-649c07915a1d
+        title: Gerald's Party (novel by Robert Coover)
+        slug: geralds-party-novel-by-robert-coover
+      - node_id: c04062b2-67fe-4d39-9274-2fb3c36287ad
+        title: Meister Eckhart
+        slug: meister-eckhart
+      - node_id: d34544c9-56f7-4910-a711-f75dfc632998
+        title: Robert Coover
+        slug: robert-coover
+    date: null
+    date_end: null
+    location_in_record: ch9:33531-33947
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: e5759373-cfd8-48fb-ab8f-7494c6278f2d
+    claim_hash: cd4f9b6dc04afae3e0c8671e8f8c51d092a4aeddb269a59e9674e94e81335c7e
+    content: Meister Eckhart was tried for heresy in the Middle Ages and would have been burned to death if found guilty.
+    original_excerpt: in the brutal Middle Ages when Meister Eckhart was tried for heresy, if found guilty, he would have
+      been burned to death
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c04062b2-67fe-4d39-9274-2fb3c36287ad
+        title: Meister Eckhart
+        slug: meister-eckhart
+    date: null
+    date_end: null
+    location_in_record: ch18:11685-11800
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 00a66024-5e96-49c2-a7ba-8d5ce81a10eb
+    claim_hash: d6119ad130651a6ec28e4d7f25c7f8afd2c8f73c1fb7034d93c806381dcb9b86
+    content: Anne Strieber regarded one of Meister Eckhart's sermon statements, "God laughs and plays," as the most revealing
+      and deeply true statement in the Western religious canon.
+    original_excerpt: One of his sermons contains what my wife regarded as the most revealing and deeply true statement in
+      the Western religious canon.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+      title: Anne Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Anne Strieber
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+        title: Anne Strieber
+        slug: anne-strieber
+      - node_id: c04062b2-67fe-4d39-9274-2fb3c36287ad
+        title: Meister Eckhart
+        slug: meister-eckhart
+    date: null
+    date_end: null
+    location_in_record: ch18:11886-12009
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: a0bf80d1-79c1-454f-aac3-0e6a9b8a2273
+    claim_hash: bb4eae9a9e733d0f2f1a613fd64ab46da3fb0fd4d3215819708ebec01565e28b
+    content: Meister Eckhart was a fourteenth-century mystic.
+    original_excerpt: the fourteenth-century mystic Meister Eckhart
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c04062b2-67fe-4d39-9274-2fb3c36287ad
+        title: Meister Eckhart
+        slug: meister-eckhart
+    date: null
+    date_end: null
+    location_in_record: ch18:9934-9972
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind

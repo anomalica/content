@@ -9,280 +9,289 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1705
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
 related_nodes:
-- node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
-  title: Barney Hill
-  node_type: person
-  slug: barney-hill
-  shared_claims: 5
-- node_id: 827a669c-493c-4ea2-a245-a47d300ef053
-  title: Betty Hill
-  node_type: person
-  slug: betty-hill
-  shared_claims: 5
-- node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
-  title: Benjamin Simon
-  node_type: person
-  slug: benjamin-simon
-  shared_claims: 2
-- node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
-  title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
-  node_type: event
-  slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
-  shared_claims: 1
-- node_id: 92a70f77-d5d2-4547-bc55-49a07cdd6b24
-  title: Betty Hill's 1961 dress Deoxyribonucleic Acid (DNA) analysis
-  node_type: event
-  slug: betty-hills-1961-dress-deoxyribonucleic-acid-dna-analysis
-  shared_claims: 1
-- node_id: d14b3339-6bbf-4080-b619-31bb0679c7ae
-  title: Canada, Quebec, Montreal
-  node_type: place
-  slug: quebec-montreal-canada
-  shared_claims: 1
-claims:
-- claim_id: 3379ee3b-061d-48d6-bcd4-b04d1ca3cd77
-  claim_hash: 49d5a10b2150bf44c35bcfebdac5e48835dd8dea2150efebbc535c6723f463a4
-  content: Barney Hill had been under treatment for about a year with a New Hampshire
-    psychiatrist for marked anxiety before being referred to Benjamin Simon.
-  original_excerpt: He gave me the several stories that he had been under treatment
-    for about a year with a New Hampshire psychiatrist. for marked anxiety, had also
-    symptoms of high blood pressure. And over the year, he hadn't gotten very far
-    and was ultimately recommended to me by his psychiatrist.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
-    title: Benjamin Simon
-  provenance_chain:
-    origin_kind: speaker
-    origin: Benjamin Simon
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+  - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+    title: Barney Hill
+    node_type: person
+    slug: barney-hill
+    shared_claims: 5
+  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+    title: Betty Hill
+    node_type: person
+    slug: betty-hill
+    shared_claims: 5
   - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
     title: Benjamin Simon
+    node_type: person
     slug: benjamin-simon
-  - node_id: ab8ed1ae-1526-45bf-ac89-dc9885c5ec7a
-    title: USA, New Hampshire
-    slug: new-hampshire-usa
-  - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
-    title: Barney Hill
-    slug: barney-hill
-  date: null
-  date_end: null
-  location_in_record: 00:01:44.0-00:02:07.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
-    record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories
-      | Dr. Benjamin Simon Speaks
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
-    content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
-    friendly_name: null
-- claim_id: 8905fb59-4aa0-4d76-93cc-f1a438b40b2c
-  claim_hash: 2a80eccb399eb63a019fa8f18e6351b4e4cdc6f929cd983f8222273e1f666c3e
-  content: Barney and Betty Hill's account of the missing two hours first came to
-    light during Barney Hill's treatment by his New Hampshire psychiatrist.
-  original_excerpt: That story had first come to light doing the treatment by his
-    New Hampshire psychiatrist.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
-    title: Benjamin Simon
-  provenance_chain:
-    origin_kind: speaker
-    origin: Benjamin Simon
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
-    title: Betty Hill
-    slug: betty-hill
-  - node_id: ab8ed1ae-1526-45bf-ac89-dc9885c5ec7a
-    title: USA, New Hampshire
-    slug: new-hampshire-usa
-  - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
-    title: Barney Hill
-    slug: barney-hill
-  date: null
-  date_end: null
-  location_in_record: 00:02:47.7-00:02:55.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
-    record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories
-      | Dr. Benjamin Simon Speaks
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
-    content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
-    friendly_name: null
-- claim_id: 11907557-d19d-4889-88a4-87f10719c124
-  claim_hash: f00d0279a12f89a4cdbb3127a5aa5ef0c4c1860f0605bffbccfad78ba15916f7
-  content: Benjamin Simon began the hypnosis sessions from a starting point at Montreal,
-    Quebec, Canada, where Barney and Betty Hill had been at the top of their journey
-    home from Niagara Falls to New Hampshire.
-  original_excerpt: I took them back to a starting point of Montreal. They had been
-    to Niagara Falls and were coming home. And Montreal, you might say, was at the
-    top of the journey...coming down to New Hampshire.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
-    title: Benjamin Simon
-  provenance_chain:
-    origin_kind: speaker
-    origin: Benjamin Simon
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
-    title: Benjamin Simon
-    slug: benjamin-simon
-  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
-    title: Betty Hill
-    slug: betty-hill
-  - node_id: ab8ed1ae-1526-45bf-ac89-dc9885c5ec7a
-    title: USA, New Hampshire
-    slug: new-hampshire-usa
-  - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
-    title: Barney Hill
-    slug: barney-hill
-  - node_id: d14b3339-6bbf-4080-b619-31bb0679c7ae
-    title: Canada, Quebec, Montreal
-    slug: quebec-montreal-canada
-  date: null
-  date_end: null
-  location_in_record: 00:05:09.2-00:05:25.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
-    record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories
-      | Dr. Benjamin Simon Speaks
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
-    content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
-    friendly_name: null
-- claim_id: efc13a34-ec8b-4b1e-a6ee-6061353ff9cd
-  claim_hash: d2a15c80a7e6207b7644bb37503245361bbfb2c416637d3eb7a04c573a70c557
-  content: Betty Hill's dress had been hanging in the closet of her New Hampshire
-    home relatively undisturbed for decades before analysis.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
-    title: Betty Hill
-    slug: betty-hill
-  - node_id: 92a70f77-d5d2-4547-bc55-49a07cdd6b24
-    title: Betty Hill's 1961 dress Deoxyribonucleic Acid (DNA) analysis
-    slug: betty-hills-1961-dress-deoxyribonucleic-acid-dna-analysis
-  - node_id: ab8ed1ae-1526-45bf-ac89-dc9885c5ec7a
-    title: USA, New Hampshire
-    slug: new-hampshire-usa
-  date: null
-  date_end: null
-  location_in_record: ch18:4616-4716
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 9183580f-d09a-45de-9d1b-f7a8215d2e96
-  claim_hash: 53b14aa8e806073aa72bd02132e904d14b457741dde3d9c29d04e83539820f20
-  content: Betty Hill and Barney Hill lived in New Hampshire.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
-    title: Betty Hill
-    slug: betty-hill
-  - node_id: ab8ed1ae-1526-45bf-ac89-dc9885c5ec7a
-    title: USA, New Hampshire
-    slug: new-hampshire-usa
-  - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
-    title: Barney Hill
-    slug: barney-hill
-  date: null
-  date_end: null
-  location_in_record: ch4:42070-42088
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: f7201d79-2649-4546-93db-3ea2257a8767
-  claim_hash: efad0fe0295f6fb42fd33822585f8109ce861ef454b257e8e06600761b325475
-  content: On 1961-09-19, Betty Hill and Barney Hill were driving on a rural road
-    in New Hampshire when they spotted a light that resembled a falling star but moved
-    differently.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Betty Hill and Barney Hill
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
-    title: Betty Hill
-    slug: betty-hill
+    shared_claims: 2
   - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
     title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+    node_type: event
     slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
-  - node_id: ab8ed1ae-1526-45bf-ac89-dc9885c5ec7a
-    title: USA, New Hampshire
-    slug: new-hampshire-usa
-  - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
-    title: Barney Hill
-    slug: barney-hill
-  date: '1961-09-19'
-  date_end: null
-  location_in_record: ch4:42099-42237
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 92a70f77-d5d2-4547-bc55-49a07cdd6b24
+    title: Betty Hill's 1961 dress Deoxyribonucleic Acid (DNA) analysis
+    node_type: event
+    slug: betty-hills-1961-dress-deoxyribonucleic-acid-dna-analysis
+    shared_claims: 1
+  - node_id: d14b3339-6bbf-4080-b619-31bb0679c7ae
+    title: Canada, Quebec, Montreal
+    node_type: place
+    slug: quebec-montreal-canada
+    shared_claims: 1
+claims:
+  - claim_id: 3379ee3b-061d-48d6-bcd4-b04d1ca3cd77
+    claim_hash: 49d5a10b2150bf44c35bcfebdac5e48835dd8dea2150efebbc535c6723f463a4
+    content: Barney Hill had been under treatment for about a year with a New Hampshire psychiatrist for marked anxiety before
+      being referred to Benjamin Simon.
+    original_excerpt: He gave me the several stories that he had been under treatment for about a year with a New Hampshire
+      psychiatrist. for marked anxiety, had also symptoms of high blood pressure. And over the year, he hadn't gotten very
+      far and was ultimately recommended to me by his psychiatrist.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+      title: Benjamin Simon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Benjamin Simon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+        title: Benjamin Simon
+        slug: benjamin-simon
+      - node_id: ab8ed1ae-1526-45bf-ac89-dc9885c5ec7a
+        title: USA, New Hampshire
+        slug: new-hampshire-usa
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: 00:01:44.0-00:02:07.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
+      record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories | Dr. Benjamin Simon Speaks
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
+      content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
+      friendly_name: null
+  - claim_id: 8905fb59-4aa0-4d76-93cc-f1a438b40b2c
+    claim_hash: 2a80eccb399eb63a019fa8f18e6351b4e4cdc6f929cd983f8222273e1f666c3e
+    content: Barney and Betty Hill's account of the missing two hours first came to light during Barney Hill's treatment by
+      his New Hampshire psychiatrist.
+    original_excerpt: That story had first come to light doing the treatment by his New Hampshire psychiatrist.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+      title: Benjamin Simon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Benjamin Simon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: ab8ed1ae-1526-45bf-ac89-dc9885c5ec7a
+        title: USA, New Hampshire
+        slug: new-hampshire-usa
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: 00:02:47.7-00:02:55.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
+      record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories | Dr. Benjamin Simon Speaks
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
+      content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
+      friendly_name: null
+  - claim_id: 11907557-d19d-4889-88a4-87f10719c124
+    claim_hash: f00d0279a12f89a4cdbb3127a5aa5ef0c4c1860f0605bffbccfad78ba15916f7
+    content: Benjamin Simon began the hypnosis sessions from a starting point at Montreal, Quebec, Canada, where Barney and
+      Betty Hill had been at the top of their journey home from Niagara Falls to New Hampshire.
+    original_excerpt: I took them back to a starting point of Montreal. They had been to Niagara Falls and were coming home.
+      And Montreal, you might say, was at the top of the journey...coming down to New Hampshire.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+      title: Benjamin Simon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Benjamin Simon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+        title: Benjamin Simon
+        slug: benjamin-simon
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: ab8ed1ae-1526-45bf-ac89-dc9885c5ec7a
+        title: USA, New Hampshire
+        slug: new-hampshire-usa
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+      - node_id: d14b3339-6bbf-4080-b619-31bb0679c7ae
+        title: Canada, Quebec, Montreal
+        slug: quebec-montreal-canada
+    date: null
+    date_end: null
+    location_in_record: 00:05:09.2-00:05:25.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
+      record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories | Dr. Benjamin Simon Speaks
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
+      content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
+      friendly_name: null
+  - claim_id: efc13a34-ec8b-4b1e-a6ee-6061353ff9cd
+    claim_hash: d2a15c80a7e6207b7644bb37503245361bbfb2c416637d3eb7a04c573a70c557
+    content: Betty Hill's dress had been hanging in the closet of her New Hampshire home relatively undisturbed for decades
+      before analysis.
+    original_excerpt: The dress had been hanging in the closet of her New Hampshire home relatively undisturbed all those
+      years.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: 92a70f77-d5d2-4547-bc55-49a07cdd6b24
+        title: Betty Hill's 1961 dress Deoxyribonucleic Acid (DNA) analysis
+        slug: betty-hills-1961-dress-deoxyribonucleic-acid-dna-analysis
+      - node_id: ab8ed1ae-1526-45bf-ac89-dc9885c5ec7a
+        title: USA, New Hampshire
+        slug: new-hampshire-usa
+    date: null
+    date_end: null
+    location_in_record: ch18:4616-4716
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 9183580f-d09a-45de-9d1b-f7a8215d2e96
+    claim_hash: 53b14aa8e806073aa72bd02132e904d14b457741dde3d9c29d04e83539820f20
+    content: Betty Hill and Barney Hill lived in New Hampshire.
+    original_excerpt: They lived in New Hampshire.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: ab8ed1ae-1526-45bf-ac89-dc9885c5ec7a
+        title: USA, New Hampshire
+        slug: new-hampshire-usa
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: ch4:42070-42088
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: f7201d79-2649-4546-93db-3ea2257a8767
+    claim_hash: efad0fe0295f6fb42fd33822585f8109ce861ef454b257e8e06600761b325475
+    content: On 1961-09-19, Betty Hill and Barney Hill were driving on a rural road in New Hampshire when they spotted a light
+      that resembled a falling star but moved differently.
+    original_excerpt: On September 19, 1961, they were driving on a rural road in that state, when they spotted a light that
+      resembled a falling star but moved differently.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Betty Hill and Barney Hill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ab8ed1ae-1526-45bf-ac89-dc9885c5ec7a
+        title: USA, New Hampshire
+        slug: new-hampshire-usa
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: '1961-09-19'
+    date_end: null
+    location_in_record: ch4:42099-42237
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic

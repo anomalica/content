@@ -9,656 +9,662 @@ page:
   claim_count: 15
   claim_count_total: 15
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 15
+  tokens_estimated: 4764
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 15
 related_nodes:
-- node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-  title: Julia Mossbridge
-  node_type: person
-  slug: julia-mossbridge
-  shared_claims: 9
-- node_id: 3ff75793-423c-4333-8402-d5c543074091
-  title: Bill Chalker
-  node_type: person
-  slug: bill-chalker
-  shared_claims: 2
-- node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-  title: alien abduction
-  node_type: topic
-  slug: alien-abduction
-  shared_claims: 2
-- node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
-  title: Jordan Jozak
-  node_type: person
-  slug: jordan-jozak
-  shared_claims: 1
-- node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
-  title: Peter Khoury
-  node_type: person
-  slug: peter-khoury
-  shared_claims: 1
-- node_id: ce6f6bfe-db96-4aa5-a836-c04b0d897a42
-  title: Richard McNally
-  node_type: person
-  slug: richard-mcnally
-  shared_claims: 1
-- node_id: ee504fb8-15ee-4206-bf0f-204d64fe8f24
-  title: Sally (Budd Hopkins abductee)
-  node_type: person
-  slug: sally-budd-hopkins-abductee
-  shared_claims: 1
-- node_id: 475770e2-bd8c-44ae-8d95-a9f6b9c639a3
-  title: Scott Browne
-  node_type: person
-  slug: scott-browne
-  shared_claims: 1
-- node_id: 373e266a-9430-4cea-88d0-0fd5dd811ae6
-  title: Stewart (Sally's alleged transgenic visitor)
-  node_type: person
-  slug: stewart-sallys-alleged-transgenic-visitor
-  shared_claims: 1
-- node_id: 224c7243-0077-417a-a148-29465dacae71
-  title: Susan Clancy
-  node_type: person
-  slug: susan-clancy
-  shared_claims: 1
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 1
-- node_id: c6413eb2-1877-438f-a575-d3181f4cec26
-  title: confabulation
-  node_type: topic
-  slug: confabulation
-  shared_claims: 1
-- node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-  title: ufology
-  node_type: topic
-  slug: ufology
-  shared_claims: 1
-claims:
-- claim_id: cae372ee-d67f-463d-a93f-e00c71bceecc
-  claim_hash: 94a2eae57dbd5878d3d447782afaa3f8d5f8f1a6ee924775f6855e516163d431
-  content: Bill Chalker had serious reservations about the utility of hypnosis as
-    a means of accurately retrieving memories, but after discussions with consultants
-    concluded it might be useful for Peter Khoury to attempt hypnosis before listening
-    to the long-lost interview tape.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 3ff75793-423c-4333-8402-d5c543074091
-    title: Bill Chalker
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bill Chalker
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    slug: hypnotic-regression
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    node_type: person
+    slug: julia-mossbridge
+    shared_claims: 9
   - node_id: 3ff75793-423c-4333-8402-d5c543074091
     title: Bill Chalker
+    node_type: person
     slug: bill-chalker
-  - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
-    title: Peter Khoury
-    slug: peter-khoury
-  date: null
-  date_end: null
-  location_in_record: ch14:11867-12161
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: f572792c-196c-49cc-9bbe-216ebe4fc016
-  claim_hash: c456d61c932d0c8580c62e1cb2c0aa58bcdcfb125cce5cebe1e0928a2fb66d19
-  content: Under hypnosis, Sally (Budd Hopkins abductee) described a memory of being
-    raped by Stewart (Sally's alleged transgenic visitor) at the age of six.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Sally (Budd Hopkins abductee)
-    relay:
-    - Budd Hopkins
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    slug: hypnotic-regression
-  - node_id: 373e266a-9430-4cea-88d0-0fd5dd811ae6
-    title: Stewart (Sally's alleged transgenic visitor)
-    slug: stewart-sallys-alleged-transgenic-visitor
-  - node_id: ee504fb8-15ee-4206-bf0f-204d64fe8f24
-    title: Sally (Budd Hopkins abductee)
-    slug: sally-budd-hopkins-abductee
-  date: null
-  date_end: null
-  location_in_record: ch15:24299-24390
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: c97910f9-5b9f-4074-b683-753c11235ebd
-  claim_hash: 274813754870292cf6338cb3fcaa00031f501bebc27a3cdaff64079ca628d53a
-  content: In Susan Clancy and Richard McNally's study, memories of alien abduction
-    were recovered both in therapy with therapeutic techniques such as hypnosis, and
-    spontaneously after reading books, watching movies, or seeing television shows
-    depicting such episodes.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Susan Clancy and Richard McNally's paper
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    slug: hypnotic-regression
-  - node_id: 224c7243-0077-417a-a148-29465dacae71
-    title: Susan Clancy
-    slug: susan-clancy
+    shared_claims: 2
   - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
     title: alien abduction
+    node_type: topic
     slug: alien-abduction
-  - node_id: ce6f6bfe-db96-4aa5-a836-c04b0d897a42
-    title: Richard McNally
-    slug: richard-mcnally
-  date: null
-  date_end: null
-  location_in_record: ch8:21618-21822
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: da5e2574-6eaf-41a6-9643-292205d7d889
-  claim_hash: 09835b0050fcdbd63cfdb87accb507f1645ce349b97649795940f2a285a1993d
-  content: Bill Chalker states that a significant number of people reporting alien
-    abductions do not rely on hypnosis and other therapeutic techniques, and their
-    memories are based on clearly recollected incidents for which they have no memory
-    loss or delayed recall.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 3ff75793-423c-4333-8402-d5c543074091
-    title: Bill Chalker
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bill Chalker
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    slug: hypnotic-regression
-  - node_id: 3ff75793-423c-4333-8402-d5c543074091
-    title: Bill Chalker
-    slug: bill-chalker
-  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
-    slug: alien-abduction
-  date: null
-  date_end: null
-  location_in_record: ch8:21837-22074
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 2d0d65d5-d4b9-462c-984d-7229393b3545
-  claim_hash: 7875635cb6463b1a8024e9dc90dbaae852c875c39fd11891bef1b0df2ab7fb86
-  content: Scott Browne considers that hypnotic regression can create false memories,
-    and decided not to be hypnotized to uncover childhood events.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 475770e2-bd8c-44ae-8d95-a9f6b9c639a3
-    title: Scott Browne
-  provenance_chain:
-    origin_kind: speaker
-    origin: Scott Browne
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    slug: hypnotic-regression
-  - node_id: 475770e2-bd8c-44ae-8d95-a9f6b9c639a3
-    title: Scott Browne
-    slug: scott-browne
-  - node_id: c6413eb2-1877-438f-a575-d3181f4cec26
-    title: confabulation
-    slug: confabulation
-  date: null
-  date_end: null
-  location_in_record: ch3:13401-13629
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 05f2d9c8-c8f6-4876-bb21-99ecc9f06f35
-  claim_hash: 22da80c1aaf9d46e783f357b27b3e918c82d05d58600373430c53fe058983445
-  content: The other school of ufology arose with the advent of hypnotic regression
-    applied to experiencers and the contactee and abduction movements, and it focuses
-    on the experiencers themselves and the content of extraterrestrial messages.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    slug: hypnotic-regression
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: ch5:6467-6694
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 79e19570-69e6-4526-8e72-b11010c19b90
-  claim_hash: db5b9927db05261681164dedf074823fd0cfe1f282e7ffa3102d97139ab066ee
-  content: Julia Mossbridge does not know whether the memory loss in the counselling
-    room was caused by a drug or by hypnosis.
-  original_excerpt: I don't know if it was a drug, a hypnosis.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Julia Mossbridge
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    slug: hypnotic-regression
-  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-    slug: julia-mossbridge
-  date: null
-  date_end: null
-  location_in_record: 00:00:39.1-00:00:40.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
-- claim_id: 4a1bbcb1-e798-4df5-85ec-ea253ccd788b
-  claim_hash: 7e8417cc44c7daf461e0facd480a8bfd30874685e761b05dced295805436d714
-  content: Julia Mossbridge decided to undergo hypnotic memory regression to investigate
-    her childhood experiences and asked a contact in the Unidentified Aerial Phenomena
-    field to recommend a practitioner who would not plant ideas in her mind.
-  original_excerpt: I finally decided I would do some regression with some memory
-    regression. I went to a UAP friend in the field, you know, who do you know who's
-    not going to plant ideas in my mind as I do hypnotic regression?
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Julia Mossbridge
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    slug: hypnotic-regression
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-    slug: julia-mossbridge
-  date: null
-  date_end: null
-  location_in_record: 00:29:19.9-00:29:33.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
-- claim_id: f3cb7d27-9ed8-4480-a45e-cfe444077adf
-  claim_hash: 03fcb1a629202bf706117c9c69a1766f37f82e40b4cbd5a360800a61fed4d3b7
-  content: Julia Mossbridge asked her husband to be present for her planned hypnotic
-    regression session because she found the prospect frightening.
-  original_excerpt: I tell my husband, I want you to be with me when we're doing this.
-    Like, this is scary to me, you know?
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Julia Mossbridge
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    slug: hypnotic-regression
-  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-    slug: julia-mossbridge
-  date: null
-  date_end: null
-  location_in_record: 00:29:52.7-00:29:56.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
-- claim_id: 5b3fa44a-9ba9-4070-bf2f-d2d973b4eaa2
-  claim_hash: 7be9767259d0f94e286966f0a2bd1b41656ca1209d88f1fe602ae84de436ede0
-  content: The hypnotic regression practitioner Julia Mossbridge booked cancelled
-    the day before the appointment citing emergency dental surgery, and told her she
-    could not reschedule, saying that any time Julia Mossbridge wanted to do a regression
-    she would have an emergency medical event.
-  original_excerpt: I get a text from her and she says, um, I'm sorry, I have to cancel.
-    I have emergency dental surgery. ... I can't reschedule. Anytime you'd like to
-    do a regression, I will have emergency medical.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Julia Mossbridge
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    slug: hypnotic-regression
-  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-    slug: julia-mossbridge
-  date: null
-  date_end: null
-  location_in_record: 00:29:59.4-00:30:11.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
-- claim_id: 9553184d-0694-46e3-bf4a-7bd93653f8e2
-  claim_hash: 78bc5169b298bc2af2cd8b65f4e85d2f4ee276b0fd32eec55d15ea9e43627608
-  content: Julia Mossbridge's husband suggested the regression practitioner either
-    cancelled to protect Julia Mossbridge because she sensed something, or because
-    she was being told to.
-  original_excerpt: he's like, either she was protecting me because she could sense
-    something or.
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: anonymous
-    origin: Julia Mossbridge's husband
-    relay:
-    - Julia Mossbridge
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    slug: hypnotic-regression
-  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-    slug: julia-mossbridge
-  date: null
-  date_end: null
-  location_in_record: 00:30:28.7-00:30:34.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
-- claim_id: e7acd6d8-55dd-4b48-9896-e6c56f74915b
-  claim_hash: e52249ed2d95bd2bbfa9c3c7ef161b9669cd3eff6ad75c9ae5e64ed594af28e3
-  content: Julia Mossbridge considers it more likely that government contractors rather
-    than the government itself would be efficient enough to direct a regression practitioner
-    to cancel, because she does not think the government is that efficient.
-  original_excerpt: I would think it'd be more likely to be government contractors
-    than the government, because I don't think the government is that efficient.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Julia Mossbridge
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    slug: hypnotic-regression
-  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-    slug: julia-mossbridge
-  date: null
-  date_end: null
-  location_in_record: 00:30:44.5-00:30:48.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
-- claim_id: caf721e6-ef5c-4cec-b848-63b330210913
-  claim_hash: b7d8a59fc5492a0d736d211993eef00ac0916d2b583b3ac38a945e7f6faa942d
-  content: Julia Mossbridge experienced the regression practitioner's cancellation
-    as a shock that removed her capacity to function on the subject in that moment.
-  original_excerpt: It was almost like a shock to my system. It's like it removed
-    my capacity to function about that in that moment.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Julia Mossbridge
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    slug: hypnotic-regression
-  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-    slug: julia-mossbridge
-  date: null
-  date_end: null
-  location_in_record: 00:31:09.2-00:31:16.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
-- claim_id: 62f8315d-d44d-446f-b837-368cb10df4c2
-  claim_hash: 983618e535cde299d954953957899758106faa0d5295f0acc17ddf9a7b929c9a
-  content: Having heard what happened to other people through regressions and to people
-    who remember, such as Jordan Jozak, Julia Mossbridge wonders whether she wants
-    to know and whether knowing would be more traumatising.
-  original_excerpt: Through regressions or even the people who remember, like Jordan
-    Jozak. ... I sort of wonder if I want to know. I sort of wonder if it would be
-    more traumatizing to know. And that's when I land on the protective thing.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Julia Mossbridge
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    slug: hypnotic-regression
+    shared_claims: 2
   - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
     title: Jordan Jozak
+    node_type: person
     slug: jordan-jozak
-  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-    slug: julia-mossbridge
-  date: null
-  date_end: null
-  location_in_record: 00:31:29.8-00:31:42.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
-- claim_id: 8bfdb14a-80ff-4dbf-9cbb-600acc8cd935
-  claim_hash: e5d8937c36da52cd2732f6cda6f6976b701f09115a8183c205818536a5621e3e
-  content: Julia Mossbridge has not attempted hypnotic regression since the practitioner's
-    cancellation, and no longer has that practitioner's contact information or knows
-    who she was.
-  original_excerpt: So ever since then, I haven't done it. ... No, I don't even have
-    her contact information anymore. I don't even know who she was.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Julia Mossbridge
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    slug: hypnotic-regression
-  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-    slug: julia-mossbridge
-  date: null
-  date_end: null
-  location_in_record: lines 252-266
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+    node_type: person
+    slug: peter-khoury
+    shared_claims: 1
+  - node_id: ce6f6bfe-db96-4aa5-a836-c04b0d897a42
+    title: Richard McNally
+    node_type: person
+    slug: richard-mcnally
+    shared_claims: 1
+  - node_id: ee504fb8-15ee-4206-bf0f-204d64fe8f24
+    title: Sally (Budd Hopkins abductee)
+    node_type: person
+    slug: sally-budd-hopkins-abductee
+    shared_claims: 1
+  - node_id: 475770e2-bd8c-44ae-8d95-a9f6b9c639a3
+    title: Scott Browne
+    node_type: person
+    slug: scott-browne
+    shared_claims: 1
+  - node_id: 373e266a-9430-4cea-88d0-0fd5dd811ae6
+    title: Stewart (Sally's alleged transgenic visitor)
+    node_type: person
+    slug: stewart-sallys-alleged-transgenic-visitor
+    shared_claims: 1
+  - node_id: 224c7243-0077-417a-a148-29465dacae71
+    title: Susan Clancy
+    node_type: person
+    slug: susan-clancy
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: c6413eb2-1877-438f-a575-d3181f4cec26
+    title: confabulation
+    node_type: topic
+    slug: confabulation
+    shared_claims: 1
+  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+    title: ufology
+    node_type: topic
+    slug: ufology
+    shared_claims: 1
+claims:
+  - claim_id: cae372ee-d67f-463d-a93f-e00c71bceecc
+    claim_hash: 94a2eae57dbd5878d3d447782afaa3f8d5f8f1a6ee924775f6855e516163d431
+    content: Bill Chalker had serious reservations about the utility of hypnosis as a means of accurately retrieving memories,
+      but after discussions with consultants concluded it might be useful for Peter Khoury to attempt hypnosis before listening
+      to the long-lost interview tape.
+    original_excerpt: I had serious reservations about the utility of hypnosis as a means of accurately retrieving memories,
+      but after discussions with some consultants we concluded that before Peter Khoury listened to this long lost interview
+      tape, it might be useful to see if hypnosis could shed any light on the situation.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: hypnotic regression
+        slug: hypnotic-regression
+      - node_id: 3ff75793-423c-4333-8402-d5c543074091
+        title: Bill Chalker
+        slug: bill-chalker
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+    date: null
+    date_end: null
+    location_in_record: ch14:11867-12161
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: f572792c-196c-49cc-9bbe-216ebe4fc016
+    claim_hash: c456d61c932d0c8580c62e1cb2c0aa58bcdcfb125cce5cebe1e0928a2fb66d19
+    content: Under hypnosis, Sally (Budd Hopkins abductee) described a memory of being raped by Stewart (Sally's alleged transgenic
+      visitor) at the age of six.
+    original_excerpt: Under hypnosis Sally described a harrowing memory of being raped by this man at the age of six.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Sally (Budd Hopkins abductee)
+      relay:
+        - Budd Hopkins
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: hypnotic regression
+        slug: hypnotic-regression
+      - node_id: 373e266a-9430-4cea-88d0-0fd5dd811ae6
+        title: Stewart (Sally's alleged transgenic visitor)
+        slug: stewart-sallys-alleged-transgenic-visitor
+      - node_id: ee504fb8-15ee-4206-bf0f-204d64fe8f24
+        title: Sally (Budd Hopkins abductee)
+        slug: sally-budd-hopkins-abductee
+    date: null
+    date_end: null
+    location_in_record: ch15:24299-24390
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: c97910f9-5b9f-4074-b683-753c11235ebd
+    claim_hash: 274813754870292cf6338cb3fcaa00031f501bebc27a3cdaff64079ca628d53a
+    content: In Susan Clancy and Richard McNally's study, memories of alien abduction were recovered both in therapy with
+      therapeutic techniques such as hypnosis, and spontaneously after reading books, watching movies, or seeing television
+      shows depicting such episodes.
+    original_excerpt: Memories were recovered both in therapy with the help of certain therapeutic techniques (e.g., hypnosis)
+      and spontaneously, after reading books, watching movies, or seeing television shows depicting such episodes."
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Susan Clancy and Richard McNally's paper
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: hypnotic regression
+        slug: hypnotic-regression
+      - node_id: 224c7243-0077-417a-a148-29465dacae71
+        title: Susan Clancy
+        slug: susan-clancy
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+      - node_id: ce6f6bfe-db96-4aa5-a836-c04b0d897a42
+        title: Richard McNally
+        slug: richard-mcnally
+    date: null
+    date_end: null
+    location_in_record: ch8:21618-21822
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: da5e2574-6eaf-41a6-9643-292205d7d889
+    claim_hash: 09835b0050fcdbd63cfdb87accb507f1645ce349b97649795940f2a285a1993d
+    content: Bill Chalker states that a significant number of people reporting alien abductions do not rely on hypnosis and
+      other therapeutic techniques, and their memories are based on clearly recollected incidents for which they have no memory
+      loss or delayed recall.
+    original_excerpt: In fact, there are a significant number of people reporting abductions who do not rely on hypnosis and
+      other therapeutic techniques. Their memories are based on clearly recollected incidents for which they have no memory
+      loss or delayed recall.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: hypnotic regression
+        slug: hypnotic-regression
+      - node_id: 3ff75793-423c-4333-8402-d5c543074091
+        title: Bill Chalker
+        slug: bill-chalker
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: ch8:21837-22074
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 2d0d65d5-d4b9-462c-984d-7229393b3545
+    claim_hash: 7875635cb6463b1a8024e9dc90dbaae852c875c39fd11891bef1b0df2ab7fb86
+    content: Scott Browne considers that hypnotic regression can create false memories, and decided not to be hypnotized to
+      uncover childhood events.
+    original_excerpt: I did a little research on being hypnotized and regressed, and I realized that you can create false
+      memories. I said ‘no thanks’ to that. I decided that it was better to not know than to know something that wasn’t true
+      or never happened.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 475770e2-bd8c-44ae-8d95-a9f6b9c639a3
+      title: Scott Browne
+    provenance_chain:
+      origin_kind: speaker
+      origin: Scott Browne
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: hypnotic regression
+        slug: hypnotic-regression
+      - node_id: 475770e2-bd8c-44ae-8d95-a9f6b9c639a3
+        title: Scott Browne
+        slug: scott-browne
+      - node_id: c6413eb2-1877-438f-a575-d3181f4cec26
+        title: confabulation
+        slug: confabulation
+    date: null
+    date_end: null
+    location_in_record: ch3:13401-13629
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 05f2d9c8-c8f6-4876-bb21-99ecc9f06f35
+    claim_hash: 22da80c1aaf9d46e783f357b27b3e918c82d05d58600373430c53fe058983445
+    content: The other school of ufology arose with the advent of hypnotic regression applied to experiencers and the contactee
+      and abduction movements, and it focuses on the experiencers themselves and the content of extraterrestrial messages.
+    original_excerpt: The other school arose with the advent of the application of hypnotic regression to experiencers and
+      with the contactee and abduction movements; it focuses on the experiencers themselves and the content of the extraterrestrial
+      messages.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: hypnotic regression
+        slug: hypnotic-regression
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: ch5:6467-6694
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 79e19570-69e6-4526-8e72-b11010c19b90
+    claim_hash: db5b9927db05261681164dedf074823fd0cfe1f282e7ffa3102d97139ab066ee
+    content: Julia Mossbridge does not know whether the memory loss in the counselling room was caused by a drug or by hypnosis.
+    original_excerpt: I don't know if it was a drug, a hypnosis.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: hypnotic regression
+        slug: hypnotic-regression
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:00:39.1-00:00:40.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 4a1bbcb1-e798-4df5-85ec-ea253ccd788b
+    claim_hash: 7e8417cc44c7daf461e0facd480a8bfd30874685e761b05dced295805436d714
+    content: Julia Mossbridge decided to undergo hypnotic memory regression to investigate her childhood experiences and asked
+      a contact in the Unidentified Aerial Phenomena field to recommend a practitioner who would not plant ideas in her mind.
+    original_excerpt: I finally decided I would do some regression with some memory regression. I went to a UAP friend in
+      the field, you know, who do you know who's not going to plant ideas in my mind as I do hypnotic regression?
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: hypnotic regression
+        slug: hypnotic-regression
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:29:19.9-00:29:33.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: f3cb7d27-9ed8-4480-a45e-cfe444077adf
+    claim_hash: 03fcb1a629202bf706117c9c69a1766f37f82e40b4cbd5a360800a61fed4d3b7
+    content: Julia Mossbridge asked her husband to be present for her planned hypnotic regression session because she found
+      the prospect frightening.
+    original_excerpt: I tell my husband, I want you to be with me when we're doing this. Like, this is scary to me, you know?
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: hypnotic regression
+        slug: hypnotic-regression
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:29:52.7-00:29:56.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 5b3fa44a-9ba9-4070-bf2f-d2d973b4eaa2
+    claim_hash: 7be9767259d0f94e286966f0a2bd1b41656ca1209d88f1fe602ae84de436ede0
+    content: The hypnotic regression practitioner Julia Mossbridge booked cancelled the day before the appointment citing
+      emergency dental surgery, and told her she could not reschedule, saying that any time Julia Mossbridge wanted to do
+      a regression she would have an emergency medical event.
+    original_excerpt: I get a text from her and she says, um, I'm sorry, I have to cancel. I have emergency dental surgery.
+      ... I can't reschedule. Anytime you'd like to do a regression, I will have emergency medical.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: hypnotic regression
+        slug: hypnotic-regression
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:29:59.4-00:30:11.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 9553184d-0694-46e3-bf4a-7bd93653f8e2
+    claim_hash: 78bc5169b298bc2af2cd8b65f4e85d2f4ee276b0fd32eec55d15ea9e43627608
+    content: Julia Mossbridge's husband suggested the regression practitioner either cancelled to protect Julia Mossbridge
+      because she sensed something, or because she was being told to.
+    original_excerpt: he's like, either she was protecting me because she could sense something or.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: anonymous
+      origin: Julia Mossbridge's husband
+      relay:
+        - Julia Mossbridge
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: hypnotic regression
+        slug: hypnotic-regression
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:30:28.7-00:30:34.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: e7acd6d8-55dd-4b48-9896-e6c56f74915b
+    claim_hash: e52249ed2d95bd2bbfa9c3c7ef161b9669cd3eff6ad75c9ae5e64ed594af28e3
+    content: Julia Mossbridge considers it more likely that government contractors rather than the government itself would
+      be efficient enough to direct a regression practitioner to cancel, because she does not think the government is that
+      efficient.
+    original_excerpt: I would think it'd be more likely to be government contractors than the government, because I don't
+      think the government is that efficient.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: hypnotic regression
+        slug: hypnotic-regression
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:30:44.5-00:30:48.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: caf721e6-ef5c-4cec-b848-63b330210913
+    claim_hash: b7d8a59fc5492a0d736d211993eef00ac0916d2b583b3ac38a945e7f6faa942d
+    content: Julia Mossbridge experienced the regression practitioner's cancellation as a shock that removed her capacity
+      to function on the subject in that moment.
+    original_excerpt: It was almost like a shock to my system. It's like it removed my capacity to function about that in
+      that moment.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: hypnotic regression
+        slug: hypnotic-regression
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:31:09.2-00:31:16.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 62f8315d-d44d-446f-b837-368cb10df4c2
+    claim_hash: 983618e535cde299d954953957899758106faa0d5295f0acc17ddf9a7b929c9a
+    content: Having heard what happened to other people through regressions and to people who remember, such as Jordan Jozak,
+      Julia Mossbridge wonders whether she wants to know and whether knowing would be more traumatising.
+    original_excerpt: Through regressions or even the people who remember, like Jordan Jozak. ... I sort of wonder if I want
+      to know. I sort of wonder if it would be more traumatizing to know. And that's when I land on the protective thing.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: hypnotic regression
+        slug: hypnotic-regression
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:31:29.8-00:31:42.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 8bfdb14a-80ff-4dbf-9cbb-600acc8cd935
+    claim_hash: e5d8937c36da52cd2732f6cda6f6976b701f09115a8183c205818536a5621e3e
+    content: Julia Mossbridge has not attempted hypnotic regression since the practitioner's cancellation, and no longer has
+      that practitioner's contact information or knows who she was.
+    original_excerpt: So ever since then, I haven't done it. ... No, I don't even have her contact information anymore. I
+      don't even know who she was.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: hypnotic regression
+        slug: hypnotic-regression
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: lines 252-266
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

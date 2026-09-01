@@ -1,1166 +1,1280 @@
 schema: anomalica/brief/1
-brief_hash: e15061b7493d60ea825fee57ccf7e7f00f43457d04341058c2eb2751e626d953
+brief_hash: 206526bda5289f5b7c454c05eed8f07833e8fc218ab5370550c10ce0b9e05fc2
 page:
   kind: entity
   node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
   node_type: document
   title: Condon Report
   slug: condon-report
-  claim_count: 27
-  claim_count_total: 27
+  claim_count: 29
+  claim_count_total: 29
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 29
+  tokens_estimated: 9190
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 29
 related_nodes:
-- node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
-  title: Edward U. Condon
-  node_type: person
-  slug: edward-u-condon
-  shared_claims: 6
-- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-  title: United States Air Force (USAF)
-  node_type: organisation
-  slug: united-states-air-force-usaf
-  shared_claims: 5
-- node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
-  title: National Academy of Sciences
-  node_type: organisation
-  slug: national-academy-of-sciences
-  shared_claims: 4
-- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-  title: Project Blue Book
-  node_type: project
-  slug: project-blue-book
-  shared_claims: 4
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 3
-- node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
-  title: Harry Turner
-  node_type: person
-  slug: harry-turner
-  shared_claims: 2
-- node_id: 4233cbe6-29ce-483e-9e97-041d8263797d
-  title: National Academy of Sciences Assessment of the Condon Report
-  node_type: project
-  slug: national-academy-of-sciences-assessment-of-the-condon-report
-  shared_claims: 2
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 2
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 1
-- node_id: 562566e0-6fe6-40a1-a6a2-fcae2a56874e
-  title: Carter Administration Tasking to National Aeronautics and Space Administration
-    (NASA)
-  node_type: event
-  slug: carter-administration-tasking-to-national-aeronautics-and-space-administration-nasa
-  shared_claims: 1
-- node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
-  title: Frank Edwards
-  node_type: person
-  slug: frank-edwards
-  shared_claims: 1
-- node_id: 5bd02b11-3679-438f-b6e1-8509734c1547
-  title: Frank Press
-  node_type: person
-  slug: frank-press
-  shared_claims: 1
-- node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
-  title: J. Allen Hynek
-  node_type: person
-  slug: j-allen-hynek
-  shared_claims: 1
-- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-  title: National Aeronautics and Space Administration (NASA)
-  node_type: organisation
-  slug: national-aeronautics-and-space-administration-nasa
-  shared_claims: 1
-- node_id: c9ebeec3-b663-4490-9bbb-8ac44a2eb1b0
-  title: National Bureau of Standards
-  node_type: organisation
-  slug: national-bureau-of-standards
-  shared_claims: 1
-- node_id: 7caf1534-23a0-4d6f-a6a1-2a6d359fea97
-  title: Robert Frosch
-  node_type: person
-  slug: robert-frosch
-  shared_claims: 1
-- node_id: 1a7dc447-a9f3-4087-bfc4-09f294913e6e
-  title: Robert Low
-  node_type: person
-  slug: robert-low
-  shared_claims: 1
-- node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-  title: Ross Coulthart
-  node_type: person
-  slug: ross-coulthart
-  shared_claims: 1
-- node_id: 32016caa-0114-45af-aec0-5b397fd0dc5c
-  title: USA, Colorado, University of Colorado
-  node_type: organisation
-  slug: colorado-university-of-colorado-usa
-  shared_claims: 1
-- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-  title: United States Navy (USN)
-  node_type: organisation
-  slug: united-states-navy-usn
-  shared_claims: 1
-- node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
-  title: University of Colorado
-  node_type: organisation
-  slug: university-of-colorado
-  shared_claims: 1
-- node_id: 633c0373-232a-4354-9cf3-e51c23aea9bd
-  title: University of Colorado Unidentified Flying Object (UFO) Project
-  node_type: project
-  slug: university-of-colorado-unidentified-flying-object-ufo-project
-  shared_claims: 1
-- node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
-  title: Vannevar Bush
-  node_type: person
-  slug: vannevar-bush
-  shared_claims: 1
-claims:
-- claim_id: 9e17534a-19bf-43f1-926d-ce2e96f05bcd
-  claim_hash: 2f660d24511b1ac184c1e060ab5717b7f20e8c4ba5291ec094ad279940253fbb
-  content: Edward Condon and his University of Colorado UFO Project team, chosen for
-    their presumed impartiality, produced the Condon Report, which concluded that
-    no evidence existed for the reality of UFOs.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
   - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
     title: Edward U. Condon
+    node_type: person
     slug: edward-u-condon
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  - node_id: 633c0373-232a-4354-9cf3-e51c23aea9bd
-    title: University of Colorado Unidentified Flying Object (UFO) Project
-    slug: university-of-colorado-unidentified-flying-object-ufo-project
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: ch6:5913-6099
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: d2717a63-0623-4ea7-bc1f-4b5bf682a771
-  claim_hash: e4a4a2bf3aefddf080a12c7461f474af83aa0168503312b4903fe48282c93c32
-  content: The Condon Report was reviewed and approved by the National Academy of
-    Sciences in 1969.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  - node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
-    title: National Academy of Sciences
-    slug: national-academy-of-sciences
-  date: '1969'
-  date_end: null
-  location_in_record: ch6:6105-6265
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 1f5d60f5-3f23-4591-a921-bfdf7700a3f2
-  claim_hash: 9443ab6968b1a345ae663aaf9ea3300b5e1fe8e9293164fad4bf7c13cec8e463
-  content: Approval of the Condon Report by the National Academy of Sciences left
-    the field of Unidentified Flying Object (UFO) research open to charlatans and
-    hoaxers.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
-    title: National Academy of Sciences
-    slug: national-academy-of-sciences
-  date: null
-  date_end: null
-  location_in_record: ch6:6187-6265
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: b2a09182-88da-4f2f-96a0-930ea9cc1c13
-  claim_hash: ed86c861475546432d67687b8f8216b712ce006b437cf1867bdf209d1bd3f930
-  content: It took nearly ten years for serious researchers to begin challenging the
-    Condon Report.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  date: null
-  date_end: null
-  location_in_record: ch6:6648-6734
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: c13b65bf-44b1-497a-a9e0-932e7a1103c4
-  claim_hash: fc8774de891a1de9783da0e9b02822b3bccb0ce29b7384984cd5fb302a31c66e
-  content: In August 1966, Robert Low wrote a memorandum to two senior officials at
-    the University of Colorado setting out a proposed strategy for the university's
-    role in what became the Condon Report.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Robert Low's 1966 memorandum
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1a7dc447-a9f3-4087-bfc4-09f294913e6e
-    title: Robert Low
-    slug: robert-low
-  - node_id: 32016caa-0114-45af-aec0-5b397fd0dc5c
-    title: USA, Colorado, University of Colorado
-    slug: colorado-university-of-colorado-usa
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  date: 1966-08
-  date_end: null
-  location_in_record: ch10:21836-22039
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 1d58bd59-bb55-4878-8b23-8a5467cd09aa
-  claim_hash: 1e8751649b26aa8375ae87011c4536f10df2b0ed603bbfbfbf34651ae829f3e8
-  content: Edward Condon and his team of scientists were recruited by the United States
-    Air Force to conduct an objective and independent investigation into Unidentified
-    Aerial Phenomena (UAP) that became the Condon Report.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
-    title: Edward U. Condon
-    slug: edward-u-condon
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  date: null
-  date_end: null
-  location_in_record: ch10:22675-22790
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 3c4ddf8c-f232-443d-ade5-e76454c33b8f
-  claim_hash: 7519b0160c6e98908e32fa022f8ea9718dc5244fd90d3ee8831e93ca852846f5
-  content: In 1968, the final Condon Report declared that nothing had come from the
-    study of UFOs in the past twenty-one years that added to scientific knowledge.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: the 1968 Condon Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  date: '1968'
-  date_end: null
-  location_in_record: ch10:22805-23006
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 36bbf57e-7985-4757-a2dc-80c5e73853d4
-  claim_hash: 104eed0f80cc3ea389cc660993d28e5d0f1e9e39b4802d78381e68d3d296e771
-  content: The 1968 Condon Report concluded that further study of Unidentified Aerial
-    Phenomena (UAP) could not be justified.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: the 1968 Condon Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
-    title: Edward U. Condon
-    slug: edward-u-condon
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  date: '1968'
-  date_end: null
-  location_in_record: ch10:23018-23130
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 4e237f91-124e-4e05-9646-c98cf65ca991
-  claim_hash: 38ccb4ac9142427befd18da9194da136e557078ba14422db7b410dd321b23c61
-  content: The 1968 Condon Report rejected the extra-terrestrial hypothesis for Unidentified
-    Aerial Phenomena (UAP).
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: the 1968 Condon Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
-    title: Edward U. Condon
-    slug: edward-u-condon
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  date: '1968'
-  date_end: null
-  location_in_record: ch10:23018-23130
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: b58eac6f-0cd6-4421-97bc-94ca682cb470
-  claim_hash: a13e0f6534fcbab70f27c3f26d28a11b6229da49f379955b3fe3907f312de49e
-  content: The 1968 Condon Report acknowledged the 1956 RAF Bentwaters-Lakenheath
-    UAP incident in the United Kingdom as very likely a 'genuine UFO'.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: the 1968 Condon Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '1968'
-  date_end: null
-  location_in_record: ch10:23141-23330
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: df697174-c6da-413d-86bb-2e929fc78fcc
-  claim_hash: 04bd0ca46abadc9d73fcf94297d6862075d3af22ef5d4e72daaa9fceddd35d23
-  content: The Condon Report gave the United States Air Force the justification it
-    was seeking to end Project Blue Book.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
+    shared_claims: 6
   - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
     title: Project Blue Book
+    node_type: project
     slug: project-blue-book
-  date: null
-  date_end: null
-  location_in_record: ch10:23334-23432
-  evidence:
-    score: null
-    independent_sources: 2
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 67082648-7c49-4de9-bbed-97007f8d9890
-  claim_hash: b011f002f23d2f7ab400a3b0500ad65c20ad3d2c98545faeaf4bd055ca1af380
-  content: In November 1968, the United States National Academy of Sciences reviewed
-    and endorsed the conclusions of the Condon Report.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  - node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
-    title: National Academy of Sciences
-    slug: national-academy-of-sciences
-  date: 1968-11
-  date_end: null
-  location_in_record: ch10:23438-23572
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 3e2dd1b6-71ec-4409-aa94-8d6198fddbc8
-  claim_hash: 7c6fa0bdfc459181bd20e54ef7cbeb4ae7c22163a486df360daf05eb02785c98
-  content: Ross Coulthart finds it difficult to escape the impression that the true
-    purpose of Project Blue Book and the Condon Report was to shut down public interest
-    in and scrutiny of Unidentified Aerial Phenomena (UAP) sightings.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-    title: Project Blue Book
-    slug: project-blue-book
-  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-    slug: ross-coulthart
-  date: null
-  date_end: null
-  location_in_record: ch10:24028-24200
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 4eb91b39-5333-4306-9775-240aa24a8dcd
-  claim_hash: 832369022a1dafecc37a5a9dd29f757f3379dcaac82adf91141bc83c076a1ab5
-  content: Harry Turner's paper criticised the 1968 Condon Committee Report, the US
-    Air Force-funded study of UFOs directed by physicist Edward Condon.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
-    title: Harry Turner
-  provenance_chain:
-    origin_kind: named
-    origin: Harry Turner
-    relay:
-    - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 5
   - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
     title: United States Air Force (USAF)
+    node_type: organisation
     slug: united-states-air-force-usaf
+    shared_claims: 5
+  - node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
+    title: National Academy of Sciences
+    node_type: organisation
+    slug: national-academy-of-sciences
+    shared_claims: 4
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 3
   - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
     title: Harry Turner
+    node_type: person
     slug: harry-turner
-  - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
-    title: Edward U. Condon
-    slug: edward-u-condon
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  date: '1968'
-  date_end: null
-  location_in_record: ch11:2213-2352
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: fe60a4f0-944f-4aa3-b476-3e38c92462dc
-  claim_hash: 197b59fdd6e49f278910431a46fa6f2311e043ed24b0be1caa071641048fce49
-  content: Harry Turner considered that the conclusions of the Condon report conflict
-    with its own contents and have been discredited by many reputable scientists.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
-    title: Harry Turner
-  provenance_chain:
-    origin_kind: named
-    origin: Harry Turner
-    relay:
-    - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
-    title: Harry Turner
-    slug: harry-turner
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  date: null
-  date_end: null
-  location_in_record: ch11:2370-2565
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 1725b8da-9347-48db-b207-3a49505ddb8c
-  claim_hash: 6985a0f374cce80ccae66c9dfb1aad5ed85f1fe4d9fa4a79b77da70a209bdefe
-  content: Dr. Edward U. Condon, a physicist and former Director of the National Bureau
-    of Standards, was the scientific director of an 18-month study on flying saucers
-    funded under a 325,000 US dollar United States Air Force contract to the University
-    of Colorado.
-  original_excerpt: Dr. Edward U. Condon, a physicist and former Director of the National
-    Bureau of Standards, was the scientific director of an 18-month study on "flying
-    saucers" funded under a $325,000 USAF contract to the University of Colorado.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
-    title: University of Colorado
-    slug: university-of-colorado
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
-    title: Edward U. Condon
-    slug: edward-u-condon
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  - node_id: c9ebeec3-b663-4490-9bbb-8ac44a2eb1b0
-    title: National Bureau of Standards
-    slug: national-bureau-of-standards
-  date: 1968-04
-  date_end: null
-  location_in_record: char:48748-48967
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: f008c76e-9524-49a3-a3c2-bb599335ea61
-  claim_hash: 8c92c0e1666b940463e80a921fa1303d5eb9cd0c9cf1e98089f0ae0caa7c74c5
-  content: The Condon Report study primarily focused on whether UFO phenomena merited
-    formal scientific research in terms of academic or United States Government-sponsored
-    research and in secondary schools, and its remit did not include the study of
-    UFO phenomena as a potential risk to United States national security interests.
-  original_excerpt: somewhat unique view of UFO investigatory efforts, primarily focusing
-    on whether or not UFO phenomena merited formal scientific research in terms of
-    academic or USG-sponsored research and in secondary schools. The panel said their
-    remit did not include the study of UFO phenomena as a potential risk to U.S. national
-    security interests.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: The Condon Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  date: null
-  date_end: null
-  location_in_record: char:49048-49374
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: c97acf4d-c116-41c7-bfb0-39b6bcf0405c
-  claim_hash: 1e3a30cda9443ee4f69b5ae23f0fcda2f0e59d29941899511b83e800f52bbc4b
-  content: The Condon Report panel closely examined 59 specific case studies.
-  original_excerpt: Among other duties, it closely examined 59 specific case studies.
-  claim_type: measurement
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: The Condon Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  date: null
-  date_end: null
-  location_in_record: char:49664-49721
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 2d33f816-c0d0-42ce-871d-1b6bab8ee959
-  claim_hash: 9f8a52cba6d88f1b55dcc3f7c8734d6eda6d06554d8c3bd187ba3faa351e27e8
-  content: The Condon Report concluded that nothing had come from the study of UFOs
-    in the past 21 years that had added to scientific knowledge, and that further
-    extensive study of UFOs probably could not be justified in the expectation that
-    science would be advanced thereby.
-  original_excerpt: '"Our general conclusion is that nothing has come from the study
-    of UFOs in the past 21 years that has added to scientific knowledge. Careful consideration
-    of the record as it is available to us leads us to conclude that further extensive
-    study of UFOs probably cannot be justified in the expectation that science will
-    be advanced thereby."'
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: The Condon Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  date: null
-  date_end: null
-  location_in_record: char:49785-50114
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 880fdac3-b09d-4070-a428-045dae31701a
-  claim_hash: bd71d581843325a0ec583b01d4b92b1d79cb478715df147ed4022746b7432d52
-  content: The Condon Report cautioned against support for scientific papers on UFOs
-    and recommended that teachers should not give credit to students for reading UFO
-    literature and materials.
-  original_excerpt: The panel cautioned against support for scientific papers on this
-    topic and recommended that teachers should not give credit to students for reading
-    UFO literature and materials.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: The Condon Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  date: null
-  date_end: null
-  location_in_record: char:50124-50292
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 17d23280-22a2-4cd0-aeb4-72375dd8e161
-  claim_hash: f42f402b745a7b4a3fe84bfc89dd6cc8434add9624f74f2e8e91e474c4ea9759
-  content: The Condon Report panel investigated a small number of cases of alleged
-    physical evidence of UFO visitations, from imprints on the ground and residue
-    allegedly left behind from UFO landings, such as a white powder and ethereal strands
-    dubbed 'angel hair', to metallic debris, and found ordinary explanations for each
-    of these cases.
-  original_excerpt: The panel also investigated and studied a small number of cases
-    of alleged physical evidence of UFO visitations - from imprints on the ground
-    and residue allegedly left behind from UFO landings (such as a white powder and
-    ethereal strands dubbed "angel hair") - to metallic debris. The panel found ordinary
-    explanations for each of these cases.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: The Condon Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  date: null
-  date_end: null
-  location_in_record: char:50314-50652
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 8e6e7f69-ed0c-4499-8c29-3ee319d004db
-  claim_hash: 0a47a690aeb708fb60651043f9c664425efcbb715eaa2f55cdf22d3327d17680
-  content: Some of the physical-evidence cases investigated by the Condon Report originated
-    in Brazil, Norway, and Washington, D.C.
-  original_excerpt: Some of these cases originated in Brazil, Norway, and Washington,
-    D.C.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: The Condon Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  date: null
-  date_end: null
-  location_in_record: char:50659-50727
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: f230d62b-d3ce-46da-86a3-d4eff8df607c
-  claim_hash: 3d90faf0363185049afbfc4e54ef593f3503345043889742a95d70b59f8d3448
-  content: The Condon Report panel investigated Frank Edwards's 1966 claim about a
-    UFO fragment recovered near Washington, D.C. in the summer of 1952, and found
-    that Project BLUE BOOK was not aware of this claim, that the United States Air
-    Force and United States Navy found no incident report of weapons engagement with
-    a UFO that summer, that no United States Navy aircraft were present, and that
-    the retired officer who was the original source of the claim had retired before
-    the summer of 1952, when the event allegedly occurred.
-  original_excerpt: Project BLUE BOOK was not aware of this claim. The USAF and USN
-    found no incident report of weapons engagement with a UFO that summer, no USN
-    aircraft were present, and the retired officer who was the original source of
-    the claim had retired before the summer of 1952, when the event allegedly occurred.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: The Condon Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-    title: United States Navy (USN)
-    slug: united-states-navy-usn
-  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-    title: Project Blue Book
-    slug: project-blue-book
-  date: null
-  date_end: null
-  location_in_record: char:51122-51416
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: c0b94ac9-4985-4b42-9af8-eeb13438b84e
-  claim_hash: b91a5824e9e717f5e6d5428421178d256581b26518120e34a7d134bf02854d71
-  content: The Condon Report panel determined that Frank Edwards's claims about a
-    UFO fragment and Vannevar Bush's involvement most likely were false.
-  original_excerpt: The Condon panel determined that these claims most likely were
-    false.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: The Condon Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
-    title: Vannevar Bush
-    slug: vannevar-bush
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
+    shared_claims: 2
+  - node_id: 4233cbe6-29ce-483e-9e97-041d8263797d
+    title: National Academy of Sciences Assessment of the Condon Report
+    node_type: project
+    slug: national-academy-of-sciences-assessment-of-the-condon-report
+    shared_claims: 2
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    node_type: person
+    slug: robert-bigelow
+    shared_claims: 2
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: 562566e0-6fe6-40a1-a6a2-fcae2a56874e
+    title: Carter Administration Tasking to National Aeronautics and Space Administration (NASA)
+    node_type: event
+    slug: carter-administration-tasking-to-national-aeronautics-and-space-administration-nasa
+    shared_claims: 1
+  - node_id: da868edb-9324-4c9a-b61a-1da6f37280cf
+    title: Condon Committee inquiry
+    node_type: project
+    slug: condon-committee-inquiry
+    shared_claims: 1
   - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
     title: Frank Edwards
+    node_type: person
     slug: frank-edwards
-  date: null
-  date_end: null
-  location_in_record: char:51826-51889
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 43c0d16a-0321-4689-8f27-edc439bd870b
-  claim_hash: 00cd43ae08117feacec129a150103e511bf7b8646565edd6d3e374f223ec8d5c
-  content: After the Condon Report was criticised by some scientists, including Project
-    BLUE BOOK's Dr. J. Allen Hynek, a panel of the National Academy of Sciences (NAS)
-    was tasked in late 1968 to examine the rigour, methodology, and conclusions of
-    the Condon Report.
-  original_excerpt: After the Condon Report was criticized by some scientists - including
-    Project BLUE BOOK's Dr. Hynek - a panel of the National Academy of Sciences (NAS)
-    was tasked in late 1968 to examine the rigor, methodology, and conclusions of
-    the Condon Report.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4233cbe6-29ce-483e-9e97-041d8263797d
-    title: National Academy of Sciences Assessment of the Condon Report
-    slug: national-academy-of-sciences-assessment-of-the-condon-report
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-    title: Project Blue Book
-    slug: project-blue-book
-  - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
-    title: J. Allen Hynek
-    slug: j-allen-hynek
-  - node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
-    title: National Academy of Sciences
-    slug: national-academy-of-sciences
-  date: '1968'
-  date_end: null
-  location_in_record: char:51999-52240
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: d93d6b8c-d06c-4480-ac3c-d5459c6c47f9
-  claim_hash: fb0bcfef004225a496347cfaf10cb3df407c7f45363fa1199b5b4f4cbb446516
-  content: The National Academy of Sciences review concluded that it was unanimous
-    in the opinion that the Condon Report had been a very credible effort to apply
-    techniques of science to the solution of the UFO problem.
-  original_excerpt: The NAS review concluded that, "We are unanimous in the opinion
-    that this has been a very credible effort to apply...techniques of science to
-    the solution of the UFO problem."
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: National Academy of Sciences Assessment of the Condon Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4233cbe6-29ce-483e-9e97-041d8263797d
-    title: National Academy of Sciences Assessment of the Condon Report
-    slug: national-academy-of-sciences-assessment-of-the-condon-report
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  date: null
-  date_end: null
-  location_in_record: char:52508-52674
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: d9a0de92-f2b0-4e8a-92d5-c1b354457f9d
-  claim_hash: e962dc5430f0df5e476ef371a9932ba4fed533f8adf378e1bcd80ae4df3d7cf4
-  content: Dr. Frank Press, Science Advisor to President Jimmy Carter, sent a letter
-    to Dr. Robert Frosch, National Aeronautics and Space Administration (NASA) Administrator,
-    on 1977-07-21, suggesting that a panel be formed by NASA to see if there had been
-    any new significant findings on UFOs since the Condon Report.
-  original_excerpt: Dr. Frank Press, Science Advisor to President Jimmy Carter, sent
-    a letter to Dr. Robert Frosch, NASA Administrator, on July 21, 1977, suggesting
-    that a panel be formed by NASA to see if there had been any new significant findings
-    on UFOs since the Condon Report.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
-    title: Condon Report
-    slug: condon-report
-  - node_id: 562566e0-6fe6-40a1-a6a2-fcae2a56874e
-    title: Carter Administration Tasking to National Aeronautics and Space Administration
-      (NASA)
-    slug: carter-administration-tasking-to-national-aeronautics-and-space-administration-nasa
+    shared_claims: 1
   - node_id: 5bd02b11-3679-438f-b6e1-8509734c1547
     title: Frank Press
+    node_type: person
     slug: frank-press
+    shared_claims: 1
+  - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+    node_type: person
+    slug: j-allen-hynek
+    shared_claims: 1
   - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
     title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
     slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 1
+  - node_id: c9ebeec3-b663-4490-9bbb-8ac44a2eb1b0
+    title: National Bureau of Standards
+    node_type: organisation
+    slug: national-bureau-of-standards
+    shared_claims: 1
+  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+    title: Project GRUDGE
+    node_type: project
+    slug: project-grudge
+    shared_claims: 1
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    node_type: project
+    slug: project-sign
+    shared_claims: 1
+  - node_id: 1df6323e-2a18-496a-b9cd-e73cb7f90b53
+    title: RAF Bentwaters UAP Sighting 1956
+    node_type: event
+    slug: raf-bentwaters-uap-sighting-1956
+    shared_claims: 1
   - node_id: 7caf1534-23a0-4d6f-a6a1-2a6d359fea97
     title: Robert Frosch
+    node_type: person
     slug: robert-frosch
-  date: '1977-07-21'
-  date_end: null
-  location_in_record: char:52807-53062
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+    shared_claims: 1
+  - node_id: 1a7dc447-a9f3-4087-bfc4-09f294913e6e
+    title: Robert Low
+    node_type: person
+    slug: robert-low
+    shared_claims: 1
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    node_type: project
+    slug: robertson-panel
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+  - node_id: 32016caa-0114-45af-aec0-5b397fd0dc5c
+    title: USA, Colorado, University of Colorado
+    node_type: organisation
+    slug: colorado-university-of-colorado-usa
+    shared_claims: 1
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 1
+  - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
+    title: University of Colorado
+    node_type: organisation
+    slug: university-of-colorado
+    shared_claims: 1
+  - node_id: 633c0373-232a-4354-9cf3-e51c23aea9bd
+    title: University of Colorado Unidentified Flying Object (UFO) Project
+    node_type: project
+    slug: university-of-colorado-unidentified-flying-object-ufo-project
+    shared_claims: 1
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    node_type: person
+    slug: vannevar-bush
+    shared_claims: 1
+claims:
+  - claim_id: 9e17534a-19bf-43f1-926d-ce2e96f05bcd
+    claim_hash: 2f660d24511b1ac184c1e060ab5717b7f20e8c4ba5291ec094ad279940253fbb
+    content: Edward Condon and his University of Colorado UFO Project team, chosen for their presumed impartiality, produced
+      the Condon Report, which concluded that no evidence existed for the reality of UFOs.
+    original_excerpt: Professor Condon and his team, who had been picked because they were presumably impartial and unprejudiced,
+      went on to write a report stating that no evidence existed for the reality of UFOs.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
+        title: Edward U. Condon
+        slug: edward-u-condon
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: 633c0373-232a-4354-9cf3-e51c23aea9bd
+        title: University of Colorado Unidentified Flying Object (UFO) Project
+        slug: university-of-colorado-unidentified-flying-object-ufo-project
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch6:5913-6099
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: d2717a63-0623-4ea7-bc1f-4b5bf682a771
+    claim_hash: e4a4a2bf3aefddf080a12c7461f474af83aa0168503312b4903fe48282c93c32
+    content: The Condon Report was reviewed and approved by the National Academy of Sciences in 1969.
+    original_excerpt: The report was reviewed and approved by the National Academy of Sciences in 1969, leaving the field
+      of UFO research wide open for charlatans and hoaxers of all kinds.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
+        title: National Academy of Sciences
+        slug: national-academy-of-sciences
+    date: '1969'
+    date_end: null
+    location_in_record: ch6:6105-6265
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 1f5d60f5-3f23-4591-a921-bfdf7700a3f2
+    claim_hash: 9443ab6968b1a345ae663aaf9ea3300b5e1fe8e9293164fad4bf7c13cec8e463
+    content: Approval of the Condon Report by the National Academy of Sciences left the field of Unidentified Flying Object
+      (UFO) research open to charlatans and hoaxers.
+    original_excerpt: leaving the field of UFO research wide open for charlatans and hoaxers of all kinds
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
+        title: National Academy of Sciences
+        slug: national-academy-of-sciences
+    date: null
+    date_end: null
+    location_in_record: ch6:6187-6265
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: b2a09182-88da-4f2f-96a0-930ea9cc1c13
+    claim_hash: ed86c861475546432d67687b8f8216b712ce006b437cf1867bdf209d1bd3f930
+    content: It took nearly ten years for serious researchers to begin challenging the Condon Report.
+    original_excerpt: It has taken almost ten years for serious researchers to begin challenging the Condon Report.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+    date: null
+    date_end: null
+    location_in_record: ch6:6648-6734
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: c13b65bf-44b1-497a-a9e0-932e7a1103c4
+    claim_hash: fc8774de891a1de9783da0e9b02822b3bccb0ce29b7384984cd5fb302a31c66e
+    content: In August 1966, Robert Low wrote a memorandum to two senior officials at the University of Colorado setting out
+      a proposed strategy for the university's role in what became the Condon Report.
+    original_excerpt: In August 1966, an enlightening memorandum supporting this notion of an official cover-up was written
+      by a university staffer and former intelligence officer to two senior officials at the University of Colorado.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Robert Low's 1966 memorandum
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1a7dc447-a9f3-4087-bfc4-09f294913e6e
+        title: Robert Low
+        slug: robert-low
+      - node_id: 32016caa-0114-45af-aec0-5b397fd0dc5c
+        title: USA, Colorado, University of Colorado
+        slug: colorado-university-of-colorado-usa
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+    date: 1966-08
+    date_end: null
+    location_in_record: ch10:21836-22039
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1d58bd59-bb55-4878-8b23-8a5467cd09aa
+    claim_hash: 1e8751649b26aa8375ae87011c4536f10df2b0ed603bbfbfbf34651ae829f3e8
+    content: Edward Condon and his team of scientists were recruited by the United States Air Force to conduct an objective
+      and independent investigation into Unidentified Aerial Phenomena (UAP) that became the Condon Report.
+    original_excerpt: Dr Edward Condon and his team of scientists had been recruited by the air force to do an objective and
+      independent investigation.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
+        title: Edward U. Condon
+        slug: edward-u-condon
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+    date: null
+    date_end: null
+    location_in_record: ch10:22675-22790
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3c4ddf8c-f232-443d-ade5-e76454c33b8f
+    claim_hash: 7519b0160c6e98908e32fa022f8ea9718dc5244fd90d3ee8831e93ca852846f5
+    content: In 1968, the final Condon Report declared that nothing had come from the study of UFOs in the past twenty-one
+      years that added to scientific knowledge.
+    original_excerpt: It came as no surprise to anyone that two years later, in 1968, the final Condon Report declared that
+      ‘nothing has come from the study of UFOs in the past twenty-one years that has added to scientific knowledge’.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: the 1968 Condon Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+    date: '1968'
+    date_end: null
+    location_in_record: ch10:22805-23006
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 36bbf57e-7985-4757-a2dc-80c5e73853d4
+    claim_hash: 104eed0f80cc3ea389cc660993d28e5d0f1e9e39b4802d78381e68d3d296e771
+    content: The 1968 Condon Report concluded that further study of Unidentified Aerial Phenomena (UAP) could not be justified.
+    original_excerpt: Condon rejected the extra-terrestrial hypothesis for UAPs and concluded that further study of them could
+      not be justified.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: the 1968 Condon Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
+        title: Edward U. Condon
+        slug: edward-u-condon
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: '1968'
+    date_end: null
+    location_in_record: ch10:23018-23130
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4e237f91-124e-4e05-9646-c98cf65ca991
+    claim_hash: 38ccb4ac9142427befd18da9194da136e557078ba14422db7b410dd321b23c61
+    content: The 1968 Condon Report rejected the extra-terrestrial hypothesis for Unidentified Aerial Phenomena (UAP).
+    original_excerpt: Condon rejected the extra-terrestrial hypothesis for UAPs and concluded that further study of them could
+      not be justified.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: the 1968 Condon Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
+        title: Edward U. Condon
+        slug: edward-u-condon
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: '1968'
+    date_end: null
+    location_in_record: ch10:23018-23130
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b58eac6f-0cd6-4421-97bc-94ca682cb470
+    claim_hash: a13e0f6534fcbab70f27c3f26d28a11b6229da49f379955b3fe3907f312de49e
+    content: The 1968 Condon Report acknowledged the 1956 RAF Bentwaters-Lakenheath UAP incident in the United Kingdom as
+      very likely a 'genuine UFO'.
+    original_excerpt: One sighting the report did conspicuously acknowledge as very likely a ‘genuine UFO’ was the previously
+      mentioned 1956 RAF Lakenheath-Bentwaters radar-visual incident in the United Kingdom.21
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: the 1968 Condon Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1df6323e-2a18-496a-b9cd-e73cb7f90b53
+        title: RAF Bentwaters UAP Sighting 1956
+        slug: raf-bentwaters-uap-sighting-1956
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+    date: '1968'
+    date_end: null
+    location_in_record: ch10:23141-23330
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: df697174-c6da-413d-86bb-2e929fc78fcc
+    claim_hash: 04bd0ca46abadc9d73fcf94297d6862075d3af22ef5d4e72daaa9fceddd35d23
+    content: The Condon Report gave the United States Air Force the justification it was seeking to end Project Blue Book.
+    original_excerpt: The Condon Report gave the US Air Force the excuse it was looking for to bail out of Project Blue Book.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+    date: null
+    date_end: null
+    location_in_record: ch10:23334-23432
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 67082648-7c49-4de9-bbed-97007f8d9890
+    claim_hash: b011f002f23d2f7ab400a3b0500ad65c20ad3d2c98545faeaf4bd055ca1af380
+    content: In November 1968, the United States National Academy of Sciences reviewed and endorsed the conclusions of the
+      Condon Report.
+    original_excerpt: In November 1968, it sought and received a rubber-stamp from the National Academy of Sciences, who reviewed
+      and endorsed the report’s conclusions.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
+        title: National Academy of Sciences
+        slug: national-academy-of-sciences
+    date: 1968-11
+    date_end: null
+    location_in_record: ch10:23438-23572
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3e2dd1b6-71ec-4409-aa94-8d6198fddbc8
+    claim_hash: 7c6fa0bdfc459181bd20e54ef7cbeb4ae7c22163a486df360daf05eb02785c98
+    content: Ross Coulthart finds it difficult to escape the impression that the true purpose of Project Blue Book and the
+      Condon Report was to shut down public interest in and scrutiny of Unidentified Aerial Phenomena (UAP) sightings.
+    original_excerpt: It is difficult to escape the impression that Project Blue Book and the Condon Report’s true purpose
+      was an attempt to shut down public interest in and the scrutiny of UAP sightings.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: ch10:24028-24200
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4eb91b39-5333-4306-9775-240aa24a8dcd
+    claim_hash: 832369022a1dafecc37a5a9dd29f757f3379dcaac82adf91141bc83c076a1ab5
+    content: Harry Turner's paper criticised the 1968 Condon Committee Report, the US Air Force-funded study of UFOs directed
+      by physicist Edward Condon.
+    original_excerpt: Turner's paper eviscerated the 1968 Condon Committee Report, the US Air Force–funded study of UFOs under
+      the direction of physicist Edward Condon.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+      title: Harry Turner
+    provenance_chain:
+      origin_kind: named
+      origin: Harry Turner
+      relay:
+        - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+        title: Harry Turner
+        slug: harry-turner
+      - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
+        title: Edward U. Condon
+        slug: edward-u-condon
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+    date: '1968'
+    date_end: null
+    location_in_record: ch11:2213-2352
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: fe60a4f0-944f-4aa3-b476-3e38c92462dc
+    claim_hash: 197b59fdd6e49f278910431a46fa6f2311e043ed24b0be1caa071641048fce49
+    content: Harry Turner considered that the conclusions of the Condon report conflict with its own contents and have been
+      discredited by many reputable scientists.
+    original_excerpt: '''The conclusions of the Condon report conflict with its own contents and has been discredited by many
+      reputable scientists . . . It would appear wrong for Australia to remain ignorant of the true situation.'''
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+      title: Harry Turner
+    provenance_chain:
+      origin_kind: named
+      origin: Harry Turner
+      relay:
+        - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+        title: Harry Turner
+        slug: harry-turner
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+    date: null
+    date_end: null
+    location_in_record: ch11:2370-2565
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1725b8da-9347-48db-b207-3a49505ddb8c
+    claim_hash: 6985a0f374cce80ccae66c9dfb1aad5ed85f1fe4d9fa4a79b77da70a209bdefe
+    content: Dr. Edward U. Condon, a physicist and former Director of the National Bureau of Standards, was the scientific
+      director of an 18-month study on flying saucers funded under a 325,000 US dollar United States Air Force contract to
+      the University of Colorado.
+    original_excerpt: Dr. Edward U. Condon, a physicist and former Director of the National Bureau of Standards, was the scientific
+      director of an 18-month study on "flying saucers" funded under a $325,000 USAF contract to the University of Colorado.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
+        title: University of Colorado
+        slug: university-of-colorado
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
+        title: Edward U. Condon
+        slug: edward-u-condon
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: c9ebeec3-b663-4490-9bbb-8ac44a2eb1b0
+        title: National Bureau of Standards
+        slug: national-bureau-of-standards
+    date: 1968-04
+    date_end: null
+    location_in_record: char:48748-48967
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: f008c76e-9524-49a3-a3c2-bb599335ea61
+    claim_hash: 8c92c0e1666b940463e80a921fa1303d5eb9cd0c9cf1e98089f0ae0caa7c74c5
+    content: The Condon Report study primarily focused on whether UFO phenomena merited formal scientific research in terms
+      of academic or United States Government-sponsored research and in secondary schools, and its remit did not include the
+      study of UFO phenomena as a potential risk to United States national security interests.
+    original_excerpt: somewhat unique view of UFO investigatory efforts, primarily focusing on whether or not UFO phenomena
+      merited formal scientific research in terms of academic or USG-sponsored research and in secondary schools. The panel
+      said their remit did not include the study of UFO phenomena as a potential risk to U.S. national security interests.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: The Condon Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+    date: null
+    date_end: null
+    location_in_record: char:49048-49374
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: c97acf4d-c116-41c7-bfb0-39b6bcf0405c
+    claim_hash: 1e3a30cda9443ee4f69b5ae23f0fcda2f0e59d29941899511b83e800f52bbc4b
+    content: The Condon Report panel closely examined 59 specific case studies.
+    original_excerpt: Among other duties, it closely examined 59 specific case studies.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: The Condon Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+    date: null
+    date_end: null
+    location_in_record: char:49664-49721
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 2d33f816-c0d0-42ce-871d-1b6bab8ee959
+    claim_hash: 9f8a52cba6d88f1b55dcc3f7c8734d6eda6d06554d8c3bd187ba3faa351e27e8
+    content: The Condon Report concluded that nothing had come from the study of UFOs in the past 21 years that had added
+      to scientific knowledge, and that further extensive study of UFOs probably could not be justified in the expectation
+      that science would be advanced thereby.
+    original_excerpt: '"Our general conclusion is that nothing has come from the study of UFOs in the past 21 years that has
+      added to scientific knowledge. Careful consideration of the record as it is available to us leads us to conclude that
+      further extensive study of UFOs probably cannot be justified in the expectation that science will be advanced thereby."'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Condon Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+    date: null
+    date_end: null
+    location_in_record: char:49785-50114
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 880fdac3-b09d-4070-a428-045dae31701a
+    claim_hash: bd71d581843325a0ec583b01d4b92b1d79cb478715df147ed4022746b7432d52
+    content: The Condon Report cautioned against support for scientific papers on UFOs and recommended that teachers should
+      not give credit to students for reading UFO literature and materials.
+    original_excerpt: The panel cautioned against support for scientific papers on this topic and recommended that teachers
+      should not give credit to students for reading UFO literature and materials.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: The Condon Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+    date: null
+    date_end: null
+    location_in_record: char:50124-50292
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 17d23280-22a2-4cd0-aeb4-72375dd8e161
+    claim_hash: f42f402b745a7b4a3fe84bfc89dd6cc8434add9624f74f2e8e91e474c4ea9759
+    content: The Condon Report panel investigated a small number of cases of alleged physical evidence of UFO visitations,
+      from imprints on the ground and residue allegedly left behind from UFO landings, such as a white powder and ethereal
+      strands dubbed 'angel hair', to metallic debris, and found ordinary explanations for each of these cases.
+    original_excerpt: The panel also investigated and studied a small number of cases of alleged physical evidence of UFO
+      visitations - from imprints on the ground and residue allegedly left behind from UFO landings (such as a white powder
+      and ethereal strands dubbed "angel hair") - to metallic debris. The panel found ordinary explanations for each of these
+      cases.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: The Condon Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+    date: null
+    date_end: null
+    location_in_record: char:50314-50652
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 8e6e7f69-ed0c-4499-8c29-3ee319d004db
+    claim_hash: 0a47a690aeb708fb60651043f9c664425efcbb715eaa2f55cdf22d3327d17680
+    content: Some of the physical-evidence cases investigated by the Condon Report originated in Brazil, Norway, and Washington,
+      D.C.
+    original_excerpt: Some of these cases originated in Brazil, Norway, and Washington, D.C.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: The Condon Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+    date: null
+    date_end: null
+    location_in_record: char:50659-50727
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: f230d62b-d3ce-46da-86a3-d4eff8df607c
+    claim_hash: 3d90faf0363185049afbfc4e54ef593f3503345043889742a95d70b59f8d3448
+    content: The Condon Report panel investigated Frank Edwards's 1966 claim about a UFO fragment recovered near Washington,
+      D.C. in the summer of 1952, and found that Project BLUE BOOK was not aware of this claim, that the United States Air
+      Force and United States Navy found no incident report of weapons engagement with a UFO that summer, that no United States
+      Navy aircraft were present, and that the retired officer who was the original source of the claim had retired before
+      the summer of 1952, when the event allegedly occurred.
+    original_excerpt: Project BLUE BOOK was not aware of this claim. The USAF and USN found no incident report of weapons
+      engagement with a UFO that summer, no USN aircraft were present, and the retired officer who was the original source
+      of the claim had retired before the summer of 1952, when the event allegedly occurred.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: The Condon Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+    date: null
+    date_end: null
+    location_in_record: char:51122-51416
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: c0b94ac9-4985-4b42-9af8-eeb13438b84e
+    claim_hash: b91a5824e9e717f5e6d5428421178d256581b26518120e34a7d134bf02854d71
+    content: The Condon Report panel determined that Frank Edwards's claims about a UFO fragment and Vannevar Bush's involvement
+      most likely were false.
+    original_excerpt: The Condon panel determined that these claims most likely were false.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: The Condon Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
+        title: Frank Edwards
+        slug: frank-edwards
+    date: null
+    date_end: null
+    location_in_record: char:51826-51889
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 43c0d16a-0321-4689-8f27-edc439bd870b
+    claim_hash: 00cd43ae08117feacec129a150103e511bf7b8646565edd6d3e374f223ec8d5c
+    content: After the Condon Report was criticised by some scientists, including Project BLUE BOOK's Dr. J. Allen Hynek,
+      a panel of the National Academy of Sciences (NAS) was tasked in late 1968 to examine the rigour, methodology, and conclusions
+      of the Condon Report.
+    original_excerpt: After the Condon Report was criticized by some scientists - including Project BLUE BOOK's Dr. Hynek
+      - a panel of the National Academy of Sciences (NAS) was tasked in late 1968 to examine the rigor, methodology, and conclusions
+      of the Condon Report.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4233cbe6-29ce-483e-9e97-041d8263797d
+        title: National Academy of Sciences Assessment of the Condon Report
+        slug: national-academy-of-sciences-assessment-of-the-condon-report
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+        title: J. Allen Hynek
+        slug: j-allen-hynek
+      - node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
+        title: National Academy of Sciences
+        slug: national-academy-of-sciences
+    date: '1968'
+    date_end: null
+    location_in_record: char:51999-52240
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: d93d6b8c-d06c-4480-ac3c-d5459c6c47f9
+    claim_hash: fb0bcfef004225a496347cfaf10cb3df407c7f45363fa1199b5b4f4cbb446516
+    content: The National Academy of Sciences review concluded that it was unanimous in the opinion that the Condon Report
+      had been a very credible effort to apply techniques of science to the solution of the UFO problem.
+    original_excerpt: The NAS review concluded that, "We are unanimous in the opinion that this has been a very credible effort
+      to apply...techniques of science to the solution of the UFO problem."
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: National Academy of Sciences Assessment of the Condon Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4233cbe6-29ce-483e-9e97-041d8263797d
+        title: National Academy of Sciences Assessment of the Condon Report
+        slug: national-academy-of-sciences-assessment-of-the-condon-report
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+    date: null
+    date_end: null
+    location_in_record: char:52508-52674
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: d9a0de92-f2b0-4e8a-92d5-c1b354457f9d
+    claim_hash: e962dc5430f0df5e476ef371a9932ba4fed533f8adf378e1bcd80ae4df3d7cf4
+    content: Dr. Frank Press, Science Advisor to President Jimmy Carter, sent a letter to Dr. Robert Frosch, National Aeronautics
+      and Space Administration (NASA) Administrator, on 1977-07-21, suggesting that a panel be formed by NASA to see if there
+      had been any new significant findings on UFOs since the Condon Report.
+    original_excerpt: Dr. Frank Press, Science Advisor to President Jimmy Carter, sent a letter to Dr. Robert Frosch, NASA
+      Administrator, on July 21, 1977, suggesting that a panel be formed by NASA to see if there had been any new significant
+      findings on UFOs since the Condon Report.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: 562566e0-6fe6-40a1-a6a2-fcae2a56874e
+        title: Carter Administration Tasking to National Aeronautics and Space Administration (NASA)
+        slug: carter-administration-tasking-to-national-aeronautics-and-space-administration-nasa
+      - node_id: 5bd02b11-3679-438f-b6e1-8509734c1547
+        title: Frank Press
+        slug: frank-press
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 7caf1534-23a0-4d6f-a6a1-2a6d359fea97
+        title: Robert Frosch
+        slug: robert-frosch
+    date: '1977-07-21'
+    date_end: null
+    location_in_record: char:52807-53062
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 09c2d7e8-753a-40b6-a98b-2c301e9f7083
+    claim_hash: 64e2b86c78c3bc42b17631a7e766b6b93cfc68c619c7ced4b2035cd57edc52bf
+    content: Robert Bigelow regards Project Sign, Project Grudge, the Robertson Panel and the Condon Report as cover-up efforts,
+      every single one of them.
+    original_excerpt: you had Project Sign, Project Grudge, the Robinson Panel, and the Coup de Gras, the Condon Report, all
+      completed. cover up efforts every single one of them cover up efforts
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+        title: Project GRUDGE
+        slug: project-grudge
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+        title: Robertson Panel
+        slug: robertson-panel
+      - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+        title: Project Sign
+        slug: project-sign
+    date: null
+    date_end: null
+    location_in_record: 00:13:20.0-00:13:32.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: dd63ba33-9687-4bb7-b7aa-a0ea3afcfd40
+    claim_hash: 789985046cf0426a4bc88249e8fe048cd61f7d93ebc83538d973c4a6a9ceab5b
+    content: Robert Bigelow considers Project Blue Book, the other earlier government UFO programmes, and the Condon Report
+      to have been scams.
+    original_excerpt: And not something like all the other programs we mentioned earlier, Blue Book and all the others that
+      were kind of scams. And the Condon Report, they were scams.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: da868edb-9324-4c9a-b61a-1da6f37280cf
+        title: Condon Committee inquiry
+        slug: condon-committee-inquiry
+    date: null
+    date_end: null
+    location_in_record: 00:39:39.7-00:39:51.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

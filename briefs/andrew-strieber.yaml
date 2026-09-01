@@ -1,0 +1,847 @@
+schema: anomalica/brief/1
+brief_hash: 4bb85978bc8a9b3ad134c8e6c1b106926137cf665f6c60cc1efd3eb5e3131efb
+page:
+  kind: entity
+  node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+  node_type: person
+  title: Andrew Strieber
+  slug: andrew-strieber
+  claim_count: 19
+  claim_count_total: 19
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 19
+  tokens_estimated: 5616
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 19
+related_nodes:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 14
+  - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+    title: Anne Strieber
+    node_type: person
+    slug: anne-strieber
+    shared_claims: 6
+  - node_id: c03bb60a-63f8-4242-808e-128703673fff
+    title: USA, New York, upstate New York cabin of Whitley Strieber
+    node_type: place
+    slug: new-york-upstate-new-york-cabin-of-whitley-strieber-usa
+    shared_claims: 5
+  - node_id: f61e57e1-fe8d-454a-8426-f503c73f86a6
+    title: Andrew Strieber's written note the morning after his 1980s encounter
+    node_type: document
+    slug: andrew-striebers-written-note-the-morning-after-his-1980s-encounter
+    shared_claims: 4
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 2
+  - node_id: 5885388d-b171-4999-9d55-0e05175d5e5a
+    title: 1987-01 Whitley Strieber clearing encounter and childhood-memory regression
+    node_type: event
+    slug: 1987-01-whitley-strieber-clearing-encounter-and-childhood-memory-regression
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+  - node_id: e925daad-eabd-4a25-a436-ec0c6974ccbd
+    title: Whitley Strieber's alleged implant
+    node_type: object
+    slug: whitley-striebers-alleged-implant
+    shared_claims: 1
+  - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
+    title: alien abduction experience
+    node_type: topic
+    slug: alien-abduction-experience
+    shared_claims: 1
+  - node_id: 73ad5bb8-c3ed-4ecb-96a0-66dd4e819fe9
+    title: childhood amnesia
+    node_type: topic
+    slug: childhood-amnesia
+    shared_claims: 1
+  - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
+    title: forensic hypnosis
+    node_type: topic
+    slug: forensic-hypnosis
+    shared_claims: 1
+  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+    title: human-alien hybridization
+    node_type: topic
+    slug: human-alien-hybridization
+    shared_claims: 1
+claims:
+  - claim_id: d1ff858f-efdc-4f38-8c05-9a5f416c7fcb
+    claim_hash: d4d1e90825f6fbd491786e9b43a7a38b75f4129a596fd2eedbf38bb4914d71d7
+    content: Whitley Strieber, Anne Strieber and their son Andrew Strieber, then about eight or nine years old, experienced
+      missing time while driving from their cabin to a dinner reservation, arriving late despite having left with plenty of
+      time.
+    original_excerpt: the three of us, Andrew was probably about eight, nine, maybe. And we're going to dinner. We go down
+      into the garage in the cabin, get in the car, and backing out. And we're going up the road, and suddenly I realized
+      we're late. ... In other words, we'd had missing time.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+        title: Anne Strieber
+        slug: anne-strieber
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
+        title: alien abduction experience
+        slug: alien-abduction-experience
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 01:39:58.0-01:40:22.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 21da1aa8-bf9f-4267-8280-0546bbccd8cc
+    claim_hash: 24f04ddc194b03c4cde6b7fd8d628d669d337120ab893206cc656038005c53fa
+    content: After the missing-time episode on the drive to dinner, Whitley Strieber, Anne Strieber and Andrew Strieber were
+      all talking about a baby, and both Whitley Strieber and Anne Strieber had a vague memory of holding a baby.
+    original_excerpt: And I found that we were all talking about babies, a baby. And I have a vague memory, and so did Dan,
+      we never brought this up, of course, with our little boy, of holding a baby.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+        title: Anne Strieber
+        slug: anne-strieber
+      - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+        title: human-alien hybridization
+        slug: human-alien-hybridization
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 01:40:23.9-01:40:33.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 0f5ad2be-91cc-4953-8524-10d30cda8254
+    claim_hash: 5d09194206dd911ac6f861b51b30edb0512d21ef185cf1b7bebf501277ad8785
+    content: Anne Strieber declined to go out into the woods herself because she had to care for their young son in the bedroom.
+    original_excerpt: I've got a little boy in the bedroom who I have to take care of, so you go out there by yourself.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Anne Strieber
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+        title: Anne Strieber
+        slug: anne-strieber
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 00:06:33.7-00:06:37.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 690ee754-a8e9-4229-9f09-d692115f927f
+    claim_hash: 7641dfc8d33edea193f901d21ab5be8be6ce29f6fff695108986415fa9058c68
+    content: Whitley Strieber turned back from the January 1987 clearing encounter because he feared he might not return and
+      could not disappear on his wife and son.
+    original_excerpt: You better think about going home, back to the house, because you've got wife and son in there. You
+      can't just disappear on them.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+        title: Anne Strieber
+        slug: anne-strieber
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 5885388d-b171-4999-9d55-0e05175d5e5a
+        title: 1987-01 Whitley Strieber clearing encounter and childhood-memory regression
+        slug: 1987-01-whitley-strieber-clearing-encounter-and-childhood-memory-regression
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: 1987-01
+    date_end: null
+    location_in_record: 00:15:12.3-00:15:18.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 69e70832-b560-41eb-93a7-d8a312a723ae
+    claim_hash: c987911334a6a1cb9ebab0ef17f5c013675e60bd5e5225629deb4f74e5b17070
+    content: Ross Coulthart characterises what the non-human beings did to Whitley Strieber - coming to his home, planting
+      implants, attempting to abduct his son, taking his sperm, inflicting wounds and severe trauma - as unfriendly by any
+      definition.
+    original_excerpt: I find the whole idea of a non-human being coming to somebody's home, planting implants in them, as
+      we'll get into abducting your son, doing, I think, terrible invasive things to you, you know, when you're in a cart,
+      stealing your sperm, you've suffered wounds, you've suffered, I think, mental injuries as a result, trauma, severe trauma.
+      By any definition, this is bloody unfriendly.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: e925daad-eabd-4a25-a436-ec0c6974ccbd
+        title: Whitley Strieber's alleged implant
+        slug: whitley-striebers-alleged-implant
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 00:30:29.9-00:30:57.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: bc2b1414-cc4f-446c-a627-d725e0d5f662
+    claim_hash: 3e06e46affdbbc152f08590963107f3265d1471b95d3a3a53b092fe81e303477
+    content: At the upstate New York cabin, Whitley Strieber spent much of most nights sitting outside his son Andrew Strieber's
+      room with a shotgun on his lap.
+    original_excerpt: i was hanging out outside his room with a gun shotgun on my lap a lot of the night most nights when
+      we were up there
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: c03bb60a-63f8-4242-808e-128703673fff
+        title: USA, New York, upstate New York cabin of Whitley Strieber
+        slug: new-york-upstate-new-york-cabin-of-whitley-strieber-usa
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 00:55:50.5-00:55:58.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: e296b16b-ada7-4f10-bd74-30f9925aa49a
+    claim_hash: c21894de158ff99f8ca98532aec08fba2d0852edf4395a6dd16aba37f84c000f
+    content: Whitley Strieber was not sure his son Andrew Strieber was being visited by the beings, but did not want it to
+      happen.
+    original_excerpt: 'Ross Coulthart: and then that''s presumably because he was being visited by the beings you said? Whitley
+      Strieber: i wasn''t sure but i didn''t want that to happen'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 00:55:59.8-00:56:06.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 66db7d03-5c85-4528-9fe4-45957e0a29c0
+    claim_hash: c1063f3ee7c3c128fbfe750948aaeb0ea7feab0c749121ca77a90601380c3846
+    content: One night Whitley Strieber went into his son Andrew Strieber's room and found him gone, and searched the whole
+      house without finding him.
+    original_excerpt: one night i went in there and he was gone And I, I, I went running through the whole house. He wasn't
+      in the house.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: c03bb60a-63f8-4242-808e-128703673fff
+        title: USA, New York, upstate New York cabin of Whitley Strieber
+        slug: new-york-upstate-new-york-cabin-of-whitley-strieber-usa
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 00:56:07.8-00:56:15.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 206d2ee7-d684-4c0e-afc0-5384da286a51
+    claim_hash: 920d32998a165aad3764e709a90dbaabc57ca4c03ea58934d45aa15c5f2e1d2b
+    content: Andrew Strieber had a small clubhouse cabin in the copse at the end of the front yard of the upstate New York
+      cabin.
+    original_excerpt: He had a little cabin a little clubhouse up in the, up in the little copes at the end of the front yard.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c03bb60a-63f8-4242-808e-128703673fff
+        title: USA, New York, upstate New York cabin of Whitley Strieber
+        slug: new-york-upstate-new-york-cabin-of-whitley-strieber-usa
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 00:56:17.6-00:56:23.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 23d94077-e69f-4fea-b1ad-33fe459cb004
+    claim_hash: d5ab3adbbbf72f95be7ee9c875c89383e3eec07dc32dadc37ddbb283c1432ce8
+    content: Andrew Strieber was seven years old at the time of the night he went missing from the upstate New York cabin.
+    original_excerpt: I can't imagine that a seven year old is going to go out there in the middle of the night
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c03bb60a-63f8-4242-808e-128703673fff
+        title: USA, New York, upstate New York cabin of Whitley Strieber
+        slug: new-york-upstate-new-york-cabin-of-whitley-strieber-usa
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 00:56:27.4-00:56:30.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 12d020b3-05e1-4a33-a63f-24345bba50f9
+    claim_hash: d35780df7e695473d1d7637c25bad9c2310250f092887c8f812ac3fcb73f85c7
+    content: Whitley Strieber described the night his son Andrew Strieber was missing as unbelievably terrifying, likening
+      it to being in hell as a desperate parent.
+    original_excerpt: And I went through if if if hell is desparate parent I was in hell. It was unbelievably terrifying.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 00:57:07.3-00:57:17.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: e45b6e92-1e93-40c7-9ce5-34dbfb23290c
+    claim_hash: 4aedb2eb095cd4ebc3346aea3679f077369f3012b95519a677f85ef95363690e
+    content: The three men in blue uniforms got Whitley Strieber back into the upstate New York cabin, where he found his
+      son Andrew Strieber in bed.
+    original_excerpt: They got me back into the house and there he was in the bed.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: c03bb60a-63f8-4242-808e-128703673fff
+        title: USA, New York, upstate New York cabin of Whitley Strieber
+        slug: new-york-upstate-new-york-cabin-of-whitley-strieber-usa
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 00:57:45.6-00:57:50.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 47c856b6-2a6f-4d0b-b08d-a0af5eab29c2
+    claim_hash: 9a316ac31cfc1673965d43175adeb84988b22eb973fcc7daac0ffc9332ac6b92
+    content: Anne Strieber proposed saying nothing to their son Andrew Strieber about the night and seeing what he said of
+      his own accord.
+    original_excerpt: And she said, well, let's, let's not say anything to him and see what he says.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Anne Strieber
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+        title: Anne Strieber
+        slug: anne-strieber
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 00:58:11.0-00:58:13.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: c773d789-c84e-4f58-8da1-c7f58735c32f
+    claim_hash: ce73e9452d44c0845ed660a987a87d7f294bd307fe79a674e49933a958bf420d
+    content: The morning after the encounter, Andrew Strieber was very quiet at breakfast, then wrote something in his room
+      and silently gave it to his mother Anne Strieber after breakfast.
+    original_excerpt: He was very quiet at breakfast. He wrote something in his room, sat down and wrote it, and silently
+      gave it to his mother after breakfast.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+        title: Anne Strieber
+        slug: anne-strieber
+      - node_id: f61e57e1-fe8d-454a-8426-f503c73f86a6
+        title: Andrew Strieber's written note the morning after his 1980s encounter
+        slug: andrew-striebers-written-note-the-morning-after-his-1980s-encounter
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 00:58:37.4-00:58:46.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 41813957-ab68-4a28-958d-e5e3f53c87e0
+    claim_hash: e0c537442b509cc606dbcf460fe6bd6b6516c404af5217dd4de0bc3e5caab21c
+    content: 'Andrew Strieber''s note written the morning after his encounter reads: "O thy colossus, thy stand before me
+      with a twinkling of a beam against the thin pane to see the world along the edge of the earth to see the golden beam
+      in their eyes".'
+    original_excerpt: '"O thy colossus, thy stand before me with a twinkling of a beam against the thin pane to see the world
+      along the edge of the earth to see the golden beam in their eyes".'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: document
+      origin: Andrew Strieber's written note the morning after his 1980s encounter
+      relay:
+        - Whitley Strieber reading it aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f61e57e1-fe8d-454a-8426-f503c73f86a6
+        title: Andrew Strieber's written note the morning after his 1980s encounter
+        slug: andrew-striebers-written-note-the-morning-after-his-1980s-encounter
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 00:59:07.2-00:59:24.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 8b1d19a5-ad2e-4459-9822-06eecfe02e28
+    claim_hash: d1f3329e4208c45b010d3a922ff4e25eb08d2ff949355540da358d33972d763c
+    content: Whitley Strieber regards Andrew Strieber's note as a seven-year-old mind reaching as far as it can to express
+      an incredible wonder.
+    original_excerpt: that is what that is, is a seven-year-old mind reaching as far as it can into anything it can manage
+      to say to express an incredible wonder.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: f61e57e1-fe8d-454a-8426-f503c73f86a6
+        title: Andrew Strieber's written note the morning after his 1980s encounter
+        slug: andrew-striebers-written-note-the-morning-after-his-1980s-encounter
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 00:59:37.8-00:59:53.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 205c8a6e-3591-4017-ac7d-7dc52ceea05a
+    claim_hash: 69fcc39a75ed4d6ffaf2f8890bfb0e1dd3e3850ec459b252beaa382a38b5334d
+    content: Andrew Strieber is no longer having encounter experiences and does not remember anything about that aspect of
+      his childhood.
+    original_excerpt: No, they're not. And he doesn't remember anything about his childhood of this stuff.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 73ad5bb8-c3ed-4ecb-96a0-66dd4e819fe9
+        title: childhood amnesia
+        slug: childhood-amnesia
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 01:00:05.4-01:00:10.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: d9e4611f-e598-4e4d-8d1f-46e1cc08c5db
+    claim_hash: 78bbdfb40488b36f5e1d971943c0dc95ac1948d65132f0587920198d6ead92f0
+    content: Whitley Strieber read Andrew Strieber's note back to him; Andrew Strieber does not remember writing it, though
+      it is in his handwriting and there is no question he wrote it.
+    original_excerpt: I read this to him. He doesn't remember writing it, but it's in his handwriting. There's no question
+      that he did write it.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: f61e57e1-fe8d-454a-8426-f503c73f86a6
+        title: Andrew Strieber's written note the morning after his 1980s encounter
+        slug: andrew-striebers-written-note-the-morning-after-his-1980s-encounter
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 01:00:11.1-01:00:16.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 4d55ff92-ee91-4dc1-8d1d-b9d8b6c51505
+    claim_hash: b35a0240bbcf7633a979e8cbeaf171fb26f00dca64159e9a4e1119eb98ee8e08
+    content: Whitley Strieber believes Andrew Strieber could probably retrieve his lost childhood memories with a skilled
+      professional knowledgeable in neurology, psychiatry and the scientific basis of hypnosis.
+    original_excerpt: I suppose that if he wanted to, he could probably retrieve those memories with assuming we could find
+      a skilled professional. who really knew what they were doing with the brain. And you have to have someone who is knowledgeable
+      about neurology, psychology, I mean psychiatry, and understands hypnosis on a scientific level.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
+        title: forensic hypnosis
+        slug: forensic-hypnosis
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+        title: Andrew Strieber
+        slug: andrew-strieber
+    date: null
+    date_end: null
+    location_in_record: 01:01:51.5-01:02:14.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null

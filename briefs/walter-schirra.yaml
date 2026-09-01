@@ -9,503 +9,515 @@ page:
   claim_count: 14
   claim_count_total: 14
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 14
+  tokens_estimated: 3768
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 14
 related_nodes:
-- node_id: 1eabd894-9059-432b-990a-74c0a81eec82
-  title: Gordon Cooper
-  node_type: person
-  slug: gordon-cooper
-  shared_claims: 2
-- node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
-  title: Mercury-Atlas 9 mission
-  node_type: event
-  slug: mercury-atlas-9-mission
-  shared_claims: 2
-- node_id: c8ee84eb-599f-45ee-ba91-fc37a509b505
-  title: USA, Hawaii
-  node_type: place
-  slug: hawaii-usa
-  shared_claims: 2
+  - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+    title: Gordon Cooper
+    node_type: person
+    slug: gordon-cooper
+    shared_claims: 2
+  - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
+    title: Mercury-Atlas 9 mission
+    node_type: event
+    slug: mercury-atlas-9-mission
+    shared_claims: 2
+  - node_id: c8ee84eb-599f-45ee-ba91-fc37a509b505
+    title: USA, Hawaii
+    node_type: place
+    slug: hawaii-usa
+    shared_claims: 2
 claims:
-- claim_id: abfb5bf5-814c-4759-b639-a812c1dfc1bc
-  claim_hash: c3507f2146a6f90ee088c0607c538d37fd23bff81f5403d1dfb7e586841e79e7
-  content: Walter M. Schirra Jr. observed small white objects that appeared to come
-    from Sigma 7 (Mercury spacecraft) and drift off during the Mercury-Atlas 8 mission
-    (Sigma 7).
-  original_excerpt: And also I have the little white objects that seem to come from
-    the capsule itself and drift off.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter M. Schirra Jr.
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-    slug: walter-schirra
-  date: '1962-10-03'
-  date_end: null
-  location_in_record: 00:00:05.8-00:00:14.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
-    record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1007877
-    content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
-    friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
-- claim_id: 13feddc5-69b3-462b-8971-e0dfa500492f
-  claim_hash: 23cd183ccabed3974975eaf978c368fff51b0bb3a195e5c67927a85acb4b68ce
-  content: Walter M. Schirra Jr. observed two stars that appeared to be standing quite
-    still during the Mercury-Atlas 8 mission (Sigma 7).
-  original_excerpt: So I have two stars that are standing quite still.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter M. Schirra Jr.
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-    slug: walter-schirra
-  date: '1962-10-03'
-  date_end: null
-  location_in_record: 00:00:37.8-00:00:39.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
-    record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1007877
-    content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
-    friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
-- claim_id: d6eb5d34-d18d-4178-a17f-5b7e3c5b8784
-  claim_hash: 308eb4a7c84b5f4f05c24d3489d2b52a79ad87a40b0d46c73bb299e36c7242e1
-  content: Walter M. Schirra Jr. observed that a white object appeared to move toward
-    him but did not actually do so, during the Mercury-Atlas 8 mission (Sigma 7).
-  original_excerpt: The white object actually looked like it came toward me. But it
-    wasn't.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter M. Schirra Jr.
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-    slug: walter-schirra
-  date: '1962-10-03'
-  date_end: null
-  location_in_record: 00:00:41.1-00:00:45.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
-    record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1007877
-    content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
-    friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
-- claim_id: e36a89fc-49c8-4d82-8852-47550aa2696b
-  claim_hash: e7b7270a4ba2f286c0d6c8d001e24ae206f067b487b1e00d345d43d924e39880
-  content: During the Mercury-Atlas 8 mission (Sigma 7), the rates of Sigma 7 (Mercury
-    spacecraft) were near zero in all three axes while Walter M. Schirra Jr. was still
-    receiving light in the periscope and looking straight up.
-  original_excerpt: my rates are now just about zero in all three axes I still have
-    light in the periscope of course I'm looking straight up
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter M. Schirra Jr.
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-    slug: walter-schirra
-  date: '1962-10-03'
-  date_end: null
-  location_in_record: 00:01:03.5-00:01:24.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
-    record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1007877
-    content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
-    friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
-- claim_id: c71bf7bb-4229-42a1-b214-30565e9a2a79
-  claim_hash: 83e33824e51f94c4473ba5b6a157374fda8d17f12096c3eb0c588a81c9824ebe
-  content: During the Mercury-Atlas 8 mission (Sigma 7), Walter M. Schirra Jr. was
-    almost inverted at that point in the flight, with his nose above the horizon.
-  original_excerpt: Yeah, I'm just about inverted at this point. And my nose is above
-    the horizon.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter M. Schirra Jr.
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-    slug: walter-schirra
-  date: '1962-10-03'
-  date_end: null
-  location_in_record: 00:01:36.1-00:01:46.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
-    record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1007877
-    content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
-    friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
-- claim_id: 63f2ee44-8181-4767-b645-20105de21023
-  claim_hash: 55e213ae24424245c82a6153040169572df1533f56d8b5d85194240d3ec46d17
-  content: During the Mercury-Atlas 8 mission (Sigma 7), Walter M. Schirra Jr. noticed
-    particles that kept trailing after him relative to his position at any time.
-  original_excerpt: As a result, I notice that these particles keep tending after
-    me, relative to me, at any time.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter M. Schirra Jr.
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-    slug: walter-schirra
-  date: '1962-10-03'
-  date_end: null
-  location_in_record: 00:01:51.2-00:01:59.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
-    record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1007877
-    content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
-    friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
-- claim_id: 2f716739-1e57-4542-9854-e586bc33651a
-  claim_hash: ecdf641501aeaa10088b875d6f7c36240d5b51b9af324a0270ff7fb40297e257
-  content: During the Mercury-Atlas 8 mission (Sigma 7), the periscope of Sigma 7
-    (Mercury spacecraft) was blocking out rather rapidly at sunset.
-  original_excerpt: The periscope is blocking out rather rapidly at sunset.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter M. Schirra Jr.
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-    slug: walter-schirra
-  date: '1962-10-03'
-  date_end: null
-  location_in_record: 00:02:11.0-00:02:14.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
-    record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1007877
-    content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
-    friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
-- claim_id: 7fa34f15-430e-4e6a-b11d-95951f8f45f7
-  claim_hash: 343a8a709d95f66fd93d741861a2037dfaf728f9f6f4426ea0bfdd5e2703165d
-  content: During the Mercury-Atlas 8 mission (Sigma 7), the periscope of Sigma 7
-    (Mercury spacecraft) became almost completely blocked out and was not usable at
-    that point.
-  original_excerpt: It's almost blocked out completely at this point and is really
-    not usable.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter M. Schirra Jr.
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-    slug: walter-schirra
-  date: '1962-10-03'
-  date_end: null
-  location_in_record: 00:02:20.5-00:02:24.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
-    record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1007877
-    content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
-    friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
-- claim_id: 0eaed444-01c6-4e39-9c5c-789bf63d9791
-  claim_hash: 3cb352645de92bc997f78b86c002b9c307876ca6fb6c5bf913e292055fd82fec
-  content: During the Mercury-Atlas 8 mission (Sigma 7), Walter M. Schirra Jr. observed
-    a burst of light in the window and did not know what it was.
-  original_excerpt: Getting a real burst of light in the window and I really don't
-    know what it is.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter M. Schirra Jr.
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-    slug: walter-schirra
-  date: '1962-10-03'
-  date_end: null
-  location_in_record: 00:03:07.4-00:03:11.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
-    record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1007877
-    content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
-    friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
-- claim_id: 913fa300-0118-4d32-9c38-1e3cd211a2e2
-  claim_hash: 4ee172b88b58261fe428510336ff12d09388d2bd2dde786eaacb6ae62a1526dc
-  content: During the Mercury-Atlas 8 mission (Sigma 7), Sigma 7 (Mercury spacecraft)
-    was approaching a sunset at five hours and fifteen minutes into the flight.
-  original_excerpt: At this point I should be coming up on a sunset. Five hours and
-    fifteen minutes.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter M. Schirra Jr.
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-    slug: walter-schirra
-  date: '1962-10-03'
-  date_end: null
-  location_in_record: 00:03:11.3-00:03:17.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
-    record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1007877
-    content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
-    friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
-- claim_id: 65f4976c-ab6c-4a20-b66b-7bf7e3cedc62
-  claim_hash: f2da3595e5942964932ca0acc650e9e2d971e83e1d60edaadb26ac2ec84558ce
-  content: During the Mercury-Atlas 8 mission (Sigma 7), the periscope of Sigma 7
-    (Mercury spacecraft) went dark.
-  original_excerpt: The periscope is dark.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter M. Schirra Jr.
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-    slug: walter-schirra
-  date: '1962-10-03'
-  date_end: null
-  location_in_record: 00:03:20.9-00:03:21.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
-    record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1007877
-    content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
-    friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
-- claim_id: c428b14e-f553-4085-bd48-9bbb0756fe33
-  claim_hash: 1abe64f0f581b7a93b5a8ec4e023fcaf7943df96d4d6209eb21c93336e7b15a3
-  content: During the Mercury-Atlas 8 mission (Sigma 7), Walter M. Schirra Jr. believed
-    he must be getting a last look at the horizon, though he was not down on it.
-  original_excerpt: I must be just getting a last look at the horizon, yet I'm not
-    down on it.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter M. Schirra Jr.
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-    slug: walter-schirra
-  date: '1962-10-03'
-  date_end: null
-  location_in_record: 00:03:21.8-00:03:26.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
-    record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1007877
-    content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
-    friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
-- claim_id: 619475ee-2c5c-4fba-988c-3900223425e7
-  claim_hash: b83792547bc9620b8550fd32c388947c44c353776d37ed3e40870b7a740bfcaa
-  content: During Mercury-Atlas 9, Walter Schirra, serving as ground control ("Wally"),
-    reported that the latest fuel computations at USA, Hawaii gave L. Gordon Cooper
-    Jr. 88 percent fuel on automatic control.
-  original_excerpt: systems last computations on fuel at Hawaii gave you 88 auto 98
-    manual, which is somewhat better than you're indicating on board.
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-  provenance_chain:
-    origin_kind: speaker
-    origin: Schirra, Walter
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
-    title: Mercury-Atlas 9 mission
-    slug: mercury-atlas-9-mission
-  - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
-    title: Gordon Cooper
-    slug: gordon-cooper
-  - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-    slug: walter-schirra
-  - node_id: c8ee84eb-599f-45ee-ba91-fc37a509b505
-    title: USA, Hawaii
-    slug: hawaii-usa
-  date: '1963-05-15'
-  date_end: null
-  location_in_record: 00:04:00.8-00:04:10.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: bb9d5a42-f920-404e-983c-1384d7ea2213
-    record_title: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1007876
-    content_hash: sha256:ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37141f488e
-    friendly_name: 2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963.v2
-- claim_id: 6fa71bfc-ac57-4aed-8db7-b229d8c10cf1
-  claim_hash: df59c25287a21eacfd5421f6a9fcaeb8423d5ab6a23711cc1f880c89a0d9aba8
-  content: During Mercury-Atlas 9, Walter Schirra, serving as ground control ("Wally"),
-    reported that the latest fuel computations at USA, Hawaii gave L. Gordon Cooper
-    Jr. 98 percent fuel on manual control.
-  original_excerpt: systems last computations on fuel at Hawaii gave you 88 auto 98
-    manual, which is somewhat better than you're indicating on board.
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-  provenance_chain:
-    origin_kind: speaker
-    origin: Schirra, Walter
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
-    title: Mercury-Atlas 9 mission
-    slug: mercury-atlas-9-mission
-  - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
-    title: Gordon Cooper
-    slug: gordon-cooper
-  - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
-    title: Walter Schirra
-    slug: walter-schirra
-  - node_id: c8ee84eb-599f-45ee-ba91-fc37a509b505
-    title: USA, Hawaii
-    slug: hawaii-usa
-  date: '1963-05-15'
-  date_end: null
-  location_in_record: 00:04:00.8-00:04:10.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: bb9d5a42-f920-404e-983c-1384d7ea2213
-    record_title: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1007876
-    content_hash: sha256:ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37141f488e
-    friendly_name: 2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963.v2
+  - claim_id: abfb5bf5-814c-4759-b639-a812c1dfc1bc
+    claim_hash: c3507f2146a6f90ee088c0607c538d37fd23bff81f5403d1dfb7e586841e79e7
+    content: Walter M. Schirra Jr. observed small white objects that appeared to come from Sigma 7 (Mercury spacecraft) and
+      drift off during the Mercury-Atlas 8 mission (Sigma 7).
+    original_excerpt: And also I have the little white objects that seem to come from the capsule itself and drift off.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+      title: Walter Schirra
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter M. Schirra Jr.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+        title: Walter Schirra
+        slug: walter-schirra
+    date: '1962-10-03'
+    date_end: null
+    location_in_record: 00:00:05.8-00:00:14.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
+      record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007877
+      content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
+      friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
+  - claim_id: 13feddc5-69b3-462b-8971-e0dfa500492f
+    claim_hash: 23cd183ccabed3974975eaf978c368fff51b0bb3a195e5c67927a85acb4b68ce
+    content: Walter M. Schirra Jr. observed two stars that appeared to be standing quite still during the Mercury-Atlas 8
+      mission (Sigma 7).
+    original_excerpt: So I have two stars that are standing quite still.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+      title: Walter Schirra
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter M. Schirra Jr.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+        title: Walter Schirra
+        slug: walter-schirra
+    date: '1962-10-03'
+    date_end: null
+    location_in_record: 00:00:37.8-00:00:39.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
+      record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007877
+      content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
+      friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
+  - claim_id: d6eb5d34-d18d-4178-a17f-5b7e3c5b8784
+    claim_hash: 308eb4a7c84b5f4f05c24d3489d2b52a79ad87a40b0d46c73bb299e36c7242e1
+    content: Walter M. Schirra Jr. observed that a white object appeared to move toward him but did not actually do so, during
+      the Mercury-Atlas 8 mission (Sigma 7).
+    original_excerpt: The white object actually looked like it came toward me. But it wasn't.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+      title: Walter Schirra
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter M. Schirra Jr.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+        title: Walter Schirra
+        slug: walter-schirra
+    date: '1962-10-03'
+    date_end: null
+    location_in_record: 00:00:41.1-00:00:45.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
+      record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007877
+      content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
+      friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
+  - claim_id: e36a89fc-49c8-4d82-8852-47550aa2696b
+    claim_hash: e7b7270a4ba2f286c0d6c8d001e24ae206f067b487b1e00d345d43d924e39880
+    content: During the Mercury-Atlas 8 mission (Sigma 7), the rates of Sigma 7 (Mercury spacecraft) were near zero in all
+      three axes while Walter M. Schirra Jr. was still receiving light in the periscope and looking straight up.
+    original_excerpt: my rates are now just about zero in all three axes I still have light in the periscope of course I'm
+      looking straight up
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+      title: Walter Schirra
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter M. Schirra Jr.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+        title: Walter Schirra
+        slug: walter-schirra
+    date: '1962-10-03'
+    date_end: null
+    location_in_record: 00:01:03.5-00:01:24.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
+      record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007877
+      content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
+      friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
+  - claim_id: c71bf7bb-4229-42a1-b214-30565e9a2a79
+    claim_hash: 83e33824e51f94c4473ba5b6a157374fda8d17f12096c3eb0c588a81c9824ebe
+    content: During the Mercury-Atlas 8 mission (Sigma 7), Walter M. Schirra Jr. was almost inverted at that point in the
+      flight, with his nose above the horizon.
+    original_excerpt: Yeah, I'm just about inverted at this point. And my nose is above the horizon.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+      title: Walter Schirra
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter M. Schirra Jr.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+        title: Walter Schirra
+        slug: walter-schirra
+    date: '1962-10-03'
+    date_end: null
+    location_in_record: 00:01:36.1-00:01:46.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
+      record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007877
+      content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
+      friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
+  - claim_id: 63f2ee44-8181-4767-b645-20105de21023
+    claim_hash: 55e213ae24424245c82a6153040169572df1533f56d8b5d85194240d3ec46d17
+    content: During the Mercury-Atlas 8 mission (Sigma 7), Walter M. Schirra Jr. noticed particles that kept trailing after
+      him relative to his position at any time.
+    original_excerpt: As a result, I notice that these particles keep tending after me, relative to me, at any time.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+      title: Walter Schirra
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter M. Schirra Jr.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+        title: Walter Schirra
+        slug: walter-schirra
+    date: '1962-10-03'
+    date_end: null
+    location_in_record: 00:01:51.2-00:01:59.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
+      record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007877
+      content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
+      friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
+  - claim_id: 2f716739-1e57-4542-9854-e586bc33651a
+    claim_hash: ecdf641501aeaa10088b875d6f7c36240d5b51b9af324a0270ff7fb40297e257
+    content: During the Mercury-Atlas 8 mission (Sigma 7), the periscope of Sigma 7 (Mercury spacecraft) was blocking out
+      rather rapidly at sunset.
+    original_excerpt: The periscope is blocking out rather rapidly at sunset.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+      title: Walter Schirra
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter M. Schirra Jr.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+        title: Walter Schirra
+        slug: walter-schirra
+    date: '1962-10-03'
+    date_end: null
+    location_in_record: 00:02:11.0-00:02:14.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
+      record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007877
+      content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
+      friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
+  - claim_id: 7fa34f15-430e-4e6a-b11d-95951f8f45f7
+    claim_hash: 343a8a709d95f66fd93d741861a2037dfaf728f9f6f4426ea0bfdd5e2703165d
+    content: During the Mercury-Atlas 8 mission (Sigma 7), the periscope of Sigma 7 (Mercury spacecraft) became almost completely
+      blocked out and was not usable at that point.
+    original_excerpt: It's almost blocked out completely at this point and is really not usable.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+      title: Walter Schirra
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter M. Schirra Jr.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+        title: Walter Schirra
+        slug: walter-schirra
+    date: '1962-10-03'
+    date_end: null
+    location_in_record: 00:02:20.5-00:02:24.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
+      record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007877
+      content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
+      friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
+  - claim_id: 0eaed444-01c6-4e39-9c5c-789bf63d9791
+    claim_hash: 3cb352645de92bc997f78b86c002b9c307876ca6fb6c5bf913e292055fd82fec
+    content: During the Mercury-Atlas 8 mission (Sigma 7), Walter M. Schirra Jr. observed a burst of light in the window and
+      did not know what it was.
+    original_excerpt: Getting a real burst of light in the window and I really don't know what it is.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+      title: Walter Schirra
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter M. Schirra Jr.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+        title: Walter Schirra
+        slug: walter-schirra
+    date: '1962-10-03'
+    date_end: null
+    location_in_record: 00:03:07.4-00:03:11.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
+      record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007877
+      content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
+      friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
+  - claim_id: 913fa300-0118-4d32-9c38-1e3cd211a2e2
+    claim_hash: 4ee172b88b58261fe428510336ff12d09388d2bd2dde786eaacb6ae62a1526dc
+    content: During the Mercury-Atlas 8 mission (Sigma 7), Sigma 7 (Mercury spacecraft) was approaching a sunset at five hours
+      and fifteen minutes into the flight.
+    original_excerpt: At this point I should be coming up on a sunset. Five hours and fifteen minutes.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+      title: Walter Schirra
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter M. Schirra Jr.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+        title: Walter Schirra
+        slug: walter-schirra
+    date: '1962-10-03'
+    date_end: null
+    location_in_record: 00:03:11.3-00:03:17.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
+      record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007877
+      content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
+      friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
+  - claim_id: 65f4976c-ab6c-4a20-b66b-7bf7e3cedc62
+    claim_hash: f2da3595e5942964932ca0acc650e9e2d971e83e1d60edaadb26ac2ec84558ce
+    content: During the Mercury-Atlas 8 mission (Sigma 7), the periscope of Sigma 7 (Mercury spacecraft) went dark.
+    original_excerpt: The periscope is dark.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+      title: Walter Schirra
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter M. Schirra Jr.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+        title: Walter Schirra
+        slug: walter-schirra
+    date: '1962-10-03'
+    date_end: null
+    location_in_record: 00:03:20.9-00:03:21.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
+      record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007877
+      content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
+      friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
+  - claim_id: c428b14e-f553-4085-bd48-9bbb0756fe33
+    claim_hash: 1abe64f0f581b7a93b5a8ec4e023fcaf7943df96d4d6209eb21c93336e7b15a3
+    content: During the Mercury-Atlas 8 mission (Sigma 7), Walter M. Schirra Jr. believed he must be getting a last look at
+      the horizon, though he was not down on it.
+    original_excerpt: I must be just getting a last look at the horizon, yet I'm not down on it.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+      title: Walter Schirra
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter M. Schirra Jr.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+        title: Walter Schirra
+        slug: walter-schirra
+    date: '1962-10-03'
+    date_end: null
+    location_in_record: 00:03:21.8-00:03:26.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0a4ddcab-fb79-444c-abe9-717c7da4e8ac
+      record_title: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007877
+      content_hash: sha256:da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead58fdabde
+      friendly_name: 2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962.v2
+  - claim_id: 619475ee-2c5c-4fba-988c-3900223425e7
+    claim_hash: b83792547bc9620b8550fd32c388947c44c353776d37ed3e40870b7a740bfcaa
+    content: During Mercury-Atlas 9, Walter Schirra, serving as ground control ("Wally"), reported that the latest fuel computations
+      at USA, Hawaii gave L. Gordon Cooper Jr. 88 percent fuel on automatic control.
+    original_excerpt: systems last computations on fuel at Hawaii gave you 88 auto 98 manual, which is somewhat better than
+      you're indicating on board.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+      title: Walter Schirra
+    provenance_chain:
+      origin_kind: speaker
+      origin: Schirra, Walter
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
+        title: Mercury-Atlas 9 mission
+        slug: mercury-atlas-9-mission
+      - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+        title: Gordon Cooper
+        slug: gordon-cooper
+      - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+        title: Walter Schirra
+        slug: walter-schirra
+      - node_id: c8ee84eb-599f-45ee-ba91-fc37a509b505
+        title: USA, Hawaii
+        slug: hawaii-usa
+    date: '1963-05-15'
+    date_end: null
+    location_in_record: 00:04:00.8-00:04:10.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: bb9d5a42-f920-404e-983c-1384d7ea2213
+      record_title: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007876
+      content_hash: sha256:ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37141f488e
+      friendly_name: 2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963.v2
+  - claim_id: 6fa71bfc-ac57-4aed-8db7-b229d8c10cf1
+    claim_hash: df59c25287a21eacfd5421f6a9fcaeb8423d5ab6a23711cc1f880c89a0d9aba8
+    content: During Mercury-Atlas 9, Walter Schirra, serving as ground control ("Wally"), reported that the latest fuel computations
+      at USA, Hawaii gave L. Gordon Cooper Jr. 98 percent fuel on manual control.
+    original_excerpt: systems last computations on fuel at Hawaii gave you 88 auto 98 manual, which is somewhat better than
+      you're indicating on board.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+      title: Walter Schirra
+    provenance_chain:
+      origin_kind: speaker
+      origin: Schirra, Walter
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
+        title: Mercury-Atlas 9 mission
+        slug: mercury-atlas-9-mission
+      - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+        title: Gordon Cooper
+        slug: gordon-cooper
+      - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+        title: Walter Schirra
+        slug: walter-schirra
+      - node_id: c8ee84eb-599f-45ee-ba91-fc37a509b505
+        title: USA, Hawaii
+        slug: hawaii-usa
+    date: '1963-05-15'
+    date_end: null
+    location_in_record: 00:04:00.8-00:04:10.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: bb9d5a42-f920-404e-983c-1384d7ea2213
+      record_title: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007876
+      content_hash: sha256:ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37141f488e
+      friendly_name: 2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963.v2

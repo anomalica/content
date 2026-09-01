@@ -9,280 +9,291 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2031
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
 related_nodes:
-- node_id: a2487f3f-f131-46b9-ad0d-c27082cad986
-  title: Sweden
-  node_type: place
-  slug: sweden
-  shared_claims: 2
-- node_id: eda54301-3c14-4718-9989-68844a2838fd
-  title: General James Doolittle
-  node_type: person
-  slug: general-james-doolittle
-  shared_claims: 1
-- node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
-  title: Major Murphy
-  node_type: person
-  slug: major-murphy
-  shared_claims: 1
-- node_id: 9a9b3804-9945-4895-9a47-71a9fcc1a9b5
-  title: Shell Corporation
-  node_type: organisation
-  slug: shell-corporation
-  shared_claims: 1
-- node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
-  title: Soviet Union
-  node_type: organisation
-  slug: soviet-union
-  shared_claims: 1
-- node_id: bffd089b-959b-4620-9761-53409208f0b6
-  title: Sweden, Air Intelligence Service
-  node_type: organisation
-  slug: air-intelligence-service-sweden
-  shared_claims: 1
-claims:
-- claim_id: f948c81c-184c-4373-be7e-2cd0b991a805
-  claim_hash: 5d0b5e8df66ecd5d25d523165cfb3e83a48d64d2b1251a4c95b8838d6d1cc9de
-  content: Major Murphy said people started seeing modern UFOs in Sweden in 1946.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
-    title: Major Murphy
-  provenance_chain:
-    origin_kind: speaker
-    origin: Major Murphy
-    relay: []
-  attribution_mode: unknown
-  node_refs:
   - node_id: a2487f3f-f131-46b9-ad0d-c27082cad986
     title: Sweden
+    node_type: place
     slug: sweden
-  - node_id: c0a9785a-6fca-40fb-b3e6-2b4c26e894a3
-    title: 1946 Swedish Ghost Rockets
-    slug: 1946-swedish-ghost-rockets
-  - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
-    title: Major Murphy
-    slug: major-murphy
-  date: '1946'
-  date_end: null
-  location_in_record: ch11:53665-53721
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 1063bca7-34b0-48cc-aec3-d5aaffa669c4
-  claim_hash: 7a5bebb81d6dcab5dfb28e8317c8911868ed3ee10798f22ec11734e267a5c96f
-  content: General James Doolittle was sent to Sweden by the United States in 1946,
-    apparently under cover of the Shell Corporation, to investigate the "ghost rockets"
-    with the Swedish authorities.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9a9b3804-9945-4895-9a47-71a9fcc1a9b5
-    title: Shell Corporation
-    slug: shell-corporation
-  - node_id: a2487f3f-f131-46b9-ad0d-c27082cad986
-    title: Sweden
-    slug: sweden
-  - node_id: c0a9785a-6fca-40fb-b3e6-2b4c26e894a3
-    title: 1946 Swedish Ghost Rockets
-    slug: 1946-swedish-ghost-rockets
+    shared_claims: 2
   - node_id: eda54301-3c14-4718-9989-68844a2838fd
     title: General James Doolittle
+    node_type: person
     slug: general-james-doolittle
-  date: '1946'
-  date_end: null
-  location_in_record: ch11:54023-54213
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 1af70888-8e58-4639-aa12-53315c5d9268
-  claim_hash: d470f115108d6f0b7a7ad1b176b7261e85f403bfaafa1696630cdebd3dd8d5af
-  content: In February 1946, Sweden recorded more than 2000 sightings of so-called
-    'ghost rockets'.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c0a9785a-6fca-40fb-b3e6-2b4c26e894a3
-    title: 1946 Swedish Ghost Rockets
-    slug: 1946-swedish-ghost-rockets
-  date: 1946-02
-  date_end: null
-  location_in_record: ch7:2348-2540
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 5955084e-9b29-4d2c-aa35-f5957da3d4e7
-  claim_hash: 826cb3d10229555f2ca9cad0ebdf8cc0ee118a823969d4159bf5d91545cabfa6
-  content: Hundreds of the 1946 Swedish ghost rocket sightings were corroborated by
-    radar returns.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c0a9785a-6fca-40fb-b3e6-2b4c26e894a3
-    title: 1946 Swedish Ghost Rockets
-    slug: 1946-swedish-ghost-rockets
-  date: 1946-02
-  date_end: null
-  location_in_record: ch7:2348-2540
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 0293579c-bd35-4355-806d-49d22140ba9a
-  claim_hash: 58d7826b96ca828a541d3a84d4c7fb99b0566b337259d13d4d46ff989a13d9fd
-  content: Purported physical fragments of the objects involved in the 1946 Swedish
-    ghost rocket sightings were recovered.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c0a9785a-6fca-40fb-b3e6-2b4c26e894a3
-    title: 1946 Swedish Ghost Rockets
-    slug: 1946-swedish-ghost-rockets
-  date: 1946-02
-  date_end: null
-  location_in_record: ch7:2484-2540
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 694036f5-26c2-4375-a0d3-a5dd44614a0f
-  claim_hash: c6e0ed6d8ae6488066135046d32fce3060ccd4c4e5b372e9cec43e4db3788f1a
-  content: Theories that the 1946 Swedish ghost rockets were Soviet rocket tests were
-    dismissed because the objects had no exhaust, were completely silent, and were
-    seen flying horizontally and often very slowly in formation.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c0a9785a-6fca-40fb-b3e6-2b4c26e894a3
-    title: 1946 Swedish Ghost Rockets
-    slug: 1946-swedish-ghost-rockets
+    shared_claims: 1
+  - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+    title: Major Murphy
+    node_type: person
+    slug: major-murphy
+    shared_claims: 1
+  - node_id: 9a9b3804-9945-4895-9a47-71a9fcc1a9b5
+    title: Shell Corporation
+    node_type: organisation
+    slug: shell-corporation
+    shared_claims: 1
   - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
     title: Soviet Union
+    node_type: organisation
     slug: soviet-union
-  date: 1946-02
-  date_end: null
-  location_in_record: ch7:2551-2729
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d5260c22-3d2e-4726-9044-da7a6d9481a8
-  claim_hash: 461d5359f26f546dfddb0b9705cda0083b97a3983b919c08a7194d24f2961ef8
-  content: Sweden's Air Intelligence Service told the Americans that the ghost rocket
-    phenomena were obviously the result of a high technical skill which could not
-    be credited to any presently known culture on Earth.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Sweden, Air Intelligence Service
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
   - node_id: bffd089b-959b-4620-9761-53409208f0b6
     title: Sweden, Air Intelligence Service
+    node_type: organisation
     slug: air-intelligence-service-sweden
-  - node_id: c0a9785a-6fca-40fb-b3e6-2b4c26e894a3
-    title: 1946 Swedish Ghost Rockets
-    slug: 1946-swedish-ghost-rockets
-  date: 1946-02
-  date_end: null
-  location_in_record: ch7:2740-2925
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
+    shared_claims: 1
+claims:
+  - claim_id: f948c81c-184c-4373-be7e-2cd0b991a805
+    claim_hash: 5d0b5e8df66ecd5d25d523165cfb3e83a48d64d2b1251a4c95b8838d6d1cc9de
+    content: Major Murphy said people started seeing modern UFOs in Sweden in 1946.
+    original_excerpt: Then people started seeing the modern UFOs in Sweden in 1946.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+      title: Major Murphy
+    provenance_chain:
+      origin_kind: speaker
+      origin: Major Murphy
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a2487f3f-f131-46b9-ad0d-c27082cad986
+        title: Sweden
+        slug: sweden
+      - node_id: c0a9785a-6fca-40fb-b3e6-2b4c26e894a3
+        title: 1946 Swedish Ghost Rockets
+        slug: 1946-swedish-ghost-rockets
+      - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+        title: Major Murphy
+        slug: major-murphy
+    date: '1946'
+    date_end: null
+    location_in_record: ch11:53665-53721
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 1063bca7-34b0-48cc-aec3-d5aaffa669c4
+    claim_hash: 7a5bebb81d6dcab5dfb28e8317c8911868ed3ee10798f22ec11734e267a5c96f
+    content: General James Doolittle was sent to Sweden by the United States in 1946, apparently under cover of the Shell
+      Corporation, to investigate the "ghost rockets" with the Swedish authorities.
+    original_excerpt: General James Doolittle was sent to Sweden by the United States in 1946, apparently under cover of the
+      Shell Corporation. In fact, he was to investigate the 'ghost rockets' with the Swedish authorities.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9a9b3804-9945-4895-9a47-71a9fcc1a9b5
+        title: Shell Corporation
+        slug: shell-corporation
+      - node_id: a2487f3f-f131-46b9-ad0d-c27082cad986
+        title: Sweden
+        slug: sweden
+      - node_id: c0a9785a-6fca-40fb-b3e6-2b4c26e894a3
+        title: 1946 Swedish Ghost Rockets
+        slug: 1946-swedish-ghost-rockets
+      - node_id: eda54301-3c14-4718-9989-68844a2838fd
+        title: General James Doolittle
+        slug: general-james-doolittle
+    date: '1946'
+    date_end: null
+    location_in_record: ch11:54023-54213
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 1af70888-8e58-4639-aa12-53315c5d9268
+    claim_hash: d470f115108d6f0b7a7ad1b176b7261e85f403bfaafa1696630cdebd3dd8d5af
+    content: In February 1946, Sweden recorded more than 2000 sightings of so-called 'ghost rockets'.
+    original_excerpt: In February 1946, Sweden had more than 2000 sightings of so-called ‘ghost rockets’, hundreds of them
+      corroborated by radar returns, and purported physical fragments of these objects were even recovered.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c0a9785a-6fca-40fb-b3e6-2b4c26e894a3
+        title: 1946 Swedish Ghost Rockets
+        slug: 1946-swedish-ghost-rockets
+    date: 1946-02
+    date_end: null
+    location_in_record: ch7:2348-2540
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5955084e-9b29-4d2c-aa35-f5957da3d4e7
+    claim_hash: 826cb3d10229555f2ca9cad0ebdf8cc0ee118a823969d4159bf5d91545cabfa6
+    content: Hundreds of the 1946 Swedish ghost rocket sightings were corroborated by radar returns.
+    original_excerpt: In February 1946, Sweden had more than 2000 sightings of so-called ‘ghost rockets’, hundreds of them
+      corroborated by radar returns, and purported physical fragments of these objects were even recovered.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c0a9785a-6fca-40fb-b3e6-2b4c26e894a3
+        title: 1946 Swedish Ghost Rockets
+        slug: 1946-swedish-ghost-rockets
+    date: 1946-02
+    date_end: null
+    location_in_record: ch7:2348-2540
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0293579c-bd35-4355-806d-49d22140ba9a
+    claim_hash: 58d7826b96ca828a541d3a84d4c7fb99b0566b337259d13d4d46ff989a13d9fd
+    content: Purported physical fragments of the objects involved in the 1946 Swedish ghost rocket sightings were recovered.
+    original_excerpt: purported physical fragments of these objects were even recovered.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c0a9785a-6fca-40fb-b3e6-2b4c26e894a3
+        title: 1946 Swedish Ghost Rockets
+        slug: 1946-swedish-ghost-rockets
+    date: 1946-02
+    date_end: null
+    location_in_record: ch7:2484-2540
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 694036f5-26c2-4375-a0d3-a5dd44614a0f
+    claim_hash: c6e0ed6d8ae6488066135046d32fce3060ccd4c4e5b372e9cec43e4db3788f1a
+    content: Theories that the 1946 Swedish ghost rockets were Soviet rocket tests were dismissed because the objects had
+      no exhaust, were completely silent, and were seen flying horizontally and often very slowly in formation.
+    original_excerpt: Theories they might be Soviet rocket tests were dismissed because the objects had no exhaust, were completely
+      silent, and were seen flying horizontally and often super slowly in formation.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c0a9785a-6fca-40fb-b3e6-2b4c26e894a3
+        title: 1946 Swedish Ghost Rockets
+        slug: 1946-swedish-ghost-rockets
+      - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+        title: Soviet Union
+        slug: soviet-union
+    date: 1946-02
+    date_end: null
+    location_in_record: ch7:2551-2729
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d5260c22-3d2e-4726-9044-da7a6d9481a8
+    claim_hash: 461d5359f26f546dfddb0b9705cda0083b97a3983b919c08a7194d24f2961ef8
+    content: Sweden's Air Intelligence Service told the Americans that the ghost rocket phenomena were obviously the result
+      of a high technical skill which could not be credited to any presently known culture on Earth.
+    original_excerpt: Sweden’s Air Intelligence Service told the Americans that ‘these phenomena are obviously the result
+      of a high technical skill which cannot be credited to any presently known culture on earth’
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Sweden, Air Intelligence Service
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: bffd089b-959b-4620-9761-53409208f0b6
+        title: Sweden, Air Intelligence Service
+        slug: air-intelligence-service-sweden
+      - node_id: c0a9785a-6fca-40fb-b3e6-2b4c26e894a3
+        title: 1946 Swedish Ghost Rockets
+        slug: 1946-swedish-ghost-rockets
+    date: 1946-02
+    date_end: null
+    location_in_record: ch7:2740-2925
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

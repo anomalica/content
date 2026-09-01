@@ -1,648 +1,932 @@
 schema: anomalica/brief/1
-brief_hash: a292ee92210a623f77aef663a89502015af133d2137cfa5ca34153e7fca07108
+brief_hash: 41b0c3c24e799bfb46130ee986ce6b5cdafde01ce6a2b9960c7583674f8823df
 page:
   kind: entity
   node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
   node_type: place
   title: USA, New York, Manhattan
   slug: new-york-manhattan-usa
-  claim_count: 15
-  claim_count_total: 15
+  claim_count: 21
+  claim_count_total: 21
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 21
+  tokens_estimated: 5848
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 21
 related_nodes:
-- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-  title: Whitley Strieber
-  node_type: person
-  slug: whitley-strieber
-  shared_claims: 11
-- node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
-  title: Budd Hopkins
-  node_type: person
-  slug: budd-hopkins
-  shared_claims: 3
-- node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
-  title: Anne Strieber
-  node_type: person
-  slug: anne-strieber
-  shared_claims: 2
-- node_id: 5ecf74af-7060-498e-bc28-d05c2e95751d
-  title: April 13, 1986 colloquy at Budd Hopkins' home
-  node_type: event
-  slug: 1986-colloquy-at-budd-hopkins-home-april-13
-  shared_claims: 1
-- node_id: da4e456b-8469-4607-a574-46bef4b028e5
-  title: December 26, 1985 abduction experience
-  node_type: event
-  slug: 1985-abduction-experience-december-26
-  shared_claims: 1
-- node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
-  title: Donald Klein
-  node_type: person
-  slug: donald-klein
-  shared_claims: 1
-- node_id: a127963a-e89a-4737-adf0-5633988901ea
-  title: Jenny (colloquy participant, dancer)
-  node_type: person
-  slug: dancer-jenny-colloquy-participant
-  shared_claims: 1
-- node_id: 953f6232-9902-437f-ad4c-add4fd080043
-  title: Leslie Kean
-  node_type: person
-  slug: leslie-kean
-  shared_claims: 1
-- node_id: 2ecac705-042f-4b73-aefa-6465ccfcd3ec
-  title: Leslie Kean's two red balloons sighting (Concord, Massachusetts and Manhattan
-    subway)
-  node_type: event
-  slug: massachusetts-and-manhattan-subway-leslie-keans-two-red-balloons-sighting-concord
-  shared_claims: 1
-- node_id: 871de715-d0f3-44ac-8828-59dfac9f7717
-  title: USA, Massachusetts, Concord
-  node_type: place
-  slug: massachusetts-concord-usa
-  shared_claims: 1
-- node_id: c195afae-e195-46e0-a29f-089780d63dd4
-  title: USA, New York, Ulster County
-  node_type: place
-  slug: new-york-ulster-county-usa
-  shared_claims: 1
-- node_id: 627b2576-c191-49e4-8f9a-509dc530d908
-  title: USA, Texas, San Antonio
-  node_type: place
-  slug: texas-san-antonio-usa
-  shared_claims: 1
-claims:
-- claim_id: 9da8037e-f6ea-41f2-9a50-fcbca797ed7d
-  claim_hash: 54c08dabd68b34f9e8f057a8df7797cb4b1c868e6330fab16c8be9598505bc01
-  content: Dr. Donald Klein met Whitley Strieber in his gray office on East Seventy-ninth
-    Street in Manhattan.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
-    title: USA, New York, Manhattan
-    slug: new-york-manhattan-usa
   - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
     title: Whitley Strieber
+    node_type: person
     slug: whitley-strieber
-  - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
-    title: Donald Klein
-    slug: donald-klein
-  date: null
-  date_end: null
-  location_in_record: ch10:8141-8220
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: a6b4babd-4be3-480f-bc5b-dfbf741ff7c0
-  claim_hash: 644c4de69d2c1bc3f06590816bebb9370093cf9c7bde7cb2fc4331a2fde02909
-  content: Whitley Strieber found he was more fearful in Texas than in New York.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
-    title: USA, New York, Manhattan
-    slug: new-york-manhattan-usa
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 627b2576-c191-49e4-8f9a-509dc530d908
-    title: USA, Texas, San Antonio
-    slug: texas-san-antonio-usa
-  date: null
-  date_end: null
-  location_in_record: ch11:2965-3061
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: eb295a46-7fb1-4a59-aeb1-70c50f5ddbf8
-  claim_hash: 6e5ff99ac1adb19c9f5fd1740788d4bbc6258f62dec2be701f6cb6b7dbfe027a
-  content: Whitley Strieber discovered that the young woman with visitor experiences
-    lives a block from him in Manhattan.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
-    title: USA, New York, Manhattan
-    slug: new-york-manhattan-usa
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  date: null
-  date_end: null
-  location_in_record: ch12:40413-40458
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: f4c8daea-9d9f-4535-a3df-a077a73393a0
-  claim_hash: 0162a27d92cf438bb139b98eb7951f5f30533c3c872b37d5b5a61bd5f0964fb6
-  content: On the night of April 13, 1986, eleven people met at the home of Budd Hopkins,
-    selected on the basis that they lived in the New York area and could attend.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
-    title: USA, New York, Manhattan
-    slug: new-york-manhattan-usa
+    shared_claims: 17
+  - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+    title: Anne Strieber
+    node_type: person
+    slug: anne-strieber
+    shared_claims: 3
+  - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+    title: Budd Hopkins
+    node_type: person
+    slug: budd-hopkins
+    shared_claims: 3
+  - node_id: dfa3268c-8bbb-4c5d-8066-f9a3a416b7e6
+    title: Communion (Whitley Strieber book)
+    node_type: document
+    slug: communion-whitley-strieber-book
+    shared_claims: 2
   - node_id: 5ecf74af-7060-498e-bc28-d05c2e95751d
     title: April 13, 1986 colloquy at Budd Hopkins' home
+    node_type: event
     slug: 1986-colloquy-at-budd-hopkins-home-april-13
-  - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
-    title: Budd Hopkins
-    slug: budd-hopkins
-  date: '1986-04-13'
-  date_end: null
-  location_in_record: ch14:59262-59433
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 8551473d-a5e6-42b5-8e7f-80768906f5f6
-  claim_hash: 86b4b9c31f043eab1c5e018c4bf9a943c9c486cf0ffdc05c291e289794ff8f12
-  content: Jenny had held a lifelong dream, since age nine, to move to New York City
-    to live in a big city full of lights and people, and fulfilled this dream.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Jenny (colloquy participant, dancer)
-    relay:
-    - Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
-    title: USA, New York, Manhattan
-    slug: new-york-manhattan-usa
-  - node_id: a127963a-e89a-4737-adf0-5633988901ea
-    title: Jenny (colloquy participant, dancer)
-    slug: dancer-jenny-colloquy-participant
-  date: null
-  date_end: null
-  location_in_record: ch14:94818-94998
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 247117d6-4592-4d67-9bdf-15eb0d45874d
-  claim_hash: 26bfff204a57ca2dbb33be3af9e9392d1a08784d875c3fb61b040cc04f8e8649
-  content: Whitley Strieber grew up with the dream of living in a small apartment
-    in an enormous building in New York City with a view of a brick wall, achieved
-    this, but found it did not help him escape whatever he was running from.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
-    title: USA, New York, Manhattan
-    slug: new-york-manhattan-usa
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  date: null
-  date_end: null
-  location_in_record: ch14:95005-95173
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 5a75c1d4-5561-449b-8add-681d6f8639a6
-  claim_hash: 44697f4b0b4531e7c8813e39cfa7547a6325766bee1bad19fd268a9c09683a50
-  content: Whitley Strieber now lives in an apartment with large windows and spends
-    considerable time in an isolated country cabin.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
-    title: USA, New York, Manhattan
-    slug: new-york-manhattan-usa
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: c195afae-e195-46e0-a29f-089780d63dd4
-    title: USA, New York, Ulster County
-    slug: new-york-ulster-county-usa
-  date: null
-  date_end: null
-  location_in_record: ch14:95178-95272
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 9915e669-ca73-47b3-ad87-b8dff2568803
-  claim_hash: 0558f020ee3b7e9f7fd5f0db819a78253167c4fdeb4b5dfa2ccabc5143a49012
-  content: Whitley Strieber's office windows have two high arches through which the
-    night sky over Manhattan is visible.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
-    title: USA, New York, Manhattan
-    slug: new-york-manhattan-usa
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  date: null
-  date_end: null
-  location_in_record: ch8:4031-4198
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 59487a98-b495-4ddf-b8ba-8b81ddd0f1f2
-  claim_hash: ff18f72bb8eac56422ccd571c133184a4b0f8b98dd1bb34449685e2185edc104
-  content: Whitley Strieber and Anne Strieber also have an apartment in New York City.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
-    title: Anne Strieber
-    slug: anne-strieber
-  - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
-    title: USA, New York, Manhattan
-    slug: new-york-manhattan-usa
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  date: null
-  date_end: null
-  location_in_record: ch9:1705-1743
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 238315df-b9da-4b1f-8e1f-79f2162762c0
-  claim_hash: 644416d5b624a5a93fa9f0edc6c25204c2c3066d72b6b10461526573c1b05b97
-  content: Budd Hopkins's apartment in New York City was a ten minute walk from Whitley
-    Strieber's home.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
-    title: USA, New York, Manhattan
-    slug: new-york-manhattan-usa
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
-    title: Budd Hopkins
-    slug: budd-hopkins
-  date: null
-  date_end: null
-  location_in_record: ch9:45308-45376
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 51fcacfe-538b-4173-b88d-60d08d90b6ef
-  claim_hash: 9bf4e632bd84eb18ded85d8a9b44b97132d1997cb4f646ba8ffd32105757e1a2
-  content: Whitley Strieber went into his office in Manhattan one evening and looked
-    out at the sky.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
-    title: USA, New York, Manhattan
-    slug: new-york-manhattan-usa
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  date: null
-  date_end: null
-  location_in_record: ch9:61826-61936
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: 05af6399-352c-4a25-bbab-65eba1739f29
-  claim_hash: 35147a3ece8c6a615b26226bc430cecaacd5a0eb40aac1752e1eb2e0448ed4ae
-  content: By the last week of October 1985, Whitley Strieber decided he could not
-    live in New York any longer, though he still had no conscious memory of the December
-    26, 1985 night being unusual.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
-    title: USA, New York, Manhattan
-    slug: new-york-manhattan-usa
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
+    shared_claims: 1
   - node_id: da4e456b-8469-4607-a574-46bef4b028e5
     title: December 26, 1985 abduction experience
+    node_type: event
     slug: 1985-abduction-experience-december-26
-  date: 1985-10
-  date_end: null
-  location_in_record: ch9:62687-62838
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: cf6f26db-f735-49c9-825d-a52811f2d5a7
-  claim_hash: aed7520392834805bf763ecdab3a5a6f0cf14bfcc774ab67034a1107573e7dc9
-  content: When Whitley Strieber changed his mind and decided to stay in New York,
-    Anne Strieber was furious, and he then accused her of being the one who had wanted
-    to move to Austin.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
-    title: Anne Strieber
-    slug: anne-strieber
-  - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
-    title: USA, New York, Manhattan
-    slug: new-york-manhattan-usa
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  date: null
-  date_end: null
-  location_in_record: ch9:64186-64343
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ad152768-183b-4cde-bc60-1520900ceb32
-    record_title: Communion
-    record_date: '2013-06-16'
-    record_reference: null
-    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
-    friendly_name: 2013-06-16-ebook-communion
-  excerpt_withheld: restricted
-- claim_id: ccb5fc4d-e3d9-489b-8efd-dd1e25661892
-  claim_hash: 20ac71b2b4f5ff44de9b7956abd8110618e331132721a69afe2efd7925d74741
-  content: 'Leslie Kean saw two red balloons within the next few days: one outside
-    a bookstore in Concord, Massachusetts, and another in a Manhattan subway station.'
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 953f6232-9902-437f-ad4c-add4fd080043
-    title: Leslie Kean
-  provenance_chain:
-    origin_kind: speaker
-    origin: Leslie Kean
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
-    title: USA, New York, Manhattan
-    slug: new-york-manhattan-usa
-  - node_id: 2ecac705-042f-4b73-aefa-6465ccfcd3ec
-    title: Leslie Kean's two red balloons sighting (Concord, Massachusetts and Manhattan
-      subway)
-    slug: massachusetts-and-manhattan-subway-leslie-keans-two-red-balloons-sighting-concord
-  - node_id: 871de715-d0f3-44ac-8828-59dfac9f7717
-    title: USA, Massachusetts, Concord
-    slug: massachusetts-concord-usa
+    shared_claims: 1
+  - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+    title: Donald Klein
+    node_type: person
+    slug: donald-klein
+    shared_claims: 1
+  - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
+    title: Greys
+    node_type: topic
+    slug: greys
+    shared_claims: 1
+  - node_id: a127963a-e89a-4737-adf0-5633988901ea
+    title: Jenny (colloquy participant, dancer)
+    node_type: person
+    slug: dancer-jenny-colloquy-participant
+    shared_claims: 1
   - node_id: 953f6232-9902-437f-ad4c-add4fd080043
     title: Leslie Kean
+    node_type: person
     slug: leslie-kean
-  date: null
-  date_end: null
-  location_in_record: ch30:19809-19948
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 457db9dc-2abe-4465-801f-6341b7823840
-  claim_hash: 4dbc3195a7f7a30861cc6dca0a8d9ceb41d46cd8b588844334990c026fe121dc
-  content: Budd Hopkins has documented alien abduction cases occurring within Manhattan,
-    New York City.
-  original_excerpt: I have within Manhattan itself some abductions.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
-    title: Budd Hopkins
-  provenance_chain:
-    origin_kind: speaker
-    origin: Budd Hopkins
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
-    title: USA, New York, Manhattan
-    slug: new-york-manhattan-usa
-  - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
-    title: Budd Hopkins
-    slug: budd-hopkins
-  date: null
-  date_end: null
-  location_in_record: 00:07:09.0-00:07:11.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: dbc346ba-23a6-4473-8105-5fcd1e58835b
-    record_title: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins
-      on ET Abductions (1988)'
-    record_date: '2024-10-05'
-    record_reference: https://www.youtube.com/watch?v=6reYhyVC7CQ
-    content_hash: sha256:973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af8cd8cc30
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 2ecac705-042f-4b73-aefa-6465ccfcd3ec
+    title: Leslie Kean's two red balloons sighting (Concord, Massachusetts and Manhattan subway)
+    node_type: event
+    slug: massachusetts-and-manhattan-subway-leslie-keans-two-red-balloons-sighting-concord
+    shared_claims: 1
+  - node_id: 871de715-d0f3-44ac-8828-59dfac9f7717
+    title: USA, Massachusetts, Concord
+    node_type: place
+    slug: massachusetts-concord-usa
+    shared_claims: 1
+  - node_id: 6a42f73e-1e98-4f51-ac69-8baada52acbe
+    title: USA, New York, Manhattan, LaGuardia Place
+    node_type: place
+    slug: new-york-manhattan-laguardia-place-usa
+    shared_claims: 1
+  - node_id: c195afae-e195-46e0-a29f-089780d63dd4
+    title: USA, New York, Ulster County
+    node_type: place
+    slug: new-york-ulster-county-usa
+    shared_claims: 1
+  - node_id: f7d4be19-70e0-40ba-a63a-50f75fada4fa
+    title: USA, New York, Woodstock
+    node_type: place
+    slug: new-york-woodstock-usa
+    shared_claims: 1
+  - node_id: 627b2576-c191-49e4-8f9a-509dc530d908
+    title: USA, Texas, San Antonio
+    node_type: place
+    slug: texas-san-antonio-usa
+    shared_claims: 1
+  - node_id: 96c9d481-7c21-4bc7-b293-56b6469c40ed
+    title: Whitley Strieber's 1983 time slip on LaGuardia Place
+    node_type: event
+    slug: whitley-striebers-1983-time-slip-on-laguardia-place
+    shared_claims: 1
+  - node_id: 374982e6-193c-49b4-87fa-1259227a9f3d
+    title: time slip
+    node_type: topic
+    slug: time-slip
+    shared_claims: 1
+claims:
+  - claim_id: 9da8037e-f6ea-41f2-9a50-fcbca797ed7d
+    claim_hash: 54c08dabd68b34f9e8f057a8df7797cb4b1c868e6330fab16c8be9598505bc01
+    content: Dr. Donald Klein met Whitley Strieber in his gray office on East Seventy-ninth Street in Manhattan.
+    original_excerpt: Donald Klein met me in his subdued gray office on East Seventy-ninth Street in Manhattan.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch10:8141-8220
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: a6b4babd-4be3-480f-bc5b-dfbf741ff7c0
+    claim_hash: 644c4de69d2c1bc3f06590816bebb9370093cf9c7bde7cb2fc4331a2fde02909
+    content: Whitley Strieber found he was more fearful in Texas than in New York.
+    original_excerpt: It is interesting to note that I was, if anything, even more fearful in Texas than I was in New York.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 627b2576-c191-49e4-8f9a-509dc530d908
+        title: USA, Texas, San Antonio
+        slug: texas-san-antonio-usa
+    date: null
+    date_end: null
+    location_in_record: ch11:2965-3061
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: eb295a46-7fb1-4a59-aeb1-70c50f5ddbf8
+    claim_hash: 6e5ff99ac1adb19c9f5fd1740788d4bbc6258f62dec2be701f6cb6b7dbfe027a
+    content: Whitley Strieber discovered that the young woman with visitor experiences lives a block from him in Manhattan.
+    original_excerpt: And it turns out that she lives a block from me.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+    date: null
+    date_end: null
+    location_in_record: ch12:40413-40458
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: f4c8daea-9d9f-4535-a3df-a077a73393a0
+    claim_hash: 0162a27d92cf438bb139b98eb7951f5f30533c3c872b37d5b5a61bd5f0964fb6
+    content: On the night of April 13, 1986, eleven people met at the home of Budd Hopkins, selected on the basis that they
+      lived in the New York area and could attend.
+    original_excerpt: On the night of April 13, 1986, eleven of us met at the home of Budd Hopkins. We were selected simply
+      on the basis of the fact that we live in the New York area and could come.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 5ecf74af-7060-498e-bc28-d05c2e95751d
+        title: April 13, 1986 colloquy at Budd Hopkins' home
+        slug: 1986-colloquy-at-budd-hopkins-home-april-13
+      - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+        title: Budd Hopkins
+        slug: budd-hopkins
+    date: '1986-04-13'
+    date_end: null
+    location_in_record: ch14:59262-59433
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 8551473d-a5e6-42b5-8e7f-80768906f5f6
+    claim_hash: 86b4b9c31f043eab1c5e018c4bf9a943c9c486cf0ffdc05c291e289794ff8f12
+    content: Jenny had held a lifelong dream, since age nine, to move to New York City to live in a big city full of lights
+      and people, and fulfilled this dream.
+    original_excerpt: One of them, jenny, had just fulfilled her lifelong dream to move to New York and 'live in a big city
+      full of lights and lots of people.' She has had this aspiration since she was nine.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Jenny (colloquy participant, dancer)
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: a127963a-e89a-4737-adf0-5633988901ea
+        title: Jenny (colloquy participant, dancer)
+        slug: dancer-jenny-colloquy-participant
+    date: null
+    date_end: null
+    location_in_record: ch14:94818-94998
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 247117d6-4592-4d67-9bdf-15eb0d45874d
+    claim_hash: 26bfff204a57ca2dbb33be3af9e9392d1a08784d875c3fb61b040cc04f8e8649
+    content: Whitley Strieber grew up with the dream of living in a small apartment in an enormous building in New York City
+      with a view of a brick wall, achieved this, but found it did not help him escape whatever he was running from.
+    original_excerpt: I grew up with the same dream, to live in a little apartment m an enormous building in New York with
+      a view of a brick wall. I did that, though, and it didn't help at all.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+    date: null
+    date_end: null
+    location_in_record: ch14:95005-95173
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 5a75c1d4-5561-449b-8add-681d6f8639a6
+    claim_hash: 44697f4b0b4531e7c8813e39cfa7547a6325766bee1bad19fd268a9c09683a50
+    content: Whitley Strieber now lives in an apartment with large windows and spends considerable time in an isolated country
+      cabin.
+    original_excerpt: I now live in an apartment with huge windows and spend a lot of time m a very isolate country cabin.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: c195afae-e195-46e0-a29f-089780d63dd4
+        title: USA, New York, Ulster County
+        slug: new-york-ulster-county-usa
+    date: null
+    date_end: null
+    location_in_record: ch14:95178-95272
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 9915e669-ca73-47b3-ad87-b8dff2568803
+    claim_hash: 0558f020ee3b7e9f7fd5f0db819a78253167c4fdeb4b5dfa2ccabc5143a49012
+    content: Whitley Strieber's office windows have two high arches through which the night sky over Manhattan is visible.
+    original_excerpt: I look up toward the night sky, visible through two high arches above my office windows. Almost all
+      the way to the top of the arches the clouds glow with Manhattan's light.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+    date: null
+    date_end: null
+    location_in_record: ch8:4031-4198
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 59487a98-b495-4ddf-b8ba-8b81ddd0f1f2
+    claim_hash: ff18f72bb8eac56422ccd571c133184a4b0f8b98dd1bb34449685e2185edc104
+    content: Whitley Strieber and Anne Strieber also have an apartment in New York City.
+    original_excerpt: We also have an apartment in New York City.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+        title: Anne Strieber
+        slug: anne-strieber
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+    date: null
+    date_end: null
+    location_in_record: ch9:1705-1743
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 238315df-b9da-4b1f-8e1f-79f2162762c0
+    claim_hash: 644416d5b624a5a93fa9f0edc6c25204c2c3066d72b6b10461526573c1b05b97
+    content: Budd Hopkins's apartment in New York City was a ten minute walk from Whitley Strieber's home.
+    original_excerpt: It turned out that his place in the city was a ten minute walk from mine.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+        title: Budd Hopkins
+        slug: budd-hopkins
+    date: null
+    date_end: null
+    location_in_record: ch9:45308-45376
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 51fcacfe-538b-4173-b88d-60d08d90b6ef
+    claim_hash: 9bf4e632bd84eb18ded85d8a9b44b97132d1997cb4f646ba8ffd32105757e1a2
+    content: Whitley Strieber went into his office in Manhattan one evening and looked out at the sky.
+    original_excerpt: I went into my office and closed my door. It was evening, and Manhattan's few blind stars were shining
+      in the sky.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+    date: null
+    date_end: null
+    location_in_record: ch9:61826-61936
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 05af6399-352c-4a25-bbab-65eba1739f29
+    claim_hash: 35147a3ece8c6a615b26226bc430cecaacd5a0eb40aac1752e1eb2e0448ed4ae
+    content: By the last week of October 1985, Whitley Strieber decided he could not live in New York any longer, though he
+      still had no conscious memory of the December 26, 1985 night being unusual.
+    original_excerpt: The last week of October, still with no conscious memory of that night being in any way unusual, I decided
+      that I couldn't live a moment longer in New York.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: da4e456b-8469-4607-a574-46bef4b028e5
+        title: December 26, 1985 abduction experience
+        slug: 1985-abduction-experience-december-26
+    date: 1985-10
+    date_end: null
+    location_in_record: ch9:62687-62838
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: cf6f26db-f735-49c9-825d-a52811f2d5a7
+    claim_hash: aed7520392834805bf763ecdab3a5a6f0cf14bfcc774ab67034a1107573e7dc9
+    content: When Whitley Strieber changed his mind and decided to stay in New York, Anne Strieber was furious, and he then
+      accused her of being the one who had wanted to move to Austin.
+    original_excerpt: When I changed my mind and decided to stay in New York, my wife was understandably furious. Then I accused
+      her of being the one who had wanted to move us to Austin.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+        title: Anne Strieber
+        slug: anne-strieber
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+    date: null
+    date_end: null
+    location_in_record: ch9:64186-64343
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: ccb5fc4d-e3d9-489b-8efd-dd1e25661892
+    claim_hash: 20ac71b2b4f5ff44de9b7956abd8110618e331132721a69afe2efd7925d74741
+    content: 'Leslie Kean saw two red balloons within the next few days: one outside a bookstore in Concord, Massachusetts,
+      and another in a Manhattan subway station.'
+    original_excerpt: Well, I saw two red balloons within the next few days—one outside a bookstore in Concord, Massachusetts,
+      and another in a Manhattan subway station.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 953f6232-9902-437f-ad4c-add4fd080043
+      title: Leslie Kean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 2ecac705-042f-4b73-aefa-6465ccfcd3ec
+        title: Leslie Kean's two red balloons sighting (Concord, Massachusetts and Manhattan subway)
+        slug: massachusetts-and-manhattan-subway-leslie-keans-two-red-balloons-sighting-concord
+      - node_id: 871de715-d0f3-44ac-8828-59dfac9f7717
+        title: USA, Massachusetts, Concord
+        slug: massachusetts-concord-usa
+      - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+        title: Leslie Kean
+        slug: leslie-kean
+    date: null
+    date_end: null
+    location_in_record: ch30:19809-19948
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 457db9dc-2abe-4465-801f-6341b7823840
+    claim_hash: 4dbc3195a7f7a30861cc6dca0a8d9ceb41d46cd8b588844334990c026fe121dc
+    content: Budd Hopkins has documented alien abduction cases occurring within Manhattan, New York City.
+    original_excerpt: I have within Manhattan itself some abductions.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+      title: Budd Hopkins
+    provenance_chain:
+      origin_kind: speaker
+      origin: Budd Hopkins
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+        title: Budd Hopkins
+        slug: budd-hopkins
+    date: null
+    date_end: null
+    location_in_record: 00:07:09.0-00:07:11.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dbc346ba-23a6-4473-8105-5fcd1e58835b
+      record_title: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions (1988)'
+      record_date: '2024-10-05'
+      record_reference: https://www.youtube.com/watch?v=6reYhyVC7CQ
+      content_hash: sha256:973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af8cd8cc30
+      friendly_name: null
+  - claim_id: f1c2d0cb-bfc5-4829-9815-3b54c1fbcf6c
+    claim_hash: d8af30f9f744de5b70f6edb13b0699c498ace266828fa95de8df90d7a8b474bc
+    content: Whitley Strieber was living in Woodstock, New York, about 145 kilometres north of Manhattan, in the early 1990s.
+    original_excerpt: Back in the early 90s, when I was living in upstate, well, it's downstate New York to most New Yorkers,
+      but 90 miles north of Manhattan, the town of Woodstock
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: f7d4be19-70e0-40ba-a63a-50f75fada4fa
+        title: USA, New York, Woodstock
+        slug: new-york-woodstock-usa
+    date: null
+    date_end: null
+    location_in_record: 00:15:02.2-00:15:14.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: ff6b4b97-2211-4439-bc95-793a7c173389
+    claim_hash: fffc718484baaf268b1ed8f9bbdcae6d69438b0285c8fc103db345f2f421c9da
+    content: One of the letters collected in The Communion Letters was from a Swedish psychiatrist who lived on the Upper
+      West Side of Manhattan and smoked a pipe.
+    original_excerpt: one of the communion letters was from a psychiatrist who lived on the upper east upper west side in
+      manhattan and she was swedish and smoked a pipe
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: document
+      origin: a letter to Whitley Strieber from a Swedish psychiatrist in Manhattan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: dfa3268c-8bbb-4c5d-8066-f9a3a416b7e6
+        title: Communion (Whitley Strieber book)
+        slug: communion-whitley-strieber-book
+    date: null
+    date_end: null
+    location_in_record: 01:19:47.5-01:19:56.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: b2f788c8-5055-46e2-99d4-6793f81f9390
+    claim_hash: 2bdc664091f91c0dd8e75ddccd8607c97f4dbda5e10b1fabbb6672e3046c2b8d
+    content: A Swedish psychiatrist living on the Upper West Side of Manhattan wrote to Whitley Strieber that while reading
+      in bed at night her closet door flew open and a conga line of Greys came out across the bedroom, went through the wall
+      and disappeared over West End Avenue from the eleventh floor.
+    original_excerpt: she's in her bed at night she's reading and uh suddenly the closet door flies open and a conga line
+      of greys comes out across the bedroom and goes through the wall and disappears over the 11th floor over West End Avenue.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a Swedish psychiatrist living on the Upper West Side of Manhattan
+      relay:
+        - a letter sent to Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
+        title: Greys
+        slug: greys
+      - node_id: dfa3268c-8bbb-4c5d-8066-f9a3a416b7e6
+        title: Communion (Whitley Strieber book)
+        slug: communion-whitley-strieber-book
+    date: null
+    date_end: null
+    location_in_record: 01:20:04.1-01:20:26.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: ebb253f2-5262-4924-af62-d866d17718e9
+    claim_hash: acdb1393baf68bcf99d49189007b5e3239790365dff9381fcd7e45adc9e2b182
+    content: Whitley Strieber and Anne Strieber lived at 520 LaGuardia Place in Manhattan, immediately north of Bleecker Street.
+    original_excerpt: We lived at uh on LaGuardia Place just immediately north of Bleecker. 520 LaGuardia Place, this was
+      called.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+        title: Anne Strieber
+        slug: anne-strieber
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 6a42f73e-1e98-4f51-ac69-8baada52acbe
+        title: USA, New York, Manhattan, LaGuardia Place
+        slug: new-york-manhattan-laguardia-place-usa
+    date: null
+    date_end: null
+    location_in_record: 01:47:42.2-01:47:50.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: a8ff2bde-930f-427c-b582-b2ca996c9a58
+    claim_hash: 6ebf41ab0ec267f6dad10b9b2d9db8e3d1290c5da413a3899dce28b4c64700ca
+    content: During Whitley Strieber's 1983 time slip on LaGuardia Place, he saw a group of riders on thoroughbred horses
+      in red riding clothes coming up West Broadway, along with carriages.
+    original_excerpt: I see a group of horsemen in beautiful, with thoroughbred horses and their red riding clothes, the fancy
+      clothes, coming up West Broadway. And their carriages
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 96c9d481-7c21-4bc7-b293-56b6469c40ed
+        title: Whitley Strieber's 1983 time slip on LaGuardia Place
+        slug: whitley-striebers-1983-time-slip-on-laguardia-place
+    date: null
+    date_end: null
+    location_in_record: 01:51:31.3-01:51:42.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: f49542b3-47fd-4013-9cad-da668dc57c38
+    claim_hash: 8e070a1a24361ba790e5a6b7d6e73fb9103d4f1acd9bd70f52145c6f0cefb450
+    content: In the Manhattan neighbourhood where Whitley Strieber searched the newspaper classified advertisements, he never
+      found any notice indicating a person was trapped in time.
+    original_excerpt: we never see anything that says i am trapped in time anything like that
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 374982e6-193c-49b4-87fa-1259227a9f3d
+        title: time slip
+        slug: time-slip
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+    date: null
+    date_end: null
+    location_in_record: 01:54:42.9-01:54:47.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

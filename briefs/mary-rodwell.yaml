@@ -1,0 +1,4251 @@
+schema: anomalica/brief/1
+brief_hash: b31cbe438206a119c4bb1d9a71fabcb0de769d9611fe42f12100c387801acce4
+page:
+  kind: entity
+  node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+  node_type: person
+  title: Mary Rodwell
+  slug: mary-rodwell
+  claim_count: 112
+  claim_count_total: 112
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 112
+  tokens_estimated: 31190
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 112
+related_nodes:
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 54
+  - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+    title: Extraterrestrial Contact
+    node_type: topic
+    slug: extraterrestrial-contact
+    shared_claims: 22
+  - node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+    title: Rey Hernandez
+    node_type: person
+    slug: rey-hernandez
+    shared_claims: 6
+  - node_id: 62512bad-6456-4f65-a165-d2af36d77e3f
+    title: Healing
+    node_type: topic
+    slug: healing
+    shared_claims: 3
+  - node_id: 64c1e496-975d-4b23-8ef5-ce74206e625f
+    title: Rudy Schild
+    node_type: person
+    slug: rudy-schild
+    shared_claims: 3
+  - node_id: d2b618db-89af-4446-a4fe-652f7753505d
+    title: Australia, Western Australia, Perth
+    node_type: place
+    slug: western-australia-perth-australia
+    shared_claims: 2
+  - node_id: 4f3565a0-bc46-4e52-a884-d20308ffcdca
+    title: Dr. Edgar Mitchell Foundation for Research into Extraterrestrial Encounters (FREE)
+    node_type: organisation
+    slug: dr-edgar-mitchell-foundation-for-research-into-extraterrestrial-encounters-free
+    shared_claims: 2
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    node_type: person
+    slug: edgar-mitchell
+    shared_claims: 2
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
+    title: post-traumatic stress disorder (PTSD)
+    node_type: topic
+    slug: post-traumatic-stress-disorder-ptsd
+    shared_claims: 2
+  - node_id: 8e028221-d05e-4b31-a286-66ae29dca0eb
+    title: Academy of Clinical Close Encounter Therapists (ACCT)
+    node_type: organisation
+    slug: academy-of-clinical-close-encounter-therapists-acct
+    shared_claims: 1
+  - node_id: e1ece9a8-3f3b-4f00-ac2e-91c8dd54b6e5
+    title: Australasian Society of Psychical Research (ASPR)
+    node_type: organisation
+    slug: australasian-society-of-psychical-research-aspr
+    shared_claims: 1
+  - node_id: 275edf03-c269-4e5c-9534-db34204b1d9c
+    title: Australian Close Encounter Resource Network (CERN)
+    node_type: organisation
+    slug: australian-close-encounter-resource-network-cern
+    shared_claims: 1
+  - node_id: 112b9bfc-7c32-4e33-9852-b0f34baeada8
+    title: Connections
+    node_type: document
+    slug: connections
+    shared_claims: 1
+  - node_id: 59caa6b0-3a59-402a-804c-ffabac3ba4c9
+    title: Daryl Sims
+    node_type: person
+    slug: daryl-sims
+    shared_claims: 1
+  - node_id: 28f4d7e3-8a96-4084-9171-c412b6dad1ea
+    title: Elizabeth Robinson
+    node_type: person
+    slug: elizabeth-robinson
+    shared_claims: 1
+  - node_id: b0a1c36b-e9d1-4629-aa6d-5e95333b7b3c
+    title: High Sense Perception
+    node_type: topic
+    slug: high-sense-perception
+    shared_claims: 1
+  - node_id: 213ef20d-93db-44b6-a9de-a07c2ebfaa27
+    title: Psychic Surgery
+    node_type: topic
+    slug: psychic-surgery
+    shared_claims: 1
+  - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+    title: clairvoyance
+    node_type: topic
+    slug: clairvoyance
+    shared_claims: 1
+  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+    title: telepathy
+    node_type: topic
+    slug: telepathy
+    shared_claims: 1
+claims:
+  - claim_id: c24ccf68-6f80-4098-8598-9ab8baad3cef
+    claim_hash: 731eaa1ceb28f2753fae5d9aa7828220fb0c8b121803566ce7a5939bfbb4000e
+    content: Mary Rodwell believes human contact with extraterrestrials is real, affecting not just abductees but all of humanity.
+    original_excerpt: I believe human contact with extraterrestrials is real, not just for the abductee, but for us all.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:01:43.1-00:01:50.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 2393c479-e573-48f0-ad2b-468b8c043a75
+    claim_hash: 3d47c7dd8afc90147f3d8d0e22083c55b14dffc97ca8bee5cc7419494cb44be9
+    content: Mary Rodwell believes extraterrestrial contact has been occurring throughout human history and will continue
+      into the future.
+    original_excerpt: It's not only happening now, but I believe it's been happening all through human history and will most
+      certainly continue on through to our future.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:01:52.2-00:02:00.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: bc8028c3-1f8e-4cab-b003-04838e493d4d
+    claim_hash: 9efc39f0703fe2c06d99c7c083573ca6fb97c4c78e025a17c8cb86de6664f126
+    content: Mary Rodwell has provided emotional support to over 100 people experiencing abductee encounters and their families.
+    original_excerpt: I have provided emotional support for over 100 experiencers, their families all having the abductee
+      encounter experience.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: '1998'
+    date_end: null
+    location_in_record: 00:02:03.3-00:02:11.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 984900e4-0217-4630-91a9-6f112ca267c5
+    claim_hash: f92ed5c717b5cda7bd3e6a1b94ddea82b633c8736718018e3e9fa7afd3f49ef8
+    content: Mary Rodwell has never observed an unidentified flying object nor experienced abduction.
+    original_excerpt: I've never seen a UFO, and I have never had an abductee experience.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: '1998'
+    date_end: null
+    location_in_record: 00:03:12.5-00:03:16.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 02d015d3-f2cb-428a-9006-e57b00369e28
+    claim_hash: b76c5a56fded306198792c9ab8bde46da4dd9d6219da6cb1133ad8dfa967a12a
+    content: Mary Rodwell believes many millions of people have experienced unidentified flying objects and abductions.
+    original_excerpt: but I do believe many millions have
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: '1998'
+    date_end: null
+    location_in_record: 00:03:18.5-00:03:20.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 5bfff0d2-d832-4797-91ea-c1307248e51a
+    claim_hash: 2d54a7f923bfe3ccb0b2dea66ae1a976117fc9c3c3595fcd4586c81b5221a198
+    content: Mary Rodwell is a registered nurse and practising midwife.
+    original_excerpt: I'm a registered nurse and a midwife.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+    date: '1998'
+    date_end: null
+    location_in_record: 00:06:08.6-00:06:09.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 739f0e61-e360-40f5-b575-ad072e3167a8
+    claim_hash: 58666696cdb4fb9449bdac49658a96a0c667f3479e56dbc6b4c6762a2352fe11
+    content: Mary Rodwell has 11 years of professional experience as a counsellor with broad clinical knowledge.
+    original_excerpt: I have 11 years of experience as a professional counsellor with a broad range of clinical knowledge.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+    date: '1998'
+    date_end: null
+    location_in_record: 00:06:20.2-00:06:25.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: ebfe3fc4-50bb-43c9-b86d-46f3415a9ade
+    claim_hash: 12d697540de8d03daf7feaf6a3b137ca7ae3a972e50caa3e03ddbe1ea0d97ca3
+    content: Mary Rodwell was introduced to a person claiming to have contact experiences with non-human beings during professional
+      training.
+    original_excerpt: I was doing extra professional training when a friend introduced me to someone who said they were having
+      contact experiences with non-human beings.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:06:34.5-00:06:41.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 0a7e3a3a-032f-4141-b63b-55ca2e59ab73
+    claim_hash: a0d72f6b40bbeab4b321182e848fa0f0eb109ed95beeb5a4832e0865ad585d5c
+    content: A contactee claiming extraterrestrial contact presented as a young-looking 40-year-old who spoke calmly and normally.
+    original_excerpt: He presented as a very young-looking 40-year-old. He spoke calmly and normally.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:07:12.7-00:07:16.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: f08a764a-31a4-40b9-8e5d-47ab6d23b79b
+    claim_hash: b67495d2f944cd9b9dee9b9bfdba4897e5e91de4306fc8f1f5a27fec2cb5e215
+    content: The contactee had physical evidence of his experiences, including marks on his body photographed by his partner
+      and a shaved area on his leg observed whilst showering.
+    original_excerpt: He had physical evidence, marks on his body, photographs his partner had taken off them, including a
+      shaved area on his leg that he'd observed while having a shower.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: the contactee
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:07:37.4-00:07:46.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: e8a01bb5-61e7-4f40-a627-5f22448bbc9a
+    claim_hash: 4bcdc7272b41b0db5260d180a9192ae488ee932458fd43ef34f96af516259523
+    content: The contactee's partner and five-year-old daughter were also experiencing extraterrestrial contact.
+    original_excerpt: He was particularly concerned for his partner because she was having experiences, as was his five-year-old
+      daughter.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: the contactee
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:07:48.4-00:07:54.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 0fa4e3b9-55c5-4967-a651-ddf00d4cdac4
+    claim_hash: 209a1b1f3c0e8a0da0fb8822c9e43c35ceba4f54d3a3bf81bc9a9b3cb02ff59d
+    content: The contactee experienced marks on his earlobe during meditation that appeared red, swollen, and resembled a
+      small scar in early healing stages consistent with microsurgery.
+    original_excerpt: he came to me the next day and showed me marks on his earlobe, which was still red and swollen, and
+      looked to me like a small, regular scar, newly healing, resembling microsurgery.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:08:00.8-00:08:10.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 6d21969b-bf63-40d1-9a75-ee4361326d3c
+    claim_hash: a73b3eccdd9d9f21fbff90cab3bf74c4c3da99839d2d948678a147f7744443b8
+    content: The contactee requested emotional support from Mary Rodwell, stating he needed someone to listen who would not
+      dismiss him as mentally unwell.
+    original_excerpt: I asked him what he needed from me, and he said, all I need is someone to listen. Someone who won't
+      think I'm loony
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: the contactee
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:08:13.5-00:08:21.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: c7620867-18c0-4c0f-8dda-a938203848e4
+    claim_hash: fa8944294f6c6a3225d781e5440b5f6e2f437f97fadbb882a5348a2219829627
+    content: Program for Extraordinary Experience Research (PEER) is an organisation in America run by psychiatrist John Mack.
+    original_excerpt: I had learned of organizations in America, such as PEER, the Program for Extraordinary Experience Research,
+      run by John Mack
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Program for Extraordinary Experience Research (PEER)
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+        title: John Mack
+        slug: john-mack
+      - node_id: e29032ec-6135-4d05-9ad8-2297ae009a9b
+        title: Program for Extraordinary Experience Research (PEER)
+        slug: program-for-extraordinary-experience-research-peer
+    date: '1998'
+    date_end: null
+    location_in_record: 00:11:03.9-00:11:10.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 4916ea20-315e-46fc-839f-7c3afa8a1467
+    claim_hash: 5fb9753d1af4f95870bcfc3578bc5832bba9108f1f0e57e3cb3c69bdefccd03f
+    content: Academy of Clinical Close Encounter Therapists (ACCT) is an organisation in America.
+    original_excerpt: the ACCT, the Academy of Clinical Close Encounter Therapists in America
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Academy of Clinical Close Encounter Therapists (ACCT)
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8e028221-d05e-4b31-a286-66ae29dca0eb
+        title: Academy of Clinical Close Encounter Therapists (ACCT)
+        slug: academy-of-clinical-close-encounter-therapists-acct
+    date: '1998'
+    date_end: null
+    location_in_record: 00:11:11.2-00:11:15.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 2d06b1e2-2c18-49d8-b5f1-0f31f12bcc4e
+    claim_hash: dff39dce83490c725a3617764b2eabe88d7fb72b1ffd4ab607b2f48041c3d498
+    content: Mary Rodwell registered as a clinician member of Academy of Clinical Close Encounter Therapists (ACCT).
+    original_excerpt: And I was delighted to get information from them, and finally registered as a clinician member of the
+      ACCT.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 8e028221-d05e-4b31-a286-66ae29dca0eb
+        title: Academy of Clinical Close Encounter Therapists (ACCT)
+        slug: academy-of-clinical-close-encounter-therapists-acct
+    date: '1998'
+    date_end: null
+    location_in_record: 00:11:16.6-00:11:21.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 1a5617a3-fe9d-492a-b8c2-af5d5a66ca9c
+    claim_hash: 295f198c8f6ce00490be26d942acab0fa9df053cc9614233c57c41509f3d1fbd
+    content: Academy of Clinical Close Encounter Therapists (ACCT) has 105 registered professionals including psychiatrists,
+      psychologists and doctors dealing with extraterrestrial contact experiences.
+    original_excerpt: This organization has 105 professionals, psychiatrists, psychologists and doctors, all registered and
+      dealing with this experience.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Academy of Clinical Close Encounter Therapists (ACCT)
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8e028221-d05e-4b31-a286-66ae29dca0eb
+        title: Academy of Clinical Close Encounter Therapists (ACCT)
+        slug: academy-of-clinical-close-encounter-therapists-acct
+    date: '1998'
+    date_end: null
+    location_in_record: 00:11:23.5-00:11:31.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 0cffa3a9-026c-45b9-8240-d0b69a77e54f
+    claim_hash: 0d5ed61ebee5ee3f5f9e004986bce8acb48ca661a312c5f07be7ea37d09a9c5f
+    content: Academy of Clinical Close Encounter Therapists (ACCT) conducts workshops internationally.
+    original_excerpt: And they have workshops all over the world.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Academy of Clinical Close Encounter Therapists (ACCT)
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8e028221-d05e-4b31-a286-66ae29dca0eb
+        title: Academy of Clinical Close Encounter Therapists (ACCT)
+        slug: academy-of-clinical-close-encounter-therapists-acct
+    date: '1998'
+    date_end: null
+    location_in_record: 00:11:32.5-00:11:34.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 03f8480c-d447-414e-96d1-5b23e97931a8
+    claim_hash: 4b68f810c2cf220bf3fbf919d5c2bd3160e44b4d56cbb70e5d6770bc85b5b4d9
+    content: Mary Rodwell was a member of Australasian Society of Psychical Research (ASPR) in Western Australia.
+    original_excerpt: I was a member of the ASPR, which is the Australasian Society of Psychical Research in Western Australia
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d2b618db-89af-4446-a4fe-652f7753505d
+        title: Australia, Western Australia, Perth
+        slug: western-australia-perth-australia
+      - node_id: e1ece9a8-3f3b-4f00-ac2e-91c8dd54b6e5
+        title: Australasian Society of Psychical Research (ASPR)
+        slug: australasian-society-of-psychical-research-aspr
+    date: '1998'
+    date_end: null
+    location_in_record: 00:11:44.5-00:11:49.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 9ff86a8a-1b30-4fb1-9170-586d98e0c493
+    claim_hash: 62f6ce25f8d8998494b7e65ccff56f0eb7174025b0851ec42fb860301da0021a
+    content: Elizabeth Robinson is a professional counsellor and therapist who was identified to facilitate an abductee support
+      group by ufology researchers in Western Australia.
+    original_excerpt: a professional counselor therapist called Elizabeth Robinson
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Elizabeth Robinson
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 28f4d7e3-8a96-4084-9171-c412b6dad1ea
+        title: Elizabeth Robinson
+        slug: elizabeth-robinson
+      - node_id: d2b618db-89af-4446-a4fe-652f7753505d
+        title: Australia, Western Australia, Perth
+        slug: western-australia-perth-australia
+    date: '1998'
+    date_end: null
+    location_in_record: 00:11:57.8-00:12:00.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 6e04e5ae-4107-4987-858a-8470510520b8
+    claim_hash: 5e209cb7470f193ad980afe5450b190d1424be5947f5a820fd71caa579daddda
+    content: Elizabeth Robinson has experienced extraterrestrial contact.
+    original_excerpt: I wasn't aware till later that she was also an experiencer.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Elizabeth Robinson
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 28f4d7e3-8a96-4084-9171-c412b6dad1ea
+        title: Elizabeth Robinson
+        slug: elizabeth-robinson
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:12:04.8-00:12:07.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: e08fa4d7-508c-47ca-b0cf-22f6ebb4f5bd
+    claim_hash: 881685cd4ea514374619f1574cfa1a18b918a87b5d9eca190cd1d6f96bfa48f9
+    content: Australian Close Encounter Resource Network (CERN) was established following the evolution of an abductee support
+      group in Western Australia.
+    original_excerpt: This led to the abductee support group that you've heard about and its evolution to a CERN, the Australian
+      Close Encounter Resource Network.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 275edf03-c269-4e5c-9534-db34204b1d9c
+        title: Australian Close Encounter Resource Network (CERN)
+        slug: australian-close-encounter-resource-network-cern
+      - node_id: d2b618db-89af-4446-a4fe-652f7753505d
+        title: Australia, Western Australia, Perth
+        slug: western-australia-perth-australia
+    date: '1998'
+    date_end: null
+    location_in_record: 00:12:09.3-00:12:16.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 58204bbf-e597-47c9-883c-14e628ade565
+    claim_hash: f22418d985b48d3aaefe43a8f36cf7f41f28394bde6ea9f3f1a1a8f653e60eb6
+    content: 'Australian Close Encounter Resource Network (CERN) focuses on five areas: abductee support through groups and
+      individual counselling, collating information and research on abductee phenomena, encouraging media attention to raise
+      public awareness, establishing a register of qualified professional counsellor therapists, and networking with ufology
+      organisations nationally and internationally.'
+    original_excerpt: And we've got fine main areas that we focus on. We offer abductee support from a support group to one-to-one
+      counselling. We collate information and research for the abductee phenomena. We encourage media attention to raise public
+      awareness. We want a register of qualified professional counselor therapists and a network with ufology organizations
+      nationally and internationally.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 275edf03-c269-4e5c-9534-db34204b1d9c
+        title: Australian Close Encounter Resource Network (CERN)
+        slug: australian-close-encounter-resource-network-cern
+    date: '1998'
+    date_end: null
+    location_in_record: 00:12:18.9-00:12:42.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 9d56494a-5c31-417a-b0ba-11e0ca410a47
+    claim_hash: fbd061cb20c7ec9f9b1666268a9058f97184454b75b1ee06db8db4967264a318
+    content: Mary Rodwell was introduced to Elizabeth Robinson approximately two years before this lecture (approximately
+      1996).
+    original_excerpt: After being introduced to Elizabeth two years ago, from this auspicious meeting, my world changed for
+      good.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 28f4d7e3-8a96-4084-9171-c412b6dad1ea
+        title: Elizabeth Robinson
+        slug: elizabeth-robinson
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+    date: '1996'
+    date_end: null
+    location_in_record: 00:12:44.6-00:12:50.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 352af3e3-09fe-4645-ac51-58f895819589
+    claim_hash: e2ab1cc02f6b4d3d5b4d2d2d77304c04238daab0a1594467acabb3156b6d9de7
+    content: The initial abductee support group meeting was attended by 12 individuals experiencing extraterrestrial contact
+      plus one professional psychologist providing feedback.
+    original_excerpt: We had 12 courageous individuals finally attend, plus another professional psychologist for feedback.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: '1998'
+    date_end: null
+    location_in_record: 00:13:26.6-00:13:32.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: ecc3446b-d3e2-4892-8784-7a6f5a16937c
+    claim_hash: bbc68a313f2871ca268377277928bce9a4b5962aa5f4b8a2be0430f5772c714e
+    content: Participants in Australian Close Encounter Resource Network (CERN) support group have shown extraordinary growth
+      and confidence.
+    original_excerpt: We have seen enormous changes in those attending. And the growth and confidence of those that have attended
+      has been absolutely extraordinary.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 275edf03-c269-4e5c-9534-db34204b1d9c
+        title: Australian Close Encounter Resource Network (CERN)
+        slug: australian-close-encounter-resource-network-cern
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+    date: '1998'
+    date_end: null
+    location_in_record: 00:13:45.6-00:13:53.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: d9fdca2a-985c-4586-ba47-f09a0dda6e6a
+    claim_hash: c87cd2409f147713cec184303fca2208b8f71e555dd045cfaf8ae75a5eb93783
+    content: Many people experiencing extraterrestrial abduction have been traumatised by mainstream mental health professionals.
+    original_excerpt: I had heard many stories from abductees traumatized by going through mainstream therapists and mental
+      health professionals.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: anonymous
+      origin: people claiming to have experienced traumatic interactions with mainstream mental health professionals whilst
+        dealing with abductee phenomena
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: '1998'
+    date_end: null
+    location_in_record: 00:16:24.7-00:16:29.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: dc51f936-85a4-42a0-bee5-8e10d36fec5d
+    claim_hash: 82f0b18dcd38c1d039738a1a3c4a0c749535d694c81eb7b5847b1559095848e5
+    content: Many abductees who sought help from mainstream mental health professionals were diagnosed as psychotic, medicated,
+      and institutionalised.
+    original_excerpt: Many had resourced them to their cost and were diagnosed as psychotic, then medicated and institutionalized.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: anonymous
+      origin: abductees who sought mainstream mental health assistance
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: '1998'
+    date_end: null
+    location_in_record: 00:16:31.2-00:16:36.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 96cf756c-3ec4-4240-a193-15045944af47
+    claim_hash: b15c66addfaf3a6bb2a713998dd0f35babd853eb15be457836e1345f53eab682
+    content: For many abductees, psychiatric treatment by mainstream mental health professionals was more damaging to their
+      psychological wellbeing than the extraterrestrial contact experiences themselves.
+    original_excerpt: This was more damaging to their psyche than the ET contact.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: anonymous
+      origin: abductees who sought mainstream mental health assistance
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:16:38.2-00:16:41.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 71853486-d5f4-4497-b180-cf35c8498826
+    claim_hash: 159132020b2363411e830abcec15788315776ae232dee98db9238741087a0ece
+    content: A young man trusting his brother with disclosure of extraterrestrial contact was subsequently collected by a
+      psychiatric emergency team and hospitalised.
+    original_excerpt: also mentions a young man who naively trusted his brother sharing his ET contact. Shortly after this,
+      he was collected by a psychiatric emergency team, hospitalised.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have experienced extraterrestrial contact and psychiatric hospitalisation
+      relay:
+        - Elizabeth Robinson
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 28f4d7e3-8a96-4084-9171-c412b6dad1ea
+        title: Elizabeth Robinson
+        slug: elizabeth-robinson
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:16:50.5-00:17:00.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 72b92ad4-f8f9-4607-a3f5-66faf3b3d89e
+    claim_hash: 385f16116930aff6252c9fd22d057f9a19a17d3e93400902aa59b06ba80a3e51
+    content: Mary Rodwell's female client experienced extraterrestrial contact starting at age four.
+    original_excerpt: she'd been experiencing ET contact since four years old
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Mary Rodwell's female client
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:17:19.7-00:17:22.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: e924057b-b187-4e86-835a-93efcc25c8eb
+    claim_hash: 160b407fe4349376250743f5719d61ba7fc044fc7e097024d6a1941db8563dda
+    content: The female client was unable to explain her extraterrestrial contact experiences to her parents, who could not
+      understand her extreme nighttime fear.
+    original_excerpt: she had no way to explain her experiences to her parents and they couldn't understand her extreme fear
+      particularly at night
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Mary Rodwell's female client
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:17:26.6-00:17:33.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: db2cf778-665e-4294-ae4e-7cf1562f9d3e
+    claim_hash: c78ebf9faddd7444f86260ef84280f7988281d2ea2224345ee9b01b0de607089
+    content: The female client became increasingly antisocial, very insecure, lonely and trapped in fear due to ongoing extraterrestrial
+      contact experiences.
+    original_excerpt: she became increasingly antisocial very insecure, lonely and trapped in her world of fear
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Mary Rodwell's female client
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:17:43.4-00:17:49.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 387423c5-dbc8-4bc5-93e6-a307a46f3d4c
+    claim_hash: 3276e8e3349ea46c2fc92e41faedddedae89833ebc806c00d8065bfb73efdd60
+    content: The mother took the female client to a psychologist at age eight.
+    original_excerpt: Her mother took her to see a psychologist at eight years old.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Mary Rodwell's female client
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+    date: '1998'
+    date_end: null
+    location_in_record: 00:17:51.1-00:17:53.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 7b6fec96-1670-4c97-bd74-de896e082911
+    claim_hash: 978cd7ed967dc6d56e7a44994397e43ff60f24c2aacc5127df0f6de57102b441
+    content: Psychological assistance did not help the female client who was unable to discuss why she was frightened and
+      lacked the words to explain.
+    original_excerpt: This didn't help. She was unable to discuss why she was so frightened at that young age and she said,
+      I just didn't have the words.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Mary Rodwell's female client
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+    date: '1998'
+    date_end: null
+    location_in_record: 00:17:54.5-00:18:00.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 74bedaf2-e55c-436c-9766-f73b5405c001
+    claim_hash: 5a417398e102673891ec2d79da7274ebd5475a1b8e30e5a5e5ce0e681c37e152
+    content: By age fourteen, the female client's continuous extraterrestrial contact experiences caused severe sleep deprivation,
+      affecting her schoolwork and ability to cope.
+    original_excerpt: By 14, she was sleeping so badly due to her continuous ET contact that her schoolwork suffered and she
+      was so tired she felt unable to cope.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Mary Rodwell's female client
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:18:02.4-00:18:10.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 4b512441-8151-45a6-a8e4-b0ed2a2449a5
+    claim_hash: 1a69fc25271dcd341de90cea35283e93d11e8efcd7cc329cec1fa87329cdb88c
+    content: The female client, severely depressed from ongoing extraterrestrial contact, attempted suicide by cutting her
+      wrists and was hospitalised.
+    original_excerpt: Severely depressed, she attempted suicide by slitting her wrists and was hospitalized.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Mary Rodwell's female client
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
+        title: post-traumatic stress disorder (PTSD)
+        slug: post-traumatic-stress-disorder-ptsd
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:18:11.8-00:18:17.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: a34b85e8-d0d8-47e8-bf34-aa3b7625554e
+    claim_hash: 9b085ec2c1e24d6ccfe70fb5f4c38ab0bafacee037fb13c7f9d395fbdd1f9209
+    content: The female client disclosed her extraterrestrial abduction experiences to a psychiatrist, who responded that
+      aliens do not exist.
+    original_excerpt: She finally gained the courage to tell the psychiatrist what was really troubling her and that she was
+      being abducted by aliens. The psychiatrist responded by saying there was no such thing as aliens.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: a psychiatrist
+      relay:
+        - Mary Rodwell's female client
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: '1998'
+    date_end: null
+    location_in_record: 00:18:19.2-00:18:30.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 52ef50dc-0f0d-45e5-9450-33e1fc90da1b
+    claim_hash: 4aa9727d75be00d755fed5c82d31fc26dfb5d91f7c059f7f62243ce0cf6d6d5d
+    content: Unable to diagnose the female client, the psychiatrist presented her case to a panel of doctors who concluded
+      she was schizophrenic.
+    original_excerpt: Unable to diagnose her or label her condition, he took her case to a panel of doctors. The final consensus
+      was that she must be schizophrenic.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: a panel of psychiatrists/doctors
+      relay:
+        - Mary Rodwell's female client
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+    date: '1998'
+    date_end: null
+    location_in_record: 00:18:31.8-00:18:40.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: b7ea52d6-cea3-46a2-988e-3a7a2ad99e8f
+    claim_hash: 71329b8257a08f7b178899c66115494301eb4b65ddc5be8f9d38ecbcf0a45115
+    content: Jason Andrews experienced extraterrestrial abduction from small childhood.
+    original_excerpt: a 15-year-old son, who had abducting experiences from a small child
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Jason Andrews
+      relay:
+        - Anne Andrews
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+      - node_id: fd6b3283-5feb-4499-9053-d8197bc7e00d
+        title: Jason Andrews
+        slug: jason-andrews
+    date: '1998'
+    date_end: null
+    location_in_record: 00:18:56.1-00:18:59.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 23bfaf15-5ad2-4044-a6d9-97e06ade57c5
+    claim_hash: 8b60d144974ca4064abc3a409b5774af04ad8f9e0b46b0d1806f727bbb005feb
+    content: Jason Andrews became increasingly disruptive at school when his extraterrestrial contact experiences were not
+      validated.
+    original_excerpt: Jason Andrews reacted badly to his not having his experiences validated and became increasingly disruptive
+      at school.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Jason Andrews
+      relay:
+        - Anne Andrews
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+      - node_id: fd6b3283-5feb-4499-9053-d8197bc7e00d
+        title: Jason Andrews
+        slug: jason-andrews
+    date: '1998'
+    date_end: null
+    location_in_record: 00:19:01.4-00:19:07.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: f26e1e6a-0b5c-42d6-9814-3f4aaaf3425d
+    claim_hash: bba08e812f51ce85e9de73b57b18cc64dc615455f28f805b14efb5fd5b19fa8a
+    content: Jason Andrews referred to his psychiatrist as 'the finger lady' because she would raise and bow her fingers when
+      discussing aliens, which Jason perceived as a condescending indication that aliens should not be taken seriously.
+    original_excerpt: He called her the finger lady because every time she spoke of the aliens, she would hold up the fingers
+      of each hand, bowing them in what Jason thought was a condescending manner to indicate the word aliens should be in
+      quotation marks and thereby not necessarily taken as correct.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Jason Andrews
+      relay:
+        - Anne Andrews
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+      - node_id: fd6b3283-5feb-4499-9053-d8197bc7e00d
+        title: Jason Andrews
+        slug: jason-andrews
+    date: '1998'
+    date_end: null
+    location_in_record: 00:19:10.6-00:19:25.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 4eb6b212-7e0d-4cc3-a705-bfc7eb44041b
+    claim_hash: 363f0b38f3da8ea2a687bbc7d1079c727ae1357177c297ea485c3adf06e64b72
+    content: Jason Andrews became angry with the psychiatrist when he realised he was not receiving health support for his
+      experiences.
+    original_excerpt: Jason became very angry with the psychiatrist when he realized he was not getting the health he hoped
+      for.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Jason Andrews
+      relay:
+        - Anne Andrews
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: fd6b3283-5feb-4499-9053-d8197bc7e00d
+        title: Jason Andrews
+        slug: jason-andrews
+    date: '1998'
+    date_end: null
+    location_in_record: 00:19:27.0-00:19:31.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 60511cdc-4e5d-473d-8526-385683ccad1b
+    claim_hash: 9bc71cf452d649ae8c189a91c2df5b3fe6dd5fc73b0eaa167a6d54ea243ddf43
+    content: Jason Andrews' psychiatrist stated to his general practitioner that Jason was not mentally ill, not psychotic,
+      and not hallucinating.
+    original_excerpt: The psychiatrist was clear he was not mentally ill, stating to his GP that he was not psychotic and
+      was told he was not hallucinating.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Jason Andrews' psychiatrist
+      relay:
+        - Anne Andrews
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: fd6b3283-5feb-4499-9053-d8197bc7e00d
+        title: Jason Andrews
+        slug: jason-andrews
+    date: '1998'
+    date_end: null
+    location_in_record: 00:19:31.8-00:19:40.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 7aaad901-4ff6-4b1d-82d7-731d217aaf09
+    claim_hash: 8891304d8795b2e6d580705fbe01953c621f9d268e0104742970caa6384238c4
+    content: Jason Andrews was prescribed antidepressants to help him sleep despite the psychiatrist's assessment that he
+      was not mentally ill.
+    original_excerpt: But Jason was prescribed antidepressants to help him sleep.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Jason Andrews' psychiatrist
+      relay:
+        - Anne Andrews
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: fd6b3283-5feb-4499-9053-d8197bc7e00d
+        title: Jason Andrews
+        slug: jason-andrews
+    date: '1998'
+    date_end: null
+    location_in_record: 00:19:41.6-00:19:44.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 50f9c26c-1e86-4cfb-8a47-87347973fca1
+    claim_hash: 4991a16571002ae5bd6f659562afd98c18034a9d7c1b337de8f2609ca61e9de7
+    content: Mary Rodwell's female client has been medicated for six years, attributing her depression and lack of self-confidence
+      to the medication.
+    original_excerpt: my client is still being medicated six years later, which she says is the reason for her depression
+      and lack of self-confidence
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Mary Rodwell's female client
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+    date: '1998'
+    date_end: null
+    location_in_record: 00:19:52.1-00:19:58.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 3caddaa6-8bfd-4b6e-88c5-7887c75d8054
+    claim_hash: 7d01324738aef0b41612752be9f1527146e9f3664f324b2135086f226f73611b
+    content: Mary Rodwell's female client was permitted to remain at home whilst medicated and tranquilised due to difficulty
+      attending school.
+    original_excerpt: she was allowed to remain at home medicated and tranquilized
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Mary Rodwell's female client
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+    date: '1998'
+    date_end: null
+    location_in_record: 00:20:02.6-00:20:04.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 15544bf7-f8cc-4700-bf84-6c6f0928cfbb
+    claim_hash: d938cf4a80c5ee0b08e19c86510877852d044627356fadef23b6959f28f98656
+    content: Despite psychiatric medication, extraterrestrial contact experiences did not cease for Mary Rodwell's female
+      client.
+    original_excerpt: But of course, the ET contact did not stop, despite the medication.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Mary Rodwell's female client
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:20:06.4-00:20:09.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 41401fad-c29b-43fd-ade9-ec1f397a2fe6
+    claim_hash: 9f59278b41825d8888db975bfc7341d34db9b608214d27fad1dad88b63a1b79d
+    content: Mary Rodwell's female client researched and understood that her experiences aligned with documented extraterrestrial
+      contact phenomena, but was not believed by others.
+    original_excerpt: she gradually looked for her own answers, researched the abductee enigma herself, realized it explained
+      her own experiences, but still no one would believe her
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Mary Rodwell's female client
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: '1998'
+    date_end: null
+    location_in_record: 00:20:12.6-00:20:21.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 52ef54a5-0775-446e-9eb8-f1de3217b21a
+    claim_hash: 99f0354829b0ef5525b8277138cdd8abe89b1ce3d52ae9b710ade430fe1bf3e1
+    content: Mary Rodwell's female client wanted to relocate to America where she believed people would listen and support
+      her experiences, but lacked financial resources.
+    original_excerpt: She wanted to go to America where she knew there were people there who would listen and support her,
+      but hadn't the financial resources.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Mary Rodwell's female client
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+    date: '1998'
+    date_end: null
+    location_in_record: 00:20:22.6-00:20:27.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: b34a731f-f9c1-4962-abc0-5bb4635d5e0d
+    claim_hash: 9284d204f1c1bf87460db288936f93ae2d25f8c17b0def6be4ce8dc794a2a61e
+    content: Mary Rodwell's female client attempted suicide multiple times and eventually sought help after watching a television
+      programme on extraterrestrial contact.
+    original_excerpt: she attempted suicide several more times, and finally it was a TV program on ET contact that convinced
+      her to seek help
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Mary Rodwell's female client
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: '1998'
+    date_end: null
+    location_in_record: 00:20:30.0-00:20:37.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 741691b9-9273-459b-bc4e-391d96994195
+    claim_hash: f09317a033b325560a97272d1b5393dfd165a655bec2c207619717954e0afcde
+    content: Mary Rodwell's female client sought help through a ufology organisation in Western Australia.
+    original_excerpt: finally she contacted me through a ufology organization in Western Australia
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d2b618db-89af-4446-a4fe-652f7753505d
+        title: Australia, Western Australia, Perth
+        slug: western-australia-perth-australia
+    date: '1998'
+    date_end: null
+    location_in_record: 00:20:38.1-00:20:42.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 822759f0-8e27-4471-aeb9-5a1063fd117e
+    claim_hash: 6093125c34c8e94d0487d7acf378b21c703b75a18421c62e446f0acbe8d98f94
+    content: After counselling from Mary Rodwell, the female client expressed with emotion that she finally believed she was
+      mentally well.
+    original_excerpt: After counseling, she was able to attend the support group and with deep emotion she said, At last,
+      now I know I'm sane. I always believed I was, but now I know.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Mary Rodwell's female client
+      relay:
+        - Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+    date: '1998'
+    date_end: null
+    location_in_record: 00:21:02.3-00:21:13.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: b8df1afa-5b4b-45a1-9760-ead1b217005f
+    claim_hash: 2510602952321b384fcfc4445ddb6cc61d4f4bb8af6a45ca4ee5cd310a21eca9
+    content: Millions of people from all cultures and belief systems throughout the world have had extraterrestrial contact
+      or alien abduction experiences.
+    original_excerpt: Millions of people from all cultures, belief systems throughout the world are having this experience.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: null
+    date_end: null
+    location_in_record: 00:22:43.8-00:22:47.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 246fcd0b-4ed0-4e67-a72f-00cc3bd94285
+    claim_hash: d5ad8582213ec7a47bd4e085846f99cca13473ce6fbf1cb29e03465b7939d0ac
+    content: Alien abduction experiences affect all age groups, including children as young as 2 and 3 years old.
+    original_excerpt: It affects all age groups, some as two and three years old.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:22:50.2-00:22:54.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: feb6e907-e818-4b17-b460-371aa28d4220
+    claim_hash: 14e5b43aeac32841703122e30a6b60bf8f4a0892409a4690f7b56e6f5f36d346
+    content: Alien abduction experiences have real physical aspects manifesting as scars, marks, bruises, and skin rashes.
+    original_excerpt: It has very real physical aspects to it in the form of scars, marks, bruises and skin rashes.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:22:56.3-00:23:00.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: e7c724d8-0374-4442-863f-d892179335d7
+    claim_hash: d1b3bbe4b3f1aa62785ebfaea57aa4ef4726aa9264a020eac5a5089ae6ae43f4
+    content: Alien abduction experiences are often accompanied by emotional trauma, sometimes severe, manifesting as post-traumatic
+      stress disorder (PTSD).
+    original_excerpt: It has often emotional trauma associated with it, sometimes severe, called post-traumatic stress disorder.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+      - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
+        title: post-traumatic stress disorder (PTSD)
+        slug: post-traumatic-stress-disorder-ptsd
+    date: null
+    date_end: null
+    location_in_record: 00:23:02.6-00:23:07.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 5b616977-7f47-4014-a855-d0a781ed374c
+    claim_hash: f79dfe568b0be91adf574120653ebc56037dabb0287fc5dd315ee584c4e51b50
+    content: Alien abduction experiences affect animals and plants, causing changes in soil and material objects.
+    original_excerpt: It affects animals and plants, will affect changes in soil and material objects.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:23:13.1-00:23:16.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: c1a60111-cddc-426b-8788-cfcdd78c2581
+    claim_hash: a52569362e83a52dfacda2ea9f5636b7de65b0a629634161ff220d46dd211ba8
+    content: Alien abduction experiences produce anomalies in the human body, including implanted objects that are often visible
+      on X-ray and some of which have been removed by surgery.
+    original_excerpt: It produces anomalies in the body, such as implanted objects, often visible on X-ray, and some of which
+      have been removed by surgery.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:23:17.6-00:23:23.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 4f183b36-de7e-4f06-8f15-de76e6451e21
+    claim_hash: 6c55568b115ed1f92c913391470e6d55439f0e3299c4bf31e2586d5f60f6a005
+    content: Many individuals who experience alien abduction are found to be physically missing from their beds during contact
+      events.
+    original_excerpt: Many individuals having the experience are found to be physically missing from their beds.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:23:25.9-00:23:29.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 1cc3f43b-5e63-44e5-b53a-34e333c0852c
+    claim_hash: 6fc9214c0f6a63c1bb9f62055c4e467394328a9c96281aa27897db0b1e41c1a3
+    content: Many individuals who experience alien abduction report missing time episodes, either when travelling or at home.
+    original_excerpt: Many individuals have missing time episodes, either when travelling or at home.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:23:30.6-00:23:34.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: a9ba1a90-75d4-4064-ac3e-5b12730c4472
+    claim_hash: a9c0e8f3907808fcf43d1b2efae6000b8ad677bf9a1e7d445093e6e25baa15cd
+    content: Individuals have experienced physical healing as a result of extraterrestrial contact.
+    original_excerpt: Individuals have been known to be healed by ET contact.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 62512bad-6456-4f65-a165-d2af36d77e3f
+        title: Healing
+        slug: healing
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: null
+    date_end: null
+    location_in_record: 00:23:35.6-00:23:38.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 61fc63da-95d6-4f21-97d5-33ee56ee658e
+    claim_hash: 11315cb887216c2f2e492415e5f52b0719af6941bde6f8585a1690f2a8d67de7
+    content: Many individuals who report alien abduction experiences have been psychologically tested and found to have no
+      psychopathology.
+    original_excerpt: Many have been psychologically tested and found to have no psychopathology.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:23:45.4-00:23:48.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: b2d82c43-59e0-448a-8d0f-9d2a09ad5693
+    claim_hash: 338cd23eac9aa22b6b2ef3f6b45d4d63b3a6ac1fb06f6f52440f7c90f42e475b
+    content: Alien abduction experiences result in transformation of individuals physically, emotionally, psychologically,
+      and spiritually.
+    original_excerpt: There is transformation of the individual physically, emotionally, psychologically, and spiritually.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:23:51.0-00:23:55.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: aed3d643-7c1a-4300-88c8-2a4226d16fb1
+    claim_hash: 94310aaaab6cb8e442044a74a57064418344c4b82f61b92b8da7df41e37092fd
+    content: Individuals who experience alien abduction frequently develop high sense perception, clairvoyance, and telepathic
+      abilities.
+    original_excerpt: High sense perception, clairvoyance, telepathy, remote viewing abilities.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+        title: clairvoyance
+        slug: clairvoyance
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+      - node_id: b0a1c36b-e9d1-4629-aa6d-5e95333b7b3c
+        title: High Sense Perception
+        slug: high-sense-perception
+      - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+        title: telepathy
+        slug: telepathy
+    date: null
+    date_end: null
+    location_in_record: 00:23:56.7-00:24:00.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 93ac4557-b432-4f9d-82fd-ac579fd9dff6
+    claim_hash: 65685c236a950d8ba32dbcaa2899ae3c8637264b842d969b3fbb5401021032ad
+    content: Individuals who experience alien abduction develop healing abilities through psychic surgery and energy work.
+    original_excerpt: Healing abilities from psychic surgery, energy work, hands-on healing.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 213ef20d-93db-44b6-a9de-a07c2ebfaa27
+        title: Psychic Surgery
+        slug: psychic-surgery
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 62512bad-6456-4f65-a165-d2af36d77e3f
+        title: Healing
+        slug: healing
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:24:01.2-00:24:04.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: dfcd938b-5333-4814-9f9a-77e18ac87c98
+    claim_hash: 80930e1c9eb83d32cc868e96535bfff5309b23baaa64133e09929d647b9278e2
+    content: Individuals who experience alien abduction undergo transformation resulting in greater ecological sensitivity,
+      non-materialistic values, and spiritual orientation with awareness of multidimensional reality.
+    original_excerpt: Transformation that changes the individual on all levels, ecologically sensitive, non-materialistic
+      and spiritually orientated individuals who become aware of a greater multidimensional reality.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:24:05.3-00:24:16.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: fa250256-0aae-4006-baf0-1fb198dd4d33
+    claim_hash: dc714173dea26d13b24e0acff63ba77546e859b90ac8a908b464c97d2bb405da
+    content: Of more than 100 people Mary Rodwell met who reported contact experience, approximately 23 per cent reported
+      real trauma.
+    original_excerpt: Out of the 100 plus people I've met with contact experience, perhaps only 23% have real trauma.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: null
+    date_end: null
+    location_in_record: 00:24:45.9-00:24:50.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 68619f27-c386-4587-b597-932166cb8f5f
+    claim_hash: 6a38928e5b4e7022b559ed931bcb4daac26aa11e2e4462d980744bb06a6a0188
+    content: Many abductees report being well-integrated, happy, and healthy individuals leading normal, fulfilling lives.
+    original_excerpt: Many abductees are amazingly integrated and happy, healthy human beings leading normal, fulfilling lives.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:24:54.5-00:25:00.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 9bf05a2c-d74b-41ea-9102-bd310bc3f592
+    claim_hash: 3434414d02def3fd5183b368bd52440b2c97247e91bbff0d43f48eecabbc9f37
+    content: Some individuals who experience alien abduction do not experience the more difficult traumatic memory recall
+      that affects other abductees.
+    original_excerpt: For some, it may be that they have not the more difficult traumatic memory recall that other individuals
+      have.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:25:04.5-00:25:10.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: f54b2861-68ae-44d5-a85c-8ba3dda206fa
+    claim_hash: 135cead96ff9b213175e1bff6bb21736ad6ef413372b23b1a27f359c041c8142
+    content: Some individuals who experience alien abduction do not report experiencing traumatic contact events, such as
+      medical procedures.
+    original_excerpt: Some do not seem to have the same type of experiences that are traumatic, such as the medical procedures,
+      for example.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:25:11.9-00:25:16.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 360b2f66-01ce-47c9-a0e5-d36938eb7c08
+    claim_hash: 10d951412f9265203a69d2bdf15460f5847c148b0625cf58085c4b18d163628e
+    content: Some individuals who experience alien abduction, despite having traumatic memories, develop the ability to integrate
+      those experiences through their own resources and become well-adjusted individuals who value the specialness of the
+      experience and the awareness of greater reality it provides.
+    original_excerpt: Some do have all of this, but have the ability to make sense of it through their own resources and become
+      very integrated and accepted individuals that even enjoys the specialness of this experience and the gift of being aware
+      of a greater reality.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:25:18.3-00:25:32.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 2ee8c5c7-d535-4065-8345-1258ea48a629
+    claim_hash: 5c05599edf891ff5627a2f7d7f24cc01322d1e9ea66c390ff998108ff18b2ce5
+    content: Mary Rodwell has worked with terminally ill people in hospice settings, including those with cancer.
+    original_excerpt: In terminal illness, I worked with a lot of people in hospice dying with such things as cancer.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+    date: null
+    date_end: null
+    location_in_record: 00:25:36.4-00:25:43.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: ce9156e2-b686-4e84-b7d1-e5d6a7d73302
+    claim_hash: 5710b3970a2321fc8eee1706fcc8a1d46384afe4182386f79646a4929a99ef78
+    content: Mary Rodwell calls the process of moving from fear and confusion to understanding one's alien contact experience
+      'contact the chrysalis for change'.
+    original_excerpt: This process, from fear to understanding, I call contact the chrysalis for change.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:26:30.4-00:26:34.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: f13efcab-75b4-4196-89ab-9c0b61a28ba2
+    claim_hash: 98485a74a15034b60766f7f39bcaa0f7420e64384efba7e1200fde6ebb5dd020
+    content: Mary Rodwell has developed a 10-stage process model describing the progression from fear and confusion to transformation
+      and integration of alien contact experience.
+    original_excerpt: Through my research with experiences, I've come through a process. I've come to realize there is a process
+      that you go to from the confusion right through to living and growing with this experience. And these are the 10 stages.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:26:39.5-00:26:53.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 496d73f9-4bab-4d2b-807e-df44b74242b6
+    claim_hash: 3875058d24073f58365d1e2a7c8928340757bf535d7029090ff13d387a4a0259
+    content: In Mary Rodwell's stage model, individuals begin the process of integrating alien contact experience with confusion
+      and fear.
+    original_excerpt: I call it from fear to transformation, where you start off with all the confusion and really in the
+      fear place.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:26:53.9-00:27:00.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 6cda8344-be4e-46eb-99cc-f97080305e02
+    claim_hash: 8e82c479f3c8d017d4796d9f853196f367bf3caef98c48b4ebe477225b6d5796
+    content: In Mary Rodwell's stage model, the second stage transitions from fear to curiosity and questioning about the
+      nature of contact experiences.
+    original_excerpt: And you go from the fear place to the curiosity, the questioning. What are these experiences?
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:27:02.1-00:27:07.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 4f8740c9-06f8-40a9-b92b-0ae532a56890
+    claim_hash: 617250bfe54b3d778abaf5fb15319a087873059b73f437047840a862c93c2f5f
+    content: Mary Rodwell identifies a stage in the contact integration process where individuals experience internal conflict
+      and debate about whether their experiences are real or evidence of mental illness.
+    original_excerpt: What is real? What is there about this that makes this real? What is the information out there? Am I
+      really crazy? Or is this actually a bizarre experience?
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:27:19.3-00:27:28.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 18c2d5dd-e16c-4535-a51b-eccc0fd2a12a
+    claim_hash: 1a40ee3c50be82e9e270d90cbe70b57773d7b730d58ee6f85626ffdb7d49e1b2
+    content: Mary Rodwell identifies a 'realization event' stage where individuals accumulate enough information to recognise
+      that their contact experiences may be real, sometimes triggered by attending a support group or encountering a book
+      that resonates powerfully with them.
+    original_excerpt: And there comes a point where you get enough information where you realize that in fact, perhaps, perhaps
+      this is real. It may be when you first attend a support group, it may be that you pick up one particular book that echoes
+      and resonates so powerfully that you have got no more choice but to recognize that this is real. And it's known as the
+      realization event.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:27:30.4-00:27:50.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 4ce41ceb-fa4f-4754-a922-e845117e18f5
+    claim_hash: 6976d371a08557812c528ddf6d2bae3c3b575470b96c580e556dd56cb86d651c
+    content: Mary Rodwell identifies a stage of intense internal conflict where abductees struggle between denial of their
+      experiences and acceptance of their reality.
+    original_excerpt: Now this is really, really scary then because you've got the conflict. Part of you wants to deny it
+      all and say, I'd rather believe I was crazy and if I take medication, it's all going to go away. But there's another
+      part that says, have I got to accept this because it's there, it's in front of me.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:27:52.2-00:28:05.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: a8391ce4-512b-4e14-a19e-05f4d5f94da9
+    claim_hash: 8dce26a67aac2d31249c1a6ffa8704b464e6422cafe9012b0376d7bf1d4c7854
+    content: Mary Rodwell identifies a stage where individuals begin to accept and integrate multidimensional reality and
+      a new worldview in relation to their contact experiences.
+    original_excerpt: And then comes a point at number seven where you start to change. You start to say, well, maybe I can
+      take this on board. So you start to take on the multi-dimensional reality, the new paradigm, the change in worldview.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:28:08.0-00:28:20.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: fb1839b4-9b56-4437-afe3-e097bd14584a
+    claim_hash: 85d5b20f01b78290647c90e151e0e984fbf54f96f43e3f35bbdcb764fa3f39e2
+    content: Mary Rodwell calls the stage of accepting the simultaneous reality of both conventional and multidimensional
+      reality 'the conversion', or 'the acceptance of the dual reality'.
+    original_excerpt: And this I call the conversion, the acceptance of the dual reality.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:28:22.3-00:28:26.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 532946e8-6faa-487d-b46d-7a063c9af4e3
+    claim_hash: 9676fc440ce0f98f9b98e03d08b4645ea10b78b69d5601a4110e29b877b6ae37
+    content: Mary Rodwell identifies the final stage of the contact integration process as reaching calmness and integration,
+      characterised by the recognition 'contact is real' and the ability to integrate and live with the contact experience.
+    original_excerpt: You're going to the transformative effect of this experience to finally, yes, contact's real, and integrate
+      and live and grow with this experience.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:28:39.0-00:28:48.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: e028f219-a266-4987-8ab8-af9d292b7b39
+    claim_hash: 826f96ed383549ddc7e09cb14d58d21f11ec8ee1d6418ae04ac6e0a1428fbb36
+    content: The journey from fear and confusion to integration in the context of alien abduction experiences can be fairly
+      rapid for some abductees or take years, depending on the support and validation they receive.
+    original_excerpt: the journey from the fear place to integration can be fairly rapid for some it can take years depending
+      on the support and validation they get
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:29:08.9-00:29:15.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: ca1672b5-9c30-4e7b-bd58-96e00ff7b8fd
+    claim_hash: c48da90de54dca8d4d997ed3635b982479dfb3f741a04d889312b2fb40376bd1
+    content: Mary Rodwell believes that when provided with an honouring and supportive environment, the journey from fear
+      and confusion to integration of alien contact experience can be very swift.
+    original_excerpt: given the right support, by this I mean an honoring supportive environment, then I believe it can be
+      very swift.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:29:16.9-00:29:22.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: b2b15c05-d929-4ed9-9c7b-37cd4a719f39
+    claim_hash: 334ba22895286a7968ebea47c6646a5e03f74ae4c4b15d1db26954cbc65d2f89
+    content: Individuals who experience alien abduction can develop healing abilities.
+    original_excerpt: We have got amazing healing abilities.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 62512bad-6456-4f65-a165-d2af36d77e3f
+        title: Healing
+        slug: healing
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:31:35.4-00:31:38.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 5e5272b4-db0f-4485-860c-01f99ecba933
+    claim_hash: 31837be2a85bbd5dbb63bcde75139afee9e8c21920b3d0a3fb8aa08453d7414e
+    content: The number of people who have experienced alien abduction could potentially be astronomically large.
+    original_excerpt: The numbers could be absolutely astronomical.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:33:40.5-00:33:43.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 54d6b27c-c6d8-46bf-929e-683dbe3b3eec
+    claim_hash: aa1d1f87483a3fbb31c089abc82cf1f6dda9b624b1b34749402ec8e32c9bc41d
+    content: Extraterrestrial contact is revealing to humanity how to achieve full consciousness of abilities and potential
+      that have previously remained unconscious.
+    original_excerpt: Perhaps up to now we've just been unconscious of our potential and it's time for us to be shown through
+      this ET contact how to be fully conscious.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: null
+    date_end: null
+    location_in_record: 00:34:00.3-00:34:08.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: fc514098-8b4a-4e8a-be74-42147e9d7bed
+    claim_hash: aac9301736db0ff5ac3b2df48c4991b01fe34b76eabb7e9001bc0fe7b9047b03
+    content: Anomalies in the human body demonstrate that humans only use approximately one-tenth of their brain capacity.
+    original_excerpt: Anomalies in our physical body show we only use a tenth of our brain capacity. What is the rest for?
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:34:10.2-00:34:15.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: de51b3fb-c6a8-4c3f-869d-b20b4e30f63e
+    claim_hash: f6e0649fe223e1abcb202181f0a14e4ed8e55f66608783d70bee95c1d66213fe
+    content: Mary Rodwell believes the transformation of the human condition is being assisted by contact with extraterrestrials.
+    original_excerpt: I certainly believe we're seeing a transformation of the human's condition and it certainly seems to
+      be assisted by the contact with ETs.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: null
+    date_end: null
+    location_in_record: 00:34:19.2-00:34:27.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 668a06a4-ffdb-4ac0-8147-5e8a60dc510f
+    claim_hash: ff6ecfc3d9b32060bbafeb46cb6a7705337a9fe9c3aa8a24abe5f2770746096e
+    content: Mary Rodwell considers individuals who experience alien abduction to be pioneers of human evolution.
+    original_excerpt: I believe they are pioneers of our evolution
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:35:46.1-00:35:48.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 9dd49ead-a0ad-49cf-980f-2e80ef49ed1e
+    claim_hash: 49af11da65e8ca0ccec69f7f2de9ff3180744c504b2efd23c921d5b4ecb771bf
+    content: Ufology organisations documented attempts to monitor extraterrestrial contact, but extraterrestrials appear aware
+      of monitoring efforts and create electrical disturbances and anomalous psychic phenomena to interfere with validation.
+    original_excerpt: it seems that the ET's themselves are very aware of this and they do seem to create a great deal of
+      disturbance and with a lot of the anomalous psychic phenomena around that you get electrical disturbances
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: document
+      origin: Connections
+      relay:
+        - cited by Mary Rodwell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 112b9bfc-7c32-4e33-9852-b0f34baeada8
+        title: Connections
+        slug: connections
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
+        title: Extraterrestrial Contact
+        slug: extraterrestrial-contact
+    date: null
+    date_end: null
+    location_in_record: 00:38:36.8-00:38:48.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 27bd8338-7f31-4abf-8a81-eeb885a6e1a2
+    claim_hash: 3fe03e994eb2d6b89bf8cc83421f74c4d424ad787a7bd6a21ae6b88d1c6c380e
+    content: During regression sessions, Mary Rodwell's tape recorders frequently malfunction, which she interprets as possible
+      extraterrestrial interference to prevent validation of contact experiences.
+    original_excerpt: even when I have done a regression sometimes the tape recorder will play up so it's like almost as though
+      they could create an interference to stop that from being validated on one level
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:38:49.6-00:38:59.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 776cc5c4-19ea-401d-988c-10b305897013
+    claim_hash: 1c571dec6ad3a0da45c027a748bef634974dd65c14e7b0f180e949d30e35017b
+    content: Daryl Sims has attempted to programme individuals who experience alien abduction to consciously remember their
+      experiences whilst aboard extraterrestrial spacecraft.
+    original_excerpt: Daryl Sims has tried to do this, and he's tried to program people to remember their experiences consciously
+      when they've gone aboard the ship
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: named
+      origin: Daryl Sims
+      relay:
+        - Mary Rodwell referencing his talks in England
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 59caa6b0-3a59-402a-804c-ffabac3ba4c9
+        title: Daryl Sims
+        slug: daryl-sims
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:39:05.7-00:39:12.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: cf981598-a5d9-4f5b-aa6b-b4988690dfdd
+    claim_hash: d121cce721f3da0403ec062bfe3a15f37bdecb7a0515980f7b673d60a0cda916
+    content: Mary Rodwell considers that the alien abduction phenomenon relates to a multidimensional reality involving parallel
+      universes discussed by those with direct contact experiences.
+    original_excerpt: It seems to be that we're looking with a multidimensional reality. We are looking at perhaps some parallel
+      universes they're talking about.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:47:22.8-00:47:30.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 7584510f-c73c-4edf-9bca-1b3088a8ce63
+    claim_hash: f8949cb69f529aacccbb9a4a4175b8702d316c20c7a26207cb6e32af8f37e123
+    content: Mary Rodwell notes that ancient folklore has recognised and documented beings such as elementals and creatures
+      like Bigfoot, which have been observed but remain poorly understood.
+    original_excerpt: we have acknowledged from ancient folklore as well, such as elementals, some of the ancient beings like
+      Bigfoot, and these types of beings that have been seen and never quite understood.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+    date: null
+    date_end: null
+    location_in_record: 00:47:34.2-00:47:47.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 068bf18a-8b9a-4cea-b135-276f3c4ebd0a
+    claim_hash: 115733e3424ff707f3d3c97c5a7600b7bc544b8b560272ecbcfdcc784de8d347
+    content: Mary Rodwell believes there is considerably more life on Earth than humans are currently aware of, life that
+      humans are not always sensing or perceiving.
+    original_excerpt: I think there is probably a lot more life on our Earth than we are aware of, but we are not always sensing
+      it or being aware of it.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+    date: null
+    date_end: null
+    location_in_record: 00:47:48.6-00:47:56.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 9962f929-3761-4ce3-8b68-0bf0c1c6db25
+    claim_hash: 6e705bf33a1329d726cdd84c65b797ebe65cd992f421f3cba9c332955de603f4
+    content: According to experiencers and contactees in Mary Rodwell's support groups, there may be life existing within
+      the planet itself.
+    original_excerpt: And there may even be, they say, life within the planet itself.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: anonymous
+      origin: persons claiming experiences of alien contact
+      relay:
+        - Mary Rodwell's support group interaction
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:47:57.5-00:48:01.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 21893ae5-a83c-482e-b7c9-fac69c88c25b
+    claim_hash: 36cef76e16ed6218f288265e3e1df26a79a663c8ae8532f49913f17d0521e21d
+    content: Mary Rodwell observes that sufficient scientific tools to test the origins and nature of the phenomenon and associated
+      beings are not yet available.
+    original_excerpt: certainly not the scientific tools yet to test where they're all coming from.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:48:10.4-00:48:14.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 14ef80af-40bc-491f-9978-95cfabb04e1b
+    claim_hash: ac68178560173b2f95a55a1306213ae476fd0203ca20df83b21351069450fa24
+    content: Mary Rodwell considers it threatening and inappropriate for researchers to observe therapeutic support groups
+      of traumatised people experiencing alien abduction, as observation itself compounds the threat for already vulnerable
+      individuals.
+    original_excerpt: if you've actually got a therapeutic group with people that are traumatized, the last thing they want
+      to be is being observed under some sort of microscope. It's threatening enough to even meet another experiencer to start
+      with, and it isn't appropriate for a therapeutic group.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:49:14.5-00:49:30.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: b0fcc5d1-f9be-4153-8b94-7902278edcb1
+    claim_hash: b7be71883e438259a4fd730e93ffadd2a9e72e23bec399ae305190e9e189975c
+    content: Mary Rodwell advocates for therapeutic support groups for alien abduction experiencers to remain separate and
+      distinct from groups focused on sharing and discussing understanding of the phenomenon.
+    original_excerpt: I really see them as two distinct sorts of groups, though, one that is for therapy, another one for
+      sharing, your understanding of this.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:49:40.6-00:49:47.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 3146ad2e-05f2-4127-ba49-b0c2dd7a9460
+    claim_hash: 8cb2334da7a3f4a04cfb0d443e0b55d8d6b72fc0a24ddd024f1da75bce47d2c1
+    content: Mary Rodwell identifies obtaining support and being able to talk about one's experiences as one of the primary
+      ways to help people overcome fear related to alien abduction.
+    original_excerpt: One of the main ways of helping is through getting support and being able to talk about it.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:50:19.8-00:50:25.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: b5ecd831-6e8f-4002-b703-19d138996623
+    claim_hash: 2f10a6a69e36ea3e0085e0595070d67f0b9d80b8ed1fa38245c7bffb427fee34
+    content: Mary Rodwell considers becoming informed about alien abduction experiences to be essential for reducing fear,
+      as greater awareness reveals positive dimensions and changes beyond fear itself.
+    original_excerpt: Two is getting informed. The more you're informed, the more you're aware there's more to this than just
+      the fear, that there are positive changes.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:50:27.3-00:50:35.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: 2c525d07-783d-4c40-8423-d72150ed27f9
+    claim_hash: c0b80ac62fe1ed6d32b3f1ed0622dc98d7fd8f89c7ad030e65fcd998b14dca37
+    content: Mary Rodwell emphasises the importance of focusing on hope and the possibility of moving beyond fear related
+      to alien abduction experiences.
+    original_excerpt: I think it's really important to look at the hope and the fact that you can get past that.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:50:35.9-00:50:38.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: e1a9cd37-c95d-40c7-8353-a967f4e5ed3c
+    claim_hash: 25a9d9d762b4eba398cf61c1c7e33c50f869aaa2a419bfdae78b184070c38a53
+    content: Mary Rodwell advocates that family members and close friends should be informed about and provide ongoing support
+      to people experiencing fear from alien abduction encounters.
+    original_excerpt: it's really important to inform, if you can, family or friends, someone who can be there during that
+      time. Because it's ongoing support then.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      title: Mary Rodwell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:51:09.7-00:51:16.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 65319b3e-358b-4c6b-800c-2a4613f59d79
+      record_title: 'The Reality of Alien Abductions & ET Contact: Mary Rodwell (Rare 1998 Lecture)'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=CkkfzleSrG4
+      content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
+      friendly_name: null
+  - claim_id: c94c3625-8c78-40df-9da7-f314078ad8a1
+    claim_hash: b3b083746dd773a5c097b49a4f1a2d40da91d7729b32b77813eeb035c615a11b
+    content: Rey Hernandez cofounded the Dr. Edgar Mitchell Foundation for Research into Extraterrestrial Encounters (FREE)
+      together with Apollo astronaut Edgar Mitchell, Harvard astrophysicist Rudy Schild, and Australian researcher Mary Rodwell.
+    original_excerpt: Rey, together with Apollo astronaut Dr. Edgar Mitchell, Harvard astrophysicist Dr. Rudy Schild, and
+      Australian researcher Mary Rodwell, cofounded the Dr. Edgar Mitchell Foundation for Research into Extraterrestrial Encounters
+      or FREE.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 4f3565a0-bc46-4e52-a884-d20308ffcdca
+        title: Dr. Edgar Mitchell Foundation for Research into Extraterrestrial Encounters (FREE)
+        slug: dr-edgar-mitchell-foundation-for-research-into-extraterrestrial-encounters-free
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: 64c1e496-975d-4b23-8ef5-ce74206e625f
+        title: Rudy Schild
+        slug: rudy-schild
+      - node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+        title: Rey Hernandez
+        slug: rey-hernandez
+    date: null
+    date_end: null
+    location_in_record: ch6:1326-1555
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 4881620f-ea9f-401b-8bb6-4fec2b46f2ff
+    claim_hash: aef41423ad42accb477ad61e1ff123197c1f78d1762a744b3a66f33c00ce5fb8
+    content: After his first anomalous experience, Rey Hernandez sent emails to ten well-known researchers in the field, one
+      of whom was Mary Rodwell.
+    original_excerpt: He relates that after his first experience he had sent emails to ten well-known researchers in the field,
+      one of whom was Mary Rodwell.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+      title: Rey Hernandez
+    provenance_chain:
+      origin_kind: speaker
+      origin: Rey Hernandez
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+        title: Rey Hernandez
+        slug: rey-hernandez
+    date: null
+    date_end: null
+    location_in_record: ch6:21331-21458
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 1b061329-4544-4a09-9859-5d8f2ab682eb
+    claim_hash: 12c8d1f296559ebced52f0c67dd70c27457bf27837963b5ac8115369b406f9db
+    content: Mary Rodwell claims to have supported over three hundred thousand experiencers.
+    original_excerpt: Mary is a researcher who claims to have supported over three hundred thousand experiencers, and she
+      has written a number of books about her work.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Mary Rodwell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+    date: null
+    date_end: null
+    location_in_record: ch6:21467-21607
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: d40e26cd-678b-4ca8-9a82-f5662dfccde1
+    claim_hash: 609a921a50bfcd64250379036b08a21fe81e1a9ceaac52aef4999884b5a85be9
+    content: Mary Rodwell did not respond to Rey Hernandez's email until after his rush-hour download experience.
+    original_excerpt: Mary didn’t respond to Rey’s email until after his rush-hour experience.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+      title: Rey Hernandez
+    provenance_chain:
+      origin_kind: speaker
+      origin: Rey Hernandez
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+        title: Rey Hernandez
+        slug: rey-hernandez
+    date: null
+    date_end: null
+    location_in_record: ch6:21613-21674
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 500beb0d-61a4-4b71-9b50-904fed87ce30
+    claim_hash: 3b855b49b39efb7974b9495beeb78aacb2b58d23a6c588a73288978b273c265e
+    content: Mary Rodwell introduced Rey Hernandez to Dr. Rudy Schild.
+    original_excerpt: Mary introduced Rey to Dr. Rudy Schild, who was interested in UFO contactees, consciousness studies,
+      and quantum physics.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 64c1e496-975d-4b23-8ef5-ce74206e625f
+        title: Rudy Schild
+        slug: rudy-schild
+      - node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+        title: Rey Hernandez
+        slug: rey-hernandez
+    date: null
+    date_end: null
+    location_in_record: ch6:21821-21934
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 7efda69d-3fa1-4886-8e34-81006166ffd4
+    claim_hash: e47dba0def5db0ffe3ccc9158a25fb0b70debee719d05bbdbecaeb509a2ca81a
+    content: After his meeting with Edgar Mitchell, Rey Hernandez asked Mary Rodwell if she would help him found the organisation
+      with the help of Rudy Schild and Edgar Mitchell.
+    original_excerpt: After his meeting with Edgar, he spoke to Mary. He asked her if she would help him found the organization
+      with the help of Rudy and Edgar.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+      title: Rey Hernandez
+    provenance_chain:
+      origin_kind: speaker
+      origin: Rey Hernandez
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: 64c1e496-975d-4b23-8ef5-ce74206e625f
+        title: Rudy Schild
+        slug: rudy-schild
+      - node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+        title: Rey Hernandez
+        slug: rey-hernandez
+    date: null
+    date_end: null
+    location_in_record: ch6:24669-24801
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 83f79188-e3f5-47d3-b82f-02ec54604b5e
+    claim_hash: cdf9e06d5d16b9a6f1f4aa9fad4d11233a0c90154ff2ba366d57ca85c16de9a0
+    content: Mary Rodwell agreed to help Rey Hernandez and came up with the acronym FREE, for the Foundation for Research
+      into Extraterrestrial Encounters.
+    original_excerpt: After a few days of considering the idea, she agreed to help Rey and she came up with the acronym FREE,
+      for the Foundation for Research into Extraterrestrial Encounters.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+        title: Mary Rodwell
+        slug: mary-rodwell
+      - node_id: 4f3565a0-bc46-4e52-a884-d20308ffcdca
+        title: Dr. Edgar Mitchell Foundation for Research into Extraterrestrial Encounters (FREE)
+        slug: dr-edgar-mitchell-foundation-for-research-into-extraterrestrial-encounters-free
+      - node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+        title: Rey Hernandez
+        slug: rey-hernandez
+    date: null
+    date_end: null
+    location_in_record: ch6:24808-24966
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic

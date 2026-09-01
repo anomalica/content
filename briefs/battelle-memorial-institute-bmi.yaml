@@ -1,0 +1,663 @@
+schema: anomalica/brief/1
+brief_hash: 5466811bd6e85319992bacc2d0add69b1c954e97b81f23a5ec368f8ceda30600
+page:
+  kind: entity
+  node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+  node_type: organisation
+  title: Battelle Memorial Institute (BMI)
+  slug: battelle-memorial-institute-bmi
+  claim_count: 15
+  claim_count_total: 15
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 15
+  tokens_estimated: 4533
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 15
+related_nodes:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 5
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 2
+  - node_id: abe07382-c992-4549-b0ff-6d2bc0b3e3e0
+    title: Project GRUDGE (Reestablishment)
+    node_type: project
+    slug: project-grudge-reestablishment
+    shared_claims: 2
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 2
+  - node_id: 4fca1350-3310-4376-94f8-19d3ddff86d6
+    title: Air Technical Intelligence Center (ATIC)
+    node_type: organisation
+    slug: air-technical-intelligence-center-atic
+    shared_claims: 1
+  - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+    title: Edward Ruppelt
+    node_type: person
+    slug: edward-ruppelt
+    shared_claims: 1
+  - node_id: 7fa3fec0-3ba0-4dc7-9779-8ed56b3bbeb5
+    title: MITRE Corporation
+    node_type: organisation
+    slug: mitre-corporation
+    shared_claims: 1
+  - node_id: 08778a39-f85b-4d03-9f62-23366a3c976c
+    title: Project BEAR
+    node_type: project
+    slug: project-bear
+    shared_claims: 1
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    node_type: project
+    slug: project-blue-book
+    shared_claims: 1
+  - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+    title: Robert Sarbacher
+    node_type: person
+    slug: robert-sarbacher
+    shared_claims: 1
+  - node_id: b37da689-d1d9-4d3d-b8ad-170fde918b2f
+    title: The Fourth Mind (Whitley Strieber)
+    node_type: document
+    slug: the-fourth-mind-whitley-strieber
+    shared_claims: 1
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 1
+claims:
+  - claim_id: f3a9fcc0-a082-4835-91db-93c1c290fce2
+    claim_hash: f06b62bc5d16c5b1c352f91e920ade3130ba2d4db6ca745ce2592fa8c1216dcc
+    content: Project BEAR was an informal name given by Edward J. Ruppelt, Chief of Project GRUDGE, to a contract he created
+      with the Battelle Memorial Institute (BMI) to provide scientific support to the reestablished Project GRUDGE.
+    original_excerpt: Project BEAR was an informal name given by Capt Ruppelt, Chief of Project GRUDGE, to a contract he created
+      with the Battelle Memorial Institute (BMI) to provide scientific support to the new Project GRUDGE.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08778a39-f85b-4d03-9f62-23366a3c976c
+        title: Project BEAR
+        slug: project-bear
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+      - node_id: abe07382-c992-4549-b0ff-6d2bc0b3e3e0
+        title: Project GRUDGE (Reestablishment)
+        slug: project-grudge-reestablishment
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: null
+    date_end: null
+    location_in_record: char:34962-35161
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 1fc4ea4f-bf67-43b3-a8e2-c8a14af4b2c8
+    claim_hash: c90eca091d671146af564c3ad911a903c8be168111b7cd0e54cbf21abe97a1c4
+    content: Battelle Memorial Institute (BMI) provided technical support, studied the reliability of interviewee information
+      recall from UFO sightings, and created an improved debriefing questionnaire for observers.
+    original_excerpt: BMI provided technical support, studied the reliability of interviewee information recall from UFO sightings,
+      created an improved debriefing questionnaire for observers, and developed a computer punch-card system.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: null
+    date_end: null
+    location_in_record: char:35169-35375
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 7f5799a5-6d97-4eda-8b62-521c3e4f1a33
+    claim_hash: 5c1d17f4062b051e0773a538ee44676c8452011b5d4acf77b509f4600ee9a641
+    content: Battelle Memorial Institute (BMI) developed a computer punch-card system that helped automate the statistical
+      study of all the UFO reports in Project GRUDGE's holdings and those in Project BLUE BOOK.
+    original_excerpt: developed a computer punch-card system. This system helped automate the statistical study of all the
+      UFO reports in Project GRUDGE's holdings and those in Project BLUE BOOK.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: abe07382-c992-4549-b0ff-6d2bc0b3e3e0
+        title: Project GRUDGE (Reestablishment)
+        slug: project-grudge-reestablishment
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: null
+    date_end: null
+    location_in_record: char:35343-35511
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 77d5548e-9957-4f10-b6a4-58ffed28292c
+    claim_hash: 2ca6d343faa190b412b9c1f5b0cb72fb8875ae50448f0fe2e0b03bbb8b34509d
+    content: Battelle Memorial Institute (BMI) released a report under the cover of the Air Technical Intelligence Center
+      (ATIC) to maintain its anonymity.
+    original_excerpt: BMI released a report under the cover of ATIC to maintain its anonymity.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fca1350-3310-4376-94f8-19d3ddff86d6
+        title: Air Technical Intelligence Center (ATIC)
+        slug: air-technical-intelligence-center-atic
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: null
+    date_end: null
+    location_in_record: char:35525-35587
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 8b1c5dd6-eaab-4508-be93-07d72f8c90be
+    claim_hash: 4e1b09832dd64e6f0f2c42cca8f4c526571077dda06c23eab94619677ff813fd
+    content: Battelle Memorial Institute's report, titled Special Report No. 14, was completed in late 1954.
+    original_excerpt: Completed in late 1954, the report was titled "Special Report No. 14."
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: '1954'
+    date_end: null
+    location_in_record: char:35598-35664
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 13068ded-0642-4090-b896-8cd0b77ca484
+    claim_hash: baff07915bd2141c25b23d5eb5386a7faf07f162b65fc33dcde9890158f66f32
+    content: The Battelle Memorial Institute was where biological experiments and autopsies on non-human beings were housed,
+      according to the account given in The Fourth Mind.
+    original_excerpt: Exactly, was where they were housing these, you know, biological experiments that they were doing and
+      these autopsies.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be the molecular biologist who dissected a non-human being
+      relay:
+        - Whitley Strieber's book The Fourth Mind
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: b37da689-d1d9-4d3d-b8ad-170fde918b2f
+        title: The Fourth Mind (Whitley Strieber)
+        slug: the-fourth-mind-whitley-strieber
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: null
+    date_end: null
+    location_in_record: 00:05:33.2-00:05:38.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 2ed04e85-e159-4f14-a87d-b541aa06c8ce
+    claim_hash: 5f660c879beb06e705de086587e5fe83e75e20a54b8639ebe3d3afac6e5bdff5
+    content: An anonymous caller to Chris Ramsay's podcast telephone line, claiming to be a molecular biologist who worked
+      at the Battelle Memorial Institute for a short period during his training for the United States Navy, said the scientists
+      there had to sign non-disclosure agreements.
+    original_excerpt: someone reached out and said i'm a scientist a molecular biologist that worked at battell for a small
+      period of time during my training for the navy and he said that at one point we were joking with each other because
+      we had to sign ndas
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a molecular biologist who worked at the Battelle Memorial Institute during training
+        for the United States Navy
+      relay:
+        - a telephone call to Chris Ramsay's podcast line
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: null
+    date_end: null
+    location_in_record: 00:05:39.9-00:05:54.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: b75b56b0-092a-4b96-90f1-f36614f7203c
+    claim_hash: 7c203328fb0a80f6152bc6a0f61c7091c22f0329cc23def5f0df8989573bcc42
+    content: An anonymous caller to Chris Ramsay's podcast telephone line, claiming to be a molecular biologist who worked
+      at the Battelle Memorial Institute, said he and fellow scientists there made a pact that if any of them ever ended up
+      working with anything non-human they would send each other a text message saying 'sorry, wrong number'.
+    original_excerpt: we were joking with each other among the other scientists about oh what if we see aliens and he said
+      we made a pact that day, that if ever we did end up working with anything non-human, that we would send a text to each
+      other and say, sorry, wrong number.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a molecular biologist who worked at the Battelle Memorial Institute during training
+        for the United States Navy
+      relay:
+        - a telephone call to Chris Ramsay's podcast line
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: null
+    date_end: null
+    location_in_record: 00:05:55.6-00:06:18.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 89b94d58-3deb-41fc-888d-a0a0d42410d9
+    claim_hash: d700bef3a6cc67c7c2b4358d1062493c6eab87ffc96b2819c1e233c05d3e29b7
+    content: An anonymous caller to Chris Ramsay's podcast telephone line, claiming to be a molecular biologist formerly at
+      the Battelle Memorial Institute, said that two or three years after the group made its pact, and with no communication
+      between them in the interim, he received an unexpected text message from one of the other scientists saying 'sorry,
+      wrong number'.
+    original_excerpt: fast forward, I think two or three years down the line, they had not communicated after that... And
+      sure enough, he received a text out of the blue by one of these people... That told him, yeah, sorry, wrong number.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a molecular biologist who worked at the Battelle Memorial Institute during training
+        for the United States Navy
+      relay:
+        - a telephone call to Chris Ramsay's podcast line
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: null
+    date_end: null
+    location_in_record: 00:06:21.0-00:06:35.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: a92918c8-4e5e-4d72-8efb-8564becc08af
+    claim_hash: 9168028670c68db938881f40a10c6871ef470f830fe93b614a88bd6ed883fd0a
+    content: Chris Ramsay suggests the Battelle Memorial Institute scientists probably conceived their 'sorry, wrong number'
+      pact after hearing a workplace rumour.
+    original_excerpt: Yeah, they probably had to have heard some type of water cooler rumor.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: null
+    date_end: null
+    location_in_record: 00:06:57.9-00:07:01.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: f1ca6f67-e32a-4dbf-906f-ce34f6c3b774
+    claim_hash: 0e8e71fd057f4bb251b140a26e240098e67f05a0a38b1586c3ad994150938012
+    content: Robert Sarbacher told Whitley Strieber that he had worked at the Battelle Memorial Institute.
+    original_excerpt: but he told me that he worked at Battelle.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Robert Sarbacher
+      relay:
+        - a telephone conversation with Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: null
+    date_end: null
+    location_in_record: 00:07:27.9-00:07:31.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 20154429-f4cd-4b3e-9fc3-fd21fbe67856
+    claim_hash: 0b2e088fdd2e5b1f0f4ff759633ff9c1d007bf809684a42476d2ae2e693b2bb1
+    content: Whitley Strieber argues that because both biology and metallurgy connect back to the Battelle Memorial Institute,
+      investigators need to examine what is going on there.
+    original_excerpt: So you got biology, you got metallurgy, we need to go to Battelle. We need to see what's going on there.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: null
+    date_end: null
+    location_in_record: 00:07:44.2-00:07:52.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 7099e097-d712-4f96-ac6b-60b6054274d6
+    claim_hash: d58e119e2bd66a182558df2fbca24e116739ccc2586620074f8654f1c42aeb50
+    content: Chris Ramsay considers the Battelle Memorial Institute and the MITRE Corporation to be key corporations in the
+      UFO subject.
+    original_excerpt: Battelle, MITRE, uh, all of these corporations seem to be the key to,
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 7fa3fec0-3ba0-4dc7-9779-8ed56b3bbeb5
+        title: MITRE Corporation
+        slug: mitre-corporation
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: null
+    date_end: null
+    location_in_record: 00:07:52.9-00:07:57.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 1c472d6f-ba21-4c68-abf2-5e7e231db5f2
+    claim_hash: f84f19c6531a33fc08120d15598ce307a11f6b7848208e7b4a76f2622111f488
+    content: The Battelle Memorial Institute has publicly stated that it has not done any of the work on non-human biological
+      material attributed to it.
+    original_excerpt: Battelle has stated publicly that they have not done any of this.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Battelle Memorial Institute
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: null
+    date_end: null
+    location_in_record: 00:07:59.7-00:08:04.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 312c35ce-6dd5-4d67-9be9-4614dc6367fc
+    claim_hash: 7cd37ec02ba14a0fa204bffe02239cdb6c8837cff296765c96c11f494257ba0d
+    content: The Battelle Memorial Institute is a private, non-profit research organisation based in Ohio that played a central
+      role in the scientific analysis of UFOs during the 1950s.
+    original_excerpt: '[note: The Battelle Memorial Institute is a privae, non-profit research organization based in Ohio
+      that played a central role in the scientific analysis of UFOs during the 1950s.]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: the record's editorial note
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: null
+    date_end: null
+    location_in_record: line 81
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

@@ -9,1730 +9,1749 @@ page:
   claim_count: 37
   claim_count_total: 37
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 37
+  tokens_estimated: 12456
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 37
 related_nodes:
-- node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-  title: Cydonia
-  node_type: place
-  slug: cydonia
-  shared_claims: 12
-- node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-  title: Thermal Emission Imaging System (THEMIS)
-  node_type: object
-  slug: thermal-emission-imaging-system-themis
-  shared_claims: 12
-- node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-  title: Face on Mars
-  node_type: object
-  slug: face-on-mars
-  shared_claims: 7
-- node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
-  title: Keith Laney
-  node_type: person
-  slug: keith-laney
-  shared_claims: 6
-- node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
-  title: Michael Malin
-  node_type: person
-  slug: michael-malin
-  shared_claims: 6
-- node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-  title: NASA Jet Propulsion Laboratory (JPL)
-  node_type: organisation
-  slug: nasa-jet-propulsion-laboratory-jpl
-  shared_claims: 6
-- node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
-  title: Philip Christensen
-  node_type: person
-  slug: philip-christensen
-  shared_claims: 6
-- node_id: 38fbdf77-a36d-4276-9ea2-f85f3b4968f5
-  title: Jim Dilettoso
-  node_type: person
-  slug: jim-dilettoso
-  shared_claims: 4
-- node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
-  title: Mark C. Carlotto
-  node_type: person
-  slug: mark-c-carlotto
-  shared_claims: 4
-- node_id: 1d9b7e8f-aea4-49b4-8979-292bf1bf8c33
-  title: Mars Reconnaissance Orbiter (MRO)/Odyssey image V0 3814003
-  node_type: document
-  slug: mars-reconnaissance-orbiter-mroodyssey-image-v0-3814003
-  shared_claims: 4
-- node_id: 242f3cc4-6031-41b3-888d-91639576f420
-  title: Enterprise Mission
-  node_type: organisation
-  slug: enterprise-mission
-  shared_claims: 3
-- node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
-  title: Mike Bara
-  node_type: person
-  slug: mike-bara
-  shared_claims: 3
-- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-  title: National Aeronautics and Space Administration (NASA)
-  node_type: organisation
-  slug: national-aeronautics-and-space-administration-nasa
-  shared_claims: 3
-- node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
-  title: Noel Gorelick
-  node_type: person
-  slug: noel-gorelick
-  shared_claims: 3
-- node_id: 9abfe749-31a1-4154-a5a8-31320fde248f
-  title: Thermal Emission Imaging System (THEMIS) nighttime Cydonia Infrared (IR)
-    image 20021031A
-  node_type: document
-  slug: thermal-emission-imaging-system-themis-nighttime-cydonia-infrared-ir-image-20021031a
-  shared_claims: 3
-- node_id: 509cef26-0c30-40a7-9f18-36bb45770e5c
-  title: Wayback Machine
-  node_type: object
-  slug: wayback-machine
-  shared_claims: 3
-- node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
-  title: Billy Meier
-  node_type: person
-  slug: billy-meier
-  shared_claims: 2
-- node_id: d1d9aed9-75b9-4b33-a6ae-ad4d0c4b3ad2
-  title: Internet Archive
-  node_type: organisation
-  slug: internet-archive
-  shared_claims: 2
-- node_id: 1b37dffd-3141-4b55-a371-69047a7f2b80
-  title: Mars Odyssey
-  node_type: project
-  slug: mars-odyssey
-  shared_claims: 2
-- node_id: 537c518b-23ca-4725-aa74-5fe44b97fc85
-  title: Wendell Stevens
-  node_type: person
-  slug: wendell-stevens
-  shared_claims: 2
-- node_id: ebc2fbf6-f823-4e08-a812-4feb7a6ea00a
-  title: 2001-05 Face image, Mars Global Surveyor
-  node_type: document
-  slug: mars-global-surveyor-2001-05-face-image
-  shared_claims: 1
-- node_id: 4b287c34-4bb7-4bad-b3a3-7c5aaa2e21a8
-  title: D&M Pyramid
-  node_type: place
-  slug: dm-pyramid
-  shared_claims: 1
-- node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
-  title: EG&G
-  node_type: organisation
-  slug: egg
-  shared_claims: 1
-- node_id: 25fe7742-340f-4caf-a384-a1cb67f12712
-  title: Fig. 11-1 (Dark Mission)
-  node_type: document
-  slug: fig-11-1-dark-mission
-  shared_claims: 1
-- node_id: 2e2896bd-52d2-4362-903a-9657f86117ae
-  title: Johnson Space Center
-  node_type: organisation
-  slug: johnson-space-center
-  shared_claims: 1
-- node_id: b8a55a41-221e-4a25-a384-d5322ffdcbec
-  title: Lunar Reconnaissance Orbiter (LRO)
-  node_type: object
-  slug: lunar-reconnaissance-orbiter-lro
-  shared_claims: 1
-- node_id: 9d5c4c4d-232d-4d47-87c8-f0f75c413935
-  title: Malin Space Science Systems
-  node_type: organisation
-  slug: malin-space-science-systems
-  shared_claims: 1
-- node_id: 58500467-0776-4993-b9a8-343465210e2c
-  title: March to the Moon Archive
-  node_type: document
-  slug: march-to-the-moon-archive
-  shared_claims: 1
-- node_id: 6779a975-be54-45ce-a4cc-e884de091510
-  title: Mark Robinson
-  node_type: person
-  slug: mark-robinson
-  shared_claims: 1
-- node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
-  title: Mars Observer
-  node_type: object
-  slug: mars-observer
-  shared_claims: 1
-claims:
-- claim_id: 642682c8-0a54-4d9e-bb17-c6e5fa0a5ab8
-  claim_hash: 766e98b7c03d5813a35a6f61ce6f9690635955b97fed7d4e7aa30e7034ceaf64
-  content: Michael Malin, then an associate professor at Arizona State University,
-    concluded that Billy Meier's controversial photographs were not fakes.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
-    title: Michael Malin
-  provenance_chain:
-    origin_kind: speaker
-    origin: Michael Malin
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
-    title: Michael Malin
-    slug: michael-malin
-  - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
-    title: Billy Meier
-    slug: billy-meier
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch10:17560-17704
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 58ac56be-5ad4-4fdf-aa61-ee0f8a52f0b5
-  claim_hash: ec975b8c87d72666d48f630e9f5424b007419d997fe77db252e734cad80bb496
-  content: Jim Dilettoso went to dozens of manufacturers of image processing equipment,
-    including government contractors EG&G and TRW, government labs including the United
-    States Geological Survey and the Jet Propulsion Laboratory (JPL), and universities
-    including the University of Southern California (USC) and Arizona State University,
-    to find scientists able to contribute to photo-testing projects for Wendelle Stevens.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38fbdf77-a36d-4276-9ea2-f85f3b4968f5
-    title: Jim Dilettoso
-    slug: jim-dilettoso
-  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-    title: NASA Jet Propulsion Laboratory (JPL)
-    slug: nasa-jet-propulsion-laboratory-jpl
-  - node_id: 537c518b-23ca-4725-aa74-5fe44b97fc85
-    title: Wendell Stevens
-    slug: wendell-stevens
-  - node_id: 681c3b85-a34e-4425-b09b-e7ff743d2c67
-    title: University of Southern California (USC)
-    slug: university-of-southern-california-usc
-  - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
-    title: EG&G
-    slug: egg
-  - node_id: 9392904e-6a01-4707-8264-fceb1803d530
-    title: United States Geological Survey (USGS)
-    slug: united-states-geological-survey-usgs
-  - node_id: df3f9a71-067c-4b5f-acd0-4cdb96ee702d
-    title: TRW
-    slug: trw
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch10:18669-18994
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 7efc3a96-2898-49de-aa1f-f6e2c9685f85
-  claim_hash: 49e7695117d9d817668d76c261781e2acf3150fb1f90fd4904ba6d9d4a038a85
-  content: Michael Malin was working at the Jet Propulsion Laboratory (JPL) at the
-    time he was contacted by Jim Dilettoso, but was planning a move to Arizona to
-    take a position as a professor and scientist in a Geology Department.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-    title: NASA Jet Propulsion Laboratory (JPL)
-    slug: nasa-jet-propulsion-laboratory-jpl
-  - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
-    title: Michael Malin
-    slug: michael-malin
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch10:20335-20487
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 66b5b7d1-3842-4e03-bee2-4407fe2a198d
-  claim_hash: efdf0f82c1b0c2fe8e90311248df5f3cba725f289ce3df3e84efaae1d97c6729
-  content: Jim Dilettoso arranged to meet Michael Malin at Arizona State University
-    (ASU) a few months after their initial contact at the Jet Propulsion Laboratory
-    (JPL).
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38fbdf77-a36d-4276-9ea2-f85f3b4968f5
-    title: Jim Dilettoso
-    slug: jim-dilettoso
-  - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
-    title: Michael Malin
-    slug: michael-malin
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch10:20499-20615
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: d6c95b1c-658f-4b58-bfa7-7e923219806b
-  claim_hash: ec993fcff14d3aaa7a8baeefa181538ced86c0a85158438dfc9cf27cf5c41c45
-  content: Around 1980, Wendelle Stevens and Jim Dilettoso went to Michael Malin's
-    laboratory at Arizona State University (ASU) with the same four Billy Meier photographs
-    and two control pictures they had taken to other researchers.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38fbdf77-a36d-4276-9ea2-f85f3b4968f5
-    title: Jim Dilettoso
-    slug: jim-dilettoso
-  - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
-    title: Michael Malin
-    slug: michael-malin
-  - node_id: 537c518b-23ca-4725-aa74-5fe44b97fc85
-    title: Wendell Stevens
-    slug: wendell-stevens
-  - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
-    title: Billy Meier
-    slug: billy-meier
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: '1980'
-  date_end: null
-  location_in_record: ch10:20832-20980
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 7ca8abf0-ed89-4b2e-b9bd-fe75cdca4cf4
-  claim_hash: 96173a7d8ce538dd0bb40f142ee1a4237a2e9e6472c5c220f0f4342c8905166b
-  content: Jim Dilettoso kept regular contact over the years with Michael Malin's
-    secretary and lab assistant from Arizona State University (ASU), who visited his
-    Village Labs processing facility in Tempe, Arizona every few months during the
-    1990s.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 38fbdf77-a36d-4276-9ea2-f85f3b4968f5
-    title: Jim Dilettoso
-    slug: jim-dilettoso
-  - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
-    title: Michael Malin
-    slug: michael-malin
-  - node_id: c606fdf1-4317-49b9-a9b6-103a63a0cf70
-    title: USA, Arizona, Tempe
-    slug: arizona-tempe-usa
-  - node_id: e7b76565-34a5-49ca-bd64-df89d568a734
-    title: Village Labs
-    slug: village-labs
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch10:22638-22827
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 6f9c6b55-6ad6-42d6-a67f-b0d1fe6ba983
-  claim_hash: 91603193fb7c506808ce4c34b54ed11493f5bc5e5c28d1192861c650fea5d762
-  content: Michael Malin moved his private company, Malin Space Science Systems, which
-    held the Mars Observer camera contract, from Arizona State University (ASU) in
-    Arizona and the Jet Propulsion Laboratory (JPL) in California to San Diego, over
-    480 kilometres south of the Jet Propulsion Laboratory in Pasadena.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-    title: NASA Jet Propulsion Laboratory (JPL)
-    slug: nasa-jet-propulsion-laboratory-jpl
-  - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
-    title: Michael Malin
-    slug: michael-malin
-  - node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
-    title: Mars Observer
-    slug: mars-observer
-  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
-    title: USA, California, Pasadena
-    slug: california-pasadena-usa
-  - node_id: 9d5c4c4d-232d-4d47-87c8-f0f75c413935
-    title: Malin Space Science Systems
-    slug: malin-space-science-systems
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch10:27409-27630
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: ef1cbc2b-d610-482f-acc4-68b270b44d06
-  claim_hash: 16d367501d10ad70d6a2cb57a9043cb82a8a7d3975c6367530938e8360ca1bc2
-  content: Philip Christensen, a relative newcomer to the Mars programmes, would run
-    the THEMIS visible light camera out of Arizona State University.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    node_type: place
+    slug: cydonia
+    shared_claims: 12
   - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
     title: Thermal Emission Imaging System (THEMIS)
+    node_type: object
     slug: thermal-emission-imaging-system-themis
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
-    title: Philip Christensen
-    slug: philip-christensen
-  date: null
-  date_end: null
-  location_in_record: ch16:13520-13620
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: c79119c5-412b-49e5-8bd1-4afdc211c37d
-  claim_hash: bb2fb3faaae3b6e94c81fc636f10d539f820eeaab1b9073340ac68ca1f25646b
-  content: The caption accompanying the 2002 Mars Odyssey Cydonia image release, posted
-    on the Arizona State University Thermal Emission Imaging System (THEMIS) web page,
-    compared the Face on Mars to Camelback Mountain in Arizona and the 'Sleeping Beauty'
-    rock formation near Ludlow, California.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3a6e3775-ac26-4bc7-9894-ae4cf9eb6541
-    title: USA, Arizona, Camelback Mountain
-    slug: arizona-camelback-mountain-usa
-  - node_id: 46b784b5-1299-4969-a705-b06c20ce7c5e
-    title: USA, Idaho, Middle Butte Mesa
-    slug: idaho-middle-butte-mesa-usa
+    shared_claims: 12
   - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
     title: Face on Mars
+    node_type: object
     slug: face-on-mars
-  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-    title: Thermal Emission Imaging System (THEMIS)
-    slug: thermal-emission-imaging-system-themis
-  - node_id: d06b9adf-2715-4597-92be-7a8efd8263e4
-    title: USA, California, Ludlow, Sleeping Beauty (rock formation)
-    slug: california-ludlow-sleeping-beauty-rock-formation-usa
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch16:57846-58041
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: d8bda004-a6a7-41dd-a71b-5ad206d7315c
-  claim_hash: 6cc558384648c9614879dab0944de59e8c0025393fae7ed73c171db3ec56a9ac
-  content: The Internet Archive ceased tracking changes to the Thermal Emission Imaging
-    System (THEMIS) Arizona State University image release pages within a few months
-    of Richard C. Hoagland's investigation obtaining Wayback Machine data on the Cydonia
-    infrared image page.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 509cef26-0c30-40a7-9f18-36bb45770e5c
-    title: Wayback Machine
-    slug: wayback-machine
+    shared_claims: 7
   - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
     title: Keith Laney
+    node_type: person
     slug: keith-laney
-  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-    title: Thermal Emission Imaging System (THEMIS)
-    slug: thermal-emission-imaging-system-themis
-  - node_id: d1d9aed9-75b9-4b33-a6ae-ad4d0c4b3ad2
-    title: Internet Archive
-    slug: internet-archive
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch17:100144-100314
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: f2fcdbac-0404-48ed-aae6-4d644a367a03
-  claim_hash: 2a7cd274fa81089854949c7bcbedbf310a522745cb233615f93fe3e605fd785d
-  content: The Face on Mars appears to disappear in a Thermal Emission Imaging System
-    nighttime infrared emission image released by Arizona State University when compared
-    to the daytime infrared reflectance image, an effect attributed to the nighttime
-    image being taken during deep Cydonian winter contrary to official Arizona State
-    University statements, combined with deliberately added pixel noise.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: figure caption (Enterprise Mission)
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 242f3cc4-6031-41b3-888d-91639576f420
-    title: Enterprise Mission
-    slug: enterprise-mission
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-    title: Thermal Emission Imaging System (THEMIS)
-    slug: thermal-emission-imaging-system-themis
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch17:102450-102781
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: e9166e73-fc3c-4b6f-ad91-3feafb001670
-  claim_hash: fced142c75fab23b8fcbe7fb1102b3a79e18f8dae062a206a6d168b215c50025
-  content: A Wayback Machine screen capture shows that the Arizona State University
-    Thermal Emission Imaging System webpage containing the 'real' Cydonia infrared
-    image was altered just hours after Keith Laney downloaded the 'real' infrared
-    data from the official Arizona State University Thermal Emission Imaging System
-    site.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: figure caption (Wayback Machine)
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 509cef26-0c30-40a7-9f18-36bb45770e5c
-    title: Wayback Machine
-    slug: wayback-machine
-  - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
-    title: Keith Laney
-    slug: keith-laney
-  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-    title: Thermal Emission Imaging System (THEMIS)
-    slug: thermal-emission-imaging-system-themis
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch17:103064-103301
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 254d9308-02bd-4b86-b192-05be6dc14c92
-  claim_hash: 47e4c380f66bc4aba7c9d9a96b857af309c81c10f56ccc7fa54d6701adb9b89b
-  content: Arizona State University and Philip Christensen, Principal Investigator
-    of the Thermal Emission Imaging System, have repeatedly and officially denied
-    that the webpage containing the 'real' Cydonia infrared image was ever altered.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Arizona State University and Philip Christensen
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-    title: Thermal Emission Imaging System (THEMIS)
-    slug: thermal-emission-imaging-system-themis
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
-    title: Philip Christensen
-    slug: philip-christensen
-  date: null
-  date_end: null
-  location_in_record: ch17:103307-103434
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: b6647453-eaba-47f6-a948-f9c4b8e211d4
-  claim_hash: f100a1cda7d5c9c8f81b1b38fb65c495bd7d35bf9f4c9209c3b30da566fc4c83
-  content: The bulletin board user "Bamf" was identified as Noel Gorelick, who claimed
-    in his online Enterprise Mission bulletin board profile to be the manager of Arizona
-    State University's Mars Computation Center.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
-    title: Noel Gorelick
-    slug: noel-gorelick
-  - node_id: 242f3cc4-6031-41b3-888d-91639576f420
-    title: Enterprise Mission
-    slug: enterprise-mission
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch17:4992-5211
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: e3b56df5-1bba-48c6-abaa-1c92eee17068
-  claim_hash: dead0246890f599564493641ca6c8736d0701e9aa78e15a19430209511ab2c49
-  content: Mike Bara found Noel Gorelick's contact information in the Arizona State
-    University phone directory and called him on the afternoon of 2002-09-06.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
-    title: Noel Gorelick
-    slug: noel-gorelick
-  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
-    title: Mike Bara
-    slug: mike-bara
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: '2002-09-06'
-  date_end: null
-  location_in_record: ch17:52892-53050
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 16b7b8f4-9220-40d6-8115-44796acbc0b6
-  claim_hash: df0ab9ee12c84d66d12053368a9c6e7787c89cc2bd18c8ce0ba09ed89dfcb86d
-  content: Instead of the agreed multispectral analysis, Mark Carlotto subjected the
-    official ASU version of the Cydonia THEMIS image to a series of contrast and blur
-    filters in an attempt to show that the Laney image was a degraded version of the
-    official one.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
-    title: Keith Laney
-    slug: keith-laney
-  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-    title: Thermal Emission Imaging System (THEMIS)
-    slug: thermal-emission-imaging-system-themis
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
-    title: Mark C. Carlotto
-    slug: mark-c-carlotto
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch17:61999-62234
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 0e55149e-1d78-48dd-b363-cc26ea27e028
-  claim_hash: 81827f8e8a77b57ac520efdbd98f5c5d313609f4ecff1404e74434ee9fe2b82d
-  content: Mark Carlotto concluded that the similarity of the Laney image to the 'real'
-    top-left image strongly suggested that the Enterprise Mission image was an altered
-    version of the Arizona State University image.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
-    title: Mark C. Carlotto
-  provenance_chain:
-    origin_kind: named
-    origin: Mark Carlotto
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 242f3cc4-6031-41b3-888d-91639576f420
-    title: Enterprise Mission
-    slug: enterprise-mission
-  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
-    title: Mark C. Carlotto
-    slug: mark-c-carlotto
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch17:62411-62560
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: cca71d59-8fe4-4bfa-ad37-852a1d6a122f
-  claim_hash: bd26c46364661d209c1b5db2759ae4250e77b75d66ecab7cb0665f4c00c0ca53
-  content: Mark Carlotto claimed that because the Laney image changes from band to
-    band in the unratioed grayscale it is a distorted version of the official Arizona
-    State University release.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
-    title: Mark C. Carlotto
-  provenance_chain:
-    origin_kind: named
-    origin: Mark Carlotto
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
-    title: Keith Laney
-    slug: keith-laney
-  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
-    title: Mark C. Carlotto
-    slug: mark-c-carlotto
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch17:62569-62726
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 8cf8922f-cef7-445a-9b7d-398fa29eda8e
-  claim_hash: 1663fa83cf2dda18ccb9702f28da2585d631a0787e2e352f7e40982054505be5
-  content: Mark Carlotto parroted the position of Philip Christensen of Arizona State
-    University in declaring that the Laney Cydonia data was degraded.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
-    title: Keith Laney
-    slug: keith-laney
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
-    title: Mark C. Carlotto
-    slug: mark-c-carlotto
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
-    title: Philip Christensen
-    slug: philip-christensen
-  date: null
-  date_end: null
-  location_in_record: ch17:66727-66852
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 29abd840-f6ba-4a2d-8850-bf8b9199614a
-  claim_hash: e3d9701dd67c9268c44ff44d8a2a9b37c196655f2c466b65c4ab49cc62ec7109
-  content: On 2002-10-31, Arizona State University released what was claimed to be
-    a nighttime infrared image of Cydonia.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: '2002-10-31'
-  date_end: null
-  location_in_record: ch17:70310-70468
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 76eaaa6b-3eae-48cf-8b85-9af7c7a129fe
-  claim_hash: b522ccca9f3d7eacc95d61873376a041313e83bb991ca03747f32ba88ee6f3c6
-  content: The official Arizona State University caption for the paired daytime and
-    nighttime Thermal Emission Imaging System (THEMIS) infrared images of the Face
-    on Mars stated that the nighttime image was acquired on 2002-10-24 and the daytime
-    image was originally released on 2002-07-24, both of THEMIS's ninth infrared band
-    at 12.57 microns, geometrically projected for image registration.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Arizona State University official image caption
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-    title: Thermal Emission Imaging System (THEMIS)
-    slug: thermal-emission-imaging-system-themis
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: '2002-10-24'
-  date_end: null
-  location_in_record: ch17:71072-71426
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: f3d058c6-c9fa-4c96-b1ed-9ed3165a679c
-  claim_hash: 1ad69796a8eba515221c568abb266ca169f1622415df8a909495409b66421e87
-  content: The original Arizona State University graphic for the 2002-07-24 daytime
-    infrared release listed band nine's centre wavelength as 12.58 microns, while
-    the 2002-10-31 comparison graphic cited the same band as 12.57 microns.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: '2002-07-24'
-  date_end: null
-  location_in_record: ch17:71559-71714
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 85111c87-d04f-43cf-9d22-d1b81a9551bd
-  claim_hash: 164dbf0c20ab3c0d903db2b770205bf10b63130838153f6e57c2c13fa076f60e
-  content: National Aeronautics and Space Administration (NASA), Arizona State University
-    and Jet Propulsion Laboratory (JPL) had maintained for months that there was only
-    one version of the 2002-07-24 Cydonia infrared image, before the 2002-10-31 release
-    revealed two demonstrably different footprints.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 6
+  - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+    title: Michael Malin
+    node_type: person
+    slug: michael-malin
+    shared_claims: 6
   - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
     title: NASA Jet Propulsion Laboratory (JPL)
+    node_type: organisation
     slug: nasa-jet-propulsion-laboratory-jpl
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: '2002-07-24'
-  date_end: null
-  location_in_record: ch17:72343-72483
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 34edfb80-547c-4041-9499-b987ecc1739e
-  claim_hash: caf7368f28ed8fb5dd7e34e6a7cddeb7e4a47826cac1851bc0e9d2dd27f6541a
-  content: According to the official Arizona State University October 31 release caption,
-    the daytime scene of the nighttime Cydonia image ranges in temperature from -50
-    degrees Celsius (darkest) to -15 degrees Celsius (brightest).
-  original_excerpt: null
-  claim_type: measurement
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Arizona State University
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9abfe749-31a1-4154-a5a8-31320fde248f
-    title: Thermal Emission Imaging System (THEMIS) nighttime Cydonia Infrared (IR)
-      image 20021031A
-    slug: thermal-emission-imaging-system-themis-nighttime-cydonia-infrared-ir-image-20021031a
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch17:82749-82826
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: f9e0063e-fc24-47f4-ae5b-3484272120b2
-  claim_hash: 3353cc46a8806ad3f313ec85f6704291ec83b2a9d6de8880d054c1cc143c1a89
-  content: According to the official Arizona State University October 31 release caption
-    for the nighttime Cydonia image, nighttime temperatures vary from approximately
-    -90 degrees Celsius (darkest) to -7 degrees Celsius (warmest).
-  original_excerpt: null
-  claim_type: measurement
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Arizona State University
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9abfe749-31a1-4154-a5a8-31320fde248f
-    title: Thermal Emission Imaging System (THEMIS) nighttime Cydonia Infrared (IR)
-      image 20021031A
-    slug: thermal-emission-imaging-system-themis-nighttime-cydonia-infrared-ir-image-20021031a
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: '2002-10-31'
-  date_end: null
-  location_in_record: ch17:82997-83074
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 126cfb25-02e8-4fce-a7dc-5ce1cec22fdd
-  claim_hash: 0690a72cd5bd7ac671848ce7f889b2f463f87af6800b3957aa7606c14507b5cb
-  content: In the newest NASA/JPL/Arizona State University release, the Face on Mars
-    almost completely disappears when comparing the daytime infrared image from July
-    24 with the nighttime October 31 counterpart.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 16aa5c4e-7521-46ac-9138-af0143459e21
-    title: Thermal Emission Imaging System (THEMIS) Cydonia multispectral image 20020724A
-    slug: thermal-emission-imaging-system-themis-cydonia-multispectral-image-20020724a
-  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-    title: NASA Jet Propulsion Laboratory (JPL)
-    slug: nasa-jet-propulsion-laboratory-jpl
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  - node_id: 9abfe749-31a1-4154-a5a8-31320fde248f
-    title: Thermal Emission Imaging System (THEMIS) nighttime Cydonia Infrared (IR)
-      image 20021031A
-    slug: thermal-emission-imaging-system-themis-nighttime-cydonia-infrared-ir-image-20021031a
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch17:84783-85078
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 3f44185a-ea39-4df7-9de3-8ab1e029ac20
-  claim_hash: 966480aa7cb012280ba1025c276c3b6eb5a0db3d7b43cd41223d44d6907ac214
-  content: A random check of about fifty of the approximately two hundred nighttime
-    images then displayed on the Arizona State University THEMIS archive website revealed
-    only one other image acquired with all nine infrared bands in the entire THEMIS
-    library.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-    title: Thermal Emission Imaging System (THEMIS)
-    slug: thermal-emission-imaging-system-themis
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch17:93135-93358
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 2080258d-122b-41c3-aeaa-5324c757329d
-  claim_hash: 76e21be63fdbe0e5a2f963251184514b7c94cd648485e762e513b847fd75e750
-  content: Philip Christensen became highly agitated and paced back and forth across
-    the stage as Mike Bara asked whether the original Cydonia daytime infrared image,
-    posted on the Arizona State University website on 2002-07-24, had ever been changed.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
-    title: Mike Bara
-    slug: mike-bara
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
+    shared_claims: 6
   - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
     title: Philip Christensen
+    node_type: person
     slug: philip-christensen
-  date: '2003-07-23'
-  date_end: null
-  location_in_record: ch17:97492-97717
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 5ce3be74-c8cd-46de-b869-97af184fb41a
-  claim_hash: 1a0e6829828209266cb3111eb8a33ee124d5cc350e470dc9c3ebd402c458fe7a
-  content: When Mike Bara asked Philip Christensen for clarification on whether the
-    data posted on the Arizona State University THEMIS website had been changed after
-    2002-07-24, Christensen again emphatically answered no.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
-    title: Philip Christensen
-  provenance_chain:
-    origin_kind: speaker
-    origin: Philip Christensen
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
-    title: Mike Bara
-    slug: mike-bara
-  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-    title: Thermal Emission Imaging System (THEMIS)
-    slug: thermal-emission-imaging-system-themis
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
-    title: Philip Christensen
-    slug: philip-christensen
-  date: '2003-07-23'
-  date_end: null
-  location_in_record: ch17:98619-98822
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: c4745996-d80c-46dc-971e-ecbea504124d
-  claim_hash: 3645b5e4acbb9cbdf4aaad293f178753c6fd44162b6e3b5f766a777a2dd24aa9
-  content: Using the Internet Archive's Wayback Machine search tool on the URL of
-    the daytime Cydonia infrared image, Richard C. Hoagland's team found that the
-    Arizona State University THEMIS website page, managed by Noel Gorelick, had originally
-    been posted on 2002-07-24 and was subsequently altered in the early morning hours
-    of 2002-07-26.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
-    title: Noel Gorelick
-    slug: noel-gorelick
-  - node_id: 509cef26-0c30-40a7-9f18-36bb45770e5c
-    title: Wayback Machine
-    slug: wayback-machine
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  - node_id: d1d9aed9-75b9-4b33-a6ae-ad4d0c4b3ad2
-    title: Internet Archive
-    slug: internet-archive
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
-    title: Philip Christensen
-    slug: philip-christensen
-  date: '2002-07-26'
-  date_end: null
-  location_in_record: ch17:99144-99609
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: f90de821-6c89-4866-a06d-6772b6dae66d
-  claim_hash: a6d6481cc1aa480754e12498d725998233124c1dd163c84e19e88282ada7053a
-  content: Image V0 3814003 was taken by the Mars Odyssey camera at 4:39 a.m. local
-    Martian (Cydonia) time.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Arizona State University THEMIS website data block for image V0 3814003
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1b37dffd-3141-4b55-a371-69047a7f2b80
-    title: Mars Odyssey
-    slug: mars-odyssey
+    shared_claims: 6
+  - node_id: 38fbdf77-a36d-4276-9ea2-f85f3b4968f5
+    title: Jim Dilettoso
+    node_type: person
+    slug: jim-dilettoso
+    shared_claims: 4
+  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+    node_type: person
+    slug: mark-c-carlotto
+    shared_claims: 4
   - node_id: 1d9b7e8f-aea4-49b4-8979-292bf1bf8c33
     title: Mars Reconnaissance Orbiter (MRO)/Odyssey image V0 3814003
+    node_type: document
     slug: mars-reconnaissance-orbiter-mroodyssey-image-v0-3814003
-  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-    title: Thermal Emission Imaging System (THEMIS)
-    slug: thermal-emission-imaging-system-themis
-  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-    title: Cydonia
-    slug: cydonia
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch18:1910-2017
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 44dfb5d9-a11a-4e50-b72a-5ff01931418b
-  claim_hash: 891c0b949a939f5286802e2454a9cbeb34ab13869a725c4bd1697c9954510ee2
-  content: The Mars Odyssey image release used in Fig. 11-1 is officially designated
-    MRO/Odyssey image V0 3814003.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1d9b7e8f-aea4-49b4-8979-292bf1bf8c33
-    title: Mars Reconnaissance Orbiter (MRO)/Odyssey image V0 3814003
-    slug: mars-reconnaissance-orbiter-mroodyssey-image-v0-3814003
-  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-    title: NASA Jet Propulsion Laboratory (JPL)
-    slug: nasa-jet-propulsion-laboratory-jpl
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch18:423-485
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 10572492-f27e-4b7c-ac2a-753b4dabcd41
-  claim_hash: a498dc67dff60cf2091310c5b51f6e7dc542095f19efac40d9a311c6bd4de7eb
-  content: Figure 11-1 in Dark Mission is a composite image made from a May 2001 Mars
-    Global Surveyor black-and-white image and a July 2003 Mars Odyssey five-band colour
-    image, showing anomalously bright, geometrically aligned structural elements on
-    the eastern side of the Face on Mars, credited to Arizona State University, Keith
-    Laney, and Richard C. Hoagland.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Arizona State University / Keith Laney / Richard C. Hoagland
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 4
+  - node_id: 242f3cc4-6031-41b3-888d-91639576f420
+    title: Enterprise Mission
+    node_type: organisation
+    slug: enterprise-mission
+    shared_claims: 3
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    node_type: person
+    slug: mike-bara
+    shared_claims: 3
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 3
+  - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
+    title: Noel Gorelick
+    node_type: person
+    slug: noel-gorelick
+    shared_claims: 3
+  - node_id: 9abfe749-31a1-4154-a5a8-31320fde248f
+    title: Thermal Emission Imaging System (THEMIS) nighttime Cydonia Infrared (IR) image 20021031A
+    node_type: document
+    slug: thermal-emission-imaging-system-themis-nighttime-cydonia-infrared-ir-image-20021031a
+    shared_claims: 3
+  - node_id: 509cef26-0c30-40a7-9f18-36bb45770e5c
+    title: Wayback Machine
+    node_type: object
+    slug: wayback-machine
+    shared_claims: 3
+  - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
+    title: Billy Meier
+    node_type: person
+    slug: billy-meier
+    shared_claims: 2
+  - node_id: d1d9aed9-75b9-4b33-a6ae-ad4d0c4b3ad2
+    title: Internet Archive
+    node_type: organisation
+    slug: internet-archive
+    shared_claims: 2
   - node_id: 1b37dffd-3141-4b55-a371-69047a7f2b80
     title: Mars Odyssey
+    node_type: project
     slug: mars-odyssey
-  - node_id: 25fe7742-340f-4caf-a384-a1cb67f12712
-    title: Fig. 11-1 (Dark Mission)
-    slug: fig-11-1-dark-mission
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
-    title: Keith Laney
-    slug: keith-laney
-  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-    slug: richard-c-hoagland
+    shared_claims: 2
+  - node_id: 537c518b-23ca-4725-aa74-5fe44b97fc85
+    title: Wendell Stevens
+    node_type: person
+    slug: wendell-stevens
+    shared_claims: 2
   - node_id: ebc2fbf6-f823-4e08-a812-4feb7a6ea00a
     title: 2001-05 Face image, Mars Global Surveyor
+    node_type: document
     slug: mars-global-surveyor-2001-05-face-image
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch18:57232-57450
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: af96ba29-41c1-4fd5-a007-355c68bafa33
-  claim_hash: bc034f2ee087eb2ff58466f1f7acd3328f1c19d2fbebe5d189eb5d9a9bbc4000
-  content: MRO/Odyssey image V0 3814003 is a five-band colour infrared image showing
-    highly anomalous lighting of the Face on Mars and the D&M Pyramid, even in the
-    pre-dawn conditions of the image.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Arizona State University
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1d9b7e8f-aea4-49b4-8979-292bf1bf8c33
-    title: Mars Reconnaissance Orbiter (MRO)/Odyssey image V0 3814003
-    slug: mars-reconnaissance-orbiter-mroodyssey-image-v0-3814003
+    shared_claims: 1
   - node_id: 4b287c34-4bb7-4bad-b3a3-7c5aaa2e21a8
     title: D&M Pyramid
+    node_type: place
     slug: dm-pyramid
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch18:57470-57624
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: c84e9d03-044c-43c4-971d-0c91140812cd
-  claim_hash: 3701a6e2e17904439c851edeffc429ecc6e8c745a2704fb63215620a16543c32
-  content: The unique lighting geometry of the pre-dawn MRO/Odyssey image V0 3814003
-    reveals the same underlying architectural substructure of the Face on Mars detected
-    at much lower resolution in a nighttime Thermal Emission Imaging System (THEMIS)
-    infrared image.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Arizona State University
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1d9b7e8f-aea4-49b4-8979-292bf1bf8c33
-    title: Mars Reconnaissance Orbiter (MRO)/Odyssey image V0 3814003
-    slug: mars-reconnaissance-orbiter-mroodyssey-image-v0-3814003
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
-    title: Thermal Emission Imaging System (THEMIS)
-    slug: thermal-emission-imaging-system-themis
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch18:58102-58327
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: abf69551-d962-4043-bf43-0f5838908ce6
-  claim_hash: 164df6eae93cbcc4e7cbd9836aa7cc23518208276e65d2bb050e35d7728863c9
-  content: Mark Robinson of Arizona State University is the Principal Investigator
-    of the Lunar Reconnaissance Orbiter Camera system.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 6779a975-be54-45ce-a4cc-e884de091510
-    title: Mark Robinson
-    slug: mark-robinson
-  - node_id: b8a55a41-221e-4a25-a384-d5322ffdcbec
-    title: Lunar Reconnaissance Orbiter (LRO)
-    slug: lunar-reconnaissance-orbiter-lro
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: ch6:29189-29294
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: cd31734d-45bf-40a5-8af8-9b3833ce119a
-  claim_hash: 04c5acd1ccca33fbcf645d126d33ee03c081a3d4bd01979e487312b8eaafd502
-  content: NASA maintains an archive of more recent, higher-resolution scans of the
-    Apollo films, managed by Arizona State University and Johnson Space Center, called
-    the March to the Moon Archive.
-  original_excerpt: NASA has an archive of more recent scans of the Apollo films.
-    It's managed by Arizona State University and the Johnson Space Center. It's called
-    the March to the Moon Archive.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
-    title: Maaneli "Max" Derakhshani
-  provenance_chain:
-    origin_kind: speaker
-    origin: Maaneli "Max" Derakhshani
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
+  - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
+    title: EG&G
+    node_type: organisation
+    slug: egg
+    shared_claims: 1
+  - node_id: 25fe7742-340f-4caf-a384-a1cb67f12712
+    title: Fig. 11-1 (Dark Mission)
+    node_type: document
+    slug: fig-11-1-dark-mission
+    shared_claims: 1
   - node_id: 2e2896bd-52d2-4362-903a-9657f86117ae
     title: Johnson Space Center
+    node_type: organisation
     slug: johnson-space-center
+    shared_claims: 1
+  - node_id: b8a55a41-221e-4a25-a384-d5322ffdcbec
+    title: Lunar Reconnaissance Orbiter (LRO)
+    node_type: object
+    slug: lunar-reconnaissance-orbiter-lro
+    shared_claims: 1
+  - node_id: 9d5c4c4d-232d-4d47-87c8-f0f75c413935
+    title: Malin Space Science Systems
+    node_type: organisation
+    slug: malin-space-science-systems
+    shared_claims: 1
   - node_id: 58500467-0776-4993-b9a8-343465210e2c
     title: March to the Moon Archive
+    node_type: document
     slug: march-to-the-moon-archive
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
-    title: Arizona State University
-    slug: arizona-state-university
-  date: null
-  date_end: null
-  location_in_record: 00:03:49.1-00:04:02.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
-    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-10'
-    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
-    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 6779a975-be54-45ce-a4cc-e884de091510
+    title: Mark Robinson
+    node_type: person
+    slug: mark-robinson
+    shared_claims: 1
+  - node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
+    title: Mars Observer
+    node_type: object
+    slug: mars-observer
+    shared_claims: 1
+claims:
+  - claim_id: 642682c8-0a54-4d9e-bb17-c6e5fa0a5ab8
+    claim_hash: 766e98b7c03d5813a35a6f61ce6f9690635955b97fed7d4e7aa30e7034ceaf64
+    content: Michael Malin, then an associate professor at Arizona State University, concluded that Billy Meier's controversial
+      photographs were not fakes.
+    original_excerpt: In that capacity, Malin, then an associate professor at Arizona State University, had concluded that
+      Meier’s controversial photographs were not fakes.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+      title: Michael Malin
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Malin
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+        title: Michael Malin
+        slug: michael-malin
+      - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
+        title: Billy Meier
+        slug: billy-meier
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch10:17560-17704
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 58ac56be-5ad4-4fdf-aa61-ee0f8a52f0b5
+    claim_hash: ec975b8c87d72666d48f630e9f5424b007419d997fe77db252e734cad80bb496
+    content: Jim Dilettoso went to dozens of manufacturers of image processing equipment, including government contractors
+      EG&G and TRW, government labs including the United States Geological Survey and the Jet Propulsion Laboratory (JPL),
+      and universities including the University of Southern California (USC) and Arizona State University, to find scientists
+      able to contribute to photo-testing projects for Wendelle Stevens.
+    original_excerpt: Dilettoso went to dozens of manufacturers of image processing equipment, including government contractors
+      like EG&G and TRW, government labs like the United States Geological Survey and JPL, and certain universities that were
+      known for their image processing and analysis capabilities; USC and Arizona State University among them.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38fbdf77-a36d-4276-9ea2-f85f3b4968f5
+        title: Jim Dilettoso
+        slug: jim-dilettoso
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 537c518b-23ca-4725-aa74-5fe44b97fc85
+        title: Wendell Stevens
+        slug: wendell-stevens
+      - node_id: 681c3b85-a34e-4425-b09b-e7ff743d2c67
+        title: University of Southern California (USC)
+        slug: university-of-southern-california-usc
+      - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
+        title: EG&G
+        slug: egg
+      - node_id: 9392904e-6a01-4707-8264-fceb1803d530
+        title: United States Geological Survey (USGS)
+        slug: united-states-geological-survey-usgs
+      - node_id: df3f9a71-067c-4b5f-acd0-4cdb96ee702d
+        title: TRW
+        slug: trw
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch10:18669-18994
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 7efc3a96-2898-49de-aa1f-f6e2c9685f85
+    claim_hash: 49e7695117d9d817668d76c261781e2acf3150fb1f90fd4904ba6d9d4a038a85
+    content: Michael Malin was working at the Jet Propulsion Laboratory (JPL) at the time he was contacted by Jim Dilettoso,
+      but was planning a move to Arizona to take a position as a professor and scientist in a Geology Department.
+    original_excerpt: Malin was working at JPL at the time, but was planning a move to Arizona soon thereafter to take a position
+      as a professor and scientist in the Geology Department.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+        title: Michael Malin
+        slug: michael-malin
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch10:20335-20487
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 66b5b7d1-3842-4e03-bee2-4407fe2a198d
+    claim_hash: efdf0f82c1b0c2fe8e90311248df5f3cba725f289ce3df3e84efaae1d97c6729
+    content: Jim Dilettoso arranged to meet Michael Malin at Arizona State University (ASU) a few months after their initial
+      contact at the Jet Propulsion Laboratory (JPL).
+    original_excerpt: After making initial contact at JPL, Dilettoso made arrangements with Malin to meet up with him at ASU
+      a few months later.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38fbdf77-a36d-4276-9ea2-f85f3b4968f5
+        title: Jim Dilettoso
+        slug: jim-dilettoso
+      - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+        title: Michael Malin
+        slug: michael-malin
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch10:20499-20615
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: d6c95b1c-658f-4b58-bfa7-7e923219806b
+    claim_hash: ec993fcff14d3aaa7a8baeefa181538ced86c0a85158438dfc9cf27cf5c41c45
+    content: Around 1980, Wendelle Stevens and Jim Dilettoso went to Michael Malin's laboratory at Arizona State University
+      (ASU) with the same four Billy Meier photographs and two control pictures they had taken to other researchers.
+    original_excerpt: Stevens and Dilettoso went back to Malin’s lab at ASU around 1980, with the same four Meier photos and
+      two controls that they had taken to everyone else.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38fbdf77-a36d-4276-9ea2-f85f3b4968f5
+        title: Jim Dilettoso
+        slug: jim-dilettoso
+      - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+        title: Michael Malin
+        slug: michael-malin
+      - node_id: 537c518b-23ca-4725-aa74-5fe44b97fc85
+        title: Wendell Stevens
+        slug: wendell-stevens
+      - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
+        title: Billy Meier
+        slug: billy-meier
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: '1980'
+    date_end: null
+    location_in_record: ch10:20832-20980
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 7ca8abf0-ed89-4b2e-b9bd-fe75cdca4cf4
+    claim_hash: 96173a7d8ce538dd0bb40f142ee1a4237a2e9e6472c5c220f0f4342c8905166b
+    content: Jim Dilettoso kept regular contact over the years with Michael Malin's secretary and lab assistant from Arizona
+      State University (ASU), who visited his Village Labs processing facility in Tempe, Arizona every few months during the
+      1990s.
+    original_excerpt: over the years, Dilettoso kept regular contact with Malin’s secretary/lab assistant from ASU, who would
+      visit his Village Labs processing facility in Tempe, Arizona every few months in the 1990s.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38fbdf77-a36d-4276-9ea2-f85f3b4968f5
+        title: Jim Dilettoso
+        slug: jim-dilettoso
+      - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+        title: Michael Malin
+        slug: michael-malin
+      - node_id: c606fdf1-4317-49b9-a9b6-103a63a0cf70
+        title: USA, Arizona, Tempe
+        slug: arizona-tempe-usa
+      - node_id: e7b76565-34a5-49ca-bd64-df89d568a734
+        title: Village Labs
+        slug: village-labs
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch10:22638-22827
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 6f9c6b55-6ad6-42d6-a67f-b0d1fe6ba983
+    claim_hash: 91603193fb7c506808ce4c34b54ed11493f5bc5e5c28d1192861c650fea5d762
+    content: Michael Malin moved his private company, Malin Space Science Systems, which held the Mars Observer camera contract,
+      from Arizona State University (ASU) in Arizona and the Jet Propulsion Laboratory (JPL) in California to San Diego, over
+      480 kilometres south of the Jet Propulsion Laboratory in Pasadena.
+    original_excerpt: Malin even moved his entire private company, “Malin Space Science Systems” (which held the actual Mars
+      Observer camera contract) away from ASU in Arizona and JPL in California to San Diego (over 300 miles south of JPL in
+      Pasadena).
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+        title: Michael Malin
+        slug: michael-malin
+      - node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
+        title: Mars Observer
+        slug: mars-observer
+      - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+        title: USA, California, Pasadena
+        slug: california-pasadena-usa
+      - node_id: 9d5c4c4d-232d-4d47-87c8-f0f75c413935
+        title: Malin Space Science Systems
+        slug: malin-space-science-systems
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch10:27409-27630
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ef1cbc2b-d610-482f-acc4-68b270b44d06
+    claim_hash: 16d367501d10ad70d6a2cb57a9043cb82a8a7d3975c6367530938e8360ca1bc2
+    content: Philip Christensen, a relative newcomer to the Mars programmes, would run the THEMIS visible light camera out
+      of Arizona State University.
+    original_excerpt: Dr. Philip Christensen, a relative newcomer to the Mars programs, would run it out of Arizona State
+      University
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+        title: Thermal Emission Imaging System (THEMIS)
+        slug: thermal-emission-imaging-system-themis
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+      - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+        title: Philip Christensen
+        slug: philip-christensen
+    date: null
+    date_end: null
+    location_in_record: ch16:13520-13620
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c79119c5-412b-49e5-8bd1-4afdc211c37d
+    claim_hash: bb2fb3faaae3b6e94c81fc636f10d539f820eeaab1b9073340ac68ca1f25646b
+    content: The caption accompanying the 2002 Mars Odyssey Cydonia image release, posted on the Arizona State University
+      Thermal Emission Imaging System (THEMIS) web page, compared the Face on Mars to Camelback Mountain in Arizona and the
+      'Sleeping Beauty' rock formation near Ludlow, California.
+    original_excerpt: They then compare the Face to Arizona's Camelback Mountain (shades of NASA's previously failed “Middle
+      Butte Mesa” comparison), and “Sleeping Beauty” near Ludlow, California, among several other places.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a6e3775-ac26-4bc7-9894-ae4cf9eb6541
+        title: USA, Arizona, Camelback Mountain
+        slug: arizona-camelback-mountain-usa
+      - node_id: 46b784b5-1299-4969-a705-b06c20ce7c5e
+        title: USA, Idaho, Middle Butte Mesa
+        slug: idaho-middle-butte-mesa-usa
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+      - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+        title: Thermal Emission Imaging System (THEMIS)
+        slug: thermal-emission-imaging-system-themis
+      - node_id: d06b9adf-2715-4597-92be-7a8efd8263e4
+        title: USA, California, Ludlow, Sleeping Beauty (rock formation)
+        slug: california-ludlow-sleeping-beauty-rock-formation-usa
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch16:57846-58041
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: d8bda004-a6a7-41dd-a71b-5ad206d7315c
+    claim_hash: 6cc558384648c9614879dab0944de59e8c0025393fae7ed73c171db3ec56a9ac
+    content: The Internet Archive ceased tracking changes to the Thermal Emission Imaging System (THEMIS) Arizona State University
+      image release pages within a few months of Richard C. Hoagland's investigation obtaining Wayback Machine data on the
+      Cydonia infrared image page.
+    original_excerpt: Within a few months of our obtaining the Wayback Machine data on the Cydonia IR page, the Internet Archive
+      ceased tracking changes to any of the THEMIS ASU image release pages.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 509cef26-0c30-40a7-9f18-36bb45770e5c
+        title: Wayback Machine
+        slug: wayback-machine
+      - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+        title: Keith Laney
+        slug: keith-laney
+      - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+        title: Thermal Emission Imaging System (THEMIS)
+        slug: thermal-emission-imaging-system-themis
+      - node_id: d1d9aed9-75b9-4b33-a6ae-ad4d0c4b3ad2
+        title: Internet Archive
+        slug: internet-archive
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch17:100144-100314
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f2fcdbac-0404-48ed-aae6-4d644a367a03
+    claim_hash: 2a7cd274fa81089854949c7bcbedbf310a522745cb233615f93fe3e605fd785d
+    content: The Face on Mars appears to disappear in a Thermal Emission Imaging System nighttime infrared emission image
+      released by Arizona State University when compared to the daytime infrared reflectance image, an effect attributed to
+      the nighttime image being taken during deep Cydonian winter contrary to official Arizona State University statements,
+      combined with deliberately added pixel noise.
+    original_excerpt: Fig. 10-5 -The Face on Mars mysteriously "disappears" in this THEMIS nighttime IR emission image (R)
+      released by ASU, compared to daytime IR reflectance image. This is due to nighttime image being taken in deep Cydonian
+      winter (contrary to official ASU statements), in addition to deliberately- added "pixel noise" (ASU/Enterprise Mission)
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: figure caption (Enterprise Mission)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 242f3cc4-6031-41b3-888d-91639576f420
+        title: Enterprise Mission
+        slug: enterprise-mission
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+      - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+        title: Thermal Emission Imaging System (THEMIS)
+        slug: thermal-emission-imaging-system-themis
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch17:102450-102781
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e9166e73-fc3c-4b6f-ad91-3feafb001670
+    claim_hash: fced142c75fab23b8fcbe7fb1102b3a79e18f8dae062a206a6d168b215c50025
+    content: A Wayback Machine screen capture shows that the Arizona State University Thermal Emission Imaging System webpage
+      containing the 'real' Cydonia infrared image was altered just hours after Keith Laney downloaded the 'real' infrared
+      data from the official Arizona State University Thermal Emission Imaging System site.
+    original_excerpt: Fig. 10-7 - Screen capture from the "Wayback Machine" - archive Website showing ASU-THEMIS page containing
+      the "real" Cydonia IR image was *altered* just hours after Keith Laney downloaded the "real" IR data from the official
+      ASU-THEMIS site.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: figure caption (Wayback Machine)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 509cef26-0c30-40a7-9f18-36bb45770e5c
+        title: Wayback Machine
+        slug: wayback-machine
+      - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+        title: Keith Laney
+        slug: keith-laney
+      - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+        title: Thermal Emission Imaging System (THEMIS)
+        slug: thermal-emission-imaging-system-themis
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch17:103064-103301
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 254d9308-02bd-4b86-b192-05be6dc14c92
+    claim_hash: 47e4c380f66bc4aba7c9d9a96b857af309c81c10f56ccc7fa54d6701adb9b89b
+    content: Arizona State University and Philip Christensen, Principal Investigator of the Thermal Emission Imaging System,
+      have repeatedly and officially denied that the webpage containing the 'real' Cydonia infrared image was ever altered.
+    original_excerpt: ASU and Dr. Philip Christensen (THEMIS-PI) have repeatedly (and officially) denied this crucial page
+      was ever altered (Wayback Machine)
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Arizona State University and Philip Christensen
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+        title: Thermal Emission Imaging System (THEMIS)
+        slug: thermal-emission-imaging-system-themis
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+      - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+        title: Philip Christensen
+        slug: philip-christensen
+    date: null
+    date_end: null
+    location_in_record: ch17:103307-103434
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b6647453-eaba-47f6-a948-f9c4b8e211d4
+    claim_hash: f100a1cda7d5c9c8f81b1b38fb65c495bd7d35bf9f4c9209c3b30da566fc4c83
+    content: The bulletin board user "Bamf" was identified as Noel Gorelick, who claimed in his online Enterprise Mission
+      bulletin board profile to be the manager of Arizona State University's Mars Computation Center.
+    original_excerpt: that suspicion only deepened when we discovered that “Bamf” was in fact none other than Noel Gorelick—who
+      claimed (in his on-line Enterprise BBS profile) to be the manager of Arizona State University’s Mars Computation Center.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
+        title: Noel Gorelick
+        slug: noel-gorelick
+      - node_id: 242f3cc4-6031-41b3-888d-91639576f420
+        title: Enterprise Mission
+        slug: enterprise-mission
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch17:4992-5211
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e3b56df5-1bba-48c6-abaa-1c92eee17068
+    claim_hash: dead0246890f599564493641ca6c8736d0701e9aa78e15a19430209511ab2c49
+    content: Mike Bara found Noel Gorelick's contact information in the Arizona State University phone directory and called
+      him on the afternoon of 2002-09-06.
+    original_excerpt: one of the authors (Bara) called him... It took no time at all to find Noel Gorelick in the ASU phone
+      directory. Bara called him the afternoon of September 6, 2002.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
+        title: Noel Gorelick
+        slug: noel-gorelick
+      - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+        title: Mike Bara
+        slug: mike-bara
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: '2002-09-06'
+    date_end: null
+    location_in_record: ch17:52892-53050
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 16b7b8f4-9220-40d6-8115-44796acbc0b6
+    claim_hash: df0ab9ee12c84d66d12053368a9c6e7787c89cc2bd18c8ce0ba09ed89dfcb86d
+    content: Instead of the agreed multispectral analysis, Mark Carlotto subjected the official ASU version of the Cydonia
+      THEMIS image to a series of contrast and blur filters in an attempt to show that the Laney image was a degraded version
+      of the official one.
+    original_excerpt: Carlotto decided instead to take the “official” version of the Cydonia THEMIS image and subject it to
+      a series of contrast and blur filters in an apparent attempt to “prove” that the Laney image was generated by degrading
+      the official one.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+        title: Keith Laney
+        slug: keith-laney
+      - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+        title: Thermal Emission Imaging System (THEMIS)
+        slug: thermal-emission-imaging-system-themis
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+        title: Mark C. Carlotto
+        slug: mark-c-carlotto
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch17:61999-62234
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 0e55149e-1d78-48dd-b363-cc26ea27e028
+    claim_hash: 81827f8e8a77b57ac520efdbd98f5c5d313609f4ecff1404e74434ee9fe2b82d
+    content: Mark Carlotto concluded that the similarity of the Laney image to the 'real' top-left image strongly suggested
+      that the Enterprise Mission image was an altered version of the Arizona State University image.
+    original_excerpt: This led him to conclude “its similarity to the top left [“real”] image strongly suggests that the Enterprise
+      image is an altered version of the ASU image.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+      title: Mark C. Carlotto
+    provenance_chain:
+      origin_kind: named
+      origin: Mark Carlotto
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 242f3cc4-6031-41b3-888d-91639576f420
+        title: Enterprise Mission
+        slug: enterprise-mission
+      - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+        title: Mark C. Carlotto
+        slug: mark-c-carlotto
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch17:62411-62560
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: cca71d59-8fe4-4bfa-ad37-852a1d6a122f
+    claim_hash: bd26c46364661d209c1b5db2759ae4250e77b75d66ecab7cb0665f4c00c0ca53
+    content: Mark Carlotto claimed that because the Laney image changes from band to band in the unratioed grayscale it is
+      a distorted version of the official Arizona State University release.
+    original_excerpt: He then goes on to claim that because the Laney image changes from band to band in the unratioed grayscale
+      it is a “distorted” version of the “official” ASU release.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+      title: Mark C. Carlotto
+    provenance_chain:
+      origin_kind: named
+      origin: Mark Carlotto
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+        title: Keith Laney
+        slug: keith-laney
+      - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+        title: Mark C. Carlotto
+        slug: mark-c-carlotto
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch17:62569-62726
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 8cf8922f-cef7-445a-9b7d-398fa29eda8e
+    claim_hash: 1663fa83cf2dda18ccb9702f28da2585d631a0787e2e352f7e40982054505be5
+    content: Mark Carlotto parroted the position of Philip Christensen of Arizona State University in declaring that the Laney
+      Cydonia data was degraded.
+    original_excerpt: In effect, Carlotto had simply parroted the position of Dr. Phillip  Christensen of ASU by declaring
+      that the Laney data is “degraded,”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+        title: Keith Laney
+        slug: keith-laney
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+        title: Mark C. Carlotto
+        slug: mark-c-carlotto
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+      - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+        title: Philip Christensen
+        slug: philip-christensen
+    date: null
+    date_end: null
+    location_in_record: ch17:66727-66852
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 29abd840-f6ba-4a2d-8850-bf8b9199614a
+    claim_hash: e3d9701dd67c9268c44ff44d8a2a9b37c196655f2c466b65c4ab49cc62ec7109
+    content: On 2002-10-31, Arizona State University released what was claimed to be a nighttime infrared image of Cydonia.
+    original_excerpt: On October 31, 2002—Halloween no less, the same pagan holiday that marked the “birth” of JPL—ASU released
+      what they alleged was a nighttime infrared image of Cydonia.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: '2002-10-31'
+    date_end: null
+    location_in_record: ch17:70310-70468
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 76eaaa6b-3eae-48cf-8b85-9af7c7a129fe
+    claim_hash: b522ccca9f3d7eacc95d61873376a041313e83bb991ca03747f32ba88ee6f3c6
+    content: The official Arizona State University caption for the paired daytime and nighttime Thermal Emission Imaging System
+      (THEMIS) infrared images of the Face on Mars stated that the nighttime image was acquired on 2002-10-24 and the daytime
+      image was originally released on 2002-07-24, both of THEMIS's ninth infrared band at 12.57 microns, geometrically projected
+      for image registration.
+    original_excerpt: “This pair of THEMIS infrared images shows the so-called ‘Face on Mars’ landform viewed during both
+      the day and night. The nighttime THEMIS IR image was acquired on October 24, 2002; the daytime image was originally
+      released on July 24, 2002. Both images are of THEMIS’s ninth IR band (12.57 microns), and they have been geometrically
+      projected for image registration.”
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Arizona State University official image caption
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+      - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+        title: Thermal Emission Imaging System (THEMIS)
+        slug: thermal-emission-imaging-system-themis
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: '2002-10-24'
+    date_end: null
+    location_in_record: ch17:71072-71426
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f3d058c6-c9fa-4c96-b1ed-9ed3165a679c
+    claim_hash: 1ad69796a8eba515221c568abb266ca169f1622415df8a909495409b66421e87
+    content: The original Arizona State University graphic for the 2002-07-24 daytime infrared release listed band nine's
+      centre wavelength as 12.58 microns, while the 2002-10-31 comparison graphic cited the same band as 12.57 microns.
+    original_excerpt: Band nine of the July 24 daytime IR is listed on the original ASU graphic as being “12.58 microns”;
+      but on the October 31 comparison, it’s cited as “12.57 microns.”
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: '2002-07-24'
+    date_end: null
+    location_in_record: ch17:71559-71714
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 85111c87-d04f-43cf-9d22-d1b81a9551bd
+    claim_hash: 164dbf0c20ab3c0d903db2b770205bf10b63130838153f6e57c2c13fa076f60e
+    content: National Aeronautics and Space Administration (NASA), Arizona State University and Jet Propulsion Laboratory
+      (JPL) had maintained for months that there was only one version of the 2002-07-24 Cydonia infrared image, before the
+      2002-10-31 release revealed two demonstrably different footprints.
+    original_excerpt: Two verifiably different image “footprints,” for what had been categorically maintained by NASA, ASU
+      and JPL for months as only one July 24 image.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: '2002-07-24'
+    date_end: null
+    location_in_record: ch17:72343-72483
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 34edfb80-547c-4041-9499-b987ecc1739e
+    claim_hash: caf7368f28ed8fb5dd7e34e6a7cddeb7e4a47826cac1851bc0e9d2dd27f6541a
+    content: According to the official Arizona State University October 31 release caption, the daytime scene of the nighttime
+      Cydonia image ranges in temperature from -50 degrees Celsius (darkest) to -15 degrees Celsius (brightest).
+    original_excerpt: '"The temperature in the daytime scene ranges from -50° C (darkest) to -15° C (brightest).'
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Arizona State University
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9abfe749-31a1-4154-a5a8-31320fde248f
+        title: Thermal Emission Imaging System (THEMIS) nighttime Cydonia Infrared (IR) image 20021031A
+        slug: thermal-emission-imaging-system-themis-nighttime-cydonia-infrared-ir-image-20021031a
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch17:82749-82826
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f9e0063e-fc24-47f4-ae5b-3484272120b2
+    claim_hash: 3353cc46a8806ad3f313ec85f6704291ec83b2a9d6de8880d054c1cc143c1a89
+    content: According to the official Arizona State University October 31 release caption for the nighttime Cydonia image,
+      nighttime temperatures vary from approximately -90 degrees Celsius (darkest) to -7 degrees Celsius (warmest).
+    original_excerpt: The temperatures at night vary from approximately -90° C (darkest) to -7° C (warmest)…
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Arizona State University
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9abfe749-31a1-4154-a5a8-31320fde248f
+        title: Thermal Emission Imaging System (THEMIS) nighttime Cydonia Infrared (IR) image 20021031A
+        slug: thermal-emission-imaging-system-themis-nighttime-cydonia-infrared-ir-image-20021031a
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: '2002-10-31'
+    date_end: null
+    location_in_record: ch17:82997-83074
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 126cfb25-02e8-4fce-a7dc-5ce1cec22fdd
+    claim_hash: 0690a72cd5bd7ac671848ce7f889b2f463f87af6800b3957aa7606c14507b5cb
+    content: In the newest NASA/JPL/Arizona State University release, the Face on Mars almost completely disappears when comparing
+      the daytime infrared image from July 24 with the nighttime October 31 counterpart.
+    original_excerpt: The most striking "Cydonia anomaly" in the newest NASA/JPL/ASU release is the almost complete "disappearance"
+      of the Face. In a side-by-side presentation, the Face—as seen in the July 24 daytime IR image (left), compared with
+      its nighttime "October 31" counterpart (right), is almost completely missing
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 16aa5c4e-7521-46ac-9138-af0143459e21
+        title: Thermal Emission Imaging System (THEMIS) Cydonia multispectral image 20020724A
+        slug: thermal-emission-imaging-system-themis-cydonia-multispectral-image-20020724a
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+      - node_id: 9abfe749-31a1-4154-a5a8-31320fde248f
+        title: Thermal Emission Imaging System (THEMIS) nighttime Cydonia Infrared (IR) image 20021031A
+        slug: thermal-emission-imaging-system-themis-nighttime-cydonia-infrared-ir-image-20021031a
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch17:84783-85078
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 3f44185a-ea39-4df7-9de3-8ab1e029ac20
+    claim_hash: 966480aa7cb012280ba1025c276c3b6eb5a0db3d7b43cd41223d44d6907ac214
+    content: A random check of about fifty of the approximately two hundred nighttime images then displayed on the Arizona
+      State University THEMIS archive website revealed only one other image acquired with all nine infrared bands in the entire
+      THEMIS library.
+    original_excerpt: A random check of about fifty (of the approximately two hundred nighttime) images then displayed on
+      the ASU THEMIS archive website revealed only one other image which was acquired with all nine bands in the entire THEMIS
+      library.
+    claim_type: measurement
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+        title: Thermal Emission Imaging System (THEMIS)
+        slug: thermal-emission-imaging-system-themis
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch17:93135-93358
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2080258d-122b-41c3-aeaa-5324c757329d
+    claim_hash: 76e21be63fdbe0e5a2f963251184514b7c94cd648485e762e513b847fd75e750
+    content: Philip Christensen became highly agitated and paced back and forth across the stage as Mike Bara asked whether
+      the original Cydonia daytime infrared image, posted on the Arizona State University website on 2002-07-24, had ever
+      been changed.
+    original_excerpt: Christensen himself became highly agitated. He began pacing back and forth across the stage as Bara
+      asked him if the original Cydonia daytime infrared image, which was posted on the ASU website on July 24, 2002 had ever
+      been changed.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+        title: Mike Bara
+        slug: mike-bara
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+      - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+        title: Philip Christensen
+        slug: philip-christensen
+    date: '2003-07-23'
+    date_end: null
+    location_in_record: ch17:97492-97717
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 5ce3be74-c8cd-46de-b869-97af184fb41a
+    claim_hash: 1a0e6829828209266cb3111eb8a33ee124d5cc350e470dc9c3ebd402c458fe7a
+    content: When Mike Bara asked Philip Christensen for clarification on whether the data posted on the Arizona State University
+      THEMIS website had been changed after 2002-07-24, Christensen again emphatically answered no.
+    original_excerpt: 'Just to be sure, Bara asked for clarification on the most crucial point: had the data that was posted
+      on the ASU THEMIS website been changed after July 24, 2002? Christensen again emphatically answered "no."'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+      title: Philip Christensen
+    provenance_chain:
+      origin_kind: speaker
+      origin: Philip Christensen
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+        title: Mike Bara
+        slug: mike-bara
+      - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+        title: Thermal Emission Imaging System (THEMIS)
+        slug: thermal-emission-imaging-system-themis
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+      - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+        title: Philip Christensen
+        slug: philip-christensen
+    date: '2003-07-23'
+    date_end: null
+    location_in_record: ch17:98619-98822
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c4745996-d80c-46dc-971e-ecbea504124d
+    claim_hash: 3645b5e4acbb9cbdf4aaad293f178753c6fd44162b6e3b5f766a777a2dd24aa9
+    content: Using the Internet Archive's Wayback Machine search tool on the URL of the daytime Cydonia infrared image, Richard
+      C. Hoagland's team found that the Arizona State University THEMIS website page, managed by Noel Gorelick, had originally
+      been posted on 2002-07-24 and was subsequently altered in the early morning hours of 2002-07-26.
+    original_excerpt: Using a search engine called the "Wayback Machine," we had been able to plug in the URL of the daytime
+      Cydonia infrared image. It had shown that, contrary to Christensen's previous e-mail statements and contrary to his
+      latest public statements, the ASU website containing the image created and managed by Christensen's lieutenant Noel
+      Gorelick had been originally posted on July 24, 2002, and had subsequently been altered in the early morning hours of
+      July 26, 2002
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
+        title: Noel Gorelick
+        slug: noel-gorelick
+      - node_id: 509cef26-0c30-40a7-9f18-36bb45770e5c
+        title: Wayback Machine
+        slug: wayback-machine
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: d1d9aed9-75b9-4b33-a6ae-ad4d0c4b3ad2
+        title: Internet Archive
+        slug: internet-archive
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+      - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+        title: Philip Christensen
+        slug: philip-christensen
+    date: '2002-07-26'
+    date_end: null
+    location_in_record: ch17:99144-99609
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f90de821-6c89-4866-a06d-6772b6dae66d
+    claim_hash: a6d6481cc1aa480754e12498d725998233124c1dd163c84e19e88282ada7053a
+    content: Image V0 3814003 was taken by the Mars Odyssey camera at 4:39 a.m. local Martian (Cydonia) time.
+    original_excerpt: we can immediately ascertain that it was taken by the Odyssey camera at 4:39 a.m., local Martian (Cydonia)
+      time
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Arizona State University THEMIS website data block for image V0 3814003
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b37dffd-3141-4b55-a371-69047a7f2b80
+        title: Mars Odyssey
+        slug: mars-odyssey
+      - node_id: 1d9b7e8f-aea4-49b4-8979-292bf1bf8c33
+        title: Mars Reconnaissance Orbiter (MRO)/Odyssey image V0 3814003
+        slug: mars-reconnaissance-orbiter-mroodyssey-image-v0-3814003
+      - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+        title: Thermal Emission Imaging System (THEMIS)
+        slug: thermal-emission-imaging-system-themis
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch18:1910-2017
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 44dfb5d9-a11a-4e50-b72a-5ff01931418b
+    claim_hash: 891c0b949a939f5286802e2454a9cbeb34ab13869a725c4bd1697c9954510ee2
+    content: The Mars Odyssey image release used in Fig. 11-1 is officially designated MRO/Odyssey image V0 3814003.
+    original_excerpt: The Odyssey image release is officially designated JPL/ASU V0 3814003.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1d9b7e8f-aea4-49b4-8979-292bf1bf8c33
+        title: Mars Reconnaissance Orbiter (MRO)/Odyssey image V0 3814003
+        slug: mars-reconnaissance-orbiter-mroodyssey-image-v0-3814003
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch18:423-485
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 10572492-f27e-4b7c-ac2a-753b4dabcd41
+    claim_hash: a498dc67dff60cf2091310c5b51f6e7dc542095f19efac40d9a311c6bd4de7eb
+    content: Figure 11-1 in Dark Mission is a composite image made from a May 2001 Mars Global Surveyor black-and-white image
+      and a July 2003 Mars Odyssey five-band colour image, showing anomalously bright, geometrically aligned structural elements
+      on the eastern side of the Face on Mars, credited to Arizona State University, Keith Laney, and Richard C. Hoagland.
+    original_excerpt: Fig. 11-1 - Composite image made from May 2001 MGS B&W image, and July 2003 Mars Odyssey 2001 five-band
+      color image. Note anomalously bright, geometrically aligned, *structural* elements on eastern side (R) (ASU/Laney/Hoagland)
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Arizona State University / Keith Laney / Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b37dffd-3141-4b55-a371-69047a7f2b80
+        title: Mars Odyssey
+        slug: mars-odyssey
+      - node_id: 25fe7742-340f-4caf-a384-a1cb67f12712
+        title: Fig. 11-1 (Dark Mission)
+        slug: fig-11-1-dark-mission
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+      - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+        title: Keith Laney
+        slug: keith-laney
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+      - node_id: ebc2fbf6-f823-4e08-a812-4feb7a6ea00a
+        title: 2001-05 Face image, Mars Global Surveyor
+        slug: mars-global-surveyor-2001-05-face-image
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch18:57232-57450
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: af96ba29-41c1-4fd5-a007-355c68bafa33
+    claim_hash: bc034f2ee087eb2ff58466f1f7acd3328f1c19d2fbebe5d189eb5d9a9bbc4000
+    content: MRO/Odyssey image V0 3814003 is a five-band colour infrared image showing highly anomalous lighting of the Face
+      on Mars and the D&M Pyramid, even in the pre-dawn conditions of the image.
+    original_excerpt: Fig. 11-2 - Grayscale version of five-band color IR image V0 3814003. Note highly anomalous lighting
+      of the Face and D&M, even in this “pre-dawn” image. (ASU)
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Arizona State University
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1d9b7e8f-aea4-49b4-8979-292bf1bf8c33
+        title: Mars Reconnaissance Orbiter (MRO)/Odyssey image V0 3814003
+        slug: mars-reconnaissance-orbiter-mroodyssey-image-v0-3814003
+      - node_id: 4b287c34-4bb7-4bad-b3a3-7c5aaa2e21a8
+        title: D&M Pyramid
+        slug: dm-pyramid
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch18:57470-57624
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c84e9d03-044c-43c4-971d-0c91140812cd
+    claim_hash: 3701a6e2e17904439c851edeffc429ecc6e8c745a2704fb63215620a16543c32
+    content: The unique lighting geometry of the pre-dawn MRO/Odyssey image V0 3814003 reveals the same underlying architectural
+      substructure of the Face on Mars detected at much lower resolution in a nighttime Thermal Emission Imaging System (THEMIS)
+      infrared image.
+    original_excerpt: Unique lighting geometry of this *pre-dawn* image acts like an x-ray, optically revealing the same underlying
+      architectural substructure of the Face seen at much lower resolution (10 X) detected in nighttime THEMIS IR image (ASU).
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Arizona State University
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1d9b7e8f-aea4-49b4-8979-292bf1bf8c33
+        title: Mars Reconnaissance Orbiter (MRO)/Odyssey image V0 3814003
+        slug: mars-reconnaissance-orbiter-mroodyssey-image-v0-3814003
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+      - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+        title: Thermal Emission Imaging System (THEMIS)
+        slug: thermal-emission-imaging-system-themis
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch18:58102-58327
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: abf69551-d962-4043-bf43-0f5838908ce6
+    claim_hash: 164df6eae93cbcc4e7cbd9836aa7cc23518208276e65d2bb050e35d7728863c9
+    content: Mark Robinson of Arizona State University is the Principal Investigator of the Lunar Reconnaissance Orbiter Camera
+      system.
+    original_excerpt: The “PI” (Principal Investigator) of the LRO camera system (LROC) is Dr. Mark Robinson, of Arizona State
+      University.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6779a975-be54-45ce-a4cc-e884de091510
+        title: Mark Robinson
+        slug: mark-robinson
+      - node_id: b8a55a41-221e-4a25-a384-d5322ffdcbec
+        title: Lunar Reconnaissance Orbiter (LRO)
+        slug: lunar-reconnaissance-orbiter-lro
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: ch6:29189-29294
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: cd31734d-45bf-40a5-8af8-9b3833ce119a
+    claim_hash: 04c5acd1ccca33fbcf645d126d33ee03c081a3d4bd01979e487312b8eaafd502
+    content: NASA maintains an archive of more recent, higher-resolution scans of the Apollo films, managed by Arizona State
+      University and Johnson Space Center, called the March to the Moon Archive.
+    original_excerpt: NASA has an archive of more recent scans of the Apollo films. It's managed by Arizona State University
+      and the Johnson Space Center. It's called the March to the Moon Archive.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+      title: Maaneli "Max" Derakhshani
+    provenance_chain:
+      origin_kind: speaker
+      origin: Maaneli "Max" Derakhshani
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e2896bd-52d2-4362-903a-9657f86117ae
+        title: Johnson Space Center
+        slug: johnson-space-center
+      - node_id: 58500467-0776-4993-b9a8-343465210e2c
+        title: March to the Moon Archive
+        slug: march-to-the-moon-archive
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+        title: Arizona State University
+        slug: arizona-state-university
+    date: null
+    date_end: null
+    location_in_record: 00:03:49.1-00:04:02.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null

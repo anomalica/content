@@ -9,322 +9,322 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2088
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
 related_nodes:
-- node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
-  title: Timothy Cooper
-  node_type: person
-  slug: timothy-cooper
-  shared_claims: 4
-- node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-  title: Jonathan Caplan
-  node_type: person
-  slug: jonathan-caplan
-  shared_claims: 3
-- node_id: 93df8d48-8068-409a-a198-27e923af6cde
-  title: Majestic 12 (MJ-12)
-  node_type: project
-  slug: majestic-12-mj-12
-  shared_claims: 2
-- node_id: 8784e981-b45a-4459-8cd9-56c3fcb8eb2d
-  title: Robert M. Wood
-  node_type: person
-  slug: robert-m-wood
-  shared_claims: 2
-- node_id: 6260d48c-d517-49e6-be1a-ab4b0482f4b6
-  title: Classification Review of All UFO Intelligence Files Affecting National Security
-    (memo)
-  node_type: document
-  slug: classification-review-of-all-ufo-intelligence-files-affecting-national-security-memo
-  shared_claims: 1
-- node_id: b5e3b4f7-fc14-4c03-bc06-d8bf1fefdf3c
-  title: Speckin Laboratory
-  node_type: organisation
-  slug: speckin-laboratory
-  shared_claims: 1
-claims:
-- claim_id: d306babe-8d16-4580-ba04-76189e8f2cbd
-  claim_hash: 5a560a00853865777073585a01473fd839952fdaf47a67f4c59cc5721336ae97
-  content: Robert M. Wood and Ryan Wood consider the "Classification Review of All
-    UFO Intelligence Files Affecting National Security" memo to have a "medium-high"
-    (about 80%) probability of being authentic.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Robert M. Wood and Ryan Wood
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+  - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
+    title: Timothy Cooper
+    node_type: person
+    slug: timothy-cooper
+    shared_claims: 4
+  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+    node_type: person
+    slug: jonathan-caplan
+    shared_claims: 3
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    node_type: project
+    slug: majestic-12-mj-12
+    shared_claims: 2
+  - node_id: 8784e981-b45a-4459-8cd9-56c3fcb8eb2d
+    title: Robert M. Wood
+    node_type: person
+    slug: robert-m-wood
+    shared_claims: 2
   - node_id: 6260d48c-d517-49e6-be1a-ab4b0482f4b6
-    title: Classification Review of All UFO Intelligence Files Affecting National
-      Security (memo)
+    title: Classification Review of All UFO Intelligence Files Affecting National Security (memo)
+    node_type: document
     slug: classification-review-of-all-ufo-intelligence-files-affecting-national-security-memo
-  - node_id: 8784e981-b45a-4459-8cd9-56c3fcb8eb2d
-    title: Robert M. Wood
-    slug: robert-m-wood
-  - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
-    title: Ryan Wood
-    slug: ryan-wood
-  date: null
-  date_end: null
-  location_in_record: '45'
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 2bbc318f-bf29-4d93-91c6-659b5dfaa803
-  claim_hash: b64a57c38ac31c02424e34f8460a63f27d11ccec88769723dd757771c3e7feec
-  content: Jonathan Caplan obtained key new documents that had been held by Ryan Wood,
-    a keeper of the Majestic 12 archive.
-  original_excerpt: And you've obtained key new documents that were held by Ryan Wood,
-    who's one of the keepers of the MJ-12 archive.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
-    title: Ryan Wood
-    slug: ryan-wood
-  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
-    title: Majestic 12 (MJ-12)
-    slug: majestic-12-mj-12
-  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-    slug: jonathan-caplan
-  date: null
-  date_end: null
-  location_in_record: 00:28:57.5-00:29:06.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 257ab5fd-3aac-41a6-ae11-50eee1a68cc4
-  claim_hash: 22d10de095030e224e838c3e615137b365f87f40e75632c4c77fddfc9ed34724
-  content: Jonathan Caplan met with Ryan Wood in Washington about two years before
-    this interview and asked him whether Timothy Cooper had handed over all the Majestic
-    12 documents to his father.
-  original_excerpt: The two documents that are new came about because when I was in
-    Washington about two years ago, I met with Ryan Wood And I asked him whether he
-    felt that Tim Cooper had handed over all the Majestic documents to his father
-    when his father visited him and obtained the original tranche.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jonathan Caplan
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
-    title: Timothy Cooper
-    slug: timothy-cooper
-  - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
-    title: Ryan Wood
-    slug: ryan-wood
-  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
-    title: Majestic 12 (MJ-12)
-    slug: majestic-12-mj-12
-  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-    slug: jonathan-caplan
-  date: null
-  date_end: null
-  location_in_record: 00:29:39.8-00:30:05.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: c1d71c2c-e4e7-4912-8caa-7ab9da22f5f2
-  claim_hash: 16ccace9ef6110df9333f98db5257de7470b5cc69876385136c6c0309b69d3cf
-  content: It was decided that Ryan Wood would revisit Timothy Cooper's house, since
-    Cooper had not been very cooperative and had withdrawn from the subject.
-  original_excerpt: So it was decided that Ryan would go back and visit Tim Cooper's
-    house, who had not been very cooperative since and has really withdrawn from the
-    subject.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jonathan Caplan
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
-    title: Timothy Cooper
-    slug: timothy-cooper
-  - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
-    title: Ryan Wood
-    slug: ryan-wood
-  date: null
-  date_end: null
-  location_in_record: 00:30:21.5-00:30:30.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 4c640f9a-431b-4099-9f6f-abba5842e015
-  claim_hash: 103f396a031ac334f493568c46382b85b841e61e247d281a5c4a3c369d14dac7
-  content: Ryan Wood went back to the Cooper household, where Timothy Cooper had recently
-    died, and Cooper's son agreed that Ryan Wood could have access to his father's
-    files.
-  original_excerpt: And Ryan did go back to the Cooper household. Unfortunately, Tim
-    had died quite recently, but his son was there and agreed that Ryan could have
-    access to his father's files.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jonathan Caplan
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
-    title: Timothy Cooper
-    slug: timothy-cooper
-  - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
-    title: Ryan Wood
-    slug: ryan-wood
-  date: null
-  date_end: null
-  location_in_record: 00:30:34.3-00:30:47.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 4ec96e8e-e0dc-4211-898a-2617b5b0f474
-  claim_hash: 103c45912cd63655f1730cac50602d66866651c7a736bd480f9e548e586ab725
-  content: Among Timothy Cooper's files, Jonathan Caplan and Ryan Wood found two new
-    documents that had not previously been disclosed.
-  original_excerpt: And amongst the files, we found two new, well, I say new documents
-    that hadn't been disclosed before.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jonathan Caplan
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
-    title: Timothy Cooper
-    slug: timothy-cooper
-  - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
-    title: Ryan Wood
-    slug: ryan-wood
-  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-    slug: jonathan-caplan
-  date: null
-  date_end: null
-  location_in_record: 00:30:49.2-00:30:55.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 3e4b714a-af2b-460d-a474-58a933566bd3
-  claim_hash: f94a3d09171492bfa6c291e168a9ea39b18fb020a1f750ff862494018375196f
-  content: Robert Wood and Ryan Wood took the Lancer document to the Speckin Laboratory,
-    which confirmed that the inks and paper on it are of the period and that the watermark
-    is of government issue.
-  original_excerpt: I know that the Woods took it to a laboratory, the Speckin Laboratory,
-    who confirm that the inks on it and the paper are of that period and that the
-    watermark is of government issue.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: named
-    origin: Speckin Laboratory
-    relay:
-    - report to Robert Wood and Ryan Wood
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 8784e981-b45a-4459-8cd9-56c3fcb8eb2d
-    title: Robert M. Wood
-    slug: robert-m-wood
-  - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
-    title: Ryan Wood
-    slug: ryan-wood
+    shared_claims: 1
   - node_id: b5e3b4f7-fc14-4c03-bc06-d8bf1fefdf3c
     title: Speckin Laboratory
+    node_type: organisation
     slug: speckin-laboratory
-  date: null
-  date_end: null
-  location_in_record: 01:01:32.7-01:01:46.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
+    shared_claims: 1
+claims:
+  - claim_id: d306babe-8d16-4580-ba04-76189e8f2cbd
+    claim_hash: 5a560a00853865777073585a01473fd839952fdaf47a67f4c59cc5721336ae97
+    content: Robert M. Wood and Ryan Wood consider the "Classification Review of All UFO Intelligence Files Affecting National
+      Security" memo to have a "medium-high" (about 80%) probability of being authentic.
+    original_excerpt: the document... is considered by them to have a “medium-high” (about 80%) probability of being authentic
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert M. Wood and Ryan Wood
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6260d48c-d517-49e6-be1a-ab4b0482f4b6
+        title: Classification Review of All UFO Intelligence Files Affecting National Security (memo)
+        slug: classification-review-of-all-ufo-intelligence-files-affecting-national-security-memo
+      - node_id: 8784e981-b45a-4459-8cd9-56c3fcb8eb2d
+        title: Robert M. Wood
+        slug: robert-m-wood
+      - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
+        title: Ryan Wood
+        slug: ryan-wood
+    date: null
+    date_end: null
+    location_in_record: '45'
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2bbc318f-bf29-4d93-91c6-659b5dfaa803
+    claim_hash: b64a57c38ac31c02424e34f8460a63f27d11ccec88769723dd757771c3e7feec
+    content: Jonathan Caplan obtained key new documents that had been held by Ryan Wood, a keeper of the Majestic 12 archive.
+    original_excerpt: And you've obtained key new documents that were held by Ryan Wood, who's one of the keepers of the MJ-12
+      archive.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
+        title: Ryan Wood
+        slug: ryan-wood
+      - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+        title: Majestic 12 (MJ-12)
+        slug: majestic-12-mj-12
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+    date: null
+    date_end: null
+    location_in_record: 00:28:57.5-00:29:06.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 257ab5fd-3aac-41a6-ae11-50eee1a68cc4
+    claim_hash: 22d10de095030e224e838c3e615137b365f87f40e75632c4c77fddfc9ed34724
+    content: Jonathan Caplan met with Ryan Wood in Washington about two years before this interview and asked him whether
+      Timothy Cooper had handed over all the Majestic 12 documents to his father.
+    original_excerpt: The two documents that are new came about because when I was in Washington about two years ago, I met
+      with Ryan Wood And I asked him whether he felt that Tim Cooper had handed over all the Majestic documents to his father
+      when his father visited him and obtained the original tranche.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
+        title: Timothy Cooper
+        slug: timothy-cooper
+      - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
+        title: Ryan Wood
+        slug: ryan-wood
+      - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+        title: Majestic 12 (MJ-12)
+        slug: majestic-12-mj-12
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+    date: null
+    date_end: null
+    location_in_record: 00:29:39.8-00:30:05.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: c1d71c2c-e4e7-4912-8caa-7ab9da22f5f2
+    claim_hash: 16ccace9ef6110df9333f98db5257de7470b5cc69876385136c6c0309b69d3cf
+    content: It was decided that Ryan Wood would revisit Timothy Cooper's house, since Cooper had not been very cooperative
+      and had withdrawn from the subject.
+    original_excerpt: So it was decided that Ryan would go back and visit Tim Cooper's house, who had not been very cooperative
+      since and has really withdrawn from the subject.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
+        title: Timothy Cooper
+        slug: timothy-cooper
+      - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
+        title: Ryan Wood
+        slug: ryan-wood
+    date: null
+    date_end: null
+    location_in_record: 00:30:21.5-00:30:30.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 4c640f9a-431b-4099-9f6f-abba5842e015
+    claim_hash: 103f396a031ac334f493568c46382b85b841e61e247d281a5c4a3c369d14dac7
+    content: Ryan Wood went back to the Cooper household, where Timothy Cooper had recently died, and Cooper's son agreed
+      that Ryan Wood could have access to his father's files.
+    original_excerpt: And Ryan did go back to the Cooper household. Unfortunately, Tim had died quite recently, but his son
+      was there and agreed that Ryan could have access to his father's files.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
+        title: Timothy Cooper
+        slug: timothy-cooper
+      - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
+        title: Ryan Wood
+        slug: ryan-wood
+    date: null
+    date_end: null
+    location_in_record: 00:30:34.3-00:30:47.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 4ec96e8e-e0dc-4211-898a-2617b5b0f474
+    claim_hash: 103c45912cd63655f1730cac50602d66866651c7a736bd480f9e548e586ab725
+    content: Among Timothy Cooper's files, Jonathan Caplan and Ryan Wood found two new documents that had not previously been
+      disclosed.
+    original_excerpt: And amongst the files, we found two new, well, I say new documents that hadn't been disclosed before.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
+        title: Timothy Cooper
+        slug: timothy-cooper
+      - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
+        title: Ryan Wood
+        slug: ryan-wood
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+    date: null
+    date_end: null
+    location_in_record: 00:30:49.2-00:30:55.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 3e4b714a-af2b-460d-a474-58a933566bd3
+    claim_hash: f94a3d09171492bfa6c291e168a9ea39b18fb020a1f750ff862494018375196f
+    content: Robert Wood and Ryan Wood took the Lancer document to the Speckin Laboratory, which confirmed that the inks and
+      paper on it are of the period and that the watermark is of government issue.
+    original_excerpt: I know that the Woods took it to a laboratory, the Speckin Laboratory, who confirm that the inks on
+      it and the paper are of that period and that the watermark is of government issue.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: named
+      origin: Speckin Laboratory
+      relay:
+        - report to Robert Wood and Ryan Wood
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8784e981-b45a-4459-8cd9-56c3fcb8eb2d
+        title: Robert M. Wood
+        slug: robert-m-wood
+      - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
+        title: Ryan Wood
+        slug: ryan-wood
+      - node_id: b5e3b4f7-fc14-4c03-bc06-d8bf1fefdf3c
+        title: Speckin Laboratory
+        slug: speckin-laboratory
+    date: null
+    date_end: null
+    location_in_record: 01:01:32.7-01:01:46.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null

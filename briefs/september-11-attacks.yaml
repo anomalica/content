@@ -9,554 +9,562 @@ page:
   claim_count: 12
   claim_count_total: 12
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 12
+  tokens_estimated: 3576
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 12
 related_nodes:
-- node_id: 9c54b292-77a5-47ef-9869-0e6be9e8184b
-  title: One World Trade Center
-  node_type: object
-  slug: one-world-trade-center
-  shared_claims: 3
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 2
-- node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-  title: Federal Bureau of Investigation (FBI)
-  node_type: organisation
-  slug: federal-bureau-of-investigation-fbi
-  shared_claims: 2
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 2
-- node_id: 7850827c-3e46-4655-9410-f05eb95170c8
-  title: Al Qaeda
-  node_type: organisation
-  slug: al-qaeda
-  shared_claims: 1
-- node_id: 2acf45fc-91f9-4565-9e36-929c510689b4
-  title: Alex Elizondo
-  node_type: person
-  slug: alex-elizondo
-  shared_claims: 1
-- node_id: ebb576c0-41d4-43e7-9d36-68222b2f8e14
-  title: American Airlines Flight 77
-  node_type: object
-  slug: american-airlines-flight-77
-  shared_claims: 1
-- node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
-  title: Billy Meier
-  node_type: person
-  slug: billy-meier
-  shared_claims: 1
-- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-  title: Christopher K. Mellon
-  node_type: person
-  slug: christopher-k-mellon
-  shared_claims: 1
-- node_id: b069c13f-d0de-4441-82c4-4a9d17148afc
-  title: Cuba, Guantanamo Bay, Camp 7
-  node_type: place
-  slug: guantanamo-bay-camp-7-cuba
-  shared_claims: 1
-- node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
-  title: Iraq
-  node_type: place
-  slug: iraq
-  shared_claims: 1
-- node_id: d9532953-68e1-4f10-bfc3-a62ab2c428bc
-  title: Jennifer
-  node_type: person
-  slug: jennifer
-  shared_claims: 1
-- node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-  title: Julia Mossbridge
-  node_type: person
-  slug: julia-mossbridge
-  shared_claims: 1
-- node_id: da65eb3a-4370-4668-9c76-ab07175fca5e
-  title: Quetzal
-  node_type: person
-  slug: quetzal
-  shared_claims: 1
-- node_id: c2161b8f-ab11-449c-8521-174024cb0552
-  title: USA, Washington DC, Pentagon
-  node_type: place
-  slug: washington-dc-pentagon-usa
-  shared_claims: 1
-- node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-  title: informational substrate
-  node_type: topic
-  slug: informational-substrate
-  shared_claims: 1
-- node_id: 93c3f513-e320-4d7e-bb43-a343cd220d03
-  title: the Holocaust
-  node_type: event
-  slug: the-holocaust
-  shared_claims: 1
-claims:
-- claim_id: c66c3c05-5487-4173-bf95-7f192ebfa17a
-  claim_hash: efdfa064741b1c60ae4a7bff72e85cd8686b34ae198307b3f9d1b4b523783eb4
-  content: Three months after Jennifer Elizondo and Alex Elizondo were released from
-    the hospital following Alex Elizondo's premature birth, the September 11 attacks
-    occurred.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2acf45fc-91f9-4565-9e36-929c510689b4
-    title: Alex Elizondo
-    slug: alex-elizondo
-  - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
-    title: September 11 attacks
-    slug: september-11-attacks
-  - node_id: d9532953-68e1-4f10-bfc3-a62ab2c428bc
-    title: Jennifer
-    slug: jennifer
-  date: '2001-09-11'
-  date_end: null
-  location_in_record: ch17:21970-22068
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 555250fe-fc03-48f2-a76f-6254ffc4ad1f
-  claim_hash: 9987508f411df342813775271db7b77f29cc2f1618120b136373300cbdeefffb
-  content: Two months after the September 11 attacks, Luis D. Elizondo III received
-    orders to deploy to a secret location in Uzbekistan called Karshi-Khanabad (K-2).
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
-    title: September 11 attacks
-    slug: september-11-attacks
-  date: 2001-11
-  date_end: null
-  location_in_record: ch17:22072-22214
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 164103b5-f9e3-49c5-a6d6-d544b004cde3
-  claim_hash: fd8df096c99d2bfc6dd00ff9009ef19a6d1c21d3938c6e89a8da62d0c41b5a12
-  content: Camp 7 in Guantanamo Bay held some of the worst terrorists, including those
-    who admitted involvement in the September 11 attacks.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: b069c13f-d0de-4441-82c4-4a9d17148afc
-    title: Cuba, Guantanamo Bay, Camp 7
-    slug: guantanamo-bay-camp-7-cuba
-  - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
-    title: September 11 attacks
-    slug: september-11-attacks
-  date: null
-  date_end: null
-  location_in_record: ch20:8812-8945
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 69b57bbc-41eb-4480-bc6a-6d9284e7ee2f
-  claim_hash: d666087f4cb6337daf6c24a9e84165dc2e874c92a413cf677cd83dbd30423cf8
-  content: Lue Elizondo considered that the September 11 attacks could have been prevented
-    had agencies including the Central Intelligence Agency (CIA) and the Federal Bureau
-    of Investigation (FBI) shared their information about Al Qaeda together.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+  - node_id: 9c54b292-77a5-47ef-9869-0e6be9e8184b
+    title: One World Trade Center
+    node_type: object
+    slug: one-world-trade-center
+    shared_claims: 3
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
+    node_type: organisation
     slug: central-intelligence-agency-cia
+    shared_claims: 2
+  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+    title: Federal Bureau of Investigation (FBI)
+    node_type: organisation
+    slug: federal-bureau-of-investigation-fbi
+    shared_claims: 2
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 2
   - node_id: 7850827c-3e46-4655-9410-f05eb95170c8
     title: Al Qaeda
+    node_type: organisation
     slug: al-qaeda
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
-    title: September 11 attacks
-    slug: september-11-attacks
-  date: null
-  date_end: null
-  location_in_record: ch21:3588-3895
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 5db39e76-5447-4278-81a1-cf01613d6cd7
-  claim_hash: 1d1c0fa6c0580a062d4da51b30086ecfcc948b825bc4805cf149fbaaebb4b7a8
-  content: Luis Elizondo's emails and files had been flagged as evidence in the criminal
-    prosecution of those charged in connection with the September 11 attacks.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
-    title: September 11 attacks
-    slug: september-11-attacks
-  date: null
-  date_end: null
-  location_in_record: ch29:28428-28559
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 0ba97adc-5bbf-44dc-a31d-8d140da6c376
-  claim_hash: f3faf7d40e43a117c694b2af8b968e20d04d7482fa0bb40d246dc8fc1fff30f9
-  content: Thousands of lives lost in the September 11 attacks might have been spared
-    if the CIA and FBI had shared information.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-  provenance_chain:
-    origin_kind: speaker
-    origin: Christopher Mellon
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-    title: Federal Bureau of Investigation (FBI)
-    slug: federal-bureau-of-investigation-fbi
-  - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
-    title: September 11 attacks
-    slug: september-11-attacks
-  date: '2001-09-11'
-  date_end: null
-  location_in_record: ch6:14322-14471
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: b73e8996-4ecf-46ed-ab6a-a8727d9e5dc2
-  claim_hash: fb1b482b9af1d1f9ca83fee1c0dd9b227dab53a514515e00a33efc1288df03ef
-  content: Christopher Mellon was in the Pentagon when American Airlines Flight 77
-    struck the building on 2001-09-11.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-  provenance_chain:
-    origin_kind: speaker
-    origin: Christopher Mellon
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-    slug: christopher-k-mellon
-  - node_id: c2161b8f-ab11-449c-8521-174024cb0552
-    title: USA, Washington DC, Pentagon
-    slug: washington-dc-pentagon-usa
-  - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
-    title: September 11 attacks
-    slug: september-11-attacks
+    shared_claims: 1
+  - node_id: 2acf45fc-91f9-4565-9e36-929c510689b4
+    title: Alex Elizondo
+    node_type: person
+    slug: alex-elizondo
+    shared_claims: 1
   - node_id: ebb576c0-41d4-43e7-9d36-68222b2f8e14
     title: American Airlines Flight 77
+    node_type: object
     slug: american-airlines-flight-77
-  date: '2001-09-11'
-  date_end: null
-  location_in_record: ch6:14484-14595
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 4d3de993-4e61-4102-b82d-f5bf3e37a3e8
-  claim_hash: b927ef9acd145c7c1c43f299f72932171e3cfd7a6b701f81c280910cfbf5837a
-  content: The September 11 attacks were exploited to justify an unnecessary invasion
-    of Iraq.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-  provenance_chain:
-    origin_kind: speaker
-    origin: Christopher Mellon
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
-    title: Iraq
-    slug: iraq
-  - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
-    title: September 11 attacks
-    slug: september-11-attacks
-  date: null
-  date_end: null
-  location_in_record: ch6:14668-14861
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 1c860092-f3d4-414b-b9cb-06f845574a4d
-  claim_hash: 95a0de027953a3176618f105156e825d6c6acefce53a2cb28546bbfbbc305f71
-  content: The Henoch Prophecies were written in German in 1987 with the first English
-    version appearing around 2002, and they describe the destruction of the World
-    Trade Center, which occurred in 2001.
-  original_excerpt: it's in German, supposedly in 87, but the first English is in
-    2002, I think. And it talks about the destruction of the World Trade Center, but
-    that happened in 2001.
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
-    title: Michael Horn
-  provenance_chain: null
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9c54b292-77a5-47ef-9869-0e6be9e8184b
-    title: One World Trade Center
-    slug: one-world-trade-center
-  - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
-    title: September 11 attacks
-    slug: september-11-attacks
-  date: null
-  date_end: null
-  location_in_record: 01:19:39.9-01:19:53.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
-    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
-      ep. 92
-    record_date: '2026-06-12'
-    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
-    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
-    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
-- claim_id: c7d9eea6-137e-4174-a81e-a7a6e29358b2
-  claim_hash: bfb7636cebbdd725f8fab26365b04aea9e1d74f52418dc74fcb0d816be3e7f23
-  content: The Henoch Prophecies state the destruction of the World Trade Center by
-    terrorists in 2001.
-  original_excerpt: The destruction of the WTC by terrorists in 2001 is in there.
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
-    title: Michael Horn
-  provenance_chain: null
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9c54b292-77a5-47ef-9869-0e6be9e8184b
-    title: One World Trade Center
-    slug: one-world-trade-center
-  - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
-    title: September 11 attacks
-    slug: september-11-attacks
-  date: '2001'
-  date_end: null
-  location_in_record: 01:20:33.1-01:20:41.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
-    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
-      ep. 92
-    record_date: '2026-06-12'
-    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
-    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
-    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
-- claim_id: f6c56a83-101b-4918-a333-12147400a0b8
-  claim_hash: f54d9c47391d3487c14ac40db1a3fa377e06728fd73ff4f07ba0356049c50c53
-  content: In 1989 Billy Meier was told in a conversation with Quetzal that terrorists
-    would fly airplanes into the World Trade Center buildings and that about 3,000
-    people would be killed.
-  original_excerpt: 1989, he's also told again, terrorists will fly airplanes into
-    these buildings. There's a conversation with Quetzal, one of the other ETs...
-    yes, there will be 3,000 people or so that will be killed.
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
-    title: Michael Horn
-  provenance_chain: null
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9c54b292-77a5-47ef-9869-0e6be9e8184b
-    title: One World Trade Center
-    slug: one-world-trade-center
+    shared_claims: 1
   - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
     title: Billy Meier
+    node_type: person
     slug: billy-meier
-  - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
-    title: September 11 attacks
-    slug: september-11-attacks
-  - node_id: da65eb3a-4370-4668-9c76-ab07175fca5e
-    title: Quetzal
-    slug: quetzal
-  date: '1989'
-  date_end: null
-  location_in_record: 01:20:46.6-01:20:58.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
-    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
-      ep. 92
-    record_date: '2026-06-12'
-    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
-    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
-    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
-- claim_id: 30844621-b54c-4313-873b-8a1531ddf8a3
-  claim_hash: 8f61b249f92b07655668d76654f53750c256a91b48e90489fa624a609019bfad
-  content: Julia Mossbridge acknowledges that her informational substrate model implies
-    whatever happens was the best possible outcome, an implication she finds hard
-    to face when applied to the Holocaust and the September 11 attacks.
-  original_excerpt: So the problem with this that people don't like is it ends up
-    suggesting that whatever happens was the best possible outcome. ... And so then
-    it's like, oh, so the Holocaust was, so 9-11 was the best possible outcome. You
-    know, that's like a pretty horrible thing to come up against.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Julia Mossbridge
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-    title: informational substrate
-    slug: informational-substrate
+    shared_claims: 1
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    node_type: person
+    slug: christopher-k-mellon
+    shared_claims: 1
+  - node_id: b069c13f-d0de-4441-82c4-4a9d17148afc
+    title: Cuba, Guantanamo Bay, Camp 7
+    node_type: place
+    slug: guantanamo-bay-camp-7-cuba
+    shared_claims: 1
+  - node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
+    title: Iraq
+    node_type: place
+    slug: iraq
+    shared_claims: 1
+  - node_id: d9532953-68e1-4f10-bfc3-a62ab2c428bc
+    title: Jennifer
+    node_type: person
+    slug: jennifer
+    shared_claims: 1
   - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
     title: Julia Mossbridge
+    node_type: person
     slug: julia-mossbridge
+    shared_claims: 1
+  - node_id: da65eb3a-4370-4668-9c76-ab07175fca5e
+    title: Quetzal
+    node_type: person
+    slug: quetzal
+    shared_claims: 1
+  - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+    title: USA, Washington DC, Pentagon
+    node_type: place
+    slug: washington-dc-pentagon-usa
+    shared_claims: 1
+  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+    title: informational substrate
+    node_type: topic
+    slug: informational-substrate
+    shared_claims: 1
   - node_id: 93c3f513-e320-4d7e-bb43-a343cd220d03
     title: the Holocaust
+    node_type: event
     slug: the-holocaust
-  - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
-    title: September 11 attacks
-    slug: september-11-attacks
-  date: null
-  date_end: null
-  location_in_record: 02:56:20.3-02:56:37.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
+    shared_claims: 1
+claims:
+  - claim_id: c66c3c05-5487-4173-bf95-7f192ebfa17a
+    claim_hash: efdfa064741b1c60ae4a7bff72e85cd8686b34ae198307b3f9d1b4b523783eb4
+    content: Three months after Jennifer Elizondo and Alex Elizondo were released from the hospital following Alex Elizondo's
+      premature birth, the September 11 attacks occurred.
+    original_excerpt: Three months after mother and daughter were released from the hospital, the twin towers fell on 9/11
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2acf45fc-91f9-4565-9e36-929c510689b4
+        title: Alex Elizondo
+        slug: alex-elizondo
+      - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+        title: September 11 attacks
+        slug: september-11-attacks
+      - node_id: d9532953-68e1-4f10-bfc3-a62ab2c428bc
+        title: Jennifer
+        slug: jennifer
+    date: '2001-09-11'
+    date_end: null
+    location_in_record: ch17:21970-22068
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 555250fe-fc03-48f2-a76f-6254ffc4ad1f
+    claim_hash: 9987508f411df342813775271db7b77f29cc2f1618120b136373300cbdeefffb
+    content: Two months after the September 11 attacks, Luis D. Elizondo III received orders to deploy to a secret location
+      in Uzbekistan called Karshi-Khanabad (K-2).
+    original_excerpt: two months later, I got the orders to saddle up for a mission to a secret location in Uzbekistan called
+      Kashi Kannibad, otherwise known as “K-2.”
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+        title: September 11 attacks
+        slug: september-11-attacks
+    date: 2001-11
+    date_end: null
+    location_in_record: ch17:22072-22214
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 164103b5-f9e3-49c5-a6d6-d544b004cde3
+    claim_hash: fd8df096c99d2bfc6dd00ff9009ef19a6d1c21d3938c6e89a8da62d0c41b5a12
+    content: Camp 7 in Guantanamo Bay held some of the worst terrorists, including those who admitted involvement in the September
+      11 attacks.
+    original_excerpt: This was the most notoriously secure prison, Camp 7, which held some of the worst terrorists, those
+      who admitted to involvement in 9/11.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b069c13f-d0de-4441-82c4-4a9d17148afc
+        title: Cuba, Guantanamo Bay, Camp 7
+        slug: guantanamo-bay-camp-7-cuba
+      - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+        title: September 11 attacks
+        slug: september-11-attacks
+    date: null
+    date_end: null
+    location_in_record: ch20:8812-8945
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 69b57bbc-41eb-4480-bc6a-6d9284e7ee2f
+    claim_hash: d666087f4cb6337daf6c24a9e84165dc2e874c92a413cf677cd83dbd30423cf8
+    content: Lue Elizondo considered that the September 11 attacks could have been prevented had agencies including the Central
+      Intelligence Agency (CIA) and the Federal Bureau of Investigation (FBI) shared their information about Al Qaeda together.
+    original_excerpt: I thought about 9/11 and how it could have been prevented if agencies had shared information. In that
+      case, you had CIA with information, FBI with information, other organizations with information, and frankly, if they
+      shared it all together, they may have prevented the Al Qaeda attack.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 7850827c-3e46-4655-9410-f05eb95170c8
+        title: Al Qaeda
+        slug: al-qaeda
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+        title: September 11 attacks
+        slug: september-11-attacks
+    date: null
+    date_end: null
+    location_in_record: ch21:3588-3895
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 5db39e76-5447-4278-81a1-cf01613d6cd7
+    claim_hash: 1d1c0fa6c0580a062d4da51b30086ecfcc948b825bc4805cf149fbaaebb4b7a8
+    content: Luis Elizondo's emails and files had been flagged as evidence in the criminal prosecution of those charged in
+      connection with the September 11 attacks.
+    original_excerpt: My emails and files had been flagged as evidence in a criminal prosecution of those criminally charged
+      for being responsible for 9/11.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+        title: September 11 attacks
+        slug: september-11-attacks
+    date: null
+    date_end: null
+    location_in_record: ch29:28428-28559
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 0ba97adc-5bbf-44dc-a31d-8d140da6c376
+    claim_hash: f3faf7d40e43a117c694b2af8b968e20d04d7482fa0bb40d246dc8fc1fff30f9
+    content: Thousands of lives lost in the September 11 attacks might have been spared if the CIA and FBI had shared information.
+    original_excerpt: On September 11, 2001, America suffered the loss of thousands of lives that might have been spared if
+      the CIA and FBI had only been willing to share information.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+        title: September 11 attacks
+        slug: september-11-attacks
+    date: '2001-09-11'
+    date_end: null
+    location_in_record: ch6:14322-14471
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b73e8996-4ecf-46ed-ab6a-a8727d9e5dc2
+    claim_hash: fb1b482b9af1d1f9ca83fee1c0dd9b227dab53a514515e00a33efc1288df03ef
+    content: Christopher Mellon was in the Pentagon when American Airlines Flight 77 struck the building on 2001-09-11.
+    original_excerpt: I was in the Pentagon when American Airlines Flight 77 struck the building, so that failure was burned
+      into my memory.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+        title: USA, Washington DC, Pentagon
+        slug: washington-dc-pentagon-usa
+      - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+        title: September 11 attacks
+        slug: september-11-attacks
+      - node_id: ebb576c0-41d4-43e7-9d36-68222b2f8e14
+        title: American Airlines Flight 77
+        slug: american-airlines-flight-77
+    date: '2001-09-11'
+    date_end: null
+    location_in_record: ch6:14484-14595
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 4d3de993-4e61-4102-b82d-f5bf3e37a3e8
+    claim_hash: b927ef9acd145c7c1c43f299f72932171e3cfd7a6b701f81c280910cfbf5837a
+    content: The September 11 attacks were exploited to justify an unnecessary invasion of Iraq.
+    original_excerpt: thousands of US military personnel later died, along with tens or hundreds of thousands of innocent
+      civilians, because this tragedy was exploited to justify an entirely unnecessary invasion of Iraq...
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
+        title: Iraq
+        slug: iraq
+      - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+        title: September 11 attacks
+        slug: september-11-attacks
+    date: null
+    date_end: null
+    location_in_record: ch6:14668-14861
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1c860092-f3d4-414b-b9cb-06f845574a4d
+    claim_hash: 95a0de027953a3176618f105156e825d6c6acefce53a2cb28546bbfbbc305f71
+    content: The Henoch Prophecies were written in German in 1987 with the first English version appearing around 2002, and
+      they describe the destruction of the World Trade Center, which occurred in 2001.
+    original_excerpt: it's in German, supposedly in 87, but the first English is in 2002, I think. And it talks about the
+      destruction of the World Trade Center, but that happened in 2001.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c54b292-77a5-47ef-9869-0e6be9e8184b
+        title: One World Trade Center
+        slug: one-world-trade-center
+      - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+        title: September 11 attacks
+        slug: september-11-attacks
+    date: null
+    date_end: null
+    location_in_record: 01:19:39.9-01:19:53.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+  - claim_id: c7d9eea6-137e-4174-a81e-a7a6e29358b2
+    claim_hash: bfb7636cebbdd725f8fab26365b04aea9e1d74f52418dc74fcb0d816be3e7f23
+    content: The Henoch Prophecies state the destruction of the World Trade Center by terrorists in 2001.
+    original_excerpt: The destruction of the WTC by terrorists in 2001 is in there.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c54b292-77a5-47ef-9869-0e6be9e8184b
+        title: One World Trade Center
+        slug: one-world-trade-center
+      - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+        title: September 11 attacks
+        slug: september-11-attacks
+    date: '2001'
+    date_end: null
+    location_in_record: 01:20:33.1-01:20:41.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+  - claim_id: f6c56a83-101b-4918-a333-12147400a0b8
+    claim_hash: f54d9c47391d3487c14ac40db1a3fa377e06728fd73ff4f07ba0356049c50c53
+    content: In 1989 Billy Meier was told in a conversation with Quetzal that terrorists would fly airplanes into the World
+      Trade Center buildings and that about 3,000 people would be killed.
+    original_excerpt: 1989, he's also told again, terrorists will fly airplanes into these buildings. There's a conversation
+      with Quetzal, one of the other ETs... yes, there will be 3,000 people or so that will be killed.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c54b292-77a5-47ef-9869-0e6be9e8184b
+        title: One World Trade Center
+        slug: one-world-trade-center
+      - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
+        title: Billy Meier
+        slug: billy-meier
+      - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+        title: September 11 attacks
+        slug: september-11-attacks
+      - node_id: da65eb3a-4370-4668-9c76-ab07175fca5e
+        title: Quetzal
+        slug: quetzal
+    date: '1989'
+    date_end: null
+    location_in_record: 01:20:46.6-01:20:58.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+  - claim_id: 30844621-b54c-4313-873b-8a1531ddf8a3
+    claim_hash: 8f61b249f92b07655668d76654f53750c256a91b48e90489fa624a609019bfad
+    content: Julia Mossbridge acknowledges that her informational substrate model implies whatever happens was the best possible
+      outcome, an implication she finds hard to face when applied to the Holocaust and the September 11 attacks.
+    original_excerpt: So the problem with this that people don't like is it ends up suggesting that whatever happens was the
+      best possible outcome. ... And so then it's like, oh, so the Holocaust was, so 9-11 was the best possible outcome. You
+      know, that's like a pretty horrible thing to come up against.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+        title: informational substrate
+        slug: informational-substrate
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: 93c3f513-e320-4d7e-bb43-a343cd220d03
+        title: the Holocaust
+        slug: the-holocaust
+      - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+        title: September 11 attacks
+        slug: september-11-attacks
+    date: null
+    date_end: null
+    location_in_record: 02:56:20.3-02:56:37.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

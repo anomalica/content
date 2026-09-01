@@ -9,742 +9,761 @@ page:
   claim_count: 18
   claim_count_total: 18
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 18
+  tokens_estimated: 5813
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 18
 related_nodes:
-- node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-  title: Ryan Graves
-  node_type: person
-  slug: ryan-graves
-  shared_claims: 3
-- node_id: c59c3e0a-c46d-4c6e-af81-aee0d8a57be7
-  title: USS Theodore Roosevelt
-  node_type: object
-  slug: uss-theodore-roosevelt
-  shared_claims: 3
-- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-  title: Christopher K. Mellon
-  node_type: person
-  slug: christopher-k-mellon
-  shared_claims: 2
-- node_id: 225c66f3-5c29-4780-819c-59b78a852e50
-  title: FA-18 Super Hornet
-  node_type: object
-  slug: fa-18-super-hornet
-  shared_claims: 2
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 1
-- node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
-  title: AN/APG-79 Radar
-  node_type: object
-  slug: anapg-79-radar
-  shared_claims: 1
-- node_id: 6e2178d1-eb43-4478-af19-d3ed0084ca42
-  title: E-2D Hawkeye
-  node_type: object
-  slug: e-2d-hawkeye
-  shared_claims: 1
-- node_id: e57005b4-b10f-49a9-872f-61f00312b820
-  title: Gimbal video
-  node_type: document
-  slug: gimbal-video
-  shared_claims: 1
-- node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
-  title: Go-Fast Video
-  node_type: document
-  slug: go-fast-video
-  shared_claims: 1
-- node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
-  title: Iraq
-  node_type: place
-  slug: iraq
-  shared_claims: 1
-- node_id: 55459f30-c842-4720-821c-188ec51d3dfe
-  title: Islamic State (ISIS)
-  node_type: organisation
-  slug: islamic-state-isis
-  shared_claims: 1
-- node_id: b7c5c268-027a-4a53-98c4-a0c3f914ed00
-  title: Persian Gulf
-  node_type: place
-  slug: persian-gulf
-  shared_claims: 1
-- node_id: 78f0d7e9-522b-4720-8992-43c6677550f5
-  title: Syria
-  node_type: place
-  slug: syria
-  shared_claims: 1
-- node_id: 73cc3a89-f69d-43f8-8ebd-a4f8814f9ea3
-  title: Tyler Rogoway
-  node_type: person
-  slug: tyler-rogoway
-  shared_claims: 1
-- node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-  title: USS Nimitz (CVN-68)
-  node_type: object
-  slug: uss-nimitz-cvn-68
-  shared_claims: 1
-- node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
-  title: Washington Post
-  node_type: organisation
-  slug: washington-post
-  shared_claims: 1
-claims:
-- claim_id: 37ae5e5f-ee53-4676-ac1f-31fead26e7ea
-  claim_hash: 0bbd16a43f45ca02c5911d61393b329bc43d1d95f061c12b692fe9cf94dac018
-  content: Very few people have spoken publicly about the 2014-2015 East Coast UAP
-    encounters.
-  original_excerpt: the 2014 case, very few people have spoken about it.
-  claim_type: opinion
-  attestation: null
-  speaker:
-    node_id: 7eaac853-d863-4210-af67-e165485c02e9
-    title: Lex Fridman
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-  date: null
-  date_end: null
-  location_in_record: 01:14:08.9-01:14:12.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: c00cd3b9-fa38-424b-a0a3-754ff9854383
-  claim_hash: 75717d934c5317d8a88bb4bf0b46a9f80b22e23edb212d90d4d37fae0e044f47
-  content: The Gimbal video was almost certainly filmed sometime in late 2014 or early
-    2015 off the east coast of the United States.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-  - node_id: e57005b4-b10f-49a9-872f-61f00312b820
-    title: Gimbal video
-    slug: gimbal-video
-  date: null
-  date_end: null
-  location_in_record: ch21:21734-21863
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: c5997056-f7c7-4ca4-9925-58bdfab1e508
-  claim_hash: 9777e5df9c56d6520ffafcdf2c5e03453a3cced15e9c9b287083230580af235a
-  content: Christopher Mellon's Washington Post story revealed that the Go-Fast video
-    was filmed off the east coast of the United States sometime in late 2014 or early
-    2015.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-  provenance_chain:
-    origin_kind: speaker
-    origin: Christopher Mellon
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
-    title: Go-Fast Video
-    slug: go-fast-video
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+    node_type: person
+    slug: ryan-graves
+    shared_claims: 3
+  - node_id: c59c3e0a-c46d-4c6e-af81-aee0d8a57be7
+    title: USS Theodore Roosevelt
+    node_type: object
+    slug: uss-theodore-roosevelt
+    shared_claims: 3
   - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
     title: Christopher K. Mellon
+    node_type: person
     slug: christopher-k-mellon
-  - node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
-    title: Washington Post
-    slug: washington-post
-  date: null
-  date_end: null
-  location_in_record: ch21:23042-23182
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 42f15f1f-f1d7-48db-b912-bba993df731a
-  claim_hash: 9db4f7ece753b9ee9f1924551fc740045fb7a2e786a41b753a31ef9a9872255b
-  content: For weeks, nearly every pilot on almost every mission during the 2014-2015
-    USS Theodore Roosevelt East Coast UAP encounters was tracking strange objects
-    in the sky.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-  date: null
-  date_end: null
-  location_in_record: ch22:1026-1114
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: a3a60b2f-f351-4f5e-9e91-7845b3d1a367
-  claim_hash: 7249cdb961622e8698116feda2780e3c048acc00fe8d3d3a262abd6e94dc9c14
-  content: During the 2014-2015 USS Theodore Roosevelt East Coast UAP encounters,
-    radars showed unknown objects apparently hovering for hours and then flying at
-    instantaneous hypersonic speeds at altitudes ranging from sea level to approximately
-    9,100 metres.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-  date: null
-  date_end: null
-  location_in_record: ch22:1180-1361
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d6e7e881-6c5b-4c5c-a52e-b3505c3b8a56
-  claim_hash: 1ee80cd7bd3fe3176962e34aa02cfd853e02c0ba0c244c6285aa12da71e9f7e1
-  content: Pilots' jets' infrared cameras also picked up the same unidentified objects
-    that appeared on radar during the 2014-2015 USS Theodore Roosevelt East Coast
-    UAP encounters, leading pilots to conclude these were not false radar tracks.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-  date: null
-  date_end: null
-  location_in_record: ch22:1372-1500
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: ec0e8840-aafe-4cc2-88ce-5c019c02630f
-  claim_hash: 0fd912e70ad88445f7877fb3decb19186b0e9ad1346514ba7488a3a90c6e4e8a
-  content: On one occasion during the 2014-2015 USS Theodore Roosevelt East Coast
-    UAP encounters, two fighters were flying barely 30 metres apart when an anomalous
-    object hurtled through the gap between them.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Ryan Graves
-    relay:
-    - an anonymous pilot colleague who experienced the incident
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-    title: Ryan Graves
-    slug: ryan-graves
-  date: null
-  date_end: null
-  location_in_record: ch22:1863-2032
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 56fa3908-d548-4a13-91f4-0438b34b7372
-  claim_hash: a9ec834c304cf064838513a229af134ce2f2327937f57312da1f45d4f9e1f6dd
-  content: Ryan Graves said the object that passed between the two jets was a translucent
-    sphere, described as 'a giant soap bubble', with a cube inside touching the sphere's
-    outer edge, relayed to him by his anonymous pilot colleague who experienced the
-    near-miss.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-    title: Ryan Graves
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to be a navy fighter pilot colleague of Ryan Graves
-    relay:
-    - Ryan Graves
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-    title: Ryan Graves
-    slug: ryan-graves
-  date: null
-  date_end: null
-  location_in_record: ch22:2038-2399
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 34568746-2b6e-49b4-95a2-6de6e6e9e67d
-  claim_hash: 3c328e4a5c2fa7f69492413c979554e3e58f6ff1ceec32c94e00c16dc5a347e9
-  content: Christopher Mellon said the cube-inside-a-sphere object seen by the pilots
-    was perhaps 1.8 to 3 metres across, transparent like a soap bubble with a black
-    cube inside whose edges touched the interior of the bubble.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-  provenance_chain:
-    origin_kind: named
-    origin: Christopher Mellon
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-    slug: christopher-k-mellon
-  date: null
-  date_end: null
-  location_in_record: ch22:2462-2754
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 954d60d5-7825-49eb-9ebf-e1be01489808
-  claim_hash: 216f7ed2d472d01c7216b367fd2cf525b6d00875b9a0b7431a07d051909d8479
-  content: In late 2014, two pilots in Super Hornet F/A-18 fighter jets were training
-    for imminent combat operations in the Middle East as part of a carrier strike
-    group led by the USS Theodore Roosevelt.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 2
   - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
     title: FA-18 Super Hornet
+    node_type: object
     slug: fa-18-super-hornet
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-  - node_id: c59c3e0a-c46d-4c6e-af81-aee0d8a57be7
-    title: USS Theodore Roosevelt
-    slug: uss-theodore-roosevelt
-  date: '2014'
-  date_end: null
-  location_in_record: ch22:344-593
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: b2e94a80-e819-4624-a0e4-ee4d29c9d4e4
-  claim_hash: a8acf2a54d57d239d6a20e32e085cc6265262a7f67b9c0b08cc2941330eb4453
-  content: As training off the east coast of the United States rolled into 2015, pilots
-    aboard the USS Theodore Roosevelt encountered anomalous objects almost every time
-    they flew.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-  - node_id: c59c3e0a-c46d-4c6e-af81-aee0d8a57be7
-    title: USS Theodore Roosevelt
-    slug: uss-theodore-roosevelt
-  date: '2015'
-  date_end: null
-  location_in_record: ch22:3724-3920
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: df8d28d6-5ed6-450c-823c-0fb9b1096a6b
-  claim_hash: e30ce700d5d9a017171a677bfa5842d365f6c847886e1e75859f78fabf1c1c0e
-  content: Tyler Rogoway wrote that the presence of the mysterious objects in the
-    restricted training airspace off the east coast of the United States was so pervasive
-    that it was largely common knowledge among local flying units.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 73cc3a89-f69d-43f8-8ebd-a4f8814f9ea3
-    title: Tyler Rogoway
-  provenance_chain:
-    origin_kind: named
-    origin: Tyler Rogoway
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-  - node_id: 73cc3a89-f69d-43f8-8ebd-a4f8814f9ea3
-    title: Tyler Rogoway
-    slug: tyler-rogoway
-  date: null
-  date_end: null
-  location_in_record: ch22:4029-4214
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 6a269a37-a40d-487d-b70a-63a3d5b967e9
-  claim_hash: 37a380cf68261475a88df2c0eb68326c5189a60332a7512705abbbdc5bbaa9bb
-  content: Pilots reasoned that the craft they encountered could not be part of a
-    covert US government project because deploying secret new technology against its
-    own pilots without warning would be an immense risk and a flagrant breach of standard
-    operating procedure.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-  date: null
-  date_end: null
-  location_in_record: ch22:5264-5554
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 5facda27-1960-4a99-9001-c20ab15ed49c
-  claim_hash: 17370807978b9ebef08941bb6dc6e32c7b6ba7bff931176377357a57e107f4af
-  content: Ryan Graves said the objects were up in the sky when his flight took off,
-    remained for the duration of his roughly ninety-minute to two-hour flight, and
-    were still there when a fellow pilot took off an hour later.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-    title: Ryan Graves
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ryan Graves
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-    title: Ryan Graves
-    slug: ryan-graves
-  date: null
-  date_end: null
-  location_in_record: ch22:5968-6235
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 0626ab78-0b0d-45d8-9bc5-961e87b11d42
-  claim_hash: 5ec5789c20cf125df81c696ac2e69acba79b543f86b09ad4484709cfb955ea3f
-  content: When the USS Theodore Roosevelt left Florida in March 2015 for the Persian
-    Gulf to join the battle against the Islamic State (ISIS) in Iraq and Syria, unknown
-    craft apparently followed the carrier battle group to the other side of the world.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
-    title: Iraq
-    slug: iraq
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-  - node_id: 55459f30-c842-4720-821c-188ec51d3dfe
-    title: Islamic State (ISIS)
-    slug: islamic-state-isis
-  - node_id: 78f0d7e9-522b-4720-8992-43c6677550f5
-    title: Syria
-    slug: syria
-  - node_id: b7c5c268-027a-4a53-98c4-a0c3f914ed00
-    title: Persian Gulf
-    slug: persian-gulf
-  - node_id: c59c3e0a-c46d-4c6e-af81-aee0d8a57be7
-    title: USS Theodore Roosevelt
-    slug: uss-theodore-roosevelt
-  date: 2015-03
-  date_end: null
-  location_in_record: ch22:6246-6518
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: cc66340d-b159-4c82-a8ab-023a0b1de83c
-  claim_hash: 366e18117a2568505386317680558409541ad2844314aba8363d076760194d44
-  content: Unlike the F/A-18 fighters involved in the 2004 USS Nimitz Tic Tac encounter,
-    the F/A-18 jets in the 2014-2015 USS Theodore Roosevelt encounters had new advanced
-    APG-79 electronic beam scanning radar systems.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
-    title: FA-18 Super Hornet
-    slug: fa-18-super-hornet
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-  - node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
-    title: AN/APG-79 Radar
-    slug: anapg-79-radar
+    shared_claims: 2
   - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
     title: 2004 USS Nimitz UAP encounter
+    node_type: event
     slug: 2004-uss-nimitz-uap-encounter
-  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-    title: USS Nimitz (CVN-68)
-    slug: uss-nimitz-cvn-68
-  date: null
-  date_end: null
-  location_in_record: ch22:652-764
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 67e6e739-1209-4895-b594-f270cebb425d
-  claim_hash: 12c23ab34c82e391c85b3b7492da9182386124524af496bdfa1d23d9206185e8
-  content: Carrier Strike Group Twelve, associated with the 2014-2015 USS Theodore
-    Roosevelt East Coast UAP encounters, had a brand-new integrated data-link capability
-    giving commanders a comprehensive overview of the battlespace.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-  date: null
-  date_end: null
-  location_in_record: ch22:773-946
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: bea1250d-aec0-4b0e-a069-6a2f13686463
-  claim_hash: ec5e335dd84e881b0dfe24607b03f13d50c7a0f02d56c536cf611717dd594b81
-  content: New E-2D Hawkeye airborne early-warning aircraft were in the air during
-    the 2014-2015 USS Theodore Roosevelt East Coast UAP encounters.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+    shared_claims: 1
+  - node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
+    title: AN/APG-79 Radar
+    node_type: object
+    slug: anapg-79-radar
+    shared_claims: 1
   - node_id: 6e2178d1-eb43-4478-af19-d3ed0084ca42
     title: E-2D Hawkeye
+    node_type: object
     slug: e-2d-hawkeye
-  date: null
-  date_end: null
-  location_in_record: ch22:954-1020
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+    title: Gimbal video
+    node_type: document
+    slug: gimbal-video
+    shared_claims: 1
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    node_type: document
+    slug: go-fast-video
+    shared_claims: 1
+  - node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
+    title: Iraq
+    node_type: place
+    slug: iraq
+    shared_claims: 1
+  - node_id: 55459f30-c842-4720-821c-188ec51d3dfe
+    title: Islamic State (ISIS)
+    node_type: organisation
+    slug: islamic-state-isis
+    shared_claims: 1
+  - node_id: b7c5c268-027a-4a53-98c4-a0c3f914ed00
+    title: Persian Gulf
+    node_type: place
+    slug: persian-gulf
+    shared_claims: 1
+  - node_id: 78f0d7e9-522b-4720-8992-43c6677550f5
+    title: Syria
+    node_type: place
+    slug: syria
+    shared_claims: 1
+  - node_id: 73cc3a89-f69d-43f8-8ebd-a4f8814f9ea3
+    title: Tyler Rogoway
+    node_type: person
+    slug: tyler-rogoway
+    shared_claims: 1
+  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+    title: USS Nimitz (CVN-68)
+    node_type: object
+    slug: uss-nimitz-cvn-68
+    shared_claims: 1
+  - node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
+    title: Washington Post
+    node_type: organisation
+    slug: washington-post
+    shared_claims: 1
+claims:
+  - claim_id: 37ae5e5f-ee53-4676-ac1f-31fead26e7ea
+    claim_hash: 0bbd16a43f45ca02c5911d61393b329bc43d1d95f061c12b692fe9cf94dac018
+    content: Very few people have spoken publicly about the 2014-2015 East Coast UAP encounters.
+    original_excerpt: the 2014 case, very few people have spoken about it.
+    claim_type: opinion
+    attestation: null
+    speaker:
+      node_id: 7eaac853-d863-4210-af67-e165485c02e9
+      title: Lex Fridman
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+    date: null
+    date_end: null
+    location_in_record: 01:14:08.9-01:14:12.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: c00cd3b9-fa38-424b-a0a3-754ff9854383
+    claim_hash: 75717d934c5317d8a88bb4bf0b46a9f80b22e23edb212d90d4d37fae0e044f47
+    content: The Gimbal video was almost certainly filmed sometime in late 2014 or early 2015 off the east coast of the United
+      States.
+    original_excerpt: it would later emerge that the Gimbal was almost certainly videoed sometime in late 2014 or early 2015
+      off the east coast of the US
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch21:21734-21863
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c5997056-f7c7-4ca4-9925-58bdfab1e508
+    claim_hash: 9777e5df9c56d6520ffafcdf2c5e03453a3cced15e9c9b287083230580af235a
+    content: Christopher Mellon's Washington Post story revealed that the Go-Fast video was filmed off the east coast of the
+      United States sometime in late 2014 or early 2015.
+    original_excerpt: His story revealed that this latest newly declassified Go-Fast video was filmed off the east coast of
+      the US sometime in late 2014 or early 2015.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
+        title: Washington Post
+        slug: washington-post
+    date: null
+    date_end: null
+    location_in_record: ch21:23042-23182
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 42f15f1f-f1d7-48db-b912-bba993df731a
+    claim_hash: 9db4f7ece753b9ee9f1924551fc740045fb7a2e786a41b753a31ef9a9872255b
+    content: For weeks, nearly every pilot on almost every mission during the 2014-2015 USS Theodore Roosevelt East Coast
+      UAP encounters was tracking strange objects in the sky.
+    original_excerpt: For weeks, every pilot on almost every mission had been tracking strange objects in the sky.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+    date: null
+    date_end: null
+    location_in_record: ch22:1026-1114
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a3a60b2f-f351-4f5e-9e91-7845b3d1a367
+    claim_hash: 7249cdb961622e8698116feda2780e3c048acc00fe8d3d3a262abd6e94dc9c14
+    content: During the 2014-2015 USS Theodore Roosevelt East Coast UAP encounters, radars showed unknown objects apparently
+      hovering for hours and then flying at instantaneous hypersonic speeds at altitudes ranging from sea level to approximately
+      9,100 metres.
+    original_excerpt: they showed unknown objects apparently hovering for hours and then flying at instantaneous hypersonic
+      speeds at altitudes ranging from 30,000 feet to sea level
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+    date: null
+    date_end: null
+    location_in_record: ch22:1180-1361
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d6e7e881-6c5b-4c5c-a52e-b3505c3b8a56
+    claim_hash: 1ee80cd7bd3fe3176962e34aa02cfd853e02c0ba0c244c6285aa12da71e9f7e1
+    content: Pilots' jets' infrared cameras also picked up the same unidentified objects that appeared on radar during the
+      2014-2015 USS Theodore Roosevelt East Coast UAP encounters, leading pilots to conclude these were not false radar tracks.
+    original_excerpt: when their jets’ infrared cameras started picking up the same objects, the pilots realised these were
+      not false radar tracks at all
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+    date: null
+    date_end: null
+    location_in_record: ch22:1372-1500
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ec0e8840-aafe-4cc2-88ce-5c019c02630f
+    claim_hash: 0fd912e70ad88445f7877fb3decb19186b0e9ad1346514ba7488a3a90c6e4e8a
+    content: On one occasion during the 2014-2015 USS Theodore Roosevelt East Coast UAP encounters, two fighters were flying
+      barely 30 metres apart when an anomalous object hurtled through the gap between them.
+    original_excerpt: the two fighters were flying in open skies barely 30 metres apart when, out of nowhere, a mind-bogglingly
+      anomalous object hurtled through the narrow gap that separated them
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Ryan Graves
+      relay:
+        - an anonymous pilot colleague who experienced the incident
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+      - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+        title: Ryan Graves
+        slug: ryan-graves
+    date: null
+    date_end: null
+    location_in_record: ch22:1863-2032
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 56fa3908-d548-4a13-91f4-0438b34b7372
+    claim_hash: a9ec834c304cf064838513a229af134ce2f2327937f57312da1f45d4f9e1f6dd
+    content: Ryan Graves said the object that passed between the two jets was a translucent sphere, described as 'a giant
+      soap bubble', with a cube inside touching the sphere's outer edge, relayed to him by his anonymous pilot colleague who
+      experienced the near-miss.
+    original_excerpt: What the pilots saw was a translucent sphere, like ‘a giant soap bubble’, that passed between the two
+      jets. ‘It was basically a cube inside a sphere with the points of the cube touching the outside of the sphere,’ navy
+      fighter pilot Lieutenant Ryan Graves said of the serious near-miss incident recounted to him by his anonymous pilot
+      colleague who experienced it.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+      title: Ryan Graves
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a navy fighter pilot colleague of Ryan Graves
+      relay:
+        - Ryan Graves
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+      - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+        title: Ryan Graves
+        slug: ryan-graves
+    date: null
+    date_end: null
+    location_in_record: ch22:2038-2399
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 34568746-2b6e-49b4-95a2-6de6e6e9e67d
+    claim_hash: 3c328e4a5c2fa7f69492413c979554e3e58f6ff1ceec32c94e00c16dc5a347e9
+    content: Christopher Mellon said the cube-inside-a-sphere object seen by the pilots was perhaps 1.8 to 3 metres across,
+      transparent like a soap bubble with a black cube inside whose edges touched the interior of the bubble.
+    original_excerpt: 'Christopher Mellon gave more detail about the mysterious cube-inside-a-sphere object seen by the pilots
+      in this incident: ‘They’re perhaps six to ten feet across. And they’re transparent, like a soap bubble with a black
+      cube inside. And the edges of the cube are touching the interior of the bubble . . .’'
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: named
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+    date: null
+    date_end: null
+    location_in_record: ch22:2462-2754
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 954d60d5-7825-49eb-9ebf-e1be01489808
+    claim_hash: 216f7ed2d472d01c7216b367fd2cf525b6d00875b9a0b7431a07d051909d8479
+    content: In late 2014, two pilots in Super Hornet F/A-18 fighter jets were training for imminent combat operations in
+      the Middle East as part of a carrier strike group led by the USS Theodore Roosevelt.
+    original_excerpt: In late 2014, two pilots in Super Hornet F/A-18 fighter jets had been training for imminent combat operations
+      in the Middle East, as part of a carrier strike group led by the nuclear-powered and nuclear-armed flagship aircraft
+      carrier USS Theodore Roosevelt.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
+        title: FA-18 Super Hornet
+        slug: fa-18-super-hornet
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+      - node_id: c59c3e0a-c46d-4c6e-af81-aee0d8a57be7
+        title: USS Theodore Roosevelt
+        slug: uss-theodore-roosevelt
+    date: '2014'
+    date_end: null
+    location_in_record: ch22:344-593
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b2e94a80-e819-4624-a0e4-ee4d29c9d4e4
+    claim_hash: a8acf2a54d57d239d6a20e32e085cc6265262a7f67b9c0b08cc2941330eb4453
+    content: As training off the east coast of the United States rolled into 2015, pilots aboard the USS Theodore Roosevelt
+      encountered anomalous objects almost every time they flew.
+    original_excerpt: The stories from the east coast Roosevelt training exercises revealed how, as the training off the east
+      coast rolled into 2015, pilots encountered these anomalous objects almost every time they flew.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+      - node_id: c59c3e0a-c46d-4c6e-af81-aee0d8a57be7
+        title: USS Theodore Roosevelt
+        slug: uss-theodore-roosevelt
+    date: '2015'
+    date_end: null
+    location_in_record: ch22:3724-3920
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: df8d28d6-5ed6-450c-823c-0fb9b1096a6b
+    claim_hash: e30ce700d5d9a017171a677bfa5842d365f6c847886e1e75859f78fabf1c1c0e
+    content: Tyler Rogoway wrote that the presence of the mysterious objects in the restricted training airspace off the east
+      coast of the United States was so pervasive that it was largely common knowledge among local flying units.
+    original_excerpt: The ‘presence of the mysterious objects in the restricted training airspace off America’s east coast
+      was so pervasive that it was largely common knowledge among local flying units,’ he wrote.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 73cc3a89-f69d-43f8-8ebd-a4f8814f9ea3
+      title: Tyler Rogoway
+    provenance_chain:
+      origin_kind: named
+      origin: Tyler Rogoway
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+      - node_id: 73cc3a89-f69d-43f8-8ebd-a4f8814f9ea3
+        title: Tyler Rogoway
+        slug: tyler-rogoway
+    date: null
+    date_end: null
+    location_in_record: ch22:4029-4214
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6a269a37-a40d-487d-b70a-63a3d5b967e9
+    claim_hash: 37a380cf68261475a88df2c0eb68326c5189a60332a7512705abbbdc5bbaa9bb
+    content: Pilots reasoned that the craft they encountered could not be part of a covert US government project because deploying
+      secret new technology against its own pilots without warning would be an immense risk and a flagrant breach of standard
+      operating procedure.
+    original_excerpt: The pilots rationalised that such a craft could not possibly be part of some covert US government project
+      because the risk involved in deploying secret new technology against your own pilots without warning was immense and
+      a flagrant breach of standard operating procedure.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+    date: null
+    date_end: null
+    location_in_record: ch22:5264-5554
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5facda27-1960-4a99-9001-c20ab15ed49c
+    claim_hash: 17370807978b9ebef08941bb6dc6e32c7b6ba7bff931176377357a57e107f4af
+    content: Ryan Graves said the objects were up in the sky when his flight took off, remained for the duration of his roughly
+      ninety-minute to two-hour flight, and were still there when a fellow pilot took off an hour later.
+    original_excerpt: ‘What’s fascinating and interesting about these objects,’ Graves said, ‘is that they’re up there when
+      we take off, they’re doing their thing for our hour-and-a-half, maybe two-hour flight, and then we land. And my buddy
+      that takes off an hour later is seeing the same things.’
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+      title: Ryan Graves
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ryan Graves
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+      - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+        title: Ryan Graves
+        slug: ryan-graves
+    date: null
+    date_end: null
+    location_in_record: ch22:5968-6235
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0626ab78-0b0d-45d8-9bc5-961e87b11d42
+    claim_hash: 5ec5789c20cf125df81c696ac2e69acba79b543f86b09ad4484709cfb955ea3f
+    content: When the USS Theodore Roosevelt left Florida in March 2015 for the Persian Gulf to join the battle against the
+      Islamic State (ISIS) in Iraq and Syria, unknown craft apparently followed the carrier battle group to the other side
+      of the world.
+    original_excerpt: Perhaps most disturbing of all was that when the USS Theodore Roosevelt left Florida in March of 2015
+      for the Persian Gulf to be part of the battle against ISIS in Iraq and Syria, these unknown craft apparently followed
+      the carrier battle group to the other side of the world.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
+        title: Iraq
+        slug: iraq
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+      - node_id: 55459f30-c842-4720-821c-188ec51d3dfe
+        title: Islamic State (ISIS)
+        slug: islamic-state-isis
+      - node_id: 78f0d7e9-522b-4720-8992-43c6677550f5
+        title: Syria
+        slug: syria
+      - node_id: b7c5c268-027a-4a53-98c4-a0c3f914ed00
+        title: Persian Gulf
+        slug: persian-gulf
+      - node_id: c59c3e0a-c46d-4c6e-af81-aee0d8a57be7
+        title: USS Theodore Roosevelt
+        slug: uss-theodore-roosevelt
+    date: 2015-03
+    date_end: null
+    location_in_record: ch22:6246-6518
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cc66340d-b159-4c82-a8ab-023a0b1de83c
+    claim_hash: 366e18117a2568505386317680558409541ad2844314aba8363d076760194d44
+    content: Unlike the F/A-18 fighters involved in the 2004 USS Nimitz Tic Tac encounter, the F/A-18 jets in the 2014-2015
+      USS Theodore Roosevelt encounters had new advanced APG-79 electronic beam scanning radar systems.
+    original_excerpt: unlike those on the USS Nimitz ten years earlier, they had new advanced APG-79 electronic beam scanning
+      radar systems
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
+        title: FA-18 Super Hornet
+        slug: fa-18-super-hornet
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+      - node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
+        title: AN/APG-79 Radar
+        slug: anapg-79-radar
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: null
+    date_end: null
+    location_in_record: ch22:652-764
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 67e6e739-1209-4895-b594-f270cebb425d
+    claim_hash: 12c23ab34c82e391c85b3b7492da9182386124524af496bdfa1d23d9206185e8
+    content: Carrier Strike Group Twelve, associated with the 2014-2015 USS Theodore Roosevelt East Coast UAP encounters,
+      had a brand-new integrated data-link capability giving commanders a comprehensive overview of the battlespace.
+    original_excerpt: Carrier Strike Group Twelve, as it was known, also had a brand-new integrated data-link capability,
+      giving commanders a comprehensive overview of the battlespace like never before.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+    date: null
+    date_end: null
+    location_in_record: ch22:773-946
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bea1250d-aec0-4b0e-a069-6a2f13686463
+    claim_hash: ec5e335dd84e881b0dfe24607b03f13d50c7a0f02d56c536cf611717dd594b81
+    content: New E-2D Hawkeye airborne early-warning aircraft were in the air during the 2014-2015 USS Theodore Roosevelt
+      East Coast UAP encounters.
+    original_excerpt: New E-2D Hawkeye airborne early-warning aircraft were also in the air.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+      - node_id: 6e2178d1-eb43-4478-af19-d3ed0084ca42
+        title: E-2D Hawkeye
+        slug: e-2d-hawkeye
+    date: null
+    date_end: null
+    location_in_record: ch22:954-1020
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

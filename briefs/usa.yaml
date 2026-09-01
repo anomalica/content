@@ -1,0 +1,501 @@
+schema: anomalica/brief/1
+brief_hash: bc8ae95626b32661ad22ee775040daf651bc2b61ac8db2ebb65d8cff7942a48e
+page:
+  kind: entity
+  node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+  node_type: place
+  title: USA
+  slug: usa
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 9
+  tokens_estimated: 2992
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 9
+related_nodes:
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    node_type: organisation
+    slug: all-domain-anomaly-resolution-office-aaro
+    shared_claims: 1
+  - node_id: 7afe3a5e-5d91-4a48-b48f-3c8c079f2521
+    title: Austria
+    node_type: place
+    slug: austria
+    shared_claims: 1
+  - node_id: 9d2717f8-2bf4-44ee-8e26-e681f1712ef1
+    title: Canada
+    node_type: place
+    slug: canada
+    shared_claims: 1
+  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+    title: Cuba
+    node_type: place
+    slug: cuba
+    shared_claims: 1
+  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+    title: Cuban Missile Crisis (1962-10)
+    node_type: event
+    slug: cuban-missile-crisis-1962-10
+    shared_claims: 1
+  - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
+    title: Germany
+    node_type: place
+    slug: germany
+    shared_claims: 1
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    node_type: place
+    slug: rome-italy
+    shared_claims: 1
+  - node_id: 41d220ff-efcc-494c-b001-e7eb62170208
+    title: Jelena (Medjugorje visionary)
+    node_type: person
+    slug: jelena-medjugorje-visionary
+    shared_claims: 1
+  - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+    title: Liberation Times
+    node_type: organisation
+    slug: liberation-times
+    shared_claims: 1
+  - node_id: 069fd4b2-3a8d-4ac4-a699-32394ad7f0fa
+    title: Linguistic, Regional and Cultural (LRC) capabilities
+    node_type: topic
+    slug: regional-and-cultural-lrc-capabilities-linguistic
+    shared_claims: 1
+  - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+    title: Marian apparitions
+    node_type: topic
+    slug: marian-apparitions
+    shared_claims: 1
+  - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+    title: Mexico, Mexico City
+    node_type: place
+    slug: mexico-city-mexico
+    shared_claims: 1
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    node_type: person
+    slug: michael-hesemann
+    shared_claims: 1
+  - node_id: 6aac2303-8f3d-49cd-8d67-32e9b7720d4e
+    title: Mike Simone
+    node_type: person
+    slug: mike-simone
+    shared_claims: 1
+  - node_id: b64749cd-b815-442f-ad3f-f70906e43f18
+    title: Miracle of the doves (1946)
+    node_type: event
+    slug: miracle-of-the-doves-1946
+    shared_claims: 1
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    node_type: person
+    slug: nikita-khrushchev
+    shared_claims: 1
+  - node_id: cebcae00-a0bc-48aa-939f-80d5527e8a45
+    title: Pilgrimage of the Statue of Our Lady of Fatima through Europe, the United States, and Canada (1947)
+    node_type: event
+    slug: the-united-states-and-canada-1947-pilgrimage-of-the-statue-of-our-lady-of-fatima-through-europe
+    shared_claims: 1
+  - node_id: 39fedea5-7e5d-4af4-a829-bf842f70d142
+    title: Spain, Garabandal
+    node_type: place
+    slug: garabandal-spain
+    shared_claims: 1
+  - node_id: 7960be39-3279-4d62-9deb-71ef5e6d71ca
+    title: Statue of Our Lady of Fatima
+    node_type: object
+    slug: statue-of-our-lady-of-fatima
+    shared_claims: 1
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 1
+  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+    title: World War II
+    node_type: event
+    slug: world-war-ii
+    shared_claims: 1
+claims:
+  - claim_id: 6953f76d-a05e-4052-8bdf-94bbef04db6a
+    claim_hash: 40605b825dd058535ca95b2a31b911efe086a2b5160279250133356ea267954a
+    content: During 1947, the miracle of the doves repeated on many occasions when the Statue of Our Lady of Fatima was brought
+      to other European countries and then to the United States and Canada.
+    original_excerpt: This miracle was to repeat itself on many more occasions when, during 1947, the statue of the Madonna
+      was brought to other European countries and after that to the United States and Canada.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+        title: USA
+        slug: usa
+      - node_id: 7960be39-3279-4d62-9deb-71ef5e6d71ca
+        title: Statue of Our Lady of Fatima
+        slug: statue-of-our-lady-of-fatima
+      - node_id: 9d2717f8-2bf4-44ee-8e26-e681f1712ef1
+        title: Canada
+        slug: canada
+      - node_id: b64749cd-b815-442f-ad3f-f70906e43f18
+        title: Miracle of the doves (1946)
+        slug: miracle-of-the-doves-1946
+      - node_id: cebcae00-a0bc-48aa-939f-80d5527e8a45
+        title: Pilgrimage of the Statue of Our Lady of Fatima through Europe, the United States, and Canada (1947)
+        slug: the-united-states-and-canada-1947-pilgrimage-of-the-statue-of-our-lady-of-fatima-through-europe
+    date: '1947'
+    date_end: null
+    location_in_record: ch15:13641-13823
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: e6588c00-a9e2-4b4c-ae52-9ab8ec5d4657
+    claim_hash: 0522f70d75606f273041870df875d2e1dfba30de406b20504e51fea4c21eb52f
+    content: On 1962-10-28, Nikita Khrushchev agreed to dismantle the Soviet missiles on Cuba, after extracting a guarantee
+      from the United States that it would not invade Cuba.
+    original_excerpt: Finally on October 28 Khrushchev agreed to this as well, after extracting a guarantee from the U.S.
+      that they would not invade Cuba.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+        title: Nikita Khrushchev
+        slug: nikita-khrushchev
+      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+        title: USA
+        slug: usa
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+    date: '1962-10-28'
+    date_end: null
+    location_in_record: ch17:2128-2255
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 278caeff-8a96-4d1f-8561-7e2e2580714b
+    claim_hash: b453a3175c7d171e6d0ed9b05fe9b417a2427228f0f4b62cb6faa47ba95afd50
+    content: Jelena said the Mother of God then showed her America, with much luxury and beautiful things, and young people
+      sniffing or injecting drugs who thought they were happy but whom the Mother of God said were sick and suffered as much
+      as those in Africa and Asia.
+    original_excerpt: Then the Mother of God showed me America. There was much luxury and many beautiful things. I saw young
+      people sniffing drugs or injecting themselves with drugs. They thought they were happy, but the Mother of God said that
+      they were sick if they were doing this. They, too, suffered just as much as the others I had seen.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 41d220ff-efcc-494c-b001-e7eb62170208
+      title: Jelena (Medjugorje visionary)
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jelena (Medjugorje visionary)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+        title: USA
+        slug: usa
+      - node_id: 41d220ff-efcc-494c-b001-e7eb62170208
+        title: Jelena (Medjugorje visionary)
+        slug: jelena-medjugorje-visionary
+    date: null
+    date_end: null
+    location_in_record: ch22:5180-5496
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 8e51c6ed-e66e-4f7a-96eb-e58d4bd6af16
+    claim_hash: 9ca3f5f594f6274ae7a25b37b9d31913fd6964cee7fa845cae4843e9947593fb
+    content: Marian apparitions have been reported in the United States, not only abroad.
+    original_excerpt: The apparitions of the Virgin Mary don't happen only abroad; they happen near your hometown as well,
+      right here in the United States.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+        title: USA
+        slug: usa
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch23:90-216
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 07fee8ef-dc34-4330-83eb-4e24abd7045b
+    claim_hash: 0f4a2899cbf333730552d6118852c5017f020a7b524edb885f6ede7be58e3286
+    content: Michael Hesemann visited sites of Marian apparitions in Mexico, Italy, Austria, Hungary, Spain, Bosnia and Herzegovina,
+      Germany, and the United States.
+    original_excerpt: I'd visited the sights of other apparitions, in Mexico, Italy, Austria, Hungary, Spain, Bosnia, Germany,
+      and the United States.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+        title: Mexico, Mexico City
+        slug: mexico-city-mexico
+      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+        title: USA
+        slug: usa
+      - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+        title: Italy, Rome
+        slug: rome-italy
+      - node_id: 39fedea5-7e5d-4af4-a829-bf842f70d142
+        title: Spain, Garabandal
+        slug: garabandal-spain
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: 7afe3a5e-5d91-4a48-b48f-3c8c079f2521
+        title: Austria
+        slug: austria
+    date: null
+    date_end: null
+    location_in_record: ch7:5137-5257
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: e3153332-fb58-4918-9000-139d6543fe18
+    claim_hash: 0182c190cbd636e5a0fc78213ab523371f7329dbcf394c14d747b2537a057568
+    content: The United States officially declared war on Germany on 1917-04-06.
+    original_excerpt: The U.S. officially declared war on Germany on April 6, 1917.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+        title: USA
+        slug: usa
+      - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
+        title: Germany
+        slug: germany
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: '1917-04-06'
+    date_end: null
+    location_in_record: ch8:7509-7565
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 999d4818-bff2-4b2e-824f-c39285737d5d
+    claim_hash: 9c7b8975760705f7b8315afb1cdf33b3450f53a8d12d8e9133431c70b89d503e
+    content: Mike Simone addressed the importance of selecting and training native speaking linguists/analysts born and raised
+      in the target language, region and culture, and linguists and analysts born and raised in the United States, so that
+      individuals from both categories could be combined into a multicultural linguist/analyst team that functions more effectively
+      together than either group would individually.
+    original_excerpt: The presenters addressed the importance of selecting and training 1) native speaking linguists/analysts
+      who were born and raised in the target language, region and culture, and 2) linguists and analysts who were born and
+      raised in the United States (both English speakers and heritage speakers). Individuals from these two categories could
+      then be used as a multicultural linguist/analyst team who would function more effectively together than either would
+      individually.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6aac2303-8f3d-49cd-8d67-32e9b7720d4e
+      title: Mike Simone
+    provenance_chain:
+      origin_kind: speaker
+      origin: Simone, Mike
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+        title: USA
+        slug: usa
+      - node_id: 6aac2303-8f3d-49cd-8d67-32e9b7720d4e
+        title: Mike Simone
+        slug: mike-simone
+    date: null
+    date_end: null
+    location_in_record: char:12078-12535
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9a707eda-ccde-4e3e-a3a7-bc928dcbb59d
+      record_title: 'Conference Report: Cultural and Linguistic Advancement for Mission Success: Enhancing Language, Regional
+        and Cultural Capabilities Across Whole of Government for an Effective COIN Strategy'
+      record_date: 2012-05
+      record_reference: https://apps.dtic.mil/sti/tr/pdf/ADA568628.pdf
+      content_hash: sha256:be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b1fab985b
+      friendly_name: 2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for
+  - claim_id: 91871df0-aff0-4f62-9501-2639c198f982
+    claim_hash: ba7a303509efa17a91d2a4eb0450cf3dcba011e16be31d4a6f9e1891c4b24bcc
+    content: Over the ten years prior to 2012, the Department of Defense (DoD) of the United States of America developed a
+      number of programmes addressing the need to train deploying members in linguistic, regional and cultural (LRC) capabilities
+      of the country to which they are deploying.
+    original_excerpt: Over the last 10 years, the United States of America (USA) Department of Defense (DoD) has developed
+      a number of programs addressing the need to train deploying members in linguistic, regional and cultural (LRC) capabilities
+      of the country to which they are deploying.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: conference report narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 069fd4b2-3a8d-4ac4-a699-32394ad7f0fa
+        title: Linguistic, Regional and Cultural (LRC) capabilities
+        slug: regional-and-cultural-lrc-capabilities-linguistic
+      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+        title: USA
+        slug: usa
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: char:7466-7724
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9a707eda-ccde-4e3e-a3a7-bc928dcbb59d
+      record_title: 'Conference Report: Cultural and Linguistic Advancement for Mission Success: Enhancing Language, Regional
+        and Cultural Capabilities Across Whole of Government for an Effective COIN Strategy'
+      record_date: 2012-05
+      record_reference: https://apps.dtic.mil/sti/tr/pdf/ADA568628.pdf
+      content_hash: sha256:be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b1fab985b
+      friendly_name: 2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for
+  - claim_id: 04bfb5c0-36db-48a8-818c-ca0ffe0c9b14
+    claim_hash: d15b99d37724d132a8cc6a7240c61bbb0f448d06ee558721ffea8901d4ecf2c4
+    content: An anonymous source claiming knowledge of the matter told Liberation Times that the US government, including
+      the All-domain Anomaly Resolution Office (AARO), is aware of data indicating extreme-performance incidents.
+    original_excerpt: Sources also tell Liberation Times that the U.S. government - including its UAP office, the All‑domain
+      Anomaly Resolution Office (AARO) - is aware of data indicating extreme‑performance incidents.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming knowledge of United States government data on UAP incidents
+      relay:
+        - Liberation Times
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+        title: USA
+        slug: usa
+      - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+        title: Liberation Times
+        slug: liberation-times
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:5892-6078
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null

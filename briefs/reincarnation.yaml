@@ -1,756 +1,840 @@
 schema: anomalica/brief/1
-brief_hash: e4cc60a14b3976550f2ca4664e12a2e572b5aa58201a0dce29539f709cc71500
+brief_hash: c6b909b65c63c49f4c6dae6b4ca062c35614f1bd5b1775cf908a6598bd190566
 page:
   kind: entity
   node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
   node_type: topic
   title: reincarnation
   slug: reincarnation
-  claim_count: 18
-  claim_count_total: 18
+  claim_count: 20
+  claim_count_total: 20
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 20
+  tokens_estimated: 5914
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 20
 related_nodes:
-- node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
-  title: Jim Tucker
-  node_type: person
-  slug: jim-tucker
-  shared_claims: 4
-- node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-  title: creation energy teaching (Geisteslehre)
-  node_type: topic
-  slug: creation-energy-teaching-geisteslehre
-  shared_claims: 4
-- node_id: 862daff0-b6c0-4070-bf5c-c244a2d70b44
-  title: Kevin Hammons
-  node_type: person
-  slug: kevin-hammons
-  shared_claims: 2
-- node_id: 29ab86b1-4a0c-47f6-964c-85459df97507
-  title: intermission memories
-  node_type: topic
-  slug: intermission-memories
-  shared_claims: 2
-- node_id: db26fc74-5c66-4c23-976f-15676c8fd4d2
-  title: '"Searching for the Science Behind Reincarnation" (NPR Weekend Edition interview)'
-  node_type: document
-  slug: searching-for-the-science-behind-reincarnation-npr-weekend-edition-interview
-  shared_claims: 1
-- node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
-  title: Billy Meier
-  node_type: person
-  slug: billy-meier
-  shared_claims: 1
-- node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
-  title: Bruce Leininger
-  node_type: person
-  slug: bruce-leininger
-  shared_claims: 1
-- node_id: 1b91bf08-93fc-4249-9068-e3583a8fe70e
-  title: Cyndi Hammons
-  node_type: person
-  slug: cyndi-hammons
-  shared_claims: 1
-- node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
-  title: Erlendur Haraldsson
-  node_type: person
-  slug: erlendur-haraldsson
-  shared_claims: 1
-- node_id: 42651247-b0a1-4ce4-804a-101c623e504b
-  title: Ian Stevenson
-  node_type: person
-  slug: ian-stevenson
-  shared_claims: 1
-- node_id: ff1cc139-2497-48a2-8fd7-ec3c29d615d2
-  title: Journal of Near-Death Studies
-  node_type: organisation
-  slug: journal-of-near-death-studies
-  shared_claims: 1
-- node_id: 0986ae57-9931-42f0-86b9-9d62ab6b6b1f
-  title: National Public Radio (NPR)
-  node_type: organisation
-  slug: national-public-radio-npr
-  shared_claims: 1
-- node_id: 34997ce2-30ac-49d0-a4e9-7956515bac6c
-  title: Poonam Sharma
-  node_type: person
-  slug: poonam-sharma
-  shared_claims: 1
-- node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-  title: Precognition
-  node_type: topic
-  slug: precognition
-  shared_claims: 1
-- node_id: ae812dab-0c7a-420c-b957-438e4c812fba
-  title: Weekend Edition (NPR programme)
-  node_type: organisation
-  slug: weekend-edition-npr-programme
-  shared_claims: 1
-- node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-  title: drop-in communicators
-  node_type: topic
-  slug: drop-in-communicators
-  shared_claims: 1
-- node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-  title: past-life memories in young children
-  node_type: topic
-  slug: past-life-memories-in-young-children
-  shared_claims: 1
-claims:
-- claim_id: 27554e94-a31d-4dd6-baca-a4c0bc8e64e1
-  claim_hash: fbcad32878e5c7511d1b4120fce379f53937a4130478108f4789f9ec84d2d174
-  content: Ian Stevenson argued that in addition to genetics and environment, previous
-    lives might be a third factor that contributes to the development of human personality.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 42651247-b0a1-4ce4-804a-101c623e504b
-    title: Ian Stevenson
-  provenance_chain:
-    origin_kind: named
-    origin: Ian Stevenson
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
-    title: Ian Stevenson
-    slug: ian-stevenson
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  date: null
-  date_end: null
-  location_in_record: ch11:12532-12679
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 9336952e-9627-4b72-a247-fb2c90f0455c
-  claim_hash: 9cf3e0c736f02359666655e86d703bb412ab147f13e0e88ecd6e6fae1d083a5a
-  content: Cases of children with past-life memories were easiest to find in cultures
-    with a belief in reincarnation.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-    title: past-life memories in young children
-    slug: past-life-memories-in-young-children
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  date: null
-  date_end: null
-  location_in_record: ch11:3481-3536
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 77869e57-d42e-4106-b57a-7166b1b20d4b
-  claim_hash: 7891025b85e8645eb80f3428658f534ac1de131bcc72597183af4e37e9bb5ed9
-  content: Kevin Hammons reacted with anger at the suggestion of reincarnation and
-    threw the book about past-life memories across the bed.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 1b91bf08-93fc-4249-9068-e3583a8fe70e
-    title: Cyndi Hammons
-  provenance_chain:
-    origin_kind: speaker
-    origin: Cyndi Hammons
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 862daff0-b6c0-4070-bf5c-c244a2d70b44
-    title: Kevin Hammons
-    slug: kevin-hammons
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  date: null
-  date_end: null
-  location_in_record: ch12:2586-2730
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 70d32caa-c9a2-4112-85ef-76fd38c527aa
-  claim_hash: 6a25786a4d80ffaca27602e1a994f551bafc5a8b3e95c011e73390ae0c8d6fec
-  content: Neither Cyndi Hammons nor Kevin Hammons came from a religion or belief
-    system that supported the idea of reincarnation.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: Leslie Kean
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1b91bf08-93fc-4249-9068-e3583a8fe70e
-    title: Cyndi Hammons
-    slug: cyndi-hammons
-  - node_id: 862daff0-b6c0-4070-bf5c-c244a2d70b44
-    title: Kevin Hammons
-    slug: kevin-hammons
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  date: null
-  date_end: null
-  location_in_record: ch13:18848-18925
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 0d306a09-6784-4af9-8dce-8253c1f2eb9d
-  claim_hash: 962481b2661a326d6fe70b0c9bc67c93029f88678675f1cbd806cacb4ef274f6
-  content: Jim Tucker considers these reincarnation cases as contributing to the body
-    of evidence that consciousness, at least in certain circumstances, can survive
-    the death of the body.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
-    title: Jim Tucker
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jim Tucker
-    relay: []
-  attribution_mode: unknown
-  node_refs:
   - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
     title: Jim Tucker
+    node_type: person
     slug: jim-tucker
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  date: '2014'
-  date_end: null
-  location_in_record: ch13:24343-24481
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: d711ddd9-4dfd-4a80-af84-ee3572a2b1de
-  claim_hash: d8f9db2ea8665aee4cad7d0d59859ff96f627ef4c7574f0d755d6acdcb383948
-  content: Intermission memories tend to arise more often in stronger reincarnation
-    cases, where more statements about the past life were verified and more specific
-    names were remembered, than in weaker cases.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 4
+  - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
+    title: creation energy teaching (Geisteslehre)
+    node_type: topic
+    slug: creation-energy-teaching-geisteslehre
+    shared_claims: 4
+  - node_id: 862daff0-b6c0-4070-bf5c-c244a2d70b44
+    title: Kevin Hammons
+    node_type: person
+    slug: kevin-hammons
+    shared_claims: 2
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    node_type: person
+    slug: robert-bigelow
+    shared_claims: 2
   - node_id: 29ab86b1-4a0c-47f6-964c-85459df97507
     title: intermission memories
+    node_type: topic
     slug: intermission-memories
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  date: null
-  date_end: null
-  location_in_record: ch19:1956-2164
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 0b9ec2ce-df90-4c36-9c75-d6ff69144339
-  claim_hash: c40ebfb5ea4f7e14f48a9547d67cacbd49ea3d330ac142044e1b7cd39f6ffe57
-  content: Erlendur Haraldsson states that persons suffering a violent death feature
-    predominantly in cases of apparitions of the dead, in cases of the reincarnation
-    type, and in mediumship, including both direct communicators and drop-ins.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
-    title: Erlendur Haraldsson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Erlendur Haraldsson
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-    title: drop-in communicators
-    slug: drop-in-communicators
-  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-    title: Precognition
-    slug: precognition
-  - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
-    title: Erlendur Haraldsson
-    slug: erlendur-haraldsson
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  date: null
-  date_end: null
-  location_in_record: ch30:11722-11925
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 86bb1288-be8e-492c-86b2-0d367b9d60ee
-  claim_hash: 7c0bf9c8feb966d837b1ed15548179afee31aafeb28a20f4ba074f0ae0945194
-  content: Jim Tucker said in an NPR interview, 'Searching for the Science Behind
-    Reincarnation', aired on Weekend Edition on 2014-01-05, that the idea of reincarnation
-    can be judged on its merits.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
-    title: Jim Tucker
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jim Tucker
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0986ae57-9931-42f0-86b9-9d62ab6b6b1f
-    title: National Public Radio (NPR)
-    slug: national-public-radio-npr
-  - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
-    title: Jim Tucker
-    slug: jim-tucker
-  - node_id: ae812dab-0c7a-420c-b957-438e4c812fba
-    title: Weekend Edition (NPR programme)
-    slug: weekend-edition-npr-programme
+    shared_claims: 2
   - node_id: db26fc74-5c66-4c23-976f-15676c8fd4d2
-    title: '"Searching for the Science Behind Reincarnation" (NPR Weekend Edition
-      interview)'
+    title: '"Searching for the Science Behind Reincarnation" (NPR Weekend Edition interview)'
+    node_type: document
     slug: searching-for-the-science-behind-reincarnation-npr-weekend-edition-interview
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  date: '2014-01-05'
-  date_end: null
-  location_in_record: ch41:15593-15765
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: fd5b51ef-1499-41e2-8459-f10307bf98d9
-  claim_hash: d814b55668267fe8d276418afa9a1eda6541891742dec2c8ff132ad4c5b72773
-  content: Poonam Sharma and Jim Tucker found that intermission memories tend to arise
-    in the stronger reincarnation cases, in a 2004 paper in the Journal of Near-Death
-    Studies.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Tucker and Sharma's published paper
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 29ab86b1-4a0c-47f6-964c-85459df97507
-    title: intermission memories
-    slug: intermission-memories
-  - node_id: 34997ce2-30ac-49d0-a4e9-7956515bac6c
-    title: Poonam Sharma
-    slug: poonam-sharma
-  - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
-    title: Jim Tucker
-    slug: jim-tucker
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  - node_id: ff1cc139-2497-48a2-8fd7-ec3c29d615d2
-    title: Journal of Near-Death Studies
-    slug: journal-of-near-death-studies
-  date: '2004'
-  date_end: null
-  location_in_record: ch41:25408-25651
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: cb5c5ad2-c975-43f6-904e-586dd1a083db
-  claim_hash: fe9c3dc40e6216a3950a9b17548817a55431d08654d969a72dc8e06b9a8f19a4
-  content: Jim Tucker is a psychiatrist and an expert on child reincarnation cases.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
-    title: Jim Tucker
-    slug: jim-tucker
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  date: null
-  date_end: null
-  location_in_record: ch7:4123-4196
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 97962ffa-e0a2-4d76-a6fd-ffe87b9c073d
-  claim_hash: 201b379a7c086f2f6a0359dca4c8c8ca32b05a1a09cdd145ebc961e82a0fbfb2
-  content: Bruce Leininger's Christian faith did not accept reincarnation, and he
-    initially rejected the idea of a past-life explanation for James Leininger's statements.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
-    title: Bruce Leininger
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bruce Leininger
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
-    title: Bruce Leininger
-    slug: bruce-leininger
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  date: null
-  date_end: null
-  location_in_record: ch9:9321-9438
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: a4a5b3b7-f7af-438b-b966-0a74dbe83960
-  claim_hash: fdef32cfc298279730052e7be582413ae9873474ac8604408e5409f46b889e90
-  content: Billy Meier has written about reincarnation, rebirth, death and dying,
-    fluidal forces and swinging waves.
-  original_excerpt: He's written about reincarnation, rebirth, death, and dying. fluidal
-    forces, swinging waves.
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
-    title: Michael Horn
-  provenance_chain: null
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
   - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
     title: Billy Meier
+    node_type: person
     slug: billy-meier
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  date: null
-  date_end: null
-  location_in_record: 02:18:39.2-02:18:47.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
-    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
-      ep. 92
-    record_date: '2026-06-12'
-    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
-    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
-    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
-- claim_id: 2371ab5c-8424-4527-b219-f861946c922c
-  claim_hash: 5bb2579dc70bc040ca10d4a103b7e1a189eeb6c2b080fd28ff2a500f4cc6c032
-  content: In the Billy Meier teaching, a person's creation energy form may already
-    have had as many as two million incarnations as different people.
-  original_excerpt: their creation energy form, their essence, may have already had
-    two million incarnations as different people.
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
-    title: Michael Horn
-  provenance_chain: null
-  attribution_mode: unknown
-  node_refs:
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-    title: creation energy teaching (Geisteslehre)
-    slug: creation-energy-teaching-geisteslehre
-  date: null
-  date_end: null
-  location_in_record: 02:30:01.8-02:30:27.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
-    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
-      ep. 92
-    record_date: '2026-06-12'
-    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
-    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
-    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
-- claim_id: 9f7ed5b7-aec7-473a-bcb9-3fb09f6daeb3
-  claim_hash: 46dc8ddcb84d9da5793af27f279157a0c236d1c3625507aa904a84763e7bf8e9
-  content: In the Billy Meier teaching, reincarnation is real but a person is never
-    the same person again and does not remember past lives.
-  original_excerpt: there's such a thing as reincarnation, but it's not what we think.
-    We're never the same person. We don't remember past lives.
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
-    title: Michael Horn
-  provenance_chain: null
-  attribution_mode: unknown
-  node_refs:
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  date: null
-  date_end: null
-  location_in_record: 02:30:31.7-02:30:40.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
-    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
-      ep. 92
-    record_date: '2026-06-12'
-    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
-    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
-    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
-- claim_id: 515ca985-a524-4102-aff6-e44e87b851b8
-  claim_hash: 9eea3cc5a8965cf077b34537649baa19c851c9d8d3266b5f32884fcbcb6a62d6
-  content: One of the laws of creation is that a spirit form that dies on a given
-    planet reincarnates a new personality on the planet on which it dies.
-  original_excerpt: One of the laws is that a spirit form that dies on a given planet
-    reincarnates, reanimates a new personality on the planet on which they die.
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
-    title: Michael Horn
-  provenance_chain: null
-  attribution_mode: unknown
-  node_refs:
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-    title: creation energy teaching (Geisteslehre)
-    slug: creation-energy-teaching-geisteslehre
-  date: null
-  date_end: null
-  location_in_record: 02:31:10.2-02:31:22.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
-    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
-      ep. 92
-    record_date: '2026-06-12'
-    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
-    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
-    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
-- claim_id: bd208d0c-24e1-47af-8d37-ad621d696df5
-  claim_hash: c08e154936ecb8efec6f396ab7f7be13e31f6d28038859ba317723fe94e2fe74
-  content: If a spirit form dies in space or on a lifeless planet, creation law attracts
-    it to the next inhabited planet with evolving human life at a commensurate level,
-    none of which are in our solar system.
-  original_excerpt: The spirit forms will be attracted through creation law to an
-    inhabited planet, none of which are in our solar system, where there is evolving
-    human life at a level that is commensurate
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
-    title: Michael Horn
-  provenance_chain: null
-  attribution_mode: unknown
-  node_refs:
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-    title: creation energy teaching (Geisteslehre)
-    slug: creation-energy-teaching-geisteslehre
-  date: null
-  date_end: null
-  location_in_record: 02:31:22.8-02:32:04.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
-    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
-      ep. 92
-    record_date: '2026-06-12'
-    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
-    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
-    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
-- claim_id: dea64545-916b-4e26-9d20-d807e904cf13
-  claim_hash: 2ffc1f6d066b302e897bb56f2736fc8f4888d5dacc1c7df9bdf824ad586b9c6f
-  content: The reincarnation of a spirit form to its next planet is governed by the
-    evolutionary level of the human life forms there, not by the planet's electromagnetic
-    field.
-  original_excerpt: Not as such as I understand it, because it's more the evolutionary
-    level of the human life forms on that planet.
-  claim_type: opinion
-  attestation: null
-  speaker:
-    node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
-    title: Michael Horn
-  provenance_chain: null
-  attribution_mode: unknown
-  node_refs:
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  date: null
-  date_end: null
-  location_in_record: 02:32:54.3-02:33:08.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
-    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
-      ep. 92
-    record_date: '2026-06-12'
-    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
-    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
-    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
-- claim_id: b49a4faf-a48f-44bb-8365-c96ab33c973a
-  claim_hash: 06334a95fdeb9b1b3390955a28d1dbf37b92cba88822e7b3705d6775d56e65ec
-  content: In the Billy Meier teaching, the evolution of a human being proceeds through
-    countless millions of lifetimes towards a more refined, etheric, semi-physical
-    creation-energy form, until eventual incarnation is no longer into a physical
-    form but into the lower levels of creational energy.
-  original_excerpt: We will go through countless millions of lifetimes and years,
-    and move towards a more refined more etheric ... until we are at a level of development
-    where the next if you will incarnation or the reincarnation spirit isn't into
-    a physical form. It's into the lower levels of the creational energy.
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
-    title: Michael Horn
-  provenance_chain: null
-  attribution_mode: unknown
-  node_refs:
-  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-    title: reincarnation
-    slug: reincarnation
-  - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-    title: creation energy teaching (Geisteslehre)
-    slug: creation-energy-teaching-geisteslehre
-  date: null
-  date_end: null
-  location_in_record: 02:35:31.6-02:36:08.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
-    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
-      ep. 92
-    record_date: '2026-06-12'
-    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
-    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
-    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+    shared_claims: 1
+  - node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
+    title: Bruce Leininger
+    node_type: person
+    slug: bruce-leininger
+    shared_claims: 1
+  - node_id: 1b91bf08-93fc-4249-9068-e3583a8fe70e
+    title: Cyndi Hammons
+    node_type: person
+    slug: cyndi-hammons
+    shared_claims: 1
+  - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+    title: Erlendur Haraldsson
+    node_type: person
+    slug: erlendur-haraldsson
+    shared_claims: 1
+  - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+    title: Ian Stevenson
+    node_type: person
+    slug: ian-stevenson
+    shared_claims: 1
+  - node_id: ff1cc139-2497-48a2-8fd7-ec3c29d615d2
+    title: Journal of Near-Death Studies
+    node_type: organisation
+    slug: journal-of-near-death-studies
+    shared_claims: 1
+  - node_id: 0986ae57-9931-42f0-86b9-9d62ab6b6b1f
+    title: National Public Radio (NPR)
+    node_type: organisation
+    slug: national-public-radio-npr
+    shared_claims: 1
+  - node_id: 34997ce2-30ac-49d0-a4e9-7956515bac6c
+    title: Poonam Sharma
+    node_type: person
+    slug: poonam-sharma
+    shared_claims: 1
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    node_type: topic
+    slug: precognition
+    shared_claims: 1
+  - node_id: ae812dab-0c7a-420c-b957-438e4c812fba
+    title: Weekend Edition (NPR programme)
+    node_type: organisation
+    slug: weekend-edition-npr-programme
+    shared_claims: 1
+  - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
+    title: drop-in communicators
+    node_type: topic
+    slug: drop-in-communicators
+    shared_claims: 1
+  - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+    title: past-life memories in young children
+    node_type: topic
+    slug: past-life-memories-in-young-children
+    shared_claims: 1
+claims:
+  - claim_id: 27554e94-a31d-4dd6-baca-a4c0bc8e64e1
+    claim_hash: fbcad32878e5c7511d1b4120fce379f53937a4130478108f4789f9ec84d2d174
+    content: Ian Stevenson argued that in addition to genetics and environment, previous lives might be a third factor that
+      contributes to the development of human personality.
+    original_excerpt: Stevenson argued that in addition to genetics and environment, previous lives might be a third factor
+      that contributes to the development of human personality.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: named
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+    date: null
+    date_end: null
+    location_in_record: ch11:12532-12679
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 9336952e-9627-4b72-a247-fb2c90f0455c
+    claim_hash: 9cf3e0c736f02359666655e86d703bb412ab147f13e0e88ecd6e6fae1d083a5a
+    content: Cases of children with past-life memories were easiest to find in cultures with a belief in reincarnation.
+    original_excerpt: They were easiest to find in cultures with a belief in reincarnation.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+        title: past-life memories in young children
+        slug: past-life-memories-in-young-children
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+    date: null
+    date_end: null
+    location_in_record: ch11:3481-3536
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 77869e57-d42e-4106-b57a-7166b1b20d4b
+    claim_hash: 7891025b85e8645eb80f3428658f534ac1de131bcc72597183af4e37e9bb5ed9
+    content: Kevin Hammons reacted with anger at the suggestion of reincarnation and threw the book about past-life memories
+      across the bed.
+    original_excerpt: He did, but then the book went flying across the bed. "Dammit, Cyndi! Reincarnation? We don't have a
+      child that's had another life before this one."
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 1b91bf08-93fc-4249-9068-e3583a8fe70e
+      title: Cyndi Hammons
+    provenance_chain:
+      origin_kind: speaker
+      origin: Cyndi Hammons
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 862daff0-b6c0-4070-bf5c-c244a2d70b44
+        title: Kevin Hammons
+        slug: kevin-hammons
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+    date: null
+    date_end: null
+    location_in_record: ch12:2586-2730
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 70d32caa-c9a2-4112-85ef-76fd38c527aa
+    claim_hash: 6a25786a4d80ffaca27602e1a994f551bafc5a8b3e95c011e73390ae0c8d6fec
+    content: Neither Cyndi Hammons nor Kevin Hammons came from a religion or belief system that supported the idea of reincarnation.
+    original_excerpt: Neither one came from a religion or belief system that supported the idea of reincarnation.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b91bf08-93fc-4249-9068-e3583a8fe70e
+        title: Cyndi Hammons
+        slug: cyndi-hammons
+      - node_id: 862daff0-b6c0-4070-bf5c-c244a2d70b44
+        title: Kevin Hammons
+        slug: kevin-hammons
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+    date: null
+    date_end: null
+    location_in_record: ch13:18848-18925
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 0d306a09-6784-4af9-8dce-8253c1f2eb9d
+    claim_hash: 962481b2661a326d6fe70b0c9bc67c93029f88678675f1cbd806cacb4ef274f6
+    content: Jim Tucker considers these reincarnation cases as contributing to the body of evidence that consciousness, at
+      least in certain circumstances, can survive the death of the body.
+    original_excerpt: “I think these cases contribute to the body of evidence that consciousness—at least, in certain circumstances—can
+      survive the death of the body
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+      title: Jim Tucker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Tucker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+        title: Jim Tucker
+        slug: jim-tucker
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+    date: '2014'
+    date_end: null
+    location_in_record: ch13:24343-24481
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: d711ddd9-4dfd-4a80-af84-ee3572a2b1de
+    claim_hash: d8f9db2ea8665aee4cad7d0d59859ff96f627ef4c7574f0d755d6acdcb383948
+    content: Intermission memories tend to arise more often in stronger reincarnation cases, where more statements about the
+      past life were verified and more specific names were remembered, than in weaker cases.
+    original_excerpt: the intermission memories tend to arise in the stronger reincarnation cases, where more statements were
+      made about the past life that were verified and more specific names were remembered, than in the weaker cases.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 29ab86b1-4a0c-47f6-964c-85459df97507
+        title: intermission memories
+        slug: intermission-memories
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+    date: null
+    date_end: null
+    location_in_record: ch19:1956-2164
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 0b9ec2ce-df90-4c36-9c75-d6ff69144339
+    claim_hash: c40ebfb5ea4f7e14f48a9547d67cacbd49ea3d330ac142044e1b7cd39f6ffe57
+    content: Erlendur Haraldsson states that persons suffering a violent death feature predominantly in cases of apparitions
+      of the dead, in cases of the reincarnation type, and in mediumship, including both direct communicators and drop-ins.
+    original_excerpt: Persons suffering a violent death feature predominantly in cases of apparitions of the dead and in cases
+      of the reincarnation type, as well as in mediumship, including both direct communicators and drop-ins.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+      title: Erlendur Haraldsson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Erlendur Haraldsson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
+        title: drop-in communicators
+        slug: drop-in-communicators
+      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+        title: Precognition
+        slug: precognition
+      - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+        title: Erlendur Haraldsson
+        slug: erlendur-haraldsson
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+    date: null
+    date_end: null
+    location_in_record: ch30:11722-11925
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 86bb1288-be8e-492c-86b2-0d367b9d60ee
+    claim_hash: 7c0bf9c8feb966d837b1ed15548179afee31aafeb28a20f4ba074f0ae0945194
+    content: Jim Tucker said in an NPR interview, 'Searching for the Science Behind Reincarnation', aired on Weekend Edition
+      on 2014-01-05, that the idea of reincarnation can be judged on its merits.
+    original_excerpt: '"the idea can be judged on its merits," Jim said / From an interview for NPR, "Searching for the Science
+      Behind Reincarnation," aired on Weekend Edition, Sunday, January 5, 2014.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+      title: Jim Tucker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Tucker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0986ae57-9931-42f0-86b9-9d62ab6b6b1f
+        title: National Public Radio (NPR)
+        slug: national-public-radio-npr
+      - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+        title: Jim Tucker
+        slug: jim-tucker
+      - node_id: ae812dab-0c7a-420c-b957-438e4c812fba
+        title: Weekend Edition (NPR programme)
+        slug: weekend-edition-npr-programme
+      - node_id: db26fc74-5c66-4c23-976f-15676c8fd4d2
+        title: '"Searching for the Science Behind Reincarnation" (NPR Weekend Edition interview)'
+        slug: searching-for-the-science-behind-reincarnation-npr-weekend-edition-interview
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+    date: '2014-01-05'
+    date_end: null
+    location_in_record: ch41:15593-15765
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: fd5b51ef-1499-41e2-8459-f10307bf98d9
+    claim_hash: d814b55668267fe8d276418afa9a1eda6541891742dec2c8ff132ad4c5b72773
+    content: Poonam Sharma and Jim Tucker found that intermission memories tend to arise in the stronger reincarnation cases,
+      in a 2004 paper in the Journal of Near-Death Studies.
+    original_excerpt: 'intermission memories tend to arise in the stronger reincarnation cases / Poonam Sharma and Jim B.
+      Tucker, "Cases of the Reincarnation Type with Memories from the Intermission Between Lives," Journal of Near-Death Studies
+      23(2) (Winter 2004): 116'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Tucker and Sharma's published paper
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 29ab86b1-4a0c-47f6-964c-85459df97507
+        title: intermission memories
+        slug: intermission-memories
+      - node_id: 34997ce2-30ac-49d0-a4e9-7956515bac6c
+        title: Poonam Sharma
+        slug: poonam-sharma
+      - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+        title: Jim Tucker
+        slug: jim-tucker
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+      - node_id: ff1cc139-2497-48a2-8fd7-ec3c29d615d2
+        title: Journal of Near-Death Studies
+        slug: journal-of-near-death-studies
+    date: '2004'
+    date_end: null
+    location_in_record: ch41:25408-25651
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: cb5c5ad2-c975-43f6-904e-586dd1a083db
+    claim_hash: fe9c3dc40e6216a3950a9b17548817a55431d08654d969a72dc8e06b9a8f19a4
+    content: Jim Tucker is a psychiatrist and an expert on child reincarnation cases.
+    original_excerpt: his mother and psychiatrist Jim Tucker, an expert on child reincarnation cases
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+        title: Jim Tucker
+        slug: jim-tucker
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+    date: null
+    date_end: null
+    location_in_record: ch7:4123-4196
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 97962ffa-e0a2-4d76-a6fd-ffe87b9c073d
+    claim_hash: 201b379a7c086f2f6a0359dca4c8c8ca32b05a1a09cdd145ebc961e82a0fbfb2
+    content: Bruce Leininger's Christian faith did not accept reincarnation, and he initially rejected the idea of a past-life
+      explanation for James Leininger's statements.
+    original_excerpt: My spiritual side was ruled by the Christian faith, which did not accept reincarnation, and that was
+      the end of that story.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
+      title: Bruce Leininger
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bruce Leininger
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
+        title: Bruce Leininger
+        slug: bruce-leininger
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+    date: null
+    date_end: null
+    location_in_record: ch9:9321-9438
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a4a5b3b7-f7af-438b-b966-0a74dbe83960
+    claim_hash: fdef32cfc298279730052e7be582413ae9873474ac8604408e5409f46b889e90
+    content: Billy Meier has written about reincarnation, rebirth, death and dying, fluidal forces and swinging waves.
+    original_excerpt: He's written about reincarnation, rebirth, death, and dying. fluidal forces, swinging waves.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
+        title: Billy Meier
+        slug: billy-meier
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+    date: null
+    date_end: null
+    location_in_record: 02:18:39.2-02:18:47.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+  - claim_id: 2371ab5c-8424-4527-b219-f861946c922c
+    claim_hash: 5bb2579dc70bc040ca10d4a103b7e1a189eeb6c2b080fd28ff2a500f4cc6c032
+    content: In the Billy Meier teaching, a person's creation energy form may already have had as many as two million incarnations
+      as different people.
+    original_excerpt: their creation energy form, their essence, may have already had two million incarnations as different
+      people.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+      - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
+        title: creation energy teaching (Geisteslehre)
+        slug: creation-energy-teaching-geisteslehre
+    date: null
+    date_end: null
+    location_in_record: 02:30:01.8-02:30:27.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+  - claim_id: 9f7ed5b7-aec7-473a-bcb9-3fb09f6daeb3
+    claim_hash: 46dc8ddcb84d9da5793af27f279157a0c236d1c3625507aa904a84763e7bf8e9
+    content: In the Billy Meier teaching, reincarnation is real but a person is never the same person again and does not remember
+      past lives.
+    original_excerpt: there's such a thing as reincarnation, but it's not what we think. We're never the same person. We don't
+      remember past lives.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+    date: null
+    date_end: null
+    location_in_record: 02:30:31.7-02:30:40.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+  - claim_id: 515ca985-a524-4102-aff6-e44e87b851b8
+    claim_hash: 9eea3cc5a8965cf077b34537649baa19c851c9d8d3266b5f32884fcbcb6a62d6
+    content: One of the laws of creation is that a spirit form that dies on a given planet reincarnates a new personality
+      on the planet on which it dies.
+    original_excerpt: One of the laws is that a spirit form that dies on a given planet reincarnates, reanimates a new personality
+      on the planet on which they die.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+      - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
+        title: creation energy teaching (Geisteslehre)
+        slug: creation-energy-teaching-geisteslehre
+    date: null
+    date_end: null
+    location_in_record: 02:31:10.2-02:31:22.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+  - claim_id: bd208d0c-24e1-47af-8d37-ad621d696df5
+    claim_hash: c08e154936ecb8efec6f396ab7f7be13e31f6d28038859ba317723fe94e2fe74
+    content: If a spirit form dies in space or on a lifeless planet, creation law attracts it to the next inhabited planet
+      with evolving human life at a commensurate level, none of which are in our solar system.
+    original_excerpt: The spirit forms will be attracted through creation law to an inhabited planet, none of which are in
+      our solar system, where there is evolving human life at a level that is commensurate
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+      - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
+        title: creation energy teaching (Geisteslehre)
+        slug: creation-energy-teaching-geisteslehre
+    date: null
+    date_end: null
+    location_in_record: 02:31:22.8-02:32:04.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+  - claim_id: dea64545-916b-4e26-9d20-d807e904cf13
+    claim_hash: 2ffc1f6d066b302e897bb56f2736fc8f4888d5dacc1c7df9bdf824ad586b9c6f
+    content: The reincarnation of a spirit form to its next planet is governed by the evolutionary level of the human life
+      forms there, not by the planet's electromagnetic field.
+    original_excerpt: Not as such as I understand it, because it's more the evolutionary level of the human life forms on
+      that planet.
+    claim_type: opinion
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+    date: null
+    date_end: null
+    location_in_record: 02:32:54.3-02:33:08.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+  - claim_id: b49a4faf-a48f-44bb-8365-c96ab33c973a
+    claim_hash: 06334a95fdeb9b1b3390955a28d1dbf37b92cba88822e7b3705d6775d56e65ec
+    content: In the Billy Meier teaching, the evolution of a human being proceeds through countless millions of lifetimes
+      towards a more refined, etheric, semi-physical creation-energy form, until eventual incarnation is no longer into a
+      physical form but into the lower levels of creational energy.
+    original_excerpt: We will go through countless millions of lifetimes and years, and move towards a more refined more etheric
+      ... until we are at a level of development where the next if you will incarnation or the reincarnation spirit isn't
+      into a physical form. It's into the lower levels of the creational energy.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+      - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
+        title: creation energy teaching (Geisteslehre)
+        slug: creation-energy-teaching-geisteslehre
+    date: null
+    date_end: null
+    location_in_record: 02:35:31.6-02:36:08.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+  - claim_id: 09ff5048-0474-4df8-af91-dcef456bbb6e
+    claim_hash: 34beabd3efe81616c828514023041cfe5f61782361d4a241fd300ed2bf3e107d
+    content: A woman Robert Bigelow knew in high school, named Marilyn, gave him a book on reincarnation, which he dismissed
+      at the time and only read years later, coming to consider it amazing.
+    original_excerpt: A lady I used to know in high school at one time gave me a book on reincarnation. I said, oh my God,
+      don't give me this. I don't have time for this stuff. And then years later I started reading it... oh my gosh, Marilyn
+      was right. This book is amazing.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+    date: null
+    date_end: null
+    location_in_record: 00:34:22.9-00:34:40.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 8d2069dd-aad6-4659-b502-a54b07ac7c83
+    claim_hash: 0d8d2e6952c1697aa30423070e826302b3fbed78fb962a08b00a713abc9e5f99
+    content: Robert Bigelow holds that incarnations eventually become irrelevant because there is nothing further to learn.
+    original_excerpt: But at some point, incarnations are irrelevant. You don't learn anything more. There's nothing to learn.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: reincarnation
+        slug: reincarnation
+    date: null
+    date_end: null
+    location_in_record: 00:34:46.2-00:34:52.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

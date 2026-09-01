@@ -9,328 +9,347 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2198
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
 related_nodes:
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 3
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 2
-- node_id: a4f584ab-b230-4924-92a9-3c20c1523bdd
-  title: Project Condign
-  node_type: matter
-  slug: project-condign
-  shared_claims: 2
-- node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
-  title: Soviet Union
-  node_type: organisation
-  slug: soviet-union
-  shared_claims: 2
-- node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
-  title: George Knapp
-  node_type: person
-  slug: george-knapp
-  shared_claims: 1
-- node_id: fa319ac5-81f1-49e0-a165-b0af3f900d18
-  title: Russia, Ukraine
-  node_type: place
-  slug: ukraine-russia
-  shared_claims: 1
-- node_id: 4934a3a7-1af0-47c3-8d96-33153b3f853c
-  title: Russian Air Defense Forces
-  node_type: organisation
-  slug: russian-air-defense-forces
-  shared_claims: 1
-- node_id: fcc5bf6d-e343-4f87-885d-88aba4c1f953
-  title: Ukraine, Byelokoroviche
-  node_type: place
-  slug: byelokoroviche-ukraine
-  shared_claims: 1
-claims:
-- claim_id: 79d06602-1986-4a68-b5e2-b83be4c094dd
-  claim_hash: 39188b66bd362407f9d8256ed4fa454aba2fdba13ae4a9bac261571e534ba218
-  content: The Russian military UFO investigation was directed by Colonel Boris Sokolov,
-    who described many alarming incidents to George Knapp.
-  original_excerpt: Many of the incidents described to me by the program's director
-    Col. Boris Sokolov were alarming.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
-    title: George Knapp
-  provenance_chain:
-    origin_kind: named
-    origin: Boris Sokolov
-    relay:
-    - George Knapp
-  attribution_mode: unknown
-  node_refs:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 3
+  - node_id: a4f584ab-b230-4924-92a9-3c20c1523bdd
+    title: Project Condign
+    node_type: matter
+    slug: project-condign
+    shared_claims: 2
+  - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+    title: Soviet Union
+    node_type: organisation
+    slug: soviet-union
+    shared_claims: 2
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 1
+  - node_id: 0e834b43-83b7-4485-837c-a6c0bb9ea31d
+    title: Byelokoroviche Nuclear Base UAP 1982
+    node_type: event
+    slug: byelokoroviche-nuclear-base-uap-1982
+    shared_claims: 1
   - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
     title: George Knapp
+    node_type: person
     slug: george-knapp
-  - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
-    title: Boris Sokolov
-    slug: boris-sokolov
-  date: null
-  date_end: null
-  location_in_record: char:6623-6711
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
-    record_title: Statement to Congress
-    record_date: null
-    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
-    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
-    friendly_name: undated-pdf-statement-to-congress
-- claim_id: 72d91abf-de74-4b17-9c8e-806622d00dd3
-  claim_hash: 79826d6c4d8b303a30085186b61974f6a329c5f0f3a569ae0fdbd8702eece98a
-  content: Boris Sokolov said there had been 45 incidents in which Russian warplanes
-    engaged with UFOs, chasing them and even shooting at them.
-  original_excerpt: Sokolov said there had been 45 incidents in which Russian warplanes
-    engaged with UFOs, chased them, even shot at them.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
-    title: George Knapp
-  provenance_chain:
-    origin_kind: named
-    origin: Boris Sokolov
-    relay:
-    - George Knapp
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4934a3a7-1af0-47c3-8d96-33153b3f853c
-    title: Russian Air Defense Forces
-    slug: russian-air-defense-forces
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
-    title: Boris Sokolov
-    slug: boris-sokolov
-  date: null
-  date_end: null
-  location_in_record: char:6721-6834
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
-    record_title: Statement to Congress
-    record_date: null
-    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
-    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
-    friendly_name: undated-pdf-statement-to-congress
-- claim_id: dbccd397-ee05-4f7d-a4b9-3bfdae36d1a1
-  claim_hash: 6ecb58d7104196e7ad2f349992f2cdd3cc5591e619bd12e938554e8abec7775c
-  content: Boris Sokolov shared information with George Knapp about an alarming incident
-    at a Russian ICBM base in Ukraine in which UFOs appeared, performed manoeuvres
-    in front of stunned eyewitnesses, and then took control of the base's launch system.
-  original_excerpt: Col. Sokolov also shared information about an alarming incident
-    at a Russian ICBM base in Ukraine. UFOs appeared over the base, performed astonishing
-    maneuvers in front of stunned eyewitnesses and then somehow took control of the
-    launch system.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
-    title: George Knapp
-  provenance_chain:
-    origin_kind: named
-    origin: Boris Sokolov
-    relay:
-    - George Knapp
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
-    title: Boris Sokolov
-    slug: boris-sokolov
+    shared_claims: 1
   - node_id: fa319ac5-81f1-49e0-a165-b0af3f900d18
     title: Russia, Ukraine
+    node_type: place
     slug: ukraine-russia
-  date: null
-  date_end: null
-  location_in_record: char:7201-7438
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
-    record_title: Statement to Congress
-    record_date: null
-    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
-    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
-    friendly_name: undated-pdf-statement-to-congress
-- claim_id: caaf5eeb-2789-486a-ba4a-f400b45a46a7
-  claim_hash: 2f245ee71755c19ee41846f4e8262a965193993c930428167881a47d9195f671
-  content: Boris Sokolov related an incident over a Soviet nuclear missile base at
-    Byelokoroviche in Ukraine in October 1982, where a 274-metre-wide craft hovered
-    for several hours.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
-    title: Boris Sokolov
-  provenance_chain:
-    origin_kind: speaker
-    origin: Boris Sokolov
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
-    title: Boris Sokolov
-    slug: boris-sokolov
+    shared_claims: 1
+  - node_id: 4934a3a7-1af0-47c3-8d96-33153b3f853c
+    title: Russian Air Defense Forces
+    node_type: organisation
+    slug: russian-air-defense-forces
+    shared_claims: 1
   - node_id: fcc5bf6d-e343-4f87-885d-88aba4c1f953
     title: Ukraine, Byelokoroviche
+    node_type: place
     slug: byelokoroviche-ukraine
-  date: 1982-10
-  date_end: null
-  location_in_record: ch12:19668-19832
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: df0a46c8-ed92-44f0-a034-8b8f3a22fee0
-  claim_hash: c0107990db8239be6ceed5f159a0cc6f394e36a88deffbb2901a7c3693afe872
-  content: Boris Sokolov said a subsequent investigation could find no explanation
-    for the missile launch countdown event.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
-    title: Boris Sokolov
-  provenance_chain:
-    origin_kind: named
-    origin: Boris Sokolov
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
-    title: Boris Sokolov
-    slug: boris-sokolov
-  date: null
-  date_end: null
-  location_in_record: ch12:20035-20165
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 2e7f72c3-b586-4b6f-9021-87b965483339
-  claim_hash: 97b48d0083f8353d94f58ae4ca3e779b71f8ef5b905e541eec87af5928b62444
-  content: In the declassified Project Condign files, Boris Sokolov admitted that
-    Soviet pilots were killed in engagements with Unidentified Aerial Phenomena (UAP).
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
-    title: Boris Sokolov
-  provenance_chain:
-    origin_kind: named
-    origin: Boris Sokolov
-    relay:
-    - Project Condign report
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a4f584ab-b230-4924-92a9-3c20c1523bdd
-    title: Project Condign
-    slug: project-condign
-  - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
-    title: Soviet Union
-    slug: soviet-union
-  - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
-    title: Boris Sokolov
-    slug: boris-sokolov
-  date: null
-  date_end: null
-  location_in_record: ch12:20173-20376
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d72772c6-42c3-412a-9d2b-57e8b357cfbf
-  claim_hash: 6bc5ed2c1e28d111c94b53c2b4bbce93075555078f28878f29ba60a7aec450a5
-  content: In the Project Condign files, Boris Sokolov reported there were 40 cases
-    in which Soviet pilots encountered UFOs, were commanded to first chase and then
-    shoot at them, and in which the UFO would speed up causing the pursuing Soviet
-    aircraft to lose control and crash, with three such crashes occurring and two
-    pilots dying.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
-    title: Boris Sokolov
-  provenance_chain:
-    origin_kind: named
-    origin: Boris Sokolov
-    relay:
-    - Project Condign report
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: a4f584ab-b230-4924-92a9-3c20c1523bdd
-    title: Project Condign
-    slug: project-condign
-  - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
-    title: Soviet Union
-    slug: soviet-union
-  - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
-    title: Boris Sokolov
-    slug: boris-sokolov
-  date: null
-  date_end: null
-  location_in_record: ch12:20382-20669
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
+    shared_claims: 1
+claims:
+  - claim_id: 79d06602-1986-4a68-b5e2-b83be4c094dd
+    claim_hash: 39188b66bd362407f9d8256ed4fa454aba2fdba13ae4a9bac261571e534ba218
+    content: The Russian military UFO investigation was directed by Colonel Boris Sokolov, who described many alarming incidents
+      to George Knapp.
+    original_excerpt: Many of the incidents described to me by the program's director Col. Boris Sokolov were alarming.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: named
+      origin: Boris Sokolov
+      relay:
+        - George Knapp
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+        title: George Knapp
+        slug: george-knapp
+      - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
+        title: Boris Sokolov
+        slug: boris-sokolov
+    date: null
+    date_end: null
+    location_in_record: char:6623-6711
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+      record_title: Statement to Congress
+      record_date: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+      content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+      friendly_name: undated-pdf-statement-to-congress
+  - claim_id: 72d91abf-de74-4b17-9c8e-806622d00dd3
+    claim_hash: 79826d6c4d8b303a30085186b61974f6a329c5f0f3a569ae0fdbd8702eece98a
+    content: Boris Sokolov said there had been 45 incidents in which Russian warplanes engaged with UFOs, chasing them and
+      even shooting at them.
+    original_excerpt: Sokolov said there had been 45 incidents in which Russian warplanes engaged with UFOs, chased them,
+      even shot at them.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: named
+      origin: Boris Sokolov
+      relay:
+        - George Knapp
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4934a3a7-1af0-47c3-8d96-33153b3f853c
+        title: Russian Air Defense Forces
+        slug: russian-air-defense-forces
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
+        title: Boris Sokolov
+        slug: boris-sokolov
+    date: null
+    date_end: null
+    location_in_record: char:6721-6834
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+      record_title: Statement to Congress
+      record_date: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+      content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+      friendly_name: undated-pdf-statement-to-congress
+  - claim_id: dbccd397-ee05-4f7d-a4b9-3bfdae36d1a1
+    claim_hash: 6ecb58d7104196e7ad2f349992f2cdd3cc5591e619bd12e938554e8abec7775c
+    content: Boris Sokolov shared information with George Knapp about an alarming incident at a Russian ICBM base in Ukraine
+      in which UFOs appeared, performed manoeuvres in front of stunned eyewitnesses, and then took control of the base's launch
+      system.
+    original_excerpt: Col. Sokolov also shared information about an alarming incident at a Russian ICBM base in Ukraine. UFOs
+      appeared over the base, performed astonishing maneuvers in front of stunned eyewitnesses and then somehow took control
+      of the launch system.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: named
+      origin: Boris Sokolov
+      relay:
+        - George Knapp
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
+        title: Boris Sokolov
+        slug: boris-sokolov
+      - node_id: fa319ac5-81f1-49e0-a165-b0af3f900d18
+        title: Russia, Ukraine
+        slug: ukraine-russia
+    date: null
+    date_end: null
+    location_in_record: char:7201-7438
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+      record_title: Statement to Congress
+      record_date: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+      content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+      friendly_name: undated-pdf-statement-to-congress
+  - claim_id: caaf5eeb-2789-486a-ba4a-f400b45a46a7
+    claim_hash: 2f245ee71755c19ee41846f4e8262a965193993c930428167881a47d9195f671
+    content: Boris Sokolov related an incident over a Soviet nuclear missile base at Byelokoroviche in Ukraine in October
+      1982, where a 274-metre-wide craft hovered for several hours.
+    original_excerpt: Sokolov related an incident over a Soviet nuclear missile base at Byelokoroviche in the Ukraine in October
+      1982, where a 274-metre-wide 'craft' hovered for several hours.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
+      title: Boris Sokolov
+    provenance_chain:
+      origin_kind: speaker
+      origin: Boris Sokolov
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e834b43-83b7-4485-837c-a6c0bb9ea31d
+        title: Byelokoroviche Nuclear Base UAP 1982
+        slug: byelokoroviche-nuclear-base-uap-1982
+      - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
+        title: Boris Sokolov
+        slug: boris-sokolov
+      - node_id: fcc5bf6d-e343-4f87-885d-88aba4c1f953
+        title: Ukraine, Byelokoroviche
+        slug: byelokoroviche-ukraine
+    date: 1982-10
+    date_end: null
+    location_in_record: ch12:19668-19832
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: df0a46c8-ed92-44f0-a034-8b8f3a22fee0
+    claim_hash: c0107990db8239be6ceed5f159a0cc6f394e36a88deffbb2901a7c3693afe872
+    content: Boris Sokolov said a subsequent investigation could find no explanation for the missile launch countdown event.
+    original_excerpt: Mercifully, the launch countdown eventually stopped but Sokolov said a subsequent investigation could
+      find no explanation for the event.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
+      title: Boris Sokolov
+    provenance_chain:
+      origin_kind: named
+      origin: Boris Sokolov
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
+        title: Boris Sokolov
+        slug: boris-sokolov
+    date: null
+    date_end: null
+    location_in_record: ch12:20035-20165
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2e7f72c3-b586-4b6f-9021-87b965483339
+    claim_hash: 97b48d0083f8353d94f58ae4ca3e779b71f8ef5b905e541eec87af5928b62444
+    content: In the declassified Project Condign files, Boris Sokolov admitted that Soviet pilots were killed in engagements
+      with Unidentified Aerial Phenomena (UAP).
+    original_excerpt: Declassified UAP investigation files from the British Ministry of Defence, the so-called Project Condign
+      study, also record Colonel Sokolov admitting that Soviet pilots were killed in engagements with UAPs.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
+      title: Boris Sokolov
+    provenance_chain:
+      origin_kind: named
+      origin: Boris Sokolov
+      relay:
+        - Project Condign report
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a4f584ab-b230-4924-92a9-3c20c1523bdd
+        title: Project Condign
+        slug: project-condign
+      - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+        title: Soviet Union
+        slug: soviet-union
+      - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
+        title: Boris Sokolov
+        slug: boris-sokolov
+    date: null
+    date_end: null
+    location_in_record: ch12:20173-20376
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d72772c6-42c3-412a-9d2b-57e8b357cfbf
+    claim_hash: 6bc5ed2c1e28d111c94b53c2b4bbce93075555078f28878f29ba60a7aec450a5
+    content: In the Project Condign files, Boris Sokolov reported there were 40 cases in which Soviet pilots encountered UFOs,
+      were commanded to first chase and then shoot at them, and in which the UFO would speed up causing the pursuing Soviet
+      aircraft to lose control and crash, with three such crashes occurring and two pilots dying.
+    original_excerpt: He said there were 40 reported cases where, 'Pilots encountered UFOs. Initially they were commanded
+      to chase, then shoot. When our pilots would engage the UFO, it would speed up, our aircraft would give chase loose [sic]
+      control and crash. That happened three times and twice the pilots died.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
+      title: Boris Sokolov
+    provenance_chain:
+      origin_kind: named
+      origin: Boris Sokolov
+      relay:
+        - Project Condign report
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: a4f584ab-b230-4924-92a9-3c20c1523bdd
+        title: Project Condign
+        slug: project-condign
+      - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+        title: Soviet Union
+        slug: soviet-union
+      - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
+        title: Boris Sokolov
+        slug: boris-sokolov
+    date: null
+    date_end: null
+    location_in_record: ch12:20382-20669
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

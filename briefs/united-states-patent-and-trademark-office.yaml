@@ -9,375 +9,390 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 9
+  tokens_estimated: 2872
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 9
 related_nodes:
-- node_id: 5171805b-a8ee-47af-b1e2-0707e179f9f1
-  title: Salvatore Pais
-  node_type: person
-  slug: salvatore-pais
-  shared_claims: 3
-- node_id: 9f4b4da0-1881-4464-8853-9d1542445c13
-  title: James Sheehy
-  node_type: person
-  slug: james-sheehy
-  shared_claims: 2
-- node_id: f62edac6-a26b-4e81-b843-7f3b1b91351d
-  title: Room Temperature Superconductor patent
-  node_type: document
-  slug: room-temperature-superconductor-patent
-  shared_claims: 2
-- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-  title: United States Navy (USN)
-  node_type: organisation
-  slug: united-states-navy-usn
-  shared_claims: 2
-- node_id: a2d2596e-fc8e-4832-9a87-f7560e423c69
-  title: Mark Glut
-  node_type: person
-  slug: mark-glut
-  shared_claims: 1
-- node_id: 7ef4602d-48c6-482b-a594-2aabbeda6848
-  title: Naval Air Warfare Centre Aircraft Division
-  node_type: organisation
-  slug: naval-air-warfare-centre-aircraft-division
-  shared_claims: 1
-- node_id: 39de2eec-5d0e-41cc-b510-c8306b8358af
-  title: Philip Bonzell
-  node_type: person
-  slug: philip-bonzell
-  shared_claims: 1
-- node_id: 28d49cd2-3c72-4fc3-9832-479387e26357
-  title: Thomas Dougherty
-  node_type: person
-  slug: thomas-dougherty
-  shared_claims: 1
-claims:
-- claim_id: 56e6e303-f990-4aba-a221-a86e4f7024e5
-  claim_hash: d395a87b2e1920ef7502e5fd3dcd6fa0430a1dd97dd162c7b8b1486e06221ecf
-  content: United States patent law has liberal standards for what it allows to be
-    patentable, permitting patents for inventions with no scientific evidence to back
-    their effectiveness, such as patented cures for baldness.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: critics of US patent law
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
-    title: United States Patent and Trademark Office
-    slug: united-states-patent-and-trademark-office
-  date: null
-  date_end: null
-  location_in_record: ch28:12556-12746
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 7426bc13-cb28-479c-81a3-04a2e7bfd5ae
-  claim_hash: b2c62f8c2e7dc1028906edbda73596786c8067c2212efb8dfb73c13bfc09605b
-  content: When the United States Patent and Trademark Office initially rejected Salvatore
-    Pais's hybrid craft patent application, the United States Navy vouched for Pais's
-    work in an appeal letter.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
-    title: United States Patent and Trademark Office
-    slug: united-states-patent-and-trademark-office
   - node_id: 5171805b-a8ee-47af-b1e2-0707e179f9f1
     title: Salvatore Pais
+    node_type: person
     slug: salvatore-pais
-  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-    title: United States Navy (USN)
-    slug: united-states-navy-usn
-  date: null
-  date_end: null
-  location_in_record: ch28:12868-13064
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 2765b3ba-f57a-4f6c-a4b7-8b0fdf0f3331
-  claim_hash: 9f3b6f3bc59ac563ef410b68b5927e74eaad9c7999027b57709149423cc25df3
-  content: The United States Patent and Trademark Office rejected Salvatore Pais's
-    room temperature superconductor patent application because the examiner determined
-    the invention was inoperative and lacked utility, as no assertions of room temperature
-    superconductivity had been recognised or verified by the scientific community.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: United States Patent and Trademark Office documents
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
-    title: United States Patent and Trademark Office
-    slug: united-states-patent-and-trademark-office
-  - node_id: 5171805b-a8ee-47af-b1e2-0707e179f9f1
-    title: Salvatore Pais
-    slug: salvatore-pais
-  - node_id: f62edac6-a26b-4e81-b843-7f3b1b91351d
-    title: Room Temperature Superconductor patent
-    slug: room-temperature-superconductor-patent
-  date: null
-  date_end: null
-  location_in_record: ch28:13578-13924
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 49b8ba9a-5022-4b4b-849e-997fd9ac15e4
-  claim_hash: e47c0480033c644ed6a09c41d9de707f4ee7ad837e2c92ac8d328c849c513773
-  content: It is a crime to make false statements to the United States Patent and
-    Trademark Office, and a false claim would also invalidate a patent.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
-    title: United States Patent and Trademark Office
-    slug: united-states-patent-and-trademark-office
-  date: null
-  date_end: null
-  location_in_record: ch28:14610-14794
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 29a3896f-aa0a-497a-9c7c-77abf67ebed6
-  claim_hash: 73d29598aa02f56e4e35a0e2cd8d2d4e9100a42fca89a34d31b73104cecb3c04
-  content: The United States Patent and Trademark Office did not accept the United
-    States Navy's evidence for the room temperature superconductor patent, and the
-    application was abandoned.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
-    title: United States Patent and Trademark Office
-    slug: united-states-patent-and-trademark-office
-  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-    title: United States Navy (USN)
-    slug: united-states-navy-usn
-  - node_id: f62edac6-a26b-4e81-b843-7f3b1b91351d
-    title: Room Temperature Superconductor patent
-    slug: room-temperature-superconductor-patent
-  date: null
-  date_end: null
-  location_in_record: ch28:14891-14995
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 4cb70320-7a5b-4012-9f92-2b5eee73a7c9
-  claim_hash: 0d25a84388a90e807fdc98beb6c104ce429105a62208fa148ed35d691bc336a0
-  content: James Sheehy, Chief Technology Officer of the US Navy Naval Air Warfare
-    Center Aircraft Division, sent a letter to Philip Bonzell, a primary patent examiner
-    at the United States Patent and Trademark Office, dated 2017-12-15.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Letter from James Sheehy to Philip Bonzell
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
-    title: United States Patent and Trademark Office
-    slug: united-states-patent-and-trademark-office
-  - node_id: 39de2eec-5d0e-41cc-b510-c8306b8358af
-    title: Philip Bonzell
-    slug: philip-bonzell
-  - node_id: 7ef4602d-48c6-482b-a594-2aabbeda6848
-    title: Naval Air Warfare Centre Aircraft Division
-    slug: naval-air-warfare-centre-aircraft-division
+    shared_claims: 3
   - node_id: 9f4b4da0-1881-4464-8853-9d1542445c13
     title: James Sheehy
+    node_type: person
     slug: james-sheehy
-  date: '2017-12-15'
-  date_end: null
-  location_in_record: ch34:62770-62880
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: afc1d314-0645-4840-ab4a-b16f8ff24c4f
-  claim_hash: 0c70ecb4f139a5072ea18386a93436e3e62aed12b5ee0deda2b5dd5d795bfabd
-  content: James Sheehy sent a follow-up letter dated 2018-11-27 relating to United
-    States Patent and Trademark Office application number 15/678,672.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Sheehy letter within USPTO application 15/678,672 file
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
-    title: United States Patent and Trademark Office
-    slug: united-states-patent-and-trademark-office
-  - node_id: 9f4b4da0-1881-4464-8853-9d1542445c13
-    title: James Sheehy
-    slug: james-sheehy
-  date: '2018-11-27'
-  date_end: null
-  location_in_record: ch34:63163-63276
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 6c555578-c7b7-428e-8c23-2cfeea7b4117
-  claim_hash: 3d600176cf2d7dc700b794be3155f1f19dfdc8cc4d4e70c06526a450ab3f2f3a
-  content: Thomas Dougherty of the United States Patent and Trademark Office interviewed
-    Mark Glut and Salvatore Pais regarding a patent application on 2018-07-10.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: USPTO Applicant-Initiated Interview Summary
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
-    title: United States Patent and Trademark Office
-    slug: united-states-patent-and-trademark-office
-  - node_id: 28d49cd2-3c72-4fc3-9832-479387e26357
-    title: Thomas Dougherty
-    slug: thomas-dougherty
-  - node_id: 5171805b-a8ee-47af-b1e2-0707e179f9f1
-    title: Salvatore Pais
-    slug: salvatore-pais
+    shared_claims: 2
+  - node_id: f62edac6-a26b-4e81-b843-7f3b1b91351d
+    title: Room Temperature Superconductor patent
+    node_type: document
+    slug: room-temperature-superconductor-patent
+    shared_claims: 2
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 2
   - node_id: a2d2596e-fc8e-4832-9a87-f7560e423c69
     title: Mark Glut
+    node_type: person
     slug: mark-glut
-  date: '2018-07-10'
-  date_end: null
-  location_in_record: ch34:64428-64581
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: fe122f77-eea0-47df-9fc7-3dfcaa780e16
-  claim_hash: 43740fe2759b1205ef35167e5bd9a9a1d38b5a0f412a454b7cffc73c218efb70
-  content: An unnamed writer credits a quote attributed to the head of the United
-    States Patent and Trademark Office in a report, stating that humanity is approaching
-    a period when human improvement must end.
-  original_excerpt: This quote that you see up on the screen right now with the Patent
-    Office, the head of the Patent Office in this report says that we're coming upon
-    the arrival of a period when human improvement must end.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: named
-    origin: the head of the United States Patent and Trademark Office
-    relay:
-    - a report quoted on screen
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
-    title: United States Patent and Trademark Office
-    slug: united-states-patent-and-trademark-office
-  date: null
-  date_end: null
-  location_in_record: 00:29:58.7-00:30:10.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 7ef4602d-48c6-482b-a594-2aabbeda6848
+    title: Naval Air Warfare Centre Aircraft Division
+    node_type: organisation
+    slug: naval-air-warfare-centre-aircraft-division
+    shared_claims: 1
+  - node_id: 39de2eec-5d0e-41cc-b510-c8306b8358af
+    title: Philip Bonzell
+    node_type: person
+    slug: philip-bonzell
+    shared_claims: 1
+  - node_id: 28d49cd2-3c72-4fc3-9832-479387e26357
+    title: Thomas Dougherty
+    node_type: person
+    slug: thomas-dougherty
+    shared_claims: 1
+claims:
+  - claim_id: 56e6e303-f990-4aba-a221-a86e4f7024e5
+    claim_hash: d395a87b2e1920ef7502e5fd3dcd6fa0430a1dd97dd162c7b8b1486e06221ecf
+    content: United States patent law has liberal standards for what it allows to be patentable, permitting patents for inventions
+      with no scientific evidence to back their effectiveness, such as patented cures for baldness.
+    original_excerpt: Critics of the law have suggested this allows patents for inventions that are supposedly 'useful', but
+      which have no scientific evidence to back their effectiveness, like patented cures for baldness.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: critics of US patent law
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
+        title: United States Patent and Trademark Office
+        slug: united-states-patent-and-trademark-office
+    date: null
+    date_end: null
+    location_in_record: ch28:12556-12746
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7426bc13-cb28-479c-81a3-04a2e7bfd5ae
+    claim_hash: b2c62f8c2e7dc1028906edbda73596786c8067c2212efb8dfb73c13bfc09605b
+    content: When the United States Patent and Trademark Office initially rejected Salvatore Pais's hybrid craft patent application,
+      the United States Navy vouched for Pais's work in an appeal letter.
+    original_excerpt: the approval of the patent for the hybrid craft in particular is so controversial, because when the
+      US Patent Office knocked back Pais's application, the navy vouched for Pais's work in an appeal letter.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
+        title: United States Patent and Trademark Office
+        slug: united-states-patent-and-trademark-office
+      - node_id: 5171805b-a8ee-47af-b1e2-0707e179f9f1
+        title: Salvatore Pais
+        slug: salvatore-pais
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+    date: null
+    date_end: null
+    location_in_record: ch28:12868-13064
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2765b3ba-f57a-4f6c-a4b7-8b0fdf0f3331
+    claim_hash: 9f3b6f3bc59ac563ef410b68b5927e74eaad9c7999027b57709149423cc25df3
+    content: The United States Patent and Trademark Office rejected Salvatore Pais's room temperature superconductor patent
+      application because the examiner determined the invention was inoperative and lacked utility, as no assertions of room
+      temperature superconductivity had been recognised or verified by the scientific community.
+    original_excerpt: Patent Office documents show that the room temperature superconductor patent was rejected because it
+      was determined by the examiner that the invention was 'inoperative and therefore lacks utility' because 'no assertions
+      of room temperature superconductivity have currently been recognised or verified by the scientific community'.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: United States Patent and Trademark Office documents
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
+        title: United States Patent and Trademark Office
+        slug: united-states-patent-and-trademark-office
+      - node_id: 5171805b-a8ee-47af-b1e2-0707e179f9f1
+        title: Salvatore Pais
+        slug: salvatore-pais
+      - node_id: f62edac6-a26b-4e81-b843-7f3b1b91351d
+        title: Room Temperature Superconductor patent
+        slug: room-temperature-superconductor-patent
+    date: null
+    date_end: null
+    location_in_record: ch28:13578-13924
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 49b8ba9a-5022-4b4b-849e-997fd9ac15e4
+    claim_hash: e47c0480033c644ed6a09c41d9de707f4ee7ad837e2c92ac8d328c849c513773
+    content: It is a crime to make false statements to the United States Patent and Trademark Office, and a false claim would
+      also invalidate a patent.
+    original_excerpt: It is a crime to make false statements to the Patent Office and a false claim would also invalidate
+      a patent, so by making a claim of *operability*, Sheehy truly was sticking his neck out.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
+        title: United States Patent and Trademark Office
+        slug: united-states-patent-and-trademark-office
+    date: null
+    date_end: null
+    location_in_record: ch28:14610-14794
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 29a3896f-aa0a-497a-9c7c-77abf67ebed6
+    claim_hash: 73d29598aa02f56e4e35a0e2cd8d2d4e9100a42fca89a34d31b73104cecb3c04
+    content: The United States Patent and Trademark Office did not accept the United States Navy's evidence for the room temperature
+      superconductor patent, and the application was abandoned.
+    original_excerpt: it seems the Patent Office still did not buy the navy's evidence and, for now, the application has been
+      abandoned.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
+        title: United States Patent and Trademark Office
+        slug: united-states-patent-and-trademark-office
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: f62edac6-a26b-4e81-b843-7f3b1b91351d
+        title: Room Temperature Superconductor patent
+        slug: room-temperature-superconductor-patent
+    date: null
+    date_end: null
+    location_in_record: ch28:14891-14995
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4cb70320-7a5b-4012-9f92-2b5eee73a7c9
+    claim_hash: 0d25a84388a90e807fdc98beb6c104ce429105a62208fa148ed35d691bc336a0
+    content: James Sheehy, Chief Technology Officer of the US Navy Naval Air Warfare Center Aircraft Division, sent a letter
+      to Philip Bonzell, a primary patent examiner at the United States Patent and Trademark Office, dated 2017-12-15.
+    original_excerpt: Letter from James B. Sheehy, CTO, U.S. Navy NAE to Philip Bonzell, Primary Patent Examiner USTPO, 15
+      December 2017.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Letter from James Sheehy to Philip Bonzell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
+        title: United States Patent and Trademark Office
+        slug: united-states-patent-and-trademark-office
+      - node_id: 39de2eec-5d0e-41cc-b510-c8306b8358af
+        title: Philip Bonzell
+        slug: philip-bonzell
+      - node_id: 7ef4602d-48c6-482b-a594-2aabbeda6848
+        title: Naval Air Warfare Centre Aircraft Division
+        slug: naval-air-warfare-centre-aircraft-division
+      - node_id: 9f4b4da0-1881-4464-8853-9d1542445c13
+        title: James Sheehy
+        slug: james-sheehy
+    date: '2017-12-15'
+    date_end: null
+    location_in_record: ch34:62770-62880
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: afc1d314-0645-4840-ab4a-b16f8ff24c4f
+    claim_hash: 0c70ecb4f139a5072ea18386a93436e3e62aed12b5ee0deda2b5dd5d795bfabd
+    content: James Sheehy sent a follow-up letter dated 2018-11-27 relating to United States Patent and Trademark Office application
+      number 15/678,672.
+    original_excerpt: Sheehy letter dated 27 November 2018 is within 'Affidavit-traversing rejectns or objectns rule 132'
+      filed 23 Jan 2019.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Sheehy letter within USPTO application 15/678,672 file
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
+        title: United States Patent and Trademark Office
+        slug: united-states-patent-and-trademark-office
+      - node_id: 9f4b4da0-1881-4464-8853-9d1542445c13
+        title: James Sheehy
+        slug: james-sheehy
+    date: '2018-11-27'
+    date_end: null
+    location_in_record: ch34:63163-63276
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6c555578-c7b7-428e-8c23-2cfeea7b4117
+    claim_hash: 3d600176cf2d7dc700b794be3155f1f19dfdc8cc4d4e70c06526a450ab3f2f3a
+    content: Thomas Dougherty of the United States Patent and Trademark Office interviewed Mark Glut and Salvatore Pais regarding
+      a patent application on 2018-07-10.
+    original_excerpt: US Patent Office Applicant-Initiated Interview Summary, Thomas Dougherty USPTO with Mark Glut, Attorney
+      and Dr Salvatore Pais, Date of interview 10 July 2018.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: USPTO Applicant-Initiated Interview Summary
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
+        title: United States Patent and Trademark Office
+        slug: united-states-patent-and-trademark-office
+      - node_id: 28d49cd2-3c72-4fc3-9832-479387e26357
+        title: Thomas Dougherty
+        slug: thomas-dougherty
+      - node_id: 5171805b-a8ee-47af-b1e2-0707e179f9f1
+        title: Salvatore Pais
+        slug: salvatore-pais
+      - node_id: a2d2596e-fc8e-4832-9a87-f7560e423c69
+        title: Mark Glut
+        slug: mark-glut
+    date: '2018-07-10'
+    date_end: null
+    location_in_record: ch34:64428-64581
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: fe122f77-eea0-47df-9fc7-3dfcaa780e16
+    claim_hash: 43740fe2759b1205ef35167e5bd9a9a1d38b5a0f412a454b7cffc73c218efb70
+    content: An unnamed writer credits a quote attributed to the head of the United States Patent and Trademark Office in
+      a report, stating that humanity is approaching a period when human improvement must end.
+    original_excerpt: This quote that you see up on the screen right now with the Patent Office, the head of the Patent Office
+      in this report says that we're coming upon the arrival of a period when human improvement must end.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: named
+      origin: the head of the United States Patent and Trademark Office
+      relay:
+        - a report quoted on screen
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
+        title: United States Patent and Trademark Office
+        slug: united-states-patent-and-trademark-office
+    date: null
+    date_end: null
+    location_in_record: 00:29:58.7-00:30:10.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null

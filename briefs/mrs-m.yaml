@@ -9,924 +9,939 @@ page:
   claim_count: 22
   claim_count_total: 22
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 22
+  tokens_estimated: 6805
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 22
 related_nodes:
-- node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
-  title: Vicki Klein
-  node_type: person
-  slug: vicki-klein
-  shared_claims: 7
-- node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-  title: Robert Monroe
-  node_type: person
-  slug: robert-monroe
-  shared_claims: 6
-- node_id: 808b8123-e24d-4d70-a919-292952a9c62a
-  title: Samuel Kahn
-  node_type: person
-  slug: samuel-kahn
-  shared_claims: 5
-- node_id: 5e9eb92e-5fa5-4e83-b43d-5774eeff6e38
-  title: Peter Townsend
-  node_type: person
-  slug: peter-townsend
-  shared_claims: 3
-- node_id: 2977f477-2ae1-488e-8d4e-1930c64ad81c
-  title: September 7, 1971 Mrs. Z. backyard entity sighting
-  node_type: event
-  slug: 1971-mrs-z-backyard-entity-sighting-september-7
-  shared_claims: 3
-- node_id: 2f978f15-6532-4c69-977e-6ac61eee04c2
-  title: Australia, Australian Capital Territory, Canberra
-  node_type: place
-  slug: australian-capital-territory-canberra-australia
-  shared_claims: 2
-- node_id: 8930d84b-2a19-44fc-82cb-4af19328be48
-  title: Prince Philip, Duke of Edinburgh
-  node_type: person
-  slug: duke-of-edinburgh-prince-philip
-  shared_claims: 2
-- node_id: c2a3a5d9-cc8d-44c1-a397-c3e79b3508f3
-  title: R.G.
-  node_type: person
-  slug: rg
-  shared_claims: 2
-- node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
-  title: mediumship
-  node_type: topic
-  slug: mediumship
-  shared_claims: 2
-- node_id: 61fecc8c-b714-4a6d-8edd-209dcd78783a
-  title: Cancer Memorial Hospital
-  node_type: organisation
-  slug: cancer-memorial-hospital
-  shared_claims: 1
-- node_id: 32a6dc58-fde5-4044-a6de-68a8091f0861
-  title: Claude (the Man)
-  node_type: person
-  slug: claude-the-man
-  shared_claims: 1
-- node_id: c4a31b50-ae62-4675-9741-3b4b3c89eaea
-  title: Mr. Janus
-  node_type: person
-  slug: mr-janus
-  shared_claims: 1
-- node_id: d03944a2-7b36-46ff-8751-02039d5d012d
-  title: Sounds from Another Room
-  node_type: document
-  slug: sounds-from-another-room
-  shared_claims: 1
-- node_id: e8d67c8e-f0dd-4c2a-bc87-8d3b4715a228
-  title: USA, New York, New York City
-  node_type: place
-  slug: new-york-new-york-city-usa
-  shared_claims: 1
-- node_id: 134433ac-c317-4826-9edd-5f732f74521c
-  title: United Kingdom, London
-  node_type: place
-  slug: london-united-kingdom
-  shared_claims: 1
-claims:
-- claim_id: a54fe7a8-4aaa-4c6e-a7e7-e600ed30c4d0
-  claim_hash: 8e99501a04c83f1bac8639a047e70946186a82eec3646bd2ae6bbd1da55e3847
-  content: Vicki Klein and her neighbour Mrs. Z. were preoccupied with the impending
-    chaos to be played out on Canberra, including its signs, preparation, and exact
-    nature.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2f978f15-6532-4c69-977e-6ac61eee04c2
-    title: Australia, Australian Capital Territory, Canberra
-    slug: australian-capital-territory-canberra-australia
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
   - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
     title: Vicki Klein
+    node_type: person
     slug: vicki-klein
-  date: null
-  date_end: null
-  location_in_record: ch16:12159-12371
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: e095218c-57a8-486e-8b1f-f7c5d82ee39d
-  claim_hash: ff84ff136b2fbb859f324d8e2b73457b8ad98f260fc2fdfc523e28da6730f568
-  content: Vicki Klein and Mrs. Z. claimed they had been told that when the chaos
-    comes they are to go with their children to a particular location south of Canberra
-    and await events, and had already prepared some food to take.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2f978f15-6532-4c69-977e-6ac61eee04c2
-    title: Australia, Australian Capital Territory, Canberra
-    slug: australian-capital-territory-canberra-australia
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
-    title: Vicki Klein
-    slug: vicki-klein
-  date: null
-  date_end: null
-  location_in_record: ch16:12407-12616
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 077a5ef7-fbf4-4674-ab73-02f12ef0eeec
-  claim_hash: bed244a0183bf40456bdd4cdf379e800262f863bb89d66327449a2187189a869
-  content: According to Vicki Klein and Mrs. Z., the first day of the coming chaos
-    would bring severe earth tremors, weird colours in the sky, green discs flying
-    over, and red balls fired at the ground starting fires, with major earthquakes
-    coming on the second or third day.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
-    title: Vicki Klein
-    slug: vicki-klein
-  date: null
-  date_end: null
-  location_in_record: ch16:12622-12835
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 35f936fd-4d22-4299-9e55-4f0c4e63dd5a
-  claim_hash: ab49ef424f90ff568a19b58e4929eb4504a295393afea75ec55e6be519e81778
-  content: Mrs. Z. had an adopted child whom she considered to really be one of the
-    blonde race's children.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  date: null
-  date_end: null
-  location_in_record: ch16:12893-12976
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 5e948bdd-71f1-4730-9fda-8fe609fc51cd
-  claim_hash: ae77fe0b3737891b31974844295b34318051eb26c86451b7de2467d7dc8c0e33
-  content: Vicki Klein and Mrs. Z. had been told they would have more children even
-    though Mrs. Z. had had a hysterectomy and Vicki Klein had had her tubes tied.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
-    title: Vicki Klein
-    slug: vicki-klein
-  date: null
-  date_end: null
-  location_in_record: ch16:13098-13224
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 5b7445c3-3495-47a8-bf3b-a965a05db933
-  claim_hash: 22b463da8a985a81e22feb6042ae57512850cd77c612ee47960d5e4704823a35
-  content: Vicki Klein and Mrs. Z. both claimed to have had ova taken from them in
-    a painful operation, with the children created and bred elsewhere for a time when
-    they would be returned to earth.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
-    title: Vicki Klein
-    slug: vicki-klein
-  date: null
-  date_end: null
-  location_in_record: ch16:15321-15519
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 104c8c8c-e992-4f15-86e3-3c168495ffa2
-  claim_hash: faf5e0e0152f8228ad7d088aced4c0f763804940de9beca0306c126433653da8
-  content: Vicki Klein and Mrs. Z. both claimed that on the same night they were taken
-    astrally to a place with a huge room whose walls were covered with small cells,
-    where Mrs. Z. saw embryos being incubated.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
-    title: Vicki Klein
-    slug: vicki-klein
-  date: null
-  date_end: null
-  location_in_record: ch16:15526-15688
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 6fd463a9-4ef0-430d-b338-95a8c5238fc2
-  claim_hash: 6ce5bffceec4e72422da18e012d0052901461bf8507a7c598e8de6bece797810
-  content: Mrs. Z. claimed that during the evening of September 7, 1971, she went
-    to the rear of her house because her dog was acting up.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2977f477-2ae1-488e-8d4e-1930c64ad81c
-    title: September 7, 1971 Mrs. Z. backyard entity sighting
-    slug: 1971-mrs-z-backyard-entity-sighting-september-7
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  date: '1971-09-07'
-  date_end: null
-  location_in_record: ch16:17937-18064
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 12f42d93-1fc7-4f6b-b47e-d34833d2b323
-  claim_hash: ef777092acf93cd19906a8636f588fae26d7c5807767ac715b0a8bd0f7f24189
-  content: As Mrs. Z.'s dog retreated indoors on September 7, 1971, she noticed two
-    figures in Vicki Klein's backyard near a tree and, puzzled, went towards them
-    and shone her torch on them.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2977f477-2ae1-488e-8d4e-1930c64ad81c
-    title: September 7, 1971 Mrs. Z. backyard entity sighting
-    slug: 1971-mrs-z-backyard-entity-sighting-september-7
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
-    title: Vicki Klein
-    slug: vicki-klein
-  date: '1971-09-07'
-  date_end: null
-  location_in_record: ch16:18092-18377
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 98c4bcdf-a8d5-49b3-ab72-f27d43bcbd37
-  claim_hash: d1c4e156bc19fb2cf99b3bec99853201a58a83d9f12cc4e00eb3c6471da36db7
-  content: The two figures Mrs. Z. saw in Vicki Klein's backyard on September 7, 1971
-    turned out to be a tall metal-meshed clad figure like Claude with his dog-faced
-    companion, who were smiling at her as though a joke was being played, before gradually
-    fading away with no signs remaining.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2977f477-2ae1-488e-8d4e-1930c64ad81c
-    title: September 7, 1971 Mrs. Z. backyard entity sighting
-    slug: 1971-mrs-z-backyard-entity-sighting-september-7
-  - node_id: 32a6dc58-fde5-4044-a6de-68a8091f0861
-    title: Claude (the Man)
-    slug: claude-the-man
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  date: '1971-09-07'
-  date_end: null
-  location_in_record: ch16:18383-18591
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: ce71c43e-b3ed-4c8f-8c9d-bdbec772a6e4
-  claim_hash: ef17c543f7418d4323b7cc46bd562a9a06d98bedec4bf85187cb18d6d278bb12
-  content: Samuel Kahn told Robert Monroe that Mrs. W. had died about a year before,
-    in the very room in the rented house where Robert Monroe was sleeping.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-  provenance_chain:
-    origin_kind: named
-    origin: Samuel Kahn
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 7
   - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
     title: Robert Monroe
+    node_type: person
     slug: robert-monroe
+    shared_claims: 6
   - node_id: 808b8123-e24d-4d70-a919-292952a9c62a
     title: Samuel Kahn
+    node_type: person
     slug: samuel-kahn
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  date: null
-  date_end: null
-  location_in_record: 148-152
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-  excerpt_withheld: restricted
-- claim_id: efdfe96d-6999-4d57-bf0c-74f05948c3e7
-  claim_hash: f7fccf7fdab969b240ae98029b58d487be86b9905b02a865744d05a957fc1c51
-  content: Samuel Kahn showed Robert Monroe a group photograph in which Robert Monroe
-    identified a face as Mrs. W., which Samuel Kahn confirmed.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-  provenance_chain:
-    origin_kind: speaker
-    origin: Robert Monroe
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-    slug: robert-monroe
-  - node_id: 808b8123-e24d-4d70-a919-292952a9c62a
-    title: Samuel Kahn
-    slug: samuel-kahn
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  date: null
-  date_end: null
-  location_in_record: 160-168
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-  excerpt_withheld: restricted
-- claim_id: 6626fa9c-31ca-45e7-a5a7-47ec304e6081
-  claim_hash: e3fcd3ba6936da504b34332ac91bc376f4397033ca75b3d704a857a63c27d41a
-  content: On the night of 1960-10-12, Robert Monroe reported an out-of-body experience
-    in which he first consulted Mrs. M., a woman he believed had mediumistic powers,
-    regarding séances.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-  provenance_chain:
-    origin_kind: speaker
-    origin: Robert Monroe
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-    slug: robert-monroe
-  - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
-    title: mediumship
-    slug: mediumship
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  date: '1960-10-12'
-  date_end: null
-  location_in_record: ch11:10822-11046
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-  excerpt_withheld: restricted
-- claim_id: fb4fa28a-b19c-4792-a85f-ffc8959e88b9
-  claim_hash: 9b6d673ed92f8abd7ca71927aa9146a5ba508825902154d777b4daae0d7769b9
-  content: Robert Monroe considered that the "guides" who spoke through Mrs. M. during
-    her trance sittings were manifestations of a self-induced hypnotic or split-personality
-    state rather than genuine spirit communication.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-  provenance_chain:
-    origin_kind: speaker
-    origin: Robert Monroe
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-    slug: robert-monroe
-  - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
-    title: mediumship
-    slug: mediumship
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  date: null
-  date_end: null
-  location_in_record: ch11:11201-11486
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-  excerpt_withheld: restricted
-- claim_id: 2a0c4cf4-8d3d-4c61-8020-7cc8ed14249d
-  claim_hash: af2693eedafd88fa05260929a3c8c5b8858a5a55b38d3f56fa0b436f65dfa31c
-  content: R.G., a friend of Mrs. M., had suggested that Robert Monroe attempt to
-    visit a séance to be held by Mrs. M. in a New York apartment on a Friday night.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-  provenance_chain:
-    origin_kind: speaker
-    origin: Robert Monroe
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-    slug: robert-monroe
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
+    shared_claims: 5
+  - node_id: 5e9eb92e-5fa5-4e83-b43d-5774eeff6e38
+    title: Peter Townsend
+    node_type: person
+    slug: peter-townsend
+    shared_claims: 3
+  - node_id: 2977f477-2ae1-488e-8d4e-1930c64ad81c
+    title: September 7, 1971 Mrs. Z. backyard entity sighting
+    node_type: event
+    slug: 1971-mrs-z-backyard-entity-sighting-september-7
+    shared_claims: 3
+  - node_id: 2f978f15-6532-4c69-977e-6ac61eee04c2
+    title: Australia, Australian Capital Territory, Canberra
+    node_type: place
+    slug: australian-capital-territory-canberra-australia
+    shared_claims: 2
+  - node_id: 8930d84b-2a19-44fc-82cb-4af19328be48
+    title: Prince Philip, Duke of Edinburgh
+    node_type: person
+    slug: duke-of-edinburgh-prince-philip
+    shared_claims: 2
   - node_id: c2a3a5d9-cc8d-44c1-a397-c3e79b3508f3
     title: R.G.
+    node_type: person
     slug: rg
-  - node_id: e8d67c8e-f0dd-4c2a-bc87-8d3b4715a228
-    title: USA, New York, New York City
-    slug: new-york-new-york-city-usa
-  date: null
-  date_end: null
-  location_in_record: ch11:12306-12449
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-  excerpt_withheld: restricted
-- claim_id: e6d1ab4b-e2a9-4bc4-8aa3-cec7b1d16534
-  claim_hash: 7e1dc974cefd34ff1bf9fbc5b43dc55083a2f3b4a3b81a924e23e2d6416d41f2
-  content: When Robert Monroe telephoned R.G. afterward, he learned that four women
-    had indeed been present at Mrs. M.'s gathering, and that one of the women had
-    stated she was working at Cancer Memorial Hospital the following day.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-  provenance_chain:
-    origin_kind: named
-    origin: R.G.
-    relay:
-    - a phone call to Robert Monroe
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-    slug: robert-monroe
+    shared_claims: 2
+  - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
+    title: mediumship
+    node_type: topic
+    slug: mediumship
+    shared_claims: 2
   - node_id: 61fecc8c-b714-4a6d-8edd-209dcd78783a
     title: Cancer Memorial Hospital
+    node_type: organisation
     slug: cancer-memorial-hospital
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  - node_id: c2a3a5d9-cc8d-44c1-a397-c3e79b3508f3
-    title: R.G.
-    slug: rg
-  date: '1960-10-12'
-  date_end: null
-  location_in_record: ch11:16009-16147
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-  excerpt_withheld: restricted
-- claim_id: 40cc7e7c-4787-48d1-9d2f-ae07fad4eb32
-  claim_hash: 75a3f8f7ba20abc116bec4d534f87b830f6bfbe05bbf16942040cd303c5a00b7
-  content: Samuel Kahn told Robert Monroe that after Mrs. W.'s death, Mr. W. refused
-    to go into the house, moved out, and did not return.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-  provenance_chain:
-    origin_kind: named
-    origin: Samuel Kahn
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 808b8123-e24d-4d70-a919-292952a9c62a
-    title: Samuel Kahn
-    slug: samuel-kahn
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  date: null
-  date_end: null
-  location_in_record: ch15:16639-16719
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-  excerpt_withheld: restricted
-- claim_id: 669ba1ef-6598-4178-a8e5-39efae848e7c
-  claim_hash: 16d60bcdaf82f4cb224392e3dccba6f94945e4585e5f7130163d03940229b64f
-  content: Samuel Kahn told Robert Monroe that Mrs. W. was very fond of paintings
-    and had them hung all over the house.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-  provenance_chain:
-    origin_kind: named
-    origin: Samuel Kahn
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 808b8123-e24d-4d70-a919-292952a9c62a
-    title: Samuel Kahn
-    slug: samuel-kahn
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  date: null
-  date_end: null
-  location_in_record: ch15:17022-17120
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-  excerpt_withheld: restricted
-- claim_id: 4ad30234-4549-4778-8a4c-3380ac86f243
-  claim_hash: c2f66b1bd39ebcafab35d62e4ffaf01cf2ec819dbc2cb6f559437327a3062d39
-  content: Samuel Kahn told Robert Monroe that Mrs. W. had a mannerism of taking a
-    person's hand in both of hers, palm to palm, and giving a little squeeze whenever
-    she was happy or grateful.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-  provenance_chain:
-    origin_kind: named
-    origin: Samuel Kahn
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 808b8123-e24d-4d70-a919-292952a9c62a
-    title: Samuel Kahn
-    slug: samuel-kahn
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  date: null
-  date_end: null
-  location_in_record: ch15:18202-18330
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-  excerpt_withheld: restricted
-- claim_id: e7f7e93d-0c76-4cdd-8397-c5c823e455bd
-  claim_hash: c7f05dd3c6dc4958aaedc702454a0838a3b9f167dcfc123855523ea633421ef6
-  content: Peter Townsend, according to his book Sounds from Another Room, was introduced
-    to a woman called Mrs. Markham, who had a flat in Chelsea, London.
-  original_excerpt: he tells the story of being introduced to a woman called Mrs.
-    Markham, who had a flat in Chelsea, fashionable Chelsea.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: document
-    origin: Sounds from Another Room
-    relay:
-    - Jonathan Caplan
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 134433ac-c317-4826-9edd-5f732f74521c
-    title: United Kingdom, London
-    slug: london-united-kingdom
-  - node_id: 5e9eb92e-5fa5-4e83-b43d-5774eeff6e38
-    title: Peter Townsend
-    slug: peter-townsend
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  - node_id: d03944a2-7b36-46ff-8751-02039d5d012d
-    title: Sounds from Another Room
-    slug: sounds-from-another-room
-  date: null
-  date_end: null
-  location_in_record: 00:10:04.6-00:10:14.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 48385804-e981-40e6-a573-350b8bdec6cf
-  claim_hash: a6fe758057213f154f9b49262a0ce4ee073bd85936affe3160d93eca51be7e5b
-  content: Peter Townsend was asked by a military colleague to go to Mrs. Markham's
-    flat to meet her and someone who had information for Prince Philip, Duke of Edinburgh.
-  original_excerpt: he was asked to go there by a military colleague and to meet her
-    and somebody who was interested in possibly having some information for Prince
-    Philip.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: document
-    origin: Sounds from Another Room
-    relay:
-    - Jonathan Caplan
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5e9eb92e-5fa5-4e83-b43d-5774eeff6e38
-    title: Peter Townsend
-    slug: peter-townsend
-  - node_id: 8930d84b-2a19-44fc-82cb-4af19328be48
-    title: Prince Philip, Duke of Edinburgh
-    slug: duke-of-edinburgh-prince-philip
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
-  date: null
-  date_end: null
-  location_in_record: 00:10:17.2-00:10:29.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 476d4097-6cf7-4109-8c6b-da71f60373ae
-  claim_hash: e6e6a8ec85cc079e5526527e43fee16babe7701ebf58effa8049bff57c386d8f
-  content: When Peter Townsend later returned to Mrs. Markham's flat, he found it
-    empty and was unable to make further contact with her, and he decided not to arrange
-    the introduction between Mr. Janus and Prince Philip, Duke of Edinburgh.
-  original_excerpt: went back to Mrs Markham's flat sometime later. But she was not
-    there, the flat was empty, and he was unable to make any further contact with
-    her. But he decided very much that he was not going to make that introduction.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: document
-    origin: Sounds from Another Room
-    relay:
-    - Jonathan Caplan
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5e9eb92e-5fa5-4e83-b43d-5774eeff6e38
-    title: Peter Townsend
-    slug: peter-townsend
-  - node_id: 8930d84b-2a19-44fc-82cb-4af19328be48
-    title: Prince Philip, Duke of Edinburgh
-    slug: duke-of-edinburgh-prince-philip
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-    title: Mrs. M.
-    slug: mrs-m
+    shared_claims: 1
+  - node_id: 32a6dc58-fde5-4044-a6de-68a8091f0861
+    title: Claude (the Man)
+    node_type: person
+    slug: claude-the-man
+    shared_claims: 1
   - node_id: c4a31b50-ae62-4675-9741-3b4b3c89eaea
     title: Mr. Janus
+    node_type: person
     slug: mr-janus
-  date: null
-  date_end: null
-  location_in_record: 00:12:10.3-00:12:25.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
+    shared_claims: 1
+  - node_id: d03944a2-7b36-46ff-8751-02039d5d012d
+    title: Sounds from Another Room
+    node_type: document
+    slug: sounds-from-another-room
+    shared_claims: 1
+  - node_id: 134433ac-c317-4826-9edd-5f732f74521c
+    title: UK, London
+    node_type: place
+    slug: london-uk
+    shared_claims: 1
+  - node_id: e8d67c8e-f0dd-4c2a-bc87-8d3b4715a228
+    title: USA, New York, New York City
+    node_type: place
+    slug: new-york-new-york-city-usa
+    shared_claims: 1
+claims:
+  - claim_id: a54fe7a8-4aaa-4c6e-a7e7-e600ed30c4d0
+    claim_hash: 8e99501a04c83f1bac8639a047e70946186a82eec3646bd2ae6bbd1da55e3847
+    content: Vicki Klein and her neighbour Mrs. Z. were preoccupied with the impending chaos to be played out on Canberra,
+      including its signs, preparation, and exact nature.
+    original_excerpt: The impending “chaos” to be played out on Canberra—including the convoluted “signs” heralding it, the
+      preparation for it, and its exact nature—became a major preoccupation for Vicki Klein and Mrs. Z., one of her neighbors.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f978f15-6532-4c69-977e-6ac61eee04c2
+        title: Australia, Australian Capital Territory, Canberra
+        slug: australian-capital-territory-canberra-australia
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+      - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+        title: Vicki Klein
+        slug: vicki-klein
+    date: null
+    date_end: null
+    location_in_record: ch16:12159-12371
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: e095218c-57a8-486e-8b1f-f7c5d82ee39d
+    claim_hash: ff84ff136b2fbb859f324d8e2b73457b8ad98f260fc2fdfc523e28da6730f568
+    content: Vicki Klein and Mrs. Z. claimed they had been told that when the chaos comes they are to go with their children
+      to a particular location south of Canberra and await events, and had already prepared some food to take.
+    original_excerpt: “Both women claim they have been told that when the chaos comes they are to go to a particular location
+      south of Canberra with their children and await events. They already have some food prepared to take with them.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f978f15-6532-4c69-977e-6ac61eee04c2
+        title: Australia, Australian Capital Territory, Canberra
+        slug: australian-capital-territory-canberra-australia
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+      - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+        title: Vicki Klein
+        slug: vicki-klein
+    date: null
+    date_end: null
+    location_in_record: ch16:12407-12616
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 077a5ef7-fbf4-4674-ab73-02f12ef0eeec
+    claim_hash: bed244a0183bf40456bdd4cdf379e800262f863bb89d66327449a2187189a869
+    content: According to Vicki Klein and Mrs. Z., the first day of the coming chaos would bring severe earth tremors, weird
+      colours in the sky, green discs flying over, and red balls fired at the ground starting fires, with major earthquakes
+      coming on the second or third day.
+    original_excerpt: The first day of the chaos will be severe earth tremors, weird colors in the sky, green discs flying
+      over and red balls fired at the ground, which will start fires. Later (second or third day) will come the major earthquakes.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+      - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+        title: Vicki Klein
+        slug: vicki-klein
+    date: null
+    date_end: null
+    location_in_record: ch16:12622-12835
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 35f936fd-4d22-4299-9e55-4f0c4e63dd5a
+    claim_hash: ab49ef424f90ff568a19b58e4929eb4504a295393afea75ec55e6be519e81778
+    content: Mrs. Z. had an adopted child whom she considered to really be one of the blonde race's children.
+    original_excerpt: Mrs. Z. has an adopted child, who she considers is really one of the blonde race’s children
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+    date: null
+    date_end: null
+    location_in_record: ch16:12893-12976
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 5e948bdd-71f1-4730-9fda-8fe609fc51cd
+    claim_hash: ae77fe0b3737891b31974844295b34318051eb26c86451b7de2467d7dc8c0e33
+    content: Vicki Klein and Mrs. Z. had been told they would have more children even though Mrs. Z. had had a hysterectomy
+      and Vicki Klein had had her tubes tied.
+    original_excerpt: They have been told that they will have more children even though Mrs. Z. has had a hysterectomy and
+      Mrs. K has had her tubes tied.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+      - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+        title: Vicki Klein
+        slug: vicki-klein
+    date: null
+    date_end: null
+    location_in_record: ch16:13098-13224
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 5b7445c3-3495-47a8-bf3b-a965a05db933
+    claim_hash: 22b463da8a985a81e22feb6042ae57512850cd77c612ee47960d5e4704823a35
+    content: Vicki Klein and Mrs. Z. both claimed to have had ova taken from them in a painful operation, with the children
+      created and bred elsewhere for a time when they would be returned to earth.
+    original_excerpt: They both claim to have had ova taken from them (they say the operation is quite painful) and that children
+      are being created and bred in some other place for the time when they will be returned to earth.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+      - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+        title: Vicki Klein
+        slug: vicki-klein
+    date: null
+    date_end: null
+    location_in_record: ch16:15321-15519
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 104c8c8c-e992-4f15-86e3-3c168495ffa2
+    claim_hash: faf5e0e0152f8228ad7d088aced4c0f763804940de9beca0306c126433653da8
+    content: Vicki Klein and Mrs. Z. both claimed that on the same night they were taken astrally to a place with a huge room
+      whose walls were covered with small cells, where Mrs. Z. saw embryos being incubated.
+    original_excerpt: They both claim that on the same night they were both taken astrally to a place, a huge room whose walls
+      were covered with small cells, Mrs. Z. saw embryos being incubated.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+      - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+        title: Vicki Klein
+        slug: vicki-klein
+    date: null
+    date_end: null
+    location_in_record: ch16:15526-15688
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 6fd463a9-4ef0-430d-b338-95a8c5238fc2
+    claim_hash: 6ce5bffceec4e72422da18e012d0052901461bf8507a7c598e8de6bece797810
+    content: Mrs. Z. claimed that during the evening of September 7, 1971, she went to the rear of her house because her dog
+      was acting up.
+    original_excerpt: Mrs. Z. claimed that during the evening of September 7, 1971, she had gone to the rear of the house
+      because her dog was acting up.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2977f477-2ae1-488e-8d4e-1930c64ad81c
+        title: September 7, 1971 Mrs. Z. backyard entity sighting
+        slug: 1971-mrs-z-backyard-entity-sighting-september-7
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+    date: '1971-09-07'
+    date_end: null
+    location_in_record: ch16:17937-18064
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 12f42d93-1fc7-4f6b-b47e-d34833d2b323
+    claim_hash: ef777092acf93cd19906a8636f588fae26d7c5807767ac715b0a8bd0f7f24189
+    content: As Mrs. Z.'s dog retreated indoors on September 7, 1971, she noticed two figures in Vicki Klein's backyard near
+      a tree and, puzzled, went towards them and shone her torch on them.
+    original_excerpt: “As the dog retreated indoors, she noticed two figures in Mrs. Klein’s backyard near a tree. Mrs. Z.
+      thought they must be Mr. and Mrs. Klein but was puzzled as to why they should be standing in that position and be so
+      still. So she went towards them and shone her torch [flashlight] on them.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2977f477-2ae1-488e-8d4e-1930c64ad81c
+        title: September 7, 1971 Mrs. Z. backyard entity sighting
+        slug: 1971-mrs-z-backyard-entity-sighting-september-7
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+      - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+        title: Vicki Klein
+        slug: vicki-klein
+    date: '1971-09-07'
+    date_end: null
+    location_in_record: ch16:18092-18377
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 98c4bcdf-a8d5-49b3-ab72-f27d43bcbd37
+    claim_hash: d1c4e156bc19fb2cf99b3bec99853201a58a83d9f12cc4e00eb3c6471da36db7
+    content: The two figures Mrs. Z. saw in Vicki Klein's backyard on September 7, 1971 turned out to be a tall metal-meshed
+      clad figure like Claude with his dog-faced companion, who were smiling at her as though a joke was being played, before
+      gradually fading away with no signs remaining.
+    original_excerpt: They turned out to be a tall metal-meshed clad figure (like ‘Claude’) with his ‘dog-faced’ companion.
+      They were smiling at her as though a joke was being played on her and then gradually faded away. No signs remained.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2977f477-2ae1-488e-8d4e-1930c64ad81c
+        title: September 7, 1971 Mrs. Z. backyard entity sighting
+        slug: 1971-mrs-z-backyard-entity-sighting-september-7
+      - node_id: 32a6dc58-fde5-4044-a6de-68a8091f0861
+        title: Claude (the Man)
+        slug: claude-the-man
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+    date: '1971-09-07'
+    date_end: null
+    location_in_record: ch16:18383-18591
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: ce71c43e-b3ed-4c8f-8c9d-bdbec772a6e4
+    claim_hash: ef17c543f7418d4323b7cc46bd562a9a06d98bedec4bf85187cb18d6d278bb12
+    content: Samuel Kahn told Robert Monroe that Mrs. W. had died about a year before, in the very room in the rented house
+      where Robert Monroe was sleeping.
+    original_excerpt: “Mrs. W. died about a year ago... Matter of fact, she died right there in the house, in the room you’re
+      sleeping in.”
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      title: Robert Monroe
+    provenance_chain:
+      origin_kind: named
+      origin: Samuel Kahn
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 808b8123-e24d-4d70-a919-292952a9c62a
+        title: Samuel Kahn
+        slug: samuel-kahn
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+    date: null
+    date_end: null
+    location_in_record: 148-152
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: efdfe96d-6999-4d57-bf0c-74f05948c3e7
+    claim_hash: f7fccf7fdab969b240ae98029b58d487be86b9905b02a865744d05a957fc1c51
+    content: Samuel Kahn showed Robert Monroe a group photograph in which Robert Monroe identified a face as Mrs. W., which
+      Samuel Kahn confirmed.
+    original_excerpt: In his hand was a photograph showing some fifty or sixty men and women... I touched it with my finger
+      and asked Dr. Kahn if this was Mrs. W. “Oh yes, yes, that’s Mrs. W.”
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      title: Robert Monroe
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Monroe
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 808b8123-e24d-4d70-a919-292952a9c62a
+        title: Samuel Kahn
+        slug: samuel-kahn
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+    date: null
+    date_end: null
+    location_in_record: 160-168
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 6626fa9c-31ca-45e7-a5a7-47ec304e6081
+    claim_hash: e3fcd3ba6936da504b34332ac91bc376f4397033ca75b3d704a857a63c27d41a
+    content: On the night of 1960-10-12, Robert Monroe reported an out-of-body experience in which he first consulted Mrs.
+      M., a woman he believed had mediumistic powers, regarding séances.
+    original_excerpt: 10/12/60 Night / The results are so contradictory to what I believed that it must be reported in detail.
+      In our attempts to find some answers, anywhere, we had come in contact with Mrs. M., who purportedly had mediumistic
+      powers.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      title: Robert Monroe
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Monroe
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
+        title: mediumship
+        slug: mediumship
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+    date: '1960-10-12'
+    date_end: null
+    location_in_record: ch11:10822-11046
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: fb4fa28a-b19c-4792-a85f-ffc8959e88b9
+    claim_hash: 9b6d673ed92f8abd7ca71927aa9146a5ba508825902154d777b4daae0d7769b9
+    content: Robert Monroe considered that the "guides" who spoke through Mrs. M. during her trance sittings were manifestations
+      of a self-induced hypnotic or split-personality state rather than genuine spirit communication.
+    original_excerpt: I came away with the definite impression that Mrs. M., although deeply sincere, was acting out some
+      form of split personality when she went into a trance. The 'guides' who took over her body... were to me nothing more
+      or less than manifestations of this.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      title: Robert Monroe
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Monroe
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
+        title: mediumship
+        slug: mediumship
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+    date: null
+    date_end: null
+    location_in_record: ch11:11201-11486
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 2a0c4cf4-8d3d-4c61-8020-7cc8ed14249d
+    claim_hash: af2693eedafd88fa05260929a3c8c5b8858a5a55b38d3f56fa0b436f65dfa31c
+    content: R.G., a friend of Mrs. M., had suggested that Robert Monroe attempt to visit a séance to be held by Mrs. M. in
+      a New York apartment on a Friday night.
+    original_excerpt: R.G., a friend of Mrs. M., had suggested that I attempt to 'visit' a séance to be held by Mrs. M. in
+      a New York apartment Friday night (last night).
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      title: Robert Monroe
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Monroe
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+      - node_id: c2a3a5d9-cc8d-44c1-a397-c3e79b3508f3
+        title: R.G.
+        slug: rg
+      - node_id: e8d67c8e-f0dd-4c2a-bc87-8d3b4715a228
+        title: USA, New York, New York City
+        slug: new-york-new-york-city-usa
+    date: null
+    date_end: null
+    location_in_record: ch11:12306-12449
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: e6d1ab4b-e2a9-4bc4-8aa3-cec7b1d16534
+    claim_hash: 7e1dc974cefd34ff1bf9fbc5b43dc55083a2f3b4a3b81a924e23e2d6416d41f2
+    content: When Robert Monroe telephoned R.G. afterward, he learned that four women had indeed been present at Mrs. M.'s
+      gathering, and that one of the women had stated she was working at Cancer Memorial Hospital the following day.
+    original_excerpt: So I phoned R.G. and discovered several things. First, there were four women at the séance... one of
+      the women had stated she was working at Cancer Memorial Hospital the following day.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      title: Robert Monroe
+    provenance_chain:
+      origin_kind: named
+      origin: R.G.
+      relay:
+        - a phone call to Robert Monroe
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 61fecc8c-b714-4a6d-8edd-209dcd78783a
+        title: Cancer Memorial Hospital
+        slug: cancer-memorial-hospital
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+      - node_id: c2a3a5d9-cc8d-44c1-a397-c3e79b3508f3
+        title: R.G.
+        slug: rg
+    date: '1960-10-12'
+    date_end: null
+    location_in_record: ch11:16009-16147
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 40cc7e7c-4787-48d1-9d2f-ae07fad4eb32
+    claim_hash: 75a3f8f7ba20abc116bec4d534f87b830f6bfbe05bbf16942040cd303c5a00b7
+    content: Samuel Kahn told Robert Monroe that after Mrs. W.'s death, Mr. W. refused to go into the house, moved out, and
+      did not return.
+    original_excerpt: After that, Mr. W. refused to go into the house, just moved out and didn’t come back.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      title: Robert Monroe
+    provenance_chain:
+      origin_kind: named
+      origin: Samuel Kahn
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 808b8123-e24d-4d70-a919-292952a9c62a
+        title: Samuel Kahn
+        slug: samuel-kahn
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+    date: null
+    date_end: null
+    location_in_record: ch15:16639-16719
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 669ba1ef-6598-4178-a8e5-39efae848e7c
+    claim_hash: 16d60bcdaf82f4cb224392e3dccba6f94945e4585e5f7130163d03940229b64f
+    content: Samuel Kahn told Robert Monroe that Mrs. W. was very fond of paintings and had them hung all over the house.
+    original_excerpt: “Very fond of paintings. Had them hung all over the place. But the house was pretty much her whole life.”
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      title: Robert Monroe
+    provenance_chain:
+      origin_kind: named
+      origin: Samuel Kahn
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 808b8123-e24d-4d70-a919-292952a9c62a
+        title: Samuel Kahn
+        slug: samuel-kahn
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+    date: null
+    date_end: null
+    location_in_record: ch15:17022-17120
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 4ad30234-4549-4778-8a4c-3380ac86f243
+    claim_hash: c2f66b1bd39ebcafab35d62e4ffaf01cf2ec819dbc2cb6f559437327a3062d39
+    content: Samuel Kahn told Robert Monroe that Mrs. W. had a mannerism of taking a person's hand in both of hers, palm to
+      palm, and giving a little squeeze whenever she was happy or grateful.
+    original_excerpt: “Why, whenever she was happy or grateful, she took your hand in both of hers, palm to palm, and gave
+      a little squeeze. Does that help?”
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      title: Robert Monroe
+    provenance_chain:
+      origin_kind: named
+      origin: Samuel Kahn
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 808b8123-e24d-4d70-a919-292952a9c62a
+        title: Samuel Kahn
+        slug: samuel-kahn
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+    date: null
+    date_end: null
+    location_in_record: ch15:18202-18330
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: e7f7e93d-0c76-4cdd-8397-c5c823e455bd
+    claim_hash: c7f05dd3c6dc4958aaedc702454a0838a3b9f167dcfc123855523ea633421ef6
+    content: Peter Townsend, according to his book Sounds from Another Room, was introduced to a woman called Mrs. Markham,
+      who had a flat in Chelsea, London.
+    original_excerpt: he tells the story of being introduced to a woman called Mrs. Markham, who had a flat in Chelsea, fashionable
+      Chelsea.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: document
+      origin: Sounds from Another Room
+      relay:
+        - Jonathan Caplan
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 134433ac-c317-4826-9edd-5f732f74521c
+        title: UK, London
+        slug: london-uk
+      - node_id: 5e9eb92e-5fa5-4e83-b43d-5774eeff6e38
+        title: Peter Townsend
+        slug: peter-townsend
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+      - node_id: d03944a2-7b36-46ff-8751-02039d5d012d
+        title: Sounds from Another Room
+        slug: sounds-from-another-room
+    date: null
+    date_end: null
+    location_in_record: 00:10:04.6-00:10:14.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 48385804-e981-40e6-a573-350b8bdec6cf
+    claim_hash: a6fe758057213f154f9b49262a0ce4ee073bd85936affe3160d93eca51be7e5b
+    content: Peter Townsend was asked by a military colleague to go to Mrs. Markham's flat to meet her and someone who had
+      information for Prince Philip, Duke of Edinburgh.
+    original_excerpt: he was asked to go there by a military colleague and to meet her and somebody who was interested in
+      possibly having some information for Prince Philip.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: document
+      origin: Sounds from Another Room
+      relay:
+        - Jonathan Caplan
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e9eb92e-5fa5-4e83-b43d-5774eeff6e38
+        title: Peter Townsend
+        slug: peter-townsend
+      - node_id: 8930d84b-2a19-44fc-82cb-4af19328be48
+        title: Prince Philip, Duke of Edinburgh
+        slug: duke-of-edinburgh-prince-philip
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+    date: null
+    date_end: null
+    location_in_record: 00:10:17.2-00:10:29.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 476d4097-6cf7-4109-8c6b-da71f60373ae
+    claim_hash: e6e6a8ec85cc079e5526527e43fee16babe7701ebf58effa8049bff57c386d8f
+    content: When Peter Townsend later returned to Mrs. Markham's flat, he found it empty and was unable to make further contact
+      with her, and he decided not to arrange the introduction between Mr. Janus and Prince Philip, Duke of Edinburgh.
+    original_excerpt: went back to Mrs Markham's flat sometime later. But she was not there, the flat was empty, and he was
+      unable to make any further contact with her. But he decided very much that he was not going to make that introduction.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: document
+      origin: Sounds from Another Room
+      relay:
+        - Jonathan Caplan
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e9eb92e-5fa5-4e83-b43d-5774eeff6e38
+        title: Peter Townsend
+        slug: peter-townsend
+      - node_id: 8930d84b-2a19-44fc-82cb-4af19328be48
+        title: Prince Philip, Duke of Edinburgh
+        slug: duke-of-edinburgh-prince-philip
+      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+        title: Mrs. M.
+        slug: mrs-m
+      - node_id: c4a31b50-ae62-4675-9741-3b4b3c89eaea
+        title: Mr. Janus
+        slug: mr-janus
+    date: null
+    date_end: null
+    location_in_record: 00:12:10.3-00:12:25.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null

@@ -9,442 +9,450 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 9
+  tokens_estimated: 2862
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 9
 related_nodes:
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 2
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 2
-- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-  title: National Aeronautics and Space Administration (NASA)
-  node_type: organisation
-  slug: national-aeronautics-and-space-administration-nasa
-  shared_claims: 2
-- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-  title: United States Department of Defense (DoD)
-  node_type: organisation
-  slug: united-states-department-of-defense-dod
-  shared_claims: 2
-- node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-  title: Federal Bureau of Investigation (FBI)
-  node_type: organisation
-  slug: federal-bureau-of-investigation-fbi
-  shared_claims: 1
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 1
-- node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-  title: Jay Stratton
-  node_type: person
-  slug: jay-stratton
-  shared_claims: 1
-- node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-  title: Jonathan Caplan
-  node_type: person
-  slug: jonathan-caplan
-  shared_claims: 1
-- node_id: aa0bdc53-6ad5-4d69-824f-182736d35a63
-  title: National Institutes of Health
-  node_type: organisation
-  slug: national-institutes-of-health
-  shared_claims: 1
-- node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-  title: Ross Coulthart
-  node_type: person
-  slug: ross-coulthart
-  shared_claims: 1
-- node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
-  title: The Pentagon
-  node_type: organisation
-  slug: the-pentagon
-  shared_claims: 1
-- node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-  title: The White House
-  node_type: organisation
-  slug: the-white-house
-  shared_claims: 1
-- node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-  title: UAP Gerb
-  node_type: person
-  slug: uap-gerb
-  shared_claims: 1
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 1
-claims:
-- claim_id: 2b096ce7-9ebf-47e6-83be-034037d7c85a
-  claim_hash: fcf40bb20a715b27c722460f7559d2d2551ee81d158ba1a5b0bda04662be444e
-  content: Jacques Vallée questioned why the National Aeronautics and Space Administration
-    (NASA), rather than the United States Department of Energy or the National Institutes
-    of Health (NIH), was chosen to handle UFO inquiries.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
-    title: United States Department of Energy (DOE)
-    slug: united-states-department-of-energy-doe
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: aa0bdc53-6ad5-4d69-824f-182736d35a63
-    title: National Institutes of Health
-    slug: national-institutes-of-health
-  date: null
-  date_end: null
-  location_in_record: ch4:4942-5168
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: fce751ea-55a7-4cd2-884d-4a2fadfef4a5
-  claim_hash: 998502cf7f01f5607b8faa566114a085f1aa7d088310351ca133174bf96259a0
-  content: Ross Coulthart was told that the alleged secret alien technology project
-    was hidden inside the United States Department of Energy for decades until it
-    became a federal agency in 1977, making it subject to Congressional oversight.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: anonymous
-    origin: persons claiming to be insiders with knowledge of the US military
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
-    title: United States Department of Energy (DOE)
-    slug: united-states-department-of-energy-doe
-  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-    slug: ross-coulthart
-  date: '1977'
-  date_end: null
-  location_in_record: ch27:25031-25199
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 0262088b-72d3-4d6e-8eab-18e86cedf089
-  claim_hash: 4760d5e0ee0764faac1003095b53a9fb35c4b20ec1b382e0ec5677317aed0977
-  content: The United States Department of Energy has its own jurisdiction over matters
-    involving nuclear secrets and technology.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
-    title: United States Department of Energy (DOE)
-    slug: united-states-department-of-energy-doe
-  date: null
-  date_end: null
-  location_in_record: ch20:1782-1903
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 862a7909-f591-481f-ae3d-c99172c44870
-  claim_hash: 53b373a0be642c1c696b0cc945eb7b2f726815ffd35ea83b2ff5509cdd6e69df
-  content: Jay Stratton and Luis Elizondo worked their network of friends in the US
-    military branches, Federal Bureau of Investigation (FBI), Central Intelligence
-    Agency (CIA), and the United States Department of Energy.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
-    title: United States Department of Energy (DOE)
-    slug: united-states-department-of-energy-doe
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
+    node_type: organisation
     slug: central-intelligence-agency-cia
-  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-    title: Jay Stratton
-    slug: jay-stratton
+    shared_claims: 2
   - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
+    node_type: person
     slug: luis-elizondo
+    shared_claims: 2
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 2
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 2
   - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
     title: Federal Bureau of Investigation (FBI)
+    node_type: organisation
     slug: federal-bureau-of-investigation-fbi
-  date: null
-  date_end: null
-  location_in_record: ch31:4434-4548
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 303b0beb-37d0-46f8-b135-e8eddb8f6dd8
-  claim_hash: 5d4f8af885ca8784c039b7725fb6efa3f4b98610540ed43f6963aa51d58b36c5
-  content: Luis Elizondo states that the White House, the Central Intelligence Agency
-    (CIA), the National Aeronautics and Space Administration (NASA), the Pentagon,
-    and the United States Department of Energy currently play a role in the UAP issue
-    but that no single entity is in charge.
-  original_excerpt: Currently, the White House, CIA, NASA, the Pentagon, Department
-    of Energy, and others play a role, but no one seems to be in charge, leading to
-    unchecked power and corruption.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Luis Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
-    title: United States Department of Energy (DOE)
-    slug: united-states-department-of-energy-doe
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
-    title: The Pentagon
-    slug: the-pentagon
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
-    title: The White House
-    slug: the-white-house
-  date: '2024-11-13'
-  date_end: null
-  location_in_record: char:3537-3725
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 72cc1cf9-c482-4e0e-8629-c9d2fb101493
-    record_title: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena:
-      Exposing the Truth'
-    record_date: '2024-11-13'
-    record_reference: null
-    content_hash: sha256:f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce064218b64
-    friendly_name: 2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the
-- claim_id: 41bfa69d-18d3-4853-a512-7bce959eee53
-  claim_hash: 39d2ad4ecc47ad3e2eaa900c9870ce1678b09c7e880e8cf684e8c19e5316f85f
-  content: The United States Department of Energy was present at the scene of the
-    Peru crash, taking the craft and the beings out of Peru back to the United States.
-  original_excerpt: the department of energy were on the scene uh taking the um a
-    plane sorry taking the craft and the beings uh that were in that crash um out
-    of peru back to the united states
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: named
-    origin: Jonathan Wagant
-    relay:
-    - Jonathan Caplan's book
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
-    title: United States Department of Energy (DOE)
-    slug: united-states-department-of-energy-doe
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+    title: Jay Stratton
+    node_type: person
+    slug: jay-stratton
+    shared_claims: 1
   - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
     title: Jonathan Caplan
+    node_type: person
     slug: jonathan-caplan
-  date: null
-  date_end: null
-  location_in_record: 01:15:15.9-01:15:28.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
-- claim_id: 4effa719-7b2a-4c7e-b7d2-20e3975187aa
-  claim_hash: aafc4cc8aaa4d4e4c26cb64d6073a7cf9be1947fcad468a895f275a9b96a0030
-  content: UAP Gerb expects to run into difficulty obtaining Unidentified Aerial Phenomena
-    (UAP) related records held by the United States Department of Energy.
-  original_excerpt: we're probably going to run into some trouble with Department
-    of Energy held records.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-    title: UAP Gerb
-  provenance_chain:
-    origin_kind: speaker
-    origin: UAP Gerb
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
-    title: United States Department of Energy (DOE)
-    slug: united-states-department-of-energy-doe
+    shared_claims: 1
+  - node_id: aa0bdc53-6ad5-4d69-824f-182736d35a63
+    title: National Institutes of Health
+    node_type: organisation
+    slug: national-institutes-of-health
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+    title: The Pentagon
+    node_type: organisation
+    slug: the-pentagon
+    shared_claims: 1
+  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+    title: The White House
+    node_type: organisation
+    slug: the-white-house
+    shared_claims: 1
   - node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
     title: UAP Gerb
+    node_type: person
     slug: uap-gerb
-  date: null
-  date_end: null
-  location_in_record: 00:07:37.5-00:07:41.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: 1751f734-44ca-47b2-894e-d6ec10f898a6
-  claim_hash: c66cf0bddb82a53e057341a1c99ba70323ddf03911e6d65a8fd481cd40d3dda2
-  content: The United States Department of Energy is subject to a statutory-authority
-    classification system that is different from the standard executive-order-based
-    classification system used by the United States Department of Defense (DoD).
-  original_excerpt: the Department of Energy would be a really good place to hide
-    exotic materials, anomalous materials because of the statutory authority that
-    the Department of Energy is subject to, which is completely different than the
-    standard executive order based classification system that exists within the DoD?
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-    title: UAP Gerb
-  provenance_chain:
-    origin_kind: speaker
-    origin: UAP Gerb
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
-    title: United States Department of Energy (DOE)
-    slug: united-states-department-of-energy-doe
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  date: null
-  date_end: null
-  location_in_record: 00:08:34.0-00:08:50.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: b7decf3e-ccc7-455c-9f27-f4dfff24ec02
-  claim_hash: 3a1862d85f9924419db143a013cc80cfaa337c58aef9e2dae2bcba2b4341f2e0
-  content: The United States Department of Energy operates its own security system
-    separate from the usual Pentagon and Department of Defense (DoD) security apparatus,
-    so it must be pursued for information separately.
-  original_excerpt: since they have their own security system, which does not fall
-    into the usual Pentagon and DOD security apparatus, it really has to be pursued
-    separately.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-  provenance_chain:
-    origin_kind: speaker
-    origin: Hal Puthoff
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
-    title: United States Department of Energy (DOE)
-    slug: united-states-department-of-energy-doe
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  date: null
-  date_end: null
-  location_in_record: 00:08:53.6-00:09:05.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+claims:
+  - claim_id: 2b096ce7-9ebf-47e6-83be-034037d7c85a
+    claim_hash: fcf40bb20a715b27c722460f7559d2d2551ee81d158ba1a5b0bda04662be444e
+    content: Jacques Vallée questioned why the National Aeronautics and Space Administration (NASA), rather than the United
+      States Department of Energy or the National Institutes of Health (NIH), was chosen to handle UFO inquiries.
+    original_excerpt: So why pick NASA rather than the Department of Energy, which could deal better with the physical effects,
+      or the National Institutes of Health, which are capable of investigating the physiological responses so prevalent among
+      witnesses?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+        title: United States Department of Energy (DOE)
+        slug: united-states-department-of-energy-doe
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: aa0bdc53-6ad5-4d69-824f-182736d35a63
+        title: National Institutes of Health
+        slug: national-institutes-of-health
+    date: null
+    date_end: null
+    location_in_record: ch4:4942-5168
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: fce751ea-55a7-4cd2-884d-4a2fadfef4a5
+    claim_hash: 998502cf7f01f5607b8faa566114a085f1aa7d088310351ca133174bf96259a0
+    content: Ross Coulthart was told that the alleged secret alien technology project was hidden inside the United States
+      Department of Energy for decades until it became a federal agency in 1977, making it subject to Congressional oversight.
+    original_excerpt: I was also told that the project was hidden inside the US Department of Energy for decades until it
+      became a Federal agency in 1977, making it subject to Congressional oversight.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: persons claiming to be insiders with knowledge of the US military
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+        title: United States Department of Energy (DOE)
+        slug: united-states-department-of-energy-doe
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: '1977'
+    date_end: null
+    location_in_record: ch27:25031-25199
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0262088b-72d3-4d6e-8eab-18e86cedf089
+    claim_hash: 4760d5e0ee0764faac1003095b53a9fb35c4b20ec1b382e0ec5677317aed0977
+    content: The United States Department of Energy has its own jurisdiction over matters involving nuclear secrets and technology.
+    original_excerpt: The Department of Energy—a massive entity in its own right—has its own jurisdiction when it comes to
+      nuclear secrets and technology.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+        title: United States Department of Energy (DOE)
+        slug: united-states-department-of-energy-doe
+    date: null
+    date_end: null
+    location_in_record: ch20:1782-1903
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 862a7909-f591-481f-ae3d-c99172c44870
+    claim_hash: 53b373a0be642c1c696b0cc945eb7b2f726815ffd35ea83b2ff5509cdd6e69df
+    content: Jay Stratton and Luis Elizondo worked their network of friends in the US military branches, Federal Bureau of
+      Investigation (FBI), Central Intelligence Agency (CIA), and the United States Department of Energy.
+    original_excerpt: Meanwhile, Jay and I worked our network of friends in the military branches, FBI, CIA, and even the
+      Department of Energy.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+        title: United States Department of Energy (DOE)
+        slug: united-states-department-of-energy-doe
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch31:4434-4548
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 303b0beb-37d0-46f8-b135-e8eddb8f6dd8
+    claim_hash: 5d4f8af885ca8784c039b7725fb6efa3f4b98610540ed43f6963aa51d58b36c5
+    content: Luis Elizondo states that the White House, the Central Intelligence Agency (CIA), the National Aeronautics and
+      Space Administration (NASA), the Pentagon, and the United States Department of Energy currently play a role in the UAP
+      issue but that no single entity is in charge.
+    original_excerpt: Currently, the White House, CIA, NASA, the Pentagon, Department of Energy, and others play a role, but
+      no one seems to be in charge, leading to unchecked power and corruption.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+        title: United States Department of Energy (DOE)
+        slug: united-states-department-of-energy-doe
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: '2024-11-13'
+    date_end: null
+    location_in_record: char:3537-3725
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 72cc1cf9-c482-4e0e-8629-c9d2fb101493
+      record_title: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing the Truth'
+      record_date: '2024-11-13'
+      record_reference: null
+      content_hash: sha256:f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce064218b64
+      friendly_name: 2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the
+  - claim_id: 41bfa69d-18d3-4853-a512-7bce959eee53
+    claim_hash: 39d2ad4ecc47ad3e2eaa900c9870ce1678b09c7e880e8cf684e8c19e5316f85f
+    content: The United States Department of Energy was present at the scene of the Peru crash, taking the craft and the beings
+      out of Peru back to the United States.
+    original_excerpt: the department of energy were on the scene uh taking the um a plane sorry taking the craft and the beings
+      uh that were in that crash um out of peru back to the united states
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: named
+      origin: Jonathan Wagant
+      relay:
+        - Jonathan Caplan's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+        title: United States Department of Energy (DOE)
+        slug: united-states-department-of-energy-doe
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+    date: null
+    date_end: null
+    location_in_record: 01:15:15.9-01:15:28.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 4effa719-7b2a-4c7e-b7d2-20e3975187aa
+    claim_hash: aafc4cc8aaa4d4e4c26cb64d6073a7cf9be1947fcad468a895f275a9b96a0030
+    content: UAP Gerb expects to run into difficulty obtaining Unidentified Aerial Phenomena (UAP) related records held by
+      the United States Department of Energy.
+    original_excerpt: we're probably going to run into some trouble with Department of Energy held records.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+        title: United States Department of Energy (DOE)
+        slug: united-states-department-of-energy-doe
+      - node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+        title: UAP Gerb
+        slug: uap-gerb
+    date: null
+    date_end: null
+    location_in_record: 00:07:37.5-00:07:41.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 1751f734-44ca-47b2-894e-d6ec10f898a6
+    claim_hash: c66cf0bddb82a53e057341a1c99ba70323ddf03911e6d65a8fd481cd40d3dda2
+    content: The United States Department of Energy is subject to a statutory-authority classification system that is different
+      from the standard executive-order-based classification system used by the United States Department of Defense (DoD).
+    original_excerpt: the Department of Energy would be a really good place to hide exotic materials, anomalous materials
+      because of the statutory authority that the Department of Energy is subject to, which is completely different than the
+      standard executive order based classification system that exists within the DoD?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+        title: United States Department of Energy (DOE)
+        slug: united-states-department-of-energy-doe
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: 00:08:34.0-00:08:50.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: b7decf3e-ccc7-455c-9f27-f4dfff24ec02
+    claim_hash: 3a1862d85f9924419db143a013cc80cfaa337c58aef9e2dae2bcba2b4341f2e0
+    content: The United States Department of Energy operates its own security system separate from the usual Pentagon and
+      Department of Defense (DoD) security apparatus, so it must be pursued for information separately.
+    original_excerpt: since they have their own security system, which does not fall into the usual Pentagon and DOD security
+      apparatus, it really has to be pursued separately.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+      title: Harold E. Puthoff
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hal Puthoff
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+        title: United States Department of Energy (DOE)
+        slug: united-states-department-of-energy-doe
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: 00:08:53.6-00:09:05.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null

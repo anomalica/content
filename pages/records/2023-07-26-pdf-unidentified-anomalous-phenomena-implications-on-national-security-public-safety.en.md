@@ -1,559 +1,384 @@
 ---
 title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
   Safety, and Government Transparency'
-description: The official transcript of the 26 July 2023 hearing before the Subcommittee
-  on National Security, the Border, and Foreign Affairs of the US House of Representatives,
-  at which military veterans Ryan Graves, David Grusch, and David Fravor testified
-  about unidentified anomalous phenomena.
+description: A transcript of a 2023 United States House hearing examining unidentified
+  anomalous phenomena, aviation safety, national security, reporting systems, government
+  oversight, and claims concerning alleged UAP programmes.
 noindex: true
 metadata:
   medium: pdf
   date: '2023-07-26'
-  publisher: U.S. House Committee on Oversight and Accountability
 record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+source:
+  status: public_domain
+  effective_status: public_domain
+  type: pdf
+  display: text
+  url: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+  date_published: 2023-07-26
 references:
-- text: Hearing held 2023-07-26 before the Subcommittee on National Security, the
-    Border, and Foreign Affairs
+- text: The hearing was held before the House subcommittee responsible for national
+    security, the border, and foreign affairs.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 1
-  quote: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency ... Hearing ... Before the Subcommittee on
-    National Security, the Border, and Foreign Affairs of the Committee on Oversight
-    and Accountability, House of Representatives, One Hundred Eighteenth Congress,
-    First Session July 26, 2023'
-  claim_id: e8797de8-4ccd-41ee-8cbc-10cbd64088f2
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:200-423
+  quote: HEARING BEFORE THE SUBCOMMITTEE ON NATIONAL SECURITY, THE BORDER, AND FOREIGN
+    AFFAIRS OF THE COMMITTEE ON OVERSIGHT AND ACCOUNTABILITY HOUSE OF REPRESENTATIVES
+    ... JULY 26, 2023
+  claim_id: 4b0b59fb-d23d-4934-ba8e-fbc22611928d
+  claim_fingerprint: 1e59c8808030008ec94f483b54f4af846bbde013fe0eca1a5513878b6873ecdb
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: Hearing convened at 10:06 a.m. in room 2154 of the Rayburn Office Building
-    with Glenn Grothman presiding
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-4b0b59fb-d23d-4934-ba8e-fbc22611928d
+- text: The hearing included testimony from Ryan Graves as Executive Director of Americans
+    for Safe Aerospace.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 1
-  quote: The Subcommittee met, pursuant to notice, at 10:06 a.m., in room 2154, Rayburn
-    Office Building, Hon. Glenn Grothman, [Chairman of the Subcommittee] presiding.
-  claim_id: 227a4650-1cf5-4fe0-bda6-da577a34c82e
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:3166-3237
+  quote: Mr. Ryan Graves, Executive Director, Americans for Safe Aerospace, Oral Statement
+  claim_id: 84b7279b-3df5-4fa1-97ca-103d67dcf61c
+  claim_fingerprint: 9eb84237a38772a22f620247d94854a27d8a371837bd42b6c75f93dd679f2c66
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: James Comer is Chairman of the Committee on Oversight and Accountability
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-84b7279b-3df5-4fa1-97ca-103d67dcf61c
+- text: David Grusch testified as a former National Reconnaissance Office representative
+    to the UAP Task Force at the Department of Defense.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 2
-  quote: James Comer, Kentucky, Chairman
-  claim_id: a9c6ac23-a653-4058-9a84-c9b064a550a5
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: Jamie Raskin is Ranking Minority Member of the Committee on Oversight and
-    Accountability
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 2
-  quote: Jamie Raskin, Maryland, Ranking Minority Member
-  claim_id: 7d6fa2d6-57b0-4236-b604-af51f9ece795
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: Glenn Grothman is Chairman of the Subcommittee on National Security, the Border,
-    and Foreign Affairs
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 3
-  quote: Glenn Grothman, Wisconsin, Chairman
-  claim_id: 479468c9-6ae3-4534-9576-d4bfc12be333
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: Robert Garcia is Ranking Minority Member of the Subcommittee
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 3
-  quote: Robert Garcia, California, Ranking Minority Member
-  claim_id: e5cc853b-0a97-4168-8a43-60b317ec787c
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: Ryan Graves testified as Executive Director of Americans for Safe Aerospace
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 3
-  quote: Mr. Ryan Graves, Executive Director, Americans for Safe Aerospace - Oral
-    Statement
-  claim_id: e9b1e18a-d2a6-4008-b04d-bf0c4d133599
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: David Grusch testified as former NRO representative to the UAPTF
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 3
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:3355-3496
   quote: Mr. David Grusch, Former National Reconnaissance Office Representative, Unidentified
-    Aerial Phenomena Task Force, Department of Defense
-  claim_id: 5aa64555-f033-445b-bfe5-af44dce91d30
+    Aerial Phenomena Task Force, Department of Defense, Oral Statement
+  claim_id: 2c8762a0-57c6-48f4-a3e0-a8ea5d3b36e2
+  claim_fingerprint: 9e3206d40fdd4d8b84e216f41fbd7ed32c13549f2c659648c72a78cceb5f4b81
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: David Fravor testified as a retired Commander and former Commanding Officer
-    in the US Navy
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-2c8762a0-57c6-48f4-a3e0-a8ea5d3b36e2
+- text: David Fravor testified as a retired United States Navy commander and former
+    commanding officer.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 3
-  quote: Commander David Fravor (Ret.), Former Commanding Officer, United States Navy
-    - Oral Statement
-  claim_id: 297fba0b-20a4-4f21-b58e-1c917ef71c7c
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:3614-3696
+  quote: Commander David Fravor (Ret.), Former Commanding Officer, United States Navy,
+    Oral Statement
+  claim_id: 18241836-a55e-4d2c-ab3b-af8778758d04
+  claim_fingerprint: 29a7eba1802f823f0fee2f9d29c68f9db72a194b25f98359409e35342da5aad7
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: NDAA FY2022 established AARO to detect, identify, and investigate UAP
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-18241836-a55e-4d2c-ab3b-af8778758d04
+- text: The National Defense Authorization Act of 2022 established AARO to co-ordinate
+    UAP detection, identification, and investigation.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 2
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:7509-7746
   quote: The National Defense Authorization Act of 2022 established the all-domain
-    anomaly resolution officer - AARO - to conduct or to coordinate efforts across
-    the Department of Defense and other Federal agents to detect, identify, and investigate
+    anomaly resolution officer—AARO—to conduct or to coordinate efforts across the
+    Department of Defense and other Federal agents to detect, identify, and investigate
     UAPs.
-  claim_id: cc2f9a38-d01c-491b-9972-65ee5d191c23
+  claim_id: 02bcfdba-d8f1-4475-a665-539a1fa9e66c
+  claim_fingerprint: ac0e034548b4aa29599955fabaf8852175a3eb77922ab82f0aafa9fa03808b3e
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: AARO's budget remains classified, limiting congressional oversight
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-02bcfdba-d8f1-4475-a665-539a1fa9e66c
+- text: NASA was described as leading an independent UAP study in 2023.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 2
-  quote: However, AARO's budget remains classified, prohibiting meaningful oversight
-    from Congress.
-  claim_id: f1a84a1a-08ea-4427-b819-6067579ce65e
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:7844-8042
+  quote: In addition to AARO's efforts, NASA is leading an independent study on UAPs
+    to identify how UAP data is gathered from both civilian and government entities
+    that can be analyzed to shed light on the topic.
+  claim_id: df41ced8-46af-4e47-ac6f-b3018cd1f9b2
+  claim_fingerprint: 98f9b1dc59c503acfb7ebdb09114be1e2bb20429702ec685febf88c3db58a516
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: Members were denied SCIF access before the hearing due to difficulty granting
-    clearance to Grusch
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-df41ced8-46af-4e47-ac6f-b3018cd1f9b2
+- text: Ryan Graves described radar detections and a close encounter involving two
+    F/A-18F Super Hornets.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 5
-  quote: we were even denied access to a classified briefing in a SCIF prior to this
-    hearing due to the amount of hoops that we had to jump through to grant temporary
-    clearance to witness Grusch, who has knowledge of classified information.
-  claim_id: 22d54865-e547-40a1-ba24-6223fdf184dd
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: Graves is a former F-18 pilot with a decade of US Navy service including two
-    combat deployments
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 10
-  quote: I am a former F-18 pilot with a decade of service in the U.S. Navy including
-    two deployments in Operation Enduring Freedom and Operation Inherent Resolve.
-  claim_id: 47fa67df-aebf-4160-bcc7-430ecbeaf833
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: Graves represents more than 30 commercial aircrew and military veterans with
-    similar encounters
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 10
-  quote: I have experienced advanced UAP firsthand and I am here to voice the concerns
-    of more than 30 commercial aircrew and military veterans who have confided their
-    similar encounters with me.
-  claim_id: 9538afe3-b832-4855-bc41-f6c1f3019f0f
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: In 2014 Graves was an F-18 Foxtrot pilot in Strike Fighter Squadron 11 at
-    NAS Oceana, Virginia Beach
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 10
-  quote: In 2014, I was an F-18 Foxtrot pilot in the Navy Fighter Attack Squadron
-    11, the Red Rippers, and I was stationed at NAS Oceana in Virginia Beach.
-  claim_id: c6f53fbe-ebc3-4513-8ed2-27df039aec39
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: After radar upgrades, the squadron began detecting unknown objects later correlated
-    with infrared and visual sensors
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 10
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:33193-33620
   quote: After upgrades were made to our jet's radar systems, we began detecting unknown
-    objects operating in our airspace. At first, we assumed they were radar errors
-    but soon we began to correlate the radar tracks with multiple onboard sensors,
-    including infrared systems, eventually through visual ID.
-  claim_id: 63d7a237-4e5a-4af5-a18a-7d96508aab86
+    objects operating in our airspace.
+  claim_id: d0e8b671-4261-4c0d-bf65-488dc51e44f4
+  claim_fingerprint: ef7fd9adb92a44bd922146f56789eb98cef700a7f6ca4fef2deb1edf1702c748
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: During a 2014 training mission in Warning Area W-72, approximately 16 km off
-    Virginia Beach, two F-18s were split by a UAP
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d0e8b671-4261-4c0d-bf65-488dc51e44f4
+- text: The object in Graves's account was described as a dark cube inside a clear
+    sphere.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 10
-  quote: During a training mission in Warning Area W-72, 10 miles off the coast of
-    Virginia Beach, two F-18 Super Hornets were split by a UAP.
-  claim_id: c759c474-617d-49e8-b85e-71970ee4bb25
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: The 2014 Virginia Beach UAP was described as a dark grey or black cube inside
-    a clear sphere
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 10
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:33625-33696
   quote: The object, described as a dark gray or a black cube inside of a clear sphere
-  claim_id: dc5cd81e-0dfb-4b5d-b6b4-38b1453300b3
+  claim_id: 3888eb6a-6598-4a2e-82b2-929760af715d
+  claim_fingerprint: 91caaf6c4c8d68732f59b1352dbfd0c207d53ef15254e4677514df3a74c20c30
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: The object came within approximately 15 metres of the lead aircraft
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3888eb6a-6598-4a2e-82b2-929760af715d
+- text: The object was said to have approached the lead aircraft to approximately
+    15 metres.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 10
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:33704-33736
   quote: came within 50 feet of the lead aircraft
-  claim_id: c6cb79cf-ea34-480b-8717-a6b84f8a7107
+  claim_id: 9bc03c9c-ae88-4393-9c0f-c6352fd7b030
+  claim_fingerprint: 613e0dc81e1ae1e60121b23e8c421f630e412684b6a89df9ac76857498a716a8
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: The object was estimated at approximately 1.5 to 4.5 metres in diameter
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9bc03c9c-ae88-4393-9c0f-c6352fd7b030
+- text: The squadron submitted a safety report, but Graves said there was no official
+    acknowledgement or further reporting mechanism.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 10
-  quote: was estimated to be five to 15 feet in diameter.
-  claim_id: a25301c3-b034-4e76-be68-0d25ece73b57
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: A safety report was submitted but there was no official acknowledgement and
-    no further reporting mechanism
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 10-11
-  quote: The mission commander terminated the flight immediately and returned to base.
-    Our squadron submitted a safety report but there was no official acknowledgement
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:33877-34060
+  quote: Our squadron submitted a safety report but there was no official acknowledgement
     of the incident and no further mechanism to report the sightings.
-  claim_id: 39d176aa-eaed-4825-9c84-c47210b7056d
+  claim_id: ffe6443d-2fa3-4451-9558-3541a68e4304
+  claim_fingerprint: be01205d8f3067bb57f05a88a0352cbd3c66f7f8a315b814607d820bed5fe0f4
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: UAP encounters became so frequent that aircrew discussed the risk in regular
-    preflight briefs
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-ffe6443d-2fa3-4451-9558-3541a68e4304
+- text: Graves said that UAP encounters became frequent enough to feature in regular
+    pre-flight briefings.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 11
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:34076-34195
   quote: Soon these encounters became so frequent that aircrew would discuss the risk
     of UAP as part of their regular preflight briefs.
-  claim_id: da2921d7-0a7d-49c7-bf49-3d6974433f55
+  claim_id: bbcf0963-bde8-4b29-a7ee-1707ffefa060
+  claim_fingerprint: adb2c55215f8f2249e842cff1a15b4aa7291f2c9a992aaff04712bfbc18219c2
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: Graves founded Americans for Safe Aerospace as a venue for UAP witnesses lacking
-    a safe intake process
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-bbcf0963-bde8-4b29-a7ee-1707ffefa060
+- text: Graves described UAP as potentially a national security, scientific, and flight-safety
+    issue.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 11
-  quote: Recognizing the need for action and answers, I founded Americans for Safe
-    Aerospace. The organization has since become a haven for UAP witnesses
-  claim_id: 26162efb-3f8a-4ae0-a7e8-45247c572683
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:35614-35796
+  quote: If UAP are foreign drones, is an urgent national security problem. If it
+    is something else, it is an issue for science. In either case, unidentified objects
+    are a concern for flight safety.
+  claim_id: 1ef13f7f-cbc5-4826-8114-14229b2fc513
+  claim_fingerprint: b30cc3b176e946d74e1df4f993b3c194cc185397c55768185858ea174b079b02
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: More than thirty witnesses have come forward to Americans for Safe Aerospace
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-1ef13f7f-cbc5-4826-8114-14229b2fc513
+- text: The source records Fravor's account of the 2004 encounter involving the USS
+    Nimitz and USS Princeton.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 11
-  quote: More than thirty witnesses have come forward and almost 5,000 Americans have
-    joined us in the fight for transparency at safeaerospace.org.
-  claim_id: 607ea0db-8e09-4790-babf-a90598082cbc
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:40427-40687
+  quote: On this day we were scheduled for a 2 V 2 air to air training with the USS
+    Princeton as our control.
+  claim_id: 1b775890-29a8-4853-80ad-d48c74ba46c6
+  claim_fingerprint: 410bcc16394e5f2bda1177cd9d94a1a70afec65b6999e063fa74b20fe4e202dc
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: Pilots report UAP at altitudes around 12,000 metres making unexplainable manoeuvres
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-1b775890-29a8-4853-80ad-d48c74ba46c6
+- text: The Tic Tac object was described as white, smooth, and without visible control
+    surfaces.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 11
-  quote: Pilots are reporting UAP at altitudes that appear above them at 40,000 feet,
-    potentially in low Earth orbit or in the gray zone below the common line, making
-    unexplainable maneuvers like right hand turns and retrograde orbits, or J hooks.
-  claim_id: 6fbb1990-19ae-4590-aefd-c92d1a9e26b5
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:41726-41961
+  quote: looked down and saw a white Tic Tac object with a longitudinal axis pointing
+    north south and moving very abruptly over the water like a ping pong ball
+  claim_id: f77783a2-eefd-4051-92f2-1f09cf540951
+  claim_fingerprint: 707ff8d97d15488c050397ad4f35999e8cdf03b815e6124ef17538ea2e9454dc
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: East Coast objects observed at zero airspeed in hurricane-force winds, then
-    accelerating to Mach 1.1 to 1.2
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-f77783a2-eefd-4051-92f2-1f09cf540951
+- text: The object was reported to have accelerated away and reappeared approximately
+    97 kilometres away in less than a minute.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: file_page 23
-  quote: we would see these objects being at 0.0 Mach - that is zero airspeed - over
-    certain pieces of the ground. ... These objects were staying completely stationary
-    in category four hurricane winds.
-  claim_id: d1713089-0491-498d-87c6-91c634682bd3
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:42496-43011
+  quote: that thing is at your CAP point roughly 60 miles away in less than a minute
+  claim_id: 9f5bf322-a58d-4464-a91c-8c10456a8878
+  claim_fingerprint: e75601974b51c279479ddb7c2ff1f44abd48ee76754d2405209af2521057cd4c
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: Grusch served as intelligence officer for 14 years in the US Air Force at
-    the rank of Major
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9f5bf322-a58d-4464-a91c-8c10456a8878
+- text: Fravor said that a subsequent 90-second video was recorded.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 11
-  quote: My name is David Charles Grusch. I was an intelligence officer for 14 years
-    both in the U.S. Air Force, both active-duty Air National Guard and Reserve at
-    the rank of Major
-  claim_id: 4afe20fe-cb41-4ce7-af70-3ac47267a594
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:43200-43269
+  quote: they went out and luckily got the video that you see, that 90-second video
+  claim_id: e1b7fdef-4464-4cce-9133-c647439210a9
+  claim_fingerprint: 0d7bc10ad5008cb8d759e319c5794c2f02e194ac8592dc9098a1e37282f19fe1
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: From 2021 to 2023 Grusch served at the NGA at GS-15 civilian level
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-e1b7fdef-4464-4cce-9133-c647439210a9
+- text: Fravor said that the encounter was never officially investigated and that
+    his crew was not questioned.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 11
-  quote: most recently from 2021 to 2025 - excuse me, 2023 - at the National Geospatial
-    Intelligence Agency, NGA, at the GS-15 civilian level, which is the military equivalent
-    of a full bird colonel.
-  claim_id: 6b6a6bb1-23b6-4026-bd25-30770c68530f
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:43523-43586
+  quote: the incident was never investigated. None of my crew were ever questioned.
+  claim_id: 0b3ac496-f32f-458a-a5f4-9245dedf8ad5
+  claim_fingerprint: a77b292233caabb3106e5fd3463d7df9dd2f5bf7d6e7856d226679c61e6e7bb0
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: Grusch was the NGA's co-lead in UAP and trans-medium object analysis, reporting
-    to UAPTF and later AARO
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0b3ac496-f32f-458a-a5f4-9245dedf8ad5
+- text: Grusch said that he became a whistleblower through a PPD-19 urgent concern
+    filing in May 2022.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 11
-  quote: I was my agency's co-lead in unidentified anomalous phenomena and trans medium
-    object analysis as well as reporting to the UAP Task Force - UAPTF - and eventually,
-    once it was established, the All-domain Anomaly Resolution Office - AARO.
-  claim_id: 83c20158-720b-4697-884e-c59a2f2457de
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:36882-37000
+  quote: I became a whistleblower through a PPD–19 urgent concern filing in May 2022
+    with the intelligence community inspector general
+  claim_id: 3714988a-9467-4713-921e-2b3166b7baca
+  claim_fingerprint: dd6b05dfb9e35c6c94793c0b060695accaa14fd7286e1d0b252356cc1214bead
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: In May 2022 Grusch filed a PPD-19 urgent concern with the Intelligence Community
-    Inspector General
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3714988a-9467-4713-921e-2b3166b7baca
+- text: Grusch said that his testimony was based on information from individuals who
+    shared photography, documentation, and classified oral testimony.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 12
-  quote: I became a whistleblower through a PPD-19 urgent concern filing in May 2022
-    with the intelligence community inspector general following concerning reports
-    from multiple esteemed and credentialed current and former military and intelligence
-    community individuals that the U.S. Government is operating with secrecy above
-    congressional oversight with regards to UAPs.
-  claim_id: b0920da5-3f97-441d-9b50-1b125e3a670b
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:37248-37560
+  quote: My testimony is based on information I have been given by individuals with
+    a long-standing track record of legitimacy and service to this country, many of
+    whom also have shared compelling evidence in the form of photography, official
+    documentation, and classified oral testimony to myself and many of my various
+    colleagues.
+  claim_id: 34bdfc97-9340-4a06-939c-76a4ec9bda78
+  claim_fingerprint: d74737bf30d0d6b9efdd09d7d016f76e867f44107216f7716223523dc57f3f77
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: Grusch was informed of a multi-decade UAP crash retrieval and reverse engineering
-    programme and was denied access
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-34bdfc97-9340-4a06-939c-76a4ec9bda78
+- text: Grusch said that he had been informed of an alleged multi-decade crash-retrieval
+    and reverse-engineering programme.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 12
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:39078-39274
   quote: I was informed in the course of my official duties of a multi-decade UAP
     crash retrieval and reverse engineering program to which I was denied access to
     those additional read-ons when I requested it.
-  claim_id: db233501-406c-481f-93a0-041be8828782
+  claim_id: 81eb8734-84fa-481f-819e-5087d7f012ab
+  claim_fingerprint: c83e8d4864142af44d608f481d09367c613cef18b1bdd2836e0ac2e132f296ce
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: Grusch reported information to superiors and multiple inspectors general and
-    has suffered retaliation
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-81eb8734-84fa-481f-819e-5087d7f012ab
+- text: Grusch's sworn testimony included the claim that the United States government
+    possessed nonhuman spacecraft.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 12
-  quote: I made the decision based on the data I collected to report this information
-    to my superiors and multiple inspectors general and, in effect, becoming a whistleblower.
-    As you know, I have suffered retaliation for my decision
-  claim_id: 341f390d-1df4-4fc2-9bf3-bbd121b6f5d8
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:82155-82252
+  quote: You go so far as to state that the U.S. is in possession of, quote, ''nonhuman
+    spacecraft,'' end quote
+  claim_id: 0f89c812-1868-4d8d-a1a4-6539ee026fed
+  claim_fingerprint: d249af7219ae07d8960a0b25e7944121134771002447a4bbe043135053989a68
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: Grusch believes the US government is in possession of UAP, based on interviewing
-    over 40 witnesses over four years
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0f89c812-1868-4d8d-a1a4-6539ee026fed
+- text: Sean Kirkpatrick was reported as having testified that there was no credible
+    evidence of extraterrestrial activity or off-world technology brought to AARO.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: file_page 23
-  quote: do you believe that our government is in possession of UAPs? Mr. Grusch.
-    Absolutely, based on interviewing over 40 witnesses over 4 years.
-  claim_id: 11018e3d-56cf-40a8-afdd-8f00023fca1e
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:82465-82721
+  quote: However, Dr. Sean Kirkpatrick, the Director of AARO, previously testified
+    before Congress that there has been, and I quote, ''no credible evidence thus
+    far of extraterrestrial activity'' or of, quote, ''off-world technology brought
+    to the attention of the office.''
+  claim_id: aeb582d6-e1ad-47cf-a98b-a6664b79e898
+  claim_fingerprint: be9b6622630d71392f404367dc7b83d6756e1aeda5a8515cef5efbd4ebee1545
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: Nonhuman biologics came with some of the recoveries of crashed craft, per
-    people with direct knowledge
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-aeb582d6-e1ad-47cf-a98b-a6664b79e898
+- text: Graves recommended a centralised reporting process and use of the Aviation
+    Safety Reporting System as a short-term platform.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: file_page 45
-  quote: As I have stated publicly already in my News Nation interview, biologics
-    came with some of these recoveries. Yes. ... Nonhuman, and that was the assessment
-    of people with direct knowledge on the program I talked to that are currently
-    still on the program.
-  claim_id: 2bd857a9-9cc9-47f2-bdf0-bf0fae65f395
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:51461-51635; char:85577-85778
+  quote: There needs to be a location where this information is centralized for processing
+    and there needs to be a two-way communication loop so the operators on the front
+    end have a feedback
+  claim_id: f7a675dc-ff2c-4b83-9a70-35be387ee3e0
+  claim_fingerprint: c54b6af4b969336f90fc0a617b919ba7acf195787a0b9a822a5331161e120ee1
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: Grusch faced open whistleblower reprisal investigation and described tactics
-    used against him as very brutal
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-f7a675dc-ff2c-4b83-9a70-35be387ee3e0
+- text: Fravor argued that a central repository was needed because information was
+    not consistently shared within the Intelligence Community.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: file_page 24
-  quote: Have you faced any retaliation or reprisals for any of your testimony ...
-    Mr. Grusch. Yes. I have to be careful what I say in detail because there is an
-    open whistleblower reprisal investigation on my behalf ... But it was very brutal
-    and very unfortunate. Some of the tactics they used to hurt me both professionally
-    and personally
-  claim_id: 4dfe65f2-6913-4008-b288-0f2f3c03c3c4
+    Safety, and Government Transparency (2023-07-26)'
+  location: char:55495-55691
+  quote: you need a centrally located repository that these reports go to. So, if
+    you just stuck it in DoD, you would not get anything out of the Intelligence Committee
+    because they have a tendency not to talk
+  claim_id: 7ccab6d9-8d68-4a75-a19d-faf20d13d78e
+  claim_fingerprint: c5eab5ed96c57044e606645125bf2361b6f5d595bce6c49564ef471261c7fa84
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
-- text: In 2004 Fravor was commanding officer of VFA-41, the Black Aces, aboard USS
-    Nimitz off California
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 13
-  quote: In 2004, I was a commanding officer of Strike Fighter Squadron 41, the world-famous
-    Black Aces. We were tasked to Carrier Airwing 11 stationed on board the USS Nimitz
-    and had begun a 2-month workup cycle off the coast of California.
-  claim_id: 76db65cc-e5d3-4897-ba03-022047980cee
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: The USS Princeton had tracked the objects for over two weeks before any manned
-    aircraft investigated
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: file_page 46
-  quote: to hone not only our skills but those of the USS Princeton when they had
-    been tracking them for 2 weeks. The problem was that there was never manned aircraft
-    airborne when they were tracking them and this was the first day
-  claim_id: f0c7f7f6-24e1-435d-a010-6b14104e8054
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: The object was Tic Tac shaped and approximately 12 metres long
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: file_page 46
-  quote: is it true that you saw, in your words, a 40-foot flying Tic Tac shaped object?
-    Commander Fravor. That is correct.
-  claim_id: fbfb573e-c526-408b-8fe0-8e8a6b1d8d3c
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: The object had no wings, no rotors, no rotor wash, and no visible control
-    surfaces
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 13
-  quote: There were no rotors, no rotor wash, or any sign of visible control surfaces
-    like wings.
-  claim_id: 22e10977-f274-49e5-9625-1c558a5d389c
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: The object showed no infrared exhaust plume and no visual signs of propulsion
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: file_page 46
-  quote: No, there is none. There is no IR plume coming out and Chad, who took the
-    video, went through all the EO, which is black and white TV and the I&R modes
-    and there is no visual signs of propulsion. It is just sitting in space at 20,000
-    feet.
-  claim_id: 89a72eba-f68b-478e-a673-a3e89ac5e712
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: Fravor and crew got within approximately 0.8 km of the object before it rapidly
-    accelerated and disappeared
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: file_page 30
-  quote: we got within a half mile of the Tic Tac, which people say that is pretty
-    far, but in airplanes that is actually relatively close.
-  claim_id: 5509df6f-d2e5-424a-92be-d285c8537727
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: The USS Princeton controller reported the object reappeared roughly 95 km
-    away in less than a minute
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 14
-  quote: the controller came up and said, "sir, you are not going to believe this,
-    but that thing is at your CAP point roughly 60 miles away in less than a minute."
-  claim_id: 9f009b4a-6a7e-40e8-aa6b-30c0f148a6be
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: The object jammed the APG-73 radar; the subsequent crew used the targeting
-    pod to obtain footage
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: file_page 46
-  quote: The other airplane that took the video did get it on a radar. As soon as
-    it tried to lock it, it jammed the radar, spit the lock and he rapidly switched
-    over to the targeting pod, which you can do in the F-18.
-  claim_id: f1f656eb-2bd4-4657-a9b1-7ea31b66fda7
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: The incident was never investigated, no crew were questioned, and the tapes
-    were never taken
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 14
-  quote: What is shocking to us is that the incident was never investigated. None
-    of my crew were ever questioned. The tapes were never taken
-  claim_id: bc95a2af-05b9-43c6-b182-0a859ff53f68
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: In 2009 Jay Stratton contacted Fravor to investigate the Tic Tac event as
-    part of AATIP
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 14
-  quote: It was not until 2009, until Jay Stratton had contacted me to investigate.
-    Unbeknownst to all, he was part of the ATIP program in the Pentagon led by Lue
-    Elizondo.
-  claim_id: bf49d1e3-1f5b-4727-884a-c2034dddda87
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: Elizondo left the Pentagon and joined To the Stars Academy with DeLonge, Mellon,
-    Justice and others
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 14
-  quote: I was made aware that Lue had left the Pentagon in protest and joined forces
-    with Tom DeLonge, Chris Mellon, Steve Justice and others to form To the Stars
-    Academy, an organization that pressed the issue with leading industry experts
-    and U.S. Government officials.
-  claim_id: f3be3b51-1dfa-42f1-8c7e-7eb95c957c17
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: The 2017 New York Times UAP reporting led to the Whistleblower Protection
-    Act in the NDAA
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 14
-  quote: It also led to the Whistleblower Protection Act in the NDAA.
-  claim_id: 1691d85d-a04b-4c5b-b9b1-97589f04e60d
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: Kirkpatrick testified before the Senate in 2023 that AARO found no evidence
-    of extraterrestrial activity
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 7
-  quote: Mr. Sean Kirkpatrick, Director of the All-domain Anomaly Resolution Office,
-    the component of the DoD office that investigates UAP data, has testified before
-    the Senate this year that his unit has found no evidence of extraterrestrial activity.
-  claim_id: b40d817a-1293-4d6c-b0d7-2b4ec0fbf0a5
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: Burchett proposed FAA legislation requiring airline pilot sighting reports
-    to reach Congress
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 4
-  quote: I proposed legislation to go in the FAA reauthorization that just said if
-    an airline pilot has a sighting that when he makes that report to the FAA that
-    it would come to Congress.
-  claim_id: c0ec20cc-9f5c-4f2e-97af-a6ad872dbcd6
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: AARO initial analysis reported 171 uncharacterised UAP reports with unusual
-    flight characteristics
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 9
-  quote: In its initial analysis there are 171 uncharacterized UAP reports - and this
-    is the words from the report - that appear to have demonstrated unusual flight
-    characteristics or performance capabilities.
-  claim_id: 87e799cf-79aa-476d-9ae1-c6fa1f1cabe2
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-- text: The hearing was adjourned at 12:22 p.m. on 2023-07-26
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: file_page 54
-  quote: '[Whereupon, at 12:22 p.m., the Subcommittee was adjourned.]'
-  claim_id: b30f03ce-7e74-41a3-8828-235b421907f1
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-ai_usage:
-- stage: digest
-  model: claude-opus-4-8
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-7ccab6d9-8d68-4a75-a19d-faf20d13d78e
+built_by:
+  model: openai/gpt-5.6-luna
+  model_version: openai/gpt-5.6-luna
+  transport: cli
+  prompt_sha256: 1fa9ff8e067a3d74c090e4558337b184340dfdd9a04c271cbd6ab669f87f38b7
+  system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
+  directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 870474
-    output: 88688
-- stage: assemble
-  model: claude-sonnet-4-6
-  tokens:
-    input: 59825
-    output: 7040
+    input: 68825
+    output: 4842
+    real_input: 68825
+    cache_read: 0
+    cache_write: 0
+    calls: 0
+  body_sha256: c0b39c14d19fce67a3b3f0865377ba410b110979d993d496de380ba50f670666
 ---
 
-*Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency* is the official transcript of a congressional hearing held on 2023-07-26<sup>1</sup> before the Subcommittee on National Security, the Border, and Foreign Affairs of the Committee on Oversight and Accountability of the US House of Representatives. The hearing convened at 10:06 a.m. in room 2154 of the Rayburn Office Building in D.C. Washington, with [Glenn Grothman](/people/glenn-grothman) of Wisconsin presiding as Subcommittee Chairman.<sup>2</sup> James Comer of Kentucky served as Chairman of the full Committee on Oversight and Accountability,<sup>3</sup> Jamie Raskin of Maryland as its Ranking Minority Member,<sup>4</sup> and Robert Garcia of California as Ranking Minority Member of the Subcommittee.<sup>5</sup> Three witnesses testified: [Ryan Graves](/people/ryan-graves), Executive Director of Americans for Safe Aerospace;<sup>6</sup> [David Charles Grusch](/people/david-charles-grusch), a former [National Reconnaissance Office (NRO)](/organisations/national-reconnaissance-office-nro) representative to the Unidentified Anomalous Phenomena Task Force (UAPTF) of the Department of Defense (DoD);<sup>7</sup> and [David Fravor](/people/david-fravor), a retired Commander and former Commanding Officer of the [United States Navy](/organisations/united-states-navy-usn).<sup>8</sup> The hearing is notable as one of the first formal congressional proceedings at which military veterans provided sworn public testimony about encounters with Unidentified Aerial Phenomena (UAP). Members were denied access to a classified briefing in a Sensitive Compartmented Information Facility before the hearing due to the difficulty of granting temporary clearance to Grusch.<sup>9</sup>
+The source is a transcript of a 2023-07-26 hearing of the House Subcommittee on National Security, the Border, and Foreign Affairs. It is significant for bringing testimony about [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap), aviation safety, alleged government secrecy, and congressional oversight into a public forum.<sup>1</sup>
 
-The legislative backdrop to the hearing included the National Defense Authorization Act for Fiscal Year 2022, which established the [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro) to conduct or co-ordinate efforts across the DoD and other federal agencies to detect, identify, and investigate UAP.<sup>10</sup> Grothman noted in his opening statement that AARO's budget remained classified, limiting meaningful congressional oversight.<sup>11</sup> Graves, in his capacity as a former [United States Navy](/organisations/united-states-navy-usn) [F/A-18](/objects/fa-18) pilot with a decade of service that included deployments on Operation Enduring Freedom and Operation Inherent Resolve,<sup>12</sup> testified that he represents more than 30 commercial aircrew and military veterans who had confided similar UAP encounters to him.<sup>13</sup> He described the 2014 Virginia Beach UAP encounter: in 2014, while serving as an F-18 Foxtrot pilot in Strike Fighter Squadron 11 (VFA-11) at Naval Air Station Oceana in Virginia Beach,<sup>14</sup> his squadron began detecting unknown objects after radar upgrades, with signals later corroborated by infrared and visual sensors.<sup>15</sup> During a training mission in Warning Area W-72, approximately 16 kilometres off the coast of Virginia Beach, two [F/A-18](/objects/fa-18) Super Hornets were split by a UAP.<sup>16</sup> The object was described as a dark grey or black cube inside a clear sphere,<sup>17</sup> coming within approximately 15 metres of the lead aircraft<sup>18</sup> and estimated at approximately 1.5 to 4.5 metres in diameter.<sup>19</sup> The squadron submitted a safety report but received no official acknowledgement and no further reporting mechanism.<sup>20</sup> Encounters became so frequent that pilots discussed UAP risk in regular preflight briefs.<sup>21</sup> Graves subsequently founded Americans for Safe Aerospace as a reporting venue for UAP witnesses,<sup>22</sup> to which more than thirty witnesses came forward.<sup>23</sup> Pilots reporting to him described objects at altitudes around 12,000 metres performing manoeuvres including right-hand turns, retrograde orbits, and J-hooks.<sup>24</sup> Objects observed off the Eastern Seaboard were seen stationary at zero airspeed in hurricane-force winds before accelerating to Mach 1.1 to 1.2.<sup>25</sup>
+## Hearing and participants
 
-Grusch, who had served as an intelligence officer for 14 years in the US Air Force at the rank of Major,<sup>26</sup> and from 2021 to 2023 at the [National Geospatial-Intelligence Agency (NGA)](/organisations/national-geospatial-intelligence-agency-nga) at the GS-15 civilian level,<sup>27</sup> testified in his capacity as the NGA's co-lead in UAP and trans-medium object analysis, reporting to the UAPTF and later to AARO.<sup>28</sup> In May 2022 he became a whistleblower by filing a Presidential Policy Directive 19 (PPD-19) urgent concern with the Inspector General of the Intelligence Community, alleging the US Government was operating with secrecy above congressional oversight regarding UAP.<sup>29</sup> He testified that he had been informed, in the course of his official duties, of a multi-decade UAP crash retrieval and reverse engineering program to which he was denied access when he requested it,<sup>30</sup> and that he reported this information to his superiors and to multiple inspectors general, subsequently suffering retaliation.<sup>31</sup> Based on interviewing over 40 witnesses over four years, Grusch stated his belief that the US Government is in possession of UAP.<sup>32</sup> He also testified, on the basis of information from people with direct knowledge of the programme, that nonhuman biologics came with some of the craft recoveries.<sup>33</sup> Grusch described facing an open whistleblower reprisal investigation and characterised the tactics used against him professionally and personally as very brutal.<sup>34</sup> In public session he limited his answers to matters approved by the DoD prepublication security review, offering to address classified matters in a closed setting.
+According to the source record, the hearing took place before the subcommittee of the House Committee on Oversight and Accountability. Its witnesses were [Ryan Graves](/people/ryan-graves), David Grusch, and [David Fravor](/people/david-fravor). Graves was identified as Executive Director of [Americans for Safe Aerospace](/organisations/americans-for-safe-aerospace), Grusch as a former [National Reconnaissance Office (NRO)](/organisations/national-reconnaissance-office-nro) representative to the Unidentified Anomalous Phenomena Task Force (UAPTF) at the Department of Defense (DoD), and Fravor as a retired commander and former commanding officer in the [United States Navy](/organisations/united-states-navy-usn).<sup>2</sup><sup>3</sup><sup>4</sup>
 
-Fravor, who was Commanding Officer of [Strike Fighter Squadron 41 (VFA-41)](/organisations/strike-fighter-squadron-41-vfa-41), the Black Aces, tasked to Carrier Air Wing 11 (CVW-11) aboard the [USS Nimitz](/objects/uss-nimitz-cvn-68) during a workup cycle off the coast of San Diego in 2004,<sup>35</sup> described the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter) in detail. The [USS Princeton](/objects/uss-princeton-cg-59) had been tracking objects for over two weeks before any manned aircraft was airborne during the tracking period.<sup>36</sup> Fravor described the object, nicknamed the Tic Tac after the candy,<sup>37</sup> as approximately 12 metres long<sup>38</sup> with no wings,<sup>39</sup> no rotors or rotor wash, and no visible control surfaces.<sup>39</sup> It displayed no infrared exhaust plume and no visible signs of propulsion.<sup>40</sup> Fravor and his crew closed to within approximately 0.8 kilometres of the object before it rapidly accelerated away and disappeared.<sup>41</sup> The [USS Princeton](/objects/uss-princeton-cg-59) controller subsequently reported the object at the aircraft's combat air patrol point roughly 95 kilometres away in less than a minute.<sup>42</sup> A subsequent crew used the APG-73 radar, which experienced significant jamming, before switching to the passive targeting pod to obtain the Nimitz Tic Tac FLIR video.<sup>43</sup> The incident was never formally investigated, no crew members were questioned, and the tapes were never taken.<sup>44</sup> Fravor testified that in 2009, [Jay Stratton](/people/jay-stratton) contacted him to investigate the encounter as part of the [Advanced Aerospace Threat Identification Program (AATIP)](/organisations/advanced-aerospace-threat-identification-program-aatip), which was led in the Pentagon by [Luis Elizondo](/people/luis-elizondo).<sup>45</sup> Elizondo later left the Pentagon and joined [Tom DeLonge](/people/tom-delonge), Chris Mellon, [Steve Justice](/people/steve-justice), and others to form To the Stars Academy.<sup>46</sup> Fravor also noted that the 2017 New York Times UAP report led to the Whistleblower Protection Act provisions in the National Defense Authorization Act for Fiscal Year 2020.<sup>47</sup>
+The record also includes remarks by members of the [United States Congress](/organisations/united-states-congress), including [Glenn Grothman](/people/glenn-grothman), [Tim Burchett](/people/tim-burchett), [Anna Paulina Luna](/people/anna-paulina-luna), Matt Gaetz, [Robert Garcia](/people/robert-garcia), [Eric Burlison](/people/eric-burlison), Alexandria Ocasio-Cortez, Maxwell Frost, Jamie Raskin, and Nick Langworthy. Grothman presided as chair, while Raskin was identified as the ranking minority member.
 
-Several members used the hearing to address institutional and policy dimensions of UAP disclosure. Sean Kirkpatrick, Director of AARO, was cited as having testified before the US Senate that his office had found no evidence of extraterrestrial activity,<sup>48</sup> a position Grusch characterised as inaccurate based on his own knowledge of witnesses who had also presented information to AARO. [Tim Burchett](/people/tim-burchett) described proposed legislation, intended for inclusion in Federal Aviation Administration (FAA) reauthorisation, that would require airline pilot UAP sighting reports to be forwarded to [United States Congress](/organisations/united-states-congress),<sup>49</sup> noting the amendment was not heard in committee, which he attributed to intelligence community objection. An initial analysis by AARO had reported 171 uncharacterised UAP reports appearing to demonstrate unusual flight characteristics or performance capabilities.<sup>50</sup> Anna Paulina Luna cited polling showing 68 per cent of Americans believed the government was hiding information about UAP, and that nearly half considered the federal government to be doing a very bad or somewhat bad job dealing with UAP reports. Matt Gaetz described a protected disclosure his office received from Eglin Air Force Base regarding a UAP incident, and [NASA](/organisations/nasa)'s UAP Independent Study was referenced by multiple members as an ongoing effort to identify how civilian and government data could be gathered for analysis. The hearing adjourned at 12:22 p.m.<sup>51</sup>
+## Institutional context
+
+The source describes the National Defense Authorization Act of 2022 as having established the [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro) to conduct or co-ordinate efforts across the DoD and other federal agencies to detect, identify, and investigate UAP.<sup>5</sup> Grothman said that AARO's budget remained classified.
+
+The hearing also discussed scientific investigation. Grothman said that the [National Aeronautics and Space Administration (NASA)](/organisations/national-aeronautics-and-space-administration-nasa) was leading an independent study intended to examine how UAP data was gathered from civilian and government sources as of 2023.<sup>6</sup> The source records that NASA had announced a study of UAP in 2022 and that its independent study team included scientists, former astronauts, and pilots.
+
+## Aviation safety and reporting
+
+Graves described himself as a former Navy [F/A-18 Hornet](/objects/fa-18-hornet) pilot and said that radar upgrades to the aircraft of Navy Fighter Attack Squadron 11 (VFA-11) preceded detections of unknown objects in the squadron's airspace. He described a training mission in Warning Area W-72, approximately 16 kilometres off USA, Virginia, Virginia Beach, during which two [F/A-18F Super Hornet](/objects/fa-18f-super-hornet) aircraft were split apart by a UAP.<sup>7</sup>
+
+Graves said the object was a dark grey or black cube inside a clear sphere.<sup>8</sup> He said that it came within approximately 15 metres of the lead aircraft.<sup>9</sup> According to Graves, the squadron submitted a safety report, but there was no official acknowledgement of the incident and no further mechanism for reporting the sightings.<sup>10</sup> He also said that UAP encounters became sufficiently frequent for aircrew to discuss their risks in regular pre-flight briefings.<sup>11</sup>
+
+Graves presented UAP as a matter with several possible dimensions. He said that foreign drones would make them a national security problem, while other explanations could make them a scientific issue, and that either possibility would raise flight-safety concerns.<sup>12</sup> He further argued that pilots needed a reporting system that would not expose them to professional consequences. He recommended a centralised location for processing reports with a two-way communication loop for operators, and proposed using the existing Aviation Safety Reporting System (ASRS) as a short-term trusted platform.
+
+The source records Graves's view that the [Federal Aviation Administration] (FAA) lacked an official process for receiving UAP reports from pilots or other people. He also said that commercial aviators had contacted him because they had no other reporting route, and that the [United States Navy](/organisations/united-states-navy-usn) had implemented a Range Fouler Report for reports from pilots operating on training ranges.
+
+## The 2004 USS Nimitz account
+
+Fravor discussed the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter), which took place during a training deployment off the coast of [USA, California, San Diego](/places/california-san-diego-usa). He said that the flight had been scheduled as a two-versus-two air-to-air exercise, with the [USS Princeton](/objects/uss-princeton-cg-59) acting as control, before the exercise was suspended and the aircraft were directed to real-world tasking involving unidentified objects.<sup>13</sup>
+
+Fravor said that the [USS Princeton](/objects/uss-princeton-cg-59) had tracked unidentified objects for two weeks before the encounter. He described the object as a white Tic Tac object, approximately 12 metres long, and said that it had no visible rotors, rotor wash, control surfaces, or wings.<sup>14</sup> The account includes a report of whitewater disturbance on the ocean surface in clear weather with light winds, calm seas, and no whitecaps.
+
+According to Fravor, the object was observed by four people. He and his [Weapon Systems Officer] descended towards it while another F/A-18F remained at higher altitude. During the descent, the object shifted its longitudinal axis towards the aircraft and began to climb. Fravor said that as his aircraft closed to within approximately 0.8 kilometres, the object accelerated away and disappeared; his wingman also lost radar contact with it. A radar controller subsequently told him that the object had reappeared at the aircraft's combat air patrol point, approximately 97 kilometres away, in less than a minute.<sup>15</sup>
+
+Fravor said that a later launch produced a 90-second video of the object.<sup>16</sup> He also described radar interference involving the APG-73 radar, and said that the radar tape associated with the interference had not been released. The source records his statement that the encounter was never officially investigated and that none of his crew was questioned about it.<sup>17</sup>
+
+## David Grusch's allegations
+
+Grusch described a career involving intelligence work in the [United States Air Force](/organisations/united-states-air-force-usaf), the Air National Guard, and the [National Geospatial Intelligence Agency (NGA)](/organisations/national-geospatial-intelligence-agency-nga). He said that he had served on the UAPTF and had worked on unidentified and trans-medium object analysis.
+
+Grusch said that he became a whistleblower through a PPD-19 urgent concern filing (David Grusch, May 2022) with the intelligence community inspector general.<sup>18</sup> He stated that his testimony was based on information provided by individuals whom he described as having established records of service, including photography, official documentation, and classified oral testimony.<sup>19</sup> He also said that he had spent four years taking steps to corroborate the information and vet the individuals who provided it.
+
+A central allegation in Grusch's testimony was that he had been informed during official duties of a multi-decade UAP crash-retrieval and reverse-engineering programme, but had been denied further access when he requested it.<sup>20</sup> He said that he had reported information about the alleged programme to superiors and inspectors general. His sworn testimony further stated that the US Government had retrieved supposedly extraterrestrial spacecraft and other UAP-related artefacts, and that the United States possessed “nonhuman spacecraft”.<sup>21</sup>
+
+Grusch distinguished his public testimony from information that he said could only be discussed in a secure setting. He stated that his testimony reflected his personal views and opinions rather than those of the DoD, and that he had received prior approval from the DoD Prepublication and Security Review (DOPSR) to speak about certain issues. The source also records his willingness to answer classified questions in a closed session.
+
+The testimony included discussion of competing official and witness positions. According to the source record, [Sean Kirkpatrick](/people/sean-kirkpatrick), then associated with AARO, had previously testified that there was no credible evidence of extraterrestrial activity or off-world technology brought to the office.<sup>22</sup> Grusch said that he considered this statement inaccurate. He also said that he preferred the term “nonhuman intelligence” because it did not assume a particular origin, and that possible origins could include a conventional extraterrestrial explanation or something not yet understood from biological or astrophysical perspectives.
+
+## Transparency and oversight
+
+The hearing addressed the relationship between classification, reporting, and congressional oversight. Graves said that information about UAP encounters could be withheld when reporting systems discouraged pilots from coming forward. Fravor argued that a centrally located repository was needed for UAP reports rather than routing them only through the DoD, because he believed information was not consistently shared within the Intelligence Community.<sup>23</sup>
+
+The source records claims that members of Congress had been denied access to a Sensitive Compartmented Information Facility before the hearing because temporary clearance had to be granted to Grusch. Gaetz separately described seeking information about a UAP incident at USA, Florida, Eglin Air Force Base, including access to flight crew, images, and radar data. He said that he and colleagues were later shown an image and met one member of the flight crew.
+
+The hearing also referred to earlier institutional developments. The Unidentified Anomalous Phenomena Task Force (UAPTF) was described as having been created through the National Defense Authorization Act of 2020 (NDAA). The source records a 2021 preliminary UAP report from the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni), NASA's independent study, and the release by the DoD of UAP videos, including footage associated with Fravor's experience.
+
+The source therefore presents the 2023 hearing as a discussion of several overlapping issues: the evidential status of UAP reports, the risks posed to military and civilian aviation, the adequacy of reporting mechanisms, the protection of classified sensor information, and the extent to which alleged UAP-related programmes are subject to congressional oversight. It records the witnesses' allegations and opinions alongside references to official bodies and programmes, without resolving the competing claims in the hearing itself.

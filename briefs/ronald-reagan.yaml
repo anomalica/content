@@ -1,805 +1,859 @@
 schema: anomalica/brief/1
-brief_hash: d9581dd9a6b53723638a5e8337d4a92995a9e6e142fd7f67aa89932dce195a37
+brief_hash: 4a46a696d09f12804dbe1bd69b493d6a5b7705de9b78e5a76db7f9f4fd4c98e5
 page:
   kind: entity
   node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
   node_type: person
   title: Ronald Reagan
   slug: ronald-reagan
-  claim_count: 15
-  claim_count_total: 15
+  claim_count: 16
+  claim_count_total: 16
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 16
+  tokens_estimated: 4955
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 16
 related_nodes:
-- node_id: 898c410a-7789-4762-b6dd-1139ced89658
-  title: Jimmy Carter
-  node_type: person
-  slug: jimmy-carter
-  shared_claims: 4
-- node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
-  title: George Herbert Walker Bush
-  node_type: person
-  slug: george-herbert-walker-bush
-  shared_claims: 3
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 3
-- node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
-  title: Close Encounters of the Third Kind (1977 film)
-  node_type: document
-  slug: close-encounters-of-the-third-kind-1977-film
-  shared_claims: 2
-- node_id: 65fb00d4-c37a-4b93-827d-2d3e580d38ee
-  title: James Baker
-  node_type: person
-  slug: james-baker
-  shared_claims: 2
-- node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
-  title: Richard Nixon
-  node_type: person
-  slug: richard-nixon
-  shared_claims: 2
-- node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
-  title: Steven Spielberg
-  node_type: person
-  slug: steven-spielberg
-  shared_claims: 2
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 2
-- node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
-  title: Barack Obama
-  node_type: person
-  slug: barack-obama
-  shared_claims: 1
-- node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-  title: Bill Clinton
-  node_type: person
-  slug: bill-clinton
-  shared_claims: 1
-- node_id: 1dfc0714-c2ac-4923-b546-61a19f0755f0
-  title: Central Intelligence Agency (CIA) Directorate of Science and Technology (DS&T)
-  node_type: organisation
-  slug: central-intelligence-agency-cia-directorate-of-science-and-technology-dst
-  shared_claims: 1
-- node_id: 9452773a-568c-48b2-bcb5-f58ccfda1f1b
-  title: Christopher Green
-  node_type: person
-  slug: christopher-green
-  shared_claims: 1
-- node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
-  title: Collins Elite
-  node_type: organisation
-  slug: collins-elite
-  shared_claims: 1
-- node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
-  title: Donald Trump
-  node_type: person
-  slug: donald-trump
-  shared_claims: 1
-- node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
-  title: Dwight D. Eisenhower
-  node_type: person
-  slug: dwight-d-eisenhower
-  shared_claims: 1
-- node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
-  title: Harry S. Truman
-  node_type: person
-  slug: harry-s-truman
-  shared_claims: 1
-- node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-  title: Jesse Mitchells
-  node_type: person
-  slug: jesse-mitchells
-  shared_claims: 1
-- node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
-  title: John Fitzgerald Kennedy
-  node_type: person
-  slug: john-fitzgerald-kennedy
-  shared_claims: 1
-- node_id: 0f346560-30b4-403a-aac9-e61980a99abb
-  title: Lyndon B. Johnson
-  node_type: person
-  slug: lyndon-b-johnson
-  shared_claims: 1
-- node_id: e6230a06-a7e5-4aff-b935-22b5c592a349
-  title: Mikhail Gorbachev
-  node_type: person
-  slug: mikhail-gorbachev
-  shared_claims: 1
-- node_id: 4b1d1596-4b3f-4cda-9738-156dda0182db
-  title: Nick Redfern
-  node_type: person
-  slug: nick-redfern
-  shared_claims: 1
-- node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-  title: Robert Fish
-  node_type: person
-  slug: robert-fish
-  shared_claims: 1
-- node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-  title: Ross Coulthart
-  node_type: person
-  slug: ross-coulthart
-  shared_claims: 1
-- node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
-  title: Soviet Union
-  node_type: organisation
-  slug: soviet-union
-  shared_claims: 1
-- node_id: 9c40e14a-b40f-4d71-9a78-2a27fc503360
-  title: Star Wars
-  node_type: document
-  slug: star-wars
-  shared_claims: 1
-- node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
-  title: Strategic Defense Initiative
-  node_type: project
-  slug: strategic-defense-initiative
-  shared_claims: 1
-- node_id: 9d32a2ba-3862-4abe-983f-4abd38c728ea
-  title: The Family (The Fellowship)
-  node_type: organisation
-  slug: the-family-the-fellowship
-  shared_claims: 1
-- node_id: efa24386-d6bb-4e71-a245-4ee4b647adcb
-  title: The White House
-  node_type: object
-  slug: the-white-house
-  shared_claims: 1
-- node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-  title: ufology
-  node_type: topic
-  slug: ufology
-  shared_claims: 1
-claims:
-- claim_id: e7890490-b3eb-4580-8f0d-f4d257869e4b
-  claim_hash: cb1adaf638151778adaa6037032380be6578267a128efb6d75c8bf8f53bbe642
-  content: Ronald Reagan's conservative Republican presidency followed Jimmy Carter's
-    liberal presidential administration in 1981.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
   - node_id: 898c410a-7789-4762-b6dd-1139ced89658
     title: Jimmy Carter
+    node_type: person
     slug: jimmy-carter
-  date: '1981'
-  date_end: null
-  location_in_record: ch12:7036-7157
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 64e46480-d6c2-48a7-8b12-4d7cb07b1de1
-  claim_hash: 55e423d8bdb04dab036a0a2a189b36ba03e4f427fcfcb1d7f119176c2e480c39
-  content: Robert 'Bob' Fish has extensive experience working on classified programs,
-    including President Ronald Reagan's 'Trust but Verify' nuclear missile disarmament
-    treaty with the Soviets.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Robert 'Bob' Fish
-    relay:
-    - Ross Coulthart
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
-    title: Robert Fish
-    slug: robert-fish
-  - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
-    title: Soviet Union
-    slug: soviet-union
-  date: null
-  date_end: null
-  location_in_record: ch13:29725-29966
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
-  claim_hash: 1cc3aa7bd2a6c9098fb26382cd93b95133c4bc4e77deb9cf96c78d5c50dbb93f
-  content: 'Luis Elizondo believes the following US presidents were briefed in some
-    way on UAP: Harry Truman, Dwight Eisenhower, John F. Kennedy, Lyndon B. Johnson,
-    Jimmy Carter, Ronald Reagan, George H. W. Bush, and Donald Trump.'
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
-    title: Lyndon B. Johnson
-    slug: lyndon-b-johnson
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
-    title: Harry S. Truman
-    slug: harry-s-truman
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
-    title: Donald Trump
-    slug: donald-trump
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
-    title: John Fitzgerald Kennedy
-    slug: john-fitzgerald-kennedy
-  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
-    title: George Herbert Walker Bush
-    slug: george-herbert-walker-bush
-  - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
-    title: Dwight D. Eisenhower
-    slug: dwight-d-eisenhower
-  date: null
-  date_end: null
-  location_in_record: ch31:16189-16330
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 48e38691-af41-4320-8f3b-b20e58bf35bf
-  claim_hash: 09dccee088f5f2955d7b29c6b8034a69c07acc3da4793c40b2e389250916be1c
-  content: Luis Elizondo has reason to believe the Strategic Defense Initiative (SDI),
-    nicknamed the Star Wars programme, which Ronald Reagan championed, was concerned
-    with UAP and not just nuclear weapons.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
-    title: Strategic Defense Initiative
-    slug: strategic-defense-initiative
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: 9c40e14a-b40f-4d71-9a78-2a27fc503360
-    title: Star Wars
-    slug: star-wars
-  date: null
-  date_end: null
-  location_in_record: ch31:17198-17374
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 47f8adf1-bae1-4187-b5ea-765fa8440f63
-  claim_hash: f33d161092da66b2e9cf635ce16cddb7787df2c180b29e73c327ac727db6f189
-  content: Ronald Reagan once suggested to his Soviet counterpart Mikhail Gorbachev
-    that the United States and the Soviet Union should work together in the event
-    of an alien invasion.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: e6230a06-a7e5-4aff-b935-22b5c592a349
-    title: Mikhail Gorbachev
-    slug: mikhail-gorbachev
-  date: null
-  date_end: null
-  location_in_record: ch31:17452-17598
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 45a56889-5bfc-4532-b859-7651e5213e1b
-  claim_hash: 1481e66d73380be75dd90676099e9393ee42c70c1e2d8773011c64244fe536d2
-  content: In a United Nations speech, Ronald Reagan said that he occasionally thinks
-    how quickly differences worldwide would vanish if humanity were facing an alien
-    threat from outside the world, and asked whether an alien force was not already
-    among us.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ronald Reagan
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  date: null
-  date_end: null
-  location_in_record: ch31:17884-18071
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 57a729b0-4a12-43a3-b116-5febab9549e3
-  claim_hash: 1a9d8a2280373bb0a2322a39bf8f0144b0787e65720a75ebeca23b021881dd4a
-  content: James Baker was staff director in the Ronald Reagan administration.
-  original_excerpt: when you go into the Reagan administration, you've got James Baker,
-    who's then his staff director.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: 65fb00d4-c37a-4b93-827d-2d3e580d38ee
-    title: James Baker
-    slug: james-baker
-  date: null
-  date_end: null
-  location_in_record: 00:19:06.7-00:19:10.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 1c426333-5774-4174-bded-a0af4b6383c4
-  claim_hash: 6a1921afb577eb4435776774355e7bb64d526f1c5450cf35b9b2b6b442fb63f3
-  content: The Family (The Fellowship) maintained a consistent presence at the centre
-    of executive-branch power across the change from the Jimmy Carter administration
-    to the Ronald Reagan administration.
-  original_excerpt: the Democrats lose, the Republicans win, but you have a consistent
-    presence of the family right at the nexus of power in the executive branch.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: 9d32a2ba-3862-4abe-983f-4abd38c728ea
-    title: The Family (The Fellowship)
-    slug: the-family-the-fellowship
-  date: null
-  date_end: null
-  location_in_record: 00:19:15.4-00:19:21.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 97e81e7e-aac3-4cf2-8c3d-37fccc5bec05
-  claim_hash: 3d2d824a5137749b3046c75044daff9c8d434628c4ab0069db4079f050c7f62e
-  content: According to Nick Redfern, James Baker was involved in a Unidentified Flying
-    Object (UFO) briefing given to Ronald Reagan.
-  original_excerpt: And James Baker is also a member of the family, and he's involved
-    in a UFO briefing, according to Nick Redfern. So he's invited into a briefing
-    that Reagan gets
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: named
-    origin: Nick Redfern
-    relay:
-    - Jason Samosa
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: 4b1d1596-4b3f-4cda-9738-156dda0182db
-    title: Nick Redfern
-    slug: nick-redfern
-  - node_id: 65fb00d4-c37a-4b93-827d-2d3e580d38ee
-    title: James Baker
-    slug: james-baker
+    shared_claims: 5
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
+    node_type: topic
     slug: unidentified-flying-object-ufo
-  date: null
-  date_end: null
-  location_in_record: 00:19:22.9-00:19:34.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 9a46ae9f-96a6-421b-be1c-877c43e424f8
-  claim_hash: cd7e6a5e8e2414013e99107308b1c422f77bda938cf77448d766f98c5d6148c9
-  content: The Unidentified Flying Object (UFO) briefing given to Ronald Reagan included
-    attendees from the Central Intelligence Agency Directorate of Science and Technology
-    (S&T), presumed by Jason Samosa to be Christopher Green and his staff, plus the
-    Collins Elite and a third group who also briefed.
-  original_excerpt: One's from CIA, S&T, which is presumably Kit Green and his people.
-    You've got the Collins elite who come in, and then there's another group who do
-    a briefing as well.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: named
-    origin: Nick Redfern
-    relay:
-    - Jason Samosa
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: 1dfc0714-c2ac-4923-b546-61a19f0755f0
-    title: Central Intelligence Agency (CIA) Directorate of Science and Technology
-      (DS&T)
-    slug: central-intelligence-agency-cia-directorate-of-science-and-technology-dst
-  - node_id: 9452773a-568c-48b2-bcb5-f58ccfda1f1b
-    title: Christopher Green
-    slug: christopher-green
-  - node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
-    title: Collins Elite
-    slug: collins-elite
-  date: null
-  date_end: null
-  location_in_record: 00:19:36.6-00:19:44.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: e72be749-9bc0-467a-b699-0ac87d60a67f
-  claim_hash: ebf79e7533930844d7c53d1df28be912339ea25f89960afa3321b1e111b9e048
-  content: Richard Nixon, Jimmy Carter, Ronald Reagan and George H. W. Bush all appear
-    to have received briefings on the UFO subject, according to Jason Samosa's research.
-  original_excerpt: Nixon, Carter, Reagan, Bush, all seem to have received briefings.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
-    title: Richard Nixon
-    slug: richard-nixon
-  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-    title: Jimmy Carter
-    slug: jimmy-carter
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
+    shared_claims: 4
   - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
     title: George Herbert Walker Bush
+    node_type: person
     slug: george-herbert-walker-bush
-  date: null
-  date_end: null
-  location_in_record: 00:46:04.1-00:46:07.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 7be64312-c7b5-4528-af89-1659f36042a5
-  claim_hash: 96199762c0839795219ffd9fbd845b14aee2d7dd9133bc6c24e51304e4d3698d
-  content: Bill Clinton and Barack Obama came into office without being connected
-    to the United States establishment, unlike Ronald Reagan, Richard Nixon and the
-    Bush family, in Jason Samosa's view.
-  original_excerpt: Clinton and Obama coming into office really weren't connected
-    to the establishment of the United States. They really were in many ways outsiders
-    who'd started to move inside. ... But that's very different to Reagan, to Nixon
-    and to all of these kind of the Bush family.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
+    shared_claims: 3
+  - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+    title: Close Encounters of the Third Kind (1977 film)
+    node_type: document
+    slug: close-encounters-of-the-third-kind-1977-film
+    shared_claims: 2
+  - node_id: 65fb00d4-c37a-4b93-827d-2d3e580d38ee
+    title: James Baker
+    node_type: person
+    slug: james-baker
+    shared_claims: 2
   - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
     title: Richard Nixon
+    node_type: person
     slug: richard-nixon
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-    title: Bill Clinton
-    slug: bill-clinton
+    shared_claims: 2
+  - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
+    title: Steven Spielberg
+    node_type: person
+    slug: steven-spielberg
+    shared_claims: 2
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 2
   - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
     title: Barack Obama
+    node_type: person
     slug: barack-obama
-  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
-    title: George Herbert Walker Bush
-    slug: george-herbert-walker-bush
-  date: null
-  date_end: null
-  location_in_record: 00:46:48.5-00:47:07.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 711f3e12-8676-4b21-8a84-879de4b93360
-  claim_hash: 78b309f520382d4f8fe0761821a2690b355b9571b67e3c13408038791df9db95
-  content: Jesse Michels considers the biggest fallacy of UFO research to be treating
-    figures such as Ronald Reagan as though they spent most of their time on UFOs,
-    when the subject was under one per cent of their attention and their real focus
-    was geopolitics.
-  original_excerpt: And I think maybe the biggest fallacy of UFO research is we talk
-    about Reagan, like he spends all his time on UFOs. They're realizing it's sub
-    1%. And he really is just geopolitics.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jesse Michels
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
+  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+    title: Bill Clinton
+    node_type: person
+    slug: bill-clinton
+    shared_claims: 1
+  - node_id: 1dfc0714-c2ac-4923-b546-61a19f0755f0
+    title: Central Intelligence Agency (CIA) Directorate of Science and Technology (DS&T)
+    node_type: organisation
+    slug: central-intelligence-agency-cia-directorate-of-science-and-technology-dst
+    shared_claims: 1
+  - node_id: 9452773a-568c-48b2-bcb5-f58ccfda1f1b
+    title: Christopher Green
+    node_type: person
+    slug: christopher-green
+    shared_claims: 1
+  - node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
+    title: Collins Elite
+    node_type: organisation
+    slug: collins-elite
+    shared_claims: 1
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 1
+  - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+    title: Dwight D. Eisenhower
+    node_type: person
+    slug: dwight-d-eisenhower
+    shared_claims: 1
+  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+    title: Harry S. Truman
+    node_type: person
+    slug: harry-s-truman
+    shared_claims: 1
   - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
     title: Jesse Mitchells
+    node_type: person
     slug: jesse-mitchells
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    slug: ufology
-  date: null
-  date_end: null
-  location_in_record: 02:29:48.7-02:30:00.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 693137a4-17ed-493b-8506-92619e8e8cf4
-  claim_hash: 107bfaa071a8cd18cfac19edf57878ec3fd1bb776b9b2e3514b0acb6e7e7111e
-  content: Ross Coulthart has had the account of Ronald Reagan's remark about Close
-    Encounters of the Third Kind confirmed to him by an unnamed person who was present
-    in the room, who was neither Steven Spielberg nor Ronald Reagan.
-  original_excerpt: this has been confirmed to me by someone who was actually there,
-    not Spielberg and sadly not President Reagan
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to have been present at the White House screening of
-      Close Encounters of the Third Kind
-    relay:
-    - Ross Coulthart
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
-    title: Close Encounters of the Third Kind (1977 film)
-    slug: close-encounters-of-the-third-kind-1977-film
-  - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
-    title: Steven Spielberg
-    slug: steven-spielberg
+    shared_claims: 1
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    node_type: person
+    slug: john-fitzgerald-kennedy
+    shared_claims: 1
+  - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+    title: Lyndon B. Johnson
+    node_type: person
+    slug: lyndon-b-johnson
+    shared_claims: 1
+  - node_id: e6230a06-a7e5-4aff-b935-22b5c592a349
+    title: Mikhail Gorbachev
+    node_type: person
+    slug: mikhail-gorbachev
+    shared_claims: 1
+  - node_id: 4b1d1596-4b3f-4cda-9738-156dda0182db
+    title: Nick Redfern
+    node_type: person
+    slug: nick-redfern
+    shared_claims: 1
+  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+    title: Robert Fish
+    node_type: person
+    slug: robert-fish
+    shared_claims: 1
   - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
     title: Ross Coulthart
+    node_type: person
     slug: ross-coulthart
-  date: null
-  date_end: null
-  location_in_record: 00:10:24.5-00:10:30.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
-    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
-    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
-    friendly_name: null
-- claim_id: d5f5efd4-942f-47b1-9ee4-4109e115f591
-  claim_hash: 5896ce1cfcf16ea7c15cac3a5ae5b8dac0b2c5ac0021a8519dbf1e53e6f40d67
-  content: When Close Encounters of the Third Kind was watched in The White House
-    movie room with Steven Spielberg present, Ronald Reagan told the room that there
-    was a lot in the film and that a few people present knew that everything in it
-    was true.
-  original_excerpt: when they watched Close Encounters of the Third Kind in the White
-    House movie room with Steven Spielberg present, the president said to everyone
-    in the room, There's a lot in that story in that film. There are a few people
-    in this room who know that everything in that film is true.
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: named
-    origin: Ronald Reagan
-    relay:
-    - an unnamed person who was present in the room
-    - Ross Coulthart
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
-    title: Ronald Reagan
-    slug: ronald-reagan
-  - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
-    title: Close Encounters of the Third Kind (1977 film)
-    slug: close-encounters-of-the-third-kind-1977-film
-  - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
-    title: Steven Spielberg
-    slug: steven-spielberg
+    shared_claims: 1
+  - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+    title: Soviet Union
+    node_type: organisation
+    slug: soviet-union
+    shared_claims: 1
+  - node_id: 9c40e14a-b40f-4d71-9a78-2a27fc503360
+    title: Star Wars
+    node_type: document
+    slug: star-wars
+    shared_claims: 1
+  - node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
+    title: Strategic Defense Initiative
+    node_type: project
+    slug: strategic-defense-initiative
+    shared_claims: 1
+  - node_id: 9d32a2ba-3862-4abe-983f-4abd38c728ea
+    title: The Family (The Fellowship)
+    node_type: organisation
+    slug: the-family-the-fellowship
+    shared_claims: 1
   - node_id: efa24386-d6bb-4e71-a245-4ee4b647adcb
     title: The White House
+    node_type: object
     slug: the-white-house
-  date: null
-  date_end: null
-  location_in_record: 00:10:31.4-00:10:49.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
-    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
-      with Ross Coulthart
-    record_date: '2026-08-11'
-    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
-    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+    title: ufology
+    node_type: topic
+    slug: ufology
+    shared_claims: 1
+claims:
+  - claim_id: e7890490-b3eb-4580-8f0d-f4d257869e4b
+    claim_hash: cb1adaf638151778adaa6037032380be6578267a128efb6d75c8bf8f53bbe642
+    content: Ronald Reagan's conservative Republican presidency followed Jimmy Carter's liberal presidential administration
+      in 1981.
+    original_excerpt: Jimmy Carter's liberal presidential administration was followed by conservative Republican Ronald Reagan's
+      presidency in 1981
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+    date: '1981'
+    date_end: null
+    location_in_record: ch12:7036-7157
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 64e46480-d6c2-48a7-8b12-4d7cb07b1de1
+    claim_hash: 55e423d8bdb04dab036a0a2a189b36ba03e4f427fcfcb1d7f119176c2e480c39
+    content: Robert 'Bob' Fish has extensive experience working on classified programs, including President Ronald Reagan's
+      'Trust but Verify' nuclear missile disarmament treaty with the Soviets.
+    original_excerpt: A previously very highly security cleared defence communications intelligence insider, Fish has extensive
+      experience working on classified programs, including President Reagan's 'Trust but Verify' nuclear missile disarmament
+      treaty with the Soviets
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+        title: Soviet Union
+        slug: soviet-union
+    date: null
+    date_end: null
+    location_in_record: ch13:29725-29966
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
+    claim_hash: 1cc3aa7bd2a6c9098fb26382cd93b95133c4bc4e77deb9cf96c78d5c50dbb93f
+    content: 'Luis Elizondo believes the following US presidents were briefed in some way on UAP: Harry Truman, Dwight Eisenhower,
+      John F. Kennedy, Lyndon B. Johnson, Jimmy Carter, Ronald Reagan, George H. W. Bush, and Donald Trump.'
+    original_excerpt: 'As far as I know, the following US presidents were briefed in some way: Truman, Eisenhower, JFK, LBJ,
+      Carter, Reagan, George H. W. Bush, and Trump.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+        title: Harry S. Truman
+        slug: harry-s-truman
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+        title: Dwight D. Eisenhower
+        slug: dwight-d-eisenhower
+    date: null
+    date_end: null
+    location_in_record: ch31:16189-16330
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 48e38691-af41-4320-8f3b-b20e58bf35bf
+    claim_hash: 09dccee088f5f2955d7b29c6b8034a69c07acc3da4793c40b2e389250916be1c
+    content: Luis Elizondo has reason to believe the Strategic Defense Initiative (SDI), nicknamed the Star Wars programme,
+      which Ronald Reagan championed, was concerned with UAP and not just nuclear weapons.
+    original_excerpt: As for Reagan, I have reason to believe that the Strategic Defense Initiative (SDI), nicknamed the Star
+      Wars program, which Reagan championed, was concerned with UAP, not just nukes.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
+        title: Strategic Defense Initiative
+        slug: strategic-defense-initiative
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 9c40e14a-b40f-4d71-9a78-2a27fc503360
+        title: Star Wars
+        slug: star-wars
+    date: null
+    date_end: null
+    location_in_record: ch31:17198-17374
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 47f8adf1-bae1-4187-b5ea-765fa8440f63
+    claim_hash: f33d161092da66b2e9cf635ce16cddb7787df2c180b29e73c327ac727db6f189
+    content: Ronald Reagan once suggested to his Soviet counterpart Mikhail Gorbachev that the United States and the Soviet
+      Union should work together in the event of an alien invasion.
+    original_excerpt: we know that he once suggested to his USSR counterpart, Mikhail Gorbachev, that the US and the USSR
+      should work together in the event of an alien invasion.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: e6230a06-a7e5-4aff-b935-22b5c592a349
+        title: Mikhail Gorbachev
+        slug: mikhail-gorbachev
+    date: null
+    date_end: null
+    location_in_record: ch31:17452-17598
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 45a56889-5bfc-4532-b859-7651e5213e1b
+    claim_hash: 1481e66d73380be75dd90676099e9393ee42c70c1e2d8773011c64244fe536d2
+    content: In a United Nations speech, Ronald Reagan said that he occasionally thinks how quickly differences worldwide
+      would vanish if humanity were facing an alien threat from outside the world, and asked whether an alien force was not
+      already among us.
+    original_excerpt: I occasionally think how quickly our differences worldwide would vanish if we were facing an alien threat
+      from outside this world. And yet, I ask you, is not an alien force already among us?
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+      title: Ronald Reagan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ronald Reagan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+    date: null
+    date_end: null
+    location_in_record: ch31:17884-18071
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 57a729b0-4a12-43a3-b116-5febab9549e3
+    claim_hash: 1a9d8a2280373bb0a2322a39bf8f0144b0787e65720a75ebeca23b021881dd4a
+    content: James Baker was staff director in the Ronald Reagan administration.
+    original_excerpt: when you go into the Reagan administration, you've got James Baker, who's then his staff director.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 65fb00d4-c37a-4b93-827d-2d3e580d38ee
+        title: James Baker
+        slug: james-baker
+    date: null
+    date_end: null
+    location_in_record: 00:19:06.7-00:19:10.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 1c426333-5774-4174-bded-a0af4b6383c4
+    claim_hash: 6a1921afb577eb4435776774355e7bb64d526f1c5450cf35b9b2b6b442fb63f3
+    content: The Family (The Fellowship) maintained a consistent presence at the centre of executive-branch power across the
+      change from the Jimmy Carter administration to the Ronald Reagan administration.
+    original_excerpt: the Democrats lose, the Republicans win, but you have a consistent presence of the family right at the
+      nexus of power in the executive branch.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 9d32a2ba-3862-4abe-983f-4abd38c728ea
+        title: The Family (The Fellowship)
+        slug: the-family-the-fellowship
+    date: null
+    date_end: null
+    location_in_record: 00:19:15.4-00:19:21.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 97e81e7e-aac3-4cf2-8c3d-37fccc5bec05
+    claim_hash: 3d2d824a5137749b3046c75044daff9c8d434628c4ab0069db4079f050c7f62e
+    content: According to Nick Redfern, James Baker was involved in a Unidentified Flying Object (UFO) briefing given to Ronald
+      Reagan.
+    original_excerpt: And James Baker is also a member of the family, and he's involved in a UFO briefing, according to Nick
+      Redfern. So he's invited into a briefing that Reagan gets
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Nick Redfern
+      relay:
+        - Jason Samosa
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 4b1d1596-4b3f-4cda-9738-156dda0182db
+        title: Nick Redfern
+        slug: nick-redfern
+      - node_id: 65fb00d4-c37a-4b93-827d-2d3e580d38ee
+        title: James Baker
+        slug: james-baker
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:19:22.9-00:19:34.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 9a46ae9f-96a6-421b-be1c-877c43e424f8
+    claim_hash: cd7e6a5e8e2414013e99107308b1c422f77bda938cf77448d766f98c5d6148c9
+    content: The Unidentified Flying Object (UFO) briefing given to Ronald Reagan included attendees from the Central Intelligence
+      Agency Directorate of Science and Technology (S&T), presumed by Jason Samosa to be Christopher Green and his staff,
+      plus the Collins Elite and a third group who also briefed.
+    original_excerpt: One's from CIA, S&T, which is presumably Kit Green and his people. You've got the Collins elite who
+      come in, and then there's another group who do a briefing as well.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Nick Redfern
+      relay:
+        - Jason Samosa
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 1dfc0714-c2ac-4923-b546-61a19f0755f0
+        title: Central Intelligence Agency (CIA) Directorate of Science and Technology (DS&T)
+        slug: central-intelligence-agency-cia-directorate-of-science-and-technology-dst
+      - node_id: 9452773a-568c-48b2-bcb5-f58ccfda1f1b
+        title: Christopher Green
+        slug: christopher-green
+      - node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
+        title: Collins Elite
+        slug: collins-elite
+    date: null
+    date_end: null
+    location_in_record: 00:19:36.6-00:19:44.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: e72be749-9bc0-467a-b699-0ac87d60a67f
+    claim_hash: ebf79e7533930844d7c53d1df28be912339ea25f89960afa3321b1e111b9e048
+    content: Richard Nixon, Jimmy Carter, Ronald Reagan and George H. W. Bush all appear to have received briefings on the
+      UFO subject, according to Jason Samosa's research.
+    original_excerpt: Nixon, Carter, Reagan, Bush, all seem to have received briefings.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: 00:46:04.1-00:46:07.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 7be64312-c7b5-4528-af89-1659f36042a5
+    claim_hash: 96199762c0839795219ffd9fbd845b14aee2d7dd9133bc6c24e51304e4d3698d
+    content: Bill Clinton and Barack Obama came into office without being connected to the United States establishment, unlike
+      Ronald Reagan, Richard Nixon and the Bush family, in Jason Samosa's view.
+    original_excerpt: Clinton and Obama coming into office really weren't connected to the establishment of the United States.
+      They really were in many ways outsiders who'd started to move inside. ... But that's very different to Reagan, to Nixon
+      and to all of these kind of the Bush family.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: 00:46:48.5-00:47:07.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 711f3e12-8676-4b21-8a84-879de4b93360
+    claim_hash: 78b309f520382d4f8fe0761821a2690b355b9571b67e3c13408038791df9db95
+    content: Jesse Michels considers the biggest fallacy of UFO research to be treating figures such as Ronald Reagan as though
+      they spent most of their time on UFOs, when the subject was under one per cent of their attention and their real focus
+      was geopolitics.
+    original_excerpt: And I think maybe the biggest fallacy of UFO research is we talk about Reagan, like he spends all his
+      time on UFOs. They're realizing it's sub 1%. And he really is just geopolitics.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: 02:29:48.7-02:30:00.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: e00b9e9a-4d14-4a74-9a71-8209e80993e1
+    claim_hash: 29d86e58ea1458d800104f1042ea3e042dd84827c71a0e20cc263a20253b120b
+    content: Jimmy Carter asked about the UFO subject, and Whitley Strieber knows that Ronald Reagan and his wife knew about
+      it.
+    original_excerpt: Carter asked about it, i know the Reagan's knew about it. They've all known something.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 01:29:57.1-01:30:05.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 693137a4-17ed-493b-8506-92619e8e8cf4
+    claim_hash: 107bfaa071a8cd18cfac19edf57878ec3fd1bb776b9b2e3514b0acb6e7e7111e
+    content: Ross Coulthart has had the account of Ronald Reagan's remark about Close Encounters of the Third Kind confirmed
+      to him by an unnamed person who was present in the room, who was neither Steven Spielberg nor Ronald Reagan.
+    original_excerpt: this has been confirmed to me by someone who was actually there, not Spielberg and sadly not President
+      Reagan
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have been present at the White House screening of Close Encounters of the Third Kind
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+        title: Close Encounters of the Third Kind (1977 film)
+        slug: close-encounters-of-the-third-kind-1977-film
+      - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
+        title: Steven Spielberg
+        slug: steven-spielberg
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:10:24.5-00:10:30.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+      record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+      content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null
+  - claim_id: d5f5efd4-942f-47b1-9ee4-4109e115f591
+    claim_hash: 5896ce1cfcf16ea7c15cac3a5ae5b8dac0b2c5ac0021a8519dbf1e53e6f40d67
+    content: When Close Encounters of the Third Kind was watched in The White House movie room with Steven Spielberg present,
+      Ronald Reagan told the room that there was a lot in the film and that a few people present knew that everything in it
+      was true.
+    original_excerpt: when they watched Close Encounters of the Third Kind in the White House movie room with Steven Spielberg
+      present, the president said to everyone in the room, There's a lot in that story in that film. There are a few people
+      in this room who know that everything in that film is true.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Ronald Reagan
+      relay:
+        - an unnamed person who was present in the room
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+        title: Close Encounters of the Third Kind (1977 film)
+        slug: close-encounters-of-the-third-kind-1977-film
+      - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
+        title: Steven Spielberg
+        slug: steven-spielberg
+      - node_id: efa24386-d6bb-4e71-a245-4ee4b647adcb
+        title: The White House
+        slug: the-white-house
+    date: null
+    date_end: null
+    location_in_record: 00:10:31.4-00:10:49.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+      record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+      content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null

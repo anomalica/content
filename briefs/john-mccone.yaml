@@ -9,158 +9,166 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 1087
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
 related_nodes:
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 2
-- node_id: 09c22c69-2f63-44c4-b662-2fc7cd341822
-  title: Central Intelligence Agency (CIA) Evaluation of UFOs
-  node_type: project
-  slug: central-intelligence-agency-cia-evaluation-of-ufos
-  shared_claims: 1
-- node_id: cab16e2c-5b94-4cfa-866e-d5c0a3c8c891
-  title: Central Intelligence Agency (CIA) Office of Scientific Intelligence (OSI)
-  node_type: organisation
-  slug: central-intelligence-agency-cia-office-of-scientific-intelligence-osi
-  shared_claims: 1
-- node_id: 9806d176-c68c-499f-a2a1-9a9ddce17022
-  title: Donald F. Chamberlain
-  node_type: person
-  slug: donald-f-chamberlain
-  shared_claims: 1
-- node_id: 6f1d5f64-164c-408c-b80e-8e7c1bef866c
-  title: James Lay
-  node_type: person
-  slug: james-lay
-  shared_claims: 1
-claims:
-- claim_id: 7273c60d-0a35-4876-a984-6c103b28552d
-  claim_hash: fd85e08f3a1c6e9d28f66460d144644338a4870e4edc80a264f7c8a1d5168838
-  content: Following high-level White House discussions on what to do if alien intelligence
-    was discovered or there was a new outbreak of UFO sightings, Director of Central
-    Intelligence John McCone tasked the Central Intelligence Agency to update its
-    evaluation of UFOs.
-  original_excerpt: Following high-level White House discussions on what to do if
-    alien intelligence was discovered or there was a new outbreak of UFO sightings,
-    DCI John McCone tasked the CIA to update its evaluation of UFOs.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: CIA's Role in the Study of UFOs, 1947-90
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 2
   - node_id: 09c22c69-2f63-44c4-b662-2fc7cd341822
     title: Central Intelligence Agency (CIA) Evaluation of UFOs
+    node_type: project
     slug: central-intelligence-agency-cia-evaluation-of-ufos
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
-  - node_id: da60fe7e-7fdc-4d13-b758-8e2c3514ec22
-    title: John McCone
-    slug: john-mccone
-  date: '1964'
-  date_end: null
-  location_in_record: char:47193-47394
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: c8b6b7e8-cc21-43d8-99a0-fe02cd9e559c
-  claim_hash: 77d0ba55097324dca8fb5605785184e3981e8097116eecd69537b0e74c361c59
-  content: Donald F. Chamberlain, Assistant Director of the CIA Office of Scientific
-    Intelligence (OSI), informed John McCone that little had changed since the early
-    1950s and that there was still no evidence that UFOs were a threat to United States
-    security or that they were of foreign origin.
-  original_excerpt: Donald F. Chamberlain, Assistant Director of OSI, subsequently
-    informed McCone that little had changed since the early 1950s; there was still
-    no evidence that UFOs were a threat to the security of the United States or that
-    they were of "foreign origin."
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Donald F. Chamberlain
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9806d176-c68c-499f-a2a1-9a9ddce17022
-    title: Donald F. Chamberlain
-    slug: donald-f-chamberlain
+    shared_claims: 1
   - node_id: cab16e2c-5b94-4cfa-866e-d5c0a3c8c891
     title: Central Intelligence Agency (CIA) Office of Scientific Intelligence (OSI)
+    node_type: organisation
     slug: central-intelligence-agency-cia-office-of-scientific-intelligence-osi
-  - node_id: da60fe7e-7fdc-4d13-b758-8e2c3514ec22
-    title: John McCone
-    slug: john-mccone
-  date: '1964'
-  date_end: null
-  location_in_record: char:47803-48048
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 8bd191fb-5dc1-44c8-82f8-1765dd21ce58
-  claim_hash: c70c17d966fbf66d6250071b51bc185ea0652005440474f465140c32c0c58464
-  content: CIA library documents show that John McCone, a later director of the Central
-    Intelligence Agency (CIA), recommended James Lay for a career service award for
-    services relating to intelligence projects involving interagency efforts.
-  original_excerpt: He also interestingly was recommended by John McCone a later director
-    of the CIA, for a career service award, and this is from the CIA library documents,
-    for services in relation to intelligent projects which had involved interagency
-    efforts.
-  claim_type: administrative
-  attestation: second_hand
-  speaker:
-    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
-  provenance_chain:
-    origin_kind: document
-    origin: Central Intelligence Agency library documents
-    relay:
-    - Jonathan Caplan
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-    title: Central Intelligence Agency (CIA)
-    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: 9806d176-c68c-499f-a2a1-9a9ddce17022
+    title: Donald F. Chamberlain
+    node_type: person
+    slug: donald-f-chamberlain
+    shared_claims: 1
   - node_id: 6f1d5f64-164c-408c-b80e-8e7c1bef866c
     title: James Lay
+    node_type: person
     slug: james-lay
-  - node_id: da60fe7e-7fdc-4d13-b758-8e2c3514ec22
-    title: John McCone
-    slug: john-mccone
-  date: null
-  date_end: null
-  location_in_record: 00:40:10.1-00:40:30.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
-    record_title: Watergate, the JFK assassination and a UFO secret at the center
-      of it all | Reality Check
-    record_date: '2026-06-18'
-    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
-    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
-    friendly_name: null
+    shared_claims: 1
+claims:
+  - claim_id: 7273c60d-0a35-4876-a984-6c103b28552d
+    claim_hash: fd85e08f3a1c6e9d28f66460d144644338a4870e4edc80a264f7c8a1d5168838
+    content: Following high-level White House discussions on what to do if alien intelligence was discovered or there was
+      a new outbreak of UFO sightings, Director of Central Intelligence John McCone tasked the Central Intelligence Agency
+      to update its evaluation of UFOs.
+    original_excerpt: Following high-level White House discussions on what to do if alien intelligence was discovered or there
+      was a new outbreak of UFO sightings, DCI John McCone tasked the CIA to update its evaluation of UFOs.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: CIA's Role in the Study of UFOs, 1947-90
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09c22c69-2f63-44c4-b662-2fc7cd341822
+        title: Central Intelligence Agency (CIA) Evaluation of UFOs
+        slug: central-intelligence-agency-cia-evaluation-of-ufos
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: da60fe7e-7fdc-4d13-b758-8e2c3514ec22
+        title: John McCone
+        slug: john-mccone
+    date: '1964'
+    date_end: null
+    location_in_record: char:47193-47394
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: c8b6b7e8-cc21-43d8-99a0-fe02cd9e559c
+    claim_hash: 77d0ba55097324dca8fb5605785184e3981e8097116eecd69537b0e74c361c59
+    content: Donald F. Chamberlain, Assistant Director of the CIA Office of Scientific Intelligence (OSI), informed John McCone
+      that little had changed since the early 1950s and that there was still no evidence that UFOs were a threat to United
+      States security or that they were of foreign origin.
+    original_excerpt: Donald F. Chamberlain, Assistant Director of OSI, subsequently informed McCone that little had changed
+      since the early 1950s; there was still no evidence that UFOs were a threat to the security of the United States or that
+      they were of "foreign origin."
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Donald F. Chamberlain
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9806d176-c68c-499f-a2a1-9a9ddce17022
+        title: Donald F. Chamberlain
+        slug: donald-f-chamberlain
+      - node_id: cab16e2c-5b94-4cfa-866e-d5c0a3c8c891
+        title: Central Intelligence Agency (CIA) Office of Scientific Intelligence (OSI)
+        slug: central-intelligence-agency-cia-office-of-scientific-intelligence-osi
+      - node_id: da60fe7e-7fdc-4d13-b758-8e2c3514ec22
+        title: John McCone
+        slug: john-mccone
+    date: '1964'
+    date_end: null
+    location_in_record: char:47803-48048
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 8bd191fb-5dc1-44c8-82f8-1765dd21ce58
+    claim_hash: c70c17d966fbf66d6250071b51bc185ea0652005440474f465140c32c0c58464
+    content: CIA library documents show that John McCone, a later director of the Central Intelligence Agency (CIA), recommended
+      James Lay for a career service award for services relating to intelligence projects involving interagency efforts.
+    original_excerpt: He also interestingly was recommended by John McCone a later director of the CIA, for a career service
+      award, and this is from the CIA library documents, for services in relation to intelligent projects which had involved
+      interagency efforts.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: document
+      origin: Central Intelligence Agency library documents
+      relay:
+        - Jonathan Caplan
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 6f1d5f64-164c-408c-b80e-8e7c1bef866c
+        title: James Lay
+        slug: james-lay
+      - node_id: da60fe7e-7fdc-4d13-b758-8e2c3514ec22
+        title: John McCone
+        slug: john-mccone
+    date: null
+    date_end: null
+    location_in_record: 00:40:10.1-00:40:30.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null

@@ -9,202 +9,212 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 1031
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
 related_nodes:
-- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-  title: National Aeronautics and Space Administration (NASA)
-  node_type: organisation
-  slug: national-aeronautics-and-space-administration-nasa
-  shared_claims: 2
-- node_id: 1cd8dee1-e4e8-49dc-a0a9-25a3c7e4e40e
-  title: Proposed Studies on the Implications of Peaceful Space Activities for Human
-    Affairs (Brookings Report)
-  node_type: document
-  slug: proposed-studies-on-the-implications-of-peaceful-space-activities-for-human-affairs-brookings-report
-  shared_claims: 2
-- node_id: d6078748-7e40-4a44-a376-77e5dbdca164
-  title: 1954 Muroc Air Base extraterrestrial spacecraft viewing
-  node_type: event
-  slug: 1954-muroc-air-base-extraterrestrial-spacecraft-viewing
-  shared_claims: 1
-- node_id: 4be4bc1d-6fe2-4b38-a77b-ee635720ae3b
-  title: Bishop McIntyre
-  node_type: person
-  slug: bishop-mcintyre
-  shared_claims: 1
-- node_id: fec14161-6c8a-44a7-ace2-47227c85a661
-  title: Edwin Nourse
-  node_type: person
-  slug: edwin-nourse
-  shared_claims: 1
-- node_id: b7ee9c58-fffb-4af6-be89-17b15b97e9c5
-  title: Franklin Allen
-  node_type: person
-  slug: franklin-allen
-  shared_claims: 1
-- node_id: bdb51725-ae0f-4494-9400-1ba4ddac32fa
-  title: Gerald Light
-  node_type: person
-  slug: gerald-light
-  shared_claims: 1
-- node_id: cd8258f6-d465-4dc9-8824-7386c11efd99
-  title: Hearst Corporation
-  node_type: organisation
-  slug: hearst-corporation
-  shared_claims: 1
-- node_id: d4e1ae14-7345-4ffc-95f5-bb78564e2e46
-  title: USA, California, Los Angeles Archdiocese
-  node_type: organisation
-  slug: california-los-angeles-archdiocese-usa
-  shared_claims: 1
-- node_id: 9066ce4d-e79d-4dea-9510-a0797ddfb36c
-  title: USA, California, Muroc Air Base
-  node_type: place
-  slug: california-muroc-air-base-usa
-  shared_claims: 1
-- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-  title: United States Congress
-  node_type: organisation
-  slug: united-states-congress
-  shared_claims: 1
-claims:
-- claim_id: 698b59d4-9c02-40c9-8f6c-c9e237193e5a
-  claim_hash: 03b96187a5d93942d5568778d2ba0114aa6a90c6ff5247352cfb2ee1efdd4686
-  content: Gerald Light claimed he journeyed to Muroc Air Base in April 1954 in the
-    company of Franklin Allen of the Hearst Corporation, Edwin Nourse of the Brookings
-    Institution, and Bishop McIntyre of the Los Angeles Archdiocese.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: bdb51725-ae0f-4494-9400-1ba4ddac32fa
-    title: Gerald Light
-  provenance_chain:
-    origin_kind: named
-    origin: Gerald Light
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 4be4bc1d-6fe2-4b38-a77b-ee635720ae3b
-    title: Bishop McIntyre
-    slug: bishop-mcintyre
-  - node_id: 9066ce4d-e79d-4dea-9510-a0797ddfb36c
-    title: USA, California, Muroc Air Base
-    slug: california-muroc-air-base-usa
-  - node_id: 91dbca62-e875-48da-b5b9-57a619ee35f9
-    title: Brookings Institution
-    slug: brookings-institution
-  - node_id: b7ee9c58-fffb-4af6-be89-17b15b97e9c5
-    title: Franklin Allen
-    slug: franklin-allen
-  - node_id: bdb51725-ae0f-4494-9400-1ba4ddac32fa
-    title: Gerald Light
-    slug: gerald-light
-  - node_id: cd8258f6-d465-4dc9-8824-7386c11efd99
-    title: Hearst Corporation
-    slug: hearst-corporation
-  - node_id: d4e1ae14-7345-4ffc-95f5-bb78564e2e46
-    title: USA, California, Los Angeles Archdiocese
-    slug: california-los-angeles-archdiocese-usa
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 2
+  - node_id: 1cd8dee1-e4e8-49dc-a0a9-25a3c7e4e40e
+    title: Proposed Studies on the Implications of Peaceful Space Activities for Human Affairs (Brookings Report)
+    node_type: document
+    slug: proposed-studies-on-the-implications-of-peaceful-space-activities-for-human-affairs-brookings-report
+    shared_claims: 2
   - node_id: d6078748-7e40-4a44-a376-77e5dbdca164
     title: 1954 Muroc Air Base extraterrestrial spacecraft viewing
+    node_type: event
     slug: 1954-muroc-air-base-extraterrestrial-spacecraft-viewing
+    shared_claims: 1
+  - node_id: 4be4bc1d-6fe2-4b38-a77b-ee635720ae3b
+    title: Bishop McIntyre
+    node_type: person
+    slug: bishop-mcintyre
+    shared_claims: 1
   - node_id: fec14161-6c8a-44a7-ace2-47227c85a661
     title: Edwin Nourse
+    node_type: person
     slug: edwin-nourse
-  date: 1954-04
-  date_end: null
-  location_in_record: ch10:46779-47011
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: de0a72cf-aac7-4cd8-b4a6-fcd159824613
-  claim_hash: be0d34aea3e4452a11d1a89d2dc2a134a58a3855abef673152c8d1405d988c53
-  content: National Aeronautics and Space Administration (NASA) commissioned a formal
-    futures study, contracted to the Brookings Institution, into the projected effects
-    on American society of its planned activities.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1cd8dee1-e4e8-49dc-a0a9-25a3c7e4e40e
-    title: Proposed Studies on the Implications of Peaceful Space Activities for Human
-      Affairs (Brookings Report)
-    slug: proposed-studies-on-the-implications-of-peaceful-space-activities-for-human-affairs-brookings-report
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 91dbca62-e875-48da-b5b9-57a619ee35f9
-    title: Brookings Institution
-    slug: brookings-institution
-  date: '1959'
-  date_end: null
-  location_in_record: ch7:4956-5184
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 967f38f9-7f46-451a-88f4-7086307a5f98
-  claim_hash: 554adc991747d27e3726ad5ceefe49ad4f94d4f9f193ccda03dec8a455afdaca
-  content: The results of the Brookings Institution's 1959 study were officially submitted
-    to the National Aeronautics and Space Administration (NASA) administrator in late
-    1960, and then to the United States Congress in April 1961.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Proposed Studies on the Implications of Peaceful Space Activities for
-      Human Affairs (Brookings Report)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1cd8dee1-e4e8-49dc-a0a9-25a3c7e4e40e
-    title: Proposed Studies on the Implications of Peaceful Space Activities for Human
-      Affairs (Brookings Report)
-    slug: proposed-studies-on-the-implications-of-peaceful-space-activities-for-human-affairs-brookings-report
+    shared_claims: 1
+  - node_id: b7ee9c58-fffb-4af6-be89-17b15b97e9c5
+    title: Franklin Allen
+    node_type: person
+    slug: franklin-allen
+    shared_claims: 1
+  - node_id: bdb51725-ae0f-4494-9400-1ba4ddac32fa
+    title: Gerald Light
+    node_type: person
+    slug: gerald-light
+    shared_claims: 1
+  - node_id: cd8258f6-d465-4dc9-8824-7386c11efd99
+    title: Hearst Corporation
+    node_type: organisation
+    slug: hearst-corporation
+    shared_claims: 1
+  - node_id: d4e1ae14-7345-4ffc-95f5-bb78564e2e46
+    title: USA, California, Los Angeles Archdiocese
+    node_type: organisation
+    slug: california-los-angeles-archdiocese-usa
+    shared_claims: 1
+  - node_id: 9066ce4d-e79d-4dea-9510-a0797ddfb36c
+    title: USA, California, Muroc Air Base
+    node_type: place
+    slug: california-muroc-air-base-usa
+    shared_claims: 1
   - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
     title: United States Congress
+    node_type: organisation
     slug: united-states-congress
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 91dbca62-e875-48da-b5b9-57a619ee35f9
-    title: Brookings Institution
-    slug: brookings-institution
-  date: 1961-04
-  date_end: null
-  location_in_record: ch7:5195-5388
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
+    shared_claims: 1
+claims:
+  - claim_id: 698b59d4-9c02-40c9-8f6c-c9e237193e5a
+    claim_hash: 03b96187a5d93942d5568778d2ba0114aa6a90c6ff5247352cfb2ee1efdd4686
+    content: Gerald Light claimed he journeyed to Muroc Air Base in April 1954 in the company of Franklin Allen of the Hearst
+      Corporation, Edwin Nourse of the Brookings Institution, and Bishop McIntyre of the Los Angeles Archdiocese.
+    original_excerpt: A man named Gerald Light even claims that he made a journey to Muroc Air Base in April 1954, allegedly
+      in the company of Franklin Allen of the Hearst papers, of Edwin Nourse of the Brookings Institute, and of Bishop McIntyre
+      of Los Angeles.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: bdb51725-ae0f-4494-9400-1ba4ddac32fa
+      title: Gerald Light
+    provenance_chain:
+      origin_kind: named
+      origin: Gerald Light
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4be4bc1d-6fe2-4b38-a77b-ee635720ae3b
+        title: Bishop McIntyre
+        slug: bishop-mcintyre
+      - node_id: 9066ce4d-e79d-4dea-9510-a0797ddfb36c
+        title: USA, California, Muroc Air Base
+        slug: california-muroc-air-base-usa
+      - node_id: 91dbca62-e875-48da-b5b9-57a619ee35f9
+        title: Brookings Institution
+        slug: brookings-institution
+      - node_id: b7ee9c58-fffb-4af6-be89-17b15b97e9c5
+        title: Franklin Allen
+        slug: franklin-allen
+      - node_id: bdb51725-ae0f-4494-9400-1ba4ddac32fa
+        title: Gerald Light
+        slug: gerald-light
+      - node_id: cd8258f6-d465-4dc9-8824-7386c11efd99
+        title: Hearst Corporation
+        slug: hearst-corporation
+      - node_id: d4e1ae14-7345-4ffc-95f5-bb78564e2e46
+        title: USA, California, Los Angeles Archdiocese
+        slug: california-los-angeles-archdiocese-usa
+      - node_id: d6078748-7e40-4a44-a376-77e5dbdca164
+        title: 1954 Muroc Air Base extraterrestrial spacecraft viewing
+        slug: 1954-muroc-air-base-extraterrestrial-spacecraft-viewing
+      - node_id: fec14161-6c8a-44a7-ace2-47227c85a661
+        title: Edwin Nourse
+        slug: edwin-nourse
+    date: 1954-04
+    date_end: null
+    location_in_record: ch10:46779-47011
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: de0a72cf-aac7-4cd8-b4a6-fcd159824613
+    claim_hash: be0d34aea3e4452a11d1a89d2dc2a134a58a3855abef673152c8d1405d988c53
+    content: National Aeronautics and Space Administration (NASA) commissioned a formal futures study, contracted to the Brookings
+      Institution, into the projected effects on American society of its planned activities.
+    original_excerpt: Carried out as a formal NASA contract to the Brookings Institution—a well-known Washington, D.C.-based
+      think tank—the 1959 study was officially titled "Proposed Studies on the Implications of Peaceful Space Activities for
+      Human Affairs."
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1cd8dee1-e4e8-49dc-a0a9-25a3c7e4e40e
+        title: Proposed Studies on the Implications of Peaceful Space Activities for Human Affairs (Brookings Report)
+        slug: proposed-studies-on-the-implications-of-peaceful-space-activities-for-human-affairs-brookings-report
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 91dbca62-e875-48da-b5b9-57a619ee35f9
+        title: Brookings Institution
+        slug: brookings-institution
+    date: '1959'
+    date_end: null
+    location_in_record: ch7:4956-5184
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 967f38f9-7f46-451a-88f4-7086307a5f98
+    claim_hash: 554adc991747d27e3726ad5ceefe49ad4f94d4f9f193ccda03dec8a455afdaca
+    content: The results of the Brookings Institution's 1959 study were officially submitted to the National Aeronautics and
+      Space Administration (NASA) administrator in late 1960, and then to the United States Congress in April 1961.
+    original_excerpt: The results of this multi-disciplinary investigation were officially submitted to the administrator
+      of NASA in late 1960, and after the Kennedy Administration was elected, to Congress in April 1961.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Proposed Studies on the Implications of Peaceful Space Activities for Human Affairs (Brookings Report)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1cd8dee1-e4e8-49dc-a0a9-25a3c7e4e40e
+        title: Proposed Studies on the Implications of Peaceful Space Activities for Human Affairs (Brookings Report)
+        slug: proposed-studies-on-the-implications-of-peaceful-space-activities-for-human-affairs-brookings-report
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 91dbca62-e875-48da-b5b9-57a619ee35f9
+        title: Brookings Institution
+        slug: brookings-institution
+    date: 1961-04
+    date_end: null
+    location_in_record: ch7:5195-5388
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null

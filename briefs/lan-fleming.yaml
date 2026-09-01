@@ -9,558 +9,575 @@ page:
   claim_count: 13
   claim_count_total: 13
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 13
+  tokens_estimated: 4379
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 13
 related_nodes:
-- node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-  title: Face on Mars
-  node_type: object
-  slug: face-on-mars
-  shared_claims: 6
-- node_id: 4716f97b-3968-4b98-b6d6-8d20064fb4c5
-  title: Mission Image Processing Laboratory (MIPL)
-  node_type: organisation
-  slug: mission-image-processing-laboratory-mipl
-  shared_claims: 5
-- node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-  title: NASA Jet Propulsion Laboratory (JPL)
-  node_type: organisation
-  slug: nasa-jet-propulsion-laboratory-jpl
-  shared_claims: 2
-- node_id: a5f91dbb-e37e-400e-b481-36757e11453d
-  title: Mission Image Processing Laboratory (MIPL) "Catbox" image of the Face on
-    Mars (National Aeronautics and Space Administration (NASA) image 22003)
-  node_type: document
-  slug: mission-image-processing-laboratory-mipl-catbox-image-of-the-face-on-mars-national-aeronautics-and-space-administration-nasa-image-22003
-  shared_claims: 1
-- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-  title: National Aeronautics and Space Administration (NASA)
-  node_type: organisation
-  slug: national-aeronautics-and-space-administration-nasa
-  shared_claims: 1
-- node_id: ebcd5091-a8b6-4f47-a852-4ce49bd4fb61
-  title: Piltdown Man hoax
-  node_type: event
-  slug: piltdown-man-hoax
-  shared_claims: 1
-- node_id: fd137783-3f34-4376-80ec-dc54cf61bec8
-  title: Reaction Control System (RCS) thrusters
-  node_type: object
-  slug: reaction-control-system-rcs-thrusters
-  shared_claims: 1
-- node_id: 08e11144-52fa-48d1-9e87-a29b9253d02f
-  title: STS-48 video anomalous objects incident (1991-09)
-  node_type: event
-  slug: sts-48-video-anomalous-objects-incident-1991-09
-  shared_claims: 1
-- node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-  title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research
-    (Society for Planetary SETI Research (SPSR))
-  node_type: organisation
-  slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-seti-research-spsr
-  shared_claims: 1
-claims:
-- claim_id: e7986d19-e959-44b7-b803-e096d0d0bf96
-  claim_hash: 07fd72a9808220e39310fa9fde7902815b6396b61970568b816e039003d7d7fc
-  content: Lan Fleming has argued that telemetry data does not support the claim that
-    the flash in the STS-48 video was from a thruster firing.
-  original_excerpt: However, Lan Fleming⁷ has argued that telemetry data does not
-    support this claim.
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
-    title: Mark C. Carlotto
-  provenance_chain:
-    origin_kind: named
-    origin: Lan Fleming
-    relay:
-    - Mark J. Carlotto
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 08e11144-52fa-48d1-9e87-a29b9253d02f
-    title: STS-48 video anomalous objects incident (1991-09)
-    slug: sts-48-video-anomalous-objects-incident-1991-09
-  - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-    slug: lan-fleming
-  - node_id: fd137783-3f34-4376-80ec-dc54cf61bec8
-    title: Reaction Control System (RCS) thrusters
-    slug: reaction-control-system-rcs-thrusters
-  date: null
-  date_end: null
-  location_in_record: char:3715-3790
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
-    record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
-    record_date: '2005'
-    record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
-    content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
-    friendly_name: null
-- claim_id: dedd7318-08f4-4b0a-ba1b-d484476af915
-  claim_hash: 03868278b98f210895c3b02bc8953a12b5b42cc76855a078bc7dc5e0f2332676
-  content: Lan Fleming, a member of the Society for Planetary SETI Research (SPSR),
-    was also a NASA contractor by day.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-    slug: lan-fleming
+  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+    title: Face on Mars
+    node_type: object
+    slug: face-on-mars
+    shared_claims: 6
+  - node_id: 4716f97b-3968-4b98-b6d6-8d20064fb4c5
+    title: Mission Image Processing Laboratory (MIPL)
+    node_type: organisation
+    slug: mission-image-processing-laboratory-mipl
+    shared_claims: 5
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    node_type: organisation
+    slug: nasa-jet-propulsion-laboratory-jpl
+    shared_claims: 2
+  - node_id: a5f91dbb-e37e-400e-b481-36757e11453d
+    title: Mission Image Processing Laboratory (MIPL) "Catbox" image of the Face on Mars (National Aeronautics and Space Administration
+      (NASA) image 22003)
+    node_type: document
+    slug: mission-image-processing-laboratory-mipl-catbox-image-of-the-face-on-mars-national-aeronautics-and-space-administration-nasa-image-22003
+    shared_claims: 1
   - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
     title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
     slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-    title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research
-      (Society for Planetary SETI Research (SPSR))
-    slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-seti-research-spsr
-  date: null
-  date_end: null
-  location_in_record: ch13:27314-27381
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 4f97b8f6-0c54-448f-8080-cc7b1bab67a3
-  claim_hash: 94f6d80e369fa22eb8fec3aad6563806101a2244ad237d55ce5c35a4dbc13ea4
-  content: Lan Fleming spent weeks trying to recreate the Mission Image Processing
-    Laboratory's Catbox image of the Face on Mars using standard software processing
-    tools, without success, and was unable to reproduce the flat, featureless look
-    of the enhancement.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lan Fleming
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-    slug: lan-fleming
-  - node_id: 4716f97b-3968-4b98-b6d6-8d20064fb4c5
-    title: Mission Image Processing Laboratory (MIPL)
-    slug: mission-image-processing-laboratory-mipl
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  date: null
-  date_end: null
-  location_in_record: ch13:27386-27582
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: b6f32675-4ef6-4493-9f98-b2d636ad341d
-  claim_hash: 6ebe5967d0b66f907edd9f654f0beda0eef9bfb9e2ebb86e995b805e8ff5cdad
-  content: Lan Fleming got close to reproducing the Catbox look by first applying
-    a high-pass filter, which removes high-frequency data from an image, and then
-    a low-pass filter, which removes low-frequency data.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lan Fleming
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-    slug: lan-fleming
-  - node_id: 4716f97b-3968-4b98-b6d6-8d20064fb4c5
-    title: Mission Image Processing Laboratory (MIPL)
-    slug: mission-image-processing-laboratory-mipl
-  date: null
-  date_end: null
-  location_in_record: ch13:27653-27835
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 48b1e5f4-f50b-4add-8ea1-38e7d2228286
-  claim_hash: e0673fe43d96e1e8e9cdedda1cfa49f5b02c9b418e7b6b805be22d1c7c2d9960
-  content: Lan Fleming applied a noise filter to the Catbox reproduction, which introduced
-    more noise into the image to reproduce the graininess prominent in the Catbox
-    enhancement.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lan Fleming
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-    slug: lan-fleming
-  - node_id: 4716f97b-3968-4b98-b6d6-8d20064fb4c5
-    title: Mission Image Processing Laboratory (MIPL)
-    slug: mission-image-processing-laboratory-mipl
-  date: null
-  date_end: null
-  location_in_record: ch13:27945-28087
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: f8e2eaf1-bb2d-4f18-9379-ea4185545feb
-  claim_hash: 62889fb83f9aa3138e59e8f7213ac9ba25ccb0bf14eb22be7a2633fb6664b18a
-  content: Lan Fleming noted that a boulder near the Face on Mars in the Catbox image
-    was producing a shadow pointing almost due north, the twelve o'clock position
-    in the image, implying the light was coming from the six o'clock position, which
-    he identified as a false shadow since the actual light source was from the four
-    o'clock position when the image was taken.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lan Fleming
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-    slug: lan-fleming
-  - node_id: 4716f97b-3968-4b98-b6d6-8d20064fb4c5
-    title: Mission Image Processing Laboratory (MIPL)
-    slug: mission-image-processing-laboratory-mipl
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  date: null
-  date_end: null
-  location_in_record: ch13:28149-28526
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 872452df-e38f-4611-b051-48aa26cbac33
-  claim_hash: 8d9a5566c2a2429fbe2cb9aaeefcbaf107accacdb335f9afa22d6fb339b68390
-  content: Lan Fleming used an emboss filter, a software tool that turns lines and
-    edges into a relief, creating illusory ridges and depressions depending on the
-    chosen direction of false lighting, to reproduce the missing shadow effect in
-    the Catbox image.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lan Fleming
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-    slug: lan-fleming
-  - node_id: 4716f97b-3968-4b98-b6d6-8d20064fb4c5
-    title: Mission Image Processing Laboratory (MIPL)
-    slug: mission-image-processing-laboratory-mipl
-  date: null
-  date_end: null
-  location_in_record: ch13:28620-28842
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: d7706027-0ead-47ca-a8cc-155ef3d15c2d
-  claim_hash: 02291c66174fa76643c135b026d9599c37df03d0156c06e36fab9d6b6326860d
-  content: Lan Fleming concluded that after JPL removed most of the tonal variation
-    from the original Cydonia image that gave observers visual cues to the real three-dimensional
-    shape of the Face on Mars, they added false visual cues to give the object its
-    rough, jumbled appearance, inadvertently falsifying the appearance of the surrounding
-    terrain as well.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lan Fleming
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-    slug: lan-fleming
-  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-    title: NASA Jet Propulsion Laboratory (JPL)
-    slug: nasa-jet-propulsion-laboratory-jpl
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  date: null
-  date_end: null
-  location_in_record: ch13:29095-29403
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 420cab0a-de3b-4ff9-ba41-56cbc3fae343
-  claim_hash: 57894ae6f50b40c535f266b1520225c25b9c848da63709e3cc7337a690d83859
-  content: Lan Fleming considers the Catbox enhancement not a poor enhancement but
-    a crude, very effective fraud perpetrated by employees or contractors of the United
-    States government, and states that even if the Face on Mars proves entirely natural,
-    this was inexcusable misconduct and a gross abuse of power.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lan Fleming
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-    slug: lan-fleming
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  date: null
-  date_end: null
-  location_in_record: ch13:29409-29689
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 2320b09f-4938-42a0-877a-47594409d00d
-  claim_hash: cac96cf3aa494b02a98cf4f33e9f670b5a3fae88bb185e822b2ddd936604c600
-  content: Lan Fleming believes that if the Face on Mars is ultimately proven artificial,
-    the Catbox image will come to be regarded as the greatest, most malicious and
-    most destructive scientific hoax since the Piltdown Man, and perhaps of all time.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lan Fleming
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-    slug: lan-fleming
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
+    shared_claims: 1
   - node_id: ebcd5091-a8b6-4f47-a852-4ce49bd4fb61
     title: Piltdown Man hoax
+    node_type: event
     slug: piltdown-man-hoax
-  date: null
-  date_end: null
-  location_in_record: ch13:29696-29905
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: e381af21-ff05-4c1a-adf0-92bde4acf516
-  claim_hash: 9653547b51461b05a194d7ea85b19da01ea2d9bab6ea5fede3f79cb8fe764f32
-  content: Lan Fleming's analysis found that the Catbox image was deliberately degraded
-    and modified to make it appear like a natural pile of rocks.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Lan Fleming
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-    slug: lan-fleming
-  - node_id: a5f91dbb-e37e-400e-b481-36757e11453d
-    title: Mission Image Processing Laboratory (MIPL) "Catbox" image of the Face on
-      Mars (National Aeronautics and Space Administration (NASA) image 22003)
-    slug: mission-image-processing-laboratory-mipl-catbox-image-of-the-face-on-mars-national-aeronautics-and-space-administration-nasa-image-22003
-  date: null
-  date_end: null
-  location_in_record: ch13:46510-46713
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 2f714c0c-c0e5-48fb-82fa-304b8b6e1231
-  claim_hash: 2a48e8860402a6d73fec6f972f5a0e39f850522b24865e5c00be15a2fe84df93
-  content: Middle Butte Mesa is, in Lan Fleming's assessment, just a common cinder
-    cone bearing little or no resemblance to the Face on Mars.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lan Fleming
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 46b784b5-1299-4969-a705-b06c20ce7c5e
-    title: USA, Idaho, Middle Butte Mesa
-    slug: idaho-middle-butte-mesa-usa
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  date: null
-  date_end: null
-  location_in_record: ch15:20508-20546
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 47767dd0-d6c6-4807-b383-bdfe56ee6e56
-  claim_hash: 9e69ed92e1d33dc8a5c2e7d52ab8987f9906841a78a9a6fc53ef8f31110ac348
-  content: Lan Fleming concluded his evaluation of Middle Butte by saying the time
-    has come for science to search for a real explanation for the Face on Mars, and
-    that the public's patience with the sophistry from the Jet Propulsion Laboratory's
-    (JPL) public relations office may eventually wear thin.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lan Fleming
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
-    title: Lan Fleming
-    slug: lan-fleming
-  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
-    title: NASA Jet Propulsion Laboratory (JPL)
-    slug: nasa-jet-propulsion-laboratory-jpl
-  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
-    title: Face on Mars
-    slug: face-on-mars
-  date: null
-  date_end: null
-  location_in_record: ch15:20607-20805
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: fd137783-3f34-4376-80ec-dc54cf61bec8
+    title: Reaction Control System (RCS) thrusters
+    node_type: object
+    slug: reaction-control-system-rcs-thrusters
+    shared_claims: 1
+  - node_id: 08e11144-52fa-48d1-9e87-a29b9253d02f
+    title: STS-48 video anomalous objects incident (1991-09)
+    node_type: event
+    slug: sts-48-video-anomalous-objects-incident-1991-09
+    shared_claims: 1
+  - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
+    title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR )
+    node_type: organisation
+    slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
+    shared_claims: 1
+claims:
+  - claim_id: e7986d19-e959-44b7-b803-e096d0d0bf96
+    claim_hash: 07fd72a9808220e39310fa9fde7902815b6396b61970568b816e039003d7d7fc
+    content: Lan Fleming has argued that telemetry data does not support the claim that the flash in the STS-48 video was
+      from a thruster firing.
+    original_excerpt: However, Lan Fleming⁷ has argued that telemetry data does not support this claim.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+      title: Mark C. Carlotto
+    provenance_chain:
+      origin_kind: named
+      origin: Lan Fleming
+      relay:
+        - Mark J. Carlotto
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08e11144-52fa-48d1-9e87-a29b9253d02f
+        title: STS-48 video anomalous objects incident (1991-09)
+        slug: sts-48-video-anomalous-objects-incident-1991-09
+      - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+        title: Lan Fleming
+        slug: lan-fleming
+      - node_id: fd137783-3f34-4376-80ec-dc54cf61bec8
+        title: Reaction Control System (RCS) thrusters
+        slug: reaction-control-system-rcs-thrusters
+    date: null
+    date_end: null
+    location_in_record: char:3715-3790
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+      record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+      record_date: '2005'
+      record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+      content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+      friendly_name: null
+  - claim_id: dedd7318-08f4-4b0a-ba1b-d484476af915
+    claim_hash: 03868278b98f210895c3b02bc8953a12b5b42cc76855a078bc7dc5e0f2332676
+    content: Lan Fleming, a member of the Society for Planetary SETI Research (SPSR), was also a NASA contractor by day.
+    original_excerpt: One researcher, Lan Fleming of SPSR, was also a NASA contractor by day.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+        title: Lan Fleming
+        slug: lan-fleming
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
+          )
+        slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
+    date: null
+    date_end: null
+    location_in_record: ch13:27314-27381
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4f97b8f6-0c54-448f-8080-cc7b1bab67a3
+    claim_hash: 94f6d80e369fa22eb8fec3aad6563806101a2244ad237d55ce5c35a4dbc13ea4
+    content: Lan Fleming spent weeks trying to recreate the Mission Image Processing Laboratory's Catbox image of the Face
+      on Mars using standard software processing tools, without success, and was unable to reproduce the flat, featureless
+      look of the enhancement.
+    original_excerpt: He spent weeks trying to recreate the Catbox image with standard software processing tools, to no avail.
+      No matter how hard he tried, he was unable to reproduce the flat, featureless look of the “enhancement.”
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+      title: Lan Fleming
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lan Fleming
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+        title: Lan Fleming
+        slug: lan-fleming
+      - node_id: 4716f97b-3968-4b98-b6d6-8d20064fb4c5
+        title: Mission Image Processing Laboratory (MIPL)
+        slug: mission-image-processing-laboratory-mipl
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+    date: null
+    date_end: null
+    location_in_record: ch13:27386-27582
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b6f32675-4ef6-4493-9f98-b2d636ad341d
+    claim_hash: 6ebe5967d0b66f907edd9f654f0beda0eef9bfb9e2ebb86e995b805e8ff5cdad
+    content: Lan Fleming got close to reproducing the Catbox look by first applying a high-pass filter, which removes high-frequency
+      data from an image, and then a low-pass filter, which removes low-frequency data.
+    original_excerpt: By first applying a high-pass filter (which removes high frequency data from an image) and then a low-pass
+      filter (which removes low frequency data), he got very close to the Catbox look.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+      title: Lan Fleming
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lan Fleming
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+        title: Lan Fleming
+        slug: lan-fleming
+      - node_id: 4716f97b-3968-4b98-b6d6-8d20064fb4c5
+        title: Mission Image Processing Laboratory (MIPL)
+        slug: mission-image-processing-laboratory-mipl
+    date: null
+    date_end: null
+    location_in_record: ch13:27653-27835
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 48b1e5f4-f50b-4add-8ea1-38e7d2228286
+    claim_hash: e0673fe43d96e1e8e9cdedda1cfa49f5b02c9b418e7b6b805be22d1c7c2d9960
+    content: Lan Fleming applied a noise filter to the Catbox reproduction, which introduced more noise into the image to
+      reproduce the graininess prominent in the Catbox enhancement.
+    original_excerpt: He then applied a noise filter, which introduced more noise into the image, to reproduce the “graininess”
+      that was so prominent in the Catbox enhancement.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+      title: Lan Fleming
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lan Fleming
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+        title: Lan Fleming
+        slug: lan-fleming
+      - node_id: 4716f97b-3968-4b98-b6d6-8d20064fb4c5
+        title: Mission Image Processing Laboratory (MIPL)
+        slug: mission-image-processing-laboratory-mipl
+    date: null
+    date_end: null
+    location_in_record: ch13:27945-28087
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f8e2eaf1-bb2d-4f18-9379-ea4185545feb
+    claim_hash: 62889fb83f9aa3138e59e8f7213ac9ba25ccb0bf14eb22be7a2633fb6664b18a
+    content: Lan Fleming noted that a boulder near the Face on Mars in the Catbox image was producing a shadow pointing almost
+      due north, the twelve o'clock position in the image, implying the light was coming from the six o'clock position, which
+      he identified as a false shadow since the actual light source was from the four o'clock position when the image was
+      taken.
+    original_excerpt: Fleming had noted that a boulder near the Face in the Catbox image was producing a shadow that pointed
+      almost due north, essentially the twelve o’clock position in the image, implying that the light was coming from the
+      six o’clock position. He knew this had to be a false shadow, since the light was coming from below the Face, in the
+      four o’clock position, when the image was taken.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+      title: Lan Fleming
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lan Fleming
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+        title: Lan Fleming
+        slug: lan-fleming
+      - node_id: 4716f97b-3968-4b98-b6d6-8d20064fb4c5
+        title: Mission Image Processing Laboratory (MIPL)
+        slug: mission-image-processing-laboratory-mipl
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+    date: null
+    date_end: null
+    location_in_record: ch13:28149-28526
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 872452df-e38f-4611-b051-48aa26cbac33
+    claim_hash: 8d9a5566c2a2429fbe2cb9aaeefcbaf107accacdb335f9afa22d6fb339b68390
+    content: Lan Fleming used an emboss filter, a software tool that turns lines and edges into a relief, creating illusory
+      ridges and depressions depending on the chosen direction of false lighting, to reproduce the missing shadow effect in
+      the Catbox image.
+    original_excerpt: Eventually, he tried an emboss filter, a software tool that works by turning lines and edges into a
+      relief. These edges then become illusory ridges and depressions, depending on the direction that is chosen for the false
+      lighting.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+      title: Lan Fleming
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lan Fleming
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+        title: Lan Fleming
+        slug: lan-fleming
+      - node_id: 4716f97b-3968-4b98-b6d6-8d20064fb4c5
+        title: Mission Image Processing Laboratory (MIPL)
+        slug: mission-image-processing-laboratory-mipl
+    date: null
+    date_end: null
+    location_in_record: ch13:28620-28842
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: d7706027-0ead-47ca-a8cc-155ef3d15c2d
+    claim_hash: 02291c66174fa76643c135b026d9599c37df03d0156c06e36fab9d6b6326860d
+    content: Lan Fleming concluded that after JPL removed most of the tonal variation from the original Cydonia image that
+      gave observers visual cues to the real three-dimensional shape of the Face on Mars, they added false visual cues to
+      give the object its rough, jumbled appearance, inadvertently falsifying the appearance of the surrounding terrain as
+      well.
+    original_excerpt: After JPL removed most of the tonal variation in the original image that gives the observer the visual
+      cues to the real three-dimensional shape of the object, they added false visual cues to give the object its rough, jumbled
+      appearance, inadvertently falsifying the appearance of the surrounding terrain as well
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+      title: Lan Fleming
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lan Fleming
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+        title: Lan Fleming
+        slug: lan-fleming
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+    date: null
+    date_end: null
+    location_in_record: ch13:29095-29403
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 420cab0a-de3b-4ff9-ba41-56cbc3fae343
+    claim_hash: 57894ae6f50b40c535f266b1520225c25b9c848da63709e3cc7337a690d83859
+    content: Lan Fleming considers the Catbox enhancement not a poor enhancement but a crude, very effective fraud perpetrated
+      by employees or contractors of the United States government, and states that even if the Face on Mars proves entirely
+      natural, this was inexcusable misconduct and a gross abuse of power.
+    original_excerpt: the Catbox is not a ‘poor’ enhancement, as it is often called; it is a crude but very effective fraud
+      perpetrated by employees or contractors to the United States government. Even if the Face is proven to be completely
+      natural, this is inexcusable misconduct and a gross abuse of power.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+      title: Lan Fleming
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lan Fleming
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+        title: Lan Fleming
+        slug: lan-fleming
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+    date: null
+    date_end: null
+    location_in_record: ch13:29409-29689
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2320b09f-4938-42a0-877a-47594409d00d
+    claim_hash: cac96cf3aa494b02a98cf4f33e9f670b5a3fae88bb185e822b2ddd936604c600
+    content: Lan Fleming believes that if the Face on Mars is ultimately proven artificial, the Catbox image will come to
+      be regarded as the greatest, most malicious and most destructive scientific hoax since the Piltdown Man, and perhaps
+      of all time.
+    original_excerpt: If the Face ultimately is proven to be artificial, the Catbox will certainly come to be regarded as
+      the greatest, most malicious and most destructive scientific hoax since the Piltdown Man, and perhaps of all time.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+      title: Lan Fleming
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lan Fleming
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+        title: Lan Fleming
+        slug: lan-fleming
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+      - node_id: ebcd5091-a8b6-4f47-a852-4ce49bd4fb61
+        title: Piltdown Man hoax
+        slug: piltdown-man-hoax
+    date: null
+    date_end: null
+    location_in_record: ch13:29696-29905
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e381af21-ff05-4c1a-adf0-92bde4acf516
+    claim_hash: 9653547b51461b05a194d7ea85b19da01ea2d9bab6ea5fede3f79cb8fe764f32
+    content: Lan Fleming's analysis found that the Catbox image was deliberately degraded and modified to make it appear like
+      a natural pile of rocks.
+    original_excerpt: Fig. 6-5 - The “Catbox” enhancement (L) and Lan Fleming’s recreation (R). Fleming’s analysis proved
+      that the Catbox image was deliberately degraded and modified to make it appear like a natural “pile of rocks.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lan Fleming
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+        title: Lan Fleming
+        slug: lan-fleming
+      - node_id: a5f91dbb-e37e-400e-b481-36757e11453d
+        title: Mission Image Processing Laboratory (MIPL) "Catbox" image of the Face on Mars (National Aeronautics and Space
+          Administration (NASA) image 22003)
+        slug: mission-image-processing-laboratory-mipl-catbox-image-of-the-face-on-mars-national-aeronautics-and-space-administration-nasa-image-22003
+    date: null
+    date_end: null
+    location_in_record: ch13:46510-46713
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2f714c0c-c0e5-48fb-82fa-304b8b6e1231
+    claim_hash: 2a48e8860402a6d73fec6f972f5a0e39f850522b24865e5c00be15a2fe84df93
+    content: Middle Butte Mesa is, in Lan Fleming's assessment, just a common cinder cone bearing little or no resemblance
+      to the Face on Mars.
+    original_excerpt: Middle Butte was just a common cinder cone.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+      title: Lan Fleming
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lan Fleming
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 46b784b5-1299-4969-a705-b06c20ce7c5e
+        title: USA, Idaho, Middle Butte Mesa
+        slug: idaho-middle-butte-mesa-usa
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+    date: null
+    date_end: null
+    location_in_record: ch15:20508-20546
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 47767dd0-d6c6-4807-b383-bdfe56ee6e56
+    claim_hash: 9e69ed92e1d33dc8a5c2e7d52ab8987f9906841a78a9a6fc53ef8f31110ac348
+    content: Lan Fleming concluded his evaluation of Middle Butte by saying the time has come for science to search for a
+      real explanation for the Face on Mars, and that the public's patience with the sophistry from the Jet Propulsion Laboratory's
+      (JPL) public relations office may eventually wear thin.
+    original_excerpt: I think the time has come for science to start searching for a real explanation for the Face on Mars.
+      The public’s patience with the sophistry from JPL’s public relations office may eventually wear thin.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+      title: Lan Fleming
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lan Fleming
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+        title: Lan Fleming
+        slug: lan-fleming
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+        title: Face on Mars
+        slug: face-on-mars
+    date: null
+    date_end: null
+    location_in_record: ch15:20607-20805
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null

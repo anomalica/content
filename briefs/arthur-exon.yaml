@@ -1,1193 +1,1478 @@
 schema: anomalica/brief/1
-brief_hash: 525a050199f91be9d3a6ad59621a009046fcc1bfa15880fadbca9b30ba536714
+brief_hash: 56daa68e6562938fa117b871757fdcbf6c1c3aaa76a49fa5a8aad3b194b2a11b
 page:
   kind: entity
   node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
   node_type: person
   title: Arthur Exon
   slug: arthur-exon
-  claim_count: 27
-  claim_count_total: 27
+  claim_count: 34
+  claim_count_total: 34
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 34
+  tokens_estimated: 9846
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 34
 related_nodes:
-- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-  title: Whitley Strieber
-  node_type: person
-  slug: whitley-strieber
-  shared_claims: 21
-- node_id: 2cf5787c-8ccf-4b65-9a55-67b57977de23
-  title: 1947 Roswell crash and debris retrieval
-  node_type: event
-  slug: 1947-roswell-crash-and-debris-retrieval
-  shared_claims: 6
-- node_id: acde03ee-7227-486d-854c-9673dd837619
-  title: USA, Ohio, Wright-Patterson Air Force Base
-  node_type: place
-  slug: ohio-wright-patterson-air-force-base-usa
-  shared_claims: 5
-- node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
-  title: Harry S. Truman
-  node_type: person
-  slug: harry-s-truman
-  shared_claims: 3
-- node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
-  title: Air Materiel Command
-  node_type: organisation
-  slug: air-materiel-command
-  shared_claims: 2
-- node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
-  title: Communion
-  node_type: document
-  slug: communion
-  shared_claims: 2
-- node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-  title: USA, New Mexico, Roswell
-  node_type: place
-  slug: new-mexico-roswell-usa
-  shared_claims: 2
-- node_id: 94acebad-d864-4d15-b54c-52197eb9c4ad
-  title: Majestic 12
-  node_type: organisation
-  slug: majestic-12
-  shared_claims: 1
-- node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
-  title: Nathan Twining
-  node_type: person
-  slug: nathan-twining
-  shared_claims: 1
-- node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-  title: Ross Coulthart
-  node_type: person
-  slug: ross-coulthart
-  shared_claims: 1
-- node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-  title: Roswell incident (1947)
-  node_type: event
-  slug: roswell-incident-1947
-  shared_claims: 1
-- node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
-  title: Stanton Friedman
-  node_type: person
-  slug: stanton-friedman
-  shared_claims: 1
-- node_id: 9c05e5aa-adcc-4988-ac84-7d062a159a23
-  title: Strom Thurmond
-  node_type: person
-  slug: strom-thurmond
-  shared_claims: 1
-- node_id: fd8b6541-d1f6-47ac-ab22-628a3613f682
-  title: USA, Ohio, Wright Field
-  node_type: place
-  slug: ohio-wright-field-usa
-  shared_claims: 1
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 1
-- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-  title: United States Air Force (USAF)
-  node_type: organisation
-  slug: united-states-air-force-usaf
-  shared_claims: 1
-- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-  title: United States Department of Defense (DoD)
-  node_type: organisation
-  slug: united-states-department-of-defense-dod
-  shared_claims: 1
-claims:
-- claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
-  claim_hash: e4a64c885ee05fe787e3bf6143c683522e2bec227ddca147cf56fb637ca4eddd
-  content: Whitley Strieber told Strom Thurmond in a letter that United States Army
-    Brigadier General Arthur Exon told him personally in 1989 that there was a 'completely
-    unequivocal cover-up' of a retrieved alien craft at Roswell, New Mexico that 'went
-    from Truman on down'.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Arthur Exon
-    relay:
-    - a letter from Whitley Strieber to Strom Thurmond
-    - Edgar Mitchell's fax citing the letter
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-    title: USA, New Mexico, Roswell
-    slug: new-mexico-roswell-usa
   - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
     title: Whitley Strieber
+    node_type: person
     slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
-    title: Harry S. Truman
-    slug: harry-s-truman
-  - node_id: 9c05e5aa-adcc-4988-ac84-7d062a159a23
-    title: Strom Thurmond
-    slug: strom-thurmond
+    shared_claims: 26
   - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
     title: Roswell incident (1947)
+    node_type: event
     slug: roswell-incident-1947
-  date: '1989'
-  date_end: null
-  location_in_record: ch25:22926-23176
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 47c56d0c-849d-41bf-af19-f34d002a8353
-  claim_hash: 617471ac74ca50cfe954bf4042e250643e4d803a6b8accf943f57a1190d8c24a
-  content: In 1988, Whitley Strieber met General Arthur Exon, who had seen and held
-    one of the Roswell bodies and perceived it the same way, as insectlike.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Arthur Exon
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  date: '1988'
-  date_end: null
-  location_in_record: ch11:6164-6274
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 8bb2dbe4-117a-437e-82fb-f3efa88fd0fc
-  claim_hash: f25dbc74ae172035257c51afa6c477b6fca025054dd2280610b753b64b40c83f
-  content: General Arthur Exon told Whitley Strieber, after Strieber published Communion
-    in 1987, that everybody from Harry Truman on down knew within twenty-four hours
-    of finding it that what had been found was not of this world.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Arthur Exon
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
+    shared_claims: 9
+  - node_id: acde03ee-7227-486d-854c-9673dd837619
+    title: USA, Ohio, Wright-Patterson Air Force Base
+    node_type: place
+    slug: ohio-wright-patterson-air-force-base-usa
+    shared_claims: 9
   - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
     title: Harry S. Truman
+    node_type: person
     slug: harry-s-truman
+    shared_claims: 3
+  - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
+    title: Air Materiel Command
+    node_type: organisation
+    slug: air-materiel-command
+    shared_claims: 2
   - node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
     title: Communion
+    node_type: document
     slug: communion
-  date: '1987'
-  date_end: null
-  location_in_record: ch11:795-978
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 823e6282-c213-4ad4-945a-dc7c99336afb
-  claim_hash: 3934528f1c6fc19ab2d3b01e3ebe3d02ec57eeebc0eeb8726c336192dd9b3610
-  content: Arthur Exon said that he had held one of the recovered bodies in his arms
-    and that it was like a big insect.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-  provenance_chain:
-    origin_kind: speaker
-    origin: Arthur Exon
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  date: null
-  date_end: null
-  location_in_record: ch11:983-1066
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: e6be8b71-c804-4c19-b83f-477044a9582c
-  claim_hash: 0f4fa034b0bcf2021309f6b0c1b292d3217ee26c02ba53f1559ec9b9975e8686
-  content: Arthur Exon was a family friend of Whitley Strieber.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  date: null
-  date_end: null
-  location_in_record: ch8:9254-9362
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: bae5df2b-358f-4d5a-8dff-2bac4e7b60d0
-  claim_hash: 98a3337e28b2cf0faa8ff37eb77eca995d56aa234d9ea9444b6129412b1b1312
-  content: Arthur Exon was involved with the Air Materiel Command at Wright Field,
-    Ohio, in July 1947.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
-    title: Air Materiel Command
-    slug: air-materiel-command
-  - node_id: fd8b6541-d1f6-47ac-ab22-628a3613f682
-    title: USA, Ohio, Wright Field
-    slug: ohio-wright-field-usa
-  date: 1947-07
-  date_end: null
-  location_in_record: ch8:9254-9405
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 30e99a55-1400-4abb-8b81-114fd0906ce9
-  claim_hash: 25549d149c02553e521fe4acedfccb88d444270dc79ac7181f7260749fa5f213
-  content: Arthur Exon was officially assigned to the Air Materiel Command in 1948.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
-    title: Air Materiel Command
-    slug: air-materiel-command
-  date: '1948'
-  date_end: null
-  location_in_record: ch8:9368-9405
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 0588f0b5-7857-413f-9843-afe9043861b3
-  claim_hash: 380ca53cbe84046c0ed236c1eda4d17927031dfe4c98f3147d25ec4330f0d5c7
-  content: Arthur Exon spoke privately about the existence of nonhuman bodies held
-    by the United States Department of Defense (DoD).
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Arthur Exon
-    relay:
-    - Arthur Exon spoke privately to Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-    title: United States Department of Defense (DoD)
-    slug: united-states-department-of-defense-dod
-  date: null
-  date_end: null
-  location_in_record: ch8:9411-9425
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: cfd13814-89be-4a68-adbf-c7b13c866448
-  claim_hash: b12be3b950de23db99730dd436af6d6f9045e082c25dc9a62f3b56938fbc66e9
-  content: In 1964, Arthur Exon was assigned as commander of Wright-Patterson Air
-    Force Base.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  - node_id: acde03ee-7227-486d-854c-9673dd837619
-    title: USA, Ohio, Wright-Patterson Air Force Base
-    slug: ohio-wright-patterson-air-force-base-usa
-  date: '1964'
-  date_end: null
-  location_in_record: ch8:9436-9504
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: d08d8b59-df40-4913-8d9e-b1b56bb9de73
-  claim_hash: 0a945a222c004be40bb216f8505bb2bed92131396178b29a22e30bed48fc36b7
-  content: As late as 1988, Arthur Exon told Whitley Strieber that he was still consulting
-    with groups at Wright-Patterson Air Force Base working on the question of nonhuman
-    bodies.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Arthur Exon
-    relay:
-    - Arthur Exon told Whitley Strieber directly
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  - node_id: acde03ee-7227-486d-854c-9673dd837619
-    title: USA, Ohio, Wright-Patterson Air Force Base
-    slug: ohio-wright-patterson-air-force-base-usa
-  date: '1988'
-  date_end: null
-  location_in_record: ch8:9510-9600
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: fa3ec85a-ffc4-42bb-af29-76ba81870b48
-  claim_hash: c0f1b75d68e7cd2e824e3321ce159d062b1e6ee35ea6a9b067a5bb50826a31f0
-  content: Arthur Ernest Exon was allegedly heavily involved in the retrieval of the
-    Roswell craft in 1947.
-  original_excerpt: General Art Exon, who was allegedly heavily involved in the retrieval
-    of the Roswell craft in 1947
-  claim_type: administrative
-  attestation: null
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration by Ross Coulthart
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2cf5787c-8ccf-4b65-9a55-67b57977de23
-    title: 1947 Roswell crash and debris retrieval
-    slug: 1947-roswell-crash-and-debris-retrieval
-  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-    title: USA, New Mexico, Roswell
-    slug: new-mexico-roswell-usa
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  date: '1947'
-  date_end: null
-  location_in_record: 00:37:46.4-00:37:55.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: 65eaf5e2-e223-4a4e-9231-d48ea2cbffd3
-  claim_hash: 424582381735e0f328535d82e9804c25a324f6f300f1b407f42179c8026a6c37
-  content: Whitley Strieber came to know Arthur Ernest Exon through his father's brother,
-    not through his father.
-  original_excerpt: And it was not through my dad. It was through my dad's brother.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  date: null
-  date_end: null
-  location_in_record: 00:38:04.9-00:38:07.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: 2f8637d3-0b7f-42d1-a997-053f021ba985
-  claim_hash: 885bb15349a34d6c9e62821a32424476208fcd3a8c929cd25b40b9d8162b0804
-  content: Arthur Ernest Exon was a friend of Whitley Strieber's uncle and later became
-    a general and commanding officer at Wright-Patterson Air Force Base.
-  original_excerpt: his friend Art Exon, who had then later become a general and become
-    commanding officer at Wright-Patt
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  - node_id: acde03ee-7227-486d-854c-9673dd837619
-    title: USA, Ohio, Wright-Patterson Air Force Base
-    slug: ohio-wright-patterson-air-force-base-usa
-  date: null
-  date_end: null
-  location_in_record: 00:39:48.4-00:39:54.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: dda337af-b2ac-45cf-a717-35607b756f9b
-  claim_hash: 86f84d5489f51ee6922e91f4cf7965c78da9caba71e15c1f390e145e15afe3f5
-  content: Arthur Ernest Exon told Whitley Strieber that in 1988 he was still going
-    regularly to Wright-Patterson Air Force Base to brief staff there on matters discussed
-    in the early days in classified off-the-record briefings he remembered.
-  original_excerpt: General Exon told me that in 1988, he was still going to Wright
-    regularly to fill them in on things that had been discussed in the early days
-    in pencils up meetings that he remembered.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Arthur Ernest Exon
-    relay:
-    - told directly to Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  - node_id: acde03ee-7227-486d-854c-9673dd837619
-    title: USA, Ohio, Wright-Patterson Air Force Base
-    slug: ohio-wright-patterson-air-force-base-usa
-  date: '1988'
-  date_end: null
-  location_in_record: 00:40:03.6-00:40:20.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: 16be1ee3-5d8e-4af9-88a0-e82442c126ae
-  claim_hash: f5f86c3644d0a518b6fb6a3a637a04d3c39675d4136f15df2046c48d9b7d138b
-  content: Arthur Ernest Exon supposedly later developed Alzheimer's disease, but
-    Whitley Strieber suspects he may not have and that the United States Air Force
-    acted against him for talking too much.
-  original_excerpt: He later supposedly got Alzheimer's, but I think He may not have.
-    I think the Air Force really went to town on him because he was talking too much.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  date: null
-  date_end: null
-  location_in_record: 00:40:21.5-00:40:28.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: 21b4a707-2fc4-4b46-888b-5fca021d3e29
-  claim_hash: 4bfcbdcbc74cb12ab073a1bc279440826043560a55f7a9d8df9af8327272c201
-  content: Whitley Strieber considers it a mistake that he introduced Arthur Ernest
-    Exon to Stanton T. Friedman.
-  original_excerpt: I made the mistake of introducing him to Stanton Friedman
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
-    title: Stanton Friedman
-    slug: stanton-friedman
-  date: null
-  date_end: null
-  location_in_record: 00:40:29.4-00:40:31.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: 38dbe78c-505a-4b11-9e72-528778ccf6a6
-  claim_hash: bfa68fe73ae001fdfdb224cf2a9c6562bb76ddc515023d531259be7b844fb541
-  content: Arthur Ernest Exon told Whitley Strieber that debris and bodies were brought
-    in following the 1947 Roswell crash.
-  original_excerpt: he told me that there was debris brought in and there were bodies
-    brought in.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Arthur Ernest Exon
-    relay:
-    - told directly to Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2cf5787c-8ccf-4b65-9a55-67b57977de23
-    title: 1947 Roswell crash and debris retrieval
-    slug: 1947-roswell-crash-and-debris-retrieval
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  date: null
-  date_end: null
-  location_in_record: 00:40:43.6-00:40:50.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: 35d301d1-12ca-4e62-bcdf-c5ce85910710
-  claim_hash: 275645a942b76fdf509435a609eabe6d2f2789a5c687dcd327ddec983814639c
-  content: Arthur Ernest Exon told Whitley Strieber that he held one of the bodies
-    recovered after the 1947 Roswell crash while it was inside a body bag, and did
-    not see it.
-  original_excerpt: And he had held one of these bodies. It was inside a body bag.
-    He said he didn't see it, but he held it.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Arthur Ernest Exon
-    relay:
-    - told directly to Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2cf5787c-8ccf-4b65-9a55-67b57977de23
-    title: 1947 Roswell crash and debris retrieval
-    slug: 1947-roswell-crash-and-debris-retrieval
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  date: null
-  date_end: null
-  location_in_record: 00:40:50.8-00:40:59.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: a6226f24-32e7-4829-886b-93f645f02ac2
-  claim_hash: b072f1ac795929814248f33b08ae0c06a72f5e13c28e85811219d5a0a73632ad
-  content: Arthur Ernest Exon told Whitley Strieber that Nathan F. Twining and others
-    did see the bodies recovered after the 1947 Roswell crash, although Exon himself
-    did not.
-  original_excerpt: But he said that General Twining did see them and others saw them,
-    but not him.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Arthur Ernest Exon
-    relay:
-    - told directly to Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2cf5787c-8ccf-4b65-9a55-67b57977de23
-    title: 1947 Roswell crash and debris retrieval
-    slug: 1947-roswell-crash-and-debris-retrieval
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
+    shared_claims: 2
   - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
     title: Nathan Twining
+    node_type: person
     slug: nathan-twining
-  date: null
-  date_end: null
-  location_in_record: 00:40:59.9-00:41:04.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: 0c3baf71-fd15-4ec9-bfda-cc3cffb3c346
-  claim_hash: dc1eacf1169dc13966ccb059b8a21b84a93e2a84ed57e3e46a00bc9c8f478f0d
-  content: Arthur Ernest Exon told Whitley Strieber, in what Strieber gives as a direct
-    quote, that everyone from Harry S. Truman on down knew that what had been found
-    at Roswell was not of this world within 24 hours of the finding.
-  original_excerpt: And he said that he said, and this is a direct quote, everyone
-    from Truman on down knew that what we found had found was not of this world within
-    24 hours of our findings.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Arthur Ernest Exon
-    relay:
-    - told directly to Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2cf5787c-8ccf-4b65-9a55-67b57977de23
-    title: 1947 Roswell crash and debris retrieval
-    slug: 1947-roswell-crash-and-debris-retrieval
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
-    title: Harry S. Truman
-    slug: harry-s-truman
-  date: null
-  date_end: null
-  location_in_record: 00:41:05.6-00:41:18.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: 4d8ef590-7bd1-4ff2-a51a-434ef9a7df54
-  claim_hash: 7c8b544285b68ad4f0c7a73a5b2edd149be1c6a490fb572bbdec8ed58c576430
-  content: Arthur Ernest Exon did not explain to Whitley Strieber anything about the
-    motivations of the beings or why they were coming to Earth, and Strieber did not
-    probe or press him because both Exon and Strieber's uncle were constrained by
-    their security clearances.
-  original_excerpt: He did not, not to my knowledge, no. I didn't really question
-    him. I really let him talk because he had a certain group of things he wanted
-    to say to me. And I knew that they were both very constrained by their security
-    clearances.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  date: null
-  date_end: null
-  location_in_record: 00:41:44.9-00:41:59.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: cb750035-0846-4c5c-8e94-933c2d6fd17e
-  claim_hash: 95a155ae463e689e1a228c77d9cb3a7c32bc91ddd2b2a8f5211d03c6f1c66f23
-  content: Arthur Ernest Exon told Whitley Strieber that a scientist in the group
-    held that if the public became aware of the phenomenon, it would enable the beings
-    to come in on what Strieber describes as a tide of belief.
-  original_excerpt: He said something along the lines of there was a scientist in
-    the group who thought that if we I asked, I did ask him about the secrecy. He
-    thought that if the public became aware of this, it would enable these beings
-    to come in on a He didn't say these words, he was no poet, but on a tide of belief
-    is how I would describe what he was trying to say.
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person described as a scientist in the group working on the phenomenon
-    relay:
-    - Arthur Ernest Exon
-    - told directly to Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  date: null
-  date_end: null
-  location_in_record: 00:43:31.7-00:43:58.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: 85154c19-e6e5-440c-b782-9da64e283d12
-  claim_hash: fb7f0c162ed327d9c891b8a13a4e95f40fc0c595f67ac28464ebf3edbdc031de
-  content: Neither Arthur Ernest Exon nor Whitley Strieber's uncle said whether the
-    beings were malevolent or benevolent.
-  original_excerpt: They did not talk about, neither my uncle nor general excellently
-    talked about that. In other words, they didn't say it was malevolent or malevolent.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  date: null
-  date_end: null
-  location_in_record: 00:44:48.1-00:44:57.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: 4fc24c97-eea0-4397-b0ff-b279bc21100f
-  claim_hash: 06bb41a9da56093e36655e20570751b3ea3173c69cf074285ab81cd037b58e20
-  content: Whitley Strieber has a feeling that Arthur Ernest Exon and his uncle may
-    have been told to communicate to him what they did.
-  original_excerpt: They were just communicating basically what I think, I have a
-    feeling they may have been told to communicate to me.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  date: null
-  date_end: null
-  location_in_record: 00:44:57.4-00:45:04.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: 7ee501b6-23a3-4c72-be64-b52448e0e1c6
-  claim_hash: 1d707abe4b9d1980321834241794c9aa505bbd65513349470fff6e1435cc77b9
-  content: Ross Coulthart states that the Roswell wreckage was allegedly taken to
-    Wright-Patterson Air Force Base, where Arthur Ernest Exon was a former commanding
-    general.
-  original_excerpt: you were reached out to by a former commanding general of Wright-Patterson
-    Air Force Base, where the Roswell wreckage was allegedly taken
-  claim_type: administrative
-  attestation: null
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration by Ross Coulthart
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2cf5787c-8ccf-4b65-9a55-67b57977de23
-    title: 1947 Roswell crash and debris retrieval
-    slug: 1947-roswell-crash-and-debris-retrieval
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  - node_id: acde03ee-7227-486d-854c-9673dd837619
-    title: USA, Ohio, Wright-Patterson Air Force Base
-    slug: ohio-wright-patterson-air-force-base-usa
-  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-    slug: ross-coulthart
-  date: null
-  date_end: null
-  location_in_record: 00:45:09.7-00:45:16.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: 24eed098-2bb9-492f-b0e0-855b73e13568
-  claim_hash: 66dac8123ea58368a83bdbd15b6c3d1179acecf0318502c9cac43656a0d49839
-  content: Neither Arthur Ernest Exon nor Whitley Strieber's uncle made any value
-    judgement about Strieber having written Communion; they were totally neutral about
-    it.
-  original_excerpt: No, they were totally neutral about it. I don't remember either
-    of them making any kind of a value judgment about it at all.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
-  - node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
-    title: Communion
-    slug: communion
-  date: null
-  date_end: null
-  location_in_record: 00:47:51.2-00:47:58.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
-- claim_id: 5df68cfd-51f7-4fd0-b642-beb3bd7c02a3
-  claim_hash: a958ce66622f5310842bd83af3178a11eccfa3fd720d8b018717bac115bfb292
-  content: From what Arthur Ernest Exon said to him, Whitley Strieber gained the impression
-    - which he allows may be wrong - that someone on the Majestic 12 committee felt
-    that the more people knew about the phenomenon, the more able the presence would
-    be to come into our physical reality.
-  original_excerpt: Art Exon said to me, I gained the impression, and I may be wrong
-    about this, that someone on that committee felt that there would come a, the more
-    people knew about this, the more able this presence would be able to come into
-    our physical reality.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Arthur Ernest Exon
-    relay:
-    - Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-    title: Arthur Exon
-    slug: arthur-exon
+    shared_claims: 2
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 2
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    node_type: place
+    slug: new-mexico-roswell-usa
+    shared_claims: 2
+  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+    node_type: person
+    slug: john-von-neumann
+    shared_claims: 1
   - node_id: 94acebad-d864-4d15-b54c-52197eb9c4ad
     title: Majestic 12
+    node_type: organisation
     slug: majestic-12
-  date: null
-  date_end: null
-  location_in_record: 00:51:39.6-00:52:00.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+  - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+    title: Stanton Friedman
+    node_type: person
+    slug: stanton-friedman
+    shared_claims: 1
+  - node_id: 9c05e5aa-adcc-4988-ac84-7d062a159a23
+    title: Strom Thurmond
+    node_type: person
+    slug: strom-thurmond
+    shared_claims: 1
+  - node_id: fd8b6541-d1f6-47ac-ab22-628a3613f682
+    title: USA, Ohio, Wright Field
+    node_type: place
+    slug: ohio-wright-field-usa
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
+  - node_id: c5580173-fc55-4af9-84eb-32f7911d0e7a
+    title: United States Army Air Forces Air Materiel Command
+    node_type: organisation
+    slug: united-states-army-air-forces-air-materiel-command
+    shared_claims: 1
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 1
+claims:
+  - claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
+    claim_hash: e4a64c885ee05fe787e3bf6143c683522e2bec227ddca147cf56fb637ca4eddd
+    content: Whitley Strieber told Strom Thurmond in a letter that United States Army Brigadier General Arthur Exon told him
+      personally in 1989 that there was a 'completely unequivocal cover-up' of a retrieved alien craft at Roswell, New Mexico
+      that 'went from Truman on down'.
+    original_excerpt: Strieber told the Senator in his letter that US Army Brigadier General Arthur Exon had told him personally
+      in 1989 that there was a 'completely unequivocal cover-up' of a retrieved alien craft at Roswell and 'it went from [President
+      Harry] Truman on down'.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Exon
+      relay:
+        - a letter from Whitley Strieber to Strom Thurmond
+        - Edgar Mitchell's fax citing the letter
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+        title: Harry S. Truman
+        slug: harry-s-truman
+      - node_id: 9c05e5aa-adcc-4988-ac84-7d062a159a23
+        title: Strom Thurmond
+        slug: strom-thurmond
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: '1989'
+    date_end: null
+    location_in_record: ch25:22926-23176
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 47c56d0c-849d-41bf-af19-f34d002a8353
+    claim_hash: 617471ac74ca50cfe954bf4042e250643e4d803a6b8accf943f57a1190d8c24a
+    content: In 1988, Whitley Strieber met General Arthur Exon, who had seen and held one of the Roswell bodies and perceived
+      it the same way, as insectlike.
+    original_excerpt: Only later, in 1988, would I meet General Exon, who saw and held one of the bodies, and perceived it
+      the same way.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Exon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+    date: '1988'
+    date_end: null
+    location_in_record: ch11:6164-6274
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 8bb2dbe4-117a-437e-82fb-f3efa88fd0fc
+    claim_hash: f25dbc74ae172035257c51afa6c477b6fca025054dd2280610b753b64b40c83f
+    content: General Arthur Exon told Whitley Strieber, after Strieber published Communion in 1987, that everybody from Harry
+      Truman on down knew within twenty-four hours of finding it that what had been found was not of this world.
+    original_excerpt: General Exon told me after I published Communion in 1987 that “everybody from Truman on down knew that
+      what we had found was not of this world within twenty-four hours of our finding it.”
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Exon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+        title: Harry S. Truman
+        slug: harry-s-truman
+      - node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
+        title: Communion
+        slug: communion
+    date: '1987'
+    date_end: null
+    location_in_record: ch11:795-978
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 823e6282-c213-4ad4-945a-dc7c99336afb
+    claim_hash: 3934528f1c6fc19ab2d3b01e3ebe3d02ec57eeebc0eeb8726c336192dd9b3610
+    content: Arthur Exon said that he had held one of the recovered bodies in his arms and that it was like a big insect.
+    original_excerpt: He also said that he had held one of the bodies in his arms and “it was like a big insect.”
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+      title: Arthur Exon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Arthur Exon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+    date: null
+    date_end: null
+    location_in_record: ch11:983-1066
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: e6be8b71-c804-4c19-b83f-477044a9582c
+    claim_hash: 0f4fa034b0bcf2021309f6b0c1b292d3217ee26c02ba53f1559ec9b9975e8686
+    content: Arthur Exon was a family friend of Whitley Strieber.
+    original_excerpt: General Arthur Exon, a family friend who was involved with the Air Materiel Command at Wright Field
+      in July 1947
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+    date: null
+    date_end: null
+    location_in_record: ch8:9254-9362
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: bae5df2b-358f-4d5a-8dff-2bac4e7b60d0
+    claim_hash: 98a3337e28b2cf0faa8ff37eb77eca995d56aa234d9ea9444b6129412b1b1312
+    content: Arthur Exon was involved with the Air Materiel Command at Wright Field, Ohio, in July 1947.
+    original_excerpt: General Arthur Exon, a family friend who was involved with the Air Materiel Command at Wright Field
+      in July 1947, and was officially assigned to it in 1948
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
+        title: Air Materiel Command
+        slug: air-materiel-command
+      - node_id: fd8b6541-d1f6-47ac-ab22-628a3613f682
+        title: USA, Ohio, Wright Field
+        slug: ohio-wright-field-usa
+    date: 1947-07
+    date_end: null
+    location_in_record: ch8:9254-9405
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 30e99a55-1400-4abb-8b81-114fd0906ce9
+    claim_hash: 25549d149c02553e521fe4acedfccb88d444270dc79ac7181f7260749fa5f213
+    content: Arthur Exon was officially assigned to the Air Materiel Command in 1948.
+    original_excerpt: and was officially assigned to it in 1948
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
+        title: Air Materiel Command
+        slug: air-materiel-command
+    date: '1948'
+    date_end: null
+    location_in_record: ch8:9368-9405
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 0588f0b5-7857-413f-9843-afe9043861b3
+    claim_hash: 380ca53cbe84046c0ed236c1eda4d17927031dfe4c98f3147d25ec4330f0d5c7
+    content: Arthur Exon spoke privately about the existence of nonhuman bodies held by the United States Department of Defense
+      (DoD).
+    original_excerpt: spoke of them privately
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Exon
+      relay:
+        - Arthur Exon spoke privately to Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: ch8:9411-9425
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: cfd13814-89be-4a68-adbf-c7b13c866448
+    claim_hash: b12be3b950de23db99730dd436af6d6f9045e082c25dc9a62f3b56938fbc66e9
+    content: In 1964, Arthur Exon was assigned as commander of Wright-Patterson Air Force Base.
+    original_excerpt: In 1964, he was assigned as commander of Wright-Patterson Air Force Base
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: acde03ee-7227-486d-854c-9673dd837619
+        title: USA, Ohio, Wright-Patterson Air Force Base
+        slug: ohio-wright-patterson-air-force-base-usa
+    date: '1964'
+    date_end: null
+    location_in_record: ch8:9436-9504
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: d08d8b59-df40-4913-8d9e-b1b56bb9de73
+    claim_hash: 0a945a222c004be40bb216f8505bb2bed92131396178b29a22e30bed48fc36b7
+    content: As late as 1988, Arthur Exon told Whitley Strieber that he was still consulting with groups at Wright-Patterson
+      Air Force Base working on the question of nonhuman bodies.
+    original_excerpt: and as late as 1988 told me that he was still consulting with groups there working on the question
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Exon
+      relay:
+        - Arthur Exon told Whitley Strieber directly
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: acde03ee-7227-486d-854c-9673dd837619
+        title: USA, Ohio, Wright-Patterson Air Force Base
+        slug: ohio-wright-patterson-air-force-base-usa
+    date: '1988'
+    date_end: null
+    location_in_record: ch8:9510-9600
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 04c7fda0-1a3f-4010-8beb-1bd14771811b
+    claim_hash: 68b7bbe4e9a5214d2611f98c3b82cf0f6456114356e1c76a783d689a86a14a09
+    content: Arthur Exon later served as commandant of Wright-Patterson Air Force Base.
+    original_excerpt: General Art Exon, who was involved in this, later he was commandant of Wright-Patt
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: acde03ee-7227-486d-854c-9673dd837619
+        title: USA, Ohio, Wright-Patterson Air Force Base
+        slug: ohio-wright-patterson-air-force-base-usa
+    date: null
+    date_end: null
+    location_in_record: 00:13:37.4-00:13:43.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 533fae50-8053-4880-b9cf-43d0d443a1b6
+    claim_hash: 009fc4aba5ad2e339c7a893fdba58765df7a51f2d23212655528a1d0151fe779
+    content: Arthur Exon told Whitley Strieber that in 1947 he was directly involved in what happened when the debris and
+      the bodies were brought to Wright Field, as Wright-Patterson Air Force Base was then called.
+    original_excerpt: in 47, according to what he told me, he was directly involved in the what happened when the debris and
+      the bodies were brought to Wright Field it was as it was called then
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Exon
+      relay:
+        - a conversation with Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: acde03ee-7227-486d-854c-9673dd837619
+        title: USA, Ohio, Wright-Patterson Air Force Base
+        slug: ohio-wright-patterson-air-force-base-usa
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: '1947'
+    date_end: null
+    location_in_record: 00:13:44.8-00:13:57.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 0b0f0b59-1e0a-435a-9cf9-c9337e58248a
+    claim_hash: 26d0f61f9c9b85f68ad7b081d07ec27ea370ad380e4a3efe8808eb67a3e1ec88
+    content: At the time the debris and bodies were brought to Wright Field in 1947, Arthur Exon was in or worked with the
+      United States Air Force Air Materiel Command under Nathan Twining.
+    original_excerpt: under General Twining he was in the air material command or worked in this
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Exon
+      relay:
+        - a conversation with Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: acde03ee-7227-486d-854c-9673dd837619
+        title: USA, Ohio, Wright-Patterson Air Force Base
+        slug: ohio-wright-patterson-air-force-base-usa
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+      - node_id: c5580173-fc55-4af9-84eb-32f7911d0e7a
+        title: United States Army Air Forces Air Materiel Command
+        slug: united-states-army-air-forces-air-materiel-command
+    date: '1947'
+    date_end: null
+    location_in_record: 00:13:58.2-00:14:04.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 1638d343-8541-4f90-8550-ddd946a69617
+    claim_hash: aeb72662442abf16048ac4594e3e02b97ff52e4438a17d75912d6024f0fe2369
+    content: Whitley Strieber spoke with Arthur Exon in 1988.
+    original_excerpt: he told me in 1988 when i talked to him
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+    date: '1988'
+    date_end: null
+    location_in_record: 00:14:19.6-00:14:23.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: f72828d0-cada-46ed-b235-61530c9324d8
+    claim_hash: 1cf6146e2c2814ee396a500100030f069badd37e41b46ffa72889c07024b0e65
+    content: Arthur Exon told Whitley Strieber in 1988 that officials held 'pencils up' meetings on the Roswell material,
+      meaning meetings that were not recorded, and that even in retirement he travelled to Wright-Patterson Air Force Base
+      to brief the scientific group still working on the subject about what had been discussed.
+    original_excerpt: he told me in 1988 when i talked to him that they had a lot of pencils up meetings and that meant that
+      he would go down he was still even in retirement going down to Wright-Patt from where his where he was to fill in the
+      scientific group that was still working on this with what they had discussed in these meetings.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Exon
+      relay:
+        - a conversation with Whitley Strieber in 1988
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: acde03ee-7227-486d-854c-9673dd837619
+        title: USA, Ohio, Wright-Patterson Air Force Base
+        slug: ohio-wright-patterson-air-force-base-usa
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: '1988'
+    date_end: null
+    location_in_record: 00:14:19.6-00:14:41.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: d4f8f375-3fd0-4280-84ba-bac7d001bc75
+    claim_hash: def00ea1d82905edbf3918d861ff5ee4c33d777e5932e34f06cb0bea8ab9fa35
+    content: When Whitley Strieber asked Arthur Exon why there was secrecy about UFOs, Arthur Exon said something along the
+      lines that the fear was that they could come in on human thoughts.
+    original_excerpt: something that Art Exon sort of alluded to but he didn't really i don't think it's something he understood
+      himself... he said something along the lines of They could come in on our thoughts. That was the fear. I asked him,
+      why the secrecy?
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Exon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 01:21:25.3-01:21:46.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 2e687f49-42ec-4156-904d-a4013bd4e424
+    claim_hash: 54501f5d01377a3c4cd4a093ccd2e3e50b5908c6d62e521d42554a56caf30e3b
+    content: Whitley Strieber believes John von Neumann was probably the author of a memo referred to by Arthur Exon, which
+      said that non-human intelligences would come in through human thoughts.
+    original_excerpt: the general made a reference to a memo. And I think that von Neumann probably would have been the author
+      of this memo that said basically that they would come in through our thoughts.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Exon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+        title: John von Neumann
+        slug: john-von-neumann
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 01:22:19.2-01:22:33.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: fa3ec85a-ffc4-42bb-af29-76ba81870b48
+    claim_hash: c0f1b75d68e7cd2e824e3321ce159d062b1e6ee35ea6a9b067a5bb50826a31f0
+    content: Arthur Ernest Exon was allegedly heavily involved in the retrieval of the Roswell craft in 1947.
+    original_excerpt: General Art Exon, who was allegedly heavily involved in the retrieval of the Roswell craft in 1947
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: '1947'
+    date_end: null
+    location_in_record: 00:37:46.4-00:37:55.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 65eaf5e2-e223-4a4e-9231-d48ea2cbffd3
+    claim_hash: 424582381735e0f328535d82e9804c25a324f6f300f1b407f42179c8026a6c37
+    content: Whitley Strieber came to know Arthur Ernest Exon through his father's brother, not through his father.
+    original_excerpt: And it was not through my dad. It was through my dad's brother.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+    date: null
+    date_end: null
+    location_in_record: 00:38:04.9-00:38:07.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 2f8637d3-0b7f-42d1-a997-053f021ba985
+    claim_hash: 885bb15349a34d6c9e62821a32424476208fcd3a8c929cd25b40b9d8162b0804
+    content: Arthur Ernest Exon was a friend of Whitley Strieber's uncle and later became a general and commanding officer
+      at Wright-Patterson Air Force Base.
+    original_excerpt: his friend Art Exon, who had then later become a general and become commanding officer at Wright-Patt
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: acde03ee-7227-486d-854c-9673dd837619
+        title: USA, Ohio, Wright-Patterson Air Force Base
+        slug: ohio-wright-patterson-air-force-base-usa
+    date: null
+    date_end: null
+    location_in_record: 00:39:48.4-00:39:54.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: dda337af-b2ac-45cf-a717-35607b756f9b
+    claim_hash: 86f84d5489f51ee6922e91f4cf7965c78da9caba71e15c1f390e145e15afe3f5
+    content: Arthur Ernest Exon told Whitley Strieber that in 1988 he was still going regularly to Wright-Patterson Air Force
+      Base to brief staff there on matters discussed in the early days in classified off-the-record briefings he remembered.
+    original_excerpt: General Exon told me that in 1988, he was still going to Wright regularly to fill them in on things
+      that had been discussed in the early days in pencils up meetings that he remembered.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Ernest Exon
+      relay:
+        - told directly to Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: acde03ee-7227-486d-854c-9673dd837619
+        title: USA, Ohio, Wright-Patterson Air Force Base
+        slug: ohio-wright-patterson-air-force-base-usa
+    date: '1988'
+    date_end: null
+    location_in_record: 00:40:03.6-00:40:20.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 16be1ee3-5d8e-4af9-88a0-e82442c126ae
+    claim_hash: f5f86c3644d0a518b6fb6a3a637a04d3c39675d4136f15df2046c48d9b7d138b
+    content: Arthur Ernest Exon supposedly later developed Alzheimer's disease, but Whitley Strieber suspects he may not have
+      and that the United States Air Force acted against him for talking too much.
+    original_excerpt: He later supposedly got Alzheimer's, but I think He may not have. I think the Air Force really went
+      to town on him because he was talking too much.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+    date: null
+    date_end: null
+    location_in_record: 00:40:21.5-00:40:28.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 21b4a707-2fc4-4b46-888b-5fca021d3e29
+    claim_hash: 4bfcbdcbc74cb12ab073a1bc279440826043560a55f7a9d8df9af8327272c201
+    content: Whitley Strieber considers it a mistake that he introduced Arthur Ernest Exon to Stanton T. Friedman.
+    original_excerpt: I made the mistake of introducing him to Stanton Friedman
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+    date: null
+    date_end: null
+    location_in_record: 00:40:29.4-00:40:31.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 38dbe78c-505a-4b11-9e72-528778ccf6a6
+    claim_hash: bfa68fe73ae001fdfdb224cf2a9c6562bb76ddc515023d531259be7b844fb541
+    content: Arthur Ernest Exon told Whitley Strieber that debris and bodies were brought in following the 1947 Roswell crash.
+    original_excerpt: he told me that there was debris brought in and there were bodies brought in.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Ernest Exon
+      relay:
+        - told directly to Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: null
+    date_end: null
+    location_in_record: 00:40:43.6-00:40:50.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 35d301d1-12ca-4e62-bcdf-c5ce85910710
+    claim_hash: 275645a942b76fdf509435a609eabe6d2f2789a5c687dcd327ddec983814639c
+    content: Arthur Ernest Exon told Whitley Strieber that he held one of the bodies recovered after the 1947 Roswell crash
+      while it was inside a body bag, and did not see it.
+    original_excerpt: And he had held one of these bodies. It was inside a body bag. He said he didn't see it, but he held
+      it.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Ernest Exon
+      relay:
+        - told directly to Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: null
+    date_end: null
+    location_in_record: 00:40:50.8-00:40:59.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: a6226f24-32e7-4829-886b-93f645f02ac2
+    claim_hash: b072f1ac795929814248f33b08ae0c06a72f5e13c28e85811219d5a0a73632ad
+    content: Arthur Ernest Exon told Whitley Strieber that Nathan F. Twining and others did see the bodies recovered after
+      the 1947 Roswell crash, although Exon himself did not.
+    original_excerpt: But he said that General Twining did see them and others saw them, but not him.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Ernest Exon
+      relay:
+        - told directly to Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+    date: null
+    date_end: null
+    location_in_record: 00:40:59.9-00:41:04.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 0c3baf71-fd15-4ec9-bfda-cc3cffb3c346
+    claim_hash: dc1eacf1169dc13966ccb059b8a21b84a93e2a84ed57e3e46a00bc9c8f478f0d
+    content: Arthur Ernest Exon told Whitley Strieber, in what Strieber gives as a direct quote, that everyone from Harry
+      S. Truman on down knew that what had been found at Roswell was not of this world within 24 hours of the finding.
+    original_excerpt: And he said that he said, and this is a direct quote, everyone from Truman on down knew that what we
+      found had found was not of this world within 24 hours of our findings.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Ernest Exon
+      relay:
+        - told directly to Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+        title: Harry S. Truman
+        slug: harry-s-truman
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: null
+    date_end: null
+    location_in_record: 00:41:05.6-00:41:18.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 4d8ef590-7bd1-4ff2-a51a-434ef9a7df54
+    claim_hash: 7c8b544285b68ad4f0c7a73a5b2edd149be1c6a490fb572bbdec8ed58c576430
+    content: Arthur Ernest Exon did not explain to Whitley Strieber anything about the motivations of the beings or why they
+      were coming to Earth, and Strieber did not probe or press him because both Exon and Strieber's uncle were constrained
+      by their security clearances.
+    original_excerpt: He did not, not to my knowledge, no. I didn't really question him. I really let him talk because he
+      had a certain group of things he wanted to say to me. And I knew that they were both very constrained by their security
+      clearances.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+    date: null
+    date_end: null
+    location_in_record: 00:41:44.9-00:41:59.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: cb750035-0846-4c5c-8e94-933c2d6fd17e
+    claim_hash: 95a155ae463e689e1a228c77d9cb3a7c32bc91ddd2b2a8f5211d03c6f1c66f23
+    content: Arthur Ernest Exon told Whitley Strieber that a scientist in the group held that if the public became aware of
+      the phenomenon, it would enable the beings to come in on what Strieber describes as a tide of belief.
+    original_excerpt: He said something along the lines of there was a scientist in the group who thought that if we I asked,
+      I did ask him about the secrecy. He thought that if the public became aware of this, it would enable these beings to
+      come in on a He didn't say these words, he was no poet, but on a tide of belief is how I would describe what he was
+      trying to say.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person described as a scientist in the group working on the phenomenon
+      relay:
+        - Arthur Ernest Exon
+        - told directly to Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: 00:43:31.7-00:43:58.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 85154c19-e6e5-440c-b782-9da64e283d12
+    claim_hash: fb7f0c162ed327d9c891b8a13a4e95f40fc0c595f67ac28464ebf3edbdc031de
+    content: Neither Arthur Ernest Exon nor Whitley Strieber's uncle said whether the beings were malevolent or benevolent.
+    original_excerpt: They did not talk about, neither my uncle nor general excellently talked about that. In other words,
+      they didn't say it was malevolent or malevolent.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+    date: null
+    date_end: null
+    location_in_record: 00:44:48.1-00:44:57.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 4fc24c97-eea0-4397-b0ff-b279bc21100f
+    claim_hash: 06bb41a9da56093e36655e20570751b3ea3173c69cf074285ab81cd037b58e20
+    content: Whitley Strieber has a feeling that Arthur Ernest Exon and his uncle may have been told to communicate to him
+      what they did.
+    original_excerpt: They were just communicating basically what I think, I have a feeling they may have been told to communicate
+      to me.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+    date: null
+    date_end: null
+    location_in_record: 00:44:57.4-00:45:04.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 7ee501b6-23a3-4c72-be64-b52448e0e1c6
+    claim_hash: 1d707abe4b9d1980321834241794c9aa505bbd65513349470fff6e1435cc77b9
+    content: Ross Coulthart states that the Roswell wreckage was allegedly taken to Wright-Patterson Air Force Base, where
+      Arthur Ernest Exon was a former commanding general.
+    original_excerpt: you were reached out to by a former commanding general of Wright-Patterson Air Force Base, where the
+      Roswell wreckage was allegedly taken
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: acde03ee-7227-486d-854c-9673dd837619
+        title: USA, Ohio, Wright-Patterson Air Force Base
+        slug: ohio-wright-patterson-air-force-base-usa
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:45:09.7-00:45:16.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 24eed098-2bb9-492f-b0e0-855b73e13568
+    claim_hash: 66dac8123ea58368a83bdbd15b6c3d1179acecf0318502c9cac43656a0d49839
+    content: Neither Arthur Ernest Exon nor Whitley Strieber's uncle made any value judgement about Strieber having written
+      Communion; they were totally neutral about it.
+    original_excerpt: No, they were totally neutral about it. I don't remember either of them making any kind of a value judgment
+      about it at all.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
+        title: Communion
+        slug: communion
+    date: null
+    date_end: null
+    location_in_record: 00:47:51.2-00:47:58.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 5df68cfd-51f7-4fd0-b642-beb3bd7c02a3
+    claim_hash: a958ce66622f5310842bd83af3178a11eccfa3fd720d8b018717bac115bfb292
+    content: From what Arthur Ernest Exon said to him, Whitley Strieber gained the impression - which he allows may be wrong
+      - that someone on the Majestic 12 committee felt that the more people knew about the phenomenon, the more able the presence
+      would be to come into our physical reality.
+    original_excerpt: Art Exon said to me, I gained the impression, and I may be wrong about this, that someone on that committee
+      felt that there would come a, the more people knew about this, the more able this presence would be able to come into
+      our physical reality.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Ernest Exon
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: 94acebad-d864-4d15-b54c-52197eb9c4ad
+        title: Majestic 12
+        slug: majestic-12
+    date: null
+    date_end: null
+    location_in_record: 00:51:39.6-00:52:00.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null

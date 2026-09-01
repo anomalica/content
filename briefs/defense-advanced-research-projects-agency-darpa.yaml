@@ -9,288 +9,299 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1889
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
 related_nodes:
-- node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-  title: Boeing
-  node_type: organisation
-  slug: boeing
-  shared_claims: 1
-- node_id: 6ed8cca1-7933-45ad-94ca-0718946c8cb2
-  title: Dark Star
-  node_type: object
-  slug: dark-star
-  shared_claims: 1
-- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-  title: David Charles Grusch
-  node_type: person
-  slug: david-charles-grusch
-  shared_claims: 1
-- node_id: 741a9e63-4b95-4cd1-af57-c314c163d0b9
-  title: GNAT 750
-  node_type: object
-  slug: gnat-750
-  shared_claims: 1
-- node_id: 9e1d0fcf-0607-4dfb-bcbd-f7397e405321
-  title: HAVE Blue program
-  node_type: project
-  slug: have-blue-program
-  shared_claims: 1
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 1
-- node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
-  title: Legacy Program
-  node_type: project
-  slug: legacy-program
-  shared_claims: 1
-- node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
-  title: Lockheed Martin
-  node_type: organisation
-  slug: lockheed-martin
-  shared_claims: 1
-- node_id: d306d2a9-b63d-4818-90bc-11ffafbd04d2
-  title: Office of the Secretary of the Air Force
-  node_type: organisation
-  slug: office-of-the-secretary-of-the-air-force
-  shared_claims: 1
-- node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-  title: USA, District of Columbia, Washington
-  node_type: place
-  slug: district-of-columbia-washington-usa
-  shared_claims: 1
-claims:
-- claim_id: a7486281-cb30-4b10-92fe-0e1bad1def24
-  claim_hash: 74779716e519bc41c77f6ebdd35cecb75295d430cec8b90f406aa9c048131128
-  content: Jacques Vallée became a computer scientist leading a research group working
-    under contract with the Advanced Research Projects Agency (ARPA), which brought
-    him to Washington several times a year.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-    title: USA, District of Columbia, Washington
-    slug: district-of-columbia-washington-usa
-  - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
-    title: Defense Advanced Research Projects Agency (DARPA)
-    slug: defense-advanced-research-projects-agency-darpa
-  date: null
-  date_end: null
-  location_in_record: ch4:10958-11157
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 35610841-7f29-4a40-925a-8991d50287c2
-  claim_hash: 61d225167f8faa5d28f67d6bd7d9d4ff970d93ac3bee28992615159469438944
-  content: Experiments by the Defense Advanced Research Projects Agency (DARPA) showed
-    that pilots can remotely control an aircraft using their thoughts through a special
-    helmet interface that interprets brain waves and translates them into electronic
-    signals.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Defense Advanced Research Projects Agency (DARPA)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
-    title: Defense Advanced Research Projects Agency (DARPA)
-    slug: defense-advanced-research-projects-agency-darpa
-  date: null
-  date_end: null
-  location_in_record: ch18:10077-10349
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 04312936-93b5-4146-9dc0-a14d97fb3ad7
-  claim_hash: 89116f2cabe50e81b85cbccab00803c444217b820bc0632173de7ecda6b73984
-  content: The Defense Advanced Research Projects Agency oversaw the development of
-    the HAVE Blue program in the mid-1970s, which was the first practical, combat-stealth
-    aircraft.
-  original_excerpt: The Defense Advanced Research Project Agency (DARPA) oversaw the
-    development of HAVE Blue in the mid-1970s, which was the first practical, combat-stealth
-    aircraft.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9e1d0fcf-0607-4dfb-bcbd-f7397e405321
-    title: HAVE Blue program
-    slug: have-blue-program
-  - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
-    title: Defense Advanced Research Projects Agency (DARPA)
-    slug: defense-advanced-research-projects-agency-darpa
-  date: null
-  date_end: null
-  location_in_record: char:133640-133794
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 39bf0b15-0dff-432e-843a-37b6d6d7da21
-  claim_hash: c449aabbfc4a670bf0823654e588576953fa1b98f9eda9ca9094de4fd2ac4e72
-  content: The GNAT 750 prototype served as the basis for a more advanced design under
-    the Defense Advanced Research Projects Agency.
-  original_excerpt: The prototype served as the basis for a more advanced design under
-    DARPA.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 741a9e63-4b95-4cd1-af57-c314c163d0b9
-    title: GNAT 750
-    slug: gnat-750
-  - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
-    title: Defense Advanced Research Projects Agency (DARPA)
-    slug: defense-advanced-research-projects-agency-darpa
-  date: null
-  date_end: null
-  location_in_record: char:136712-136779
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: b5c87687-4878-4768-b435-084dc902ecea
-  claim_hash: 9ccb2013a6cf08d6aa37456d640053033cb1ab3a218ac064c808df1be38b2ee5
-  content: Lockheed Martin, Boeing, and the Defense Advanced Research Projects Agency
-    (DARPA) developed the RQ-3 Dark Star in the mid-to-late 1990s.
-  original_excerpt: Lockheed Martin, Boeing, and DARPA developed Dark Star in the
-    mid-to-late 1990s.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
   - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
     title: Boeing
+    node_type: organisation
     slug: boeing
+    shared_claims: 1
   - node_id: 6ed8cca1-7933-45ad-94ca-0718946c8cb2
     title: Dark Star
+    node_type: object
     slug: dark-star
-  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
-    title: Lockheed Martin
-    slug: lockheed-martin
-  - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
-    title: Defense Advanced Research Projects Agency (DARPA)
-    slug: defense-advanced-research-projects-agency-darpa
-  date: null
-  date_end: null
-  location_in_record: char:141208-141282
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 8481d56a-1a8d-4846-ba33-3c8bb4d0cc14
-  claim_hash: 7b7bdf50cf534e578b09f95bc23fb646ccf528038287a0dac73c56fe9d1e55cd
-  content: David Grusch testified that the legacy program control group involves a
-    cadre of senior executive officials, many at the Senior Executive Service (SES)
-    level, including DARPA Special Access Program Central Office (SAPCO) personnel
-    and senior figures within the Office of the Secretary of the Air Force.
-  original_excerpt: Dave Grusch actually testified to this. Many of these being SCS
-    level senior executive service individuals, DARPA SAPCOs, very senior figures
-    within the Secretary of the Air Force like we just spoke of.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-    title: UAP Gerb
-  provenance_chain:
-    origin_kind: named
-    origin: David Grusch
-    relay:
-    - UAP Gerb
-  attribution_mode: unknown
-  node_refs:
-  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
-    title: Legacy Program
-    slug: legacy-program
-  - node_id: d306d2a9-b63d-4818-90bc-11ffafbd04d2
-    title: Office of the Secretary of the Air Force
-    slug: office-of-the-secretary-of-the-air-force
+    shared_claims: 1
   - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
     title: David Charles Grusch
+    node_type: person
     slug: david-charles-grusch
-  - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
-    title: Defense Advanced Research Projects Agency (DARPA)
-    slug: defense-advanced-research-projects-agency-darpa
-  date: null
-  date_end: null
-  location_in_record: 00:39:13.0-00:39:25.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 741a9e63-4b95-4cd1-af57-c314c163d0b9
+    title: GNAT 750
+    node_type: object
+    slug: gnat-750
+    shared_claims: 1
+  - node_id: 9e1d0fcf-0607-4dfb-bcbd-f7397e405321
+    title: HAVE Blue program
+    node_type: project
+    slug: have-blue-program
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+    title: Legacy Program
+    node_type: project
+    slug: legacy-program
+    shared_claims: 1
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    node_type: organisation
+    slug: lockheed-martin
+    shared_claims: 1
+  - node_id: d306d2a9-b63d-4818-90bc-11ffafbd04d2
+    title: Office of the Secretary of the Air Force
+    node_type: organisation
+    slug: office-of-the-secretary-of-the-air-force
+    shared_claims: 1
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    node_type: place
+    slug: district-of-columbia-washington-usa
+    shared_claims: 1
+claims:
+  - claim_id: a7486281-cb30-4b10-92fe-0e1bad1def24
+    claim_hash: 74779716e519bc41c77f6ebdd35cecb75295d430cec8b90f406aa9c048131128
+    content: Jacques Vallée became a computer scientist leading a research group working under contract with the Advanced
+      Research Projects Agency (ARPA), which brought him to Washington several times a year.
+    original_excerpt: by then, I had become a computer scientist and was leading a research group working under contract with
+      the Advanced Research Projects Agency, a project that brought me to Washington several times a year.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
+        title: Defense Advanced Research Projects Agency (DARPA)
+        slug: defense-advanced-research-projects-agency-darpa
+    date: null
+    date_end: null
+    location_in_record: ch4:10958-11157
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 35610841-7f29-4a40-925a-8991d50287c2
+    claim_hash: 61d225167f8faa5d28f67d6bd7d9d4ff970d93ac3bee28992615159469438944
+    content: Experiments by the Defense Advanced Research Projects Agency (DARPA) showed that pilots can remotely control
+      an aircraft using their thoughts through a special helmet interface that interprets brain waves and translates them
+      into electronic signals.
+    original_excerpt: Experiments by DARPA in the past showed that pilots can indeed remotely control an aircraft, using their
+      thoughts and a special interface. A helmet specially designed to interpret thought and a pilot’s brain waves and translate
+      them to electronic signals that control the aircraft.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Defense Advanced Research Projects Agency (DARPA)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
+        title: Defense Advanced Research Projects Agency (DARPA)
+        slug: defense-advanced-research-projects-agency-darpa
+    date: null
+    date_end: null
+    location_in_record: ch18:10077-10349
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 04312936-93b5-4146-9dc0-a14d97fb3ad7
+    claim_hash: 89116f2cabe50e81b85cbccab00803c444217b820bc0632173de7ecda6b73984
+    content: The Defense Advanced Research Projects Agency oversaw the development of the HAVE Blue program in the mid-1970s,
+      which was the first practical, combat-stealth aircraft.
+    original_excerpt: The Defense Advanced Research Project Agency (DARPA) oversaw the development of HAVE Blue in the mid-1970s,
+      which was the first practical, combat-stealth aircraft.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9e1d0fcf-0607-4dfb-bcbd-f7397e405321
+        title: HAVE Blue program
+        slug: have-blue-program
+      - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
+        title: Defense Advanced Research Projects Agency (DARPA)
+        slug: defense-advanced-research-projects-agency-darpa
+    date: null
+    date_end: null
+    location_in_record: char:133640-133794
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 39bf0b15-0dff-432e-843a-37b6d6d7da21
+    claim_hash: c449aabbfc4a670bf0823654e588576953fa1b98f9eda9ca9094de4fd2ac4e72
+    content: The GNAT 750 prototype served as the basis for a more advanced design under the Defense Advanced Research Projects
+      Agency.
+    original_excerpt: The prototype served as the basis for a more advanced design under DARPA.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 741a9e63-4b95-4cd1-af57-c314c163d0b9
+        title: GNAT 750
+        slug: gnat-750
+      - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
+        title: Defense Advanced Research Projects Agency (DARPA)
+        slug: defense-advanced-research-projects-agency-darpa
+    date: null
+    date_end: null
+    location_in_record: char:136712-136779
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: b5c87687-4878-4768-b435-084dc902ecea
+    claim_hash: 9ccb2013a6cf08d6aa37456d640053033cb1ab3a218ac064c808df1be38b2ee5
+    content: Lockheed Martin, Boeing, and the Defense Advanced Research Projects Agency (DARPA) developed the RQ-3 Dark Star
+      in the mid-to-late 1990s.
+    original_excerpt: Lockheed Martin, Boeing, and DARPA developed Dark Star in the mid-to-late 1990s.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 6ed8cca1-7933-45ad-94ca-0718946c8cb2
+        title: Dark Star
+        slug: dark-star
+      - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+        title: Lockheed Martin
+        slug: lockheed-martin
+      - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
+        title: Defense Advanced Research Projects Agency (DARPA)
+        slug: defense-advanced-research-projects-agency-darpa
+    date: null
+    date_end: null
+    location_in_record: char:141208-141282
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 8481d56a-1a8d-4846-ba33-3c8bb4d0cc14
+    claim_hash: 7b7bdf50cf534e578b09f95bc23fb646ccf528038287a0dac73c56fe9d1e55cd
+    content: David Grusch testified that the legacy program control group involves a cadre of senior executive officials,
+      many at the Senior Executive Service (SES) level, including DARPA Special Access Program Central Office (SAPCO) personnel
+      and senior figures within the Office of the Secretary of the Air Force.
+    original_excerpt: Dave Grusch actually testified to this. Many of these being SCS level senior executive service individuals,
+      DARPA SAPCOs, very senior figures within the Secretary of the Air Force like we just spoke of.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: named
+      origin: David Grusch
+      relay:
+        - UAP Gerb
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+      - node_id: d306d2a9-b63d-4818-90bc-11ffafbd04d2
+        title: Office of the Secretary of the Air Force
+        slug: office-of-the-secretary-of-the-air-force
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
+        title: Defense Advanced Research Projects Agency (DARPA)
+        slug: defense-advanced-research-projects-agency-darpa
+    date: null
+    date_end: null
+    location_in_record: 00:39:13.0-00:39:25.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null

@@ -9,265 +9,279 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1824
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
 related_nodes:
-- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-  title: Whitley Strieber
-  node_type: person
-  slug: whitley-strieber
-  shared_claims: 5
-- node_id: 1a572b0e-dc80-4671-ac08-a32ef6842b71
-  title: 1976 New South Wales woman (Communion letter case)
-  node_type: person
-  slug: 1976-new-south-wales-woman-communion-letter-case
-  shared_claims: 1
-- node_id: 89cb1058-9f2a-49f5-a39d-df1a25449568
-  title: 1976 late-year Communion letter case (New South Wales daytime encounter)
-  node_type: event
-  slug: 1976-late-year-communion-letter-case-new-south-wales-daytime-encounter
-  shared_claims: 1
-- node_id: 9c6cd12c-6907-49e8-a50e-3f54badc487b
-  title: 1988 cabin encounter with documentary filmmaker
-  node_type: event
-  slug: 1988-cabin-encounter-with-documentary-filmmaker
-  shared_claims: 1
-- node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
-  title: Communion
-  node_type: document
-  slug: communion
-  shared_claims: 1
-- node_id: eb6eaa1d-602f-427e-a8b6-9f65c3835e51
-  title: 'Transformation: The Breakthrough'
-  node_type: document
-  slug: transformation-the-breakthrough
-  shared_claims: 1
-claims:
-- claim_id: b414f430-b3c5-47b5-b990-d0c059848ff8
-  claim_hash: 57a587e73fe7e2f98518a68f4a1c6070e7fe797c41a11a048469e2ab80d93706
-  content: Whitley Strieber again referred to the 1976 New South Wales woman's experience
-    in his third book about the visitors, Breakthrough, while he was struggling with
-    the possible negative nature of the visitor experience.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Whitley Strieber
-    relay:
-    - Breakthrough
-  attribution_mode: unknown
-  node_refs:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 5
   - node_id: 1a572b0e-dc80-4671-ac08-a32ef6842b71
     title: 1976 New South Wales woman (Communion letter case)
+    node_type: person
     slug: 1976-new-south-wales-woman-communion-letter-case
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: e965a223-7fbd-430a-b4f3-dab1f979e9ef
-    title: Breakthrough
-    slug: breakthrough
-  date: null
-  date_end: null
-  location_in_record: ch15:7975-8148
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: a776335b-bd03-4334-b28c-056b00b5c3c1
-  claim_hash: 94890da364dcc09aad809a8dc8db55b2d0661dc4f45ae47730d4d36d338b77d9
-  content: 'In his book Breakthrough (1995), pages 110-112, Whitley Strieber refers
-    to the beings in the same case as having hair, seven years after Transformation,
-    quoting from the woman''s 1987-88 letter: "Unlike your visitors, mine had wispy
-    bits at the back of their heads."'
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Breakthrough by Whitley Strieber
-    relay:
-    - the woman's 1987-88 letter
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
+    shared_claims: 1
   - node_id: 89cb1058-9f2a-49f5-a39d-df1a25449568
     title: 1976 late-year Communion letter case (New South Wales daytime encounter)
+    node_type: event
     slug: 1976-late-year-communion-letter-case-new-south-wales-daytime-encounter
-  - node_id: e965a223-7fbd-430a-b4f3-dab1f979e9ef
-    title: Breakthrough
-    slug: breakthrough
-  date: null
-  date_end: null
-  location_in_record: ch23:15487-15742
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: f7fe49c8-7acc-4b8e-8475-d99b8565874d
-  claim_hash: e458eb9d23a759511dfd35a413c598d2ce3c5a1866167f8a4f10c5d5b382e68c
-  content: In the case described in Breakthrough, the hair on the two "male" beings
-    was brown and on the "female" being was black, with colour-coordinated "shrouds."
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Breakthrough by Whitley Strieber
-    relay:
-    - the woman's 1987-88 letter
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: e965a223-7fbd-430a-b4f3-dab1f979e9ef
-    title: Breakthrough
-    slug: breakthrough
-  date: null
-  date_end: null
-  location_in_record: ch23:15748-15834
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: 93809175-0bfb-40c1-8737-3382e6845d65
-  claim_hash: 754ef229c96ba957e986fc0de36eb37a224db7ef7122ecc5f4dc4c36d2d7b43e
-  content: Whitley Strieber does not link the account in Breakthrough to the reference
-    in his previous book Transformation, nor does he highlight that he had kept the
-    presence of hair out of his own original "visitor" descriptions.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 3ff75793-423c-4333-8402-d5c543074091
-    title: Bill Chalker
-  provenance_chain:
-    origin_kind: speaker
-    origin: Bill Chalker
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: e965a223-7fbd-430a-b4f3-dab1f979e9ef
-    title: Breakthrough
-    slug: breakthrough
-  - node_id: eb6eaa1d-602f-427e-a8b6-9f65c3835e51
-    title: 'Transformation: The Breakthrough'
-    slug: transformation-the-breakthrough
-  date: null
-  date_end: null
-  location_in_record: ch23:15844-16016
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: a581f873-aa40-4e2d-9bc4-925e4d36461d
-  claim_hash: 665d31bd0c44ecea8d0060d2f0a1b48b22c9c18930484fadf6cce8f56923f5a1
-  content: During the 1988 cabin encounter with the documentary filmmaker, the filmmaker
-    was awakened by a small man with a huge head staring down at him.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: documentary filmmaker present at Whitley Strieber's cabin in 1988
-    relay:
-    - Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
   - node_id: 9c6cd12c-6907-49e8-a50e-3f54badc487b
     title: 1988 cabin encounter with documentary filmmaker
+    node_type: event
     slug: 1988-cabin-encounter-with-documentary-filmmaker
-  - node_id: e965a223-7fbd-430a-b4f3-dab1f979e9ef
-    title: Breakthrough
-    slug: breakthrough
-  date: null
-  date_end: null
-  location_in_record: ch12:3132-3283
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 8c8f0325-e7a4-4f84-a2d8-bf4ddb2d186c
-  claim_hash: c594ffae20f7e8963a0c7b8a1f3277076e50283dd8ffe7aeefe6807459e81d59
-  content: Communion and Breakthrough are bestselling books by Whitley Strieber.
-  original_excerpt: including the bestsellers Communion and Breakthrough
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
+    shared_claims: 1
   - node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
     title: Communion
+    node_type: document
     slug: communion
-  - node_id: e965a223-7fbd-430a-b4f3-dab1f979e9ef
-    title: Breakthrough
-    slug: breakthrough
-  date: null
-  date_end: null
-  location_in_record: 00:00:32.6-00:00:35.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
-    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
-      | Reality Check Rewind
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
-    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
-    friendly_name: null
+    shared_claims: 1
+  - node_id: eb6eaa1d-602f-427e-a8b6-9f65c3835e51
+    title: 'Transformation: The Breakthrough'
+    node_type: document
+    slug: transformation-the-breakthrough
+    shared_claims: 1
+claims:
+  - claim_id: b414f430-b3c5-47b5-b990-d0c059848ff8
+    claim_hash: 57a587e73fe7e2f98518a68f4a1c6070e7fe797c41a11a048469e2ab80d93706
+    content: Whitley Strieber again referred to the 1976 New South Wales woman's experience in his third book about the visitors,
+      Breakthrough, while he was struggling with the possible negative nature of the visitor experience.
+    original_excerpt: he again referred to her experience in his third book about the visitors, Breakthrough, at a time when
+      he was struggling with the possible "negative" nature of the "visitor experience."
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Whitley Strieber
+      relay:
+        - Breakthrough
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1a572b0e-dc80-4671-ac08-a32ef6842b71
+        title: 1976 New South Wales woman (Communion letter case)
+        slug: 1976-new-south-wales-woman-communion-letter-case
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: e965a223-7fbd-430a-b4f3-dab1f979e9ef
+        title: Breakthrough
+        slug: breakthrough
+    date: null
+    date_end: null
+    location_in_record: ch15:7975-8148
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: a776335b-bd03-4334-b28c-056b00b5c3c1
+    claim_hash: 94890da364dcc09aad809a8dc8db55b2d0661dc4f45ae47730d4d36d338b77d9
+    content: 'In his book Breakthrough (1995), pages 110-112, Whitley Strieber refers to the beings in the same case as having
+      hair, seven years after Transformation, quoting from the woman''s 1987-88 letter: "Unlike your visitors, mine had wispy
+      bits at the back of their heads."'
+    original_excerpt: 'See Breakthrough (1995) by Whitley Strieber, pp. 110-112. Seven years later Strieber refers to the
+      beings in this case having hair. He quotes from the woman''s letter from 1987-88: "Unlike your visitors, mine had wispy
+      bits at the back of their heads" (p. 111).'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Breakthrough by Whitley Strieber
+      relay:
+        - the woman's 1987-88 letter
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 89cb1058-9f2a-49f5-a39d-df1a25449568
+        title: 1976 late-year Communion letter case (New South Wales daytime encounter)
+        slug: 1976-late-year-communion-letter-case-new-south-wales-daytime-encounter
+      - node_id: e965a223-7fbd-430a-b4f3-dab1f979e9ef
+        title: Breakthrough
+        slug: breakthrough
+    date: null
+    date_end: null
+    location_in_record: ch23:15487-15742
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: f7fe49c8-7acc-4b8e-8475-d99b8565874d
+    claim_hash: e458eb9d23a759511dfd35a413c598d2ce3c5a1866167f8a4f10c5d5b382e68c
+    content: In the case described in Breakthrough, the hair on the two "male" beings was brown and on the "female" being
+      was black, with colour-coordinated "shrouds."
+    original_excerpt: The hair on the two "males" was brown and the female "black," with color-coordinated "shrouds."
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Breakthrough by Whitley Strieber
+      relay:
+        - the woman's 1987-88 letter
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: e965a223-7fbd-430a-b4f3-dab1f979e9ef
+        title: Breakthrough
+        slug: breakthrough
+    date: null
+    date_end: null
+    location_in_record: ch23:15748-15834
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 93809175-0bfb-40c1-8737-3382e6845d65
+    claim_hash: 754ef229c96ba957e986fc0de36eb37a224db7ef7122ecc5f4dc4c36d2d7b43e
+    content: Whitley Strieber does not link the account in Breakthrough to the reference in his previous book Transformation,
+      nor does he highlight that he had kept the presence of hair out of his own original "visitor" descriptions.
+    original_excerpt: Strieber doesn't link the account here to the reference in his previous book, nor does he highlight
+      that he had kept the presence of hair out of his own original "visitor" descriptions.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: e965a223-7fbd-430a-b4f3-dab1f979e9ef
+        title: Breakthrough
+        slug: breakthrough
+      - node_id: eb6eaa1d-602f-427e-a8b6-9f65c3835e51
+        title: 'Transformation: The Breakthrough'
+        slug: transformation-the-breakthrough
+    date: null
+    date_end: null
+    location_in_record: ch23:15844-16016
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: a581f873-aa40-4e2d-9bc4-925e4d36461d
+    claim_hash: 665d31bd0c44ecea8d0060d2f0a1b48b22c9c18930484fadf6cce8f56923f5a1
+    content: During the 1988 cabin encounter with the documentary filmmaker, the filmmaker was awakened by a small man with
+      a huge head staring down at him.
+    original_excerpt: In 1988, when a documentary filmmaker was at our cabin, as I reported in Breakthrough, he was awakened
+      by a small man with a huge head staring down at him.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: documentary filmmaker present at Whitley Strieber's cabin in 1988
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c6cd12c-6907-49e8-a50e-3f54badc487b
+        title: 1988 cabin encounter with documentary filmmaker
+        slug: 1988-cabin-encounter-with-documentary-filmmaker
+      - node_id: e965a223-7fbd-430a-b4f3-dab1f979e9ef
+        title: Breakthrough
+        slug: breakthrough
+    date: null
+    date_end: null
+    location_in_record: ch12:3132-3283
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 8c8f0325-e7a4-4f84-a2d8-bf4ddb2d186c
+    claim_hash: c594ffae20f7e8963a0c7b8a1f3277076e50283dd8ffe7aeefe6807459e81d59
+    content: Communion and Breakthrough are bestselling books by Whitley Strieber.
+    original_excerpt: including the bestsellers Communion and Breakthrough
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
+        title: Communion
+        slug: communion
+      - node_id: e965a223-7fbd-430a-b4f3-dab1f979e9ef
+        title: Breakthrough
+        slug: breakthrough
+    date: null
+    date_end: null
+    location_in_record: 00:00:32.6-00:00:35.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null

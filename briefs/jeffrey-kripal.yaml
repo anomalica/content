@@ -9,354 +9,371 @@ page:
   claim_count: 8
   claim_count_total: 8
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 8
+  tokens_estimated: 2693
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 8
 related_nodes:
-- node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
-  title: Esalen Institute
-  node_type: organisation
-  slug: esalen-institute
-  shared_claims: 3
-- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-  title: Whitley Strieber
-  node_type: person
-  slug: whitley-strieber
-  shared_claims: 2
-- node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
-  title: Communion
-  node_type: document
-  slug: communion
-  shared_claims: 1
-- node_id: f2daae19-9351-4a8e-b466-664f83887f61
-  title: Diana Walsh Pasulka
-  node_type: person
-  slug: diana-walsh-pasulka
-  shared_claims: 1
-- node_id: ccaada0b-7348-4d54-bd7b-22896b137901
-  title: Maria of Agreda
-  node_type: person
-  slug: maria-of-agreda
-  shared_claims: 1
-- node_id: 89127996-2cf3-4aa3-8129-a17670cbc980
-  title: The Super Natural
-  node_type: document
-  slug: the-super-natural
-  shared_claims: 1
-- node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-  title: Tyler D.
-  node_type: person
-  slug: tyler-d
-  shared_claims: 1
-- node_id: 7bf3a5af-70a5-4e9e-8f96-2dbf37ffaf39
-  title: USA, California, Southern California
-  node_type: place
-  slug: california-southern-california-usa
-  shared_claims: 1
-claims:
-- claim_id: 1a188cda-90b9-4a6b-bbe3-a6970810b35e
-  claim_hash: a19dac6ab31c95b4d804c4d4833457948e595dbc983d06f551f769e48f72a70b
-  content: D. W. Pasulka convinced Jeffrey Kripal to accompany her to meet Tyler D.
-    in Atlanta.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
-    title: Jeffrey Kripal
-    slug: jeffrey-kripal
-  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-    slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch1:39356-39426
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: e45b7a4d-72d0-49b3-9fbc-f29a62327f97
-  claim_hash: 881b5f209aca588d9b3b439d0e6ee9d25bba4997ff84b5afaeb18d6a0d76bed1
-  content: Jeffrey Kripal recounted that Whitley Strieber told an audience he was
-    fully aware that his visionary experience of the visitors described in his novel
-    Communion was deeply informed by the bad science-fiction B movies he had seen
-    as a child in the cold-war 1950s in southern Texas.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
-    title: Jeffrey Kripal
-  provenance_chain:
-    origin_kind: named
-    origin: Whitley Strieber
-    relay:
-    - Jeffrey Kripal
-  attribution_mode: unknown
-  node_refs:
+  - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+    title: Esalen Institute
+    node_type: organisation
+    slug: esalen-institute
+    shared_claims: 3
   - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
     title: Whitley Strieber
+    node_type: person
     slug: whitley-strieber
+    shared_claims: 2
   - node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
     title: Communion
+    node_type: document
     slug: communion
-  - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
-    title: Jeffrey Kripal
-    slug: jeffrey-kripal
-  date: null
-  date_end: null
-  location_in_record: ch4:33641-34068
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: bbf5d24d-0321-4a38-9a9a-3d8f5b271163
-  claim_hash: fe19cdfc077d88a4766b33dca243a6cafbf7262debef7a9ce40e43b64d541d8a
-  content: Jeffrey Kripal suggests considering Sister Maria of Agreda's bilocation
-    claims within a both/and framework rather than an either/or scenario that reduces
-    them to pure imagination or purely political machinations.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
-    title: Jeffrey Kripal
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jeffrey Kripal
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
-    title: Jeffrey Kripal
-    slug: jeffrey-kripal
+    shared_claims: 1
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    node_type: person
+    slug: diana-walsh-pasulka
+    shared_claims: 1
   - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
     title: Maria of Agreda
+    node_type: person
     slug: maria-of-agreda
-  date: null
-  date_end: null
-  location_in_record: ch7:35510-35741
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 99503fc3-05b8-423b-af75-8324a168c3f0
-  claim_hash: cf7664abca594c85dbd121c0157d3b75f9de8dafdfe134ab7e259b29e4e18f19
-  content: Jeffrey Kripal wrote that some of the remembered effects of these fantastic
-    states of mind have been taken up by elaborate social, political, and artistic
-    processes and fashioned by communities into mythical, ritual, and institutional
-    complexes that have fundamentally changed human history, which are called 'religions'.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
-    title: Jeffrey Kripal
-  provenance_chain:
-    origin_kind: named
-    origin: Jeffrey Kripal
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
-    title: Jeffrey Kripal
-    slug: jeffrey-kripal
-  date: null
-  date_end: null
-  location_in_record: char:30327-30643
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 6f50e4fd-584b-4914-96c4-a8cd6fd3d9e8
-  claim_hash: d7d48cdcfcecacf5262b4d87ea4652f005eb15aa2c4d77a8e2eb45f6aa3f83d8
-  content: Jeff Kripal experienced a sense of annihilation while sleeping in the same
-    room as Whitley Strieber at a conference at the Esalen Institute in Northern California.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Jeff Kripal
-    relay:
-    - Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
-    title: Esalen Institute
-    slug: esalen-institute
-  - node_id: 7bf3a5af-70a5-4e9e-8f96-2dbf37ffaf39
-    title: USA, California, Southern California
-    slug: california-southern-california-usa
-  - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
-    title: Jeffrey Kripal
-    slug: jeffrey-kripal
-  date: null
-  date_end: null
-  location_in_record: ch18:13699-13846
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 92d2cdb6-0d36-40ab-acfb-9579174d482a
-  claim_hash: ad16b935cf83e5fcff8f673558a9a942b0450d499f6ca923af97f3b8f6e12a1e
-  content: During a night at the Esalen Institute with Jeff Kripal sleeping in a second
-    bed, Whitley Strieber and then Jeff Kripal each experienced a brief physical contact
-    with a visitor.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-    slug: whitley-strieber
-  - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
-    title: Esalen Institute
-    slug: esalen-institute
-  - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
-    title: Jeffrey Kripal
-    slug: jeffrey-kripal
-  date: null
-  date_end: null
-  location_in_record: ch18:14121-14254
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 77035cd9-0d1b-415a-9576-b72af74b7274
-  claim_hash: 892aa7be783e74695ae14d9f90ca240e04fdd04e6a7055ee046423276ba24965
-  content: During the contact experience at the Esalen Institute, Jeff Kripal heard
-    a great noise as if of glass breaking, followed by his own voice crying out from
-    within himself, "Oh my God!"
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Jeff Kripal
-    relay:
-    - Whitley Strieber
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
-    title: Esalen Institute
-    slug: esalen-institute
-  - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
-    title: Jeffrey Kripal
-    slug: jeffrey-kripal
-  date: null
-  date_end: null
-  location_in_record: ch18:14355-14469
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 54bb5f73-6a95-46c0-9247-b3d5acffd773
-  claim_hash: 5ad2835db2487733dcd52cd35ab9b984d303d13754396068a4f53b53d7a99dd9
-  content: Whitley Strieber identifies himself not as a believer in the supernatural,
-    but as an adherent of Jeff Kripal's concept of the "super natural" - natural powers
-    that transcend ordinary physical perception but remain part of nature.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
   - node_id: 89127996-2cf3-4aa3-8129-a17670cbc980
     title: The Super Natural
+    node_type: document
     slug: the-super-natural
-  - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
-    title: Jeffrey Kripal
-    slug: jeffrey-kripal
-  date: null
-  date_end: null
-  location_in_record: ch22:25844-26073
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    node_type: person
+    slug: tyler-d
+    shared_claims: 1
+  - node_id: 7bf3a5af-70a5-4e9e-8f96-2dbf37ffaf39
+    title: USA, California, Southern California
+    node_type: place
+    slug: california-southern-california-usa
+    shared_claims: 1
+claims:
+  - claim_id: 1a188cda-90b9-4a6b-bbe3-a6970810b35e
+    claim_hash: a19dac6ab31c95b4d804c4d4833457948e595dbc983d06f551f769e48f72a70b
+    content: D. W. Pasulka convinced Jeffrey Kripal to accompany her to meet Tyler D. in Atlanta.
+    original_excerpt: I convinced one of my colleagues, Jeff Kripal, to accompany me to the meeting.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+        title: Jeffrey Kripal
+        slug: jeffrey-kripal
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch1:39356-39426
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: e45b7a4d-72d0-49b3-9fbc-f29a62327f97
+    claim_hash: 881b5f209aca588d9b3b439d0e6ee9d25bba4997ff84b5afaeb18d6a0d76bed1
+    content: Jeffrey Kripal recounted that Whitley Strieber told an audience he was fully aware that his visionary experience
+      of the visitors described in his novel Communion was deeply informed by the bad science-fiction B movies he had seen
+      as a child in the cold-war 1950s in southern Texas.
+    original_excerpt: 'Reflecting on a talk by “alien abductee” Whitley Strieber about the experiences that informed his best-selling
+      novel, Communion, Jeffrey Kripal notes the role played by popular culture: “One evening he [Whitley] explained to us
+      that he was perfectly aware that his visionary experience of the visitors was deeply informed by the bad sci-fi B movies
+      that he had seen in such numbers as a kid in the cold war 1950s in southern Texas.”'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+      title: Jeffrey Kripal
+    provenance_chain:
+      origin_kind: named
+      origin: Whitley Strieber
+      relay:
+        - Jeffrey Kripal
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
+        title: Communion
+        slug: communion
+      - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+        title: Jeffrey Kripal
+        slug: jeffrey-kripal
+    date: null
+    date_end: null
+    location_in_record: ch4:33641-34068
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: bbf5d24d-0321-4a38-9a9a-3d8f5b271163
+    claim_hash: fe19cdfc077d88a4766b33dca243a6cafbf7262debef7a9ce40e43b64d541d8a
+    content: Jeffrey Kripal suggests considering Sister Maria of Agreda's bilocation claims within a both/and framework rather
+      than an either/or scenario that reduces them to pure imagination or purely political machinations.
+    original_excerpt: As Jeff Kripal suggests, instead of positing an either/or scenario that negates the inexplicable and
+      anomalous and reduces Maria’s claims to purely imaginings and nothing more, why not consider the story within a framework
+      of both/and?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+      title: Jeffrey Kripal
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jeffrey Kripal
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+        title: Jeffrey Kripal
+        slug: jeffrey-kripal
+      - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+        title: Maria of Agreda
+        slug: maria-of-agreda
+    date: null
+    date_end: null
+    location_in_record: ch7:35510-35741
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 99503fc3-05b8-423b-af75-8324a168c3f0
+    claim_hash: cf7664abca594c85dbd121c0157d3b75f9de8dafdfe134ab7e259b29e4e18f19
+    content: Jeffrey Kripal wrote that some of the remembered effects of these fantastic states of mind have been taken up
+      by elaborate social, political, and artistic processes and fashioned by communities into mythical, ritual, and institutional
+      complexes that have fundamentally changed human history, which are called 'religions'.
+    original_excerpt: Kripal notes, "Some of the remembered effects of these fantastic states of mind have been taken up by
+      extremely elaborate social, political, and artistic processes and have been fashioned by communities into mythical,
+      ritual, and institutional complexes that have fundamentally changed human history. We call these 'religions.' "
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+      title: Jeffrey Kripal
+    provenance_chain:
+      origin_kind: named
+      origin: Jeffrey Kripal
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+        title: Jeffrey Kripal
+        slug: jeffrey-kripal
+    date: null
+    date_end: null
+    location_in_record: char:30327-30643
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 6f50e4fd-584b-4914-96c4-a8cd6fd3d9e8
+    claim_hash: d7d48cdcfcecacf5262b4d87ea4652f005eb15aa2c4d77a8e2eb45f6aa3f83d8
+    content: Jeff Kripal experienced a sense of annihilation while sleeping in the same room as Whitley Strieber at a conference
+      at the Esalen Institute in Northern California.
+    original_excerpt: my Super Natural co-author, Jeff Kripal, experienced it when sleeping in the same room with me at a
+      conference at the Esalen Institute in Northern California.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Jeff Kripal
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 7bf3a5af-70a5-4e9e-8f96-2dbf37ffaf39
+        title: USA, California, Southern California
+        slug: california-southern-california-usa
+      - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+        title: Jeffrey Kripal
+        slug: jeffrey-kripal
+    date: null
+    date_end: null
+    location_in_record: ch18:13699-13846
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 92d2cdb6-0d36-40ab-acfb-9579174d482a
+    claim_hash: ad16b935cf83e5fcff8f673558a9a942b0450d499f6ca923af97f3b8f6e12a1e
+    content: During a night at the Esalen Institute with Jeff Kripal sleeping in a second bed, Whitley Strieber and then Jeff
+      Kripal each experienced a brief physical contact with a visitor.
+    original_excerpt: one night when Jeff was sleeping in the second bed, there was a brief physical contact, first with me,
+      then a few minutes later with him.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+        title: Jeffrey Kripal
+        slug: jeffrey-kripal
+    date: null
+    date_end: null
+    location_in_record: ch18:14121-14254
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 77035cd9-0d1b-415a-9576-b72af74b7274
+    claim_hash: 892aa7be783e74695ae14d9f90ca240e04fdd04e6a7055ee046423276ba24965
+    content: During the contact experience at the Esalen Institute, Jeff Kripal heard a great noise as if of glass breaking,
+      followed by his own voice crying out from within himself, "Oh my God!"
+    original_excerpt: He heard a great noise as if of glass breaking and then his own voice crying out from deep within himself,
+      “Oh my God!”
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Jeff Kripal
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+        title: Jeffrey Kripal
+        slug: jeffrey-kripal
+    date: null
+    date_end: null
+    location_in_record: ch18:14355-14469
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 54bb5f73-6a95-46c0-9247-b3d5acffd773
+    claim_hash: 5ad2835db2487733dcd52cd35ab9b984d303d13754396068a4f53b53d7a99dd9
+    content: Whitley Strieber identifies himself not as a believer in the supernatural, but as an adherent of Jeff Kripal's
+      concept of the "super natural" - natural powers that transcend ordinary physical perception but remain part of nature.
+    original_excerpt: As must be clear by now, I am not a believer in the supernatural, but in Jeff Kripal’s concept of the
+      “super” natural, that is to say, natural powers that transcend the physical as we perceive it, but are still very much
+      part of nature.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 89127996-2cf3-4aa3-8129-a17670cbc980
+        title: The Super Natural
+        slug: the-super-natural
+      - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+        title: Jeffrey Kripal
+        slug: jeffrey-kripal
+    date: null
+    date_end: null
+    location_in_record: ch22:25844-26073
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind

@@ -9,136 +9,149 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 866
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
 related_nodes:
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 1
-- node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
-  title: Office of Naval Intelligence
-  node_type: organisation
-  slug: office-of-naval-intelligence
-  shared_claims: 1
-- node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
-  title: Reverse engineering of recovered craft of non-human origin
-  node_type: topic
-  slug: reverse-engineering-of-recovered-craft-of-non-human-origin
-  shared_claims: 1
-- node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-  title: UAP Gerb
-  node_type: person
-  slug: uap-gerb
-  shared_claims: 1
-claims:
-- claim_id: b2f8e5a8-6fa3-4545-b809-778f6ed2e0d5
-  claim_hash: 230c0bf6c10edf8210d3aaa6232c2a1a76a98b093c82678ed5bb322bbc6f2dc2
-  content: UAP Gerb has led multiple letters to various Federally Funded Research
-    and Development Centers (FFRDCs).
-  original_excerpt: And Congressman, you have led multiple letters to various FFRDCs.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: UAP Gerb
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 67b73a04-8bdf-43f7-8853-c21492336ef9
-    title: Federally Funded Research and Development Center (FFRDC)
-    slug: federally-funded-research-and-development-center-ffrdc
-  - node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-    title: UAP Gerb
-    slug: uap-gerb
-  date: null
-  date_end: null
-  location_in_record: 00:06:36.8-00:06:40.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: 6377a784-2ba3-433c-b48c-dba9cb1b2fd9
-  claim_hash: e48c69fd5dd25b3f163e951c5b4b14ff4d7f64aa45fea5b6429c22c4297fc17c
-  content: Hal Puthoff and Avi Loeb did not personally involve themselves with Federally
-    Funded Research and Development Centers (FFRDC) in pursuing the legacy program.
-  original_excerpt: Well, in our case, we didn't involve ourselves with the FFRDCs,
-    which is what these organizations are. So I just never ran across that issue.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-    title: Harold E. Puthoff
-  provenance_chain:
-    origin_kind: speaker
-    origin: Hal Puthoff
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 67b73a04-8bdf-43f7-8853-c21492336ef9
-    title: Federally Funded Research and Development Center (FFRDC)
-    slug: federally-funded-research-and-development-center-ffrdc
-  date: null
-  date_end: null
-  location_in_record: 00:55:57.7-00:56:07.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
-    record_title: 'Episode 73: Science vs. Secrecy'
-    record_date: '2026-06-30'
-    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
-    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
-    friendly_name: null
-- claim_id: 63a078d6-f871-4426-b241-45238c93ff2e
-  claim_hash: c246d15777fa0ce5a67f7c8f72c4e8bd70925a2db4a7ec99df0ad2e179c3b1f9
-  content: The Central Intelligence Agency, the Office of Naval Intelligence and a
-    number of federally funded research and development centers have been involved
-    in the analysis of recovered Unidentified Aerial Phenomena material over the decades.
-  original_excerpt: the CIA, Office of Naval Intelligence, the something called federally
-    funded research and development centers, a lot of them were involved in the analysis
-    over the decades.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-    title: David Charles Grusch
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Grusch
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
+    node_type: organisation
     slug: central-intelligence-agency-cia
-  - node_id: 67b73a04-8bdf-43f7-8853-c21492336ef9
-    title: Federally Funded Research and Development Center (FFRDC)
-    slug: federally-funded-research-and-development-center-ffrdc
-  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
-    title: Reverse engineering of recovered craft of non-human origin
-    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+    shared_claims: 1
   - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
     title: Office of Naval Intelligence
+    node_type: organisation
     slug: office-of-naval-intelligence
-  date: null
-  date_end: null
-  location_in_record: 00:06:53.9-00:07:02.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
-    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-    record_date: '2026-08-13'
-    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
-    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
-    friendly_name: null
+    shared_claims: 1
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    node_type: topic
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+    shared_claims: 1
+  - node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+    title: UAP Gerb
+    node_type: person
+    slug: uap-gerb
+    shared_claims: 1
+claims:
+  - claim_id: b2f8e5a8-6fa3-4545-b809-778f6ed2e0d5
+    claim_hash: 230c0bf6c10edf8210d3aaa6232c2a1a76a98b093c82678ed5bb322bbc6f2dc2
+    content: UAP Gerb has led multiple letters to various Federally Funded Research and Development Centers (FFRDCs).
+    original_excerpt: And Congressman, you have led multiple letters to various FFRDCs.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 67b73a04-8bdf-43f7-8853-c21492336ef9
+        title: Federally Funded Research and Development Center (FFRDC)
+        slug: federally-funded-research-and-development-center-ffrdc
+      - node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+        title: UAP Gerb
+        slug: uap-gerb
+    date: null
+    date_end: null
+    location_in_record: 00:06:36.8-00:06:40.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 6377a784-2ba3-433c-b48c-dba9cb1b2fd9
+    claim_hash: e48c69fd5dd25b3f163e951c5b4b14ff4d7f64aa45fea5b6429c22c4297fc17c
+    content: Hal Puthoff and Avi Loeb did not personally involve themselves with Federally Funded Research and Development
+      Centers (FFRDC) in pursuing the legacy program.
+    original_excerpt: Well, in our case, we didn't involve ourselves with the FFRDCs, which is what these organizations are.
+      So I just never ran across that issue.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+      title: Harold E. Puthoff
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hal Puthoff
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 67b73a04-8bdf-43f7-8853-c21492336ef9
+        title: Federally Funded Research and Development Center (FFRDC)
+        slug: federally-funded-research-and-development-center-ffrdc
+    date: null
+    date_end: null
+    location_in_record: 00:55:57.7-00:56:07.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 63a078d6-f871-4426-b241-45238c93ff2e
+    claim_hash: c246d15777fa0ce5a67f7c8f72c4e8bd70925a2db4a7ec99df0ad2e179c3b1f9
+    content: The Central Intelligence Agency, the Office of Naval Intelligence and a number of federally funded research and
+      development centers have been involved in the analysis of recovered Unidentified Aerial Phenomena material over the
+      decades.
+    original_excerpt: the CIA, Office of Naval Intelligence, the something called federally funded research and development
+      centers, a lot of them were involved in the analysis over the decades.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 67b73a04-8bdf-43f7-8853-c21492336ef9
+        title: Federally Funded Research and Development Center (FFRDC)
+        slug: federally-funded-research-and-development-center-ffrdc
+      - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+        title: Reverse engineering of recovered craft of non-human origin
+        slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+    date: null
+    date_end: null
+    location_in_record: 00:06:53.9-00:07:02.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null

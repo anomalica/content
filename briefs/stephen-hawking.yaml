@@ -1,0 +1,169 @@
+schema: anomalica/brief/1
+brief_hash: 106020dbf66969114f069e1ce8243d2392f856e35efa9bd1f55a78a655cdf256
+page:
+  kind: entity
+  node_id: 514c9a2e-3e4e-40f2-8832-2709aa98c567
+  node_type: person
+  title: Stephen Hawking
+  slug: stephen-hawking
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 899
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
+related_nodes:
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    node_type: person
+    slug: diana-walsh-pasulka
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+    title: alien implant
+    node_type: topic
+    slug: alien-implant
+    shared_claims: 1
+  - node_id: 493c699b-1ccf-4d67-bed7-26928fb6fb71
+    title: wormhole theory
+    node_type: topic
+    slug: wormhole-theory
+    shared_claims: 1
+claims:
+  - claim_id: b04b1334-a0bf-4cbf-972d-9e6c1af8ced2
+    claim_hash: 5a11f2e268d96e7139acbb588c70eeacac4ce2f9b9aa247b41d3cf255c83f7a0
+    content: D. W. Pasulka considers that belief in UFOs is not associated with those on the fringe, contrary to the common
+      perception implied by Stephen Hawking's remarks.
+    original_excerpt: The lie has been that belief in UFOs is associated with those on the “fringe”—“cranks and weirdos,”
+      in Hawking’s words. The truth is just the opposite.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 514c9a2e-3e4e-40f2-8832-2709aa98c567
+        title: Stephen Hawking
+        slug: stephen-hawking
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: char:13055-13197
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 12afda39-f37e-49a9-9345-d537d85d6496
+    claim_hash: c69756b763bf0334e972b661103d8c794a928a4196e3cb31f3fbe308bed8ac50
+    content: Stephen Hawking argued that the negative energy needed to keep a wormhole open can never also be strong enough
+      to stabilise it.
+    original_excerpt: as pointed out by Stephen Hawking, who argued that the negative energy needed to keep a wormhole open
+      can never also be strong enough to stabilize it
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 514c9a2e-3e4e-40f2-8832-2709aa98c567
+      title: Stephen Hawking
+    provenance_chain:
+      origin_kind: named
+      origin: Stephen Hawking
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 493c699b-1ccf-4d67-bed7-26928fb6fb71
+        title: wormhole theory
+        slug: wormhole-theory
+      - node_id: 514c9a2e-3e4e-40f2-8832-2709aa98c567
+        title: Stephen Hawking
+        slug: stephen-hawking
+    date: null
+    date_end: null
+    location_in_record: ch21:14074-14221
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 7321bc26-aac6-4cf5-be4b-29a5e5654093
+    claim_hash: 5ba3a5391286753ac53dde8d1b3e22c13de6ea2a82977bfc7ecfce40bbb37c37
+    content: Whitley Strieber finds it one of his great frustrations that he, a horror novelist rather than an eminent scientist,
+      received an implant while the best minds did not.
+    original_excerpt: one of the great frustrations is Why just me? Why some horror novelist who's smart enough, but I'm not
+      Stephen Hawking or any of those guys? Why don't they get them? Why don't our best minds get them, not just me?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 514c9a2e-3e4e-40f2-8832-2709aa98c567
+        title: Stephen Hawking
+        slug: stephen-hawking
+      - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+        title: alien implant
+        slug: alien-implant
+    date: null
+    date_end: null
+    location_in_record: 02:17:43.4-02:18:04.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

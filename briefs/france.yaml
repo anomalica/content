@@ -9,1286 +9,1292 @@ page:
   claim_count: 30
   claim_count_total: 30
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 30
+  tokens_estimated: 9259
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 30
 related_nodes:
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 9
-- node_id: ce1a9fb2-9209-41b7-8274-f86d84dfd198
-  title: COMETA Report
-  node_type: document
-  slug: cometa-report
-  shared_claims: 4
-- node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
-  title: Germany
-  node_type: place
-  slug: germany
-  shared_claims: 4
-- node_id: db1308aa-6589-47e7-a7d9-a8f32e30d850
-  title: Great Britain
-  node_type: place
-  slug: great-britain
-  shared_claims: 4
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 3
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 3
-- node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-  title: World War II
-  node_type: event
-  slug: world-war-ii
-  shared_claims: 3
-- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-  title: United States Air Force (USAF)
-  node_type: organisation
-  slug: united-states-air-force-usaf
-  shared_claims: 2
-- node_id: e95835fe-733e-4777-bb60-740d9727e2c8
-  title: Adolf Hitler
-  node_type: person
-  slug: adolf-hitler
-  shared_claims: 1
-- node_id: 9226fab8-c0ef-4729-a71f-7dbf03ad72d3
-  title: Britain and France declaration of war on Germany (1939-09-03)
-  node_type: event
-  slug: britain-and-france-declaration-of-war-on-germany-1939-09-03
-  shared_claims: 1
-- node_id: 6c262c92-9da2-45a2-abbb-81e95cdd400c
-  title: Catholic Church
-  node_type: organisation
-  slug: catholic-church
-  shared_claims: 1
-- node_id: a4ca0a58-7fc0-4960-976d-8cf49e85143e
-  title: Condon Committee (University of Colorado Unidentified Flying Object (UFO)
-    study)
-  node_type: project
-  slug: condon-committee-university-of-colorado-unidentified-flying-object-ufo-study
-  shared_claims: 1
-- node_id: b6a617c4-6c4a-4c14-9c48-1a81013dca14
-  title: Dr. X (French physician, Unidentified Flying Object (UFO) witness)
-  node_type: person
-  slug: unidentified-flying-object-ufo-witness-dr-x-french-physician
-  shared_claims: 1
-- node_id: dc484071-faa6-4247-bc85-f8ee81ec5402
-  title: Evans-Wentz
-  node_type: person
-  slug: evans-wentz
-  shared_claims: 1
-- node_id: 7af2cf9f-a4c2-4fe4-852a-37c5b12a69a1
-  title: French Institute of Higher Studies for National Defense
-  node_type: organisation
-  slug: french-institute-of-higher-studies-for-national-defense
-  shared_claims: 1
-- node_id: 4f682bad-24d5-4823-b631-7c02515d787e
-  title: French Space Agency
-  node_type: organisation
-  slug: french-space-agency
-  shared_claims: 1
-- node_id: db4ee061-d2fc-4976-870c-aff3227af926
-  title: George Draper
-  node_type: person
-  slug: george-draper
-  shared_claims: 1
-- node_id: 386e35b0-e22f-40de-823d-5dcdd54474f7
-  title: Germany, East Germany
-  node_type: place
-  slug: east-germany-germany
-  shared_claims: 1
-- node_id: 5230531e-701a-4bd3-a2d6-bbd59fd2233c
-  title: Ireland, County Wicklow
-  node_type: place
-  slug: county-wicklow-ireland
-  shared_claims: 1
-- node_id: ced4f8ef-2b14-4fa5-b548-6ffbaa5cff3b
-  title: Italy, Campagna
-  node_type: place
-  slug: campagna-italy
-  shared_claims: 1
-- node_id: a4382072-aedb-441f-90ba-9aa7b3ce81cc
-  title: Janine Vallée
-  node_type: person
-  slug: janine-vallee
-  shared_claims: 1
-- node_id: 736bc2ff-468f-4858-843b-02f87430ab25
-  title: Marcel Clément
-  node_type: person
-  slug: marcel-clement
-  shared_claims: 1
-- node_id: 86777be8-e26f-4c0d-ad16-90f2e4be4927
-  title: Mehmet Ali Ağca
-  node_type: person
-  slug: mehmet-ali-agca
-  shared_claims: 1
-- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-  title: Project Blue Book
-  node_type: project
-  slug: project-blue-book
-  shared_claims: 1
-- node_id: 932b58ba-9729-4c23-9744-0859c325b1e8
-  title: Ted Phillips
-  node_type: person
-  slug: ted-phillips
-  shared_claims: 1
-- node_id: 4c8a2a8d-4542-4b8d-bf52-a8ebcade3342
-  title: UMMO organization
-  node_type: organisation
-  slug: ummo-organization
-  shared_claims: 1
-- node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-  title: the Invisible College
-  node_type: topic
-  slug: the-invisible-college
-  shared_claims: 1
-claims:
-- claim_id: cb006f68-f2cb-45d0-8457-c6099d512b12
-  claim_hash: 81c6fcd58de7e6a5c213b5ae85d20ab31d39634715b252d5f3581842f7ccb01e
-  content: On 1939-09-02, Great Britain and France sent Hitler an ultimatum demanding
-    the end of all military action by 1939-09-03.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  - node_id: db1308aa-6589-47e7-a7d9-a8f32e30d850
-    title: Great Britain
-    slug: great-britain
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 9
+  - node_id: ce1a9fb2-9209-41b7-8274-f86d84dfd198
+    title: COMETA Report
+    node_type: document
+    slug: cometa-report
+    shared_claims: 4
+  - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
+    title: Germany
+    node_type: place
+    slug: germany
+    shared_claims: 4
+  - node_id: e2e54c56-bb2e-404b-acde-395745fc950c
+    title: UK
+    node_type: place
+    slug: uk
+    shared_claims: 4
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 3
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 3
+  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+    title: World War II
+    node_type: event
+    slug: world-war-ii
+    shared_claims: 3
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 2
   - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
     title: Adolf Hitler
+    node_type: person
     slug: adolf-hitler
-  date: '1939-09-02'
-  date_end: null
-  location_in_record: ch15:6117-6237
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 12ff0950-e2f8-416d-a5f7-0f5e2e5aef08
-  claim_hash: c01be8c0f82310bf7197ce3a4f9a147b58e602984699d511b625eddfa44dc39f
-  content: When Hitler ignored the ultimatum, Great Britain and France declared war
-    on Germany, officially beginning the Second World War.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
-    title: Germany
-    slug: germany
+    shared_claims: 1
   - node_id: 9226fab8-c0ef-4729-a71f-7dbf03ad72d3
     title: Britain and France declaration of war on Germany (1939-09-03)
+    node_type: event
     slug: britain-and-france-declaration-of-war-on-germany-1939-09-03
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  - node_id: db1308aa-6589-47e7-a7d9-a8f32e30d850
-    title: Great Britain
-    slug: great-britain
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: '1939-09-03'
-  date_end: null
-  location_in_record: ch15:6243-6348
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: ad6ba6be-e39f-4b73-bc1a-920dc8941a8b
-  claim_hash: c1e552844ada662487f39ebc87a6366462856a5b51695091475ccc4a43ca926d
-  content: Marcel Clément is a French professor of philosophy.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 736bc2ff-468f-4858-843b-02f87430ab25
-    title: Marcel Clément
-    slug: marcel-clement
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  date: null
-  date_end: null
-  location_in_record: ch19:21326-21381
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 223f8fb7-4c1e-4bea-8e18-8ddf464fe4d6
-  claim_hash: 93f4b048ba8c0a98411244fe1d8c69a08be1847ff925bef0085df14fa41d3315
-  content: Police traced Mehmet Ali Ağca's travels through Germany, East Germany,
-    Hungary, Bulgaria, France, Spain, Switzerland, and finally Italy before the assassination
-    attempt on John Paul II.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
-    title: Germany
-    slug: germany
-  - node_id: 386e35b0-e22f-40de-823d-5dcdd54474f7
-    title: Germany, East Germany
-    slug: east-germany-germany
-  - node_id: 86777be8-e26f-4c0d-ad16-90f2e4be4927
-    title: Mehmet Ali Ağca
-    slug: mehmet-ali-agca
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  date: null
-  date_end: null
-  location_in_record: ch19:4503-4606
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 98a67d15-1f49-4a99-ab63-50eb78109af1
-  claim_hash: dac8926b962f2622b1f03f25cd4e2c87fc06ee077664df81b9818930ac227d42
-  content: At the outbreak of World War I, Germany marched against France, causing
-    Britain to declare war on the German Reich.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
-    title: Germany
-    slug: germany
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  - node_id: db1308aa-6589-47e7-a7d9-a8f32e30d850
-    title: Great Britain
-    slug: great-britain
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: ch8:7148-7237
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 5717d87b-f70e-42fc-be02-9f9b9086284e
-  claim_hash: 87af12e59e3cab09ee2de2a68da8e4a46d2597186c4d66de9491605108d91aab
-  content: The allied troops of France and England stopped the German advance after
-    four weeks in World War I, but over 600,000 German and French soldiers had lost
-    their lives by that point.
-  original_excerpt: null
-  claim_type: measurement
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
-    title: Germany
-    slug: germany
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  - node_id: db1308aa-6589-47e7-a7d9-a8f32e30d850
-    title: Great Britain
-    slug: great-britain
-  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
-    title: World War II
-    slug: world-war-ii
-  date: null
-  date_end: null
-  location_in_record: ch8:7244-7421
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 9afa7506-013b-4e78-8dd4-e16e73c1c405
-  claim_hash: 43cd6d17705e8db54877cf4c68d21a4267c00ccefb1f3a413585390743cd7341
-  content: This 1966 rumour about the Air Force seeking a negative report was taken
-    seriously enough in Paris to prevent the creation of a French investigation committee
-    similar to the American one.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  date: '1966'
-  date_end: null
-  location_in_record: ch10:19357-19486
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
-  claim_hash: 5bfd3eb1c8a5aab37c207580ccc6695bc84814db033ca448e184f9684d819ca4
-  content: Janine Vallee and Jacques Vallee investigated the Carteret UFO sighting
-    during a research trip through the west of France in December 1973.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallee
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: a4382072-aedb-441f-90ba-9aa7b3ce81cc
-    title: Janine Vallée
-    slug: janine-vallee
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: 1973-12
-  date_end: null
-  location_in_record: ch10:23873-23976
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 357a20c8-a8dd-4961-b766-a811dd5102c3
-  claim_hash: bcfb567705fcd210a728f42a4f3606687256ea04b2b59fa02bd90ea25ebdbea6
-  content: Late in 1964, friends of Jacques Vallee in Paris sent him data indicating
-    that someone was trying to spread UFO-related rumours through the French news
-    media, a practice referred to in French as 'intoxication'.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: anonymous
-    origin: several friends of Jacques Vallee in Paris
-    relay:
-    - friends in Paris
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  date: '1964'
-  date_end: null
-  location_in_record: ch10:3507-3722
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: df2ccd7f-09d6-421e-af33-cac309ed9c51
-  claim_hash: 1b7eed32d833bc884d82afda8d8a655f2332de4ab9224ad635723688e7eb51c2
-  content: In 1964, Jacques Vallee established that UFO landings tended to occur in
-    desolate places, a fact first apparent in the computer analysis of French cases.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallee
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  date: '1964'
-  date_end: null
-  location_in_record: ch10:6990-7132
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 4ecf3920-55bf-4e91-bcba-190f2c727bfc
-  claim_hash: 66caa9849ab1d1b714fd6b7a1f2e53f4f4b54b7add312a00eb769684d4f496db
-  content: Catholic priests at the end of the nineteenth century discouraged many
-    French families from experimenting with tables that tipped and tapped uncanny
-    messages from Beyond.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
   - node_id: 6c262c92-9da2-45a2-abbb-81e95cdd400c
     title: Catholic Church
+    node_type: organisation
     slug: catholic-church
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  date: null
-  date_end: null
-  location_in_record: ch11:37792-37955
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 1fd62255-1043-4ad5-a471-6aa0f6cb9b40
-  claim_hash: a1d46f11f57d564a7b46fc6361d9e9de32f86659e93650e6011d65c420c481a6
-  content: When the United States Air Force released the negative conclusions of the
-    Condon Committee study on UFOs, French scientists and military personnel who had
-    quietly accumulated their own UFO data were not convinced, as some of them knew
-    the real situation from files not available to most scientists.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
+    shared_claims: 1
   - node_id: a4ca0a58-7fc0-4960-976d-8cf49e85143e
-    title: Condon Committee (University of Colorado Unidentified Flying Object (UFO)
-      study)
-    slug: condon-committee-university-of-colorado-unidentified-flying-object-ufo-study
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  date: null
-  date_end: null
-  location_in_record: ch12:22879-23342
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 5fe3f2ad-6eeb-47d9-bcdd-bb009bab67ec
-  claim_hash: cba4bc28a558a5228faf25d121378f492fe0ce061aa46f13bff3fb4ad52de83a
-  content: Some French military and technical experts researching UFOs had joined
-    UFO research groups in Paris, while others in high official positions in the French
-    Space Agency were working alone and secretly on the subject.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4f682bad-24d5-4823-b631-7c02515d787e
-    title: French Space Agency
-    slug: french-space-agency
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  date: null
-  date_end: null
-  location_in_record: ch12:23347-23484
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 0659468a-0a26-4ed3-b30a-4c5aeb975de3
-  claim_hash: bc9da7e9ad6deac1ff4aae3071b5504ccda81775a7f87bfc5507f5d992302a4a
-  content: French scientists interested in UFOs heard of the UMMO documents through
-    private channels, obtained copies, and had them translated with great care, being
-    intrigued by the documents' 'rational' approach to the problem of cosmic contact.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 4c8a2a8d-4542-4b8d-bf52-a8ebcade3342
-    title: UMMO organization
-    slug: ummo-organization
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  date: null
-  date_end: null
-  location_in_record: ch12:23495-23739
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 17287e3f-086c-4b78-aa6c-197fde713141
-  claim_hash: a0607fd4ec89e4e70b683a84e50c1613bf74451e08b06ade2ea2e385768df955
-  content: Evans-Wentz identified one such guarded place in France, one in County
-    Wicklow, Ireland, one in Campagna, Italy, and others in Asia and America.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: dc484071-faa6-4247-bc85-f8ee81ec5402
-    title: Evans-Wentz
-  provenance_chain:
-    origin_kind: named
-    origin: Evans-Wentz
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5230531e-701a-4bd3-a2d6-bbd59fd2233c
-    title: Ireland, County Wicklow
-    slug: county-wicklow-ireland
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  - node_id: ced4f8ef-2b14-4fa5-b548-6ffbaa5cff3b
-    title: Italy, Campagna
-    slug: campagna-italy
+    title: Condon Committee (University of Colorado UFO study)
+    node_type: project
+    slug: condon-committee-university-of-colorado-ufo-study
+    shared_claims: 1
+  - node_id: b6a617c4-6c4a-4c14-9c48-1a81013dca14
+    title: Dr. X (French physician, UFO witness)
+    node_type: person
+    slug: ufo-witness-dr-x-french-physician
+    shared_claims: 1
   - node_id: dc484071-faa6-4247-bc85-f8ee81ec5402
     title: Evans-Wentz
+    node_type: person
     slug: evans-wentz
-  date: null
-  date_end: null
-  location_in_record: ch15:46070-46190
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 41227c73-ff0a-4c7a-846d-155af1a59b63
-  claim_hash: c7a5eba23f7e446918fb3669df937e6a757aa336d25e5a6d8ccee425a53b1538
-  content: In France, several farmers saw their fields nearly ruined in connection
-    with UFO phenomena.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallee
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  date: null
-  date_end: null
-  location_in_record: ch15:58922-58973
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: aa346404-38d9-4c8e-895a-dd0618057666
-  claim_hash: 3dcec34243cde3346b1958785363cfa116d87fc285715262374556e2b1d3f79a
-  content: With help from several members of the Invisible College and other friends
-    in Europe, Jacques Vallee had a chance to examine many documents relating to UFO
-    investigations.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallee
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-    title: the Invisible College
-    slug: the-invisible-college
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  date: null
-  date_end: null
-  location_in_record: ch18:4495-4670
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: e515c217-e772-41af-a087-618c730738ad
-  claim_hash: 99610093335e59aeb1b21eb1940a69063131456455009e23426257c19f72d653
-  content: The Project Blue Book files at Northwestern University were augmented by
-    collections of UFO sighting data that Jacques Vallee brought from Europe when
-    he emigrated from France in 1962.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallee
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-    title: Project Blue Book
-    slug: project-blue-book
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  date: '1962'
-  date_end: null
-  location_in_record: ch7:1102-1216
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 62d509fc-ded2-43b8-8942-664a878daa1b
-  claim_hash: aee97fadfddf77e4f62c1fc1ca3e27d898245170b67a3580fa0f12d1891ff9d4
-  content: French scientists reacted to the seemingly manoeuvrable and 'impossible'
-    objects tracked by Jacques Vallee and colleagues by seeking to suppress their
-    manifestation rather than investigating whether they represented advanced technology.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallee
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  date: null
-  date_end: null
-  location_in_record: ch8:6061-6283
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 835516c4-43fe-4a9f-a923-cdcf1c2cd841
-  claim_hash: c7a4c31bebf41a6b95031a1cd4ae6eeb3a5bb12889bed1ce5f329b15c4b2c846
-  content: French scientists suppressed observations of unexplained aerial objects
-    by denying every observation, by blaming sightings on airplanes even when documentation
-    was unassailable, and by destroying the data when it was shown that no airplane
-    could have behaved as the objects did.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallee
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  date: null
-  date_end: null
-  location_in_record: ch8:6298-6521
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 4a7d212a-5521-48d5-be96-a5f6102d78cd
-  claim_hash: 1151708f0f3cd89d0c63c059d8ca57d712e4b47f33591822e408b6810aaf1602
-  content: The Case of Dr. X involved a medical doctor holding an important official
-    position in southern France who was one of the most thoroughly investigated accounts
-    of interaction between human percipients and the UFO phenomenon.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  - node_id: b6a617c4-6c4a-4c14-9c48-1a81013dca14
-    title: Dr. X (French physician, Unidentified Flying Object (UFO) witness)
-    slug: unidentified-flying-object-ufo-witness-dr-x-french-physician
-  date: null
-  date_end: null
-  location_in_record: ch9:12514-12752
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: e891e41e-6aea-4e8c-a711-e107a8e6e17a
-  claim_hash: 8ef722d0ac6ea36cb92b8f41e17d0a09e1bc0a35d48b9d3f7e036545fe90fd42
-  content: In a 1954 case in the French countryside, a man returning from the fields
-    with his horse had to let go of the bridle as the animal was lifted several metres
-    into the air while a dark circular object flew fast over the trail they were following.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: an unnamed man in the French countryside
-    relay:
-    - Jacques Vallee
-  attribution_mode: unknown
-  node_refs:
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  date: '1954'
-  date_end: null
-  location_in_record: ch9:19463-19729
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 5dec1bf4-f045-40d1-b61a-e2e7816f5dfa
-  claim_hash: 1937b05fc3931eef3d412940b3f4f68bbd725d2fe3606cb2a2596f615e1f7674
-  content: In a 1954 case in France, a UFO occupant asked a witness what time it was,
-    and when told 2:30, replied that the witness was lying and that it was 4 o'clock.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: a 1954 French UFO contact witness
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  date: '1954'
-  date_end: null
-  location_in_record: ch9:22014-22193
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 24fe8472-3946-4f87-9efe-93be1c6383e6
-  claim_hash: 785f582bf405fa460c244e584e92ce8c7b1e5c7a061223fa5790baefcba0ca99
-  content: Jacques Vallee obtained a sample of the white substance from Ted Phillips
-    from the Delphos, Kansas UFO landing site and forwarded it to a biological laboratory
-    in France for microscopic examination.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallee
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 932b58ba-9729-4c23-9744-0859c325b1e8
-    title: Ted Phillips
-    slug: ted-phillips
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: ch9:41503-41769
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 616e8fd2-760f-47c9-84cb-64e5fa4bd871
-  claim_hash: 1e9dae85805877ce4fdde5d6558f03168b428e8a588dd1368b9d25a88ee79835
-  content: An anonymous French biologist who wished not to be named identified the
-    organism in the Delphos, Kansas ring's white substance as belonging to the family
-    Actinomycetaceae and the genus Nocardia.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to be a French biologist who examined the Delphos ring
-      sample
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: ch9:42190-42368
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
-- claim_id: 17dd33fd-3239-47dc-b657-6412dcef7671
-  claim_hash: 626ff4c1ccd679dda0ecde6f5a6783bd22018be805aaabc02c03312109c3c49c
-  content: According to official documents, George Draper died in France on 1916-07-16.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: official documents recording George Draper's death
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  - node_id: db4ee061-d2fc-4976-870c-aff3227af926
-    title: George Draper
-    slug: george-draper
-  date: '1916-07-16'
-  date_end: null
-  location_in_record: ch27:1668-1731
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 74a89855-207d-47dd-bbd0-7f25b6f72468
-  claim_hash: e236e92abb2015b74a38ff6dcee04b8b23bf13082ded9473e9f13c84b071ffc1
-  content: Some of the military officers on the COMETA panel were serving with the
-    French Institute of Higher Studies for National Defense, a government-financed
-    strategic planning agency.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: COMETA Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
   - node_id: 7af2cf9f-a4c2-4fe4-852a-37c5b12a69a1
     title: French Institute of Higher Studies for National Defense
+    node_type: organisation
     slug: french-institute-of-higher-studies-for-national-defense
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  - node_id: ce1a9fb2-9209-41b7-8274-f86d84dfd198
-    title: COMETA Report
-    slug: cometa-report
-  date: null
-  date_end: null
-  location_in_record: ch44:1399-1575
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: a50588e9-a273-4029-b454-a15e913749cf
-  claim_hash: 15a2b989ad53c8a142ccc37c1c13cb95a197cd5568b7bdb607a4638346ed6a1b
-  content: The COMETA Report was not a government-sanctioned study but was undertaken
-    independently and then presented to the highest levels of government in France.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: COMETA Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  - node_id: ce1a9fb2-9209-41b7-8274-f86d84dfd198
-    title: COMETA Report
-    slug: cometa-report
-  date: null
-  date_end: null
-  location_in_record: ch44:3660-3799
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 7f592be4-1f00-43d2-aad7-e259fc22c489
-  claim_hash: 72146102e23aac67f4f3d6f2b882989dc4de6aa23bc2d494e0eba2ff797592f4
-  content: The COMETA Report's authors recommended that France establish sectorial
-    cooperation agreements with interested European and foreign countries on the matter
-    of UFOs.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: COMETA Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  - node_id: ce1a9fb2-9209-41b7-8274-f86d84dfd198
-    title: COMETA Report
-    slug: cometa-report
-  date: null
-  date_end: null
-  location_in_record: ch44:5794-5939
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
-- claim_id: 888148f3-471b-4d4d-9199-28bdd5eda954
-  claim_hash: 5c6164e89aca520fcb83b8d6b831983d6f9f3fd33de07aa12f97c828684ca558
-  content: The COMETA Report's authors were thirteen retired generals, scientists,
-    and space experts working independently of the French government.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: COMETA Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
-    title: France
-    slug: france
-  - node_id: ce1a9fb2-9209-41b7-8274-f86d84dfd198
-    title: COMETA Report
-    slug: cometa-report
-  date: null
-  date_end: null
-  location_in_record: ch44:722-926
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-  excerpt_withheld: licensed
+    shared_claims: 1
+  - node_id: 4f682bad-24d5-4823-b631-7c02515d787e
+    title: French Space Agency
+    node_type: organisation
+    slug: french-space-agency
+    shared_claims: 1
+  - node_id: db4ee061-d2fc-4976-870c-aff3227af926
+    title: George Draper
+    node_type: person
+    slug: george-draper
+    shared_claims: 1
+  - node_id: 386e35b0-e22f-40de-823d-5dcdd54474f7
+    title: Germany, East Germany
+    node_type: place
+    slug: east-germany-germany
+    shared_claims: 1
+  - node_id: 5230531e-701a-4bd3-a2d6-bbd59fd2233c
+    title: Ireland, County Wicklow
+    node_type: place
+    slug: county-wicklow-ireland
+    shared_claims: 1
+  - node_id: ced4f8ef-2b14-4fa5-b548-6ffbaa5cff3b
+    title: Italy, Campagna
+    node_type: place
+    slug: campagna-italy
+    shared_claims: 1
+  - node_id: a4382072-aedb-441f-90ba-9aa7b3ce81cc
+    title: Janine Vallée
+    node_type: person
+    slug: janine-vallee
+    shared_claims: 1
+  - node_id: 736bc2ff-468f-4858-843b-02f87430ab25
+    title: Marcel Clément
+    node_type: person
+    slug: marcel-clement
+    shared_claims: 1
+  - node_id: 86777be8-e26f-4c0d-ad16-90f2e4be4927
+    title: Mehmet Ali Ağca
+    node_type: person
+    slug: mehmet-ali-agca
+    shared_claims: 1
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    node_type: project
+    slug: project-blue-book
+    shared_claims: 1
+  - node_id: 932b58ba-9729-4c23-9744-0859c325b1e8
+    title: Ted Phillips
+    node_type: person
+    slug: ted-phillips
+    shared_claims: 1
+  - node_id: 4c8a2a8d-4542-4b8d-bf52-a8ebcade3342
+    title: UMMO organization
+    node_type: organisation
+    slug: ummo-organization
+    shared_claims: 1
+  - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
+    title: the Invisible College
+    node_type: topic
+    slug: the-invisible-college
+    shared_claims: 1
+claims:
+  - claim_id: cb006f68-f2cb-45d0-8457-c6099d512b12
+    claim_hash: 81c6fcd58de7e6a5c213b5ae85d20ab31d39634715b252d5f3581842f7ccb01e
+    content: On 1939-09-02, Great Britain and France sent Hitler an ultimatum demanding the end of all military action by
+      1939-09-03.
+    original_excerpt: On September 2, Great Britain and France sent him an ultimatum demanding the end of all military action
+      by September 3, 1939.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: e2e54c56-bb2e-404b-acde-395745fc950c
+        title: UK
+        slug: uk
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: '1939-09-02'
+    date_end: null
+    location_in_record: ch15:6117-6237
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 12ff0950-e2f8-416d-a5f7-0f5e2e5aef08
+    claim_hash: c01be8c0f82310bf7197ce3a4f9a147b58e602984699d511b625eddfa44dc39f
+    content: When Hitler ignored the ultimatum, Great Britain and France declared war on Germany, officially beginning the
+      Second World War.
+    original_excerpt: When it was ignored, both nations declared war on Germany. With this the Second World War had officially
+      begun.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
+        title: Germany
+        slug: germany
+      - node_id: 9226fab8-c0ef-4729-a71f-7dbf03ad72d3
+        title: Britain and France declaration of war on Germany (1939-09-03)
+        slug: britain-and-france-declaration-of-war-on-germany-1939-09-03
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: e2e54c56-bb2e-404b-acde-395745fc950c
+        title: UK
+        slug: uk
+    date: '1939-09-03'
+    date_end: null
+    location_in_record: ch15:6243-6348
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: ad6ba6be-e39f-4b73-bc1a-920dc8941a8b
+    claim_hash: c1e552844ada662487f39ebc87a6366462856a5b51695091475ccc4a43ca926d
+    content: Marcel Clément is a French professor of philosophy.
+    original_excerpt: commented the French professor of philosophy Marcel Clément
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 736bc2ff-468f-4858-843b-02f87430ab25
+        title: Marcel Clément
+        slug: marcel-clement
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+    date: null
+    date_end: null
+    location_in_record: ch19:21326-21381
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 223f8fb7-4c1e-4bea-8e18-8ddf464fe4d6
+    claim_hash: 93f4b048ba8c0a98411244fe1d8c69a08be1847ff925bef0085df14fa41d3315
+    content: Police traced Mehmet Ali Ağca's travels through Germany, East Germany, Hungary, Bulgaria, France, Spain, Switzerland,
+      and finally Italy before the assassination attempt on John Paul II.
+    original_excerpt: Police traced him to Germany, East Germany, Hungary, Bulgaria, France, Spain, Switzerland, and finally
+      Italy.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
+        title: Germany
+        slug: germany
+      - node_id: 386e35b0-e22f-40de-823d-5dcdd54474f7
+        title: Germany, East Germany
+        slug: east-germany-germany
+      - node_id: 86777be8-e26f-4c0d-ad16-90f2e4be4927
+        title: Mehmet Ali Ağca
+        slug: mehmet-ali-agca
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+    date: null
+    date_end: null
+    location_in_record: ch19:4503-4606
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 98a67d15-1f49-4a99-ab63-50eb78109af1
+    claim_hash: dac8926b962f2622b1f03f25cd4e2c87fc06ee077664df81b9818930ac227d42
+    content: At the outbreak of World War I, Germany marched against France, causing Britain to declare war on the German
+      Reich.
+    original_excerpt: Germany reacted by marching against France, causing Britain to declare war on the German Reich.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
+        title: Germany
+        slug: germany
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: e2e54c56-bb2e-404b-acde-395745fc950c
+        title: UK
+        slug: uk
+    date: null
+    date_end: null
+    location_in_record: ch8:7148-7237
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 5717d87b-f70e-42fc-be02-9f9b9086284e
+    claim_hash: 87af12e59e3cab09ee2de2a68da8e4a46d2597186c4d66de9491605108d91aab
+    content: The allied troops of France and England stopped the German advance after four weeks in World War I, but over
+      600,000 German and French soldiers had lost their lives by that point.
+    original_excerpt: The allied troops of France and England succeeded in stopping the German advance after four weeks, but
+      not until over six hundred thousand German and French soldiers lost their lives.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
+        title: Germany
+        slug: germany
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: e2e54c56-bb2e-404b-acde-395745fc950c
+        title: UK
+        slug: uk
+    date: null
+    date_end: null
+    location_in_record: ch8:7244-7421
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 9afa7506-013b-4e78-8dd4-e16e73c1c405
+    claim_hash: 43cd6d17705e8db54877cf4c68d21a4267c00ccefb1f3a413585390743cd7341
+    content: This 1966 rumour about the Air Force seeking a negative report was taken seriously enough in Paris to prevent
+      the creation of a French investigation committee similar to the American one.
+    original_excerpt: But this rumor was taken seriously enough in Paris to prevent the creation of an investigation committee
+      similar to the American one.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+    date: '1966'
+    date_end: null
+    location_in_record: ch10:19357-19486
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
+    claim_hash: 5bfd3eb1c8a5aab37c207580ccc6695bc84814db033ca448e184f9684d819ca4
+    content: Janine Vallee and Jacques Vallee investigated the Carteret UFO sighting during a research trip through the west
+      of France in December 1973.
+    original_excerpt: My wife and I investigated this sighting during a research trip through the west of France in December
+      1973.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: a4382072-aedb-441f-90ba-9aa7b3ce81cc
+        title: Janine Vallée
+        slug: janine-vallee
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: 1973-12
+    date_end: null
+    location_in_record: ch10:23873-23976
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 357a20c8-a8dd-4961-b766-a811dd5102c3
+    claim_hash: bcfb567705fcd210a728f42a4f3606687256ea04b2b59fa02bd90ea25ebdbea6
+    content: Late in 1964, friends of Jacques Vallee in Paris sent him data indicating that someone was trying to spread UFO-related
+      rumours through the French news media, a practice referred to in French as 'intoxication'.
+    original_excerpt: Late in 1964, several friends in Paris sent me interesting data. It seems that somebody there was trying
+      to spread UFO-related stories through the French news media (the French word for such spreading of rumors is "intoxication").
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: anonymous
+      origin: several friends of Jacques Vallee in Paris
+      relay:
+        - friends in Paris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+    date: '1964'
+    date_end: null
+    location_in_record: ch10:3507-3722
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: df2ccd7f-09d6-421e-af33-cac309ed9c51
+    claim_hash: 1b7eed32d833bc884d82afda8d8a655f2332de4ab9224ad635723688e7eb51c2
+    content: In 1964, Jacques Vallee established that UFO landings tended to occur in desolate places, a fact first apparent
+      in the computer analysis of French cases.
+    original_excerpt: In 1964 I had established that landings tended to occur in desolate places, a fact that was first apparent
+      in the computer analysis of French cases.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+    date: '1964'
+    date_end: null
+    location_in_record: ch10:6990-7132
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 4ecf3920-55bf-4e91-bcba-190f2c727bfc
+    claim_hash: 66caa9849ab1d1b714fd6b7a1f2e53f4f4b54b7add312a00eb769684d4f496db
+    content: Catholic priests at the end of the nineteenth century discouraged many French families from experimenting with
+      tables that tipped and tapped uncanny messages from Beyond.
+    original_excerpt: Catholic priests at the end of the nineteenth century discouraged many French families from experimenting
+      with tables that tipped and tapped uncanny messages from Beyond.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c262c92-9da2-45a2-abbb-81e95cdd400c
+        title: Catholic Church
+        slug: catholic-church
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+    date: null
+    date_end: null
+    location_in_record: ch11:37792-37955
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 1fd62255-1043-4ad5-a471-6aa0f6cb9b40
+    claim_hash: a1d46f11f57d564a7b46fc6361d9e9de32f86659e93650e6011d65c420c481a6
+    content: When the United States Air Force released the negative conclusions of the Condon Committee study on UFOs, French
+      scientists and military personnel who had quietly accumulated their own UFO data were not convinced, as some of them
+      knew the real situation from files not available to most scientists.
+    original_excerpt: When the United States Air Force released the negative conclusions of the Condon study on UFOs, these
+      conclusions were prominently displayed in the Paris press. The result, however, was not what the U.S. Air Force had
+      expected. The French had quietly accumulated their own data on the subject and, although these files were not available
+      to most scientists, there was no lack of military personnel and technical experts in France who knew what the real situation
+      was.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: a4ca0a58-7fc0-4960-976d-8cf49e85143e
+        title: Condon Committee (University of Colorado UFO study)
+        slug: condon-committee-university-of-colorado-ufo-study
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+    date: null
+    date_end: null
+    location_in_record: ch12:22879-23342
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 5fe3f2ad-6eeb-47d9-bcdd-bb009bab67ec
+    claim_hash: cba4bc28a558a5228faf25d121378f492fe0ce061aa46f13bff3fb4ad52de83a
+    content: Some French military and technical experts researching UFOs had joined UFO research groups in Paris, while others
+      in high official positions in the French Space Agency were working alone and secretly on the subject.
+    original_excerpt: Some of them had joined UFO research groups in Paris. Others, in high official positions in the French
+      Space Agency, were working alone, secretly.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4f682bad-24d5-4823-b631-7c02515d787e
+        title: French Space Agency
+        slug: french-space-agency
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+    date: null
+    date_end: null
+    location_in_record: ch12:23347-23484
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 0659468a-0a26-4ed3-b30a-4c5aeb975de3
+    claim_hash: bc9da7e9ad6deac1ff4aae3071b5504ccda81775a7f87bfc5507f5d992302a4a
+    content: French scientists interested in UFOs heard of the UMMO documents through private channels, obtained copies, and
+      had them translated with great care, being intrigued by the documents' 'rational' approach to the problem of cosmic
+      contact.
+    original_excerpt: Through various private channels these scientists heard of the UMMO documents, were provided with copies,
+      and had them translated with great care. They were intrigued by the “rational” approach to the problem of cosmic contact
+      evident in these documents.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4c8a2a8d-4542-4b8d-bf52-a8ebcade3342
+        title: UMMO organization
+        slug: ummo-organization
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+    date: null
+    date_end: null
+    location_in_record: ch12:23495-23739
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 17287e3f-086c-4b78-aa6c-197fde713141
+    claim_hash: a0607fd4ec89e4e70b683a84e50c1613bf74451e08b06ade2ea2e385768df955
+    content: Evans-Wentz identified one such guarded place in France, one in County Wicklow, Ireland, one in Campagna, Italy,
+      and others in Asia and America.
+    original_excerpt: He identifies one such spot in France, one in County Wicklow (Ireland), one in Campagna (Italy), and
+      others in Asia and America.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: dc484071-faa6-4247-bc85-f8ee81ec5402
+      title: Evans-Wentz
+    provenance_chain:
+      origin_kind: named
+      origin: Evans-Wentz
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5230531e-701a-4bd3-a2d6-bbd59fd2233c
+        title: Ireland, County Wicklow
+        slug: county-wicklow-ireland
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: ced4f8ef-2b14-4fa5-b548-6ffbaa5cff3b
+        title: Italy, Campagna
+        slug: campagna-italy
+      - node_id: dc484071-faa6-4247-bc85-f8ee81ec5402
+        title: Evans-Wentz
+        slug: evans-wentz
+    date: null
+    date_end: null
+    location_in_record: ch15:46070-46190
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 41227c73-ff0a-4c7a-846d-155af1a59b63
+    claim_hash: c7a5eba23f7e446918fb3669df937e6a757aa336d25e5a6d8ccee425a53b1538
+    content: In France, several farmers saw their fields nearly ruined in connection with UFO phenomena.
+    original_excerpt: In France, several farmers saw their fields nearly ruined.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+    date: null
+    date_end: null
+    location_in_record: ch15:58922-58973
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: aa346404-38d9-4c8e-895a-dd0618057666
+    claim_hash: 3dcec34243cde3346b1958785363cfa116d87fc285715262374556e2b1d3f79a
+    content: With help from several members of the Invisible College and other friends in Europe, Jacques Vallee had a chance
+      to examine many documents relating to UFO investigations.
+    original_excerpt: In recent years, thanks to several members of the Invisible College, and thanks to other friends in
+      Europe, I have had a chance to examine many documents like the ones I have quoted.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
+        title: the Invisible College
+        slug: the-invisible-college
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+    date: null
+    date_end: null
+    location_in_record: ch18:4495-4670
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: e515c217-e772-41af-a087-618c730738ad
+    claim_hash: 99610093335e59aeb1b21eb1940a69063131456455009e23426257c19f72d653
+    content: The Project Blue Book files at Northwestern University were augmented by collections of UFO sighting data that
+      Jacques Vallee brought from Europe when he emigrated from France in 1962.
+    original_excerpt: They were augmented by the collections of sighting data I had brought from Europe when I emigrated from
+      France in 1962.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+    date: '1962'
+    date_end: null
+    location_in_record: ch7:1102-1216
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 62d509fc-ded2-43b8-8942-664a878daa1b
+    claim_hash: aee97fadfddf77e4f62c1fc1ca3e27d898245170b67a3580fa0f12d1891ff9d4
+    content: French scientists reacted to the seemingly manoeuvrable and 'impossible' objects tracked by Jacques Vallee and
+      colleagues by seeking to suppress their manifestation rather than investigating whether they represented advanced technology.
+    original_excerpt: Instead of asking if these seemingly maneuverable and "impossible" objects could be a manifestation
+      of some advanced technology (and in some cases it may well have been terrestrial), they thought only of suppressing
+      their manifestation.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+    date: null
+    date_end: null
+    location_in_record: ch8:6061-6283
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 835516c4-43fe-4a9f-a923-cdcf1c2cd841
+    claim_hash: c7a4c31bebf41a6b95031a1cd4ae6eeb3a5bb12889bed1ce5f329b15c4b2c846
+    content: French scientists suppressed observations of unexplained aerial objects by denying every observation, by blaming
+      sightings on airplanes even when documentation was unassailable, and by destroying the data when it was shown that no
+      airplane could have behaved as the objects did.
+    original_excerpt: They did this by denying every observation, by blaming it on airplanes when the documentation was unassailable,
+      and by destroying the data when it was demonstrated to them that no airplane could have behaved as the objects did.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+    date: null
+    date_end: null
+    location_in_record: ch8:6298-6521
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 4a7d212a-5521-48d5-be96-a5f6102d78cd
+    claim_hash: 1151708f0f3cd89d0c63c059d8ca57d712e4b47f33591822e408b6810aaf1602
+    content: The Case of Dr. X involved a medical doctor holding an important official position in southern France who was
+      one of the most thoroughly investigated accounts of interaction between human percipients and the UFO phenomenon.
+    original_excerpt: The following case is among the most thoroughly investigated accounts of the interaction between human
+      percipients...It involved a medical doctor who holds an important official position in southern France.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: b6a617c4-6c4a-4c14-9c48-1a81013dca14
+        title: Dr. X (French physician, UFO witness)
+        slug: ufo-witness-dr-x-french-physician
+    date: null
+    date_end: null
+    location_in_record: ch9:12514-12752
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: e891e41e-6aea-4e8c-a711-e107a8e6e17a
+    claim_hash: 8ef722d0ac6ea36cb92b8f41e17d0a09e1bc0a35d48b9d3f7e036545fe90fd42
+    content: In a 1954 case in the French countryside, a man returning from the fields with his horse had to let go of the
+      bridle as the animal was lifted several metres into the air while a dark circular object flew fast over the trail they
+      were following.
+    original_excerpt: In one case, which took place in 1954 in the French countryside, a man who was coming back from the
+      fields with his horse had to let go of the bridle as the animal was lifted several feet into the air—a dark, circular
+      object was flying fast over the trail they were following.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed man in the French countryside
+      relay:
+        - Jacques Vallee
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+    date: '1954'
+    date_end: null
+    location_in_record: ch9:19463-19729
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 5dec1bf4-f045-40d1-b61a-e2e7816f5dfa
+    claim_hash: 1937b05fc3931eef3d412940b3f4f68bbd725d2fe3606cb2a2596f615e1f7674
+    content: In a 1954 case in France, a UFO occupant asked a witness what time it was, and when told 2:30, replied that the
+      witness was lying and that it was 4 o'clock.
+    original_excerpt: When a witness meets a UFO occupant who asks, “What time is it?” and replies, “It’s 2:30,” only to be
+      bluntly told, “You lie—it is 4 o’clock” (this actually happened in France in 1954)
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: a 1954 French UFO contact witness
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+    date: '1954'
+    date_end: null
+    location_in_record: ch9:22014-22193
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 24fe8472-3946-4f87-9efe-93be1c6383e6
+    claim_hash: 785f582bf405fa460c244e584e92ce8c7b1e5c7a061223fa5790baefcba0ca99
+    content: Jacques Vallee obtained a sample of the white substance from Ted Phillips from the Delphos, Kansas UFO landing
+      site and forwarded it to a biological laboratory in France for microscopic examination.
+    original_excerpt: I obtained a sample of the white substance from Mr. Phillips and forwarded it to a biological laboratory
+      in France, where it was examined under a microscope with magnifications ranging from a few diameters to the maximum
+      enlargement possible under the oil immersion technique.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 932b58ba-9729-4c23-9744-0859c325b1e8
+        title: Ted Phillips
+        slug: ted-phillips
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch9:41503-41769
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 616e8fd2-760f-47c9-84cb-64e5fa4bd871
+    claim_hash: 1e9dae85805877ce4fdde5d6558f03168b428e8a588dd1368b9d25a88ee79835
+    content: An anonymous French biologist who wished not to be named identified the organism in the Delphos, Kansas ring's
+      white substance as belonging to the family Actinomycetaceae and the genus Nocardia.
+    original_excerpt: The French biologist who identified it, and who has wished not to be named in this book determined that
+      the organism belongs to the family of the Actinomycetaceae and the genus “Nocardia.”
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a French biologist who examined the Delphos ring sample
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch9:42190-42368
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 17dd33fd-3239-47dc-b657-6412dcef7671
+    claim_hash: 626ff4c1ccd679dda0ecde6f5a6783bd22018be805aaabc02c03312109c3c49c
+    content: According to official documents, George Draper died in France on 1916-07-16.
+    original_excerpt: According to official documents, he died in France on July 16, 1916.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: official documents recording George Draper's death
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: db4ee061-d2fc-4976-870c-aff3227af926
+        title: George Draper
+        slug: george-draper
+    date: '1916-07-16'
+    date_end: null
+    location_in_record: ch27:1668-1731
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 74a89855-207d-47dd-bbd0-7f25b6f72468
+    claim_hash: e236e92abb2015b74a38ff6dcee04b8b23bf13082ded9473e9f13c84b071ffc1
+    content: Some of the military officers on the COMETA panel were serving with the French Institute of Higher Studies for
+      National Defense, a government-financed strategic planning agency.
+    original_excerpt: Since some of the military officers on the COMETA panel were serving with the French Institute of Higher
+      Studies for National Defense, a government-financed strategic planning agency
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: COMETA Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7af2cf9f-a4c2-4fe4-852a-37c5b12a69a1
+        title: French Institute of Higher Studies for National Defense
+        slug: french-institute-of-higher-studies-for-national-defense
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: ce1a9fb2-9209-41b7-8274-f86d84dfd198
+        title: COMETA Report
+        slug: cometa-report
+    date: null
+    date_end: null
+    location_in_record: ch44:1399-1575
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a50588e9-a273-4029-b454-a15e913749cf
+    claim_hash: 15a2b989ad53c8a142ccc37c1c13cb95a197cd5568b7bdb607a4638346ed6a1b
+    content: The COMETA Report was not a government-sanctioned study but was undertaken independently and then presented to
+      the highest levels of government in France.
+    original_excerpt: The study was not a government-sanctioned one, but was undertaken independently, and then presented
+      to the highest levels of government in France.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: COMETA Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: ce1a9fb2-9209-41b7-8274-f86d84dfd198
+        title: COMETA Report
+        slug: cometa-report
+    date: null
+    date_end: null
+    location_in_record: ch44:3660-3799
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 7f592be4-1f00-43d2-aad7-e259fc22c489
+    claim_hash: 72146102e23aac67f4f3d6f2b882989dc4de6aa23bc2d494e0eba2ff797592f4
+    content: The COMETA Report's authors recommended that France establish sectorial cooperation agreements with interested
+      European and foreign countries on the matter of UFOs.
+    original_excerpt: The writers recommended that France establish “sectorial cooperation agreements with interested European
+      and foreign countries” on the matter of UFOs
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: COMETA Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: ce1a9fb2-9209-41b7-8274-f86d84dfd198
+        title: COMETA Report
+        slug: cometa-report
+    date: null
+    date_end: null
+    location_in_record: ch44:5794-5939
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 888148f3-471b-4d4d-9199-28bdd5eda954
+    claim_hash: 5c6164e89aca520fcb83b8d6b831983d6f9f3fd33de07aa12f97c828684ca558
+    content: The COMETA Report's authors were thirteen retired generals, scientists, and space experts working independently
+      of the French government.
+    original_excerpt: The distinguished COMETA authors—thirteen retired generals, scientists, and space experts working independently
+      of the French government—had spent three years analyzing military and pilot encounters with UFOs.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: COMETA Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: ce1a9fb2-9209-41b7-8274-f86d84dfd198
+        title: COMETA Report
+        slug: cometa-report
+    date: null
+    date_end: null
+    location_in_record: ch44:722-926
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death

@@ -9,302 +9,315 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1880
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
 related_nodes:
-- node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
-  title: Assassination of John F. Kennedy
-  node_type: event
-  slug: assassination-of-john-f-kennedy
-  shared_claims: 4
-- node_id: d7742608-9597-499d-82b8-4a26989b2ced
-  title: J. D. Tippit
-  node_type: person
-  slug: j-d-tippit
-  shared_claims: 3
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 1
-- node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
-  title: Gordon Novel
-  node_type: person
-  slug: gordon-novel
-  shared_claims: 1
-- node_id: 4a2e1bca-44a1-4e4e-a0e9-8124af7daec0
-  title: Jack Ruby
-  node_type: person
-  slug: jack-ruby
-  shared_claims: 1
-- node_id: 033d1869-6403-4dc3-9fc3-6f7846ce530d
-  title: Jim Garrison
-  node_type: person
-  slug: jim-garrison
-  shared_claims: 1
-- node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
-  title: John Fitzgerald Kennedy
-  node_type: person
-  slug: john-fitzgerald-kennedy
-  shared_claims: 1
-- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-  title: Richard C. Hoagland
-  node_type: person
-  slug: richard-c-hoagland
-  shared_claims: 1
-- node_id: 9339f1ee-3e9d-468d-99ca-4924b08a49d2
-  title: USA, Texas, Dallas, Dealey Plaza
-  node_type: place
-  slug: texas-dallas-dealey-plaza-usa
-  shared_claims: 1
-- node_id: bb9cafbc-8409-44d0-bc99-af5bccf62a4f
-  title: USA, Texas, Dallas, Texas School Book Depository
-  node_type: place
-  slug: texas-dallas-texas-school-book-depository-usa
-  shared_claims: 1
-- node_id: 12b6cd42-a59f-4c50-af06-ecc2d5177449
-  title: United States House Select Committee on Assassinations
-  node_type: organisation
-  slug: united-states-house-select-committee-on-assassinations
-  shared_claims: 1
-claims:
-- claim_id: db07b85f-1ac1-445d-a193-4febe7288714
-  claim_hash: 7bec28e2336b0869bb6ad05cc9b5f815d358b9f3fa7fd3677a2b09230dab85db
-  content: Richard C. Hoagland and Mike Bara have little doubt that Lee Harvey Oswald
-    was in Dallas on the morning of 1963-11-22, that he was in the Texas School Book
-    Depository sixth-floor window, and that he fired at John F. Kennedy.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: ab238c32-c119-47ea-b587-4bc20c07a441
-    title: Lee Harvey Oswald
-    slug: lee-harvey-oswald
-  - node_id: bb9cafbc-8409-44d0-bc99-af5bccf62a4f
-    title: USA, Texas, Dallas, Texas School Book Depository
-    slug: texas-dallas-texas-school-book-depository-usa
   - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
     title: Assassination of John F. Kennedy
+    node_type: event
     slug: assassination-of-john-f-kennedy
-  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
-    title: John Fitzgerald Kennedy
-    slug: john-fitzgerald-kennedy
-  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-    slug: richard-c-hoagland
-  date: '1963-11-22'
-  date_end: null
-  location_in_record: ch10:78455-78706
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: e6511c54-7cc9-4649-8c60-50b53b7c4f84
-  claim_hash: 0ee417eab3c1f1f8627a99db1516dea87e267a646ec34b40ac037e83cb87cac2
-  content: 'The United States House Select Committee on Assassinations determined
-    that four shots were fired in Dealey Plaza: the first, second and fourth shots
-    by Lee Harvey Oswald, and a third near-simultaneous shot from another location.'
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: United States House Select Committee on Assassinations
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 12b6cd42-a59f-4c50-af06-ecc2d5177449
-    title: United States House Select Committee on Assassinations
-    slug: united-states-house-select-committee-on-assassinations
-  - node_id: 9339f1ee-3e9d-468d-99ca-4924b08a49d2
-    title: USA, Texas, Dallas, Dealey Plaza
-    slug: texas-dallas-dealey-plaza-usa
-  - node_id: ab238c32-c119-47ea-b587-4bc20c07a441
-    title: Lee Harvey Oswald
-    slug: lee-harvey-oswald
-  date: '1979'
-  date_end: null
-  location_in_record: ch10:79057-79195
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 11fae713-0676-4c23-9a2e-b59ad886c6d4
-  claim_hash: 4c2fdea2d720ae17b5da5149ec251d273ee6da9f143ded917bd1c6e3dd50111c
-  content: According to the official account, J. D. Tippit was killed in the line
-    of duty by Lee Harvey Oswald a short time after the assassination of John F. Kennedy.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: official account
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ab238c32-c119-47ea-b587-4bc20c07a441
-    title: Lee Harvey Oswald
-    slug: lee-harvey-oswald
-  - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
-    title: Assassination of John F. Kennedy
-    slug: assassination-of-john-f-kennedy
+    shared_claims: 4
   - node_id: d7742608-9597-499d-82b8-4a26989b2ced
     title: J. D. Tippit
+    node_type: person
     slug: j-d-tippit
-  date: '1963-11-22'
-  date_end: null
-  location_in_record: ch10:87008-87125
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 135b071e-0202-40fa-8e8f-7a52c4a48826
-  claim_hash: 2082cddbf0b65c344f3411a6c803b0464ccbf73d8601074a441acfc59f4a76d5
-  content: Lee Harvey Oswald was originally arrested for the killing of J. D. Tippit
-    in a nearby movie theatre in Dallas, Texas.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ab238c32-c119-47ea-b587-4bc20c07a441
-    title: Lee Harvey Oswald
-    slug: lee-harvey-oswald
-  - node_id: d7742608-9597-499d-82b8-4a26989b2ced
-    title: J. D. Tippit
-    slug: j-d-tippit
-  date: null
-  date_end: null
-  location_in_record: ch10:87144-87219
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 23ca44cb-096a-455e-a123-a89fe0a52512
-  claim_hash: 22558597f5b1d50457d63abe87b54da9991445f01a86a40d22b0434a0b104cab
-  content: Both Lee Harvey Oswald and J. D. Tippit were dead within twenty-four hours
-    of the assassination of John F. Kennedy.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: ab238c32-c119-47ea-b587-4bc20c07a441
-    title: Lee Harvey Oswald
-    slug: lee-harvey-oswald
-  - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
-    title: Assassination of John F. Kennedy
-    slug: assassination-of-john-f-kennedy
-  - node_id: d7742608-9597-499d-82b8-4a26989b2ced
-    title: J. D. Tippit
-    slug: j-d-tippit
-  date: '1963-11-23'
-  date_end: null
-  location_in_record: ch10:87467-87545
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635
-  claim_hash: ef37d0381382330971be6ee6f2a4a6dceddd260855d3fd101167800516246162
-  content: Gordon Novel provided New Orleans District Attorney Jim Garrison with a
-    Central Intelligence Agency-Cuban-emigre link to the assassination of President
-    John F. Kennedy by suggesting that, while working for the Central Intelligence
-    Agency, he knew both alleged assassin Lee Harvey Oswald and Jack Ruby, Oswald's
-    killer.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Gordon Novel
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 033d1869-6403-4dc3-9fc3-6f7846ce530d
-    title: Jim Garrison
-    slug: jim-garrison
+    shared_claims: 3
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
+    node_type: organisation
     slug: central-intelligence-agency-cia
-  - node_id: 4a2e1bca-44a1-4e4e-a0e9-8124af7daec0
-    title: Jack Ruby
-    slug: jack-ruby
+    shared_claims: 1
   - node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
     title: Gordon Novel
+    node_type: person
     slug: gordon-novel
-  - node_id: ab238c32-c119-47ea-b587-4bc20c07a441
-    title: Lee Harvey Oswald
-    slug: lee-harvey-oswald
-  - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
-    title: Assassination of John F. Kennedy
-    slug: assassination-of-john-f-kennedy
-  date: null
-  date_end: null
-  location_in_record: ch27:4030-4314
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 4a2e1bca-44a1-4e4e-a0e9-8124af7daec0
+    title: Jack Ruby
+    node_type: person
+    slug: jack-ruby
+    shared_claims: 1
+  - node_id: 033d1869-6403-4dc3-9fc3-6f7846ce530d
+    title: Jim Garrison
+    node_type: person
+    slug: jim-garrison
+    shared_claims: 1
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    node_type: person
+    slug: john-fitzgerald-kennedy
+    shared_claims: 1
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 1
+  - node_id: 9339f1ee-3e9d-468d-99ca-4924b08a49d2
+    title: USA, Texas, Dallas, Dealey Plaza
+    node_type: place
+    slug: texas-dallas-dealey-plaza-usa
+    shared_claims: 1
+  - node_id: bb9cafbc-8409-44d0-bc99-af5bccf62a4f
+    title: USA, Texas, Dallas, Texas School Book Depository
+    node_type: place
+    slug: texas-dallas-texas-school-book-depository-usa
+    shared_claims: 1
+  - node_id: 12b6cd42-a59f-4c50-af06-ecc2d5177449
+    title: United States House Select Committee on Assassinations
+    node_type: organisation
+    slug: united-states-house-select-committee-on-assassinations
+    shared_claims: 1
+claims:
+  - claim_id: db07b85f-1ac1-445d-a193-4febe7288714
+    claim_hash: 7bec28e2336b0869bb6ad05cc9b5f815d358b9f3fa7fd3677a2b09230dab85db
+    content: Richard C. Hoagland and Mike Bara have little doubt that Lee Harvey Oswald was in Dallas on the morning of 1963-11-22,
+      that he was in the Texas School Book Depository sixth-floor window, and that he fired at John F. Kennedy.
+    original_excerpt: Let us start by saying that we have little doubt that Lee Harvey Oswald was in Dallas that morning,
+      that he was in the Texas School Book Depository sixth floor window, that he certainly fired at the President and that
+      he may have even fired the fatal shot.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ab238c32-c119-47ea-b587-4bc20c07a441
+        title: Lee Harvey Oswald
+        slug: lee-harvey-oswald
+      - node_id: bb9cafbc-8409-44d0-bc99-af5bccf62a4f
+        title: USA, Texas, Dallas, Texas School Book Depository
+        slug: texas-dallas-texas-school-book-depository-usa
+      - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+        title: Assassination of John F. Kennedy
+        slug: assassination-of-john-f-kennedy
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: '1963-11-22'
+    date_end: null
+    location_in_record: ch10:78455-78706
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e6511c54-7cc9-4649-8c60-50b53b7c4f84
+    claim_hash: 0ee417eab3c1f1f8627a99db1516dea87e267a646ec34b40ac037e83cb87cac2
+    content: 'The United States House Select Committee on Assassinations determined that four shots were fired in Dealey Plaza:
+      the first, second and fourth shots by Lee Harvey Oswald, and a third near-simultaneous shot from another location.'
+    original_excerpt: They determined that four shots were fired, the first, second and fourth shots by Oswald, and a third
+      near simultaneous shot from another location.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: United States House Select Committee on Assassinations
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 12b6cd42-a59f-4c50-af06-ecc2d5177449
+        title: United States House Select Committee on Assassinations
+        slug: united-states-house-select-committee-on-assassinations
+      - node_id: 9339f1ee-3e9d-468d-99ca-4924b08a49d2
+        title: USA, Texas, Dallas, Dealey Plaza
+        slug: texas-dallas-dealey-plaza-usa
+      - node_id: ab238c32-c119-47ea-b587-4bc20c07a441
+        title: Lee Harvey Oswald
+        slug: lee-harvey-oswald
+    date: '1979'
+    date_end: null
+    location_in_record: ch10:79057-79195
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 11fae713-0676-4c23-9a2e-b59ad886c6d4
+    claim_hash: 4c2fdea2d720ae17b5da5149ec251d273ee6da9f143ded917bd1c6e3dd50111c
+    content: According to the official account, J. D. Tippit was killed in the line of duty by Lee Harvey Oswald a short time
+      after the assassination of John F. Kennedy.
+    original_excerpt: Tippet, according to the official cannon, was killed in the line of duty by Lee Harvey Oswald a short
+      time after the assassination
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: official account
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ab238c32-c119-47ea-b587-4bc20c07a441
+        title: Lee Harvey Oswald
+        slug: lee-harvey-oswald
+      - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+        title: Assassination of John F. Kennedy
+        slug: assassination-of-john-f-kennedy
+      - node_id: d7742608-9597-499d-82b8-4a26989b2ced
+        title: J. D. Tippit
+        slug: j-d-tippit
+    date: '1963-11-22'
+    date_end: null
+    location_in_record: ch10:87008-87125
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 135b071e-0202-40fa-8e8f-7a52c4a48826
+    claim_hash: 2082cddbf0b65c344f3411a6c803b0464ccbf73d8601074a441acfc59f4a76d5
+    content: Lee Harvey Oswald was originally arrested for the killing of J. D. Tippit in a nearby movie theatre in Dallas,
+      Texas.
+    original_excerpt: it is for that crime that Oswald was originally arrested in a nearby movie theater
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ab238c32-c119-47ea-b587-4bc20c07a441
+        title: Lee Harvey Oswald
+        slug: lee-harvey-oswald
+      - node_id: d7742608-9597-499d-82b8-4a26989b2ced
+        title: J. D. Tippit
+        slug: j-d-tippit
+    date: null
+    date_end: null
+    location_in_record: ch10:87144-87219
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 23ca44cb-096a-455e-a123-a89fe0a52512
+    claim_hash: 22558597f5b1d50457d63abe87b54da9991445f01a86a40d22b0434a0b104cab
+    content: Both Lee Harvey Oswald and J. D. Tippit were dead within twenty-four hours of the assassination of John F. Kennedy.
+    original_excerpt: both “shooters,” Oswald and Tippet, were dead within twenty-four hours of the assassination
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ab238c32-c119-47ea-b587-4bc20c07a441
+        title: Lee Harvey Oswald
+        slug: lee-harvey-oswald
+      - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+        title: Assassination of John F. Kennedy
+        slug: assassination-of-john-f-kennedy
+      - node_id: d7742608-9597-499d-82b8-4a26989b2ced
+        title: J. D. Tippit
+        slug: j-d-tippit
+    date: '1963-11-23'
+    date_end: null
+    location_in_record: ch10:87467-87545
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635
+    claim_hash: ef37d0381382330971be6ee6f2a4a6dceddd260855d3fd101167800516246162
+    content: Gordon Novel provided New Orleans District Attorney Jim Garrison with a Central Intelligence Agency-Cuban-emigre
+      link to the assassination of President John F. Kennedy by suggesting that, while working for the Central Intelligence
+      Agency, he knew both alleged assassin Lee Harvey Oswald and Jack Ruby, Oswald's killer.
+    original_excerpt: Novel also provided a way too gullible New Orleans District Attorney Jim Garrison with a CIA-Cuban-emigre
+      link to the assassination of President John F. Kennedy by suggesting that, while working for the CIA, he knew both the
+      alleged assassin Lee Harvey Oswald and Jack Ruby, Oswald's killer.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Gordon Novel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 033d1869-6403-4dc3-9fc3-6f7846ce530d
+        title: Jim Garrison
+        slug: jim-garrison
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4a2e1bca-44a1-4e4e-a0e9-8124af7daec0
+        title: Jack Ruby
+        slug: jack-ruby
+      - node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
+        title: Gordon Novel
+        slug: gordon-novel
+      - node_id: ab238c32-c119-47ea-b587-4bc20c07a441
+        title: Lee Harvey Oswald
+        slug: lee-harvey-oswald
+      - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+        title: Assassination of John F. Kennedy
+        slug: assassination-of-john-f-kennedy
+    date: null
+    date_end: null
+    location_in_record: ch27:4030-4314
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

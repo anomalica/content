@@ -1,1499 +1,1564 @@
 schema: anomalica/brief/1
-brief_hash: 078ecff0cef654afb449b7824c44d9edb349182a352addb2b21b17f90d57ab74
+brief_hash: aeefc1e45e5368847530d3a139a7a5c0d2e0e91e576e1defdd7542b90a239b87
 page:
   kind: entity
   node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
   node_type: place
   title: USA, New Mexico
   slug: new-mexico-usa
-  claim_count: 35
-  claim_count_total: 35
+  claim_count: 36
+  claim_count_total: 36
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 36
+  tokens_estimated: 10579
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 36
 related_nodes:
-- node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-  title: Tyler D.
-  node_type: person
-  slug: tyler-d
-  shared_claims: 15
-- node_id: f2daae19-9351-4a8e-b466-664f83887f61
-  title: Diana Walsh Pasulka
-  node_type: person
-  slug: diana-walsh-pasulka
-  shared_claims: 12
-- node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
-  title: James Master
-  node_type: person
-  slug: james-master
-  shared_claims: 5
-- node_id: ccaada0b-7348-4d54-bd7b-22896b137901
-  title: Maria of Agreda
-  node_type: person
-  slug: maria-of-agreda
-  shared_claims: 4
-- node_id: ec6487e8-e972-48d0-8d3b-4b54f42bfcec
-  title: Sister Maria of Agreda's alleged bilocations to New Mexico
-  node_type: event
-  slug: sister-maria-of-agredas-alleged-bilocations-to-new-mexico
-  shared_claims: 3
-- node_id: 5e41e6a5-440a-4df4-b622-3ccd8607b5e0
-  title: Laurentide Ice Sheet
-  node_type: object
-  slug: laurentide-ice-sheet
-  shared_claims: 2
-- node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
-  title: Philip Corso
-  node_type: person
-  slug: philip-corso
-  shared_claims: 2
-- node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-  title: Walter Haut
-  node_type: person
-  slug: walter-haut
-  shared_claims: 2
-- node_id: 7984a925-bfbb-4b49-992e-8a931d400625
-  title: Alonso de Benavides
-  node_type: person
-  slug: alonso-de-benavides
-  shared_claims: 1
-- node_id: 347d6124-ce9c-451c-9484-a025536d517d
-  title: German V-2 rocket
-  node_type: object
-  slug: german-v-2-rocket
-  shared_claims: 1
-- node_id: 34cbcce0-b88a-4057-8691-635f2902c481
-  title: Italy, Rome
-  node_type: place
-  slug: rome-italy
-  shared_claims: 1
-- node_id: f888411e-b882-4f89-8275-350d19f6c52d
-  title: Jesse Marcel
-  node_type: person
-  slug: jesse-marcel
-  shared_claims: 1
-- node_id: 45a04a13-f002-40a6-b4e7-24bd17a19d06
-  title: Jumanos
-  node_type: organisation
-  slug: jumanos
-  shared_claims: 1
-- node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
-  title: Major Murphy
-  node_type: person
-  slug: major-murphy
-  shared_claims: 1
-- node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
-  title: Roswell Unidentified Flying Object (UFO) crash
-  node_type: event
-  slug: roswell-unidentified-flying-object-ufo-crash
-  shared_claims: 1
-- node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
-  title: Sheridan Cavitt
-  node_type: person
-  slug: sheridan-cavitt
-  shared_claims: 1
-- node_id: d5847d0a-696c-43c3-94d2-131c257cbdb8
-  title: Spain
-  node_type: place
-  slug: spain
-  shared_claims: 1
-- node_id: 231715b6-5623-479d-8d07-44f978bed8e3
-  title: The Day After Roswell
-  node_type: document
-  slug: the-day-after-roswell
-  shared_claims: 1
-- node_id: 74505a33-a16b-4256-bd97-e40e2a2790c7
-  title: USA, Mississippi, Pascagoula
-  node_type: place
-  slug: mississippi-pascagoula-usa
-  shared_claims: 1
-- node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
-  title: USA, New Mexico, Roswell Army Air Force Base
-  node_type: place
-  slug: new-mexico-roswell-army-air-force-base-usa
-  shared_claims: 1
-- node_id: dc8df2cd-fb0a-46c5-95f0-37e1c6b70d8a
-  title: USA, South Carolina/North Carolina, Carolina Bays
-  node_type: place
-  slug: south-carolinanorth-carolina-carolina-bays-usa
-  shared_claims: 1
-- node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
-  title: William Blanchard
-  node_type: person
-  slug: william-blanchard
-  shared_claims: 1
-- node_id: 5b467db5-ee87-4e53-809d-40d3ec6ab2d2
-  title: foo fighters
-  node_type: topic
-  slug: foo-fighters
-  shared_claims: 1
-- node_id: 4e15faa2-81e1-4d59-a318-fe731a49447c
-  title: green fireballs of New Mexico
-  node_type: topic
-  slug: green-fireballs-of-new-mexico
-  shared_claims: 1
-- node_id: 31ce8fce-7d60-4ef6-bcd0-15248adc466d
-  title: the artifact (Pasulka's anomalous object)
-  node_type: object
-  slug: the-artifact-pasulkas-anomalous-object
-  shared_claims: 1
-claims:
-- claim_id: 76189a54-ed73-4613-a4a8-6cdf4d6a7c16
-  claim_hash: 3ea5aebd09840f744478bdf3b3c783ea3c20f9996fb12c7e5b401a3d43cf2c83
-  content: Major Murphy said the German V-2 rocket dated to 1944 and the Atlas rocket
-    to the 1960s, and that foo fighters appeared in 1943 and the green fireballs of
-    New Mexico nine years later.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
-    title: Major Murphy
-  provenance_chain:
-    origin_kind: speaker
-    origin: Major Murphy
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 347d6124-ce9c-451c-9484-a025536d517d
-    title: German V-2 rocket
-    slug: german-v-2-rocket
-  - node_id: 4e15faa2-81e1-4d59-a318-fe731a49447c
-    title: green fireballs of New Mexico
-    slug: green-fireballs-of-new-mexico
-  - node_id: 5b467db5-ee87-4e53-809d-40d3ec6ab2d2
-    title: foo fighters
-    slug: foo-fighters
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
-    title: Major Murphy
-    slug: major-murphy
-  date: null
-  date_end: null
-  location_in_record: ch11:57747-57891
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 9d7b27c6-4e23-4e94-ba85-67bbfceeedfd
-  claim_hash: de4ec770dbeda8980b4d7aa792c3c0af406e17a94d1d6bfe67103caefb5ae2f1
-  content: Jacques Vallée notes a close association of many UFO sightings with advanced
-    military hardware, including test sites in New Mexico, missile silos of the northern
-    plains, and the major nuclear facility at Pascagoula, Mississippi.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 74505a33-a16b-4256-bd97-e40e2a2790c7
-    title: USA, Mississippi, Pascagoula
-    slug: mississippi-pascagoula-usa
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  date: null
-  date_end: null
-  location_in_record: ch13:23069-23292
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 37fa21ee-6c14-4894-9375-21c924bc7902
-  claim_hash: c1095eb9eef8039fedd3c97a82b5bde5a5ee2523d15dd0052ea942102f2e9851
-  content: D. W. Pasulka received a phone call from Tyler D. the day after her conference,
-    inviting her to a special place in New Mexico to learn about the physical nature
-    of the UFO phenomenon.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
   - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
     title: Tyler D.
+    node_type: person
     slug: tyler-d
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
+    shared_claims: 15
   - node_id: f2daae19-9351-4a8e-b466-664f83887f61
     title: Diana Walsh Pasulka
+    node_type: person
     slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch1:15950-16235
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: a12e3ff9-57da-473d-907c-0a8af6edbb2c
-  claim_hash: 68666ce0ad524867f16f1b96aca3d4c54d6ec49ace4b4a4344a1ee26acb6c0a8
-  content: Tyler D. sent videos to D. W. Pasulka of where he worked in USA, New Mexico.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-    slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch1:19938-19975
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: cd789b76-fed3-48d5-a09b-81369801555e
-  claim_hash: 0e152d8c6c4cc3b66fcb7f1e4946884f72b56397d423a56feee1af573d5c20ee
-  content: James Master believed that if artifacts from the New Mexico site could
-    be found, he could show that a nonhuman aerial craft had truly landed there.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: named
-    origin: James Master
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
+    shared_claims: 12
   - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
     title: James Master
+    node_type: person
     slug: james-master
-  date: null
-  date_end: null
-  location_in_record: ch1:3111-3181
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 48715888-d696-4532-88cf-da0eda7fcd41
-  claim_hash: 63b8474ba227831bdbb58ee88e5c16e4c0bb15e403e8efcba94176066a0beb84
-  content: Tyler D. believed the New Mexico site was one of the most significant locations
-    in the history of humanity.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: named
-    origin: Tyler D.
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  date: null
-  date_end: null
-  location_in_record: ch1:3227-3378
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: dbd492dc-bb4a-4aac-ac6f-b124cf80c76d
-  claim_hash: c7dcb19b48e78dc49981716f298d8fb6168b37e53ce7d25925b696a57e19e6da
-  content: Only a handful of people had visited the New Mexico site that Tyler D.
-    took D. W. Pasulka and James Master to.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: named
-    origin: Tyler D.
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  date: null
-  date_end: null
-  location_in_record: ch1:3326-3378
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 8038e5f9-55a6-43da-aedd-1779241e5e33
-  claim_hash: 6bfc2edab0e342d0b2e79949fa3edec9bda245f57fe50e7f81b9176b19156e91
-  content: According to Tyler D., when a craft crash occurred in New Mexico in 1947,
-    the government took the craft, hid it in a secret place, and disguised the area
-    with tin cans and debris to prevent others from finding remaining artifacts.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: named
-    origin: Tyler D.
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  date: '1947'
-  date_end: null
-  location_in_record: ch1:5869-6079
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 541c2078-fadf-42bc-9e1b-2e0aaf3de938
-  claim_hash: f208d57d7edc3da1bcf6724c7dafb7894237f070814bf61c8eaead90d4baf421
-  content: D. W. Pasulka observed that the New Mexico site was covered with rusty
-    tin cans, many of which had disintegrated into a powdery rubble resembling compost.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-    slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch1:6090-6256
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 94ae0646-35d3-408c-a45e-464a3b3b816e
-  claim_hash: a40a83825b4519cf025ec56ba10458b07e49a8a3404c47085a611938bc016f26
-  content: Tyler D. configured metal detectors that he said had been specially configured
-    to identify the crash-site artifacts in New Mexico.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: named
-    origin: Tyler D.
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  date: null
-  date_end: null
-  location_in_record: ch1:6265-6364
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 14466304-54e6-448b-a1e0-1e819bb9f005
-  claim_hash: 41260e2cbfaa00a3c3bf567b8f75847478c21ed1ca8b85d4ebd4c012d67f9065
-  content: The site D. W. Pasulka, James Master, and Tyler D. visited in USA, New
-    Mexico was not Area 51.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: named
-    origin: Tyler D.
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-    slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch1:669-697
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 159b40f5-ee4f-4ac8-8013-68a4372c8d5c
-  claim_hash: 19c5eab1796149f172ba9f9a94f41be99e4f64621acbebed1a8c3c07d31f20aa
-  content: The site visited by D. W. Pasulka, James Master, and Tyler D. was located
-    in USA, New Mexico under a no-fly zone.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: named
-    origin: Tyler D.
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-    slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch1:703-753
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: a38ef083-5b3e-4041-bd24-ec0a1e198617
-  claim_hash: 55314cab50cf7ad0eceeaf31375a3d38663c921b374a4d61c809a78a7a356130
-  content: Tyler D. believed the New Mexico site was a location where one could find
-    artifacts of an extraterrestrial aerial craft that had crashed in 1947.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: named
-    origin: Tyler D.
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  date: null
-  date_end: null
-  location_in_record: ch1:763-879
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: a5f3172f-108c-49ef-bc13-b82b0ae16d56
-  claim_hash: 4f668d629498c824ab0dce72488eaf9b4d8545c0ad987a223275d980b0fdad5d
-  content: Tyler D. invited D. W. Pasulka to a site in New Mexico.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-    slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch2:37476-37522
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 6d41abee-9086-4e14-9672-dd03d425a097
-  claim_hash: ecd6b1eb6f5926a4cc8ca7a308409d8016bf83c5093a1399554440114dac6423
-  content: Tyler D., James Master, and D. W. Pasulka travelled together to a site
-    in New Mexico.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
-    title: James Master
-    slug: james-master
-  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-    slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch2:38420-38483
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: eb5bfdb7-8d44-4256-8edc-b132e99a4733
-  claim_hash: 2409e36d00485883dc72ae8af04aa432dc3217baad2ac54c452b785f5536b54b
-  content: The New Mexico site Tyler D., James Master, and D. W. Pasulka visited was
-    the site of a crash that occurred in New Mexico in 1947, distinct from the Roswell
-    event, and had been largely forgotten over time.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tyler D.
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
-    title: Roswell Unidentified Flying Object (UFO) crash
-    slug: roswell-unidentified-flying-object-ufo-crash
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  date: '1947'
-  date_end: null
-  location_in_record: ch2:39717-39857
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 884138dd-3be3-4b35-abf4-6ec321e2b9fd
-  claim_hash: 284eeafa48b12b82cede202ba426ab19e32f5b7265e6190a681dc4a18c5cbd82
-  content: D. W. Pasulka considers the sites in New Mexico associated with the alleged
-    1947 crash to function as sacred sites for a new religion of the UFO event and
-    of technology.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-    slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch2:44165-44302
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: c38c4d96-a6ed-48e4-8bbf-559ca18f221f
-  claim_hash: 6a7937ab1459281c41540fda44fab19da927ed62a453b36a5512b4e0b17e5ae8
-  content: Philip Corso's book "The Day After Roswell" claims there really was a crash
-    of an alien vehicle in New Mexico, and that it was his job to disseminate its
-    debris and parts to private industry under the story that it was advanced Chinese
-    or Russian technology.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
-    title: Philip Corso
-  provenance_chain:
-    origin_kind: named
-    origin: Philip Corso
-    relay:
-    - The Day After Roswell
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 231715b6-5623-479d-8d07-44f978bed8e3
-    title: The Day After Roswell
-    slug: the-day-after-roswell
+    shared_claims: 5
+  - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+    title: Maria of Agreda
+    node_type: person
+    slug: maria-of-agreda
+    shared_claims: 4
+  - node_id: ec6487e8-e972-48d0-8d3b-4b54f42bfcec
+    title: Sister Maria of Agreda's alleged bilocations to New Mexico
+    node_type: event
+    slug: sister-maria-of-agredas-alleged-bilocations-to-new-mexico
+    shared_claims: 3
+  - node_id: 5e41e6a5-440a-4df4-b622-3ccd8607b5e0
+    title: Laurentide Ice Sheet
+    node_type: object
+    slug: laurentide-ice-sheet
+    shared_claims: 2
   - node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
     title: Philip Corso
+    node_type: person
     slug: philip-corso
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  date: null
-  date_end: null
-  location_in_record: ch2:48990-49230
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 5179e1e1-9697-42b0-9558-f6c47d68721c
-  claim_hash: 18c131469f87155cac42a9399ca23550c820f0fb308d7bb39591e4772e840e52
-  content: During a trip to New Mexico, James Master told D. W. Pasulka that he thought
-    the artifact they had found in the desert was a "donation," most likely from nonhuman
-    intelligence.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: named
-    origin: James Master
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 31ce8fce-7d60-4ef6-bcd0-15248adc466d
-    title: the artifact (Pasulka's anomalous object)
-    slug: the-artifact-pasulkas-anomalous-object
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
-    title: James Master
-    slug: james-master
-  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-    slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch3:53661-53806
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: b958e26a-6b63-49c2-bf14-f4ac327a786a
-  claim_hash: 1944d8351688e7f277522145ef30f4eff26b07257443543ae78ee9ad9f90b4ac
-  content: D. W. Pasulka took Tyler D. to Rome, Italy as the culmination of their
-    research collaboration, almost two years after Tyler D. had taken her and James
-    Master, blindfolded, to a UFO site in New Mexico.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
-    title: Italy, Rome
-    slug: rome-italy
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
-    title: James Master
-    slug: james-master
-  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-    slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch7:1290-1475
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 2e03b18d-055d-48db-b15f-fc6cee9eeb71
-  claim_hash: b5c45c28a26132b436b07f021901ad73ff81b6029c38dd98d34affdd4ec294ad
-  content: Diana Pasulka observed that Sister Maria of Agreda's records described
-    her claim of bilocating to New Mexico, the same region that Tyler D. had taken
-    Diana Pasulka and James Master to visit a supposed UFO crash site.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
-    title: Maria of Agreda
-    slug: maria-of-agreda
-  - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
-    title: James Master
-    slug: james-master
-  - node_id: ec6487e8-e972-48d0-8d3b-4b54f42bfcec
-    title: Sister Maria of Agreda's alleged bilocations to New Mexico
-    slug: sister-maria-of-agredas-alleged-bilocations-to-new-mexico
-  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-    slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch7:31322-31539
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: dc655e52-9fab-4083-89a6-85b721c5479b
-  claim_hash: 2178ef53e995aadb573377730ba76d6977550b8087943957b5bd05f6b91b4fe5
-  content: Diana Pasulka was blindfolded during the trip to the supposed UFO crash
-    site in New Mexico and did not know exactly where she was.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-    slug: diana-walsh-pasulka
-  date: null
-  date_end: null
-  location_in_record: ch7:31628-31715
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 9e5717c5-27b6-43d6-bd08-f73c79ffcca9
-  claim_hash: d139a5e064c88dd037139be28554c6cdb5529c983a272830d64ce5db57e602a9
-  content: In the early 1600s, as Spain was exploring and colonising western North
-    America, the young Sister Maria of Agreda claimed that with the help of angels
-    she flew through space and over the ocean to New Mexico.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: named
-    origin: Sister Maria of Agreda
-    relay:
-    - historical records
-  attribution_mode: unknown
-  node_refs:
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
-    title: Maria of Agreda
-    slug: maria-of-agreda
-  - node_id: d5847d0a-696c-43c3-94d2-131c257cbdb8
-    title: Spain
-    slug: spain
-  - node_id: ec6487e8-e972-48d0-8d3b-4b54f42bfcec
-    title: Sister Maria of Agreda's alleged bilocations to New Mexico
-    slug: sister-maria-of-agredas-alleged-bilocations-to-new-mexico
-  date: null
-  date_end: null
-  location_in_record: ch7:32125-32311
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 982eb8cf-0286-4b01-b781-64f871eca6d5
-  claim_hash: ba0de2e227e89f267c9546d0e67e994777acdd77f27f35f2f6ae0c155351633a
-  content: Franciscan missionaries in New Mexico reportedly encountered members of
-    the Jumanos tribe who presented themselves as eager to be baptised, allegedly
-    saying they had been visited by a 'lady in blue' who spoke to them about the Catholic
-    faith.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: named
-    origin: Jumanos
-    relay:
-    - reports of Franciscan missionaries
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 45a04a13-f002-40a6-b4e7-24bd17a19d06
-    title: Jumanos
-    slug: jumanos
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  date: null
-  date_end: null
-  location_in_record: ch7:32703-32815
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 19c8399b-97b2-4571-b3bf-f4abd30ec923
-  claim_hash: cc088ad7b166182387133231a6916494bbc4ea270e25959f5a323e758cede5d6
-  content: Alonso de Benavides was the first commissioner of the Inquisition in New
-    Mexico.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 2
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    node_type: person
+    slug: walter-haut
+    shared_claims: 2
   - node_id: 7984a925-bfbb-4b49-992e-8a931d400625
     title: Alonso de Benavides
+    node_type: person
     slug: alonso-de-benavides
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  date: null
-  date_end: null
-  location_in_record: ch7:32824-32933
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 17db41d7-6773-40a5-9446-16563199eb25
-  claim_hash: 533f0a7f2cf622b90cebdd3d299757b471651f97cd0c5d80f48ac38fa54e98a0
-  content: As a young nun, Sister Maria of Agreda claimed to bilocate to colonial
-    New Mexico, where she said she met indigenous Americans, taught them about the
-    Catholic faith, and prepared them to be baptised by Franciscan missionaries.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Sister Maria of Agreda
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: ec6487e8-e972-48d0-8d3b-4b54f42bfcec
-    title: Sister Maria of Agreda's alleged bilocations to New Mexico
-    slug: sister-maria-of-agredas-alleged-bilocations-to-new-mexico
-  date: null
-  date_end: null
-  location_in_record: ch7:3320-3514
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: bab43e10-df14-407d-9458-b6428a3780bf
-  claim_hash: 5f00598b1a17bc11700d22314e8ef5d791711a7af9a9e8c45a61c2cfb9e7d0bf
-  content: Tyler D. believed the beings he was in contact with were, or were similar
-    to, the angels spoken of by Sister Maria of Agreda that had transported her to
-    what is now the southwestern United States.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tyler D.
-    relay:
-    - D. W. Pasulka
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
-    title: Maria of Agreda
-    slug: maria-of-agreda
-  date: null
-  date_end: null
-  location_in_record: ch7:41845-42014
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 919e3750-f401-4435-9934-9b6747e2c088
-  claim_hash: ffce7851c9389d5b0b3df8d317bbe6b2b66b1e3a537f043ebf6e702bac39d4ec
-  content: D. W. Pasulka considers Sister Maria of Agreda's alleged voyages to New
-    Mexico to have helped Spanish missionaries obtain funding to convert indigenous
-    Americans, seeding cultural imagination in support of the missionaries' work.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: f2daae19-9351-4a8e-b466-664f83887f61
-    title: Diana Walsh Pasulka
-  provenance_chain:
-    origin_kind: speaker
-    origin: D. W. Pasulka
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
-    title: Tyler D.
-    slug: tyler-d
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
-    title: Maria of Agreda
-    slug: maria-of-agreda
-  date: null
-  date_end: null
-  location_in_record: ch7:6658-6982
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
-    record_title: American Cosmic
-    record_date: '2019'
-    record_reference: null
-    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
-    friendly_name: 2019-ebook-american-cosmic
-  excerpt_withheld: restricted
-- claim_id: 74f71281-ed1b-4018-800c-64df5903b1ac
-  claim_hash: cb5ba0b20dee73364fe3354a351e3e1804cec014cf23a33a961d8b8f5755a113
-  content: During an encounter in the New Mexico desert, nonhuman visitors communicated
-    the phrase "a new world if you can take it" to Colonel Philip Corso.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: named
-    origin: Philip Corso
-    relay:
-    - accounts of Philip Corso's encounter
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
-    title: Philip Corso
-    slug: philip-corso
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  date: null
-  date_end: null
-  location_in_record: ch10:10291-10457
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 1fe6a5eb-844f-47f6-bae3-fb153c5157dc
-  claim_hash: 0488b18932e7da80fdaff4024526ec6526a252e427add6bf70bfe6debce8fc10
-  content: Some fragments from the Laurentide Ice Sheet impacts were hurled across
-    the continent, with some impacting as far away as New Mexico.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5e41e6a5-440a-4df4-b622-3ccd8607b5e0
-    title: Laurentide Ice Sheet
-    slug: laurentide-ice-sheet
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  date: null
-  date_end: null
-  location_in_record: ch23:22843-22918
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: 1804f7b8-5192-4684-b4a9-15baf01c73e2
-  claim_hash: fc290db2b087df9e0fd7f1264f7bccee3a0217ffdcd547cd8128f07aac08bbbe
-  content: Whitley Strieber describes the Laurentide glacier as having been struck
-    by something so powerful that it sent backsplash from the region that is now the
-    Great Lakes into the Carolinas, and caused gigantic clumps of ice to sail across
-    the continent into New Mexico.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-    title: Whitley Strieber
-  provenance_chain:
-    origin_kind: speaker
-    origin: Whitley Strieber
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5e41e6a5-440a-4df4-b622-3ccd8607b5e0
-    title: Laurentide Ice Sheet
-    slug: laurentide-ice-sheet
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: dc8df2cd-fb0a-46c5-95f0-37e1c6b70d8a
-    title: USA, South Carolina/North Carolina, Carolina Bays
-    slug: south-carolinanorth-carolina-carolina-bays-usa
-  date: null
-  date_end: null
-  location_in_record: ch26:34323-34531
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: c2620eed-7d92-458e-b6b6-c3fb79aa25ad
-  claim_hash: c91893f2aff48ac93354c6a630fba7779c9ee34c2142821259736e49d8d3a0a9
-  content: At the 1947-07-08 staff meeting, Jesse Marcel and Sheridan Cavitt reported
-    on an extensive debris field in Lincoln County, approximately 120 kilometres northwest
-    of Roswell, New Mexico.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter Haut
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
-    title: Sheridan Cavitt
-    slug: sheridan-cavitt
+    shared_claims: 1
+  - node_id: 347d6124-ce9c-451c-9484-a025536d517d
+    title: German V-2 rocket
+    node_type: object
+    slug: german-v-2-rocket
+    shared_claims: 1
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    node_type: place
+    slug: rome-italy
+    shared_claims: 1
   - node_id: f888411e-b882-4f89-8275-350d19f6c52d
     title: Jesse Marcel
+    node_type: person
     slug: jesse-marcel
-  date: '1947-07-08'
-  date_end: null
-  location_in_record: ch28:1620-1760
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: a799bc98-ece8-462d-8606-4b94309bb4ac
-  claim_hash: 4f86b983ee417436e8d4dda4879d5cdd562a014b951c680a8a4e3d10568a1aad
-  content: At the 1947-07-08 staff meeting, William Blanchard gave a preliminary briefing
-    about a second debris site approximately 65 kilometres north of Roswell, New Mexico.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter Haut
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
+  - node_id: 45a04a13-f002-40a6-b4e7-24bd17a19d06
+    title: Jumanos
+    node_type: organisation
+    slug: jumanos
+    shared_claims: 1
+  - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+    title: Major Murphy
+    node_type: person
+    slug: major-murphy
+    shared_claims: 1
+  - node_id: 4a044b05-a5f4-4f73-97fe-7fc80687e04a
+    title: Mary of Agreda
+    node_type: person
+    slug: mary-of-agreda
+    shared_claims: 1
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    node_type: event
+    slug: roswell-incident-1947
+    shared_claims: 1
+  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+    title: Sheridan Cavitt
+    node_type: person
+    slug: sheridan-cavitt
+    shared_claims: 1
+  - node_id: d5847d0a-696c-43c3-94d2-131c257cbdb8
+    title: Spain
+    node_type: place
+    slug: spain
+    shared_claims: 1
+  - node_id: 231715b6-5623-479d-8d07-44f978bed8e3
+    title: The Day After Roswell
+    node_type: document
+    slug: the-day-after-roswell
+    shared_claims: 1
+  - node_id: 74505a33-a16b-4256-bd97-e40e2a2790c7
+    title: USA, Mississippi, Pascagoula
+    node_type: place
+    slug: mississippi-pascagoula-usa
+    shared_claims: 1
+  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+    title: USA, New Mexico, Roswell Army Air Field
+    node_type: place
+    slug: new-mexico-roswell-army-air-field-usa
+    shared_claims: 1
+  - node_id: dc8df2cd-fb0a-46c5-95f0-37e1c6b70d8a
+    title: USA, South Carolina/North Carolina, Carolina Bays
+    node_type: place
+    slug: south-carolinanorth-carolina-carolina-bays-usa
+    shared_claims: 1
   - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
     title: William Blanchard
+    node_type: person
     slug: william-blanchard
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  date: '1947-07-08'
-  date_end: null
-  location_in_record: ch28:1769-1866
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: fff6cfdb-c2d6-4199-81bc-f4eb57f23393
-  claim_hash: a0c0384c2c6053219f4794b45ca8fbe58d81e042be28ff71bbe7e501ddae3eaf
-  content: In July 1947, Walter Haut was stationed at Roswell Army Air Force Base
-    in Roswell, New Mexico, serving as the base Public Information Officer.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter Haut
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-    slug: walter-haut
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
-    title: USA, New Mexico, Roswell Army Air Force Base
-    slug: new-mexico-roswell-army-air-force-base-usa
-  date: 1947-07
-  date_end: null
-  location_in_record: ch28:310-437
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
-- claim_id: f9e9cccb-34f1-4424-b2f2-798e1980a4fe
-  claim_hash: 14912c79b4867bfb983596094fecb422db1c103b14a641df530c66596efc6045
-  content: By late afternoon on 1947-07-07, additional civilian reports came in regarding
-    a second debris site just north of Roswell, New Mexico.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-  provenance_chain:
-    origin_kind: speaker
-    origin: Walter Haut
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
-    title: Walter Haut
-    slug: walter-haut
-  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
-    title: USA, New Mexico
-    slug: new-mexico-usa
-  date: '1947-07-07'
-  date_end: null
-  location_in_record: ch28:889-1022
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
+    title: bilocation
+    node_type: topic
+    slug: bilocation
+    shared_claims: 1
+  - node_id: 5b467db5-ee87-4e53-809d-40d3ec6ab2d2
+    title: foo fighters
+    node_type: topic
+    slug: foo-fighters
+    shared_claims: 1
+  - node_id: 4e15faa2-81e1-4d59-a318-fe731a49447c
+    title: green fireballs of New Mexico
+    node_type: topic
+    slug: green-fireballs-of-new-mexico
+    shared_claims: 1
+  - node_id: 31ce8fce-7d60-4ef6-bcd0-15248adc466d
+    title: the artifact (Pasulka's anomalous object)
+    node_type: object
+    slug: the-artifact-pasulkas-anomalous-object
+    shared_claims: 1
+claims:
+  - claim_id: 76189a54-ed73-4613-a4a8-6cdf4d6a7c16
+    claim_hash: 3ea5aebd09840f744478bdf3b3c783ea3c20f9996fb12c7e5b401a3d43cf2c83
+    content: Major Murphy said the German V-2 rocket dated to 1944 and the Atlas rocket to the 1960s, and that foo fighters
+      appeared in 1943 and the green fireballs of New Mexico nine years later.
+    original_excerpt: You have V2s in 1944, and you have the Atlas rocket in the '60s. You have foo-fighters in '43, and the
+      green fireballs of New Mexico nine years later.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+      title: Major Murphy
+    provenance_chain:
+      origin_kind: speaker
+      origin: Major Murphy
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 347d6124-ce9c-451c-9484-a025536d517d
+        title: German V-2 rocket
+        slug: german-v-2-rocket
+      - node_id: 4e15faa2-81e1-4d59-a318-fe731a49447c
+        title: green fireballs of New Mexico
+        slug: green-fireballs-of-new-mexico
+      - node_id: 5b467db5-ee87-4e53-809d-40d3ec6ab2d2
+        title: foo fighters
+        slug: foo-fighters
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+        title: Major Murphy
+        slug: major-murphy
+    date: null
+    date_end: null
+    location_in_record: ch11:57747-57891
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 9d7b27c6-4e23-4e94-ba85-67bbfceeedfd
+    claim_hash: de4ec770dbeda8980b4d7aa792c3c0af406e17a94d1d6bfe67103caefb5ae2f1
+    content: Jacques Vallée notes a close association of many UFO sightings with advanced military hardware, including test
+      sites in New Mexico, missile silos of the northern plains, and the major nuclear facility at Pascagoula, Mississippi.
+    original_excerpt: The close association of many UFO sightings with advanced military hardware (test sites like the New
+      Mexico proving grounds, missile silos of the northern plains, naval construction sites like the major nuclear facility
+      at Pascagoula)
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 74505a33-a16b-4256-bd97-e40e2a2790c7
+        title: USA, Mississippi, Pascagoula
+        slug: mississippi-pascagoula-usa
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+    date: null
+    date_end: null
+    location_in_record: ch13:23069-23292
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 37fa21ee-6c14-4894-9375-21c924bc7902
+    claim_hash: c1095eb9eef8039fedd3c97a82b5bde5a5ee2523d15dd0052ea942102f2e9851
+    content: D. W. Pasulka received a phone call from Tyler D. the day after her conference, inviting her to a special place
+      in New Mexico to learn about the physical nature of the UFO phenomenon.
+    original_excerpt: On the day after I got back from the conference, I received a phone call from Tyler. Now that I had
+      begun to understand a little more about the phenomenon, he would like to take me to a special place in New Mexico where
+      I might understand a little more about the phenomenon’s physical nature.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch1:15950-16235
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: a12e3ff9-57da-473d-907c-0a8af6edbb2c
+    claim_hash: 68666ce0ad524867f16f1b96aca3d4c54d6ec49ace4b4a4344a1ee26acb6c0a8
+    content: Tyler D. sent videos to D. W. Pasulka of where he worked in USA, New Mexico.
+    original_excerpt: He sent videos of where he worked in New Me
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch1:19938-19975
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: cd789b76-fed3-48d5-a09b-81369801555e
+    claim_hash: 0e152d8c6c4cc3b66fcb7f1e4946884f72b56397d423a56feee1af573d5c20ee
+    content: James Master believed that if artifacts from the New Mexico site could be found, he could show that a nonhuman
+      aerial craft had truly landed there.
+    original_excerpt: If artifacts could be found, he believed he could show this had truly happened.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: James Master
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
+        title: James Master
+        slug: james-master
+    date: null
+    date_end: null
+    location_in_record: ch1:3111-3181
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 48715888-d696-4532-88cf-da0eda7fcd41
+    claim_hash: 63b8474ba227831bdbb58ee88e5c16e4c0bb15e403e8efcba94176066a0beb84
+    content: Tyler D. believed the New Mexico site was one of the most significant locations in the history of humanity.
+    original_excerpt: Tyler believed that this was one of the most significant locations in the history of humanity, and he
+      explained that only a handful of people had been there.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: Tyler D.
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+    date: null
+    date_end: null
+    location_in_record: ch1:3227-3378
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: dbd492dc-bb4a-4aac-ac6f-b124cf80c76d
+    claim_hash: c7dcb19b48e78dc49981716f298d8fb6168b37e53ce7d25925b696a57e19e6da
+    content: Only a handful of people had visited the New Mexico site that Tyler D. took D. W. Pasulka and James Master to.
+    original_excerpt: he explained that only a handful of people had been there
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: Tyler D.
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+    date: null
+    date_end: null
+    location_in_record: ch1:3326-3378
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 8038e5f9-55a6-43da-aedd-1779241e5e33
+    claim_hash: 6bfc2edab0e342d0b2e79949fa3edec9bda245f57fe50e7f81b9176b19156e91
+    content: According to Tyler D., when a craft crash occurred in New Mexico in 1947, the government took the craft, hid
+      it in a secret place, and disguised the area with tin cans and debris to prevent others from finding remaining artifacts.
+    original_excerpt: He said that, when the crash occurred in 1947, the government had taken the craft, hidden it away in
+      a secret place, and disguised the area with tin cans and debris to prevent others from finding any remaining artifacts.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: Tyler D.
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+    date: '1947'
+    date_end: null
+    location_in_record: ch1:5869-6079
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 541c2078-fadf-42bc-9e1b-2e0aaf3de938
+    claim_hash: f208d57d7edc3da1bcf6724c7dafb7894237f070814bf61c8eaead90d4baf421
+    content: D. W. Pasulka observed that the New Mexico site was covered with rusty tin cans, many of which had disintegrated
+      into a powdery rubble resembling compost.
+    original_excerpt: In fact, looking around, the area was covered over with tons of tin cans. The cans were rusty and most
+      of them had disintegrated into a powdery rubble that resembled compost.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch1:6090-6256
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 94ae0646-35d3-408c-a45e-464a3b3b816e
+    claim_hash: a40a83825b4519cf025ec56ba10458b07e49a8a3404c47085a611938bc016f26
+    content: Tyler D. configured metal detectors that he said had been specially configured to identify the crash-site artifacts
+      in New Mexico.
+    original_excerpt: He further explained that our metal detectors were special and had been configured to identify the artifacts.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: Tyler D.
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+    date: null
+    date_end: null
+    location_in_record: ch1:6265-6364
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 14466304-54e6-448b-a1e0-1e819bb9f005
+    claim_hash: 41260e2cbfaa00a3c3bf567b8f75847478c21ed1ca8b85d4ebd4c012d67f9065
+    content: The site D. W. Pasulka, James Master, and Tyler D. visited in USA, New Mexico was not Area 51.
+    original_excerpt: It was *not* Area 51, I was told.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: Tyler D.
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch1:669-697
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 159b40f5-ee4f-4ac8-8013-68a4372c8d5c
+    claim_hash: 19c5eab1796149f172ba9f9a94f41be99e4f64621acbebed1a8c3c07d31f20aa
+    content: The site visited by D. W. Pasulka, James Master, and Tyler D. was located in USA, New Mexico under a no-fly zone.
+    original_excerpt: But it *was* a place in New Mexico under a no-fly zone
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: Tyler D.
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch1:703-753
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: a38ef083-5b3e-4041-bd24-ec0a1e198617
+    claim_hash: 55314cab50cf7ad0eceeaf31375a3d38663c921b374a4d61c809a78a7a356130
+    content: Tyler D. believed the New Mexico site was a location where one could find artifacts of an extraterrestrial aerial
+      craft that had crashed in 1947.
+    original_excerpt: it was supposedly a location where one could find artifacts of an extraterrestrial aerial craft that
+      had crashed in 1947
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: Tyler D.
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+    date: null
+    date_end: null
+    location_in_record: ch1:763-879
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: a5f3172f-108c-49ef-bc13-b82b0ae16d56
+    claim_hash: 4f668d629498c824ab0dce72488eaf9b4d8545c0ad987a223275d980b0fdad5d
+    content: Tyler D. invited D. W. Pasulka to a site in New Mexico.
+    original_excerpt: One was Tyler’s invitation to the site in New Mexico.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch2:37476-37522
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 6d41abee-9086-4e14-9672-dd03d425a097
+    claim_hash: ecd6b1eb6f5926a4cc8ca7a308409d8016bf83c5093a1399554440114dac6423
+    content: Tyler D., James Master, and D. W. Pasulka travelled together to a site in New Mexico.
+    original_excerpt: By the time we traveled to New Mexico, they were already close associates.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
+        title: James Master
+        slug: james-master
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch2:38420-38483
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: eb5bfdb7-8d44-4256-8edc-b132e99a4733
+    claim_hash: 2409e36d00485883dc72ae8af04aa432dc3217baad2ac54c452b785f5536b54b
+    content: The New Mexico site Tyler D., James Master, and D. W. Pasulka visited was the site of a crash that occurred in
+      New Mexico in 1947, distinct from the Roswell event, and had been largely forgotten over time.
+    original_excerpt: It was the site of one of the crashes that occurred in New Mexico in 1947, but had been largely forgotten
+      over time. It was not the Roswell event.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+      title: Tyler D.
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tyler D.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+    date: '1947'
+    date_end: null
+    location_in_record: ch2:39717-39857
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 884138dd-3be3-4b35-abf4-6ec321e2b9fd
+    claim_hash: 284eeafa48b12b82cede202ba426ab19e32f5b7265e6190a681dc4a18c5cbd82
+    content: D. W. Pasulka considers the sites in New Mexico associated with the alleged 1947 crash to function as sacred
+      sites for a new religion of the UFO event and of technology.
+    original_excerpt: The sites in New Mexico function as sacred sites for a new religion, the religion of the UFO event and,
+      as I will argue, the religion of technology.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch2:44165-44302
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: c38c4d96-a6ed-48e4-8bbf-559ca18f221f
+    claim_hash: 6a7937ab1459281c41540fda44fab19da927ed62a453b36a5512b4e0b17e5ae8
+    content: Philip Corso's book "The Day After Roswell" claims there really was a crash of an alien vehicle in New Mexico,
+      and that it was his job to disseminate its debris and parts to private industry under the story that it was advanced
+      Chinese or Russian technology.
+    original_excerpt: Corso, on the other hand, insists that there really was a crash in New Mexico and that it was his job
+      to disseminate the debris and parts from the alien vehicle to private industry, with the story that they were advanced
+      Chinese or Russian technology
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
+      title: Philip Corso
+    provenance_chain:
+      origin_kind: named
+      origin: Philip Corso
+      relay:
+        - The Day After Roswell
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 231715b6-5623-479d-8d07-44f978bed8e3
+        title: The Day After Roswell
+        slug: the-day-after-roswell
+      - node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
+        title: Philip Corso
+        slug: philip-corso
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+    date: null
+    date_end: null
+    location_in_record: ch2:48990-49230
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 5179e1e1-9697-42b0-9558-f6c47d68721c
+    claim_hash: 18c131469f87155cac42a9399ca23550c820f0fb308d7bb39591e4772e840e52
+    content: During a trip to New Mexico, James Master told D. W. Pasulka that he thought the artifact they had found in the
+      desert was a "donation," most likely from nonhuman intelligence.
+    original_excerpt: During our trip to New Mexico, James told me that he thought the artifact we had found in the desert
+      was a “donation,” most likely from nonhuman intelligence.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: James Master
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31ce8fce-7d60-4ef6-bcd0-15248adc466d
+        title: the artifact (Pasulka's anomalous object)
+        slug: the-artifact-pasulkas-anomalous-object
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
+        title: James Master
+        slug: james-master
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch3:53661-53806
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: b958e26a-6b63-49c2-bf14-f4ac327a786a
+    claim_hash: 1944d8351688e7f277522145ef30f4eff26b07257443543ae78ee9ad9f90b4ac
+    content: D. W. Pasulka took Tyler D. to Rome, Italy as the culmination of their research collaboration, almost two years
+      after Tyler D. had taken her and James Master, blindfolded, to a UFO site in New Mexico.
+    original_excerpt: Almost two years had passed since Tyler had taken me and James, blindfolded, to ground zero of the UFO
+      myth in New Mexico. Now, as the culmination of our work together, I took Tyler to Rome
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+        title: Italy, Rome
+        slug: rome-italy
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
+        title: James Master
+        slug: james-master
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch7:1290-1475
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 2e03b18d-055d-48db-b15f-fc6cee9eeb71
+    claim_hash: b5c45c28a26132b436b07f021901ad73ff81b6029c38dd98d34affdd4ec294ad
+    content: Diana Pasulka observed that Sister Maria of Agreda's records described her claim of bilocating to New Mexico,
+      the same region that Tyler D. had taken Diana Pasulka and James Master to visit a supposed UFO crash site.
+    original_excerpt: I was struck by the thought that Sister Maria of Agreda, whose records I had seen, had claimed to have
+      bilocated to New Mexico, the part of the world where Tyler had taken James and me to visit the supposed UFO crash site.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+        title: Maria of Agreda
+        slug: maria-of-agreda
+      - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
+        title: James Master
+        slug: james-master
+      - node_id: ec6487e8-e972-48d0-8d3b-4b54f42bfcec
+        title: Sister Maria of Agreda's alleged bilocations to New Mexico
+        slug: sister-maria-of-agredas-alleged-bilocations-to-new-mexico
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch7:31322-31539
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: dc655e52-9fab-4083-89a6-85b721c5479b
+    claim_hash: 2178ef53e995aadb573377730ba76d6977550b8087943957b5bd05f6b91b4fe5
+    content: Diana Pasulka was blindfolded during the trip to the supposed UFO crash site in New Mexico and did not know exactly
+      where she was.
+    original_excerpt: “I was blindfolded on the trip to New Mexico,” I said, “so I don’t know exactly where I was.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch7:31628-31715
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 9e5717c5-27b6-43d6-bd08-f73c79ffcca9
+    claim_hash: d139a5e064c88dd037139be28554c6cdb5529c983a272830d64ce5db57e602a9
+    content: In the early 1600s, as Spain was exploring and colonising western North America, the young Sister Maria of Agreda
+      claimed that with the help of angels she flew through space and over the ocean to New Mexico.
+    original_excerpt: In the early 1600s, as Spain was exploring and colonizing western North America, the youthful Maria
+      claimed that with the help of angels she flew through space and over the ocean to New Mexico.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: Sister Maria of Agreda
+      relay:
+        - historical records
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+        title: Maria of Agreda
+        slug: maria-of-agreda
+      - node_id: d5847d0a-696c-43c3-94d2-131c257cbdb8
+        title: Spain
+        slug: spain
+      - node_id: ec6487e8-e972-48d0-8d3b-4b54f42bfcec
+        title: Sister Maria of Agreda's alleged bilocations to New Mexico
+        slug: sister-maria-of-agredas-alleged-bilocations-to-new-mexico
+    date: null
+    date_end: null
+    location_in_record: ch7:32125-32311
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 982eb8cf-0286-4b01-b781-64f871eca6d5
+    claim_hash: ba0de2e227e89f267c9546d0e67e994777acdd77f27f35f2f6ae0c155351633a
+    content: Franciscan missionaries in New Mexico reportedly encountered members of the Jumanos tribe who presented themselves
+      as eager to be baptised, allegedly saying they had been visited by a 'lady in blue' who spoke to them about the Catholic
+      faith.
+    original_excerpt: Allegedly, the Jumanos said that they had been visited by a “lady in blue” who spoke to them about the
+      Catholic faith.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: Jumanos
+      relay:
+        - reports of Franciscan missionaries
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 45a04a13-f002-40a6-b4e7-24bd17a19d06
+        title: Jumanos
+        slug: jumanos
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+    date: null
+    date_end: null
+    location_in_record: ch7:32703-32815
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 19c8399b-97b2-4571-b3bf-f4abd30ec923
+    claim_hash: cc088ad7b166182387133231a6916494bbc4ea270e25959f5a323e758cede5d6
+    content: Alonso de Benavides was the first commissioner of the Inquisition in New Mexico.
+    original_excerpt: This story traveled back to Spain with Alonso de Benavides, the first commissioner of the Inquisition
+      in New Mexico.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7984a925-bfbb-4b49-992e-8a931d400625
+        title: Alonso de Benavides
+        slug: alonso-de-benavides
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+    date: null
+    date_end: null
+    location_in_record: ch7:32824-32933
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 17db41d7-6773-40a5-9446-16563199eb25
+    claim_hash: 533f0a7f2cf622b90cebdd3d299757b471651f97cd0c5d80f48ac38fa54e98a0
+    content: As a young nun, Sister Maria of Agreda claimed to bilocate to colonial New Mexico, where she said she met indigenous
+      Americans, taught them about the Catholic faith, and prepared them to be baptised by Franciscan missionaries.
+    original_excerpt: As a young nun, she claimed to bilocate to colonial New Mexico, where she said she met indigenous Americans,
+      taught them about the Catholic faith, and prepared them to be baptized by Franciscan missionaries.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Sister Maria of Agreda
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: ec6487e8-e972-48d0-8d3b-4b54f42bfcec
+        title: Sister Maria of Agreda's alleged bilocations to New Mexico
+        slug: sister-maria-of-agredas-alleged-bilocations-to-new-mexico
+    date: null
+    date_end: null
+    location_in_record: ch7:3320-3514
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: bab43e10-df14-407d-9458-b6428a3780bf
+    claim_hash: 5f00598b1a17bc11700d22314e8ef5d791711a7af9a9e8c45a61c2cfb9e7d0bf
+    content: Tyler D. believed the beings he was in contact with were, or were similar to, the angels spoken of by Sister
+      Maria of Agreda that had transported her to what is now the southwestern United States.
+    original_excerpt: He believed that these beings were, or were similar to, the beings spoken of by Sister Maria, the angels
+      that had transported her to what is now the southwestern United States.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+      title: Tyler D.
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tyler D.
+      relay:
+        - D. W. Pasulka
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+        title: Maria of Agreda
+        slug: maria-of-agreda
+    date: null
+    date_end: null
+    location_in_record: ch7:41845-42014
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 919e3750-f401-4435-9934-9b6747e2c088
+    claim_hash: ffce7851c9389d5b0b3df8d317bbe6b2b66b1e3a537f043ebf6e702bac39d4ec
+    content: D. W. Pasulka considers Sister Maria of Agreda's alleged voyages to New Mexico to have helped Spanish missionaries
+      obtain funding to convert indigenous Americans, seeding cultural imagination in support of the missionaries' work.
+    original_excerpt: Maria allegedly bilocated to New Mexico, and the stories of her experiences helped Spanish missionaries
+      obtain funding to convert indigenous Americans.... Maria’s case is similar to Tyler’s in that she seeded the cultural
+      imagination with supernatural support for the missionaries’ work.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+        title: Maria of Agreda
+        slug: maria-of-agreda
+    date: null
+    date_end: null
+    location_in_record: ch7:6658-6982
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 74f71281-ed1b-4018-800c-64df5903b1ac
+    claim_hash: cb5ba0b20dee73364fe3354a351e3e1804cec014cf23a33a961d8b8f5755a113
+    content: During an encounter in the New Mexico desert, nonhuman visitors communicated the phrase "a new world if you can
+      take it" to Colonel Philip Corso.
+    original_excerpt: 'Remember the essential challenge of contact: "a new world if you can take it," communicated to Col.
+      Philip Corso many years ago during an encounter in the New Mexico desert.'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Philip Corso
+      relay:
+        - accounts of Philip Corso's encounter
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
+        title: Philip Corso
+        slug: philip-corso
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+    date: null
+    date_end: null
+    location_in_record: ch10:10291-10457
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 1fe6a5eb-844f-47f6-bae3-fb153c5157dc
+    claim_hash: 0488b18932e7da80fdaff4024526ec6526a252e427add6bf70bfe6debce8fc10
+    content: Some fragments from the Laurentide Ice Sheet impacts were hurled across the continent, with some impacting as
+      far away as New Mexico.
+    original_excerpt: Others were hurled across the continent, some impacting as far away as New Mexico
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e41e6a5-440a-4df4-b622-3ccd8607b5e0
+        title: Laurentide Ice Sheet
+        slug: laurentide-ice-sheet
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+    date: null
+    date_end: null
+    location_in_record: ch23:22843-22918
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 1804f7b8-5192-4684-b4a9-15baf01c73e2
+    claim_hash: fc290db2b087df9e0fd7f1264f7bccee3a0217ffdcd547cd8128f07aac08bbbe
+    content: Whitley Strieber describes the Laurentide glacier as having been struck by something so powerful that it sent
+      backsplash from the region that is now the Great Lakes into the Carolinas, and caused gigantic clumps of ice to sail
+      across the continent into New Mexico.
+    original_excerpt: The glacier was struck by something so powerful that it sent backsplash from the region that is now
+      the Great Lakes into the Carolinas, and caused gigantic clumps of ice to sail across the continent into New Mexico.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e41e6a5-440a-4df4-b622-3ccd8607b5e0
+        title: Laurentide Ice Sheet
+        slug: laurentide-ice-sheet
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: dc8df2cd-fb0a-46c5-95f0-37e1c6b70d8a
+        title: USA, South Carolina/North Carolina, Carolina Bays
+        slug: south-carolinanorth-carolina-carolina-bays-usa
+    date: null
+    date_end: null
+    location_in_record: ch26:34323-34531
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: c2620eed-7d92-458e-b6b6-c3fb79aa25ad
+    claim_hash: c91893f2aff48ac93354c6a630fba7779c9ee34c2142821259736e49d8d3a0a9
+    content: At the 1947-07-08 staff meeting, Jesse Marcel and Sheridan Cavitt reported on an extensive debris field in Lincoln
+      County, approximately 120 kilometres northwest of Roswell, New Mexico.
+    original_excerpt: The main topic of discussion was reported by Marcel and Cavitt regarding an extensive debris field in
+      Lincoln County approx. 75 miles NW of Roswell.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+        title: Sheridan Cavitt
+        slug: sheridan-cavitt
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch28:1620-1760
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: a799bc98-ece8-462d-8606-4b94309bb4ac
+    claim_hash: 4f86b983ee417436e8d4dda4879d5cdd562a014b951c680a8a4e3d10568a1aad
+    content: At the 1947-07-08 staff meeting, William Blanchard gave a preliminary briefing about a second debris site approximately
+      65 kilometres north of Roswell, New Mexico.
+    original_excerpt: A preliminary briefing was provided by Blanchard about the second site approx. 40 miles north of town.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch28:1769-1866
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: fff6cfdb-c2d6-4199-81bc-f4eb57f23393
+    claim_hash: a0c0384c2c6053219f4794b45ca8fbe58d81e042be28ff71bbe7e501ddae3eaf
+    content: In July 1947, Walter Haut was stationed at Roswell Army Air Force Base in Roswell, New Mexico, serving as the
+      base Public Information Officer.
+    original_excerpt: In July, 1947, I was stationed at the Roswell Army Air Base in Roswell, New Mexico, serving as the base
+      Public Information Officer.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+        title: USA, New Mexico, Roswell Army Air Field
+        slug: new-mexico-roswell-army-air-field-usa
+    date: 1947-07
+    date_end: null
+    location_in_record: ch28:310-437
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: f9e9cccb-34f1-4424-b2f2-798e1980a4fe
+    claim_hash: 14912c79b4867bfb983596094fecb422db1c103b14a641df530c66596efc6045
+    content: By late afternoon on 1947-07-07, additional civilian reports came in regarding a second debris site just north
+      of Roswell, New Mexico.
+    original_excerpt: By late in the afternoon that same day, I would learn that additional civilian reports came in regarding
+      a second site just north of Roswell.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+    date: '1947-07-07'
+    date_end: null
+    location_in_record: ch28:889-1022
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 84c455b5-0362-4e0c-89c3-1e7cb620e5c3
+    claim_hash: a371f3b39f81fd468ab38c2ac3dca997beff1d52dda3d3684381f2479a7a69e3
+    content: Mary of Agreda bilocated across the ocean to New Mexico.
+    original_excerpt: she bilocated to New Mexico that's right exactly across the ocean right
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: the historical account of Mary of Agreda as related by Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
+        title: bilocation
+        slug: bilocation
+      - node_id: 4a044b05-a5f4-4f73-97fe-7fc80687e04a
+        title: Mary of Agreda
+        slug: mary-of-agreda
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+    date: null
+    date_end: null
+    location_in_record: 01:59:25.0-01:59:29.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

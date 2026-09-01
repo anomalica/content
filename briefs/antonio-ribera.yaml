@@ -9,441 +9,454 @@ page:
   claim_count: 10
   claim_count_total: 10
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 10
+  tokens_estimated: 2877
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 10
 related_nodes:
-- node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
-  title: Jacques Bordas
-  node_type: person
-  slug: jacques-bordas
-  shared_claims: 6
-- node_id: 23946db4-a580-4494-b572-8ec5778678ee
-  title: Spain, Barcelona
-  node_type: place
-  slug: barcelona-spain
-  shared_claims: 4
-- node_id: a9fb4a33-e383-4095-898e-13e4f87131da
-  title: Xavier Clares Jerez
-  node_type: person
-  slug: xavier-clares-jerez
-  shared_claims: 2
-- node_id: bc972bc0-cee9-4b71-be06-5daa78fd2e4b
-  title: Andorra
-  node_type: place
-  slug: andorra
-  shared_claims: 1
-- node_id: a6806a15-a981-4c9d-afee-e8756ea538e5
-  title: Ballester-Olmos
-  node_type: person
-  slug: ballester-olmos
-  shared_claims: 1
-- node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
-  title: Fatima apparitions (1917)
-  node_type: event
-  slug: fatima-apparitions-1917
-  shared_claims: 1
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 1
-- node_id: 883e82e9-7303-437d-82ab-5f31919d6fdc
-  title: Rafael Farriols
-  node_type: person
-  slug: rafael-farriols
-  shared_claims: 1
-- node_id: 4c8a2a8d-4542-4b8d-bf52-a8ebcade3342
-  title: UMMO organization
-  node_type: organisation
-  slug: ummo-organization
-  shared_claims: 1
-- node_id: 8c698035-b1bb-4231-be16-058a4b2403a0
-  title: Vicente-Juan Ballester Olmos
-  node_type: person
-  slug: vicente-juan-ballester-olmos
-  shared_claims: 1
-claims:
-- claim_id: e6bccb0c-0bbf-4f54-9ff4-892c3aea06ed
-  claim_hash: 2356dd6e1dd3a9ba00f1bc1f07a6afd79f221de6c556d4a9ac243112a5e0d2ca
-  content: Antonio Ribera is a Spanish writer who knew Jacques Bordas for many years.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
-    title: Antonio Ribera
-    slug: antonio-ribera
   - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
     title: Jacques Bordas
+    node_type: person
     slug: jacques-bordas
-  date: null
-  date_end: null
-  location_in_record: ch9:20298-20393
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: b0cc8017-5435-4b9a-b992-976b3dd1d14c
-  claim_hash: b529fa3037a4720df351543d3fc86b7e864823fccee90f297fc2278a403505e2
-  content: Antonio Ribera said Jacques Bordas lives in a villa among pine trees in
-    the mountains of Andorra and takes long walks there.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
-    title: Antonio Ribera
-  provenance_chain:
-    origin_kind: named
-    origin: Antonio Ribera
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
-    title: Antonio Ribera
-    slug: antonio-ribera
-  - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
-    title: Jacques Bordas
-    slug: jacques-bordas
+    shared_claims: 6
+  - node_id: 23946db4-a580-4494-b572-8ec5778678ee
+    title: Spain, Barcelona
+    node_type: place
+    slug: barcelona-spain
+    shared_claims: 4
+  - node_id: a9fb4a33-e383-4095-898e-13e4f87131da
+    title: Xavier Clares Jerez
+    node_type: person
+    slug: xavier-clares-jerez
+    shared_claims: 2
   - node_id: bc972bc0-cee9-4b71-be06-5daa78fd2e4b
     title: Andorra
+    node_type: place
     slug: andorra
-  date: null
-  date_end: null
-  location_in_record: ch9:20399-20538
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: aa072216-6713-4d0f-a62d-448a8d17b475
-  claim_hash: 890c695467d19cb7abaac9f6a4a68d6b37b788c9465f934d254d89f205414fce
-  content: Antonio Ribera said Jacques Bordas sleeps three or four hours a day and
-    spends part of the night standing naked and motionless as if recharging in a shower
-    of invisible rays.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
-    title: Antonio Ribera
-  provenance_chain:
-    origin_kind: named
-    origin: Antonio Ribera
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
-    title: Antonio Ribera
-    slug: antonio-ribera
-  - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
-    title: Jacques Bordas
-    slug: jacques-bordas
-  date: null
-  date_end: null
-  location_in_record: ch9:20633-20758
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 6724551a-044f-4749-8223-09272d1489b5
-  claim_hash: c528f5b2774fe12e52d601f167eb948388bf0ae21e8fdea79d1fd66af86de194
-  content: Antonio Ribera's father, the Rumanian Consul in Barcelona, helped Jacques
-    Bordas escape to France.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 23946db4-a580-4494-b572-8ec5778678ee
-    title: Spain, Barcelona
-    slug: barcelona-spain
-  - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
-    title: Antonio Ribera
-    slug: antonio-ribera
-  - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
-    title: Jacques Bordas
-    slug: jacques-bordas
-  date: null
-  date_end: null
-  location_in_record: ch9:24845-24924
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: 79cf65cb-2f99-4119-83d5-70447a7847e5
-  claim_hash: 8ce8e55ff4e14252366340ef3aea019ca02d372ab9f4a9d987074a94266b33c0
-  content: Jacques Vallée flew to Barcelona to meet Antonio Ribera and another Spanish
-    researcher, Ballester-Olmos, to discuss the fate of Jacques Bordas.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jacques Vallée
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 23946db4-a580-4494-b572-8ec5778678ee
-    title: Spain, Barcelona
-    slug: barcelona-spain
-  - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
-    title: Antonio Ribera
-    slug: antonio-ribera
-  - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
-    title: Jacques Bordas
-    slug: jacques-bordas
+    shared_claims: 1
   - node_id: a6806a15-a981-4c9d-afee-e8756ea538e5
     title: Ballester-Olmos
+    node_type: person
     slug: ballester-olmos
-  date: null
-  date_end: null
-  location_in_record: ch9:29207-29302
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: b45eab96-3d6f-43c7-8e84-33cda84fbd21
-  claim_hash: 044be0b1dcc27b6942eb554ff702f0d95381270d2acea940c488244f72c69460
-  content: Antonio Ribera told Jacques Vallée that Jacques Bordas was spending several
-    weeks in Barcelona and could be met there in person the next day.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
-    title: Antonio Ribera
-  provenance_chain:
-    origin_kind: named
-    origin: Antonio Ribera
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 23946db4-a580-4494-b572-8ec5778678ee
-    title: Spain, Barcelona
-    slug: barcelona-spain
-  - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
-    title: Antonio Ribera
-    slug: antonio-ribera
-  - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
-    title: Jacques Bordas
-    slug: jacques-bordas
-  date: null
-  date_end: null
-  location_in_record: ch9:29619-29740
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
-    record_title: 'Messengers of Deception: UFO Contacts and Cults'
-    record_date: '0101-01-01'
-    record_reference: null
-    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
-    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
-  excerpt_withheld: restricted
-- claim_id: cd37ec7c-5b88-40cc-a863-5615f61d57c5
-  claim_hash: fd1e7869518d960dec1495f068bff1b005f11617b05cd4aadd33498812ea5c25
-  content: Spanish researcher Antonio Ribera believed all events at Fatima were just
-    misinterpreted extraterrestrial encounters.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Ribera, Antonio
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
-    title: Antonio Ribera
-    slug: antonio-ribera
+    shared_claims: 1
   - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
     title: Fatima apparitions (1917)
+    node_type: event
     slug: fatima-apparitions-1917
-  date: '1964'
-  date_end: null
-  location_in_record: ch4:17752-17909
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-    record_title: The Fatima Secret
-    record_date: '2000-11-28'
-    record_reference: null
-    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-    friendly_name: 2000-11-28-ebook-the-fatima-secret
-  excerpt_withheld: restricted
-- claim_id: 320cedcb-11b1-4fa1-a8c8-90d9efac60c2
-  claim_hash: 17f5f1a1ea2c70a09a275bc9a2d0394f1fc5363cc94b35774706f54f7c3fcbd7
-  content: On January 12, 1986, just before Antonio Ribera submitted his report for
-    publication, Xavier Clares Jerez's "double" was reportedly seen again in Barcelona,
-    still wearing the same Hawaiian shirt.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Antonio Ribera
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 23946db4-a580-4494-b572-8ec5778678ee
-    title: Spain, Barcelona
-    slug: barcelona-spain
-  - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
-    title: Antonio Ribera
-    slug: antonio-ribera
-  - node_id: a9fb4a33-e383-4095-898e-13e4f87131da
-    title: Xavier Clares Jerez
-    slug: xavier-clares-jerez
-  date: '1986-01-12'
-  date_end: null
-  location_in_record: ch20:23607-23785
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: f5bdb813-77f7-4998-b7ae-523b854f0224
-  claim_hash: 2a14dbad45626d40d13051628e9adedd217639959fad98c4d10b87d43b31eb7e
-  content: Vicente-Juan Ballester Olmos noted that sloppy hypnosis procedures were
-    used in the Xavier Clares Jerez case, and after Antonio Ribera no one investigated
-    the case further.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 8c698035-b1bb-4231-be16-058a4b2403a0
-    title: Vicente-Juan Ballester Olmos
-  provenance_chain:
-    origin_kind: speaker
-    origin: Vicente-Juan Ballester Olmos
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
-    title: Antonio Ribera
-    slug: antonio-ribera
-  - node_id: 8c698035-b1bb-4231-be16-058a4b2403a0
-    title: Vicente-Juan Ballester Olmos
-    slug: vicente-juan-ballester-olmos
-  - node_id: a9fb4a33-e383-4095-898e-13e4f87131da
-    title: Xavier Clares Jerez
-    slug: xavier-clares-jerez
-  date: null
-  date_end: null
-  location_in_record: ch20:25203-25409
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
-    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-    record_date: '2005-11-14'
-    record_reference: null
-    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
-    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
-  excerpt_withheld: restricted
-- claim_id: d168b171-5a6e-4288-9dce-f58995090618
-  claim_hash: 4ec571871f5c89ba95953e5f6d11b221426d33c33d9b86b85c16fe58340bc33e
-  content: 'The capsule examined by Rafael Farriols and Antonio Ribera contained a
-    piece of green plastic engraved with the symbol of the UFO: three vertical bars
-    crossed horizontally.'
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
-    title: Antonio Ribera
-    slug: antonio-ribera
-  - node_id: 4c8a2a8d-4542-4b8d-bf52-a8ebcade3342
-    title: UMMO organization
-    slug: ummo-organization
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
   - node_id: 883e82e9-7303-437d-82ab-5f31919d6fdc
     title: Rafael Farriols
+    node_type: person
     slug: rafael-farriols
-  date: null
-  date_end: null
-  location_in_record: ch12:11746-11911
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
-    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
-      About UFO Influences on the Human Race'
-    record_date: '2014-09-27'
-    record_reference: null
-    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
-    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 4c8a2a8d-4542-4b8d-bf52-a8ebcade3342
+    title: UMMO organization
+    node_type: organisation
+    slug: ummo-organization
+    shared_claims: 1
+  - node_id: 8c698035-b1bb-4231-be16-058a4b2403a0
+    title: Vicente-Juan Ballester Olmos
+    node_type: person
+    slug: vicente-juan-ballester-olmos
+    shared_claims: 1
+claims:
+  - claim_id: e6bccb0c-0bbf-4f54-9ff4-892c3aea06ed
+    claim_hash: 2356dd6e1dd3a9ba00f1bc1f07a6afd79f221de6c556d4a9ac243112a5e0d2ca
+    content: Antonio Ribera is a Spanish writer who knew Jacques Bordas for many years.
+    original_excerpt: This is what Antonio Ribera, a gifted Spanish writer who has known him for many years, said of him
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
+        title: Antonio Ribera
+        slug: antonio-ribera
+      - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
+        title: Jacques Bordas
+        slug: jacques-bordas
+    date: null
+    date_end: null
+    location_in_record: ch9:20298-20393
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: b0cc8017-5435-4b9a-b992-976b3dd1d14c
+    claim_hash: b529fa3037a4720df351543d3fc86b7e864823fccee90f297fc2278a403505e2
+    content: Antonio Ribera said Jacques Bordas lives in a villa among pine trees in the mountains of Andorra and takes long
+      walks there.
+    original_excerpt: He still has muscles of steel, and takes long walks through the mountains of Andorra, where he lives
+      in a magnificent villa among the pine trees.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
+      title: Antonio Ribera
+    provenance_chain:
+      origin_kind: named
+      origin: Antonio Ribera
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
+        title: Antonio Ribera
+        slug: antonio-ribera
+      - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
+        title: Jacques Bordas
+        slug: jacques-bordas
+      - node_id: bc972bc0-cee9-4b71-be06-5daa78fd2e4b
+        title: Andorra
+        slug: andorra
+    date: null
+    date_end: null
+    location_in_record: ch9:20399-20538
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: aa072216-6713-4d0f-a62d-448a8d17b475
+    claim_hash: 890c695467d19cb7abaac9f6a4a68d6b37b788c9465f934d254d89f205414fce
+    content: Antonio Ribera said Jacques Bordas sleeps three or four hours a day and spends part of the night standing naked
+      and motionless as if recharging in a shower of invisible rays.
+    original_excerpt: He spends a large part of the night standing naked and motionless, as if recharging his "batteries"
+      in a shower of invisible rays.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
+      title: Antonio Ribera
+    provenance_chain:
+      origin_kind: named
+      origin: Antonio Ribera
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
+        title: Antonio Ribera
+        slug: antonio-ribera
+      - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
+        title: Jacques Bordas
+        slug: jacques-bordas
+    date: null
+    date_end: null
+    location_in_record: ch9:20633-20758
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 6724551a-044f-4749-8223-09272d1489b5
+    claim_hash: c528f5b2774fe12e52d601f167eb948388bf0ae21e8fdea79d1fd66af86de194
+    content: Antonio Ribera's father, the Rumanian Consul in Barcelona, helped Jacques Bordas escape to France.
+    original_excerpt: Ribera’s father, who was Rumanian Consul in Barcelona, helped Bordas escape to France.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23946db4-a580-4494-b572-8ec5778678ee
+        title: Spain, Barcelona
+        slug: barcelona-spain
+      - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
+        title: Antonio Ribera
+        slug: antonio-ribera
+      - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
+        title: Jacques Bordas
+        slug: jacques-bordas
+    date: null
+    date_end: null
+    location_in_record: ch9:24845-24924
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 79cf65cb-2f99-4119-83d5-70447a7847e5
+    claim_hash: 8ce8e55ff4e14252366340ef3aea019ca02d372ab9f4a9d987074a94266b33c0
+    content: Jacques Vallée flew to Barcelona to meet Antonio Ribera and another Spanish researcher, Ballester-Olmos, to discuss
+      the fate of Jacques Bordas.
+    original_excerpt: I flew to Barcelona to meet Antonio Ribera and another Spanish researcher, Ballester-Olmos... None was
+      more intriguing than the fate of Jacques Bordas.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 23946db4-a580-4494-b572-8ec5778678ee
+        title: Spain, Barcelona
+        slug: barcelona-spain
+      - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
+        title: Antonio Ribera
+        slug: antonio-ribera
+      - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
+        title: Jacques Bordas
+        slug: jacques-bordas
+      - node_id: a6806a15-a981-4c9d-afee-e8756ea538e5
+        title: Ballester-Olmos
+        slug: ballester-olmos
+    date: null
+    date_end: null
+    location_in_record: ch9:29207-29302
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: b45eab96-3d6f-43c7-8e84-33cda84fbd21
+    claim_hash: 044be0b1dcc27b6942eb554ff702f0d95381270d2acea940c488244f72c69460
+    content: Antonio Ribera told Jacques Vallée that Jacques Bordas was spending several weeks in Barcelona and could be met
+      there in person the next day.
+    original_excerpt: “You will not have to go that far!” was his answer. “He is spending several weeks right in this city.
+      You can talk to him tomorrow.”
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
+      title: Antonio Ribera
+    provenance_chain:
+      origin_kind: named
+      origin: Antonio Ribera
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23946db4-a580-4494-b572-8ec5778678ee
+        title: Spain, Barcelona
+        slug: barcelona-spain
+      - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
+        title: Antonio Ribera
+        slug: antonio-ribera
+      - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
+        title: Jacques Bordas
+        slug: jacques-bordas
+    date: null
+    date_end: null
+    location_in_record: ch9:29619-29740
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: cd37ec7c-5b88-40cc-a863-5615f61d57c5
+    claim_hash: fd1e7869518d960dec1495f068bff1b005f11617b05cd4aadd33498812ea5c25
+    content: Spanish researcher Antonio Ribera believed all events at Fatima were just misinterpreted extraterrestrial encounters.
+    original_excerpt: Others followed, such as Spanish researcher Antonio Ribera, who believed all events in Fatima were just
+      “misinterpreted extraterrestrial encounters” (Ribera 1964)
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Ribera, Antonio
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
+        title: Antonio Ribera
+        slug: antonio-ribera
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: '1964'
+    date_end: null
+    location_in_record: ch4:17752-17909
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 320cedcb-11b1-4fa1-a8c8-90d9efac60c2
+    claim_hash: 17f5f1a1ea2c70a09a275bc9a2d0394f1fc5363cc94b35774706f54f7c3fcbd7
+    content: On January 12, 1986, just before Antonio Ribera submitted his report for publication, Xavier Clares Jerez's "double"
+      was reportedly seen again in Barcelona, still wearing the same Hawaiian shirt.
+    original_excerpt: On January 12, 1986, just before Ribera submitted his report for publication, with Barcelona in winter’s
+      full grip, Xavier’s “double” was seen again, still wearing that Hawaiian shirt!
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Antonio Ribera
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23946db4-a580-4494-b572-8ec5778678ee
+        title: Spain, Barcelona
+        slug: barcelona-spain
+      - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
+        title: Antonio Ribera
+        slug: antonio-ribera
+      - node_id: a9fb4a33-e383-4095-898e-13e4f87131da
+        title: Xavier Clares Jerez
+        slug: xavier-clares-jerez
+    date: '1986-01-12'
+    date_end: null
+    location_in_record: ch20:23607-23785
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: f5bdb813-77f7-4998-b7ae-523b854f0224
+    claim_hash: 2a14dbad45626d40d13051628e9adedd217639959fad98c4d10b87d43b31eb7e
+    content: Vicente-Juan Ballester Olmos noted that sloppy hypnosis procedures were used in the Xavier Clares Jerez case,
+      and after Antonio Ribera no one investigated the case further.
+    original_excerpt: In addition, sloppy hypnosis procedures were used. After Ribera, no one ever worried about the case
+      and, to the best of my memory, no one came back to it again. Probably it was ‘too much’ even for gullible ufologists.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8c698035-b1bb-4231-be16-058a4b2403a0
+      title: Vicente-Juan Ballester Olmos
+    provenance_chain:
+      origin_kind: speaker
+      origin: Vicente-Juan Ballester Olmos
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
+        title: Antonio Ribera
+        slug: antonio-ribera
+      - node_id: 8c698035-b1bb-4231-be16-058a4b2403a0
+        title: Vicente-Juan Ballester Olmos
+        slug: vicente-juan-ballester-olmos
+      - node_id: a9fb4a33-e383-4095-898e-13e4f87131da
+        title: Xavier Clares Jerez
+        slug: xavier-clares-jerez
+    date: null
+    date_end: null
+    location_in_record: ch20:25203-25409
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: d168b171-5a6e-4288-9dce-f58995090618
+    claim_hash: 4ec571871f5c89ba95953e5f6d11b221426d33c33d9b86b85c16fe58340bc33e
+    content: 'The capsule examined by Rafael Farriols and Antonio Ribera contained a piece of green plastic engraved with
+      the symbol of the UFO: three vertical bars crossed horizontally.'
+    original_excerpt: 'The device that was examined by Farriols and Ribera contained a piece of green plastic on which the
+      very symbol of the UFO was engraved: three vertical bars crossed horizontally.'
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
+        title: Antonio Ribera
+        slug: antonio-ribera
+      - node_id: 4c8a2a8d-4542-4b8d-bf52-a8ebcade3342
+        title: UMMO organization
+        slug: ummo-organization
+      - node_id: 883e82e9-7303-437d-82ab-5f31919d6fdc
+        title: Rafael Farriols
+        slug: rafael-farriols
+    date: null
+    date_end: null
+    location_in_record: ch12:11746-11911
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has

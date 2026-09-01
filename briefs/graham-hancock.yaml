@@ -9,149 +9,166 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 1245
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
 related_nodes:
-- node_id: c43a35ec-a72d-4b83-92e7-00ff3d162195
-  title: Coast to Coast AM
-  node_type: document
-  slug: coast-to-coast-am
-  shared_claims: 1
-- node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
-  title: Cydonia
-  node_type: place
-  slug: cydonia
-  shared_claims: 1
-- node_id: 43673711-f23c-41e9-8c40-f39545db9151
-  title: Pyramid Text
-  node_type: document
-  slug: pyramid-text
-  shared_claims: 1
-- node_id: 94d85a8d-95a8-40fb-afa1-34cf708677ac
-  title: Robert Bauval
-  node_type: person
-  slug: robert-bauval
-  shared_claims: 1
-- node_id: 58ae6b8d-0a7d-4098-8fcd-013a864dd94b
-  title: The Mars Mystery (book)
-  node_type: document
-  slug: the-mars-mystery-book
-  shared_claims: 1
-claims:
-- claim_id: a9ab46f3-0c40-48fa-a675-1eea75fe6c54
-  claim_hash: c65682b063e711a796ef06a0ff35bd17fbf5dd518e8494d22b89a0ac81018d20
-  content: Robert Bauval and Graham Hancock's interpretations found repeated, emphatic
-    references in the Pyramid Texts linking the Pyramid/Orion/Sirius/Sphinx/Leo connection
-    to a literal "First Time," referencing an extremely ancient civilisation circa
-    10,500 BC that ended catastrophically.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Robert Bauval and Graham Hancock
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 43673711-f23c-41e9-8c40-f39545db9151
-    title: Pyramid Text
-    slug: pyramid-text
-  - node_id: 7fd65861-eda0-4690-8268-f21edba6a031
-    title: Graham Hancock
-    slug: graham-hancock
-  - node_id: 94d85a8d-95a8-40fb-afa1-34cf708677ac
-    title: Robert Bauval
-    slug: robert-bauval
-  date: null
-  date_end: null
-  location_in_record: ch12:15876-16333
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: e8e9e743-0af4-4269-96e4-c287e7f3e60c
-  claim_hash: 2ef190f8fd3addee0661f50731e465ef72d75fbc0d74b72a407972d881979d51
-  content: Graham Hancock, a sometime Face on Mars proponent who authored the book
-    The Mars Mystery about the Cydonia controversy, appeared on Coast to Coast AM
-    a few days after the Catbox image was released and said he believed the advocates
-    of the Cydonia hypothesis had been dealt a blow.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 7fd65861-eda0-4690-8268-f21edba6a031
-    title: Graham Hancock
-  provenance_chain:
-    origin_kind: speaker
-    origin: Graham Hancock
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 58ae6b8d-0a7d-4098-8fcd-013a864dd94b
-    title: The Mars Mystery (book)
-    slug: the-mars-mystery-book
-  - node_id: 7fd65861-eda0-4690-8268-f21edba6a031
-    title: Graham Hancock
-    slug: graham-hancock
   - node_id: c43a35ec-a72d-4b83-92e7-00ff3d162195
     title: Coast to Coast AM
+    node_type: document
     slug: coast-to-coast-am
+    shared_claims: 1
   - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
     title: Cydonia
+    node_type: place
     slug: cydonia
-  date: null
-  date_end: null
-  location_in_record: ch13:33942-34250
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 9e1a6465-c7ba-4775-bc86-f85fd968f733
-  claim_hash: 3b86cfd321a70306f347061923ad5779c67f6989d84f49d96062e3765444b33a
-  content: Graham Hancock asserts that there has been so little underwater archaeology
-    that no useful conclusions can be drawn about whether there were greater population
-    centres prior to the earliest civilisations in India, Sumeria, and Egypt around
-    approximately 3000 BCE.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 7fd65861-eda0-4690-8268-f21edba6a031
-    title: Graham Hancock
-  provenance_chain:
-    origin_kind: named
-    origin: Graham Hancock
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 7fd65861-eda0-4690-8268-f21edba6a031
-    title: Graham Hancock
-    slug: graham-hancock
-  date: null
-  date_end: null
-  location_in_record: ch23:15827-16122
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-    record_title: The Fourth Mind
-    record_date: '2025-01-15'
-    record_reference: null
-    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-    friendly_name: 2025-01-15-ebook-the-fourth-mind
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: 43673711-f23c-41e9-8c40-f39545db9151
+    title: Pyramid Text
+    node_type: document
+    slug: pyramid-text
+    shared_claims: 1
+  - node_id: 94d85a8d-95a8-40fb-afa1-34cf708677ac
+    title: Robert Bauval
+    node_type: person
+    slug: robert-bauval
+    shared_claims: 1
+  - node_id: 58ae6b8d-0a7d-4098-8fcd-013a864dd94b
+    title: The Mars Mystery (book)
+    node_type: document
+    slug: the-mars-mystery-book
+    shared_claims: 1
+claims:
+  - claim_id: a9ab46f3-0c40-48fa-a675-1eea75fe6c54
+    claim_hash: c65682b063e711a796ef06a0ff35bd17fbf5dd518e8494d22b89a0ac81018d20
+    content: Robert Bauval and Graham Hancock's interpretations found repeated, emphatic references in the Pyramid Texts linking
+      the Pyramid/Orion/Sirius/Sphinx/Leo connection to a literal "First Time," referencing an extremely ancient civilisation
+      circa 10,500 BC that ended catastrophically.
+    original_excerpt: Bauval and Hancock’s new interpretations also took seriously, for the first time, repeated, emphatic
+      references found within the texts linking this Pyramid/Orion/Sirius/Sphinx/Leo connection to a literal “First Time.”
+      References to this extremely ancient, enigmatic and apparently catastrophically-ended civilization (circa 10,500 BC)
+      still apparently echoed in the surviving celestial identifications with these particular “key” regions of the sky [Fig.
+      5-4].
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert Bauval and Graham Hancock
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43673711-f23c-41e9-8c40-f39545db9151
+        title: Pyramid Text
+        slug: pyramid-text
+      - node_id: 7fd65861-eda0-4690-8268-f21edba6a031
+        title: Graham Hancock
+        slug: graham-hancock
+      - node_id: 94d85a8d-95a8-40fb-afa1-34cf708677ac
+        title: Robert Bauval
+        slug: robert-bauval
+    date: null
+    date_end: null
+    location_in_record: ch12:15876-16333
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e8e9e743-0af4-4269-96e4-c287e7f3e60c
+    claim_hash: 2ef190f8fd3addee0661f50731e465ef72d75fbc0d74b72a407972d881979d51
+    content: Graham Hancock, a sometime Face on Mars proponent who authored the book The Mars Mystery about the Cydonia controversy,
+      appeared on Coast to Coast AM a few days after the Catbox image was released and said he believed the advocates of the
+      Cydonia hypothesis had been dealt a blow.
+    original_excerpt: Graham Hancock, a sometime Face proponent who later authored a book about Mars and the Cydonia controversy
+      (*The Mars Mystery*), appeared on *Coast to Coast AM* a few days after the Catbox image was released and stated “I have
+      to say, I believe that the advocates of the Cydonia hypothesis have been dealt a blow.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7fd65861-eda0-4690-8268-f21edba6a031
+      title: Graham Hancock
+    provenance_chain:
+      origin_kind: speaker
+      origin: Graham Hancock
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 58ae6b8d-0a7d-4098-8fcd-013a864dd94b
+        title: The Mars Mystery (book)
+        slug: the-mars-mystery-book
+      - node_id: 7fd65861-eda0-4690-8268-f21edba6a031
+        title: Graham Hancock
+        slug: graham-hancock
+      - node_id: c43a35ec-a72d-4b83-92e7-00ff3d162195
+        title: Coast to Coast AM
+        slug: coast-to-coast-am
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+    date: null
+    date_end: null
+    location_in_record: ch13:33942-34250
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 9e1a6465-c7ba-4775-bc86-f85fd968f733
+    claim_hash: 3b86cfd321a70306f347061923ad5779c67f6989d84f49d96062e3765444b33a
+    content: Graham Hancock asserts that there has been so little underwater archaeology that no useful conclusions can be
+      drawn about whether there were greater population centres prior to the earliest civilisations in India, Sumeria, and
+      Egypt around approximately 3000 BCE.
+    original_excerpt: there has been so little underwater archaeology that no useful conclusions can be drawn about whether
+      there were greater population centers prior to the appearance of the earliest civilizations in India, Sumeria and Egypt
+      around approximately 3000 BCE, which is what conventional archaeologists believe
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 7fd65861-eda0-4690-8268-f21edba6a031
+      title: Graham Hancock
+    provenance_chain:
+      origin_kind: named
+      origin: Graham Hancock
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7fd65861-eda0-4690-8268-f21edba6a031
+        title: Graham Hancock
+        slug: graham-hancock
+    date: null
+    date_end: null
+    location_in_record: ch23:15827-16122
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind

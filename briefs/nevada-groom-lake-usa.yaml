@@ -9,550 +9,562 @@ page:
   claim_count: 12
   claim_count_total: 12
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 12
+  tokens_estimated: 3273
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 12
 related_nodes:
-- node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
-  title: Craig McPherson
-  node_type: person
-  slug: craig-mcpherson
-  shared_claims: 5
-- node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
-  title: Janet Airlines
-  node_type: organisation
-  slug: janet-airlines
-  shared_claims: 3
-- node_id: fcfc1448-b63d-4336-aa4d-ba414bf57d28
-  title: Dennis Mariani
-  node_type: person
-  slug: dennis-mariani
-  shared_claims: 2
-- node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
-  title: EG&G
-  node_type: organisation
-  slug: egg
-  shared_claims: 2
-- node_id: a1c194b8-6ce1-4a1a-b9c9-ee35f289b3eb
-  title: Foreign Technology Applications Studies Division (FTASD)
-  node_type: organisation
-  slug: foreign-technology-applications-studies-division-ftasd
-  shared_claims: 2
-- node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
-  title: USA, Nevada, Area 51
-  node_type: place
-  slug: nevada-area-51-usa
-  shared_claims: 2
-- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-  title: United States Air Force (USAF)
-  node_type: organisation
-  slug: united-states-air-force-usaf
-  shared_claims: 2
-- node_id: 63e1b3ae-d158-452e-af0c-46def54337cd
-  title: 1991 Nellis Air Force Base security lockdown
-  node_type: event
-  slug: 1991-nellis-air-force-base-security-lockdown
-  shared_claims: 1
-- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-  title: Chris Ramsay
-  node_type: person
-  slug: chris-ramsay
-  shared_claims: 1
-- node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-  title: National Reconnaissance Office (NRO)
-  node_type: organisation
-  slug: national-reconnaissance-office-nro
-  shared_claims: 1
-- node_id: bc6bae79-93f4-4a4a-a101-b4b195dbf64d
-  title: USA, Nevada, Dreamland
-  node_type: place
-  slug: nevada-dreamland-usa
-  shared_claims: 1
-- node_id: 2d997284-4cd7-4aba-8527-2d7ab31365ed
-  title: USA, Nevada, Indian Springs Air Force Base
-  node_type: place
-  slug: nevada-indian-springs-air-force-base-usa
-  shared_claims: 1
-- node_id: 8449e1be-95c3-4636-9f3f-b1768eeed1cd
-  title: USA, Nevada, Nellis Air Force Base
-  node_type: place
-  slug: nevada-nellis-air-force-base-usa
-  shared_claims: 1
-- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-  title: Unidentified Flying Object (UFO)
-  node_type: topic
-  slug: unidentified-flying-object-ufo
-  shared_claims: 1
-claims:
-- claim_id: 7b15f9d6-87fd-41cb-9248-f2dc1b3083be
-  claim_hash: 64938f3e0e8b58c11311ba370c59640893386f70bf99c3f5ce237d311357b93b
-  content: During the late 1950s, the United States Air Force built an underground
-    facility at Groom Lake.
-  original_excerpt: During this time frame, the Air Force built an underground facility
-    at Groom Lake.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+  - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
     title: Craig McPherson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Craig McPherson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    node_type: person
+    slug: craig-mcpherson
+    shared_claims: 5
+  - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
+    title: Janet Airlines
+    node_type: organisation
+    slug: janet-airlines
+    shared_claims: 3
+  - node_id: fcfc1448-b63d-4336-aa4d-ba414bf57d28
+    title: Dennis Mariani
+    node_type: person
+    slug: dennis-mariani
+    shared_claims: 2
+  - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
+    title: EG&G
+    node_type: organisation
+    slug: egg
+    shared_claims: 2
+  - node_id: a1c194b8-6ce1-4a1a-b9c9-ee35f289b3eb
+    title: Foreign Technology Applications Studies Division (FTASD)
+    node_type: organisation
+    slug: foreign-technology-applications-studies-division-ftasd
+    shared_claims: 2
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    node_type: place
+    slug: nevada-area-51-usa
+    shared_claims: 2
   - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
     title: United States Air Force (USAF)
+    node_type: organisation
     slug: united-states-air-force-usaf
-  - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
-    title: Craig McPherson
-    slug: craig-mcpherson
-  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
-    title: USA, Nevada, Groom Lake
-    slug: nevada-groom-lake-usa
-  date: null
-  date_end: null
-  location_in_record: char:3496-3573
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
-    record_title: Project Serpo
-    record_date: '2007-06-20'
-    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
-    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
-    friendly_name: null
-- claim_id: e0fbae53-dfbf-4839-8bd1-64aecc47116a
-  claim_hash: cab63350a7ae9e5be0c0a3d536cf566cdfb0ccd0a5335c38e7b539fd61d76224
-  content: Construction of the underground facility at Groom Lake started in 1955
-    and ended sometime during the summer of 1959.
-  original_excerpt: The construction started in 1955 and ended sometime during the
-    summer of 1959.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
-    title: Craig McPherson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Craig McPherson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
-    title: Craig McPherson
-    slug: craig-mcpherson
-  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
-    title: USA, Nevada, Groom Lake
-    slug: nevada-groom-lake-usa
-  date: '1955'
-  date_end: null
-  location_in_record: char:3579-3652
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
-    record_title: Project Serpo
-    record_date: '2007-06-20'
-    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
-    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
-    friendly_name: null
-- claim_id: cbeeff48-62a2-448f-aab8-68d38b4b3ea0
-  claim_hash: 74737ae6b8d37181b142ead7c22d42180a462bb062c06517a161ff0c1f65c29b
-  content: 'The Foreign Technology Applications Studies Division had three different
-    facilities: two at Groom Lake and one at Indian Springs.'
-  original_excerpt: We had three (3) different facilities, two of them at Groom Lake
-    and one at Indian Springs.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
-    title: Craig McPherson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Craig McPherson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2d997284-4cd7-4aba-8527-2d7ab31365ed
-    title: USA, Nevada, Indian Springs Air Force Base
-    slug: nevada-indian-springs-air-force-base-usa
-  - node_id: a1c194b8-6ce1-4a1a-b9c9-ee35f289b3eb
-    title: Foreign Technology Applications Studies Division (FTASD)
-    slug: foreign-technology-applications-studies-division-ftasd
-  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
-    title: USA, Nevada, Groom Lake
-    slug: nevada-groom-lake-usa
-  date: null
-  date_end: null
-  location_in_record: char:3732-3815
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
-    record_title: Project Serpo
-    record_date: '2007-06-20'
-    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
-    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
-    friendly_name: null
-- claim_id: 407d691d-4328-4cc8-b7f4-1386bfb5fb1e
-  claim_hash: 57cdc39c34bf7d2152652ce30d6bc454a24433d44e20ce4ee80c988e8a5f5829
-  content: The Foreign Technology Applications Studies Division moved into the underground
-    facility at Groom Lake sometime in early 1960 once it was ready.
-  original_excerpt: Once the underground facility was ready, we moved in. This was
-    sometime in early 1960.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
-    title: Craig McPherson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Craig McPherson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a1c194b8-6ce1-4a1a-b9c9-ee35f289b3eb
-    title: Foreign Technology Applications Studies Division (FTASD)
-    slug: foreign-technology-applications-studies-division-ftasd
-  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
-    title: USA, Nevada, Groom Lake
-    slug: nevada-groom-lake-usa
-  date: '1960'
-  date_end: null
-  location_in_record: char:3866-3947
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
-    record_title: Project Serpo
-    record_date: '2007-06-20'
-    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
-    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
-    friendly_name: null
-- claim_id: 6987ce49-7611-4855-99e7-dd7d5bb28724
-  claim_hash: 10ab869e7492af2a702f00f8848d5c7f1ae23e9d4a2652e214bbea430b47442d
-  content: Craig McPherson considered the Groom Lake underground facility one of the
-    biggest underground facilities ever built.
-  original_excerpt: The facility was one of the biggest underground facilities ever
-    built.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
-    title: Craig McPherson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Craig McPherson
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
-    title: Craig McPherson
-    slug: craig-mcpherson
-  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
-    title: USA, Nevada, Groom Lake
-    slug: nevada-groom-lake-usa
-  date: null
-  date_end: null
-  location_in_record: char:3953-4017
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
-    record_title: Project Serpo
-    record_date: '2007-06-20'
-    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
-    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
-    friendly_name: null
-- claim_id: cd4d6e86-3595-4c65-9918-51c5b9937c58
-  claim_hash: bac850bfec26dafd3f04117bfe321231eb095307d76d2d8bf8b87c7c96cdbcde
-  content: Craig McPherson estimated the Groom Lake underground facility had over
-    a billion square feet (approximately 93 square kilometres) of space.
-  original_excerpt: We must have had over a billion square feet of space.
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
-    title: Craig McPherson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Craig McPherson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
-    title: Craig McPherson
-    slug: craig-mcpherson
-  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
-    title: USA, Nevada, Groom Lake
-    slug: nevada-groom-lake-usa
-  date: null
-  date_end: null
-  location_in_record: char:4024-4071
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
-    record_title: Project Serpo
-    record_date: '2007-06-20'
-    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
-    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
-    friendly_name: null
-- claim_id: f99b89ff-95a8-4fad-b320-cd0bd57fc117
-  claim_hash: ab72b52ad33aa5fa5221d6bcc33bee379c77f8837468ed33afe52748ef2b8cfa
-  content: During his time at the Groom Lake Test Facility, Craig McPherson never
-    saw a UFO or anything resembling a UFO.
-  original_excerpt: During this time period, I NEVER saw a UFO or anything resembling
-    a UFO at the Groom Lake Test Facility.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
-    title: Craig McPherson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Craig McPherson
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
-    title: Craig McPherson
-    slug: craig-mcpherson
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    slug: unidentified-flying-object-ufo
-  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
-    title: USA, Nevada, Groom Lake
-    slug: nevada-groom-lake-usa
-  date: null
-  date_end: null
-  location_in_record: char:4828-4923
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
-    record_title: Project Serpo
-    record_date: '2007-06-20'
-    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
-    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
-    friendly_name: null
-- claim_id: a7fa4ed4-0064-4a6d-911a-3df81f8c88d8
-  claim_hash: 163f0ece0afb7ab54fc10c21fc43b6c8679adb4e0f6a161e09726328e3f5b269
-  content: The leaked US National Reconnaissance Office document was a July 1991 security
-    advisory, listing a series of codenames and command locations in and around Nellis
-    Air Force Base in the Nevada desert, which includes the Area 51 sites known as
-    Groom Lake and Dreamland.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: 1991 Nellis Air Force Base security lockdown
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 2
   - node_id: 63e1b3ae-d158-452e-af0c-46def54337cd
     title: 1991 Nellis Air Force Base security lockdown
+    node_type: event
     slug: 1991-nellis-air-force-base-security-lockdown
-  - node_id: 8449e1be-95c3-4636-9f3f-b1768eeed1cd
-    title: USA, Nevada, Nellis Air Force Base
-    slug: nevada-nellis-air-force-base-usa
-  - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-    title: National Reconnaissance Office (NRO)
-    slug: national-reconnaissance-office-nro
-  - node_id: bc6bae79-93f4-4a4a-a101-b4b195dbf64d
-    title: USA, Nevada, Dreamland
-    slug: nevada-dreamland-usa
-  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
-    title: USA, Nevada, Groom Lake
-    slug: nevada-groom-lake-usa
-  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
-    title: USA, Nevada, Area 51
-    slug: nevada-area-51-usa
-  date: 1991-07
-  date_end: null
-  location_in_record: ch14:10221-10483
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 1817ad3d-0fa0-4355-baf4-b291c23f76ac
-  claim_hash: 926e5f55a6a86fc137e66219988dfcd90aa31c92934801729faf84cf3e6e25a3
-  content: Area 51, also known as Homey Airport or Groom Lake, is a US Air Force base
-    within the Nevada Test and Training Range used to test experimental aircraft and
-    weapons.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
-    title: USA, Nevada, Groom Lake
-    slug: nevada-groom-lake-usa
-  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
-    title: USA, Nevada, Area 51
-    slug: nevada-area-51-usa
-  date: null
-  date_end: null
-  location_in_record: ch37:7069-7237
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: c0bdd844-f16c-4555-9aa5-fa80648bffd5
-  claim_hash: be0dab07771e539520c140f76face8cae5967658797d6f47ca9a8fab097017ae
-  content: A pilot who had been a co-pilot for EG&G, flying Janet Airlines flights
-    into USA, Nevada, Groom Lake sometime between approximately 1987 and 1991, reached
-    out to Chris Ramsay.
-  original_excerpt: He was a co-pilot for EG&G flying the Janet flights into Groom
-    Lake between 87 and 91, something like that.
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: 9ee765f0-15bc-4d03-9bfa-c1d6b015a860
-    title: Luigi Venditelli
-  provenance_chain:
-    origin_kind: named
-    origin: a co-pilot who flew Janet Airlines flights for EG&G
-    relay:
-    - the pilot's account to Chris Ramsay
-    - Luigi Venditelli relaying it
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
-    title: Janet Airlines
-    slug: janet-airlines
+    shared_claims: 1
   - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
     title: Chris Ramsay
+    node_type: person
     slug: chris-ramsay
-  - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
-    title: EG&G
-    slug: egg
-  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
-    title: USA, Nevada, Groom Lake
-    slug: nevada-groom-lake-usa
-  date: 1987/1991
-  date_end: null
-  location_in_record: 00:11:20.5-00:11:27.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 1624e74b-8c2c-4403-a9fc-ff6de1745b49
-    record_title: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-    record_date: '2026-05-08'
-    record_reference: https://www.youtube.com/watch?v=SSeJ2883nF4
-    content_hash: sha256:5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c395425d1fcdbd
-    friendly_name: 2026-05-08-video-bob-lazar-just-revealed-his-biggest-secret-debriefed-ep-87.v2
-- claim_id: e82dc86c-f4f6-4603-9add-29cc038a3843
-  claim_hash: f6937ca5a94b781f96fe9d5a3dcdc5519c027d6b7ef8cf0ea2acb0be6f11689a
-  content: The EG&G co-pilot who flew Janet Airlines flights into USA, Nevada, Groom
-    Lake said he knew Dennis Mariani.
-  original_excerpt: And he said he knew Dennis Mariani.
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: 9ee765f0-15bc-4d03-9bfa-c1d6b015a860
-    title: Luigi Venditelli
-  provenance_chain:
-    origin_kind: named
-    origin: a co-pilot who flew Janet Airlines flights for EG&G
-    relay:
-    - the pilot's account to Chris Ramsay
-    - Luigi Venditelli relaying it
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
-    title: Janet Airlines
-    slug: janet-airlines
-  - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
-    title: EG&G
-    slug: egg
-  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
-    title: USA, Nevada, Groom Lake
-    slug: nevada-groom-lake-usa
-  - node_id: fcfc1448-b63d-4336-aa4d-ba414bf57d28
-    title: Dennis Mariani
-    slug: dennis-mariani
-  date: null
-  date_end: null
-  location_in_record: 00:11:31.8-00:11:33.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 1624e74b-8c2c-4403-a9fc-ff6de1745b49
-    record_title: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-    record_date: '2026-05-08'
-    record_reference: https://www.youtube.com/watch?v=SSeJ2883nF4
-    content_hash: sha256:5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c395425d1fcdbd
-    friendly_name: 2026-05-08-video-bob-lazar-just-revealed-his-biggest-secret-debriefed-ep-87.v2
-- claim_id: bd6e225a-1470-414f-8195-0abd5df98d9b
-  claim_hash: 435a02227567597465097221062a76f1740cf5a9e20be3da2bd20c64055c38a7
-  content: Testimony from a Janet Airlines co-pilot establishes that a real person
-    named Dennis Mariani existed and flew on Janet Airlines jets to USA, Nevada, Groom
-    Lake.
-  original_excerpt: There is a Dennis Mariani did exist. There was a Dennis Mariani
-    that was flying on Janet Jets going to Groom Lake.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 9ee765f0-15bc-4d03-9bfa-c1d6b015a860
-    title: Luigi Venditelli
-  provenance_chain:
-    origin_kind: speaker
-    origin: Luigi Venditelli
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
-    title: Janet Airlines
-    slug: janet-airlines
-  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
-    title: USA, Nevada, Groom Lake
-    slug: nevada-groom-lake-usa
-  - node_id: fcfc1448-b63d-4336-aa4d-ba414bf57d28
-    title: Dennis Mariani
-    slug: dennis-mariani
-  date: null
-  date_end: null
-  location_in_record: 00:12:00.8-00:12:09.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 1624e74b-8c2c-4403-a9fc-ff6de1745b49
-    record_title: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
-    record_date: '2026-05-08'
-    record_reference: https://www.youtube.com/watch?v=SSeJ2883nF4
-    content_hash: sha256:5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c395425d1fcdbd
-    friendly_name: 2026-05-08-video-bob-lazar-just-revealed-his-biggest-secret-debriefed-ep-87.v2
+    shared_claims: 1
+  - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+    title: National Reconnaissance Office (NRO)
+    node_type: organisation
+    slug: national-reconnaissance-office-nro
+    shared_claims: 1
+  - node_id: bc6bae79-93f4-4a4a-a101-b4b195dbf64d
+    title: USA, Nevada, Dreamland
+    node_type: place
+    slug: nevada-dreamland-usa
+    shared_claims: 1
+  - node_id: 2d997284-4cd7-4aba-8527-2d7ab31365ed
+    title: USA, Nevada, Indian Springs Air Force Base
+    node_type: place
+    slug: nevada-indian-springs-air-force-base-usa
+    shared_claims: 1
+  - node_id: 8449e1be-95c3-4636-9f3f-b1768eeed1cd
+    title: USA, Nevada, Nellis Air Force Base
+    node_type: place
+    slug: nevada-nellis-air-force-base-usa
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+claims:
+  - claim_id: 7b15f9d6-87fd-41cb-9248-f2dc1b3083be
+    claim_hash: 64938f3e0e8b58c11311ba370c59640893386f70bf99c3f5ce237d311357b93b
+    content: During the late 1950s, the United States Air Force built an underground facility at Groom Lake.
+    original_excerpt: During this time frame, the Air Force built an underground facility at Groom Lake.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+      title: Craig McPherson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Craig McPherson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+        title: Craig McPherson
+        slug: craig-mcpherson
+      - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+        title: USA, Nevada, Groom Lake
+        slug: nevada-groom-lake-usa
+    date: null
+    date_end: null
+    location_in_record: char:3496-3573
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+      record_title: Project Serpo
+      record_date: '2007-06-20'
+      record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+      content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+      friendly_name: null
+  - claim_id: e0fbae53-dfbf-4839-8bd1-64aecc47116a
+    claim_hash: cab63350a7ae9e5be0c0a3d536cf566cdfb0ccd0a5335c38e7b539fd61d76224
+    content: Construction of the underground facility at Groom Lake started in 1955 and ended sometime during the summer of
+      1959.
+    original_excerpt: The construction started in 1955 and ended sometime during the summer of 1959.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+      title: Craig McPherson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Craig McPherson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+        title: Craig McPherson
+        slug: craig-mcpherson
+      - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+        title: USA, Nevada, Groom Lake
+        slug: nevada-groom-lake-usa
+    date: '1955'
+    date_end: null
+    location_in_record: char:3579-3652
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+      record_title: Project Serpo
+      record_date: '2007-06-20'
+      record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+      content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+      friendly_name: null
+  - claim_id: cbeeff48-62a2-448f-aab8-68d38b4b3ea0
+    claim_hash: 74737ae6b8d37181b142ead7c22d42180a462bb062c06517a161ff0c1f65c29b
+    content: 'The Foreign Technology Applications Studies Division had three different facilities: two at Groom Lake and one
+      at Indian Springs.'
+    original_excerpt: We had three (3) different facilities, two of them at Groom Lake and one at Indian Springs.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+      title: Craig McPherson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Craig McPherson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d997284-4cd7-4aba-8527-2d7ab31365ed
+        title: USA, Nevada, Indian Springs Air Force Base
+        slug: nevada-indian-springs-air-force-base-usa
+      - node_id: a1c194b8-6ce1-4a1a-b9c9-ee35f289b3eb
+        title: Foreign Technology Applications Studies Division (FTASD)
+        slug: foreign-technology-applications-studies-division-ftasd
+      - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+        title: USA, Nevada, Groom Lake
+        slug: nevada-groom-lake-usa
+    date: null
+    date_end: null
+    location_in_record: char:3732-3815
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+      record_title: Project Serpo
+      record_date: '2007-06-20'
+      record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+      content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+      friendly_name: null
+  - claim_id: 407d691d-4328-4cc8-b7f4-1386bfb5fb1e
+    claim_hash: 57cdc39c34bf7d2152652ce30d6bc454a24433d44e20ce4ee80c988e8a5f5829
+    content: The Foreign Technology Applications Studies Division moved into the underground facility at Groom Lake sometime
+      in early 1960 once it was ready.
+    original_excerpt: Once the underground facility was ready, we moved in. This was sometime in early 1960.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+      title: Craig McPherson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Craig McPherson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a1c194b8-6ce1-4a1a-b9c9-ee35f289b3eb
+        title: Foreign Technology Applications Studies Division (FTASD)
+        slug: foreign-technology-applications-studies-division-ftasd
+      - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+        title: USA, Nevada, Groom Lake
+        slug: nevada-groom-lake-usa
+    date: '1960'
+    date_end: null
+    location_in_record: char:3866-3947
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+      record_title: Project Serpo
+      record_date: '2007-06-20'
+      record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+      content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+      friendly_name: null
+  - claim_id: 6987ce49-7611-4855-99e7-dd7d5bb28724
+    claim_hash: 10ab869e7492af2a702f00f8848d5c7f1ae23e9d4a2652e214bbea430b47442d
+    content: Craig McPherson considered the Groom Lake underground facility one of the biggest underground facilities ever
+      built.
+    original_excerpt: The facility was one of the biggest underground facilities ever built.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+      title: Craig McPherson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Craig McPherson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+        title: Craig McPherson
+        slug: craig-mcpherson
+      - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+        title: USA, Nevada, Groom Lake
+        slug: nevada-groom-lake-usa
+    date: null
+    date_end: null
+    location_in_record: char:3953-4017
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+      record_title: Project Serpo
+      record_date: '2007-06-20'
+      record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+      content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+      friendly_name: null
+  - claim_id: cd4d6e86-3595-4c65-9918-51c5b9937c58
+    claim_hash: bac850bfec26dafd3f04117bfe321231eb095307d76d2d8bf8b87c7c96cdbcde
+    content: Craig McPherson estimated the Groom Lake underground facility had over a billion square feet (approximately 93
+      square kilometres) of space.
+    original_excerpt: We must have had over a billion square feet of space.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+      title: Craig McPherson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Craig McPherson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+        title: Craig McPherson
+        slug: craig-mcpherson
+      - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+        title: USA, Nevada, Groom Lake
+        slug: nevada-groom-lake-usa
+    date: null
+    date_end: null
+    location_in_record: char:4024-4071
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+      record_title: Project Serpo
+      record_date: '2007-06-20'
+      record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+      content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+      friendly_name: null
+  - claim_id: f99b89ff-95a8-4fad-b320-cd0bd57fc117
+    claim_hash: ab72b52ad33aa5fa5221d6bcc33bee379c77f8837468ed33afe52748ef2b8cfa
+    content: During his time at the Groom Lake Test Facility, Craig McPherson never saw a UFO or anything resembling a UFO.
+    original_excerpt: During this time period, I NEVER saw a UFO or anything resembling a UFO at the Groom Lake Test Facility.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+      title: Craig McPherson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Craig McPherson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+        title: Craig McPherson
+        slug: craig-mcpherson
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+        title: USA, Nevada, Groom Lake
+        slug: nevada-groom-lake-usa
+    date: null
+    date_end: null
+    location_in_record: char:4828-4923
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+      record_title: Project Serpo
+      record_date: '2007-06-20'
+      record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+      content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+      friendly_name: null
+  - claim_id: a7fa4ed4-0064-4a6d-911a-3df81f8c88d8
+    claim_hash: 163f0ece0afb7ab54fc10c21fc43b6c8679adb4e0f6a161e09726328e3f5b269
+    content: The leaked US National Reconnaissance Office document was a July 1991 security advisory, listing a series of
+      codenames and command locations in and around Nellis Air Force Base in the Nevada desert, which includes the Area 51
+      sites known as Groom Lake and Dreamland.
+    original_excerpt: It was a July 1991 security advisory, listing a series of codenames and command locations in and around
+      the massive Nellis Air Force Base in the Nevada desert, which includes within its boundaries the notorious super-secret
+      Area 51 sites known as Groom Lake and Dreamland.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 1991 Nellis Air Force Base security lockdown
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 63e1b3ae-d158-452e-af0c-46def54337cd
+        title: 1991 Nellis Air Force Base security lockdown
+        slug: 1991-nellis-air-force-base-security-lockdown
+      - node_id: 8449e1be-95c3-4636-9f3f-b1768eeed1cd
+        title: USA, Nevada, Nellis Air Force Base
+        slug: nevada-nellis-air-force-base-usa
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: bc6bae79-93f4-4a4a-a101-b4b195dbf64d
+        title: USA, Nevada, Dreamland
+        slug: nevada-dreamland-usa
+      - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+        title: USA, Nevada, Groom Lake
+        slug: nevada-groom-lake-usa
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+    date: 1991-07
+    date_end: null
+    location_in_record: ch14:10221-10483
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1817ad3d-0fa0-4355-baf4-b291c23f76ac
+    claim_hash: 926e5f55a6a86fc137e66219988dfcd90aa31c92934801729faf84cf3e6e25a3
+    content: Area 51, also known as Homey Airport or Groom Lake, is a US Air Force base within the Nevada Test and Training
+      Range used to test experimental aircraft and weapons.
+    original_excerpt: Area 51, also known as Homey Airport or Groom Lake, the super-secret US Air Force base within the Nevada
+      Test and Training Range used to test experimental aircraft and weapons.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+        title: USA, Nevada, Groom Lake
+        slug: nevada-groom-lake-usa
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+    date: null
+    date_end: null
+    location_in_record: ch37:7069-7237
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c0bdd844-f16c-4555-9aa5-fa80648bffd5
+    claim_hash: be0dab07771e539520c140f76face8cae5967658797d6f47ca9a8fab097017ae
+    content: A pilot who had been a co-pilot for EG&G, flying Janet Airlines flights into USA, Nevada, Groom Lake sometime
+      between approximately 1987 and 1991, reached out to Chris Ramsay.
+    original_excerpt: He was a co-pilot for EG&G flying the Janet flights into Groom Lake between 87 and 91, something like
+      that.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 9ee765f0-15bc-4d03-9bfa-c1d6b015a860
+      title: Luigi Venditelli
+    provenance_chain:
+      origin_kind: named
+      origin: a co-pilot who flew Janet Airlines flights for EG&G
+      relay:
+        - the pilot's account to Chris Ramsay
+        - Luigi Venditelli relaying it
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
+        title: Janet Airlines
+        slug: janet-airlines
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
+        title: EG&G
+        slug: egg
+      - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+        title: USA, Nevada, Groom Lake
+        slug: nevada-groom-lake-usa
+    date: 1987/1991
+    date_end: null
+    location_in_record: 00:11:20.5-00:11:27.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 1624e74b-8c2c-4403-a9fc-ff6de1745b49
+      record_title: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+      record_date: '2026-05-08'
+      record_reference: https://www.youtube.com/watch?v=SSeJ2883nF4
+      content_hash: sha256:5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c395425d1fcdbd
+      friendly_name: 2026-05-08-video-bob-lazar-just-revealed-his-biggest-secret-debriefed-ep-87.v2
+  - claim_id: e82dc86c-f4f6-4603-9add-29cc038a3843
+    claim_hash: f6937ca5a94b781f96fe9d5a3dcdc5519c027d6b7ef8cf0ea2acb0be6f11689a
+    content: The EG&G co-pilot who flew Janet Airlines flights into USA, Nevada, Groom Lake said he knew Dennis Mariani.
+    original_excerpt: And he said he knew Dennis Mariani.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 9ee765f0-15bc-4d03-9bfa-c1d6b015a860
+      title: Luigi Venditelli
+    provenance_chain:
+      origin_kind: named
+      origin: a co-pilot who flew Janet Airlines flights for EG&G
+      relay:
+        - the pilot's account to Chris Ramsay
+        - Luigi Venditelli relaying it
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
+        title: Janet Airlines
+        slug: janet-airlines
+      - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
+        title: EG&G
+        slug: egg
+      - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+        title: USA, Nevada, Groom Lake
+        slug: nevada-groom-lake-usa
+      - node_id: fcfc1448-b63d-4336-aa4d-ba414bf57d28
+        title: Dennis Mariani
+        slug: dennis-mariani
+    date: null
+    date_end: null
+    location_in_record: 00:11:31.8-00:11:33.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 1624e74b-8c2c-4403-a9fc-ff6de1745b49
+      record_title: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+      record_date: '2026-05-08'
+      record_reference: https://www.youtube.com/watch?v=SSeJ2883nF4
+      content_hash: sha256:5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c395425d1fcdbd
+      friendly_name: 2026-05-08-video-bob-lazar-just-revealed-his-biggest-secret-debriefed-ep-87.v2
+  - claim_id: bd6e225a-1470-414f-8195-0abd5df98d9b
+    claim_hash: 435a02227567597465097221062a76f1740cf5a9e20be3da2bd20c64055c38a7
+    content: Testimony from a Janet Airlines co-pilot establishes that a real person named Dennis Mariani existed and flew
+      on Janet Airlines jets to USA, Nevada, Groom Lake.
+    original_excerpt: There is a Dennis Mariani did exist. There was a Dennis Mariani that was flying on Janet Jets going
+      to Groom Lake.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9ee765f0-15bc-4d03-9bfa-c1d6b015a860
+      title: Luigi Venditelli
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luigi Venditelli
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
+        title: Janet Airlines
+        slug: janet-airlines
+      - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+        title: USA, Nevada, Groom Lake
+        slug: nevada-groom-lake-usa
+      - node_id: fcfc1448-b63d-4336-aa4d-ba414bf57d28
+        title: Dennis Mariani
+        slug: dennis-mariani
+    date: null
+    date_end: null
+    location_in_record: 00:12:00.8-00:12:09.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 1624e74b-8c2c-4403-a9fc-ff6de1745b49
+      record_title: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+      record_date: '2026-05-08'
+      record_reference: https://www.youtube.com/watch?v=SSeJ2883nF4
+      content_hash: sha256:5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c395425d1fcdbd
+      friendly_name: 2026-05-08-video-bob-lazar-just-revealed-his-biggest-secret-debriefed-ep-87.v2

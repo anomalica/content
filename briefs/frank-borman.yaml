@@ -9,459 +9,471 @@ page:
   claim_count: 10
   claim_count_total: 10
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 10
+  tokens_estimated: 2762
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 10
 related_nodes:
-- node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
-  title: Gemini 7 (spacecraft)
-  node_type: object
-  slug: gemini-7-spacecraft
-  shared_claims: 6
-- node_id: c0dadb36-9e2e-46f4-ab89-5bd1d67767a2
-  title: 1965 Gemini 7 unidentified object sighting
-  node_type: event
-  slug: 1965-gemini-7-unidentified-object-sighting
-  shared_claims: 5
-- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-  title: National Aeronautics and Space Administration (NASA)
-  node_type: organisation
-  slug: national-aeronautics-and-space-administration-nasa
-  shared_claims: 3
-- node_id: eaf4ccc7-67d6-4af3-96f0-4d0f552a1731
-  title: Titan II GLV booster
-  node_type: object
-  slug: titan-ii-glv-booster
-  shared_claims: 3
-- node_id: f6212cc4-f65f-4ec2-8c95-eaca7c3397d2
-  title: Apollo 8
-  node_type: project
-  slug: apollo-8
-  shared_claims: 2
-- node_id: 9061143f-99e4-437a-b7c8-960ca432e48b
-  title: Book of Genesis
-  node_type: document
-  slug: book-of-genesis
-  shared_claims: 1
-- node_id: 7a25b20b-c238-4b97-862f-dc62dba6278a
-  title: Columbia Broadcasting System (CBS) News
-  node_type: organisation
-  slug: columbia-broadcasting-system-cbs-news
-  shared_claims: 1
-- node_id: cd02423b-895b-4fe8-8929-7738d1069314
-  title: Jim Lovell
-  node_type: person
-  slug: jim-lovell
-  shared_claims: 1
-- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-  title: Richard C. Hoagland
-  node_type: person
-  slug: richard-c-hoagland
-  shared_claims: 1
-- node_id: 76feb1de-0cfb-4e15-b105-63ab11e012de
-  title: USA, New York, Ground Zero
-  node_type: place
-  slug: new-york-ground-zero-usa
-  shared_claims: 1
-- node_id: c240e735-0871-40a5-80d2-88aceaeba773
-  title: William Anders
-  node_type: person
-  slug: william-anders
-  shared_claims: 1
-claims:
-- claim_id: eb6845ec-afd2-4003-8f61-1b3ce20f0990
-  claim_hash: e8f000dc8bced2f355f97baab0ffb2f975873e2230a29a59f9759c3051180dc7
-  content: The Apollo 8 crew of Frank Borman, Jim Lovell and William Anders became
-    the first humans to leave the gravitational influence of Earth and circumnavigate
-    the Moon, proving that a voyage to and return from the Moon was possible.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-    title: Frank Borman
-    slug: frank-borman
-  - node_id: c240e735-0871-40a5-80d2-88aceaeba773
-    title: William Anders
-    slug: william-anders
-  - node_id: cd02423b-895b-4fe8-8929-7738d1069314
-    title: Jim Lovell
-    slug: jim-lovell
+  - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
+    title: Gemini 7 (spacecraft)
+    node_type: object
+    slug: gemini-7-spacecraft
+    shared_claims: 6
+  - node_id: c0dadb36-9e2e-46f4-ab89-5bd1d67767a2
+    title: 1965 Gemini 7 unidentified object sighting
+    node_type: event
+    slug: 1965-gemini-7-unidentified-object-sighting
+    shared_claims: 5
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 3
+  - node_id: eaf4ccc7-67d6-4af3-96f0-4d0f552a1731
+    title: Titan II GLV booster
+    node_type: object
+    slug: titan-ii-glv-booster
+    shared_claims: 3
   - node_id: f6212cc4-f65f-4ec2-8c95-eaca7c3397d2
     title: Apollo 8
+    node_type: project
     slug: apollo-8
-  date: null
-  date_end: null
-  location_in_record: ch12:25997-26198
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 122b6f91-b0b0-4cf5-93d3-f25eb6d10c93
-  claim_hash: e131139e064b8080861dd3147c5e5379165e814a6b071bab3259ee8ac8bf990a
-  content: Richard C. Hoagland watched a CBS Control Room monitor feed in New York
-    during Apollo 8 and saw Frank Borman read from the Book of Genesis live while
-    orbiting the Moon.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 76feb1de-0cfb-4e15-b105-63ab11e012de
-    title: USA, New York, Ground Zero
-    slug: new-york-ground-zero-usa
-  - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-    title: Frank Borman
-    slug: frank-borman
-  - node_id: 7a25b20b-c238-4b97-862f-dc62dba6278a
-    title: Columbia Broadcasting System (CBS) News
-    slug: columbia-broadcasting-system-cbs-news
+    shared_claims: 2
   - node_id: 9061143f-99e4-437a-b7c8-960ca432e48b
     title: Book of Genesis
+    node_type: document
     slug: book-of-genesis
+    shared_claims: 1
+  - node_id: 7a25b20b-c238-4b97-862f-dc62dba6278a
+    title: Columbia Broadcasting System (CBS) News
+    node_type: organisation
+    slug: columbia-broadcasting-system-cbs-news
+    shared_claims: 1
+  - node_id: cd02423b-895b-4fe8-8929-7738d1069314
+    title: Jim Lovell
+    node_type: person
+    slug: jim-lovell
+    shared_claims: 1
   - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
     title: Richard C. Hoagland
+    node_type: person
     slug: richard-c-hoagland
-  - node_id: f6212cc4-f65f-4ec2-8c95-eaca7c3397d2
-    title: Apollo 8
-    slug: apollo-8
-  date: null
-  date_end: null
-  location_in_record: ch12:44243-44431
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: b723d5ad-7872-471e-bf24-e70e6d3a2348
-  claim_hash: 351fa76ede7de2b3733cae87cc02f9adc4c21a1327cab012604971e91d3718f3
-  content: Frank Borman, aboard Gemini 7 (spacecraft), reported to NASA Mission Control
-    (Houston) that the crew had a bogey (the 1965 Gemini 7 unidentified object sighting)
-    at 10 o'clock high.
-  original_excerpt: We have a bogey at 10 o'clock high.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-    title: Frank Borman
-  provenance_chain:
-    origin_kind: speaker
-    origin: Frank Borman
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
-    title: Gemini 7 (spacecraft)
-    slug: gemini-7-spacecraft
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-    title: Frank Borman
-    slug: frank-borman
-  - node_id: c0dadb36-9e2e-46f4-ab89-5bd1d67767a2
-    title: 1965 Gemini 7 unidentified object sighting
-    slug: 1965-gemini-7-unidentified-object-sighting
-  date: null
-  date_end: null
-  location_in_record: 00:01:04.0-00:01:05.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
-    record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1006119
-    content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
-    friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
-- claim_id: d39a82d5-589e-491e-957f-b08f7f197c81
-  claim_hash: ccf17eca200906f2b0c419429d751e2b0c67af4b425674d9ad6adffb88603531
-  content: During the 1965 Gemini 7 unidentified object sighting, NASA Mission Control
-    (Houston) asked Frank Borman whether the object he sighted was the Titan II GLV
-    booster or an actual sighting.
-  original_excerpt: Gemini 7, is that the booster, or is that an actual sighting?
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: NASA Mission Control transcript
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-    title: Frank Borman
-    slug: frank-borman
-  - node_id: c0dadb36-9e2e-46f4-ab89-5bd1d67767a2
-    title: 1965 Gemini 7 unidentified object sighting
-    slug: 1965-gemini-7-unidentified-object-sighting
-  - node_id: eaf4ccc7-67d6-4af3-96f0-4d0f552a1731
-    title: Titan II GLV booster
-    slug: titan-ii-glv-booster
-  date: null
-  date_end: null
-  location_in_record: 00:01:32.2-00:01:35.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
-    record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1006119
-    content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
-    friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
-- claim_id: e6e2ed12-6583-46fd-a059-a28a4aba27db
-  claim_hash: 864db7f3c8a46e8e524a698118b1936851a10255d265ab901f577ff2376873c1
-  content: Frank Borman reported that the crew of Gemini 7 (spacecraft) had several
-    objects in sight that looked like debris, describing it as an actual sighting.
-  original_excerpt: We have several, looks like debris up here, actual sighting.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-    title: Frank Borman
-  provenance_chain:
-    origin_kind: speaker
-    origin: Frank Borman
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
-    title: Gemini 7 (spacecraft)
-    slug: gemini-7-spacecraft
-  - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-    title: Frank Borman
-    slug: frank-borman
-  - node_id: c0dadb36-9e2e-46f4-ab89-5bd1d67767a2
-    title: 1965 Gemini 7 unidentified object sighting
-    slug: 1965-gemini-7-unidentified-object-sighting
-  date: null
-  date_end: null
-  location_in_record: 00:01:41.2-00:01:44.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
-    record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1006119
-    content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
-    friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
-- claim_id: 66cc45ee-66eb-428a-a291-661be3c6c243
-  claim_hash: da6e79f4f7e35facb5d48f9ba81955a8bbe2b85147a798d19b5892c22460a479
-  content: Frank Borman reported that the crew of Gemini 7 (spacecraft) also had the
-    Titan II GLV booster in sight.
-  original_excerpt: We also have the booster in sight.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-    title: Frank Borman
-  provenance_chain:
-    origin_kind: speaker
-    origin: Frank Borman
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
-    title: Gemini 7 (spacecraft)
-    slug: gemini-7-spacecraft
-  - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-    title: Frank Borman
-    slug: frank-borman
-  - node_id: eaf4ccc7-67d6-4af3-96f0-4d0f552a1731
-    title: Titan II GLV booster
-    slug: titan-ii-glv-booster
-  date: null
-  date_end: null
-  location_in_record: 00:01:52.5-00:01:54.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
-    record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1006119
-    content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
-    friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
-- claim_id: f9b082a2-6254-4913-82e7-41f6ff088219
-  claim_hash: c737561a5e899db0a4fe6ec7478f224d149fee6e855ae4a87ba650ec17829dfc
-  content: Frank Borman observed what looked like hundreds of little particles going
-    by from the left, at an estimated distance of approximately 5 to 6.5 kilometres
-    from Gemini 7 (spacecraft).
-  original_excerpt: We have very, very many it looks like hundreds of little particles
-    going by from the left out about three to four miles.
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-    title: Frank Borman
-  provenance_chain:
-    origin_kind: speaker
-    origin: Frank Borman
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
-    title: Gemini 7 (spacecraft)
-    slug: gemini-7-spacecraft
-  - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-    title: Frank Borman
-    slug: frank-borman
-  date: null
-  date_end: null
-  location_in_record: 00:01:59.3-00:02:08.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
-    record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1006119
-    content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
-    friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
-- claim_id: e16ed030-fa0c-4f70-8d55-0a8b11cfd048
-  claim_hash: 94bd6d716528782a0d2983ea2fd5b42336a88c45018ec1d3ab022057528d5592
-  content: Frank Borman described the object near Gemini 7 (spacecraft) as looking
-    like a vehicle that had disintegrated.
-  original_excerpt: '[inaudible] large uh... Looks like a perhaps a vehicle that''s
-    disintegrated.'
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-    title: Frank Borman
-  provenance_chain:
-    origin_kind: speaker
-    origin: Frank Borman
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
-    title: Gemini 7 (spacecraft)
-    slug: gemini-7-spacecraft
-  - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-    title: Frank Borman
-    slug: frank-borman
-  date: null
-  date_end: null
-  location_in_record: 00:02:21.6-00:02:27.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
-    record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1006119
-    content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
-    friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
-- claim_id: 290172d2-b406-45b2-81db-16473bf64488
-  claim_hash: 8e994634625de75be19ce603fc0587d1fe079b6eb9119c9dd62d058c974dd697
-  content: NASA Mission Control (Houston) asked Frank Borman aboard Gemini 7 (spacecraft)
-    whether the particles sighted were in addition to the Titan II GLV booster and
-    the bogey (the 1965 Gemini 7 unidentified object sighting) at 10 o'clock high.
-  original_excerpt: Gemini 7 Houston. Were these particles in addition to the booster
-    and the bogey at 10 o'clock high?
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: NASA Mission Control transcript
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
-    title: Gemini 7 (spacecraft)
-    slug: gemini-7-spacecraft
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-    title: Frank Borman
-    slug: frank-borman
-  - node_id: c0dadb36-9e2e-46f4-ab89-5bd1d67767a2
-    title: 1965 Gemini 7 unidentified object sighting
-    slug: 1965-gemini-7-unidentified-object-sighting
-  - node_id: eaf4ccc7-67d6-4af3-96f0-4d0f552a1731
-    title: Titan II GLV booster
-    slug: titan-ii-glv-booster
-  date: null
-  date_end: null
-  location_in_record: 00:02:56.2-00:03:05.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
-    record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1006119
-    content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
-    friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
-- claim_id: 94e34c05-b965-4cb9-b282-b848c3474ea1
-  claim_hash: b86039307727538eeeaac1e5af338ffe2a43074e5553314d071c89c38e487fb3
-  content: It was Frank Borman who reported sighting the bogey of the 1965 Gemini
-    7 unidentified object sighting.
-  original_excerpt: It was Borman who reported sighting the bogey.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: NASA Mission Control narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
-    title: Frank Borman
-    slug: frank-borman
-  - node_id: c0dadb36-9e2e-46f4-ab89-5bd1d67767a2
-    title: 1965 Gemini 7 unidentified object sighting
-    slug: 1965-gemini-7-unidentified-object-sighting
-  date: null
-  date_end: null
-  location_in_record: 00:05:54.7-00:05:57.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
-    record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1006119
-    content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
-    friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
+    shared_claims: 1
+  - node_id: 76feb1de-0cfb-4e15-b105-63ab11e012de
+    title: USA, New York, Ground Zero
+    node_type: place
+    slug: new-york-ground-zero-usa
+    shared_claims: 1
+  - node_id: c240e735-0871-40a5-80d2-88aceaeba773
+    title: William Anders
+    node_type: person
+    slug: william-anders
+    shared_claims: 1
+claims:
+  - claim_id: eb6845ec-afd2-4003-8f61-1b3ce20f0990
+    claim_hash: e8f000dc8bced2f355f97baab0ffb2f975873e2230a29a59f9759c3051180dc7
+    content: The Apollo 8 crew of Frank Borman, Jim Lovell and William Anders became the first humans to leave the gravitational
+      influence of Earth and circumnavigate the Moon, proving that a voyage to and return from the Moon was possible.
+    original_excerpt: The Apollo 8 crew of Borman, Lovell and Anders became the first humans to leave the gravitational influence
+      of the Earth and circumnavigate the Moon, proving that the voyage and return to the Moon was possible.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+        title: Frank Borman
+        slug: frank-borman
+      - node_id: c240e735-0871-40a5-80d2-88aceaeba773
+        title: William Anders
+        slug: william-anders
+      - node_id: cd02423b-895b-4fe8-8929-7738d1069314
+        title: Jim Lovell
+        slug: jim-lovell
+      - node_id: f6212cc4-f65f-4ec2-8c95-eaca7c3397d2
+        title: Apollo 8
+        slug: apollo-8
+    date: null
+    date_end: null
+    location_in_record: ch12:25997-26198
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 122b6f91-b0b0-4cf5-93d3-f25eb6d10c93
+    claim_hash: e131139e064b8080861dd3147c5e5379165e814a6b071bab3259ee8ac8bf990a
+    content: Richard C. Hoagland watched a CBS Control Room monitor feed in New York during Apollo 8 and saw Frank Borman
+      read from the Book of Genesis live while orbiting the Moon.
+    original_excerpt: to a monitor-rich CBS Control Room in New York, where he saw Frank Borman read from Genesis live while
+      orbiting the Moon with the cratered lunar landscape literally rolling by outside the window
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76feb1de-0cfb-4e15-b105-63ab11e012de
+        title: USA, New York, Ground Zero
+        slug: new-york-ground-zero-usa
+      - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+        title: Frank Borman
+        slug: frank-borman
+      - node_id: 7a25b20b-c238-4b97-862f-dc62dba6278a
+        title: Columbia Broadcasting System (CBS) News
+        slug: columbia-broadcasting-system-cbs-news
+      - node_id: 9061143f-99e4-437a-b7c8-960ca432e48b
+        title: Book of Genesis
+        slug: book-of-genesis
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+      - node_id: f6212cc4-f65f-4ec2-8c95-eaca7c3397d2
+        title: Apollo 8
+        slug: apollo-8
+    date: null
+    date_end: null
+    location_in_record: ch12:44243-44431
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b723d5ad-7872-471e-bf24-e70e6d3a2348
+    claim_hash: 351fa76ede7de2b3733cae87cc02f9adc4c21a1327cab012604971e91d3718f3
+    content: Frank Borman, aboard Gemini 7 (spacecraft), reported to NASA Mission Control (Houston) that the crew had a bogey
+      (the 1965 Gemini 7 unidentified object sighting) at 10 o'clock high.
+    original_excerpt: We have a bogey at 10 o'clock high.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+      title: Frank Borman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Frank Borman
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
+        title: Gemini 7 (spacecraft)
+        slug: gemini-7-spacecraft
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+        title: Frank Borman
+        slug: frank-borman
+      - node_id: c0dadb36-9e2e-46f4-ab89-5bd1d67767a2
+        title: 1965 Gemini 7 unidentified object sighting
+        slug: 1965-gemini-7-unidentified-object-sighting
+    date: null
+    date_end: null
+    location_in_record: 00:01:04.0-00:01:05.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
+      record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1006119
+      content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
+      friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
+  - claim_id: d39a82d5-589e-491e-957f-b08f7f197c81
+    claim_hash: ccf17eca200906f2b0c419429d751e2b0c67af4b425674d9ad6adffb88603531
+    content: During the 1965 Gemini 7 unidentified object sighting, NASA Mission Control (Houston) asked Frank Borman whether
+      the object he sighted was the Titan II GLV booster or an actual sighting.
+    original_excerpt: Gemini 7, is that the booster, or is that an actual sighting?
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: NASA Mission Control transcript
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+        title: Frank Borman
+        slug: frank-borman
+      - node_id: c0dadb36-9e2e-46f4-ab89-5bd1d67767a2
+        title: 1965 Gemini 7 unidentified object sighting
+        slug: 1965-gemini-7-unidentified-object-sighting
+      - node_id: eaf4ccc7-67d6-4af3-96f0-4d0f552a1731
+        title: Titan II GLV booster
+        slug: titan-ii-glv-booster
+    date: null
+    date_end: null
+    location_in_record: 00:01:32.2-00:01:35.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
+      record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1006119
+      content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
+      friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
+  - claim_id: e6e2ed12-6583-46fd-a059-a28a4aba27db
+    claim_hash: 864db7f3c8a46e8e524a698118b1936851a10255d265ab901f577ff2376873c1
+    content: Frank Borman reported that the crew of Gemini 7 (spacecraft) had several objects in sight that looked like debris,
+      describing it as an actual sighting.
+    original_excerpt: We have several, looks like debris up here, actual sighting.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+      title: Frank Borman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Frank Borman
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
+        title: Gemini 7 (spacecraft)
+        slug: gemini-7-spacecraft
+      - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+        title: Frank Borman
+        slug: frank-borman
+      - node_id: c0dadb36-9e2e-46f4-ab89-5bd1d67767a2
+        title: 1965 Gemini 7 unidentified object sighting
+        slug: 1965-gemini-7-unidentified-object-sighting
+    date: null
+    date_end: null
+    location_in_record: 00:01:41.2-00:01:44.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
+      record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1006119
+      content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
+      friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
+  - claim_id: 66cc45ee-66eb-428a-a291-661be3c6c243
+    claim_hash: da6e79f4f7e35facb5d48f9ba81955a8bbe2b85147a798d19b5892c22460a479
+    content: Frank Borman reported that the crew of Gemini 7 (spacecraft) also had the Titan II GLV booster in sight.
+    original_excerpt: We also have the booster in sight.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+      title: Frank Borman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Frank Borman
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
+        title: Gemini 7 (spacecraft)
+        slug: gemini-7-spacecraft
+      - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+        title: Frank Borman
+        slug: frank-borman
+      - node_id: eaf4ccc7-67d6-4af3-96f0-4d0f552a1731
+        title: Titan II GLV booster
+        slug: titan-ii-glv-booster
+    date: null
+    date_end: null
+    location_in_record: 00:01:52.5-00:01:54.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
+      record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1006119
+      content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
+      friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
+  - claim_id: f9b082a2-6254-4913-82e7-41f6ff088219
+    claim_hash: c737561a5e899db0a4fe6ec7478f224d149fee6e855ae4a87ba650ec17829dfc
+    content: Frank Borman observed what looked like hundreds of little particles going by from the left, at an estimated distance
+      of approximately 5 to 6.5 kilometres from Gemini 7 (spacecraft).
+    original_excerpt: We have very, very many it looks like hundreds of little particles going by from the left out about
+      three to four miles.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+      title: Frank Borman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Frank Borman
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
+        title: Gemini 7 (spacecraft)
+        slug: gemini-7-spacecraft
+      - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+        title: Frank Borman
+        slug: frank-borman
+    date: null
+    date_end: null
+    location_in_record: 00:01:59.3-00:02:08.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
+      record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1006119
+      content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
+      friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
+  - claim_id: e16ed030-fa0c-4f70-8d55-0a8b11cfd048
+    claim_hash: 94bd6d716528782a0d2983ea2fd5b42336a88c45018ec1d3ab022057528d5592
+    content: Frank Borman described the object near Gemini 7 (spacecraft) as looking like a vehicle that had disintegrated.
+    original_excerpt: '[inaudible] large uh... Looks like a perhaps a vehicle that''s disintegrated.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+      title: Frank Borman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Frank Borman
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
+        title: Gemini 7 (spacecraft)
+        slug: gemini-7-spacecraft
+      - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+        title: Frank Borman
+        slug: frank-borman
+    date: null
+    date_end: null
+    location_in_record: 00:02:21.6-00:02:27.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
+      record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1006119
+      content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
+      friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
+  - claim_id: 290172d2-b406-45b2-81db-16473bf64488
+    claim_hash: 8e994634625de75be19ce603fc0587d1fe079b6eb9119c9dd62d058c974dd697
+    content: NASA Mission Control (Houston) asked Frank Borman aboard Gemini 7 (spacecraft) whether the particles sighted
+      were in addition to the Titan II GLV booster and the bogey (the 1965 Gemini 7 unidentified object sighting) at 10 o'clock
+      high.
+    original_excerpt: Gemini 7 Houston. Were these particles in addition to the booster and the bogey at 10 o'clock high?
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: NASA Mission Control transcript
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 270438b4-2665-4287-a4f3-98014bbd1ca3
+        title: Gemini 7 (spacecraft)
+        slug: gemini-7-spacecraft
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+        title: Frank Borman
+        slug: frank-borman
+      - node_id: c0dadb36-9e2e-46f4-ab89-5bd1d67767a2
+        title: 1965 Gemini 7 unidentified object sighting
+        slug: 1965-gemini-7-unidentified-object-sighting
+      - node_id: eaf4ccc7-67d6-4af3-96f0-4d0f552a1731
+        title: Titan II GLV booster
+        slug: titan-ii-glv-booster
+    date: null
+    date_end: null
+    location_in_record: 00:02:56.2-00:03:05.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
+      record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1006119
+      content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
+      friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
+  - claim_id: 94e34c05-b965-4cb9-b282-b848c3474ea1
+    claim_hash: b86039307727538eeeaac1e5af338ffe2a43074e5553314d071c89c38e487fb3
+    content: It was Frank Borman who reported sighting the bogey of the 1965 Gemini 7 unidentified object sighting.
+    original_excerpt: It was Borman who reported sighting the bogey.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: NASA Mission Control narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+        title: Frank Borman
+        slug: frank-borman
+      - node_id: c0dadb36-9e2e-46f4-ab89-5bd1d67767a2
+        title: 1965 Gemini 7 unidentified object sighting
+        slug: 1965-gemini-7-unidentified-object-sighting
+    date: null
+    date_end: null
+    location_in_record: 00:05:54.7-00:05:57.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0e2f5866-6a80-498a-b41b-9cb34c6d49d9
+      record_title: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1006119
+      content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
+      friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2

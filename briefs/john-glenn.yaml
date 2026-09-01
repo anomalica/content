@@ -9,582 +9,593 @@ page:
   claim_count: 13
   claim_count_total: 13
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 13
+  tokens_estimated: 3732
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 13
 related_nodes:
-- node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
-  title: John Glenn Frasier appearance, 2001-03
-  node_type: event
-  slug: 2001-03-john-glenn-frasier-appearance
-  shared_claims: 7
-- node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-  title: Harry Reid
-  node_type: person
-  slug: harry-reid
-  shared_claims: 2
-- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-  title: Richard C. Hoagland
-  node_type: person
-  slug: richard-c-hoagland
-  shared_claims: 2
-- node_id: fd44f2f2-eea9-42b7-af12-c800e99548ab
-  title: Ancient and Accepted Scottish Rite
-  node_type: organisation
-  slug: ancient-and-accepted-scottish-rite
-  shared_claims: 1
-- node_id: de96c301-c29f-48c2-88ca-525266f03b05
-  title: Brookings Report
-  node_type: document
-  slug: brookings-report
-  shared_claims: 1
-- node_id: 60734455-2b44-4394-b788-de2eb428007a
-  title: Frasier (NBC sitcom)
-  node_type: document
-  slug: frasier-nbc-sitcom
-  shared_claims: 1
-- node_id: 93c56433-91b8-4a86-abaf-47581be48a8e
-  title: Glenn effect
-  node_type: topic
-  slug: glenn-effect
-  shared_claims: 1
-- node_id: 1eabd894-9059-432b-990a-74c0a81eec82
-  title: Gordon Cooper
-  node_type: person
-  slug: gordon-cooper
-  shared_claims: 1
-- node_id: 022f4eea-4bb2-44d6-a01f-17c38db086c0
-  title: Gus Grissom
-  node_type: person
-  slug: gus-grissom
-  shared_claims: 1
-- node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
-  title: James E. Oberg
-  node_type: person
-  slug: james-e-oberg
-  shared_claims: 1
-- node_id: c4a73bee-2bbe-4beb-8251-ec45b4187280
-  title: Mercury Seven
-  node_type: topic
-  slug: mercury-seven
-  shared_claims: 1
-- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-  title: National Aeronautics and Space Administration (NASA)
-  node_type: organisation
-  slug: national-aeronautics-and-space-administration-nasa
-  shared_claims: 1
-- node_id: d4b0a6cf-6630-4d28-8113-3447bd0b09fb
-  title: National Broadcasting Company (NBC) News
-  node_type: organisation
-  slug: national-broadcasting-company-nbc-news
-  shared_claims: 1
-- node_id: f8a28f46-82b5-42b7-9db5-f55a34c4b418
-  title: Wally Schirra
-  node_type: person
-  slug: wally-schirra
-  shared_claims: 1
-- node_id: 8fc50862-969a-4a7e-ae67-cc479ca23689
-  title: War of the Worlds broadcast, 1938-10-30
-  node_type: event
-  slug: 1938-10-30-war-of-the-worlds-broadcast
-  shared_claims: 1
-claims:
-- claim_id: bfc06456-e363-460a-9041-aa06a24ff81f
-  claim_hash: 15eb2a2d94ebb2a901e4351748d74cda7e8b273d72ae4b0bf21496186de6d343
-  content: Of the original Mercury Seven astronauts, John Glenn, Wally Schirra, Gus
-    Grissom and Gordon Cooper were all Scottish Rite Freemasons.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 022f4eea-4bb2-44d6-a01f-17c38db086c0
-    title: Gus Grissom
-    slug: gus-grissom
-  - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
-    title: Gordon Cooper
-    slug: gordon-cooper
-  - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-    slug: john-glenn
-  - node_id: c4a73bee-2bbe-4beb-8251-ec45b4187280
-    title: Mercury Seven
-    slug: mercury-seven
-  - node_id: f8a28f46-82b5-42b7-9db5-f55a34c4b418
-    title: Wally Schirra
-    slug: wally-schirra
+  - node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
+    title: John Glenn Frasier appearance, 2001-03
+    node_type: event
+    slug: 2001-03-john-glenn-frasier-appearance
+    shared_claims: 7
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    node_type: person
+    slug: harry-reid
+    shared_claims: 2
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 2
   - node_id: fd44f2f2-eea9-42b7-af12-c800e99548ab
     title: Ancient and Accepted Scottish Rite
+    node_type: organisation
     slug: ancient-and-accepted-scottish-rite
-  date: null
-  date_end: null
-  location_in_record: ch12:116958-117082
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 4c5a70de-65bd-4705-b7c3-041fcd30e154
-  claim_hash: d2e4b75b9e3efe3b62fd8dca984e21f1ea5a86ae7a7c2ed5513d026f2f3dd713
-  content: In March 2001, former astronaut and senator John Glenn made an appearance
-    on the NBC comedy Frasier, in which he made not-so-subtle comments.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 60734455-2b44-4394-b788-de2eb428007a
-    title: Frasier (NBC sitcom)
-    slug: frasier-nbc-sitcom
-  - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-    slug: john-glenn
-  - node_id: d4b0a6cf-6630-4d28-8113-3447bd0b09fb
-    title: National Broadcasting Company (NBC) News
-    slug: national-broadcasting-company-nbc-news
-  - node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
-    title: John Glenn Frasier appearance, 2001-03
-    slug: 2001-03-john-glenn-frasier-appearance
-  date: 2001-03
-  date_end: null
-  location_in_record: ch19:26343-26487
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: eed2b36e-d8e0-42c2-997d-0aa5a0030e43
-  claim_hash: 5fc85656c1a5ba2d1982402fc1b35f195866d36ff924b1010798843ad68da4a2
-  content: John Glenn said that during the early space program he was uncomfortable
-    when asked to say things he didn't want to say and deny other things.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-  provenance_chain:
-    origin_kind: speaker
-    origin: John Glenn
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-    slug: john-glenn
-  - node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
-    title: John Glenn Frasier appearance, 2001-03
-    slug: 2001-03-john-glenn-frasier-appearance
-  date: null
-  date_end: null
-  location_in_record: ch19:26499-26620
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 40dae2d7-e31a-47a2-9006-c145e64cca83
-  claim_hash: 9d43247476d34b5ff942dc5b05768496a346d65958cbbbb4fb26a35c573526df
-  content: John Glenn said that astronauts never gave the real answer when asked if
-    they were alone out there, and that they saw strange things but were not permitted
-    to say anything.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-  provenance_chain:
-    origin_kind: speaker
-    origin: John Glenn
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-    slug: john-glenn
-  - node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
-    title: John Glenn Frasier appearance, 2001-03
-    slug: 2001-03-john-glenn-frasier-appearance
-  date: null
-  date_end: null
-  location_in_record: ch19:26628-26825
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: b5859dae-d2ed-4cc4-9a0b-5e9fb8baf963
-  claim_hash: 29cb436a58075e95bb8f3de4f5fdaefdbe6e8b73eae69c5eabe844da212b3d23
-  content: John Glenn said that NASA's bosses were afraid of a "War of the Worlds"-type
-    panic in the streets, which is why astronauts were told to keep quiet about what
-    they saw.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-  provenance_chain:
-    origin_kind: speaker
-    origin: John Glenn
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-    slug: john-glenn
-  - node_id: 8fc50862-969a-4a7e-ae67-cc479ca23689
-    title: War of the Worlds broadcast, 1938-10-30
-    slug: 1938-10-30-war-of-the-worlds-broadcast
-  - node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
-    title: John Glenn Frasier appearance, 2001-03
-    slug: 2001-03-john-glenn-frasier-appearance
-  date: null
-  date_end: null
-  location_in_record: ch19:26835-26980
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 50d2012e-b082-4fbb-bf51-8a947ffa6eaa
-  claim_hash: a481a721bb5493a863bbfbe2c652a7e69825e17df46a995b7c5e3cf313b770c1
-  content: John Glenn said that astronauts now only see the strange things they saw
-    in space in their nightmares or in movies, and that some films come close to the
-    truth.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-  provenance_chain:
-    origin_kind: speaker
-    origin: John Glenn
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-    slug: john-glenn
-  - node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
-    title: John Glenn Frasier appearance, 2001-03
-    slug: 2001-03-john-glenn-frasier-appearance
-  date: null
-  date_end: null
-  location_in_record: ch19:26987-27110
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 33f3e80f-1176-4380-8479-88f1a225f0ee
-  claim_hash: 663ad2bc3c1312191479312f7a10b9b66af5e11cf8bd025f87b5263f8f5d11ee
-  content: James Oberg dismissed John Glenn's 2001 Frasier comments as simple humour
-    because of their comedic context.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: second_hand
-  speaker:
-    node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
-    title: James E. Oberg
-  provenance_chain:
-    origin_kind: named
-    origin: James Oberg
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
-    title: James E. Oberg
-    slug: james-e-oberg
-  - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-    slug: john-glenn
-  - node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
-    title: John Glenn Frasier appearance, 2001-03
-    slug: 2001-03-john-glenn-frasier-appearance
-  date: 2001-03
-  date_end: null
-  location_in_record: ch19:27202-27361
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 0cc95878-d679-4d20-806e-5fbb81e6bb21
-  claim_hash: 0cc39c26d27fafa08a818d98437aa43e70402c25edc568e0ed89d223bb2dd647
-  content: Richard C. Hoagland considers John Glenn's 2001 Frasier appearance to have
-    all the earmarks of a straightforward "Brookings" revelation.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-    slug: john-glenn
+    shared_claims: 1
   - node_id: de96c301-c29f-48c2-88ca-525266f03b05
     title: Brookings Report
+    node_type: document
     slug: brookings-report
-  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-    slug: richard-c-hoagland
-  - node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
-    title: John Glenn Frasier appearance, 2001-03
-    slug: 2001-03-john-glenn-frasier-appearance
-  date: null
-  date_end: null
-  location_in_record: ch19:27570-27657
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 7ce707c7-e147-4a72-b731-ceab20d0eaee
-  claim_hash: ba14bb8f62c205e220974b94051720313d3a00207e1c435aea9c469cf01362c6
-  content: Richard C. Hoagland considers John Glenn's 2001 Frasier remarks a scathing
-    indictment of NASA (National Aeronautics and Space Administration) and its integrity
-    regardless of the forum in which they were spoken.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-  provenance_chain:
-    origin_kind: speaker
-    origin: Richard C. Hoagland
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-    title: National Aeronautics and Space Administration (NASA)
-    slug: national-aeronautics-and-space-administration-nasa
-  - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-    slug: john-glenn
-  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
-    title: Richard C. Hoagland
-    slug: richard-c-hoagland
-  date: null
-  date_end: null
-  location_in_record: ch19:28164-28258
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
-    record_title: Dark Mission
-    record_date: '2010-07-22'
-    record_reference: null
-    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
-    friendly_name: null
-  excerpt_withheld: restricted
-- claim_id: 75b0d7dc-bf35-48df-b3c2-181c3ff8a71d
-  claim_hash: f725a7b6919602ab5660218f8809a38a4e23fe15116f63e0b1687051be577348
-  content: Harry Reid said he had talked to John Glenn, the astronaut and former senator
-    from Ohio, a number of years before, and that Glenn had told him he thought the
-    federal government should be looking seriously into UFOs.
-  original_excerpt: “I had talked to John Glenn a number of years before,” Mr. Reid
-    said, referring to the astronaut and former senator from Ohio, who died in 2016.
-    Mr. Glenn, Mr. Reid said, had told him he thought that the federal government
-    should be looking seriously into U.F.O.s
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-    title: Harry Reid
-  provenance_chain:
-    origin_kind: named
-    origin: Glenn, John
-    relay:
-    - conversation with Harry Reid
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-    slug: john-glenn
-  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-    title: Harry Reid
-    slug: harry-reid
-  date: null
-  date_end: null
-  location_in_record: char:7605-7866
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
-      Program (Published 2017)'
-    record_date: '2017-12-16'
-    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
-    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
-    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
-- claim_id: 06ab15c0-0f45-44df-b3a8-777cd37a3966
-  claim_hash: d8d77d7fb2ea89ef46529d6ad7e68ea89b356e906bb5645d19871426071c463e
-  content: John Glenn died in 2016.
-  original_excerpt: who died in 2016
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-    slug: john-glenn
-  date: '2016'
-  date_end: null
-  location_in_record: char:7731-7743
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
-      Program (Published 2017)'
-    record_date: '2017-12-16'
-    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
-    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
-    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
-- claim_id: a93673f9-3f0c-435c-84e0-66d263ff878f
-  claim_hash: 97cfc366b2431a71c39fdadd4a743771d3e6909eeb75545f6d7f30ec4fcea90c
-  content: John Glenn told Harry Reid that the federal government should be talking
-    to military service members, particularly pilots, who had reported seeing aircraft
-    they could not identify or explain.
-  original_excerpt: and should be talking to military service members, particularly
-    pilots, who had reported seeing aircraft they could not identify or explain.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-    title: Harry Reid
-  provenance_chain:
-    origin_kind: named
-    origin: Glenn, John
-    relay:
-    - conversation with Harry Reid
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-    slug: john-glenn
-  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-    title: Harry Reid
-    slug: harry-reid
-  date: null
-  date_end: null
-  location_in_record: char:7869-8001
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
-      Program (Published 2017)'
-    record_date: '2017-12-16'
-    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
-    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
-    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
-- claim_id: 818f1f82-65f4-4a26-8cf4-4e6613dd777c
-  claim_hash: 314dbb42ed96d0c080a39a3a3f1f5339580dc7cd7fab100e6263f80ef005e7c4
-  content: John Glenn casts doubt on the theory that the Glenn effect, involving reported
-    snowflakes and fireflies observed during spaceflight, is caused by frost coming
-    off the spacecraft capsule.
-  original_excerpt: but apparently Glenn still sort of cast doubt on that theory
-  claim_type: opinion
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: John Glenn
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
-    title: John Glenn
-    slug: john-glenn
+    shared_claims: 1
+  - node_id: 60734455-2b44-4394-b788-de2eb428007a
+    title: Frasier (NBC sitcom)
+    node_type: document
+    slug: frasier-nbc-sitcom
+    shared_claims: 1
   - node_id: 93c56433-91b8-4a86-abaf-47581be48a8e
     title: Glenn effect
+    node_type: topic
     slug: glenn-effect
-  date: null
-  date_end: null
-  location_in_record: 00:01:54.3-00:01:59.7
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: fe743c62-5af5-4b4e-b4cd-22c1bcc00f3d
-    record_title: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
-    record_date: '2026-07-11'
-    record_reference: https://www.dvidshub.net/video/1010337
-    content_hash: sha256:31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871ec64f379
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+    title: Gordon Cooper
+    node_type: person
+    slug: gordon-cooper
+    shared_claims: 1
+  - node_id: 022f4eea-4bb2-44d6-a01f-17c38db086c0
+    title: Gus Grissom
+    node_type: person
+    slug: gus-grissom
+    shared_claims: 1
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    node_type: person
+    slug: james-e-oberg
+    shared_claims: 1
+  - node_id: c4a73bee-2bbe-4beb-8251-ec45b4187280
+    title: Mercury Seven
+    node_type: topic
+    slug: mercury-seven
+    shared_claims: 1
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 1
+  - node_id: d4b0a6cf-6630-4d28-8113-3447bd0b09fb
+    title: National Broadcasting Company (NBC) News
+    node_type: organisation
+    slug: national-broadcasting-company-nbc-news
+    shared_claims: 1
+  - node_id: f8a28f46-82b5-42b7-9db5-f55a34c4b418
+    title: Wally Schirra
+    node_type: person
+    slug: wally-schirra
+    shared_claims: 1
+  - node_id: 8fc50862-969a-4a7e-ae67-cc479ca23689
+    title: War of the Worlds broadcast, 1938-10-30
+    node_type: event
+    slug: 1938-10-30-war-of-the-worlds-broadcast
+    shared_claims: 1
+claims:
+  - claim_id: bfc06456-e363-460a-9041-aa06a24ff81f
+    claim_hash: 15eb2a2d94ebb2a901e4351748d74cda7e8b273d72ae4b0bf21496186de6d343
+    content: Of the original Mercury Seven astronauts, John Glenn, Wally Schirra, Gus Grissom and Gordon Cooper were all Scottish
+      Rite Freemasons.
+    original_excerpt: Of the original "Mercury Seven" astronauts, John Glenn, Wally Schirra, Gus Grissom and Gordon Cooper
+      were all Scottish Rite Freemasons.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 022f4eea-4bb2-44d6-a01f-17c38db086c0
+        title: Gus Grissom
+        slug: gus-grissom
+      - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+        title: Gordon Cooper
+        slug: gordon-cooper
+      - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+        title: John Glenn
+        slug: john-glenn
+      - node_id: c4a73bee-2bbe-4beb-8251-ec45b4187280
+        title: Mercury Seven
+        slug: mercury-seven
+      - node_id: f8a28f46-82b5-42b7-9db5-f55a34c4b418
+        title: Wally Schirra
+        slug: wally-schirra
+      - node_id: fd44f2f2-eea9-42b7-af12-c800e99548ab
+        title: Ancient and Accepted Scottish Rite
+        slug: ancient-and-accepted-scottish-rite
+    date: null
+    date_end: null
+    location_in_record: ch12:116958-117082
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4c5a70de-65bd-4705-b7c3-041fcd30e154
+    claim_hash: d2e4b75b9e3efe3b62fd8dca984e21f1ea5a86ae7a7c2ed5513d026f2f3dd713
+    content: In March 2001, former astronaut and senator John Glenn made an appearance on the NBC comedy Frasier, in which
+      he made not-so-subtle comments.
+    original_excerpt: In March 2001, former astronaut and Senator John Glenn made a March appearance on the NBC comedy *Frasier,*
+      in which he made some not-so-subtle comments
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 60734455-2b44-4394-b788-de2eb428007a
+        title: Frasier (NBC sitcom)
+        slug: frasier-nbc-sitcom
+      - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+        title: John Glenn
+        slug: john-glenn
+      - node_id: d4b0a6cf-6630-4d28-8113-3447bd0b09fb
+        title: National Broadcasting Company (NBC) News
+        slug: national-broadcasting-company-nbc-news
+      - node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
+        title: John Glenn Frasier appearance, 2001-03
+        slug: 2001-03-john-glenn-frasier-appearance
+    date: 2001-03
+    date_end: null
+    location_in_record: ch19:26343-26487
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: eed2b36e-d8e0-42c2-997d-0aa5a0030e43
+    claim_hash: 5fc85656c1a5ba2d1982402fc1b35f195866d36ff924b1010798843ad68da4a2
+    content: John Glenn said that during the early space program he was uncomfortable when asked to say things he didn't want
+      to say and deny other things.
+    original_excerpt: '"Back in those glory days, I was very uncomfortable when they asked us to say things we didn''t want
+      to say and deny other things.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+      title: John Glenn
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Glenn
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+        title: John Glenn
+        slug: john-glenn
+      - node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
+        title: John Glenn Frasier appearance, 2001-03
+        slug: 2001-03-john-glenn-frasier-appearance
+    date: null
+    date_end: null
+    location_in_record: ch19:26499-26620
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 40dae2d7-e31a-47a2-9006-c145e64cca83
+    claim_hash: 9d43247476d34b5ff942dc5b05768496a346d65958cbbbb4fb26a35c573526df
+    content: John Glenn said that astronauts never gave the real answer when asked if they were alone out there, and that
+      they saw strange things but were not permitted to say anything.
+    original_excerpt: Some people asked, you know, were you alone out there? We never gave the real answer, and yet we see
+      things out there, strange things, but we know what we saw out there. And we couldn't really say anything.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+      title: John Glenn
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Glenn
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+        title: John Glenn
+        slug: john-glenn
+      - node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
+        title: John Glenn Frasier appearance, 2001-03
+        slug: 2001-03-john-glenn-frasier-appearance
+    date: null
+    date_end: null
+    location_in_record: ch19:26628-26825
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b5859dae-d2ed-4cc4-9a0b-5e9fb8baf963
+    claim_hash: 29cb436a58075e95bb8f3de4f5fdaefdbe6e8b73eae69c5eabe844da212b3d23
+    content: John Glenn said that NASA's bosses were afraid of a "War of the Worlds"-type panic in the streets, which is why
+      astronauts were told to keep quiet about what they saw.
+    original_excerpt: The bosses were really afraid of this, they were afraid of the 'War of the Worlds'-type stuff, and about
+      panic in the streets. So we had to keep quiet.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+      title: John Glenn
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Glenn
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+        title: John Glenn
+        slug: john-glenn
+      - node_id: 8fc50862-969a-4a7e-ae67-cc479ca23689
+        title: War of the Worlds broadcast, 1938-10-30
+        slug: 1938-10-30-war-of-the-worlds-broadcast
+      - node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
+        title: John Glenn Frasier appearance, 2001-03
+        slug: 2001-03-john-glenn-frasier-appearance
+    date: null
+    date_end: null
+    location_in_record: ch19:26835-26980
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 50d2012e-b082-4fbb-bf51-8a947ffa6eaa
+    claim_hash: a481a721bb5493a863bbfbe2c652a7e69825e17df46a995b7c5e3cf313b770c1
+    content: John Glenn said that astronauts now only see the strange things they saw in space in their nightmares or in movies,
+      and that some films come close to the truth.
+    original_excerpt: And now we only see these things in our nightmares, or maybe in the movies, and some of them are pretty
+      close to being the truth."
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+      title: John Glenn
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Glenn
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+        title: John Glenn
+        slug: john-glenn
+      - node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
+        title: John Glenn Frasier appearance, 2001-03
+        slug: 2001-03-john-glenn-frasier-appearance
+    date: null
+    date_end: null
+    location_in_record: ch19:26987-27110
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 33f3e80f-1176-4380-8479-88f1a225f0ee
+    claim_hash: 663ad2bc3c1312191479312f7a10b9b66af5e11cf8bd025f87b5263f8f5d11ee
+    content: James Oberg dismissed John Glenn's 2001 Frasier comments as simple humour because of their comedic context.
+    original_excerpt: NASA sycophants, like James Oberg, immediately dismissed these comments as simple humor because of their
+      context—one of the most popular situation comedies on television.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+      title: James E. Oberg
+    provenance_chain:
+      origin_kind: named
+      origin: James Oberg
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+        title: James E. Oberg
+        slug: james-e-oberg
+      - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+        title: John Glenn
+        slug: john-glenn
+      - node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
+        title: John Glenn Frasier appearance, 2001-03
+        slug: 2001-03-john-glenn-frasier-appearance
+    date: 2001-03
+    date_end: null
+    location_in_record: ch19:27202-27361
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 0cc95878-d679-4d20-806e-5fbb81e6bb21
+    claim_hash: 0cc39c26d27fafa08a818d98437aa43e70402c25edc568e0ed89d223bb2dd647
+    content: Richard C. Hoagland considers John Glenn's 2001 Frasier appearance to have all the earmarks of a straightforward
+      "Brookings" revelation.
+    original_excerpt: In fact, this bizarre appearance has all the earmarks of a straightforward "Brookings" revelation.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+        title: John Glenn
+        slug: john-glenn
+      - node_id: de96c301-c29f-48c2-88ca-525266f03b05
+        title: Brookings Report
+        slug: brookings-report
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+      - node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
+        title: John Glenn Frasier appearance, 2001-03
+        slug: 2001-03-john-glenn-frasier-appearance
+    date: null
+    date_end: null
+    location_in_record: ch19:27570-27657
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 7ce707c7-e147-4a72-b731-ceab20d0eaee
+    claim_hash: ba14bb8f62c205e220974b94051720313d3a00207e1c435aea9c469cf01362c6
+    content: Richard C. Hoagland considers John Glenn's 2001 Frasier remarks a scathing indictment of NASA (National Aeronautics
+      and Space Administration) and its integrity regardless of the forum in which they were spoken.
+    original_excerpt: Regardless of where they were spoken, Glenn's words are a scathing indictment of NASA and its integrity.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+        title: John Glenn
+        slug: john-glenn
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch19:28164-28258
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 75b0d7dc-bf35-48df-b3c2-181c3ff8a71d
+    claim_hash: f725a7b6919602ab5660218f8809a38a4e23fe15116f63e0b1687051be577348
+    content: Harry Reid said he had talked to John Glenn, the astronaut and former senator from Ohio, a number of years before,
+      and that Glenn had told him he thought the federal government should be looking seriously into UFOs.
+    original_excerpt: “I had talked to John Glenn a number of years before,” Mr. Reid said, referring to the astronaut and
+      former senator from Ohio, who died in 2016. Mr. Glenn, Mr. Reid said, had told him he thought that the federal government
+      should be looking seriously into U.F.O.s
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+      title: Harry Reid
+    provenance_chain:
+      origin_kind: named
+      origin: Glenn, John
+      relay:
+        - conversation with Harry Reid
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+        title: John Glenn
+        slug: john-glenn
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: char:7605-7866
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: 06ab15c0-0f45-44df-b3a8-777cd37a3966
+    claim_hash: d8d77d7fb2ea89ef46529d6ad7e68ea89b356e906bb5645d19871426071c463e
+    content: John Glenn died in 2016.
+    original_excerpt: who died in 2016
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+        title: John Glenn
+        slug: john-glenn
+    date: '2016'
+    date_end: null
+    location_in_record: char:7731-7743
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: a93673f9-3f0c-435c-84e0-66d263ff878f
+    claim_hash: 97cfc366b2431a71c39fdadd4a743771d3e6909eeb75545f6d7f30ec4fcea90c
+    content: John Glenn told Harry Reid that the federal government should be talking to military service members, particularly
+      pilots, who had reported seeing aircraft they could not identify or explain.
+    original_excerpt: and should be talking to military service members, particularly pilots, who had reported seeing aircraft
+      they could not identify or explain.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+      title: Harry Reid
+    provenance_chain:
+      origin_kind: named
+      origin: Glenn, John
+      relay:
+        - conversation with Harry Reid
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+        title: John Glenn
+        slug: john-glenn
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: char:7869-8001
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: 818f1f82-65f4-4a26-8cf4-4e6613dd777c
+    claim_hash: 314dbb42ed96d0c080a39a3a3f1f5339580dc7cd7fab100e6263f80ef005e7c4
+    content: John Glenn casts doubt on the theory that the Glenn effect, involving reported snowflakes and fireflies observed
+      during spaceflight, is caused by frost coming off the spacecraft capsule.
+    original_excerpt: but apparently Glenn still sort of cast doubt on that theory
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: John Glenn
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+        title: John Glenn
+        slug: john-glenn
+      - node_id: 93c56433-91b8-4a86-abaf-47581be48a8e
+        title: Glenn effect
+        slug: glenn-effect
+    date: null
+    date_end: null
+    location_in_record: 00:01:54.3-00:01:59.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fe743c62-5af5-4b4e-b4cd-22c1bcc00f3d
+      record_title: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1010337
+      content_hash: sha256:31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871ec64f379
+      friendly_name: null

@@ -1,0 +1,286 @@
+schema: anomalica/brief/1
+brief_hash: 0d383d7f15815171be44363526310d5258099b3e264c4dedfcad40e7a38b88c3
+page:
+  kind: entity
+  node_id: 14ac1ead-cf3f-422e-9bda-8ede06aa1d8a
+  node_type: event
+  title: 1950 Del Rio, Texas alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+  slug: texas-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1950-del-rio
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1955
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 4
+  suspect_excluded: 0
+  unreviewed: 2
+related_nodes:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    node_type: organisation
+    slug: united-states-army
+    shared_claims: 3
+  - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+    title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+    node_type: event
+    slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+    shared_claims: 1
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    node_type: person
+    slug: eric-davis
+    shared_claims: 1
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    node_type: person
+    slug: george-knapp
+    shared_claims: 1
+  - node_id: 4396d53d-e16c-4bab-8e20-dd19e9078d46
+    title: USA, Texas, Del Rio
+    node_type: place
+    slug: texas-del-rio-usa
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
+claims:
+  - claim_id: 6cf44726-7a00-4827-9dc2-10eebd7fb186
+    claim_hash: ae9384334552263f4b1c06db3180b99125472d4e4561bdd3ed2d56d1f93041ab
+    content: The United States Army was chosen to investigate the Dayton, Texas UFO case because Army helicopters were seen
+      circling and pursuing the object as it departed.
+    original_excerpt: investigation by the Army because the Army was chosen to investigate the case because Army helicopters,
+      or helicopters used by the Army, were seen circling this object and pursuing it as it went off.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: speaker
+      origin: Raymond Fowler
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 14ac1ead-cf3f-422e-9bda-8ede06aa1d8a
+        title: 1950 Del Rio, Texas alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+        slug: texas-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1950-del-rio
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+    date: null
+    date_end: null
+    location_in_record: 00:31:34.8-00:31:46.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 13cb85ba-2fef-4a81-adb1-516c83dfdd8d
+    claim_hash: b4ee812a39dd90028f36fa6187fdf9d83b29b9ab871708153be2566605ee8b41
+    content: An Army officer investigating the Dayton, Texas case verified the injuries sustained by the people involved and
+      verified that helicopters had been seen in the area.
+    original_excerpt: And the Army officer verified the injuries to these people. And he verified that the helicopters had
+      been seen in the area.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: document
+      origin: Army investigation records of the Dayton, Texas incident
+      relay:
+        - Raymond Fowler
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 14ac1ead-cf3f-422e-9bda-8ede06aa1d8a
+        title: 1950 Del Rio, Texas alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+        slug: texas-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1950-del-rio
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+    date: null
+    date_end: null
+    location_in_record: 00:31:47.8-00:31:59.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 85d29b51-abc7-4ce9-af53-4ee47fa80afb
+    claim_hash: 5ee8848180f342f62cb83517e17230eb7fa906fe2c753168f9b7a818264f68f5
+    content: The Army officer investigating the Dayton, Texas case stated that no agency of the government would admit the
+      helicopters or the object were theirs, so the government held itself not responsible for the injuries sustained.
+    original_excerpt: he also stated that no agency of this government would admit that the helicopters were theirs, that
+      the object was theirs, and therefore the injuries sustained by the people had nothing to do with the case per se, therefore
+      the government wasn't responsible because it wasn't the government's aircraft or whatever you want to call it.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: document
+      origin: Army investigation records of the Dayton, Texas incident
+      relay:
+        - Raymond Fowler
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 14ac1ead-cf3f-422e-9bda-8ede06aa1d8a
+        title: 1950 Del Rio, Texas alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+        slug: texas-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1950-del-rio
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+    date: null
+    date_end: null
+    location_in_record: 00:32:00.8-00:32:20.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 5d19b3cd-4c1c-4b67-bdd6-a93de31b0831
+    claim_hash: cb72a403794954f686bb945aa549b628d556c0f4f4ad609563a95ffdc2814cf7
+    content: Records of the Dayton, Texas case include hospital records documenting burns and radiation sickness among the
+      people involved, along with the Army's investigation.
+    original_excerpt: there are the people with the burns and the radiation sickness and the hospital records and the investigation
+      by the Army indicating that, yeah, this did happen, but it isn't the government's responsibility
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: speaker
+      origin: Raymond Fowler
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 14ac1ead-cf3f-422e-9bda-8ede06aa1d8a
+        title: 1950 Del Rio, Texas alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+        slug: texas-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1950-del-rio
+    date: null
+    date_end: null
+    location_in_record: 00:32:25.0-00:32:37.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: f1fc926f-a775-4b8b-aafe-14683d8de82a
+    claim_hash: 940ea4d9059c5d07b3492e7d385c963c36eca8bc0aac896c119918d6b34cdfa3
+    content: Eric Davis cited the 5 December 1950 case known as Del Rio, allegedly involving a crashed extra-terrestrial craft
+      near Del Rio, Texas, subsequently recovered by the US Air Force, in his interview with George Knapp.
+    original_excerpt: So it was intriguing to hear Dr Davis citing one of those other claimed extra-terrestrial spacecraft
+      crashes in his interview with George Knapp – the 5 December 1950 case known as Del Rio, which allegedly involved a crashed
+      craft near the town of Del Rio, Texas, that was subsequently recovered by the US Air Force.
+    claim_type: hearsay
+    attestation: first_hand
+    speaker:
+      node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+      title: Eric Davis
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Davis
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 14ac1ead-cf3f-422e-9bda-8ede06aa1d8a
+        title: 1950 Del Rio, Texas alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+        slug: texas-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1950-del-rio
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 4396d53d-e16c-4bab-8e20-dd19e9078d46
+        title: USA, Texas, Del Rio
+        slug: texas-del-rio-usa
+      - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+        title: George Knapp
+        slug: george-knapp
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: '1950-12-05'
+    date_end: null
+    location_in_record: ch17:13803-14112
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 30f6ce20-eeee-42b2-9c42-e928db240b8b
+    claim_hash: 7c020c93cc6d1d09d574381c93f3a16dcdc312aaea6b80c56cbb1539ed68ace8
+    content: The US government's stated official position is that UAP crash recoveries such as those at Del Rio and Aztec
+      are fiction and never happened.
+    original_excerpt: The US government's stated position is that such UAP crash recoveries are a fiction; officially, they
+      never happened.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 14ac1ead-cf3f-422e-9bda-8ede06aa1d8a
+        title: 1950 Del Rio, Texas alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+        slug: texas-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1950-del-rio
+      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+    date: null
+    date_end: null
+    location_in_record: ch17:14630-14738
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

@@ -9,307 +9,310 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2179
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
 related_nodes:
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 5
-- node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
-  title: John Burroughs
-  node_type: person
-  slug: john-burroughs
-  shared_claims: 3
-- node_id: 224e26e2-c488-413d-9693-7726f1481df8
-  title: 1980 Rendlesham Forest incident
-  node_type: event
-  slug: 1980-rendlesham-forest-incident
-  shared_claims: 2
-- node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
-  title: UK, Suffolk, Rendlesham Forest
-  node_type: place
-  slug: suffolk-rendlesham-forest-uk
-  shared_claims: 1
-- node_id: 134433ac-c317-4826-9edd-5f732f74521c
-  title: United Kingdom, London
-  node_type: place
-  slug: london-united-kingdom
-  shared_claims: 1
-- node_id: 1915ba67-3c4d-41a2-9376-29bda38fe841
-  title: United Kingdom, Suffolk, Rendlesham Forest
-  node_type: place
-  slug: suffolk-rendlesham-forest-united-kingdom
-  shared_claims: 1
-claims:
-- claim_id: 61fab06b-afa8-48e1-99b1-081d406beffe
-  claim_hash: 294b70f30952ad33e0dc7201c78af82026b7c070427b3c764e13553f03d5d862
-  content: Sergeant Jim Penniston described seeing a small three-metre-wide craft
-    during the 1980 Rendlesham Forest UAP incident composed of what looked like a
-    black smoky glass-like material, with unfamiliar symbols inscribed on its upper
-    side.
-  original_excerpt: null
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
-    title: Jim Penniston
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jim Penniston
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
-    title: Jim Penniston
-    slug: jim-penniston
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: ch12:7720-7918
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 6c345463-54d2-4a10-a007-dd9fcc2d9716
-  claim_hash: bd3b4921f230f2b1fae68bbe7f041852479677bfd960e8e350b04fe680277e65
-  content: Jim Penniston claimed, much later, that he touched the craft seen during
-    the 1980 Rendlesham Forest UAP incident and recorded sketches of the hieroglyphic
-    inscriptions in a notebook.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
-    title: Jim Penniston
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jim Penniston
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
-    title: Jim Penniston
-    slug: jim-penniston
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: ch12:7924-8058
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 79c08b1f-9948-4a79-80f0-1066ec0b66f5
-  claim_hash: ebeed772586a0fcd464ede94b4412cd2fc0425e584cf8d27cb17bf1fdc726f5f
-  content: Jim Penniston claimed that he and his colleagues suffered 'missing time'
-    during the 1980 Rendlesham Forest UAP incident, with their memories deliberately
-    confused and blocked in some way.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
-    title: Jim Penniston
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jim Penniston
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
-    title: Jim Penniston
-    slug: jim-penniston
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: ch12:8069-8246
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 2681d130-76e7-40d1-b272-a847f6c9a796
-  claim_hash: 5c3e60f4138c6743e74a2160bca6af051f628afd3ea54c4482ea4c9eda16d344
-  content: A sketch of the purported Rendlesham Forest UAP was drawn by witness Jim
-    Penniston.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
-    title: Jim Penniston
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jim Penniston
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
-    title: Jim Penniston
-    slug: jim-penniston
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: ch37:5528-5612
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d048e30a-67a1-4f6a-88d3-4a5c7611b25f
-  claim_hash: 0e9e74c0777d58eacfb0ecab0bbc9c71aa0c2b6a74548a42b28a3982a5470299
-  content: Jim Penniston and John Burroughs claimed they saw a craft land in Rendlesham
-    Forest near the RAF Woodbridge base in Suffolk, England, on 1980-12-26.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Jim Penniston and John Burroughs
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 134433ac-c317-4826-9edd-5f732f74521c
-    title: United Kingdom, London
-    slug: london-united-kingdom
-  - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
-    title: Jim Penniston
-    slug: jim-penniston
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    node_type: event
+    slug: 1980-rendlesham-forest-incident
+    shared_claims: 7
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    node_type: person
+    slug: john-burroughs
+    shared_claims: 3
   - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
-    title: UK, Suffolk, Rendlesham Forest
-    slug: suffolk-rendlesham-forest-uk
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
-    title: John Burroughs
-    slug: john-burroughs
-  date: '1980-12-26'
-  date_end: null
-  location_in_record: ch37:5623-5779
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d81cc4be-6bc9-487c-834e-f8cb317e3de9
-  claim_hash: 61a67059388181b63569268874a94d43a0a6a4434bd33fff0f0c93f21114fdc8
-  content: During the 1980 Rendlesham Forest incident, security policemen John Burroughs
-    and Jim Penniston found a landed Unidentified Aerial Phenomenon (UAP) in Rendlesham
-    Forest near a joint UK-US military facility in Suffolk, England, where the two
-    allies had stored nuclear weapons in a secret bunker.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 1915ba67-3c4d-41a2-9376-29bda38fe841
-    title: United Kingdom, Suffolk, Rendlesham Forest
-    slug: suffolk-rendlesham-forest-united-kingdom
-  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
-    title: 1980 Rendlesham Forest incident
-    slug: 1980-rendlesham-forest-incident
-  - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
-    title: Jim Penniston
-    slug: jim-penniston
-  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
-    title: John Burroughs
-    slug: john-burroughs
-  date: 1980-12
-  date_end: null
-  location_in_record: ch18:4677-4925
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 1a4da6a6-833d-4b4c-93fa-2b6ed1ea36c9
-  claim_hash: 524edd6298a9196c82db8143e6a922c3f83004cc493a0fc6b829a5aa630c2c96
-  content: During the 1980 Rendlesham Forest incident, the watches worn by John Burroughs
-    and Jim Penniston lost forty-five minutes of time compared to the timepieces of
-    airmen back on base.
-  original_excerpt: null
-  claim_type: observation
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
-    title: 1980 Rendlesham Forest incident
-    slug: 1980-rendlesham-forest-incident
-  - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
-    title: Jim Penniston
-    slug: jim-penniston
-  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
-    title: John Burroughs
-    slug: john-burroughs
-  date: 1980-12
-  date_end: null
-  location_in_record: ch18:4972-5095
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
+    title: UK, England, Rendlesham Forest
+    node_type: place
+    slug: england-rendlesham-forest-uk
+    shared_claims: 2
+  - node_id: f2a1105b-6bda-47b3-8762-3dc3f97f365c
+    title: UK, England, RAF Woodbridge
+    node_type: place
+    slug: england-raf-woodbridge-uk
+    shared_claims: 1
+claims:
+  - claim_id: 61fab06b-afa8-48e1-99b1-081d406beffe
+    claim_hash: 294b70f30952ad33e0dc7201c78af82026b7c070427b3c764e13553f03d5d862
+    content: Sergeant Jim Penniston described seeing a small three-metre-wide craft during the 1980 Rendlesham Forest UAP
+      incident composed of what looked like a black smoky glass-like material, with unfamiliar symbols inscribed on its upper
+      side.
+    original_excerpt: His colleague, Sergeant Jim Penniston, described seeing a small three-metre-wide craft composed of what
+      looked like a black smoky glass-like material, with unfamiliar symbols inscribed on its upper side.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+      title: Jim Penniston
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Penniston
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+        title: Jim Penniston
+        slug: jim-penniston
+    date: null
+    date_end: null
+    location_in_record: ch12:7720-7918
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6c345463-54d2-4a10-a007-dd9fcc2d9716
+    claim_hash: bd3b4921f230f2b1fae68bbe7f041852479677bfd960e8e350b04fe680277e65
+    content: Jim Penniston claimed, much later, that he touched the craft seen during the 1980 Rendlesham Forest UAP incident
+      and recorded sketches of the hieroglyphic inscriptions in a notebook.
+    original_excerpt: Penniston made the astonishing claim much later that he touched the craft and recorded sketches of the
+      hieroglyphic inscriptions in a notebook.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+      title: Jim Penniston
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Penniston
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+        title: Jim Penniston
+        slug: jim-penniston
+    date: null
+    date_end: null
+    location_in_record: ch12:7924-8058
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 79c08b1f-9948-4a79-80f0-1066ec0b66f5
+    claim_hash: ebeed772586a0fcd464ede94b4412cd2fc0425e584cf8d27cb17bf1fdc726f5f
+    content: Jim Penniston claimed that he and his colleagues suffered 'missing time' during the 1980 Rendlesham Forest UAP
+      incident, with their memories deliberately confused and blocked in some way.
+    original_excerpt: Penniston also raised dramatic claims that he and his colleagues suffered 'missing time' during the
+      incident, that their memories were deliberately confused and blocked in some way.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+      title: Jim Penniston
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Penniston
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+        title: Jim Penniston
+        slug: jim-penniston
+    date: null
+    date_end: null
+    location_in_record: ch12:8069-8246
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2681d130-76e7-40d1-b272-a847f6c9a796
+    claim_hash: 5c3e60f4138c6743e74a2160bca6af051f628afd3ea54c4482ea4c9eda16d344
+    content: A sketch of the purported Rendlesham Forest UAP was drawn by witness Jim Penniston.
+    original_excerpt: A sketch of the purported Rendlesham Forest UAP drawn by witness Staff Sergeant Jim Penniston.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+      title: Jim Penniston
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Penniston
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+        title: Jim Penniston
+        slug: jim-penniston
+    date: null
+    date_end: null
+    location_in_record: ch37:5528-5612
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d048e30a-67a1-4f6a-88d3-4a5c7611b25f
+    claim_hash: 0e9e74c0777d58eacfb0ecab0bbc9c71aa0c2b6a74548a42b28a3982a5470299
+    content: Jim Penniston and John Burroughs claimed they saw a craft land in Rendlesham Forest near the RAF Woodbridge base
+      in Suffolk, England, on 1980-12-26.
+    original_excerpt: Mr Penniston and Airman John Burroughs claimed they saw the craft land in Rendlesham Forest near the
+      RAF Woodridge base in Suffolk, England, on 26 December 1980.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Jim Penniston and John Burroughs
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+        title: Jim Penniston
+        slug: jim-penniston
+      - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+        title: UK, England, Rendlesham Forest
+        slug: england-rendlesham-forest-uk
+      - node_id: f2a1105b-6bda-47b3-8762-3dc3f97f365c
+        title: UK, England, RAF Woodbridge
+        slug: england-raf-woodbridge-uk
+      - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+        title: John Burroughs
+        slug: john-burroughs
+    date: '1980-12-26'
+    date_end: null
+    location_in_record: ch37:5623-5779
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d81cc4be-6bc9-487c-834e-f8cb317e3de9
+    claim_hash: 61a67059388181b63569268874a94d43a0a6a4434bd33fff0f0c93f21114fdc8
+    content: During the 1980 Rendlesham Forest incident, security policemen John Burroughs and Jim Penniston found a landed
+      Unidentified Aerial Phenomenon (UAP) in Rendlesham Forest near a joint UK-US military facility in Suffolk, England,
+      where the two allies had stored nuclear weapons in a secret bunker.
+    original_excerpt: Strange lights appeared near a joint UK-US military facility in Suffolk, England, where the two allies
+      had stored nuclear weapons in a secret bunker. Two security policemen, John Burroughs and Jim Penniston, found a landed
+      UAP in nearby Rendlesham Forest.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+        title: Jim Penniston
+        slug: jim-penniston
+      - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+        title: UK, England, Rendlesham Forest
+        slug: england-rendlesham-forest-uk
+      - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+        title: John Burroughs
+        slug: john-burroughs
+    date: 1980-12
+    date_end: null
+    location_in_record: ch18:4677-4925
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1a4da6a6-833d-4b4c-93fa-2b6ed1ea36c9
+    claim_hash: 524edd6298a9196c82db8143e6a922c3f83004cc493a0fc6b829a5aa630c2c96
+    content: During the 1980 Rendlesham Forest incident, the watches worn by John Burroughs and Jim Penniston lost forty-five
+      minutes of time compared to the timepieces of airmen back on base.
+    original_excerpt: The watches both men wore that night lost forty-five minutes of time when compared to the timepieces
+      of the airmen back on base.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+        title: Jim Penniston
+        slug: jim-penniston
+      - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+        title: John Burroughs
+        slug: john-burroughs
+    date: 1980-12
+    date_end: null
+    location_in_record: ch18:4972-5095
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

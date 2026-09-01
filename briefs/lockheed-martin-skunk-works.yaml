@@ -9,1548 +9,1556 @@ page:
   claim_count: 35
   claim_count_total: 35
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 35
+  tokens_estimated: 10987
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 35
 related_nodes:
-- node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-  title: Tom DeLonge
-  node_type: person
-  slug: tom-delonge
-  shared_claims: 14
-- node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-  title: Steve Justice
-  node_type: person
-  slug: steve-justice
-  shared_claims: 9
-- node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
-  title: Lockheed Martin
-  node_type: organisation
-  slug: lockheed-martin
-  shared_claims: 6
-- node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
-  title: Robert Weiss
-  node_type: person
-  slug: robert-weiss
-  shared_claims: 6
-- node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
-  title: Ben Rich
-  node_type: person
-  slug: ben-rich
-  shared_claims: 3
-- node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-  title: Jason Samosa
-  node_type: person
-  slug: jason-samosa
-  shared_claims: 3
-- node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-  title: To the Stars Academy of Arts and Science (TTSA)
-  node_type: organisation
-  slug: to-the-stars-academy-of-arts-and-science-ttsa
-  shared_claims: 3
-- node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-  title: John Podesta
-  node_type: person
-  slug: john-podesta
-  shared_claims: 2
-- node_id: 7eaac853-d863-4210-af67-e165485c02e9
-  title: Lex Fridman
-  node_type: person
-  slug: lex-fridman
-  shared_claims: 2
-- node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-  title: SR-71 Blackbird
-  node_type: object
-  slug: sr-71-blackbird
-  shared_claims: 2
-- node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
-  title: 2017 To The Stars Academy of Arts & Sciences launch event
-  node_type: event
-  slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
-  shared_claims: 1
-- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-  title: Central Intelligence Agency (CIA)
-  node_type: organisation
-  slug: central-intelligence-agency-cia
-  shared_claims: 1
-- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-  title: Christopher K. Mellon
-  node_type: person
-  slug: christopher-k-mellon
-  shared_claims: 1
-- node_id: c09e3558-1732-4676-a218-d67d285d98ef
-  title: David Fravor
-  node_type: person
-  slug: david-fravor
-  shared_claims: 1
-- node_id: a2e88f4b-c3f6-45d3-aee0-82fd65df75ca
-  title: F-117A Night Hawk
-  node_type: object
-  slug: f-117a-night-hawk
-  shared_claims: 1
-- node_id: e1014d56-f0d9-46ef-b2cd-e24a45f2f8ed
-  title: F-22 Raptor
-  node_type: object
-  slug: f-22-raptor
-  shared_claims: 1
-- node_id: 847500ab-d729-4297-b379-605f40aad1bf
-  title: F-35 Lightning stealth jet
-  node_type: object
-  slug: f-35-lightning-stealth-jet
-  shared_claims: 1
-- node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
-  title: Hillary Clinton presidential campaign
-  node_type: organisation
-  slug: hillary-clinton-presidential-campaign
-  shared_claims: 1
-- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-  title: Jacques Vallée
-  node_type: person
-  slug: jacques-vallee
-  shared_claims: 1
-- node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
-  title: Jim Goodall
-  node_type: person
-  slug: jim-goodall
-  shared_claims: 1
-- node_id: e78d0ea3-a3c6-4014-a4c6-7cf0bebe92c6
-  title: Kelly Johnson
-  node_type: person
-  slug: kelly-johnson
-  shared_claims: 1
-- node_id: 7946d3c7-0d50-42ae-86f8-1521961ee30a
-  title: Keoki Jackson
-  node_type: person
-  slug: keoki-jackson
-  shared_claims: 1
-- node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
-  title: Michael Carey
-  node_type: person
-  slug: michael-carey
-  shared_claims: 1
-- node_id: 13dd6341-c313-47b9-b7cd-07f36290876d
-  title: Milia Fisher
-  node_type: person
-  slug: milia-fisher
-  shared_claims: 1
-- node_id: 23906ad8-c5e4-4000-801f-6b071501d711
-  title: P-175 Polecat
-  node_type: object
-  slug: p-175-polecat
-  shared_claims: 1
-- node_id: 73da19a8-f5bc-43a4-bf51-cd7a79d3573f
-  title: RQ-170 Sentinel
-  node_type: object
-  slug: rq-170-sentinel
-  shared_claims: 1
-- node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-  title: Ross Coulthart
-  node_type: person
-  slug: ross-coulthart
-  shared_claims: 1
-- node_id: 9b0b88b3-ca1d-41b8-b67d-66fb0a918588
-  title: TR3B
-  node_type: object
-  slug: tr3b
-  shared_claims: 1
-- node_id: 98da4675-40f9-4b67-8820-f8c46d45e152
-  title: Tom DeLonge's meetings with Lockheed Martin Skunk Works on Unidentified Aerial
-    Phenomena (UAP) disclosure
-  node_type: event
-  slug: tom-delonges-meetings-with-lockheed-martin-skunk-works-on-unidentified-aerial-phenomena-uap-disclosure
-  shared_claims: 1
-- node_id: 3dcb1bdf-9e00-430b-97ed-ded13b79fd61
-  title: U-2 spy plane
-  node_type: object
-  slug: u-2-spy-plane
-  shared_claims: 1
-claims:
-- claim_id: 0a145af8-0338-4a3a-b100-5255e8e11c46
-  claim_hash: 92a503f2b90ec90546e10850677d70740c06258129a59cfd6e1458836cb62f69
-  content: David Fravor considers the SR-71 Blackbird, from a pure-speed perspective,
-    an engineering marvel, developed in the 1950s by Kelly Johnson at Lockheed Skunk
-    Works.
-  original_excerpt: From pure speed, I would say SR-71, I think it's an engineering
-    marvel that was actually developed in the 50s by Kelly Johnson, you know, Skunk
-    Works.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  - node_id: e78d0ea3-a3c6-4014-a4c6-7cf0bebe92c6
-    title: Kelly Johnson
-    slug: kelly-johnson
-  date: null
-  date_end: null
-  location_in_record: 01:05:36.5-01:05:42.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: b8bc290d-52de-4e83-af2c-d4ab83a6f4a3
-  claim_hash: 824c711cc23241e9d4cbda900a81a77a9bc4bb4ff53eaba9a34053222d805fa9
-  content: Steve Justice previously ran Lockheed Skunk Works.
-  original_excerpt: I mean, they've got Steve Justice who used to run Skunk Works
-    where they built projects.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: 01:54:28.6-01:54:31.9
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: e7402742-b40c-42a0-858c-a2b62a199439
-  claim_hash: 68fec24af3faa60639c10885eeb0209a7bf95d28448398e9be38ba2ea3676004
-  content: David Fravor spoke with Lockheed Martin's chief technology officer Keoki
-    Jackson about Lockheed Skunk Works.
-  original_excerpt: i talked to cto of lockheed uh keiko jackson and just just kunkworks
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 7eaac853-d863-4210-af67-e165485c02e9
-    title: Lex Fridman
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lex Fridman
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 7946d3c7-0d50-42ae-86f8-1521961ee30a
-    title: Keoki Jackson
-    slug: keoki-jackson
-  - node_id: 7eaac853-d863-4210-af67-e165485c02e9
-    title: Lex Fridman
-    slug: lex-fridman
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
-    title: Lockheed Martin
-    slug: lockheed-martin
-  date: null
-  date_end: null
-  location_in_record: 03:16:41.1-03:16:45.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: 72a34366-6700-46c4-b009-6910caca465e
-  claim_hash: deb9af40078a2ee55a929c20dea589c9efe8b5039d647538893597521bf6adfe
-  content: Lex Fridman considers some of the best engineering and science work to
-    be done in secrecy at Lockheed Skunk Works.
-  original_excerpt: the some of the best if not the best engineering and science but
-    engineering really ever is done in secrecy
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 7eaac853-d863-4210-af67-e165485c02e9
-    title: Lex Fridman
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lex Fridman
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 7eaac853-d863-4210-af67-e165485c02e9
-    title: Lex Fridman
-    slug: lex-fridman
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  date: null
-  date_end: null
-  location_in_record: 03:16:46.6-03:16:55.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
-    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
-      | Lex Fridman Podcast #122'
-    record_date: '2020-09-08'
-    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
-    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
-    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-- claim_id: ba26da13-3d8c-4159-b75e-d3d9da7ee769
-  claim_hash: 15ab996cafd242c9f5c88f734371568fe078816d90971556cdc6d17f656fbd1c
-  content: The other attendees listed for the proposed Google Hangout meeting were
-    Tom DeLonge, John Podesta, Lockheed Martin Skunk Works' boss Rob Weiss, Hillary
-    Clinton campaign assistant Milia Fisher, and retired Major General Michael Carey.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: a leaked Podesta email
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 13dd6341-c313-47b9-b7cd-07f36290876d
-    title: Milia Fisher
-    slug: milia-fisher
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    slug: john-podesta
-  - node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
-    title: Hillary Clinton presidential campaign
-    slug: hillary-clinton-presidential-campaign
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
   - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
     title: Tom DeLonge
+    node_type: person
     slug: tom-delonge
-  - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
-    title: Michael Carey
-    slug: michael-carey
-  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
-    title: Robert Weiss
-    slug: robert-weiss
-  date: null
-  date_end: null
-  location_in_record: 29-31
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 4120858f-cd4d-4d65-a101-095ff0d14ef6
-  claim_hash: 302fca339f3e2606ca8e355c3554c34169a0bc7a12d43bcf8664a6d55d2dede4
-  content: Jim Goodall befriended engineer Ben Rich, the former Director of Lockheed
-    Martin's Skunk Works, the pseudonym for Lockheed Martin's secretive Advanced Developments
-    Projects division where many of America's most advanced aircraft have been designed.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
-    title: Jim Goodall
-    slug: jim-goodall
+    shared_claims: 14
+  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+    title: Steve Justice
+    node_type: person
+    slug: steve-justice
+    shared_claims: 9
   - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
     title: Lockheed Martin
+    node_type: organisation
     slug: lockheed-martin
+    shared_claims: 6
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    node_type: person
+    slug: robert-weiss
+    shared_claims: 6
   - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
     title: Ben Rich
+    node_type: person
     slug: ben-rich
-  date: null
-  date_end: null
-  location_in_record: ch13:13431-13709
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 96eab035-67ac-45fd-99ab-809b82bc55d8
-  claim_hash: 6db8ab735f3b5c2679dfff95f7abeeeab2a1a0d11d9dd1ce8dd7a1a37e911477
-  content: Lockheed Martin stated that Tom DeLonge reached out to Skunk Works with
-    interest in collaborating on a documentary focused on secret machines and advanced
-    development projects, that multiple Skunk Works team members met with him to explore
-    his vision, and that Lockheed Martin ultimately decided not to move forward with
-    participation in the documentary.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Lockheed Martin
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
-    title: Lockheed Martin
-    slug: lockheed-martin
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch18:15278-15884
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
-  claim_hash: 55320643ed4c389934f0d4f6be7c7b3dd587965c28a2651851bf27e82d6d2f52
-  content: Skunk Works, Lockheed's advanced development programme, has a history developing
-    the U-2 and SR-71 Blackbird spy planes, the F-117A Night Hawk stealth attack aircraft,
-    the F-22 Raptor fighter, and the F-35 Lightning stealth jet.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3dcb1bdf-9e00-430b-97ed-ded13b79fd61
-    title: U-2 spy plane
-    slug: u-2-spy-plane
-  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-    title: SR-71 Blackbird
-    slug: sr-71-blackbird
-  - node_id: 847500ab-d729-4297-b379-605f40aad1bf
-    title: F-35 Lightning stealth jet
-    slug: f-35-lightning-stealth-jet
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: a2e88f4b-c3f6-45d3-aee0-82fd65df75ca
-    title: F-117A Night Hawk
-    slug: f-117a-night-hawk
-  - node_id: e1014d56-f0d9-46ef-b2cd-e24a45f2f8ed
-    title: F-22 Raptor
-    slug: f-22-raptor
-  date: null
-  date_end: null
-  location_in_record: ch18:15942-16329
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: b598b750-4b72-4858-ba32-3b0989f6df0c
-  claim_hash: 8b981e910b67ed21e9c6bc0d91de354f02faa84cd5dfe91eaa482d8257a47c7a
-  content: Ross Coulthart considers it a fair bet that the executive Tom DeLonge met
-    at the families' event was Rob Weiss, the Lockheed executive vice-president and
-    general manager of Skunk Works until 2019.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
-    title: Robert Weiss
-    slug: robert-weiss
-  date: null
-  date_end: null
-  location_in_record: ch18:16530-16704
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 6f56908d-013c-498a-b193-4d2489034a3b
-  claim_hash: 0f774b945aa10cc5767c9b2ed852450a62db8129b2e19ec762c132949ac6f1ba
-  content: Rob Weiss was executive vice-president and general manager of Lockheed
-    Martin Skunk Works until 2019.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
-    title: Robert Weiss
-    slug: robert-weiss
-  date: '2019'
-  date_end: null
-  location_in_record: ch18:16627-16704
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 10214bf0-900d-42d4-ae47-d4e4f570ca46
-  claim_hash: 782f4c58f3581ec628242d870b18097af0f57bd6c32b4ea80438a55d6ccf2ed2
-  content: Ross Coulthart considers that Tom DeLonge likely hid his real intentions
-    about Unidentified Aerial Phenomena (UAP) in his pitch to Skunk Works in order
-    to gain access, calling it a classic media ruse.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-  provenance_chain:
-    origin_kind: speaker
-    origin: Ross Coulthart
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-    slug: ross-coulthart
-  date: null
-  date_end: null
-  location_in_record: ch18:17478-17735
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: ef68aede-29db-4573-a3e2-cc798b59a929
-  claim_hash: 1ee9134d1a769d1702e4ea395d50938d0b4ae362c278ca51ace0e3d28c1e1d64
-  content: During the meeting, Tom DeLonge was asked what his intentions were with
-    the 'conspiracy stuff'.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay:
-    - 'SeKret Machines: Chasing Shadows'
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch18:18013-18081
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
-  claim_hash: 131c9b4ab4264cb3dc1a370e63d39498f1ab5754b8c0da8c006f3d46abd9f326
-  content: Tom DeLonge says the executive he called 'BossMan', probably Rob Weiss,
-    told him that Lockheed Martin could not be involved in any project associated
-    with the UAP topic, specifically because there had never been any evidence that
-    it exists.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay:
-    - 'SeKret Machines: Chasing Shadows'
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
-    title: Robert Weiss
-    slug: robert-weiss
-  date: null
-  date_end: null
-  location_in_record: ch18:18088-18422
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: ef1ce144-1313-4eee-bf09-871aa6fde9df
-  claim_hash: dd74b4167b5d2eb53c671a8e7573d3d9e901241557355dddd3fee5b6df063e9d
-  content: Tom DeLonge described visiting Lockheed Martin Skunk Works's underground
-    bunker as part of his meetings with military/intelligence sources on UAP disclosure.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: 98da4675-40f9-4b67-8820-f8c46d45e152
-    title: Tom DeLonge's meetings with Lockheed Martin Skunk Works on Unidentified
-      Aerial Phenomena (UAP) disclosure
-    slug: tom-delonges-meetings-with-lockheed-martin-skunk-works-on-unidentified-aerial-phenomena-uap-disclosure
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch19:23008-23144
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 541e7b0f-e70b-4f52-802b-a63c58b9c921
-  claim_hash: 9cf657f79070be08eb638041da9ebcfbeec7417ca896250c39e52af382a1f5de
-  content: The leaked Podesta emails contained a string of exchanges between John
-    Podesta and Tom DeLonge revealing plans for a Google Hangout meeting between DeLonge,
-    two US Air Force generals, and Rob Weiss, the Lockheed Martin executive vice-president
-    and general manager of its advanced development programs known as Skunk Works.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: leaked Podesta emails
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 3
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    node_type: person
+    slug: jason-samosa
+    shared_claims: 3
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    node_type: organisation
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+    shared_claims: 3
   - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
     title: John Podesta
+    node_type: person
     slug: john-podesta
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
-    title: Lockheed Martin
-    slug: lockheed-martin
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
-    title: Robert Weiss
-    slug: robert-weiss
-  - node_id: ee0c01e2-9f22-416a-9450-67d7b46d9ac5
-    title: United States Air Force generals and intelligence officials briefing Tom
-      DeLonge
-    slug: united-states-air-force-generals-and-intelligence-officials-briefing-tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch20:4492-4853
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 6f60ad98-6c37-4619-ada2-cd8d385705f4
-  claim_hash: 704b8b524292e1cfc9a133c5571b00957b9b682a7af537f195ef90cb5ed4fc98
-  content: Steve Justice had, a month before the October 2017 To The Stars Academy
-    of Arts & Sciences launch, finished as director of advanced systems at Lockheed
-    Martin Skunk Works.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch21:1281-1376
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 7db5d234-5f6b-4af9-a15c-23b724ad8a79
-  claim_hash: 87da5540c3a1ecf1bdcb88311fbafdc2332a761b29c2afdaf0ad48285499174f
-  content: Steve Justice was former head of Advanced Systems at Lockheed Martin's
-    Skunk Works.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch21:9293-9352
-  evidence:
-    score: null
-    independent_sources: 2
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: d502da75-f4fe-4ee1-ac64-36f0a320ce65
-  claim_hash: 49b646b8006ba30ff9a6481f594bc7990809bbae9119b47b8f9e5443bac24ff4
-  content: Steve Justice is a former Lockheed Martin Skunk Works executive who was
-    affiliated with To The Stars Academy of Arts & Sciences.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch22:21142-21199
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: cb96298a-ccfc-4eb7-9664-e97a007c094d
-  claim_hash: 065352098851bb5aefc54c3bcac76855db5995e029a0e41372b5f9fb607d2e0a
-  content: Before he left TTSA in 2021, former Lockheed Martin Skunk Works engineer
-    Steve Justice led TTSA's aerospace division.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: '2021'
-  date_end: null
-  location_in_record: ch23:16038-16150
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 1c637488-34ff-4e19-97d8-82a393d101d7
-  claim_hash: 6822cfb5adf5e4d6023c2d3d1d5324b0ac6f9ec28d33c7f13f6ac5a697b651ce
-  content: Christopher Mellon, responding to a posted video of a triangular craft
-    recorded in 1997 in a private email to members of a private news group, said his
-    current and former colleagues at Lockheed Martin and the Lockheed Martin Skunk
-    Works have stated privately that if a TR3B craft exists, it is not made by Lockheed
-    Martin.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-  provenance_chain:
-    origin_kind: named
-    origin: Christopher Mellon
-    relay:
-    - an email to a private news group
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-    slug: christopher-k-mellon
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: 9b0b88b3-ca1d-41b8-b67d-66fb0a918588
-    title: TR3B
-    slug: tr3b
-  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
-    title: Lockheed Martin
-    slug: lockheed-martin
-  date: '1997'
-  date_end: null
-  location_in_record: ch28:10916-11079
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 145cc3e5-6e5e-488f-baf5-68914a84afcb
-  claim_hash: 735d437ee3fead68adc5a50a15c6a5104e64868357a8ac5bae44e6f9379fc0c7
-  content: Tom DeLonge exchanged emails with a top Lockheed Martin Skunk Works executive.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch28:28494-28533
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: f36be07b-772b-495e-bf18-61a2d52681bb
-  claim_hash: 45f5ec3ec96ff8124f345f7edb01400098146b39f4262009016a0a0546599e64
-  content: At the To The Stars Academy of Arts & Sciences (TTSA) launch on 2017-10-11,
-    Steve Justice, then the Skunk Works Lockheed Martin Program Director for Advanced
-    Systems, stated that TTSA was working on a revolutionary Advanced Electromagnetic
-    Vehicle that could dramatically reduce current travel limits of distance and time.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-  provenance_chain:
-    origin_kind: named
-    origin: Steve Justice
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-    title: To the Stars Academy of Arts and Science (TTSA)
-    slug: to-the-stars-academy-of-arts-and-science-ttsa
+    shared_claims: 2
+  - node_id: 7eaac853-d863-4210-af67-e165485c02e9
+    title: Lex Fridman
+    node_type: person
+    slug: lex-fridman
+    shared_claims: 2
+  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+    title: SR-71 Blackbird
+    node_type: object
+    slug: sr-71-blackbird
+    shared_claims: 2
   - node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
     title: 2017 To The Stars Academy of Arts & Sciences launch event
+    node_type: event
     slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: '2017-10-11'
-  date_end: null
-  location_in_record: ch28:6936-7213
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 78d203a4-fae9-4bc7-bb3b-baa980e13cf4
-  claim_hash: f14e53664cb6907d14478a3c03623a873904ddff493ddd0d4ea84553cff1d801
-  content: Steve Justice is a former director of Advanced Systems Development at Lockheed
-    Martin's Skunk Works division.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: ch19:5009-5126
-  evidence:
-    score: null
-    independent_sources: 2
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: e95a488f-bd34-4b22-b1c9-9af90cd1a10b
-  claim_hash: dd5fbe0afbbf41e1170d4311d384ac53706ce4ef91baaa775fa77a1d84a532cc
-  content: Steve Justice, an aerospace engineer, spent thirty-one years working for
-    Lockheed Martin's Skunk Works before joining Tom DeLonge's advisory board.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: ch29:13378-13547
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 58b234e9-4048-4446-9b7b-fb2f54cdbeb1
-  claim_hash: 34a2d76ac0d73798eabadeea7de44ddb1524859733731365ee1b497ff5174f57
-  content: Lockheed Martin's Advanced Development Program organisation, also known
-    as Skunk Works, developed the P-175 Polecat unmanned aerial vehicle (UAV) to better
-    understand the flight dynamics of tailless, bat-wing-shaped, high-altitude UAVs.
-  original_excerpt: Lockheed Martin's Advanced Development Program organization, also
-    known as "Skunk Works" developed the P-175 Polecat UAV to better understand the
-    flight dynamics of tailless, bat-wing-shaped, 90-foot wingspan high-altitude UAV,
-    including the next generation of structural composite materials and configurations.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 23906ad8-c5e4-4000-801f-6b071501d711
-    title: P-175 Polecat
-    slug: p-175-polecat
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  date: null
-  date_end: null
-  location_in_record: char:142244-142540
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 37405f1f-3125-4eb1-a64b-1f4100e54eb8
-  claim_hash: dc810448f5c45b035204b5d0e30d813b751debc9e394211d076b40021e1609b7
-  content: The RQ-170 Sentinel is a UAV developed by Lockheed Martin's Skunk Works
-    for the United States Air Force (USAF).
-  original_excerpt: The RQ-170 Sentinel is a UAV developed by Lockheed Martin's Skunk
-    Works for the USAF.
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: U.S. Air Force fact sheet
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 73da19a8-f5bc-43a4-bf51-cd7a79d3573f
-    title: RQ-170 Sentinel
-    slug: rq-170-sentinel
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  date: null
-  date_end: null
-  location_in_record: char:143004-143084
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-    record_title: Report on the Historical Record of U.S. Government Involvement with
-      Unidentified Anomalous Phenomena (UAP), Volume I
-    record_date: '2024-02-01'
-    record_reference: null
-    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-- claim_id: 9446ea19-1e02-4cc6-a10b-72547e55e71b
-  claim_hash: 4a4e52a258b240030930a754fe3f31a6215381aa132fc3649b1d52a83435ff2a
-  content: Steve Justice finished his career as Director of Advanced Systems at Lockheed
-    Martin Skunk Works the month before this broadcast.
-  original_excerpt: Literally, last month, Steve finished his career as Director of
-    Advanced Systems at Lockheed Martin Skunk Works.
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-    title: Steve Justice
-    slug: steve-justice
-  date: null
-  date_end: null
-  location_in_record: 00:08:51.8-00:08:58.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
-- claim_id: 418fbbac-f089-4ff1-8953-3884b8d67ff4
-  claim_hash: bd3c58f3c059663b1c65b396c81cbe8368536ea2d91a43db9e14be845f8191ec
-  content: Lockheed Martin Skunk Works is the US government's top-tier aerospace organisation
-    for developing advanced aircraft that meet national security needs.
-  original_excerpt: Skunk Works is the US government's top tier aerospace organization
-    for the development of advanced aircraft that meet our urgent national security
-    needs.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  date: null
-  date_end: null
-  location_in_record: 00:09:00.6-00:09:09.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
-- claim_id: f2b22d12-a9bb-4b8f-87de-d74c7b158cf9
-  claim_hash: 23006c79aca622436e29b0c52fa4d2de171e2220c60d062c09e3d6418c8ad682
-  content: Tom DeLonge visited Lockheed Martin Skunk Works and passed through a guarded
-    checkpoint with armed personnel, fingerprint scanning, locked doors with electronic
-    codes, and vault-like doors with rotary locks to reach a secure hallway.
-  original_excerpt: First time I met Steve Justice, I went through, I got the opportunity
-    to go up to Lockheed Martin's The Skunk Works, and I remember I went through this
-    guard gate and they had machine guns... I get into a hallway and there's like
-    hundreds of speakers lining this long hallway with just white noise... and then
-    there were more doors that were as thick as a safe with these rotary locks
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Tom DeLonge
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  date: null
-  date_end: null
-  location_in_record: 00:23:10.9-00:23:37.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
-    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-    record_date: '2026-03-04'
-    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
-    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
-    friendly_name: null
-- claim_id: 48b14caa-b7f7-44b6-9625-a56f2209ee8d
-  claim_hash: 92702e4ea3074679362d1205560865f589a7f73fc8807d961b48ef357e09f157
-  content: Jacques Vallee validates the account that Tom DeLonge made contact with
-    an individual who worked at Lockheed Martin Skunk Works.
-  original_excerpt: But Vallee, Jacques Vallee, validates the original story, which
-    is that DeLonge had made contact with someone who worked at Lockheed Martin Skunk
-    Works.
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: named
-    origin: Jacques Vallee
-    relay:
-    - Jason Samosa
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-    title: Jacques Vallée
-    slug: jacques-vallee
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
-    title: Lockheed Martin
-    slug: lockheed-martin
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-    slug: jason-samosa
-  date: null
-  date_end: null
-  location_in_record: 00:35:32.8-00:35:41.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 3fbfd107-54b1-432a-83f7-9b44aa0a8a79
-  claim_hash: 5ccce1c8a37380368288d2b327524f7b4fca03fdf84332a1785eb705660424f7
-  content: An individual working at Lockheed Martin Skunk Works invited Tom DeLonge
-    to act as master of ceremonies at a large Skunk Works family event, and DeLonge
-    accepted on condition that he could sit down and speak with the person who ran
-    the organisation.
-  original_excerpt: And that individual had said, look, would you come and sort of
-    be the MC for this special day we're having where it's like a big family event?
-    And he said, yes, as long as I can speak to the individual who runs the show,
-    right, and get a chance to sit down.
-  claim_type: hearsay
-  attestation: third_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: anonymous
-    origin: a person claiming to work at Lockheed Martin Skunk Works
-    relay:
-    - Tom DeLonge's published account
-    - Jason Samosa
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-    slug: jason-samosa
-  date: null
-  date_end: null
-  location_in_record: 00:35:42.0-00:35:53.6
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: ab7462e8-4ff2-457e-9d39-606e91478eb1
-  claim_hash: 5464858b625b5a24f7d09bab3aeb51ff3680d464f8b926e5164f377f8c74c8dd
-  content: Tom DeLonge sent his Lockheed Martin Skunk Works contact a piece of content
-    written by his adviser about cargo cults, describing a remote tribe that watched
-    aircraft land and unload cargo, food and resources.
-  original_excerpt: then he sent this individual a piece of content that the vendor
-    had written, and it was all around cargo cults... they could see these planes
-    landing and dropping off all this cargo and stuff, food, resources.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jason Samosa
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
-    title: cargo cult
-    slug: cargo-cult
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    slug: tom-delonge
-  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-    slug: jason-samosa
-  date: null
-  date_end: null
-  location_in_record: 00:36:55.7-00:37:07.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 69d5ae61-f507-4705-9906-660e60181526
-  claim_hash: b9bec2c3947b15bce883e0dfd6b8719bc087fb69aff7265a5aa991e28a62b7f4
-  content: Ben Rich was president of Lockheed Martin Skunk Works in the 1990s and
-    was responsible for modern stealth aircraft.
-  original_excerpt: Ben Rich also, who is the, you know, Skunk Works guy, you know,
-    in the 90s, president of Skunk Works, who is responsible for, you know, the SR-71
-    and, or sorry, he was responsible for modern stealth aircraft.
-  claim_type: administrative
-  attestation: null
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration by Jesse Michels
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
-    title: Ben Rich
-    slug: ben-rich
-  date: null
-  date_end: null
-  location_in_record: 01:17:26.5-01:17:38.5
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 1173b646-497b-4827-b785-24d56242530a
-  claim_hash: 0d38ab1b6c0bdb24be2b18fe96c29c6127f32bff8e00cfd81a6d765e46fee7f1
-  content: Ben Rich was at the tip of the spear in building reconnaissance aircraft
-    for the Central Intelligence Agency and advanced American defence technology,
-    in Jesse Michels's characterisation.
-  original_excerpt: you hear a guy who's at the tip of the spear when it comes to
-    building recon planes for the CIA and, you know, very advanced American defense
-    tech
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jesse Michels
-    relay: []
-  attribution_mode: unknown
-  node_refs:
+    shared_claims: 1
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
+    node_type: organisation
     slug: central-intelligence-agency-cia
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
-    title: Ben Rich
-    slug: ben-rich
-  date: null
-  date_end: null
-  location_in_record: 01:51:02.0-01:51:11.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
-- claim_id: 287efd3c-a220-4ec0-b163-1fb449fe5c66
-  claim_hash: 7fdbe5279e2085c8c8c038355909f42f9f831529ae39d1c6790b1710baf40645
-  content: Robert Weiss was executive vice president of Lockheed Martin Skunk Works.
-  original_excerpt: '[note: Robert Weiss - Lockheed Skunk Works executive vice president]'
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: source record annotation
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-    title: Lockheed Martin Skunk Works
-    slug: lockheed-martin-skunk-works
-  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
-    title: Robert Weiss
-    slug: robert-weiss
-  date: null
-  date_end: null
-  location_in_record: line 37
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-    record_date: '2026-07-14'
-    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    node_type: person
+    slug: christopher-k-mellon
+    shared_claims: 1
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    node_type: person
+    slug: david-fravor
+    shared_claims: 1
+  - node_id: a2e88f4b-c3f6-45d3-aee0-82fd65df75ca
+    title: F-117A Night Hawk
+    node_type: object
+    slug: f-117a-night-hawk
+    shared_claims: 1
+  - node_id: e1014d56-f0d9-46ef-b2cd-e24a45f2f8ed
+    title: F-22 Raptor
+    node_type: object
+    slug: f-22-raptor
+    shared_claims: 1
+  - node_id: 847500ab-d729-4297-b379-605f40aad1bf
+    title: F-35 Lightning stealth jet
+    node_type: object
+    slug: f-35-lightning-stealth-jet
+    shared_claims: 1
+  - node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
+    title: Hillary Clinton presidential campaign
+    node_type: organisation
+    slug: hillary-clinton-presidential-campaign
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
+    title: Jim Goodall
+    node_type: person
+    slug: jim-goodall
+    shared_claims: 1
+  - node_id: e78d0ea3-a3c6-4014-a4c6-7cf0bebe92c6
+    title: Kelly Johnson
+    node_type: person
+    slug: kelly-johnson
+    shared_claims: 1
+  - node_id: 7946d3c7-0d50-42ae-86f8-1521961ee30a
+    title: Keoki Jackson
+    node_type: person
+    slug: keoki-jackson
+    shared_claims: 1
+  - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+    title: Michael Carey
+    node_type: person
+    slug: michael-carey
+    shared_claims: 1
+  - node_id: 13dd6341-c313-47b9-b7cd-07f36290876d
+    title: Milia Fisher
+    node_type: person
+    slug: milia-fisher
+    shared_claims: 1
+  - node_id: 23906ad8-c5e4-4000-801f-6b071501d711
+    title: P-175 Polecat
+    node_type: object
+    slug: p-175-polecat
+    shared_claims: 1
+  - node_id: 73da19a8-f5bc-43a4-bf51-cd7a79d3573f
+    title: RQ-170 Sentinel
+    node_type: object
+    slug: rq-170-sentinel
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+  - node_id: 9b0b88b3-ca1d-41b8-b67d-66fb0a918588
+    title: TR3B
+    node_type: object
+    slug: tr3b
+    shared_claims: 1
+  - node_id: 98da4675-40f9-4b67-8820-f8c46d45e152
+    title: Tom DeLonge's meetings with Lockheed Martin Skunk Works on Unidentified Aerial Phenomena (UAP) disclosure
+    node_type: event
+    slug: tom-delonges-meetings-with-lockheed-martin-skunk-works-on-unidentified-aerial-phenomena-uap-disclosure
+    shared_claims: 1
+  - node_id: 3dcb1bdf-9e00-430b-97ed-ded13b79fd61
+    title: U-2 spy plane
+    node_type: object
+    slug: u-2-spy-plane
+    shared_claims: 1
+claims:
+  - claim_id: 0a145af8-0338-4a3a-b100-5255e8e11c46
+    claim_hash: 92a503f2b90ec90546e10850677d70740c06258129a59cfd6e1458836cb62f69
+    content: David Fravor considers the SR-71 Blackbird, from a pure-speed perspective, an engineering marvel, developed in
+      the 1950s by Kelly Johnson at Lockheed Skunk Works.
+    original_excerpt: From pure speed, I would say SR-71, I think it's an engineering marvel that was actually developed in
+      the 50s by Kelly Johnson, you know, Skunk Works.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: e78d0ea3-a3c6-4014-a4c6-7cf0bebe92c6
+        title: Kelly Johnson
+        slug: kelly-johnson
+    date: null
+    date_end: null
+    location_in_record: 01:05:36.5-01:05:42.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: b8bc290d-52de-4e83-af2c-d4ab83a6f4a3
+    claim_hash: 824c711cc23241e9d4cbda900a81a77a9bc4bb4ff53eaba9a34053222d805fa9
+    content: Steve Justice previously ran Lockheed Skunk Works.
+    original_excerpt: I mean, they've got Steve Justice who used to run Skunk Works where they built projects.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: 01:54:28.6-01:54:31.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: e7402742-b40c-42a0-858c-a2b62a199439
+    claim_hash: 68fec24af3faa60639c10885eeb0209a7bf95d28448398e9be38ba2ea3676004
+    content: David Fravor spoke with Lockheed Martin's chief technology officer Keoki Jackson about Lockheed Skunk Works.
+    original_excerpt: i talked to cto of lockheed uh keiko jackson and just just kunkworks
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 7eaac853-d863-4210-af67-e165485c02e9
+      title: Lex Fridman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lex Fridman
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7946d3c7-0d50-42ae-86f8-1521961ee30a
+        title: Keoki Jackson
+        slug: keoki-jackson
+      - node_id: 7eaac853-d863-4210-af67-e165485c02e9
+        title: Lex Fridman
+        slug: lex-fridman
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+        title: Lockheed Martin
+        slug: lockheed-martin
+    date: null
+    date_end: null
+    location_in_record: 03:16:41.1-03:16:45.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 72a34366-6700-46c4-b009-6910caca465e
+    claim_hash: deb9af40078a2ee55a929c20dea589c9efe8b5039d647538893597521bf6adfe
+    content: Lex Fridman considers some of the best engineering and science work to be done in secrecy at Lockheed Skunk Works.
+    original_excerpt: the some of the best if not the best engineering and science but engineering really ever is done in
+      secrecy
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7eaac853-d863-4210-af67-e165485c02e9
+      title: Lex Fridman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lex Fridman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7eaac853-d863-4210-af67-e165485c02e9
+        title: Lex Fridman
+        slug: lex-fridman
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+    date: null
+    date_end: null
+    location_in_record: 03:16:46.6-03:16:55.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: ba26da13-3d8c-4159-b75e-d3d9da7ee769
+    claim_hash: 15ab996cafd242c9f5c88f734371568fe078816d90971556cdc6d17f656fbd1c
+    content: The other attendees listed for the proposed Google Hangout meeting were Tom DeLonge, John Podesta, Lockheed Martin
+      Skunk Works' boss Rob Weiss, Hillary Clinton campaign assistant Milia Fisher, and retired Major General Michael Carey.
+    original_excerpt: The other meeting attendees were listed as DeLonge, Podesta, Skunk Works' boss Rob Weiss, an assistant
+      to the Hillary Clinton campaign Milia Fisher, and retired Major General Michael Carey.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: a leaked Podesta email
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13dd6341-c313-47b9-b7cd-07f36290876d
+        title: Milia Fisher
+        slug: milia-fisher
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
+        title: Hillary Clinton presidential campaign
+        slug: hillary-clinton-presidential-campaign
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+        title: Michael Carey
+        slug: michael-carey
+      - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+        title: Robert Weiss
+        slug: robert-weiss
+    date: null
+    date_end: null
+    location_in_record: 29-31
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4120858f-cd4d-4d65-a101-095ff0d14ef6
+    claim_hash: 302fca339f3e2606ca8e355c3554c34169a0bc7a12d43bcf8664a6d55d2dede4
+    content: Jim Goodall befriended engineer Ben Rich, the former Director of Lockheed Martin's Skunk Works, the pseudonym
+      for Lockheed Martin's secretive Advanced Developments Projects division where many of America's most advanced aircraft
+      have been designed.
+    original_excerpt: He befriended engineer Ben Rich, the former Director of US aerospace company Lockheed Martin's Skunk
+      Works (the pseudonym for Lockheed Martin's secretive Advanced Developments Projects division, where many of America's
+      most advanced aircraft have been designed).
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
+        title: Jim Goodall
+        slug: jim-goodall
+      - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+        title: Lockheed Martin
+        slug: lockheed-martin
+      - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+        title: Ben Rich
+        slug: ben-rich
+    date: null
+    date_end: null
+    location_in_record: ch13:13431-13709
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 96eab035-67ac-45fd-99ab-809b82bc55d8
+    claim_hash: 6db8ab735f3b5c2679dfff95f7abeeeab2a1a0d11d9dd1ce8dd7a1a37e911477
+    content: Lockheed Martin stated that Tom DeLonge reached out to Skunk Works with interest in collaborating on a documentary
+      focused on secret machines and advanced development projects, that multiple Skunk Works team members met with him to
+      explore his vision, and that Lockheed Martin ultimately decided not to move forward with participation in the documentary.
+    original_excerpt: '''Tom DeLonge reached out to Skunk Works with interest in collaborating on a documentary focused on
+      secret machines and advanced development projects,'' Lockheed Martin said in a statement. ''Multiple members of the
+      Skunk Works team met with DeLonge to explore his vision for the documentary, as we would with any individual or organisation
+      interested in telling the story of Skunk Works and the technologies we''ve developed. We ultimately decided to not move
+      forward with our participation in the documentary. During this exploration period, DeLonge attended a Skunk Works employee
+      event.'''
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lockheed Martin
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+        title: Lockheed Martin
+        slug: lockheed-martin
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch18:15278-15884
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
+    claim_hash: 55320643ed4c389934f0d4f6be7c7b3dd587965c28a2651851bf27e82d6d2f52
+    content: Skunk Works, Lockheed's advanced development programme, has a history developing the U-2 and SR-71 Blackbird
+      spy planes, the F-117A Night Hawk stealth attack aircraft, the F-22 Raptor fighter, and the F-35 Lightning stealth jet.
+    original_excerpt: Skunk Works is a nickname for Lockheed's advanced development programs and it has an illustrious super-secret
+      black-budget history for its role in developing the U2 and SR-71 Blackbird spy-planes, the F-117 Nighthawk stealth attack
+      aircraft, the F-22 Raptor fighter and the F-35 Lightning stealth jet – all by far the most advanced known aerospace
+      defence technology of their day on the planet.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3dcb1bdf-9e00-430b-97ed-ded13b79fd61
+        title: U-2 spy plane
+        slug: u-2-spy-plane
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: 847500ab-d729-4297-b379-605f40aad1bf
+        title: F-35 Lightning stealth jet
+        slug: f-35-lightning-stealth-jet
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: a2e88f4b-c3f6-45d3-aee0-82fd65df75ca
+        title: F-117A Night Hawk
+        slug: f-117a-night-hawk
+      - node_id: e1014d56-f0d9-46ef-b2cd-e24a45f2f8ed
+        title: F-22 Raptor
+        slug: f-22-raptor
+    date: null
+    date_end: null
+    location_in_record: ch18:15942-16329
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b598b750-4b72-4858-ba32-3b0989f6df0c
+    claim_hash: 8b981e910b67ed21e9c6bc0d91de354f02faa84cd5dfe91eaa482d8257a47c7a
+    content: Ross Coulthart considers it a fair bet that the executive Tom DeLonge met at the families' event was Rob Weiss,
+      the Lockheed executive vice-president and general manager of Skunk Works until 2019.
+    original_excerpt: It is also a fair bet that the executive whom DeLonge subsequently met at the families event was Rob
+      Weiss, the Lockheed executive vice-president and GM of Skunk Works until 2019.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+        title: Robert Weiss
+        slug: robert-weiss
+    date: null
+    date_end: null
+    location_in_record: ch18:16530-16704
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6f56908d-013c-498a-b193-4d2489034a3b
+    claim_hash: 0f774b945aa10cc5767c9b2ed852450a62db8129b2e19ec762c132949ac6f1ba
+    content: Rob Weiss was executive vice-president and general manager of Lockheed Martin Skunk Works until 2019.
+    original_excerpt: '...Rob Weiss, the Lockheed executive vice-president and GM of Skunk Works until 2019.'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+        title: Robert Weiss
+        slug: robert-weiss
+    date: '2019'
+    date_end: null
+    location_in_record: ch18:16627-16704
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 10214bf0-900d-42d4-ae47-d4e4f570ca46
+    claim_hash: 782f4c58f3581ec628242d870b18097af0f57bd6c32b4ea80438a55d6ccf2ed2
+    content: Ross Coulthart considers that Tom DeLonge likely hid his real intentions about Unidentified Aerial Phenomena
+      (UAP) in his pitch to Skunk Works in order to gain access, calling it a classic media ruse.
+    original_excerpt: When I read DeLonge's account of this meeting, I took a cynical view that what he must have done was
+      hide his real intentions about UAPs in his pitch to Skunk Works to get in the door, a classic naughty media ruse if
+      one is being honest.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: ch18:17478-17735
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ef68aede-29db-4573-a3e2-cc798b59a929
+    claim_hash: 1ee9134d1a769d1702e4ea395d50938d0b4ae362c278ca51ace0e3d28c1e1d64
+    content: During the meeting, Tom DeLonge was asked what his intentions were with the 'conspiracy stuff'.
+    original_excerpt: '''What are your intentions with the . . . conspiracy stuff?'' he was asked.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay:
+        - 'SeKret Machines: Chasing Shadows'
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch18:18013-18081
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
+    claim_hash: 131c9b4ab4264cb3dc1a370e63d39498f1ab5754b8c0da8c006f3d46abd9f326
+    content: Tom DeLonge says the executive he called 'BossMan', probably Rob Weiss, told him that Lockheed Martin could not
+      be involved in any project associated with the UAP topic, specifically because there had never been any evidence that
+      it exists.
+    original_excerpt: DeLonge admits that when the executive he called 'BossMan' (probably Skunk Work's then General Manager
+      Rob Weiss) walked into the meeting, he was told, 'We cannot be involved in any type of project whatsoever that has this
+      topic associated with it, specifically because there's never been any evidence whatsoever that this stuff even exists.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay:
+        - 'SeKret Machines: Chasing Shadows'
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+        title: Robert Weiss
+        slug: robert-weiss
+    date: null
+    date_end: null
+    location_in_record: ch18:18088-18422
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ef1ce144-1313-4eee-bf09-871aa6fde9df
+    claim_hash: dd74b4167b5d2eb53c671a8e7573d3d9e901241557355dddd3fee5b6df063e9d
+    content: Tom DeLonge described visiting Lockheed Martin Skunk Works's underground bunker as part of his meetings with
+      military/intelligence sources on UAP disclosure.
+    original_excerpt: He made up all this stuff about flying around North America meeting The General in an airport hangar
+      and Skunk Works in its underground bunker.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: 98da4675-40f9-4b67-8820-f8c46d45e152
+        title: Tom DeLonge's meetings with Lockheed Martin Skunk Works on Unidentified Aerial Phenomena (UAP) disclosure
+        slug: tom-delonges-meetings-with-lockheed-martin-skunk-works-on-unidentified-aerial-phenomena-uap-disclosure
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch19:23008-23144
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 541e7b0f-e70b-4f52-802b-a63c58b9c921
+    claim_hash: 9cf657f79070be08eb638041da9ebcfbeec7417ca896250c39e52af382a1f5de
+    content: The leaked Podesta emails contained a string of exchanges between John Podesta and Tom DeLonge revealing plans
+      for a Google Hangout meeting between DeLonge, two US Air Force generals, and Rob Weiss, the Lockheed Martin executive
+      vice-president and general manager of its advanced development programs known as Skunk Works.
+    original_excerpt: 'Amidst them was a smoking gun that lent strong support to DeLonge''s extraordinary claims: a string
+      of exchanges between Podesta and DeLonge, revealing plans for a Google Hangout meeting between DeLonge, two US Air Force
+      generals and Rob Weiss, the Lockheed Martin executive vice-president and general manager of its advanced development
+      programs known as Skunk Works.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: leaked Podesta emails
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+        title: Lockheed Martin
+        slug: lockheed-martin
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+        title: Robert Weiss
+        slug: robert-weiss
+      - node_id: ee0c01e2-9f22-416a-9450-67d7b46d9ac5
+        title: United States Air Force generals and intelligence officials briefing Tom DeLonge
+        slug: united-states-air-force-generals-and-intelligence-officials-briefing-tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch20:4492-4853
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6f60ad98-6c37-4619-ada2-cd8d385705f4
+    claim_hash: 704b8b524292e1cfc9a133c5571b00957b9b682a7af537f195ef90cb5ed4fc98
+    content: Steve Justice had, a month before the October 2017 To The Stars Academy of Arts & Sciences launch, finished as
+      director of advanced systems at Lockheed Martin Skunk Works.
+    original_excerpt: who just a month earlier had finished as director of advanced systems at Lockheed Martin Skunk Works
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch21:1281-1376
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7db5d234-5f6b-4af9-a15c-23b724ad8a79
+    claim_hash: 87da5540c3a1ecf1bdcb88311fbafdc2332a761b29c2afdaf0ad48285499174f
+    content: Steve Justice was former head of Advanced Systems at Lockheed Martin's Skunk Works.
+    original_excerpt: former head of Advanced Systems at Lockheed Martin's Skunk Works
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch21:9293-9352
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d502da75-f4fe-4ee1-ac64-36f0a320ce65
+    claim_hash: 49b646b8006ba30ff9a6481f594bc7990809bbae9119b47b8f9e5443bac24ff4
+    content: Steve Justice is a former Lockheed Martin Skunk Works executive who was affiliated with To The Stars Academy
+      of Arts & Sciences.
+    original_excerpt: TTSA’s Steve Justice, former Lockheed Martin Skunk Works executive
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch22:21142-21199
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cb96298a-ccfc-4eb7-9664-e97a007c094d
+    claim_hash: 065352098851bb5aefc54c3bcac76855db5995e029a0e41372b5f9fb607d2e0a
+    content: Before he left TTSA in 2021, former Lockheed Martin Skunk Works engineer Steve Justice led TTSA's aerospace division.
+    original_excerpt: Before he left TTSA in 2021, the former Lockheed Martin Skunk Works engineer Steve Justice led TTSA's
+      aerospace division
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: '2021'
+    date_end: null
+    location_in_record: ch23:16038-16150
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1c637488-34ff-4e19-97d8-82a393d101d7
+    claim_hash: 6822cfb5adf5e4d6023c2d3d1d5324b0ac6f9ec28d33c7f13f6ac5a697b651ce
+    content: Christopher Mellon, responding to a posted video of a triangular craft recorded in 1997 in a private email to
+      members of a private news group, said his current and former colleagues at Lockheed Martin and the Lockheed Martin Skunk
+      Works have stated privately that if a TR3B craft exists, it is not made by Lockheed Martin.
+    original_excerpt: Mellon says, 'My current and former colleagues at Lockheed Martin and the Skunk Works are very clear
+      in private settings that if there is a TR3B it is not made by Lockheed.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: named
+      origin: Christopher Mellon
+      relay:
+        - an email to a private news group
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: 9b0b88b3-ca1d-41b8-b67d-66fb0a918588
+        title: TR3B
+        slug: tr3b
+      - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+        title: Lockheed Martin
+        slug: lockheed-martin
+    date: '1997'
+    date_end: null
+    location_in_record: ch28:10916-11079
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 145cc3e5-6e5e-488f-baf5-68914a84afcb
+    claim_hash: 735d437ee3fead68adc5a50a15c6a5104e64868357a8ac5bae44e6f9379fc0c7
+    content: Tom DeLonge exchanged emails with a top Lockheed Martin Skunk Works executive.
+    original_excerpt: with a top Lockheed Martin Skunk Works executive
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch28:28494-28533
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f36be07b-772b-495e-bf18-61a2d52681bb
+    claim_hash: 45f5ec3ec96ff8124f345f7edb01400098146b39f4262009016a0a0546599e64
+    content: At the To The Stars Academy of Arts & Sciences (TTSA) launch on 2017-10-11, Steve Justice, then the Skunk Works
+      Lockheed Martin Program Director for Advanced Systems, stated that TTSA was working on a revolutionary Advanced Electromagnetic
+      Vehicle that could dramatically reduce current travel limits of distance and time.
+    original_excerpt: At TTSA's October 2017 launch, Steve Justice, the then Skunk Works Lockheed Martin Program Director
+      for Advanced Systems, stated that TTSA was working on a revolutionary Advanced Electromagnetic Vehicle that could 'dramatically
+      reduce the current travel limits of distance and time.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: named
+      origin: Steve Justice
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
+        title: 2017 To The Stars Academy of Arts & Sciences launch event
+        slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: '2017-10-11'
+    date_end: null
+    location_in_record: ch28:6936-7213
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 78d203a4-fae9-4bc7-bb3b-baa980e13cf4
+    claim_hash: f14e53664cb6907d14478a3c03623a873904ddff493ddd0d4ea84553cff1d801
+    content: Steve Justice is a former director of Advanced Systems Development at Lockheed Martin's Skunk Works division.
+    original_excerpt: my friend Steve Justice, former director of Advanced Systems Development at Lockheed Martin’s mysterious
+      Skunk Works division
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch19:5009-5126
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e95a488f-bd34-4b22-b1c9-9af90cd1a10b
+    claim_hash: dd5fbe0afbbf41e1170d4311d384ac53706ce4ef91baaa775fa77a1d84a532cc
+    content: Steve Justice, an aerospace engineer, spent thirty-one years working for Lockheed Martin's Skunk Works before
+      joining Tom DeLonge's advisory board.
+    original_excerpt: DeLonge’s advisory board included Steve Justice, a highly respected aerospace engineer who’d spent thirty-one
+      years working for Lockheed Martin’s highly secretive Skunk Works
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch29:13378-13547
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 58b234e9-4048-4446-9b7b-fb2f54cdbeb1
+    claim_hash: 34a2d76ac0d73798eabadeea7de44ddb1524859733731365ee1b497ff5174f57
+    content: Lockheed Martin's Advanced Development Program organisation, also known as Skunk Works, developed the P-175 Polecat
+      unmanned aerial vehicle (UAV) to better understand the flight dynamics of tailless, bat-wing-shaped, high-altitude UAVs.
+    original_excerpt: Lockheed Martin's Advanced Development Program organization, also known as "Skunk Works" developed the
+      P-175 Polecat UAV to better understand the flight dynamics of tailless, bat-wing-shaped, 90-foot wingspan high-altitude
+      UAV, including the next generation of structural composite materials and configurations.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23906ad8-c5e4-4000-801f-6b071501d711
+        title: P-175 Polecat
+        slug: p-175-polecat
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+    date: null
+    date_end: null
+    location_in_record: char:142244-142540
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 37405f1f-3125-4eb1-a64b-1f4100e54eb8
+    claim_hash: dc810448f5c45b035204b5d0e30d813b751debc9e394211d076b40021e1609b7
+    content: The RQ-170 Sentinel is a UAV developed by Lockheed Martin's Skunk Works for the United States Air Force (USAF).
+    original_excerpt: The RQ-170 Sentinel is a UAV developed by Lockheed Martin's Skunk Works for the USAF.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: U.S. Air Force fact sheet
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 73da19a8-f5bc-43a4-bf51-cd7a79d3573f
+        title: RQ-170 Sentinel
+        slug: rq-170-sentinel
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+    date: null
+    date_end: null
+    location_in_record: char:143004-143084
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 9446ea19-1e02-4cc6-a10b-72547e55e71b
+    claim_hash: 4a4e52a258b240030930a754fe3f31a6215381aa132fc3649b1d52a83435ff2a
+    content: Steve Justice finished his career as Director of Advanced Systems at Lockheed Martin Skunk Works the month before
+      this broadcast.
+    original_excerpt: Literally, last month, Steve finished his career as Director of Advanced Systems at Lockheed Martin
+      Skunk Works.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: 00:08:51.8-00:08:58.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: 418fbbac-f089-4ff1-8953-3884b8d67ff4
+    claim_hash: bd3c58f3c059663b1c65b396c81cbe8368536ea2d91a43db9e14be845f8191ec
+    content: Lockheed Martin Skunk Works is the US government's top-tier aerospace organisation for developing advanced aircraft
+      that meet national security needs.
+    original_excerpt: Skunk Works is the US government's top tier aerospace organization for the development of advanced aircraft
+      that meet our urgent national security needs.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+    date: null
+    date_end: null
+    location_in_record: 00:09:00.6-00:09:09.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: f2b22d12-a9bb-4b8f-87de-d74c7b158cf9
+    claim_hash: 23006c79aca622436e29b0c52fa4d2de171e2220c60d062c09e3d6418c8ad682
+    content: Tom DeLonge visited Lockheed Martin Skunk Works and passed through a guarded checkpoint with armed personnel,
+      fingerprint scanning, locked doors with electronic codes, and vault-like doors with rotary locks to reach a secure hallway.
+    original_excerpt: First time I met Steve Justice, I went through, I got the opportunity to go up to Lockheed Martin's
+      The Skunk Works, and I remember I went through this guard gate and they had machine guns... I get into a hallway and
+      there's like hundreds of speakers lining this long hallway with just white noise... and then there were more doors that
+      were as thick as a safe with these rotary locks
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: 00:23:10.9-00:23:37.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: 48b14caa-b7f7-44b6-9625-a56f2209ee8d
+    claim_hash: 92702e4ea3074679362d1205560865f589a7f73fc8807d961b48ef357e09f157
+    content: Jacques Vallee validates the account that Tom DeLonge made contact with an individual who worked at Lockheed
+      Martin Skunk Works.
+    original_excerpt: But Vallee, Jacques Vallee, validates the original story, which is that DeLonge had made contact with
+      someone who worked at Lockheed Martin Skunk Works.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Jacques Vallee
+      relay:
+        - Jason Samosa
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+        title: Lockheed Martin
+        slug: lockheed-martin
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 00:35:32.8-00:35:41.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 3fbfd107-54b1-432a-83f7-9b44aa0a8a79
+    claim_hash: 5ccce1c8a37380368288d2b327524f7b4fca03fdf84332a1785eb705660424f7
+    content: An individual working at Lockheed Martin Skunk Works invited Tom DeLonge to act as master of ceremonies at a
+      large Skunk Works family event, and DeLonge accepted on condition that he could sit down and speak with the person who
+      ran the organisation.
+    original_excerpt: And that individual had said, look, would you come and sort of be the MC for this special day we're
+      having where it's like a big family event? And he said, yes, as long as I can speak to the individual who runs the show,
+      right, and get a chance to sit down.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to work at Lockheed Martin Skunk Works
+      relay:
+        - Tom DeLonge's published account
+        - Jason Samosa
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 00:35:42.0-00:35:53.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: ab7462e8-4ff2-457e-9d39-606e91478eb1
+    claim_hash: 5464858b625b5a24f7d09bab3aeb51ff3680d464f8b926e5164f377f8c74c8dd
+    content: Tom DeLonge sent his Lockheed Martin Skunk Works contact a piece of content written by his adviser about cargo
+      cults, describing a remote tribe that watched aircraft land and unload cargo, food and resources.
+    original_excerpt: then he sent this individual a piece of content that the vendor had written, and it was all around cargo
+      cults... they could see these planes landing and dropping off all this cargo and stuff, food, resources.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
+        title: cargo cult
+        slug: cargo-cult
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 00:36:55.7-00:37:07.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 69d5ae61-f507-4705-9906-660e60181526
+    claim_hash: b9bec2c3947b15bce883e0dfd6b8719bc087fb69aff7265a5aa991e28a62b7f4
+    content: Ben Rich was president of Lockheed Martin Skunk Works in the 1990s and was responsible for modern stealth aircraft.
+    original_excerpt: Ben Rich also, who is the, you know, Skunk Works guy, you know, in the 90s, president of Skunk Works,
+      who is responsible for, you know, the SR-71 and, or sorry, he was responsible for modern stealth aircraft.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+        title: Ben Rich
+        slug: ben-rich
+    date: null
+    date_end: null
+    location_in_record: 01:17:26.5-01:17:38.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 1173b646-497b-4827-b785-24d56242530a
+    claim_hash: 0d38ab1b6c0bdb24be2b18fe96c29c6127f32bff8e00cfd81a6d765e46fee7f1
+    content: Ben Rich was at the tip of the spear in building reconnaissance aircraft for the Central Intelligence Agency
+      and advanced American defence technology, in Jesse Michels's characterisation.
+    original_excerpt: you hear a guy who's at the tip of the spear when it comes to building recon planes for the CIA and,
+      you know, very advanced American defense tech
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+        title: Ben Rich
+        slug: ben-rich
+    date: null
+    date_end: null
+    location_in_record: 01:51:02.0-01:51:11.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 287efd3c-a220-4ec0-b163-1fb449fe5c66
+    claim_hash: 7fdbe5279e2085c8c8c038355909f42f9f831529ae39d1c6790b1710baf40645
+    content: Robert Weiss was executive vice president of Lockheed Martin Skunk Works.
+    original_excerpt: '[note: Robert Weiss - Lockheed Skunk Works executive vice president]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source record annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+        title: Robert Weiss
+        slug: robert-weiss
+    date: null
+    date_end: null
+    location_in_record: line 37
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

@@ -1,0 +1,188 @@
+schema: anomalica/brief/1
+brief_hash: f58a3600fe1b39ce6d664dacb088b03b4928898feed209a8998c3b6fba77c41b
+page:
+  kind: entity
+  node_id: 9452773a-568c-48b2-bcb5-f58ccfda1f1b
+  node_type: person
+  title: Christopher Green
+  slug: christopher-green
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 3
+  tokens_estimated: 877
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
+related_nodes:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    node_type: person
+    slug: harold-e-puthoff
+    shared_claims: 2
+  - node_id: 1dfc0714-c2ac-4923-b546-61a19f0755f0
+    title: Central Intelligence Agency (CIA) Directorate of Science and Technology (DS&T)
+    node_type: organisation
+    slug: central-intelligence-agency-cia-directorate-of-science-and-technology-dst
+    shared_claims: 1
+  - node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
+    title: Collins Elite
+    node_type: organisation
+    slug: collins-elite
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    node_type: topic
+    slug: remote-viewing-rv
+    shared_claims: 1
+  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+    title: Ronald Reagan
+    node_type: person
+    slug: ronald-reagan
+    shared_claims: 1
+  - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+    title: Stanford Research Institute (SRI)
+    node_type: organisation
+    slug: stanford-research-institute-sri
+    shared_claims: 1
+claims:
+  - claim_id: 9a46ae9f-96a6-421b-be1c-877c43e424f8
+    claim_hash: cd7e6a5e8e2414013e99107308b1c422f77bda938cf77448d766f98c5d6148c9
+    content: The Unidentified Flying Object (UFO) briefing given to Ronald Reagan included attendees from the Central Intelligence
+      Agency Directorate of Science and Technology (S&T), presumed by Jason Samosa to be Christopher Green and his staff,
+      plus the Collins Elite and a third group who also briefed.
+    original_excerpt: One's from CIA, S&T, which is presumably Kit Green and his people. You've got the Collins elite who
+      come in, and then there's another group who do a briefing as well.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Nick Redfern
+      relay:
+        - Jason Samosa
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 1dfc0714-c2ac-4923-b546-61a19f0755f0
+        title: Central Intelligence Agency (CIA) Directorate of Science and Technology (DS&T)
+        slug: central-intelligence-agency-cia-directorate-of-science-and-technology-dst
+      - node_id: 9452773a-568c-48b2-bcb5-f58ccfda1f1b
+        title: Christopher Green
+        slug: christopher-green
+      - node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
+        title: Collins Elite
+        slug: collins-elite
+    date: null
+    date_end: null
+    location_in_record: 00:19:36.6-00:19:44.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: c2452d4f-f517-415c-8fd1-11fd5aafe36d
+    claim_hash: a84ba40274d64411d8a14f27cb2fb7ade453461811e73178d08a33c32cc4fab8
+    content: Christopher Green, Hal Puthoff and Jacques Vallee attended the meetings Robert Bigelow describes.
+    original_excerpt: and uh Christopher Green, Hall Puthoff uh Jacques Vallée was there so we had the cream of the crop of
+      thinkers
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 9452773a-568c-48b2-bcb5-f58ccfda1f1b
+        title: Christopher Green
+        slug: christopher-green
+    date: null
+    date_end: null
+    location_in_record: 00:06:01.0-00:06:09.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: cb256854-7686-4f03-9ab8-fec3c223dbc6
+    claim_hash: 2f47b1aceb29f566a86a0d2bb1f0bf264e3344a8aa28946842d9f659226aefda
+    content: Hal Puthoff and Christopher Green were heavily involved in remote viewing work at Stanford Research Institute
+      (SRI).
+    original_excerpt: And SRI, Stanford Research Institute, and friends of ours that we know, Hal Puthoff and Kit Green were
+      very involved in that.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+        title: Stanford Research Institute (SRI)
+        slug: stanford-research-institute-sri
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 9452773a-568c-48b2-bcb5-f58ccfda1f1b
+        title: Christopher Green
+        slug: christopher-green
+    date: null
+    date_end: null
+    location_in_record: 00:19:04.9-00:19:13.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

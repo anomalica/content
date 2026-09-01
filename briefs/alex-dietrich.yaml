@@ -9,1063 +9,1077 @@ page:
   claim_count: 25
   claim_count_total: 25
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 25
+  tokens_estimated: 7375
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 25
 related_nodes:
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 13
-- node_id: c09e3558-1732-4676-a218-d67d285d98ef
-  title: David Fravor
-  node_type: person
-  slug: david-fravor
-  shared_claims: 12
-- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-  title: Unidentified Anomalous Phenomena (UAP)
-  node_type: topic
-  slug: unidentified-anomalous-phenomena-uap
-  shared_claims: 3
-- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-  title: United States Navy (USN)
-  node_type: organisation
-  slug: united-states-navy-usn
-  shared_claims: 2
-- node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
-  title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena
-    (UAP) encounter
-  node_type: event
-  slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
-  shared_claims: 1
-- node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
-  title: Anomalous Aerial Vehicle (AAV)
-  node_type: topic
-  slug: anomalous-aerial-vehicle-aav
-  shared_claims: 1
-- node_id: d3505dc9-f90b-4094-ad93-b873ad732daa
-  title: Black Aces
-  node_type: organisation
-  slug: black-aces
-  shared_claims: 1
-- node_id: 238b529a-af82-4168-84e1-0698bb5cdcf2
-  title: Brad Byers
-  node_type: person
-  slug: brad-byers
-  shared_claims: 1
-- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-  title: Christopher K. Mellon
-  node_type: person
-  slug: christopher-k-mellon
-  shared_claims: 1
-- node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
-  title: F/A-18
-  node_type: object
-  slug: fa-18
-  shared_claims: 1
-- node_id: 34f211a3-1169-4e94-b3c6-017f77c8c3bf
-  title: F/A-18F
-  node_type: object
-  slug: fa-18f
-  shared_claims: 1
-- node_id: 224c7627-5439-4e73-b583-590caead8999
-  title: Jim Slaight
-  node_type: person
-  slug: jim-slaight
-  shared_claims: 1
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 1
-- node_id: f07d6499-16a2-49ae-8702-4cf6499cd6dc
-  title: Shari Smith
-  node_type: person
-  slug: shari-smith
-  shared_claims: 1
-- node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
-  title: Strike Fighter Squadron 41 (VFA-41)
-  node_type: organisation
-  slug: strike-fighter-squadron-41-vfa-41
-  shared_claims: 1
-- node_id: b9426d1b-312c-4e02-969e-ab9ad4dab259
-  title: The Pentagon
-  node_type: place
-  slug: the-pentagon
-  shared_claims: 1
-- node_id: 55991bcf-937b-46da-9858-2b733307190b
-  title: Tic Tac
-  node_type: object
-  slug: tic-tac
-  shared_claims: 1
-- node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
-  title: USS Princeton (CG-59)
-  node_type: object
-  slug: uss-princeton-cg-59
-  shared_claims: 1
-- node_id: 0f912810-85b7-4e73-a97f-f31901933301
-  title: United States Marine Corps (USMC)
-  node_type: organisation
-  slug: united-states-marine-corps-usmc
-  shared_claims: 1
-claims:
-- claim_id: e1f9b548-73ac-4ca9-8b5c-b7bc64e45037
-  claim_hash: ed149b9e49c57e3c7c4a7573ba117e60ae95aac61ac308ed22b9868c0d7b117d
-  content: Alex Dietrich was the pilot of FastEagle 02, one of two F/A-18Fs of Strike
-    Fighter Squadron 41 (VFA-41) involved in the intercept and visual contact with
-    the Anomalous Aerial Vehicle (AAV) on 2004-11-14.
-  original_excerpt: 'FASTEAGLE 02 Pilot: LT Alex ''Cardiac'' Dietrich, USN/WSO: LCDR
-    {{redacted: ~2 words}}, USN'
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
-    title: Strike Fighter Squadron 41 (VFA-41)
-    slug: strike-fighter-squadron-41-vfa-41
-  - node_id: 34f211a3-1169-4e94-b3c6-017f77c8c3bf
-    title: F/A-18F
-    slug: fa-18f
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 13
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    node_type: person
+    slug: david-fravor
+    shared_claims: 12
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 3
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 2
+  - node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
+    title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) encounter
+    node_type: event
+    slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
+    shared_claims: 1
   - node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
     title: Anomalous Aerial Vehicle (AAV)
+    node_type: topic
     slug: anomalous-aerial-vehicle-aav
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  date: '2004-11-14'
-  date_end: null
-  location_in_record: char:16476-16564
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
-    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-    record_date: '2004-11-14'
-    record_reference: null
-    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
-    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
-- claim_id: bf498b2b-1e86-4ea3-93fd-1523de6bb23c
-  claim_hash: 87f435a4599c166fd3780fa91ada6b11816a6ae729483c81619339f44b00b790
-  content: David Fravor detached Alex Dietrich's F/A-18F, which held at approximately
-    6,100 metres, while his own F/A-18F descended to between approximately 3,700 and
-    4,900 metres.
-  original_excerpt: At this point CDR Fravor detached FASTEAGLE02, which held at approximately
-    20,000 feet, and FASTEAGLE01 descended to between 12-16,000 feet.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: '2004-11-14'
-  date_end: null
-  location_in_record: char:18663-18798
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
-    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-    record_date: '2004-11-14'
-    record_reference: null
-    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
-    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
-- claim_id: 1904d1b8-87df-4f4e-9e40-86ab5eeedb78
-  claim_hash: 22c42fd82a9b7fa9fc6586cc42bd4c1f84b6b7a0f1e9190d230073415e4a448c
-  content: David Fravor's weapon system operator communicated what they were seeing
-    with USS Princeton (CG-59) and had a running dialogue on the interflight radio
-    with Alex Dietrich's FastEagle 02.
-  original_excerpt: 'LT {{redacted: ~1 word}} communicated what they were seeing with
-    Poison control and said that he had a running dialogue on the Interflight radio
-    with FastEagle 02.'
-  claim_type: observation
-  attestation: first_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor's weapon system operator aboard FastEagle 01
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
-    title: USS Princeton (CG-59)
-    slug: uss-princeton-cg-59
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  date: '2004-11-14'
-  date_end: null
-  location_in_record: char:19358-19518
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
-    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-    record_date: '2004-11-14'
-    record_reference: null
-    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
-    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
-- claim_id: 75592595-ad81-421a-b01d-7a45d92753bb
-  claim_hash: e94b768485ed6ceeaab71f7d45d4b38b417c768a0e8d32d79298104d88868a4b
-  content: Alex Dietrich flew at David Fravor's wing during the 2004 USS Nimitz UAP
-    encounter and had never spoken publicly about it before this interview.
-  original_excerpt: flying at his wing, Lieutenant Alex Dietrich, who has never spoken
-    publicly about the encounter
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: 00:06:50.6-00:06:56.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
-    record_title: Navy pilots describe encounters with UFOs
-    record_date: '2021-05-17'
-    record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
-    content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
-    friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
-- claim_id: e44a718a-1026-4973-9da4-79176d4ecfdd
-  claim_hash: 5aa12d69440dd9ef315c660662df7491874b59ba5fc0adfacbaaf1328f370e1e
-  content: Alex Dietrich feels a responsibility to share her account of the 2004 USS
-    Nimitz UAP encounter because she was in a government aircraft, was on duty, and
-    the material is unclassified.
-  original_excerpt: Because I was in a government aircraft, because I was on the clock,
-    and so I feel a responsibility to share what I can, and it is unclassified.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-  provenance_chain:
-    origin_kind: speaker
-    origin: Alex Dietrich
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: 00:07:02.7-00:07:11.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
-    record_title: Navy pilots describe encounters with UFOs
-    record_date: '2021-05-17'
-    record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
-    content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
-    friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
-- claim_id: c2b231ed-ce19-4183-915c-591eb9b8830c
-  claim_hash: 64272d37860f7ccfb5e2dd5df7d194fa5059613497fe69c332c855f3e6e020fe
-  content: On 2004-11-14, David Fravor and Alex Dietrich, each with a weapons systems
-    officer in the back seat, were diverted to investigate the USS Princeton's radar
-    contacts.
-  original_excerpt: On November 14, Fravor and Dietrich, each with a weapons system
-    officer in the backseat, were diverted to investigate.
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: '2004-11-14'
-  date_end: null
-  location_in_record: 00:07:39.4-00:07:46.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
-    record_title: Navy pilots describe encounters with UFOs
-    record_date: '2021-05-17'
-    record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
-    content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
-    friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
-- claim_id: 1cd7e8f2-6b74-454f-995f-0c894f9f9ac1
-  claim_hash: 72507ca0577585768cacae11f0a9e19930c5ded3ea1b4d4f28f296d3c4d1f409
-  content: During the 2004 USS Nimitz UAP encounter, Alex Dietrich circled above while
-    David Fravor descended for a closer look at the unidentified object.
-  original_excerpt: As Dietrich circled above, Fravor went in for a closer look.
-  claim_type: testimony
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: '2004-11-14'
-  date_end: null
-  location_in_record: 00:08:12.3-00:08:16.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
-    record_title: Navy pilots describe encounters with UFOs
-    record_date: '2021-05-17'
-    record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
-    content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
-    friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
-- claim_id: 0e826557-c64f-4fef-8022-bd4158f9567a
-  claim_hash: c376d3dd15b00e20e634f470777f46bf50c40eec784b0663477bcc588703d9e2
-  content: Alex Dietrich initially tried to categorise the unidentified object encountered
-    during the 2004 USS Nimitz UAP encounter as possibly a helicopter or a drone.
-  original_excerpt: I'm going to categorize this as maybe a helicopter or maybe a
-    drone.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-  provenance_chain:
-    origin_kind: speaker
-    origin: Alex Dietrich
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '2004-11-14'
-  date_end: null
-  location_in_record: 00:08:53.0-00:08:57.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
-    record_title: Navy pilots describe encounters with UFOs
-    record_date: '2021-05-17'
-    record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
-    content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
-    friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
-- claim_id: f900712a-e007-4792-9789-102685771e44
-  claim_hash: 859117c4c6aac30ccb7ea2813a6c2478d2a7419a4eb44286ebbd3a867105e451
-  content: Alex Dietrich said that if she had witnessed the unidentified object alone
-    during the 2004 USS Nimitz UAP encounter, she might not have reported it because
-    of how implausible it would sound.
-  original_excerpt: if I saw this solo, I don't know that I would have come back and
-    said anything because it sounds so crazy when I say it
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-  provenance_chain:
-    origin_kind: speaker
-    origin: Alex Dietrich
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: 00:09:23.5-00:09:30.3
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
-    record_title: Navy pilots describe encounters with UFOs
-    record_date: '2021-05-17'
-    record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
-    content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
-    friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
-- claim_id: fdf2ac36-553c-483c-ad6b-722977859394
-  claim_hash: 62affde7e0687ea0b93182a186f358dba140bb7564abe6215a209ca5aa4db05f
-  content: Alex Dietrich felt vulnerable during the 2004 USS Nimitz UAP encounter
-    because they had nothing with which to defend themselves.
-  original_excerpt: I felt the vulnerability of not having anything to defend ourselves.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-  provenance_chain:
-    origin_kind: speaker
-    origin: Alex Dietrich
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: '2004-11-14'
-  date_end: null
-  location_in_record: 00:13:37.4-00:13:40.8
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
-    record_title: Navy pilots describe encounters with UFOs
-    record_date: '2021-05-17'
-    record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
-    content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
-    friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
-- claim_id: 904e401b-cb03-47e0-9aa1-62fab85c9d76
-  claim_hash: dc9bec47fb251330ea7d3b7843a99925e5521085148281b5e797203aee96b104
-  content: Alex Dietrich, the other pilot involved in the 2004 USS Nimitz UAP encounter,
-    contacted David Fravor years later to ask whether he had been contacted about
-    the incident.
-  original_excerpt: Years later, I was contacted by the other pilot, Alex Dietrich,
-    and asked if I would been contacted
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
-    title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous
-      Phenomena (UAP) encounter
-    slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: char:43940-44030
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
-      Public Safety, and Government Transparency'
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-- claim_id: 35e64cdf-e115-4d7b-a9f6-e08fd8141ad2
-  claim_hash: e053a1b709002214c5b43f3861472246fb79365215a0c9d30f5ce1be3a211070
-  content: Years after the 2004 USS Nimitz UAP encounter, David Fravor was contacted
-    by Alex Dietrich, the other pilot in his flight, asking if he had ever been contacted
-    about the incident after 2009.
-  original_excerpt: Years later I was contacted by Alex Dietrich, the other pilot
-    in my flight asking if I had ever been contacted about the incident after 2009.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: char:5271-5407
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d123926b-16b5-462d-86e0-d3b77fa6b2c0
-    record_title: David Fravor Statement for the House Oversight Committee
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b9448520c64a
-    friendly_name: 2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee
-- claim_id: 0a48a94f-a983-415c-8640-ad31eae22e85
-  claim_hash: e7b7a128373b8757b00dce4cb71030a3952f38af95871e769bb70dc10cd7fd42
-  content: David Fravor had retired from the Navy and told Alex Dietrich that he had
-    not been contacted about the incident since 2009, but that he was happy to meet
-    with anyone who wanted to talk.
-  original_excerpt: I had since retired and my answer was no, but I told her if folks
-    wanted to talk, I was happy to meet with them.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-  provenance_chain:
-    origin_kind: speaker
-    origin: David Fravor
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: char:5413-5520
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d123926b-16b5-462d-86e0-d3b77fa6b2c0
-    record_title: David Fravor Statement for the House Oversight Committee
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b9448520c64a
-    friendly_name: 2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee
-- claim_id: 5b536f9a-e891-4ce0-8df5-9f95a1f68bf9
-  claim_hash: dce5c11abf185b2d2e6647c65117f6974518eb6a5d16631682483183664a2a68
-  content: Alex Dietrich told David Fravor that she had been invited to the Pentagon
-    multiple times to discuss the 2004 USS Nimitz UAP encounter and to view other
-    videos of Unidentified Aerial Phenomena (UAP).
-  original_excerpt: Alex stated that she had been invited to the Pentagon multiple
-    times to discuss the event and view other videos of UAPs.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-  provenance_chain:
-    origin_kind: named
-    origin: Alex Dietrich
-    relay:
-    - David Fravor
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: b9426d1b-312c-4e02-969e-ab9ad4dab259
-    title: The Pentagon
-    slug: the-pentagon
-  date: null
-  date_end: null
-  location_in_record: char:5526-5641
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: d123926b-16b5-462d-86e0-d3b77fa6b2c0
-    record_title: David Fravor Statement for the House Oversight Committee
-    record_date: '2023-07-26'
-    record_reference: null
-    content_hash: sha256:7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b9448520c64a
-    friendly_name: 2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee
-- claim_id: a09eea88-71ff-42ee-afe3-a8264c79511c
-  claim_hash: f64b9db86bb009b4878047aaf525a14b8bc28dcf83b71831877fb81f35cc321e
-  content: Neither Dave Fravor nor Alex Dietrich displayed any propensity to exaggerate,
-    and their crews perceived them as the best of the best.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: ch15:14284-14402
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 560bf8d9-3cf1-4899-b82c-55cc425ddff4
-  claim_hash: 07852546af05ecceb706f59952e4abd21724a52261a30bb70f3dd7692e3b2adf
-  content: Lieutenant Junior Grade Alex Dietrich piloted the other US Navy F/A-18
-    Super Hornet involved in the 2004 USS Nimitz UAP encounter.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-    title: United States Navy (USN)
-    slug: united-states-navy-usn
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
-    title: F/A-18
-    slug: fa-18
-  date: null
-  date_end: null
-  location_in_record: ch15:4687-4804
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: bd285379-7452-4a5b-ae35-1d7e992ba910
-  claim_hash: bdfe2825a958f545376d7a351b8fb9edc610a5a9cf1c5a11055661d4a7669f0c
-  content: Alex Dietrich, call sign "New Girl", was more skilled and deadly as a pilot
-    than her call sign suggested.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  date: null
-  date_end: null
-  location_in_record: ch15:4687-4876
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 8140ef98-a0f5-41b0-94ca-0185e665a500
-  claim_hash: 7f531c7b583f0c67a3d67a9386f956a85a1d8b19a7542885b7881e01ab8adf4b
-  content: Alex Dietrich, fresh out of training, flew circles around her peers, which
-    was probably the reason she was handpicked for her assignment with the Black Aces
-    squadron.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
+    shared_claims: 1
   - node_id: d3505dc9-f90b-4094-ad93-b873ad732daa
     title: Black Aces
+    node_type: organisation
     slug: black-aces
-  date: null
-  date_end: null
-  location_in_record: ch15:4887-5023
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 3b8a094e-d8f4-4f25-8b4b-b3e5158fcdeb
-  claim_hash: bb0022e5c23ea655542887d33a038f9c109a854d22ec7fab068fa80dac4d8c20
-  content: A few years after the 2004 USS Nimitz UAP encounter, Lue Elizondo heard
-    a story that Alex Dietrich had more confirmed kills in a period of time than the
-    entire United States Marine Corps.
-  original_excerpt: null
-  claim_type: hearsay
-  attestation: second_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: anonymous
-    origin: an unnamed person who told Lue Elizondo the story
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 0f912810-85b7-4e73-a97f-f31901933301
-    title: United States Marine Corps (USMC)
-    slug: united-states-marine-corps-usmc
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  date: null
-  date_end: null
-  location_in_record: ch15:5029-5210
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: aca7530d-9a73-40ba-837d-1121a637ed4e
-  claim_hash: de621ff315a443a6883c610336e477a7c3b91e3b1f76f5de5f90fe4e53f624bb
-  content: Alex Dietrich's Weapon Systems Officer during the 2004 USS Nimitz encounter
-    was known by the call sign "Noodle", and together they made up FASTEAGLE 02.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: ch15:5214-5348
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 24752b60-1587-443c-af87-e5dfac13ef8a
-  claim_hash: e78c6fb73590f71a9f53d280ead57928de4f1c12baed2905dc89b7f6519157b4
-  content: Dave Fravor and Alex Dietrich were flying their aircraft at approximately
-    6,100 metres altitude during the 2004 USS Nimitz UAP encounter when they looked
-    down and saw the sea below churning and roiled in one spot in the Pacific Ocean,
-    with whitecaps and a giant patch of bubbles rising from the water.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: Dave Fravor and Alex Dietrich
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: ch15:5353-5749
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: f38c8581-15c3-4da6-8b19-7887dbc0e3c8
-  claim_hash: 3098953241e283d66add2790cf3006fda1bf3a74e68f6b3cb26ada83527fcfa4
-  content: During the 2004 USS Nimitz UAP encounter, all four pilots noticed a bizarre
-    object darting back and forth over the whitecaps, about 15 metres above the water.
-  original_excerpt: null
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: named
-    origin: the four pilots (Dave Fravor, Jim Slaight, Alex Dietrich, and Dietrich's
-      WSO)
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 224c7627-5439-4e73-b583-590caead8999
-    title: Jim Slaight
-    slug: jim-slaight
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: ch15:5756-5904
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: ee69bb57-5673-4cd0-a338-5253765e3df6
-  claim_hash: 960528848408916358fd91b08b29a58ec04f817d1283dd14ea5200a1387bd195
-  content: Alex Dietrich described the 2004 USS Nimitz Unidentified Aerial Phenomena
-    (UAP) Tic Tac object as manoeuvring in a "playful" manner.
-  original_excerpt: null
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-  provenance_chain:
-    origin_kind: named
-    origin: Alex Dietrich
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 55991bcf-937b-46da-9858-2b733307190b
-    title: Tic Tac
-    slug: tic-tac
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    slug: 2004-uss-nimitz-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: ch17:11594-11684
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: a95af9c7-d2be-4044-90a4-1b716357ad9a
-  claim_hash: f3e048f45649e41d8e8e322f14bb4eea93768214659be1eb4e7c8ec0a6b93eef
-  content: Brad Byers and Shari Smith requested extensive data, and asked to speak
-    with the pilot witnesses David Fravor and Alex Dietrich along with a radar operator,
-    in connection with briefing James Mattis on Unidentified Aerial Phenomena (UAP).
-  original_excerpt: null
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
   - node_id: 238b529a-af82-4168-84e1-0698bb5cdcf2
     title: Brad Byers
+    node_type: person
     slug: brad-byers
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  - node_id: f07d6499-16a2-49ae-8702-4cf6499cd6dc
-    title: Shari Smith
-    slug: shari-smith
-  date: null
-  date_end: null
-  location_in_record: ch28:1468-1613
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: cdc362b8-15c9-41d0-939d-1eb085522c50
-  claim_hash: 9b910716309a9befb471ffc0b942172691c42469c5404c4f38183d03ac37ad0d
-  content: Lue Elizondo arranged for Christopher Mellon to participate in official
-    debriefings with Dave Fravor, Alex Dietrich, and other US Navy personnel who had
-    seen UAP up close or on military sensor systems.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-    title: Christopher K. Mellon
-  provenance_chain:
-    origin_kind: speaker
-    origin: Christopher Mellon
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
+    shared_claims: 1
   - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
     title: Christopher K. Mellon
+    node_type: person
     slug: christopher-k-mellon
-  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-    title: United States Navy (USN)
-    slug: united-states-navy-usn
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    node_type: object
+    slug: fa-18
+    shared_claims: 1
+  - node_id: 34f211a3-1169-4e94-b3c6-017f77c8c3bf
+    title: F/A-18F
+    node_type: object
+    slug: fa-18f
+    shared_claims: 1
+  - node_id: 224c7627-5439-4e73-b583-590caead8999
+    title: Jim Slaight
+    node_type: person
+    slug: jim-slaight
+    shared_claims: 1
   - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
+    node_type: person
     slug: luis-elizondo
-  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
-    title: Alex Dietrich
-    slug: alex-dietrich
-  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-    title: David Fravor
-    slug: david-fravor
-  date: null
-  date_end: null
-  location_in_record: ch6:9189-9375
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
+    shared_claims: 1
+  - node_id: f07d6499-16a2-49ae-8702-4cf6499cd6dc
+    title: Shari Smith
+    node_type: person
+    slug: shari-smith
+    shared_claims: 1
+  - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
+    title: Strike Fighter Squadron 41 (VFA-41)
+    node_type: organisation
+    slug: strike-fighter-squadron-41-vfa-41
+    shared_claims: 1
+  - node_id: b9426d1b-312c-4e02-969e-ab9ad4dab259
+    title: The Pentagon
+    node_type: place
+    slug: the-pentagon
+    shared_claims: 1
+  - node_id: 55991bcf-937b-46da-9858-2b733307190b
+    title: Tic Tac
+    node_type: object
+    slug: tic-tac
+    shared_claims: 1
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    node_type: object
+    slug: uss-princeton-cg-59
+    shared_claims: 1
+  - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+    title: United States Marine Corps (USMC)
+    node_type: organisation
+    slug: united-states-marine-corps-usmc
+    shared_claims: 1
+claims:
+  - claim_id: e1f9b548-73ac-4ca9-8b5c-b7bc64e45037
+    claim_hash: ed149b9e49c57e3c7c4a7573ba117e60ae95aac61ac308ed22b9868c0d7b117d
+    content: Alex Dietrich was the pilot of FastEagle 02, one of two F/A-18Fs of Strike Fighter Squadron 41 (VFA-41) involved
+      in the intercept and visual contact with the Anomalous Aerial Vehicle (AAV) on 2004-11-14.
+    original_excerpt: 'FASTEAGLE 02 Pilot: LT Alex ''Cardiac'' Dietrich, USN/WSO: LCDR {{redacted: ~2 words}}, USN'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
+        title: Strike Fighter Squadron 41 (VFA-41)
+        slug: strike-fighter-squadron-41-vfa-41
+      - node_id: 34f211a3-1169-4e94-b3c6-017f77c8c3bf
+        title: F/A-18F
+        slug: fa-18f
+      - node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
+        title: Anomalous Aerial Vehicle (AAV)
+        slug: anomalous-aerial-vehicle-aav
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: char:16476-16564
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+      record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+      record_date: '2004-11-14'
+      record_reference: null
+      content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+      friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+  - claim_id: bf498b2b-1e86-4ea3-93fd-1523de6bb23c
+    claim_hash: 87f435a4599c166fd3780fa91ada6b11816a6ae729483c81619339f44b00b790
+    content: David Fravor detached Alex Dietrich's F/A-18F, which held at approximately 6,100 metres, while his own F/A-18F
+      descended to between approximately 3,700 and 4,900 metres.
+    original_excerpt: At this point CDR Fravor detached FASTEAGLE02, which held at approximately 20,000 feet, and FASTEAGLE01
+      descended to between 12-16,000 feet.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: char:18663-18798
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+      record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+      record_date: '2004-11-14'
+      record_reference: null
+      content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+      friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+  - claim_id: 1904d1b8-87df-4f4e-9e40-86ab5eeedb78
+    claim_hash: 22c42fd82a9b7fa9fc6586cc42bd4c1f84b6b7a0f1e9190d230073415e4a448c
+    content: David Fravor's weapon system operator communicated what they were seeing with USS Princeton (CG-59) and had a
+      running dialogue on the interflight radio with Alex Dietrich's FastEagle 02.
+    original_excerpt: 'LT {{redacted: ~1 word}} communicated what they were seeing with Poison control and said that he had
+      a running dialogue on the Interflight radio with FastEagle 02.'
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor's weapon system operator aboard FastEagle 01
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+        title: USS Princeton (CG-59)
+        slug: uss-princeton-cg-59
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: char:19358-19518
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+      record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+      record_date: '2004-11-14'
+      record_reference: null
+      content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+      friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+  - claim_id: 75592595-ad81-421a-b01d-7a45d92753bb
+    claim_hash: e94b768485ed6ceeaab71f7d45d4b38b417c768a0e8d32d79298104d88868a4b
+    content: Alex Dietrich flew at David Fravor's wing during the 2004 USS Nimitz UAP encounter and had never spoken publicly
+      about it before this interview.
+    original_excerpt: flying at his wing, Lieutenant Alex Dietrich, who has never spoken publicly about the encounter
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:06:50.6-00:06:56.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+      record_title: Navy pilots describe encounters with UFOs
+      record_date: '2021-05-17'
+      record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+      content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
+      friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
+  - claim_id: e44a718a-1026-4973-9da4-79176d4ecfdd
+    claim_hash: 5aa12d69440dd9ef315c660662df7491874b59ba5fc0adfacbaaf1328f370e1e
+    content: Alex Dietrich feels a responsibility to share her account of the 2004 USS Nimitz UAP encounter because she was
+      in a government aircraft, was on duty, and the material is unclassified.
+    original_excerpt: Because I was in a government aircraft, because I was on the clock, and so I feel a responsibility to
+      share what I can, and it is unclassified.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+      title: Alex Dietrich
+    provenance_chain:
+      origin_kind: speaker
+      origin: Alex Dietrich
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: 00:07:02.7-00:07:11.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+      record_title: Navy pilots describe encounters with UFOs
+      record_date: '2021-05-17'
+      record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+      content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
+      friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
+  - claim_id: c2b231ed-ce19-4183-915c-591eb9b8830c
+    claim_hash: 64272d37860f7ccfb5e2dd5df7d194fa5059613497fe69c332c855f3e6e020fe
+    content: On 2004-11-14, David Fravor and Alex Dietrich, each with a weapons systems officer in the back seat, were diverted
+      to investigate the USS Princeton's radar contacts.
+    original_excerpt: On November 14, Fravor and Dietrich, each with a weapons system officer in the backseat, were diverted
+      to investigate.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: 00:07:39.4-00:07:46.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+      record_title: Navy pilots describe encounters with UFOs
+      record_date: '2021-05-17'
+      record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+      content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
+      friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
+  - claim_id: 1cd7e8f2-6b74-454f-995f-0c894f9f9ac1
+    claim_hash: 72507ca0577585768cacae11f0a9e19930c5ded3ea1b4d4f28f296d3c4d1f409
+    content: During the 2004 USS Nimitz UAP encounter, Alex Dietrich circled above while David Fravor descended for a closer
+      look at the unidentified object.
+    original_excerpt: As Dietrich circled above, Fravor went in for a closer look.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: 00:08:12.3-00:08:16.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+      record_title: Navy pilots describe encounters with UFOs
+      record_date: '2021-05-17'
+      record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+      content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
+      friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
+  - claim_id: 0e826557-c64f-4fef-8022-bd4158f9567a
+    claim_hash: c376d3dd15b00e20e634f470777f46bf50c40eec784b0663477bcc588703d9e2
+    content: Alex Dietrich initially tried to categorise the unidentified object encountered during the 2004 USS Nimitz UAP
+      encounter as possibly a helicopter or a drone.
+    original_excerpt: I'm going to categorize this as maybe a helicopter or maybe a drone.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+      title: Alex Dietrich
+    provenance_chain:
+      origin_kind: speaker
+      origin: Alex Dietrich
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: 00:08:53.0-00:08:57.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+      record_title: Navy pilots describe encounters with UFOs
+      record_date: '2021-05-17'
+      record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+      content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
+      friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
+  - claim_id: f900712a-e007-4792-9789-102685771e44
+    claim_hash: 859117c4c6aac30ccb7ea2813a6c2478d2a7419a4eb44286ebbd3a867105e451
+    content: Alex Dietrich said that if she had witnessed the unidentified object alone during the 2004 USS Nimitz UAP encounter,
+      she might not have reported it because of how implausible it would sound.
+    original_excerpt: if I saw this solo, I don't know that I would have come back and said anything because it sounds so
+      crazy when I say it
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+      title: Alex Dietrich
+    provenance_chain:
+      origin_kind: speaker
+      origin: Alex Dietrich
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: 00:09:23.5-00:09:30.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+      record_title: Navy pilots describe encounters with UFOs
+      record_date: '2021-05-17'
+      record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+      content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
+      friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
+  - claim_id: fdf2ac36-553c-483c-ad6b-722977859394
+    claim_hash: 62affde7e0687ea0b93182a186f358dba140bb7564abe6215a209ca5aa4db05f
+    content: Alex Dietrich felt vulnerable during the 2004 USS Nimitz UAP encounter because they had nothing with which to
+      defend themselves.
+    original_excerpt: I felt the vulnerability of not having anything to defend ourselves.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+      title: Alex Dietrich
+    provenance_chain:
+      origin_kind: speaker
+      origin: Alex Dietrich
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: 00:13:37.4-00:13:40.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+      record_title: Navy pilots describe encounters with UFOs
+      record_date: '2021-05-17'
+      record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+      content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
+      friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
+  - claim_id: 904e401b-cb03-47e0-9aa1-62fab85c9d76
+    claim_hash: dc9bec47fb251330ea7d3b7843a99925e5521085148281b5e797203aee96b104
+    content: Alex Dietrich, the other pilot involved in the 2004 USS Nimitz UAP encounter, contacted David Fravor years later
+      to ask whether he had been contacted about the incident.
+    original_excerpt: Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
+        title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) encounter
+        slug: 2004-uss-nimitz-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-encounter
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: char:43940-44030
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 35e64cdf-e115-4d7b-a9f6-e08fd8141ad2
+    claim_hash: e053a1b709002214c5b43f3861472246fb79365215a0c9d30f5ce1be3a211070
+    content: Years after the 2004 USS Nimitz UAP encounter, David Fravor was contacted by Alex Dietrich, the other pilot in
+      his flight, asking if he had ever been contacted about the incident after 2009.
+    original_excerpt: Years later I was contacted by Alex Dietrich, the other pilot in my flight asking if I had ever been
+      contacted about the incident after 2009.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: char:5271-5407
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d123926b-16b5-462d-86e0-d3b77fa6b2c0
+      record_title: David Fravor Statement for the House Oversight Committee
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b9448520c64a
+      friendly_name: 2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee
+  - claim_id: 0a48a94f-a983-415c-8640-ad31eae22e85
+    claim_hash: e7b7a128373b8757b00dce4cb71030a3952f38af95871e769bb70dc10cd7fd42
+    content: David Fravor had retired from the Navy and told Alex Dietrich that he had not been contacted about the incident
+      since 2009, but that he was happy to meet with anyone who wanted to talk.
+    original_excerpt: I had since retired and my answer was no, but I told her if folks wanted to talk, I was happy to meet
+      with them.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: char:5413-5520
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d123926b-16b5-462d-86e0-d3b77fa6b2c0
+      record_title: David Fravor Statement for the House Oversight Committee
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b9448520c64a
+      friendly_name: 2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee
+  - claim_id: 5b536f9a-e891-4ce0-8df5-9f95a1f68bf9
+    claim_hash: dce5c11abf185b2d2e6647c65117f6974518eb6a5d16631682483183664a2a68
+    content: Alex Dietrich told David Fravor that she had been invited to the Pentagon multiple times to discuss the 2004
+      USS Nimitz UAP encounter and to view other videos of Unidentified Aerial Phenomena (UAP).
+    original_excerpt: Alex stated that she had been invited to the Pentagon multiple times to discuss the event and view other
+      videos of UAPs.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+      title: Alex Dietrich
+    provenance_chain:
+      origin_kind: named
+      origin: Alex Dietrich
+      relay:
+        - David Fravor
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b9426d1b-312c-4e02-969e-ab9ad4dab259
+        title: The Pentagon
+        slug: the-pentagon
+    date: null
+    date_end: null
+    location_in_record: char:5526-5641
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d123926b-16b5-462d-86e0-d3b77fa6b2c0
+      record_title: David Fravor Statement for the House Oversight Committee
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b9448520c64a
+      friendly_name: 2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee
+  - claim_id: a09eea88-71ff-42ee-afe3-a8264c79511c
+    claim_hash: f64b9db86bb009b4878047aaf525a14b8bc28dcf83b71831877fb81f35cc321e
+    content: Neither Dave Fravor nor Alex Dietrich displayed any propensity to exaggerate, and their crews perceived them
+      as the best of the best.
+    original_excerpt: Neither Fravor nor Dietrich had displayed any propensity to exaggerate. Their crews perceived them as
+      the best of the best.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: ch15:14284-14402
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 560bf8d9-3cf1-4899-b82c-55cc425ddff4
+    claim_hash: 07852546af05ecceb706f59952e4abd21724a52261a30bb70f3dd7692e3b2adf
+    content: Lieutenant Junior Grade Alex Dietrich piloted the other US Navy F/A-18 Super Hornet involved in the 2004 USS
+      Nimitz UAP encounter.
+    original_excerpt: Making up the other half of the team was another US Navy F/A-18 Super Hornet piloted by Lieutenant Junior
+      Grade Alex Dietrich
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+        title: F/A-18
+        slug: fa-18
+    date: null
+    date_end: null
+    location_in_record: ch15:4687-4804
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: bd285379-7452-4a5b-ae35-1d7e992ba910
+    claim_hash: bdfe2825a958f545376d7a351b8fb9edc610a5a9cf1c5a11055661d4a7669f0c
+    content: Alex Dietrich, call sign "New Girl", was more skilled and deadly as a pilot than her call sign suggested.
+    original_excerpt: Making up the other half of the team was another US Navy F/A-18 Super Hornet piloted by Lieutenant Junior
+      Grade Alex Dietrich, who was more skilled and deadly than her call sign—“New Girl”—suggested.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+    date: null
+    date_end: null
+    location_in_record: ch15:4687-4876
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 8140ef98-a0f5-41b0-94ca-0185e665a500
+    claim_hash: 7f531c7b583f0c67a3d67a9386f956a85a1d8b19a7542885b7881e01ab8adf4b
+    content: Alex Dietrich, fresh out of training, flew circles around her peers, which was probably the reason she was handpicked
+      for her assignment with the Black Aces squadron.
+    original_excerpt: Fresh out of training, Dietrich flew circles around her peers, probably the reason she was handpicked
+      for her assignment with the Black Aces.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: d3505dc9-f90b-4094-ad93-b873ad732daa
+        title: Black Aces
+        slug: black-aces
+    date: null
+    date_end: null
+    location_in_record: ch15:4887-5023
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 3b8a094e-d8f4-4f25-8b4b-b3e5158fcdeb
+    claim_hash: bb0022e5c23ea655542887d33a038f9c109a854d22ec7fab068fa80dac4d8c20
+    content: A few years after the 2004 USS Nimitz UAP encounter, Lue Elizondo heard a story that Alex Dietrich had more confirmed
+      kills in a period of time than the entire United States Marine Corps.
+    original_excerpt: A few years later, I heard a story that Alex had more confirmed kills in a period of time than the entire
+      US Marine Corps. I never knew if the story was true, but I would not doubt it.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed person who told Lue Elizondo the story
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+        title: United States Marine Corps (USMC)
+        slug: united-states-marine-corps-usmc
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+    date: null
+    date_end: null
+    location_in_record: ch15:5029-5210
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: aca7530d-9a73-40ba-837d-1121a637ed4e
+    claim_hash: de621ff315a443a6883c610336e477a7c3b91e3b1f76f5de5f90fe4e53f624bb
+    content: Alex Dietrich's Weapon Systems Officer during the 2004 USS Nimitz encounter was known by the call sign "Noodle",
+      and together they made up FASTEAGLE 02.
+    original_excerpt: Accompanying Dietrich as her WSO was another aviator known by the call sign “Noodle.” Together, New
+      Girl and Noodle made up FASTEAGLE 02.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch15:5214-5348
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 24752b60-1587-443c-af87-e5dfac13ef8a
+    claim_hash: e78c6fb73590f71a9f53d280ead57928de4f1c12baed2905dc89b7f6519157b4
+    content: Dave Fravor and Alex Dietrich were flying their aircraft at approximately 6,100 metres altitude during the 2004
+      USS Nimitz UAP encounter when they looked down and saw the sea below churning and roiled in one spot in the Pacific
+      Ocean, with whitecaps and a giant patch of bubbles rising from the water.
+    original_excerpt: Fravor and Dietrich were flying their aircraft at approximately 20,000 feet when they both looked down
+      into the sea. It was a gorgeous day, the sea calm. In this one spot in the Pacific, the water churned and roiled. It
+      looked the way the surface of the water would look if a ship or some other vessel had sunk. There were whitecaps floating
+      on the water and a giant patch of bubbles rising from them.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Dave Fravor and Alex Dietrich
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: ch15:5353-5749
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: f38c8581-15c3-4da6-8b19-7887dbc0e3c8
+    claim_hash: 3098953241e283d66add2790cf3006fda1bf3a74e68f6b3cb26ada83527fcfa4
+    content: During the 2004 USS Nimitz UAP encounter, all four pilots noticed a bizarre object darting back and forth over
+      the whitecaps, about 15 metres above the water.
+    original_excerpt: At this moment, all four pilots noticed something even stranger. A bizarre object darted back and forth
+      over the whitecaps, about 50 feet above the water.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: the four pilots (Dave Fravor, Jim Slaight, Alex Dietrich, and Dietrich's WSO)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224c7627-5439-4e73-b583-590caead8999
+        title: Jim Slaight
+        slug: jim-slaight
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: ch15:5756-5904
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: ee69bb57-5673-4cd0-a338-5253765e3df6
+    claim_hash: 960528848408916358fd91b08b29a58ec04f817d1283dd14ea5200a1387bd195
+    content: Alex Dietrich described the 2004 USS Nimitz Unidentified Aerial Phenomena (UAP) Tic Tac object as manoeuvring
+      in a "playful" manner.
+    original_excerpt: Navy fighter pilot Alex Dietrich described the 2004 Tic Tac as maneuvering in a "playful" manner.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+      title: Alex Dietrich
+    provenance_chain:
+      origin_kind: named
+      origin: Alex Dietrich
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55991bcf-937b-46da-9858-2b733307190b
+        title: Tic Tac
+        slug: tic-tac
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch17:11594-11684
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: a95af9c7-d2be-4044-90a4-1b716357ad9a
+    claim_hash: f3e048f45649e41d8e8e322f14bb4eea93768214659be1eb4e7c8ec0a6b93eef
+    content: Brad Byers and Shari Smith requested extensive data, and asked to speak with the pilot witnesses David Fravor
+      and Alex Dietrich along with a radar operator, in connection with briefing James Mattis on Unidentified Aerial Phenomena
+      (UAP).
+    original_excerpt: They asked for reams of data. They asked to speak to our pilot witnesses. We brought in Fravor, Dietrich,
+      and a radar operator.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 238b529a-af82-4168-84e1-0698bb5cdcf2
+        title: Brad Byers
+        slug: brad-byers
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: f07d6499-16a2-49ae-8702-4cf6499cd6dc
+        title: Shari Smith
+        slug: shari-smith
+    date: null
+    date_end: null
+    location_in_record: ch28:1468-1613
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: cdc362b8-15c9-41d0-939d-1eb085522c50
+    claim_hash: 9b910716309a9befb471ffc0b942172691c42469c5404c4f38183d03ac37ad0d
+    content: Lue Elizondo arranged for Christopher Mellon to participate in official debriefings with Dave Fravor, Alex Dietrich,
+      and other US Navy personnel who had seen UAP up close or on military sensor systems.
+    original_excerpt: he later arranged for me to participate in official debriefings with Commander Fravor, Lieutenant Alex
+      Dietrich, and other Navy personnel who had seen UAP up close or on military sensor systems.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+        title: Alex Dietrich
+        slug: alex-dietrich
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: ch6:9189-9375
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

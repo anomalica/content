@@ -1,422 +1,494 @@
 schema: anomalica/brief/1
-brief_hash: 6d82974ab9eb8445e3032861bd0253e07e39f8396cd6e49630d57d8e295dab9f
+brief_hash: 92da1579e27e62083e5edcfa0f2811eae70a567c3b191c3eccf0c90225538a77
 page:
   kind: entity
   node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
   node_type: project
   title: Project GRUDGE
   slug: project-grudge
-  claim_count: 10
-  claim_count_total: 10
+  claim_count: 11
+  claim_count_total: 11
 generated:
-  graph_version: '2026-08-27T07:17:55.588951+00:00'
+  graph_version: '2026-09-01T03:36:03.348925+00:00'
+size:
+  claims: 11
+  tokens_estimated: 2997
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 11
 related_nodes:
-- node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
-  title: Project Sign
-  node_type: project
-  slug: project-sign
-  shared_claims: 4
-- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-  title: Project Blue Book
-  node_type: project
-  slug: project-blue-book
-  shared_claims: 3
-- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-  title: 2004 USS Nimitz UAP encounter
-  node_type: event
-  slug: 2004-uss-nimitz-uap-encounter
-  shared_claims: 1
-- node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
-  title: Edward Ruppelt
-  node_type: person
-  slug: edward-ruppelt
-  shared_claims: 1
-- node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
-  title: Kenneth Arnold
-  node_type: person
-  slug: kenneth-arnold
-  shared_claims: 1
-- node_id: 87be216c-2fde-4e95-9755-8c97df856b06
-  title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
-  node_type: event
-  slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
-  shared_claims: 1
-- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-  title: Luis Elizondo
-  node_type: person
-  slug: luis-elizondo
-  shared_claims: 1
-- node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
-  title: Roswell Unidentified Flying Object (UFO) crash
-  node_type: event
-  slug: roswell-unidentified-flying-object-ufo-crash
-  shared_claims: 1
-- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-  title: United States Air Force (USAF)
-  node_type: organisation
-  slug: united-states-air-force-usaf
-  shared_claims: 1
-claims:
-- claim_id: 8b00ba96-0c3d-431d-882b-0c10195db4d4
-  claim_hash: b4209fdd67de5e47490281405a4d8211892d6f28d954293a0256fc825cd2ce47
-  content: The public was told that Project Sign was closed, while covertly Project
-    Grudge continued until March 1952.
-  original_excerpt: The public was told that the project was closed, in fact. And
-    meanwhile, Project Grudge continued covertly. This was until March of 1952
-  claim_type: testimony
-  attestation: null
-  speaker:
-    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
-    title: Raymond E. Fowler
-  provenance_chain:
-    origin_kind: unattributed
-    origin: historical reports
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
-    title: Project GRUDGE
-    slug: project-grudge
   - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
     title: Project Sign
+    node_type: project
     slug: project-sign
-  date: 1952-03
-  date_end: null
-  location_in_record: 00:12:34.7-00:12:43.1
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
-    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
-      (Full Interview, 1987)
-    record_date: null
-    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
-    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
-    friendly_name: null
-- claim_id: 981c7261-a80a-47d3-a2d9-1b290b934d23
-  claim_hash: caa47683ad34c35f058a07ba50363ae27d53db83bdfec83565ef32a080138933
-  content: In 1952, Project Grudge became Project Blue Book.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
-    title: Project GRUDGE
-    slug: project-grudge
+    shared_claims: 5
   - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
     title: Project Blue Book
+    node_type: project
     slug: project-blue-book
-  date: '1952'
-  date_end: null
-  location_in_record: ch8:11026-11077
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 134134c4-f096-495f-822f-d3b62a245591
-  claim_hash: b18ad8e5fdb11a30087d07ec6857af4817df92bdd0312e9d2ff4290127fa83c8
-  content: Project Sign was renamed Project Grudge.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: narration
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
-    title: Project GRUDGE
-    slug: project-grudge
-  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
-    title: Project Sign
-    slug: project-sign
-  date: null
-  date_end: null
-  location_in_record: ch8:2280-2331
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 39002444-899b-4700-af40-1f9e82af2c12
-  claim_hash: 565a60e81137b6badde2cae7b1522045a83c811ea0a234b8311b7b00036ad44e
-  content: The air force's first Project Grudge report announced it would stop investigating
-    unidentified flying objects.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: first Project Grudge report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
-    title: Project GRUDGE
-    slug: project-grudge
-  date: null
-  date_end: null
-  location_in_record: ch8:3344-3474
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 033d0742-3c71-4396-b60c-03dc8d88cdaf
-  claim_hash: 3eaa6ad9e0e0f7c0037a4a61d5c196fbf514afbc77d32d695cf978b92991cb8d
-  content: The first Project Grudge report asserted that all such sightings were the
-    result of mass hysteria, hoaxes or the misinterpretation of conventional objects.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: first Project Grudge report
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
-    title: Project GRUDGE
-    slug: project-grudge
-  date: null
-  date_end: null
-  location_in_record: ch8:3486-3602
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 0249af1f-6fd2-4452-aa20-a78d88b0fd89
-  claim_hash: 12a225279f53c5ca1c1175177f795e94a8ea7389a3cc8ed58616827082fe0027
-  content: Edward Ruppelt later asserted there was a widespread view that Project
-    Grudge was operating under a directive to debunk all sightings.
-  original_excerpt: null
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
-    title: Edward Ruppelt
-  provenance_chain:
-    origin_kind: speaker
-    origin: Edward Ruppelt
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
-    title: Project GRUDGE
-    slug: project-grudge
-  - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
-    title: Edward Ruppelt
-    slug: edward-ruppelt
-  date: null
-  date_end: null
-  location_in_record: ch8:3681-3825
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: e381660c-87c0-40d6-b275-32a5874dc085
-    record_title: In Plain Sight
-    record_date: '2021'
-    record_reference: null
-    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-    friendly_name: 2023-11-17-ebook-in-plain-sight
-  excerpt_withheld: restricted
-- claim_id: 5d634a25-d1ea-42a7-b2ea-2f4c1a649b47
-  claim_hash: 76fe04b9db10e858be764b26c7076fb78a78c83a7bf007940e4c957cef9e59d4
-  content: The United States Air Force studied Unidentified Aerial Phenomena (UAP)
-    in 1948 and 1949 under Project Sign and Project Grudge.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    slug: united-states-air-force-usaf
-  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
-    title: Project GRUDGE
-    slug: project-grudge
-  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
-    title: Project Sign
-    slug: project-sign
-  date: null
-  date_end: null
-  location_in_record: ch12:27859-27984
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 3e5cc8e0-ac35-4007-a92d-bb3eda2e47e6
-  claim_hash: 7047a6532eb5d652b7c83a837b0a89c6623c1b261669e8fe2f25de62d1dc65e2
-  content: Project Grudge debunked the Unidentified Aerial Phenomena (UAP) phenomenon
-    as the result of natural causes.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: null
-  speaker: null
-  provenance_chain:
-    origin_kind: unattributed
-    origin: ''
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
-    title: Project GRUDGE
-    slug: project-grudge
-  date: null
-  date_end: null
-  location_in_record: ch12:28097-28173
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 9a5cd75b-2ebf-43ea-94a6-2ff3fcf6f924
-  claim_hash: d95943c247f6e93ebeb4041f8ae6f71f8a2e9c2e6211b90b31e617247c36131d
-  content: Luis Elizondo conducted a deep dive into government historical records
-    including Project Blue Book and its predecessors, Project Sign and Project Grudge.
-  original_excerpt: null
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-  provenance_chain:
-    origin_kind: speaker
-    origin: Lue Elizondo
-    relay: []
-  attribution_mode: bare_ok
-  node_refs:
-  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
-    title: Project GRUDGE
-    slug: project-grudge
-  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-    title: Project Blue Book
-    slug: project-blue-book
-  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-    title: Luis Elizondo
-    slug: luis-elizondo
-  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
-    title: Project Sign
-    slug: project-sign
-  date: null
-  date_end: null
-  location_in_record: ch25:13747-13833
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 3a89c295-272b-42ee-9838-317a2721be03
-    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-    record_date: '2024'
-    record_reference: null
-    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  excerpt_withheld: restricted
-- claim_id: 5cf33c62-1a47-4179-af3f-1dd976071aae
-  claim_hash: 2140d93eba944b666455220195ecd84d1452ce2948e0132305b9ee9a4666430d
-  content: Chris Ramsey states that the Roswell crash and the sighting by Kenneth
-    Arnold, followed by the Aztec crash, prompted government and military interest
-    in UFOs, leading to the formation of Project Grudge, which later turned into Project
-    Blue Book.
-  original_excerpt: seeing something or hearing something as alarming as a UFO crash
-    in Roswell and the sightings of Kenneth Arnold, and then subsequently the crash
-    at Aztec... They formed Project Grudge, which turned into Project Blue Book.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-    title: Chris Ramsay
-  provenance_chain:
-    origin_kind: speaker
-    origin: Chris Ramsey
-    relay: []
-  attribution_mode: unknown
-  node_refs:
-  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
-    title: Roswell Unidentified Flying Object (UFO) crash
-    slug: roswell-unidentified-flying-object-ufo-crash
-  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
-    title: Project GRUDGE
-    slug: project-grudge
-  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
-    title: Kenneth Arnold
-    slug: kenneth-arnold
-  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-    title: Project Blue Book
-    slug: project-blue-book
-  - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
-    title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
-    slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
+    shared_claims: 3
   - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
     title: 2004 USS Nimitz UAP encounter
+    node_type: event
     slug: 2004-uss-nimitz-uap-encounter
-  date: null
-  date_end: null
-  location_in_record: 00:37:22.6-00:37:42.0
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
-    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
-      33
-    record_date: '2025-04-11'
-    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
-    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+    title: Condon Report
+    node_type: document
+    slug: condon-report
+    shared_claims: 1
+  - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+    title: Edward Ruppelt
+    node_type: person
+    slug: edward-ruppelt
+    shared_claims: 1
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    node_type: person
+    slug: kenneth-arnold
+    shared_claims: 1
+  - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
+    title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
+    node_type: event
+    slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
+    shared_claims: 1
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 1
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    node_type: person
+    slug: robert-bigelow
+    shared_claims: 1
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    node_type: project
+    slug: robertson-panel
+    shared_claims: 1
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    node_type: event
+    slug: roswell-incident-1947
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
+claims:
+  - claim_id: 8b00ba96-0c3d-431d-882b-0c10195db4d4
+    claim_hash: b4209fdd67de5e47490281405a4d8211892d6f28d954293a0256fc825cd2ce47
+    content: The public was told that Project Sign was closed, while covertly Project Grudge continued until March 1952.
+    original_excerpt: The public was told that the project was closed, in fact. And meanwhile, Project Grudge continued covertly.
+      This was until March of 1952
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: unattributed
+      origin: historical reports
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+        title: Project GRUDGE
+        slug: project-grudge
+      - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+        title: Project Sign
+        slug: project-sign
+    date: 1952-03
+    date_end: null
+    location_in_record: 00:12:34.7-00:12:43.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 981c7261-a80a-47d3-a2d9-1b290b934d23
+    claim_hash: caa47683ad34c35f058a07ba50363ae27d53db83bdfec83565ef32a080138933
+    content: In 1952, Project Grudge became Project Blue Book.
+    original_excerpt: That same year, Project Grudge became Project Blue Book
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+        title: Project GRUDGE
+        slug: project-grudge
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+    date: '1952'
+    date_end: null
+    location_in_record: ch8:11026-11077
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 134134c4-f096-495f-822f-d3b62a245591
+    claim_hash: b18ad8e5fdb11a30087d07ec6857af4817df92bdd0312e9d2ff4290127fa83c8
+    content: Project Sign was renamed Project Grudge.
+    original_excerpt: At the same time, Project Sign was renamed Project Grudge
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+        title: Project GRUDGE
+        slug: project-grudge
+      - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+        title: Project Sign
+        slug: project-sign
+    date: null
+    date_end: null
+    location_in_record: ch8:2280-2331
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 39002444-899b-4700-af40-1f9e82af2c12
+    claim_hash: 565a60e81137b6badde2cae7b1522045a83c811ea0a234b8311b7b00036ad44e
+    content: The air force's first Project Grudge report announced it would stop investigating unidentified flying objects.
+    original_excerpt: the air force's first Project Grudge report was published soon after, announcing that it would stop
+      investigating unidentified flying objects
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: first Project Grudge report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+        title: Project GRUDGE
+        slug: project-grudge
+    date: null
+    date_end: null
+    location_in_record: ch8:3344-3474
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 033d0742-3c71-4396-b60c-03dc8d88cdaf
+    claim_hash: 3eaa6ad9e0e0f7c0037a4a61d5c196fbf514afbc77d32d695cf978b92991cb8d
+    content: The first Project Grudge report asserted that all such sightings were the result of mass hysteria, hoaxes or
+      the misinterpretation of conventional objects.
+    original_excerpt: asserting that all such sightings were the result of mass hysteria, hoaxes or the misinterpretation
+      of conventional objects
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: first Project Grudge report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+        title: Project GRUDGE
+        slug: project-grudge
+    date: null
+    date_end: null
+    location_in_record: ch8:3486-3602
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0249af1f-6fd2-4452-aa20-a78d88b0fd89
+    claim_hash: 12a225279f53c5ca1c1175177f795e94a8ea7389a3cc8ed58616827082fe0027
+    content: Edward Ruppelt later asserted there was a widespread view that Project Grudge was operating under a directive
+      to debunk all sightings.
+    original_excerpt: as project insider Edward Ruppelt later asserted, there was a widespread view that Project Grudge was
+      operating under a directive to debunk all sightings
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+      title: Edward Ruppelt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Edward Ruppelt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+        title: Project GRUDGE
+        slug: project-grudge
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+    date: null
+    date_end: null
+    location_in_record: ch8:3681-3825
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5d634a25-d1ea-42a7-b2ea-2f4c1a649b47
+    claim_hash: 76fe04b9db10e858be764b26c7076fb78a78c83a7bf007940e4c957cef9e59d4
+    content: The United States Air Force studied Unidentified Aerial Phenomena (UAP) in 1948 and 1949 under Project Sign and
+      Project Grudge.
+    original_excerpt: The Air Force had studied UAP in 1948 and 1949, under the auspices of two year-old studies known as
+      Project Sign and Project Grudge.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+        title: Project GRUDGE
+        slug: project-grudge
+      - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+        title: Project Sign
+        slug: project-sign
+    date: null
+    date_end: null
+    location_in_record: ch12:27859-27984
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 3e5cc8e0-ac35-4007-a92d-bb3eda2e47e6
+    claim_hash: 7047a6532eb5d652b7c83a837b0a89c6623c1b261669e8fe2f25de62d1dc65e2
+    content: Project Grudge debunked the Unidentified Aerial Phenomena (UAP) phenomenon as the result of natural causes.
+    original_excerpt: Grudge swiftly swept in and debunked the phenomena as the result of natural causes.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+        title: Project GRUDGE
+        slug: project-grudge
+    date: null
+    date_end: null
+    location_in_record: ch12:28097-28173
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 9a5cd75b-2ebf-43ea-94a6-2ff3fcf6f924
+    claim_hash: d95943c247f6e93ebeb4041f8ae6f71f8a2e9c2e6211b90b31e617247c36131d
+    content: Luis Elizondo conducted a deep dive into government historical records including Project Blue Book and its predecessors,
+      Project Sign and Project Grudge.
+    original_excerpt: I had done a deep dive into Project Blue Book and its predecessors, Projects Sign and Grudge.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+        title: Project GRUDGE
+        slug: project-grudge
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+        title: Project Sign
+        slug: project-sign
+    date: null
+    date_end: null
+    location_in_record: ch25:13747-13833
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 5cf33c62-1a47-4179-af3f-1dd976071aae
+    claim_hash: 2140d93eba944b666455220195ecd84d1452ce2948e0132305b9ee9a4666430d
+    content: Chris Ramsey states that the Roswell crash and the sighting by Kenneth Arnold, followed by the Aztec crash, prompted
+      government and military interest in UFOs, leading to the formation of Project Grudge, which later turned into Project
+      Blue Book.
+    original_excerpt: seeing something or hearing something as alarming as a UFO crash in Roswell and the sightings of Kenneth
+      Arnold, and then subsequently the crash at Aztec... They formed Project Grudge, which turned into Project Blue Book.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsey
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+        title: Project GRUDGE
+        slug: project-grudge
+      - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+        title: Kenneth Arnold
+        slug: kenneth-arnold
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
+        title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
+        slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: null
+    date_end: null
+    location_in_record: 00:37:22.6-00:37:42.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null
+  - claim_id: 09c2d7e8-753a-40b6-a98b-2c301e9f7083
+    claim_hash: 64e2b86c78c3bc42b17631a7e766b6b93cfc68c619c7ced4b2035cd57edc52bf
+    content: Robert Bigelow regards Project Sign, Project Grudge, the Robertson Panel and the Condon Report as cover-up efforts,
+      every single one of them.
+    original_excerpt: you had Project Sign, Project Grudge, the Robinson Panel, and the Coup de Gras, the Condon Report, all
+      completed. cover up efforts every single one of them cover up efforts
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+        title: Project GRUDGE
+        slug: project-grudge
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+        title: Robertson Panel
+        slug: robertson-panel
+      - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+        title: Project Sign
+        slug: project-sign
+    date: null
+    date_end: null
+    location_in_record: 00:13:20.0-00:13:32.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
