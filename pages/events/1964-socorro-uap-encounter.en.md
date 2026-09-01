@@ -3,17 +3,19 @@ title: 1964 Socorro UAP encounter
 aliases:
 - /events/socorro-new-mexico-uap-sighting/
 - /en/events/socorro-new-mexico-uap-sighting/
-description: A police officer's April 1964 sighting of a landed, egg-shaped craft
-  and two small figures near Socorro, New Mexico, which left physical traces at the
-  scene and was investigated by several branches of the US government.
+description: A police officer's close-range encounter with a landed, unidentified
+  egg-shaped object near Socorro, New Mexico, on 24 April 1964, which left physical
+  traces at the site and drew investigation from the US Air Force, US Army and Federal
+  Bureau of Investigation.
 tags:
+- sighting
 - encounter
 - investigation
 metadata:
   date: '1964-04-24'
   location: Socorro, New Mexico, USA
 built_from:
-  brief_hash: 02343e2ed631d2d8e03bc67e35b7302e48ee9150243c320743beabed409576ba
+  brief_hash: 95486915634bdc440ce87a484f6248434192facdef81e7cc148979826ba5b84c
   claims:
   - id: 4cd77f04-84e4-4ab0-9a9d-30de95b1737f
     hash: 44ae36220fc8cbb922ec3e9df8a927460d5a6ab1e26ea205e4747a4aa72c28d8
@@ -61,6 +63,8 @@ built_from:
     hash: 7fd809c789a33f589cfa0dd9b502425c8f1be7f3a300693b4c37b4524d5971ae
   - id: 44e33e46-e8db-46f4-8c17-168b44e8ac63
     hash: ebf08742a89d8245b0566224ac6867cda87eee74b651ae1c99d6b5a2c6502ffe
+  - id: fdf2b279-9840-4d7d-bd1c-1c87eef52c56
+    hash: a2dcd405367de2e9ac111c4ceec620e778381866f3bed24e8e355899d5c893b9
   - id: bb349617-191d-4c6c-b51f-efd9e90de347
     hash: 3397e107cc4ebb9437a4a25cd4b0d6cc954d41eab759a2c5ac39312a67b6d1fe
   - id: 35f24cf3-2169-40e8-9fc1-0dbba530f2ab
@@ -94,7 +98,7 @@ built_from:
   - id: 50728311-7d99-417e-9fde-91d15f81b7fb
     hash: 4dafe9a1a771c02d42f07bcd72ea466fe896fb206ecfe3d7e8cbcb81efab366e
 references:
-- text: Zamora saw a flaming object in the sky and went to investigate
+- text: Zamora saw a flaming object in the sky near Socorro and went to investigate.
   source: In Plain Sight
   location: ch10:7705-7889
   quote: Another extremely important sighting happened on the outskirts of Socorro,
@@ -106,18 +110,23 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0995e06c-1239-4fe8-985a-1a436b38be7c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0995e06c-1239-4fe8-985a-1a436b38be7c
-- text: Zamora was the main witness at the Socorro landing site
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch4:17963-18030
-  quote: The man standing at the left is the main witness, patrolman Lonnie Zamora.
-  claim_id: 8f86b4ae-a001-44f0-8295-3f9a18924057
-  claim_fingerprint: 0fc796e7b67997f21555d139c7ec535e4613796e75700e664807441b00c08699
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+- text: Zamora recalled finding an egg- or Tic Tac-shaped object with a metallic surface
+    and spindly landing gear in an arroyo.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch12:21379-21783
+  quote: April 1964, Zamora chased a speeding car through the desert. Around dusk
+    he spotted what looked initially like a car wreck in a nearby arroyo... what had
+    looked like an overturned vehicle now resembled a large egg or Tic Tac–shaped
+    object with a metallic white surface, spindly white landing gear, and some cryptic
+    writing on its side.
+  claim_id: fdf2b279-9840-4d7d-bd1c-1c87eef52c56
+  claim_fingerprint: 216e9257b788386f0e099b742186112f668256e8ad3228f7521df3c654747280
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8f86b4ae-a001-44f0-8295-3f9a18924057
-  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-8f86b4ae-a001-44f0-8295-3f9a18924057
-- text: Zamora found a shiny aluminium-coloured craft with two small figures in white
-    coveralls beside it
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fdf2b279-9840-4d7d-bd1c-1c87eef52c56
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fdf2b279-9840-4d7d-bd1c-1c87eef52c56
+- text: A shiny, aluminium-coloured craft with two small figures in white coveralls
+    was found in a dry creek bed.
   source: In Plain Sight
   location: ch10:7902-8036
   quote: He came across a shiny whitish aluminium-coloured craft landed in a dry creek
@@ -128,8 +137,8 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-22345138-7b2c-4255-ab8f-adbce8d1ed23
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-22345138-7b2c-4255-ab8f-adbce8d1ed23
-- text: The oval object rose off the ground and Zamora noticed red lettering on its
-    side
+- text: The object rose off the ground as Zamora approached, showing red lettering
+    on its side.
   source: In Plain Sight
   location: ch10:8047-8155
   quote: As he began approaching, the oval-shaped object rose off the ground; he noticed
@@ -140,8 +149,29 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ed20fb76-7386-4f0b-b88e-c3a576f0ff90
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ed20fb76-7386-4f0b-b88e-c3a576f0ff90
-- text: Independent witnesses confirmed seeing an egg-shaped craft or bluish flame
-    near Socorro at about the same time
+- text: Zamora was the main witness at the Socorro landing site.
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch4:17963-18030
+  quote: The man standing at the left is the main witness, patrolman Lonnie Zamora.
+  claim_id: 8f86b4ae-a001-44f0-8295-3f9a18924057
+  claim_fingerprint: 0fc796e7b67997f21555d139c7ec535e4613796e75700e664807441b00c08699
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  copyright_status: restricted
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8f86b4ae-a001-44f0-8295-3f9a18924057
+  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-8f86b4ae-a001-44f0-8295-3f9a18924057
+- text: Ground indentations and charred bushes were found at the landing site.
+  source: In Plain Sight
+  location: ch10:8161-8244
+  quote: Indentations and charred bushes were later found on the ground where the
+    craft had landed
+  claim_id: 5743ccc0-8238-40eb-b45b-1d0e55c76621
+  claim_fingerprint: f6254604d80bed35879661c1fe97dcb65d75ede2343c0cb009e7fa96af22f207
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  copyright_status: restricted
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5743ccc0-8238-40eb-b45b-1d0e55c76621
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5743ccc0-8238-40eb-b45b-1d0e55c76621
+- text: Independent witnesses reported an egg-shaped craft or bluish flame around
+    the same time.
   source: In Plain Sight
   location: ch10:8256-8354
   quote: independent witnesses confirmed seeing an egg-shaped craft or bluish flame
@@ -152,75 +182,8 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-44e33e46-e8db-46f4-8c17-168b44e8ac63
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-44e33e46-e8db-46f4-8c17-168b44e8ac63
-- text: The object was seen or heard by about 13 different people
-  source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
-    Interview, 1987)
-  location: 00:41:25.7-00:41:28.1
-  quote: It was seen or heard by about 13 different people.
-  claim_id: 5ccc407f-623b-4315-900d-a3be7baba4c5
-  claim_fingerprint: 17565f2512c87992c8e580378e5f39286803adb37b180903035d2504f46c5536
-  record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  copyright_status: publicly_accessible
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-5ccc407f-623b-4315-900d-a3be7baba4c5
-- text: A policeman got within about 4.6 metres before the object made noises and
-    a blue plasma-like flame emerged
-  source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
-    Interview, 1987)
-  location: 00:41:28.8-00:41:36.3
-  quote: One policeman actually got within 15 feet of it before it started to make
-    noises, and sort of a blue plasma-like flame came out of the bottom.
-  claim_id: 779aa813-009a-4782-994d-6e773d04f39f
-  claim_fingerprint: 3ee29746eac9fe5e9e23c323c7f852c2944f9c6883315a2bea37d3d3d82301a2
-  record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  copyright_status: publicly_accessible
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-779aa813-009a-4782-994d-6e773d04f39f
-- text: The policeman retreated about 15 metres and dove to the ground
-  source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
-    Interview, 1987)
-  location: 00:41:36.5-00:41:38.8
-  quote: And he had to retreat about 50 feet and dove to the ground.
-  claim_id: 0fea5b66-4f75-4d96-b0b0-7a87f4c05b85
-  claim_fingerprint: 890287acce98257e03a228309736ee8bf5053e344f468ec33d591e44f2a38024
-  record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  copyright_status: publicly_accessible
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-0fea5b66-4f75-4d96-b0b0-7a87f4c05b85
-- text: The policeman watched the object take off slowly with blue plasma rising until
-    out of sight
-  source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
-    Interview, 1987)
-  location: 00:41:39.1-00:41:47.6
-  quote: But he watched it slowly take off. He watched the blue plasma just go up
-    like that out of sight until it was just sitting there.
-  claim_id: 7291ae4b-580a-4ebe-b130-5bd5ab690e7b
-  claim_fingerprint: caa0a0cbeb445691534b4575dab8c4e627b055a39244e65ff18191a4d3e1d4ac
-  record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  copyright_status: publicly_accessible
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-7291ae4b-580a-4ebe-b130-5bd5ab690e7b
-- text: The object emitted a high-pitched whine, then a low-pitched whine, then no
-    noise
-  source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
-    Interview, 1987)
-  location: 00:41:47.8-00:41:50.9
-  quote: And then it was a high-pitched whine, a low-pitched whine, and it just sat
-    there, no noise at all.
-  claim_id: 26dcfe0c-d630-4c6f-97ec-03cfbc5027d7
-  claim_fingerprint: c24878b458235dabc385bbd8432f5385a413abece69ca1657989a314f8cab260
-  record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  copyright_status: publicly_accessible
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-26dcfe0c-d630-4c6f-97ec-03cfbc5027d7
-- text: The policeman's radio would not work until the object was out of sight
-  source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
-    Interview, 1987)
-  location: 00:41:53.9-00:41:58.3
-  quote: and he went to try the radio for help and his radio wouldn't work until the
-    object was out of sight.
-  claim_id: 703ce5e9-6db6-4ad5-9b17-26095b3dcc4c
-  claim_fingerprint: 8555a2393e2251e31d93bbd1dd03877fc2b6ebedec162d6e62011d45005b3d75
-  record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  copyright_status: publicly_accessible
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-703ce5e9-6db6-4ad5-9b17-26095b3dcc4c
-- text: Physical evidence included ground indentations, scorched areas, still-burning
-    greasewood, and a melted, calcined bottle
+- text: Fowler said the site showed scorched areas, still-burning greasewood and a
+    melted, calcined bottle.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
     Interview, 1987)
   location: 00:41:59.2-00:42:10.7
@@ -232,19 +195,8 @@ references:
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-a9007506-2583-4949-ab67-b567a898397f
-- text: Indentations and charred bushes were later found where the craft had landed
-  source: In Plain Sight
-  location: ch10:8161-8244
-  quote: Indentations and charred bushes were later found on the ground where the
-    craft had landed
-  claim_id: 5743ccc0-8238-40eb-b45b-1d0e55c76621
-  claim_fingerprint: f6254604d80bed35879661c1fe97dcb65d75ede2343c0cb009e7fa96af22f207
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5743ccc0-8238-40eb-b45b-1d0e55c76621
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5743ccc0-8238-40eb-b45b-1d0e55c76621
-- text: Kirtland Air Force Base investigators measured radioactivity at the site where
-    a bush had been burned
+- text: Kirtland Air Force Base investigators measured radioactivity at the burned
+    site.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch4:17794-17957
   quote: Here investigators from Kirtland Air Force Base in New Mexico are measuring
@@ -256,18 +208,7 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-79a163f3-c8a5-4b26-86ce-4385682bcd0a
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-79a163f3-c8a5-4b26-86ce-4385682bcd0a
-- text: William Powers, an Air Force astronomer, helped investigate the landing
-  source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
-    Interview, 1987)
-  location: 00:41:04.3-00:41:09.4
-  quote: we found out from Dr. William Powers, who was an Air Force astronomer who
-    helped investigate that case
-  claim_id: 4cd77f04-84e4-4ab0-9a9d-30de95b1737f
-  claim_fingerprint: 20be76be55d3571764b0b61a6b998186243311f017cae619c8a499c570e3838d
-  record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  copyright_status: publicly_accessible
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-4cd77f04-84e4-4ab0-9a9d-30de95b1737f
-- text: A ton of weight sat on each pad mark, measured with a penetrometer
+- text: Fowler said a ton of weight was measured on each pad mark with a penetrometer.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
     Interview, 1987)
   location: 00:41:09.7-00:41:16.6
@@ -278,8 +219,7 @@ references:
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-bfb56d18-983d-4036-92b1-a55a01db2e7b
-- text: The centre of gravity within the landing gear was directly over burn number
-    one
+- text: Fowler said the landing gear's centre of gravity lay over the first burn mark.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
     Interview, 1987)
   location: 00:41:17.4-00:41:23.5
@@ -290,7 +230,18 @@ references:
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-44c22bdc-da5c-4a1a-ad1c-406d954a984b
-- text: The USAF investigated the encounter
+- text: William Powers, a USAF astronomer, helped investigate the landing.
+  source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
+    Interview, 1987)
+  location: 00:41:04.3-00:41:09.4
+  quote: we found out from Dr. William Powers, who was an Air Force astronomer who
+    helped investigate that case
+  claim_id: 4cd77f04-84e4-4ab0-9a9d-30de95b1737f
+  claim_fingerprint: 20be76be55d3571764b0b61a6b998186243311f017cae619c8a499c570e3838d
+  record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-4cd77f04-84e4-4ab0-9a9d-30de95b1737f
+- text: The USAF investigated the encounter.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:3285-3293
   quote: The Air Force.
@@ -300,7 +251,7 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0c28bec3-ea4b-46a7-bb2c-b7a33d9e1810
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0c28bec3-ea4b-46a7-bb2c-b7a33d9e1810
-- text: The United States Army investigated the encounter
+- text: The US Army investigated the encounter.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:140-147
   quote: The US Army.
@@ -310,7 +261,7 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-50728311-7d99-417e-9fde-91d15f81b7fb
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-50728311-7d99-417e-9fde-91d15f81b7fb
-- text: The FBI investigated the encounter
+- text: The FBI investigated the encounter.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:22897-23016
   quote: The Zamora case attracted a plethora of investigators. Local law enforcement,
@@ -321,7 +272,7 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1a16ce6e-b476-4bb6-9b86-c5de8491bb5a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1a16ce6e-b476-4bb6-9b86-c5de8491bb5a
-- text: J. Allen Hynek visited Socorro to investigate
+- text: J. Allen Hynek travelled to Socorro to investigate.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:23023-23043
   quote: Dr. J. Allen Hynek... visited the region.
@@ -331,54 +282,72 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-32065d35-6634-41eb-b9d2-d3ccc13850a6
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-32065d35-6634-41eb-b9d2-d3ccc13850a6
-- text: The story appeared in newspapers and on radio and television nationally within
-    days
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:24115-24252
-  quote: In the days that followed Zamora's encounter, the story appeared in newspapers
-    and radio and television broadcasts throughout the United States.
-  claim_id: 35d1d6b2-11b6-4f66-b3b4-78fd168a14ec
-  claim_fingerprint: 1426fda9dcc45a099049b17e05d1e92f83c621f1ed10ab4e5aedaa303f41dee9
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-35d1d6b2-11b6-4f66-b3b4-78fd168a14ec
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-35d1d6b2-11b6-4f66-b3b4-78fd168a14ec
-- text: Zamora never tried to profit from the encounter and did not seek media attention
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:24260-24335
-  quote: Zamora never tried to profit from his encounter, nor did he seek out media
-    attention.
-  claim_id: b13d053a-6f49-4340-a6ba-1d7161afb49f
-  claim_fingerprint: a4942a6cf0a42a7d559a1301c18a8eb2204acdf1e96a68bb5ef6ef35ea6b5e81
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b13d053a-6f49-4340-a6ba-1d7161afb49f
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b13d053a-6f49-4340-a6ba-1d7161afb49f
-- text: Zamora first asked to be left alone with a priest before reporting the sighting
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch13:9979-10045
-  quote: Although he did report it, he first asked to be left alone with a priest!
-  claim_id: a8207411-7256-4060-944f-d981009dbde4
-  claim_fingerprint: ef9f7708f32183f70c7a873b790a85292bff86d2cfe3ba44df32ef468e697b30
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a8207411-7256-4060-944f-d981009dbde4
-  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-a8207411-7256-4060-944f-d981009dbde4
-- text: A highway patrolman saw a white object and two small occupants
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch13:9789-9968
-  quote: An example of a sighting in category 5 which has received a great deal of
-    publicity is the 1964 Socorro case, in which a highway patrolman saw a white object
-    and two rather small occupants.
-  claim_id: 7af2ddb4-bd06-450d-aa8f-396ddae6ba13
-  claim_fingerprint: 84f445e1527663669eba4ef44b78a38ef61d8a1165338ac62c790b1dfb7dd344
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7af2ddb4-bd06-450d-aa8f-396ddae6ba13
-  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-7af2ddb4-bd06-450d-aa8f-396ddae6ba13
-- text: Zamora observed two figures dressed in white uniforms near the object
+- text: The object was seen or heard by about 13 people.
+  source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
+    Interview, 1987)
+  location: 00:41:25.7-00:41:28.1
+  quote: It was seen or heard by about 13 different people.
+  claim_id: 5ccc407f-623b-4315-900d-a3be7baba4c5
+  claim_fingerprint: 17565f2512c87992c8e580378e5f39286803adb37b180903035d2504f46c5536
+  record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-5ccc407f-623b-4315-900d-a3be7baba4c5
+- text: A policeman got within about 4.6 metres before a blue plasma-like flame emerged.
+  source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
+    Interview, 1987)
+  location: 00:41:28.8-00:41:36.3
+  quote: One policeman actually got within 15 feet of it before it started to make
+    noises, and sort of a blue plasma-like flame came out of the bottom.
+  claim_id: 779aa813-009a-4782-994d-6e773d04f39f
+  claim_fingerprint: 3ee29746eac9fe5e9e23c323c7f852c2944f9c6883315a2bea37d3d3d82301a2
+  record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-779aa813-009a-4782-994d-6e773d04f39f
+- text: The policeman retreated about 15 metres and dropped to the ground.
+  source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
+    Interview, 1987)
+  location: 00:41:36.5-00:41:38.8
+  quote: And he had to retreat about 50 feet and dove to the ground.
+  claim_id: 0fea5b66-4f75-4d96-b0b0-7a87f4c05b85
+  claim_fingerprint: 890287acce98257e03a228309736ee8bf5053e344f468ec33d591e44f2a38024
+  record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-0fea5b66-4f75-4d96-b0b0-7a87f4c05b85
+- text: He watched the object climb away slowly with rising blue plasma.
+  source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
+    Interview, 1987)
+  location: 00:41:39.1-00:41:47.6
+  quote: But he watched it slowly take off. He watched the blue plasma just go up
+    like that out of sight until it was just sitting there.
+  claim_id: 7291ae4b-580a-4ebe-b130-5bd5ab690e7b
+  claim_fingerprint: caa0a0cbeb445691534b4575dab8c4e627b055a39244e65ff18191a4d3e1d4ac
+  record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-7291ae4b-580a-4ebe-b130-5bd5ab690e7b
+- text: The object emitted a high-pitched whine, then a low-pitched whine, then fell
+    silent.
+  source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
+    Interview, 1987)
+  location: 00:41:47.8-00:41:50.9
+  quote: And then it was a high-pitched whine, a low-pitched whine, and it just sat
+    there, no noise at all.
+  claim_id: 26dcfe0c-d630-4c6f-97ec-03cfbc5027d7
+  claim_fingerprint: c24878b458235dabc385bbd8432f5385a413abece69ca1657989a314f8cab260
+  record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-26dcfe0c-d630-4c6f-97ec-03cfbc5027d7
+- text: His radio would not work until the object was out of sight.
+  source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
+    Interview, 1987)
+  location: 00:41:53.9-00:41:58.3
+  quote: and he went to try the radio for help and his radio wouldn't work until the
+    object was out of sight.
+  claim_id: 703ce5e9-6db6-4ad5-9b17-26095b3dcc4c
+  claim_fingerprint: 8555a2393e2251e31d93bbd1dd03877fc2b6ebedec162d6e62011d45005b3d75
+  record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-703ce5e9-6db6-4ad5-9b17-26095b3dcc4c
+- text: Zamora saw two figures in white uniforms near the object.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:21958-22024
   quote: That's when Zamora observed two figures dressed in white uniforms nearby.
@@ -388,7 +357,7 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bb349617-191d-4c6c-b51f-efd9e90de347
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bb349617-191d-4c6c-b51f-efd9e90de347
-- text: The two figures dashed aboard the object when they saw Zamora
+- text: The two figures dashed aboard the object when they noticed Zamora.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:22032-22074
   quote: Seeing Zamora, the pair dashed aboard the vessel.
@@ -398,8 +367,7 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-35f24cf3-2169-40e8-9fc1-0dbba530f2ab
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-35f24cf3-2169-40e8-9fc1-0dbba530f2ab
-- text: The object had no visible means of propulsion but rose with a roar, spewing
-    blue-orange flames and leaving scorched vegetation
+- text: The object rose with a roar, spewing blue-orange flames and scorching vegetation.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:22082-22265
   quote: Outwardly the craft had no visible means of propulsion, but it nevertheless
@@ -411,33 +379,41 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9256beb2-c92f-4f5c-9040-569e847aa75c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9256beb2-c92f-4f5c-9040-569e847aa75c
-- text: Other witnesses reported an egg-shaped object streaking across the landscape
-    before or after the encounter
+- text: Elizondo wrote that the craft took off with a loud roar and a blast of blue
+    flame.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:23549-23630
-  quote: Motorists saw an "egg" streak across the landscape just before or after Zamora's
-    encounter.
-  claim_id: 7ed0baa9-04da-4ba9-acc6-402500728983
-  claim_fingerprint: e8894f43fce2dbaf12b8e11c1091753eec4967be9349e7914ca55718d977339d
+  location: ch25:3694-3804
+  quote: When the egg-shaped craft took off from the desert floor, it had done so
+    with a huge roar and a blast of blue flame.
+  claim_id: 621cbaaa-a666-48a2-8476-f93d43854587
+  claim_fingerprint: d6ba137abe2ea83b2b34cc7c1d340b01bde34b6a6511aa3548446b48e5e8fbc5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7ed0baa9-04da-4ba9-acc6-402500728983
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7ed0baa9-04da-4ba9-acc6-402500728983
-- text: A witness reported a butane-tank-like object landing on his family's property,
-    frightening the horses
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-621cbaaa-a666-48a2-8476-f93d43854587
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-621cbaaa-a666-48a2-8476-f93d43854587
+- text: Elizondo wrote that Zamora ran up a ravine, fearing the craft might explode.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:23699-23955
-  quote: Another witness in a nearby town reported seeing a bizarre object in the
-    dead of night that frightened his family's horses. The object, described as a
-    white butane tank, landed on the family's property, then streaked away shortly
-    after.
-  claim_id: 1fea86e5-585b-44f0-98fa-b171fca7dca3
-  claim_fingerprint: 36ccd51c2b278f32ccadda58389685eacda6132b2bf9bd852e121e9fa5e45b4a
+  location: ch25:3811-3904
+  quote: It was so loud Zamora ran furiously up the ravine to escape, fearful that
+    the aircraft might explode.
+  claim_id: 84f32bbb-0f5c-4d2f-9483-ba57240ef0b9
+  claim_fingerprint: 2e4c047d0548516a1e9aedce45cbd9f94b7a5b2f38ca6c0698868a039f9bddd6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1fea86e5-585b-44f0-98fa-b171fca7dca3
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1fea86e5-585b-44f0-98fa-b171fca7dca3
-- text: Zamora saw an egg-shaped object with markings or insignia on its side
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-84f32bbb-0f5c-4d2f-9483-ba57240ef0b9
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-84f32bbb-0f5c-4d2f-9483-ba57240ef0b9
+- text: Elizondo wrote that the craft flew away silently after reaching height.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch25:3913-4024
+  quote: Then, as soon as the craft reached a certain height above the ground, it
+    flew away *silently*.
+  claim_id: 14420594-8506-4f5d-833f-9ea6daed0c03
+  claim_fingerprint: d9b08d5d47034c68d5959ce88b90e33d617b57f0ba38e2256fae91fe6740a09b
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  copyright_status: restricted
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-14420594-8506-4f5d-833f-9ea6daed0c03
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-14420594-8506-4f5d-833f-9ea6daed0c03
+- text: Zamora saw markings or an insignia on the object's side.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch13:102-257
   quote: When Lonnie Zamora peered into that arroyo in Socorro, New Mexico, back in
@@ -449,20 +425,9 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-aa8af8a0-9b62-45c5-87af-8e718ec4eb5e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-aa8af8a0-9b62-45c5-87af-8e718ec4eb5e
-- text: The USAF warned Zamora not to share knowledge of the markings with civilians
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch13:263-363
-  quote: He was strictly warned by the Air Force not to share that knowledge with
-    civilians, and he kept his word.
-  claim_id: 10d5c854-b36d-4cdc-bb5c-9ba70a1a4490
-  claim_fingerprint: adb5ef867745404226adc2a11054dcb9f4d128e5a9108465354f12071b3c434a
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10d5c854-b36d-4cdc-bb5c-9ba70a1a4490
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-10d5c854-b36d-4cdc-bb5c-9ba70a1a4490
-- text: Zamora described a red sign, a vertical arrow with a horizontal bar underneath,
-    for which no explanation was ever found
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+- text: Vallée wrote that Zamora saw a red sign, an arrow over a bar, unexplained
+    at the time.
+  source: 'The Invisible College: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch12:31464-31620
   quote: On the side of this craft he had seen a peculiar red sign, a sort of vertical
@@ -474,8 +439,9 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-51b66edd-2a1d-4060-ba60-0ac2781877fa
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-51b66edd-2a1d-4060-ba60-0ac2781877fa
-- text: Zamora saw an egg-shaped object with two small men near it
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+- text: Vallée wrote that Zamora saw an egg-shaped object with two small men near
+    it.
+  source: 'The Invisible College: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch12:31329-31460
   quote: At Socorro, New Mexico, in 1964, officer Lonnie Zamora had seen an egg-shaped
@@ -486,9 +452,21 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-693b0919-3b9e-4f63-9e70-9014cbd53e81
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-693b0919-3b9e-4f63-9e70-9014cbd53e81
-- text: A friend of Vallée at Stanford matched the symbol to a medieval Arabic sign
-    for Venus
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+- text: The object bore a representation of the Arabic astrological sign for Venus.
+  source: 'The Invisible College: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch14:16416-16505
+  quote: as in the representation of the Arabic astrological sign for Venus on the
+    object seen at Socorro
+  claim_id: aff7a0e5-c603-4d1a-a145-0afd0f262bb3
+  claim_fingerprint: 1152349e9aaf754dc94bc70a96822db81a4978bea13764315033764b9ad9d227
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  copyright_status: restricted
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-aff7a0e5-c603-4d1a-a145-0afd0f262bb3
+  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-aff7a0e5-c603-4d1a-a145-0afd0f262bb3
+- text: A Stanford friend of Vallée's matched the symbol to a medieval Arabic sign
+    for Venus.
+  source: 'The Invisible College: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch12:31759-32086
   quote: 'He had been intrigued by my description of the Socorro symbol. It reminded
@@ -502,76 +480,113 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9ae717f4-c126-43a8-8df8-c4a04b965fe8
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-9ae717f4-c126-43a8-8df8-c4a04b965fe8
-- text: The sighting involved an object bearing the Arabic astrological sign for Venus
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+- text: The USAF warned Zamora not to share knowledge of the markings with civilians.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch13:263-363
+  quote: He was strictly warned by the Air Force not to share that knowledge with
+    civilians, and he kept his word.
+  claim_id: 10d5c854-b36d-4cdc-bb5c-9ba70a1a4490
+  claim_fingerprint: adb5ef867745404226adc2a11054dcb9f4d128e5a9108465354f12071b3c434a
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  copyright_status: restricted
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10d5c854-b36d-4cdc-bb5c-9ba70a1a4490
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-10d5c854-b36d-4cdc-bb5c-9ba70a1a4490
+- text: Zamora said a highway patrolman also saw a white object with two small occupants.
+  source: 'The Invisible College: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
-  location: ch14:16416-16505
-  quote: as in the representation of the Arabic astrological sign for Venus on the
-    object seen at Socorro
-  claim_id: aff7a0e5-c603-4d1a-a145-0afd0f262bb3
-  claim_fingerprint: 1152349e9aaf754dc94bc70a96822db81a4978bea13764315033764b9ad9d227
+  location: ch13:9789-9968
+  quote: An example of a sighting in category 5 which has received a great deal of
+    publicity is the 1964 Socorro case, in which a highway patrolman saw a white object
+    and two rather small occupants.
+  claim_id: 7af2ddb4-bd06-450d-aa8f-396ddae6ba13
+  claim_fingerprint: 84f445e1527663669eba4ef44b78a38ef61d8a1165338ac62c790b1dfb7dd344
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-aff7a0e5-c603-4d1a-a145-0afd0f262bb3
-  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-aff7a0e5-c603-4d1a-a145-0afd0f262bb3
-- text: Zamora witnessed the craft take off with a loud roar and a blast of blue flame
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7af2ddb4-bd06-450d-aa8f-396ddae6ba13
+  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-7af2ddb4-bd06-450d-aa8f-396ddae6ba13
+- text: Zamora asked to be left alone with a priest before reporting the sighting.
+  source: 'The Invisible College: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch13:9979-10045
+  quote: Although he did report it, he first asked to be left alone with a priest!
+  claim_id: a8207411-7256-4060-944f-d981009dbde4
+  claim_fingerprint: ef9f7708f32183f70c7a873b790a85292bff86d2cfe3ba44df32ef468e697b30
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  copyright_status: restricted
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a8207411-7256-4060-944f-d981009dbde4
+  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-a8207411-7256-4060-944f-d981009dbde4
+- text: Other witnesses reported an egg-shaped object streaking across the landscape.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch25:3694-3804
-  quote: When the egg-shaped craft took off from the desert floor, it had done so
-    with a huge roar and a blast of blue flame.
-  claim_id: 621cbaaa-a666-48a2-8476-f93d43854587
-  claim_fingerprint: d6ba137abe2ea83b2b34cc7c1d340b01bde34b6a6511aa3548446b48e5e8fbc5
+  location: ch12:23549-23630
+  quote: Motorists saw an "egg" streak across the landscape just before or after Zamora's
+    encounter.
+  claim_id: 7ed0baa9-04da-4ba9-acc6-402500728983
+  claim_fingerprint: e8894f43fce2dbaf12b8e11c1091753eec4967be9349e7914ca55718d977339d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-621cbaaa-a666-48a2-8476-f93d43854587
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-621cbaaa-a666-48a2-8476-f93d43854587
-- text: Zamora ran up a ravine to escape, fearing the craft might explode
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7ed0baa9-04da-4ba9-acc6-402500728983
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7ed0baa9-04da-4ba9-acc6-402500728983
+- text: A nearby witness described a butane-tank-like object landing and frightening
+    horses.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch25:3811-3904
-  quote: It was so loud Zamora ran furiously up the ravine to escape, fearful that
-    the aircraft might explode.
-  claim_id: 84f32bbb-0f5c-4d2f-9483-ba57240ef0b9
-  claim_fingerprint: 2e4c047d0548516a1e9aedce45cbd9f94b7a5b2f38ca6c0698868a039f9bddd6
+  location: ch12:23699-23955
+  quote: Another witness in a nearby town reported seeing a bizarre object in the
+    dead of night that frightened his family's horses. The object, described as a
+    white butane tank, landed on the family's property, then streaked away shortly
+    after.
+  claim_id: 1fea86e5-585b-44f0-98fa-b171fca7dca3
+  claim_fingerprint: 36ccd51c2b278f32ccadda58389685eacda6132b2bf9bd852e121e9fa5e45b4a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-84f32bbb-0f5c-4d2f-9483-ba57240ef0b9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-84f32bbb-0f5c-4d2f-9483-ba57240ef0b9
-- text: The craft flew away silently after reaching a certain height
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1fea86e5-585b-44f0-98fa-b171fca7dca3
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1fea86e5-585b-44f0-98fa-b171fca7dca3
+- text: The story appeared in newspapers, radio and television across the United States.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch25:3913-4024
-  quote: Then, as soon as the craft reached a certain height above the ground, it
-    flew away *silently*.
-  claim_id: 14420594-8506-4f5d-833f-9ea6daed0c03
-  claim_fingerprint: d9b08d5d47034c68d5959ce88b90e33d617b57f0ba38e2256fae91fe6740a09b
+  location: ch12:24115-24252
+  quote: In the days that followed Zamora's encounter, the story appeared in newspapers
+    and radio and television broadcasts throughout the United States.
+  claim_id: 35d1d6b2-11b6-4f66-b3b4-78fd168a14ec
+  claim_fingerprint: 1426fda9dcc45a099049b17e05d1e92f83c621f1ed10ab4e5aedaa303f41dee9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-14420594-8506-4f5d-833f-9ea6daed0c03
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-14420594-8506-4f5d-833f-9ea6daed0c03
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-35d1d6b2-11b6-4f66-b3b4-78fd168a14ec
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-35d1d6b2-11b6-4f66-b3b4-78fd168a14ec
+- text: Zamora never tried to profit from the encounter or seek media attention.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch12:24260-24335
+  quote: Zamora never tried to profit from his encounter, nor did he seek out media
+    attention.
+  claim_id: b13d053a-6f49-4340-a6ba-1d7161afb49f
+  claim_fingerprint: a4942a6cf0a42a7d559a1301c18a8eb2204acdf1e96a68bb5ef6ef35ea6b5e81
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  copyright_status: restricted
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b13d053a-6f49-4340-a6ba-1d7161afb49f
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b13d053a-6f49-4340-a6ba-1d7161afb49f
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: de8faafc6aedeb94950354f5c59b36bee9946dc79d342d9b4a8e09bcb7b62c90
+  prompt_sha256: 3adb533916f8973a6ade105bbee1785313236724eec666c999415e32247bb3ea
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 75221
-    output: 43459
+    input: 75525
+    output: 28589
     real_input: 2
-    cache_read: 0
-    cache_write: 75219
+    cache_read: 41176
+    cache_write: 34347
     calls: 0
-  body_sha256: bea44a7dd77696ffbc8a45fb12e128c64b7fca5c3732c40a28ce99596d2f1de6
+  body_sha256: dfff451c0c5164eb04835262c42cc268223461d4aac5875a98d705f7a806d7a5
 ---
 
-The 1964 Socorro UAP encounter is one of the more extensively documented early cases of its kind, combining a named police witness, physical traces at the scene, and investigation by several branches of the US government. According to In Plain Sight, on 24 April 1964 [Lonnie Zamora](/people/lonnie-zamora), a police officer in [New Mexico Socorro](/places/new-mexico-socorro-usa), saw a flaming object in the sky nearby and turned aside to investigate.<sup>1</sup> Zamora was the case's principal witness.<sup>2</sup> The same source describes him coming across a shiny, whitish, aluminium-coloured craft standing in a dry creek bed, with two small figures in white coveralls standing beside it.<sup>3</sup> As he approached on foot, the oval-shaped object lifted off the ground, and he noticed that it carried red lettering on its side.<sup>4</sup> Independent witnesses elsewhere in the area separately reported seeing an egg-shaped craft, or a bluish flame, at around the same time as Zamora's sighting.<sup>5</sup>
+On 24 April 1964, according to In Plain Sight, police officer [Lonnie Zamora](/people/lonnie-zamora) was pursuing a speeding car through the desert near [New Mexico Socorro](/places/new-mexico-socorro-usa) when he broke off after seeing a flaming object in the sky and went to investigate.<sup>1</sup> Zamora later recalled coming upon an egg- or Tic Tac-shaped object with a metallic white surface and spindly white landing gear standing in a nearby arroyo.<sup>2</sup> The same published account describes a shiny, whitish, aluminium-coloured craft resting in a dry creek bed, with two small figures in white coveralls standing beside it,<sup>3</sup> which rose off the ground as Zamora approached, its side marked with red lettering.<sup>4</sup> Zamora was the principal witness at the landing site.<sup>5</sup>
 
-A more detailed reconstruction of the close encounter itself describes the object as having been seen or heard by about thirteen people in the surrounding area.<sup>6</sup> As Zamora approached on foot, he came to within about 4.6 metres of the craft before it began making noises, at which point a blue, plasma-like flame emerged from its underside.<sup>7</sup> He retreated a further 15 metres and dropped to the ground.<sup>8</sup> From there he watched the object climb away slowly, the blue plasma still rising beneath it, until it passed out of sight altogether.<sup>9</sup> During the encounter the craft produced a high-pitched whine followed by a lower-pitched whine, before falling completely silent.<sup>10</sup> Zamora's police radio, meanwhile, would not function again until the object had gone.<sup>11</sup>
+Ground indentations and charred bushes were later found at the site,<sup>6</sup> and independent witnesses in the area reported seeing an egg-shaped craft or a bluish flame at around the same time as Zamora's sighting.<sup>7</sup> Raymond E. Fowler, who investigated the case, said the ground marks were accompanied by scorched areas, still-burning greasewood and a melted, calcined bottle.<sup>8</sup> Investigators from Kirtland Air Force Base measured radioactivity at the site in April 1964, where a bush had been burned.<sup>9</sup> Fowler also said investigators found a ton of weight on each landing-gear pad mark, measured with a penetrometer,<sup>10</sup> and that the centre of gravity implied by the object's quadruped landing gear lay directly over the first burn mark.<sup>11</sup>
 
-In the aftermath, investigators documented physical evidence at the site, including ground indentations, scorched areas, still-burning greasewood, and a melted, calcined bottle,<sup>12</sup> alongside separate indentations and charred bushes marking the spot where the craft appeared to have rested.<sup>13</sup> Investigators from Kirtland Air Force Base, in New Mexico, measured radioactivity at the site in April 1964, at a location where a bush had been burned.<sup>14</sup> [William T. Powers](/people/william-t-powers), an Air Force astronomer, was among those who helped investigate the landing.<sup>15</sup> Raymond E. Fowler said that investigators found a ton of weight sitting on each of the landing pad marks, as measured with a penetrometer,<sup>16</sup> and that the centre of gravity within the craft's quadruped landing gear lay directly over what was designated burn number one.<sup>17</sup>
+[William T. Powers](/people/william-t-powers), a [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) astronomer, helped investigate the landing,<sup>12</sup> and the USAF itself investigated the encounter,<sup>13</sup> as did the [United States Army](/organisations/united-states-army)<sup>14</sup> and the [Federal Bureau of Investigation (FBI)](/organisations/federal-bureau-of-investigation-fbi).<sup>15</sup> [J. Allen Hynek](/people/j-allen-hynek) also travelled to Socorro to investigate.<sup>16</sup> The object was seen or heard by around 13 people in total.<sup>17</sup> A policeman approached to within about 4.6 metres of the object before it began making noises and a blue plasma-like flame emerged from its underside,<sup>18</sup> at which point he retreated about 15 metres and dropped to the ground.<sup>19</sup> He then watched the object climb away slowly, the blue plasma rising with it until it passed out of sight;<sup>20</sup> it emitted a high-pitched whine followed by a low-pitched whine before falling silent,<sup>21</sup> and his police radio would not work again until the object was gone.<sup>22</sup>
 
-The case drew investigation from several branches of the US government. The [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) investigated the encounter,<sup>18</sup> as did the [United States Army](/organisations/united-states-army)<sup>19</sup> and the [Federal Bureau of Investigation (FBI)](/organisations/federal-bureau-of-investigation-fbi).<sup>20</sup> [J. Allen Hynek](/people/j-allen-hynek) also travelled to Socorro to investigate the case in person.<sup>21</sup> Within days, the story had appeared in newspapers and on radio and television broadcasts across the United States.<sup>22</sup> Despite the level of attention, Zamora did not seek out media coverage and never tried to profit from the encounter.<sup>23</sup> He later said that, before reporting the sighting to the authorities, he had first asked to be left alone with a priest.<sup>24</sup>
+Zamora also recalled seeing two figures dressed in white uniforms standing near the object,<sup>23</sup> who dashed aboard it as soon as they noticed him.<sup>24</sup> He said the object showed no visible means of propulsion but rose from the ground with a roar, spewing blue-orange flames and scorching the vegetation beneath it.<sup>25</sup> Luis Elizondo has written that the craft took off from the desert floor with a loud roar and a blast of blue flame,<sup>26</sup> that Zamora ran up a ravine to escape for fear it might explode,<sup>27</sup> and that once the craft reached a certain height it flew away silently.<sup>28</sup>
 
-Zamora said that a highway patrolman had also seen a white object and two small occupants during the episode.<sup>25</sup> He himself said he had observed two figures dressed in white uniforms standing near the object,<sup>26</sup> and that the pair had dashed aboard it as soon as they noticed him.<sup>27</sup> The object itself had no visible means of propulsion, yet rose from the ground with a roar, spewing blue-orange flames and leaving scorched vegetation behind it.<sup>28</sup> According to Imminent: Inside the Pentagon's Hunt for UFOs, other witnesses in the surrounding region reported seeing an egg-shaped object streak across the landscape either before or after Zamora's encounter,<sup>29</sup> and a further witness in a nearby town reported that a bizarre object resembling a white butane tank had landed on his family's property at night, frightening the family's horses before streaking away again.<sup>30</sup>
+According to Imminent: Inside the Pentagon's Hunt for UFOs, Zamora saw markings or an insignia on the side of the egg-shaped object.<sup>29</sup> [Jacques Vallée](/people/jacques-vallee) wrote that Zamora described a peculiar red sign on the object, a vertical arrow with a horizontal bar underneath, for which no explanation was found at the time,<sup>30</sup> and that Zamora had seen an egg-shaped object with two small men standing near it.<sup>31</sup> The object bore a representation of the Arabic astrological sign for Venus.<sup>32</sup> A friend of Vallée's at Stanford, shown a description of the symbol, matched it to a medieval Arabic text listing signs for the major planets, identifying it as the sign for Venus.<sup>33</sup> The USAF warned Zamora not to share knowledge of the markings with civilians.<sup>34</sup>
 
-The same source states that Zamora also saw markings, or an insignia, on the side of the egg-shaped object,<sup>31</sup> and that the USAF subsequently warned him not to share knowledge of those markings with civilians.<sup>32</sup> [Jacques Vallée](/people/jacques-vallee) said that Zamora had described a peculiar red sign on the object - a vertical arrow with a horizontal bar underneath - for which no explanation was ever found,<sup>33</sup> alongside the egg-shaped object and the two small men he had seen standing in the desert.<sup>34</sup> A friend of Vallée's at Stanford, shown a description of the symbol, found a medieval Arabic text listing symbols for the major planets that unmistakably matched the insignia Zamora had seen, identifying it as the Arabic sign for Venus.<sup>35</sup> The sighting is described as having involved an object bearing the representation of that Arabic astrological sign for Venus.<sup>36</sup> Decades later, in accounts of the Pentagon's UAP investigations, Luis Elizondo said that Zamora had witnessed the craft take off from the desert floor with a loud roar and a blast of blue flame,<sup>37</sup> that Zamora had run up a ravine to escape, fearing the craft might explode,<sup>38</sup> and that, after reaching a certain height, the craft had flown away silently.<sup>39</sup>
+Zamora said that a highway patrolman also saw a white object with two small occupants during the wider episode,<sup>35</sup> and that he himself first asked to be left alone with a priest before agreeing to report the sighting to authorities.<sup>36</sup> According to Imminent: Inside the Pentagon's Hunt for UFOs, other witnesses in the region reported an egg-shaped object streaking across the landscape before or after Zamora's encounter,<sup>37</sup> and one witness in a nearby town described a bizarre object resembling a white butane tank landing on his family's property at night, frightening the family's horses before it streaked away.<sup>38</sup> Within days, the story appeared in newspapers and on radio and television broadcasts across the United States.<sup>39</sup> Zamora himself never tried to profit from the encounter and did not seek out media attention.<sup>40</sup>
