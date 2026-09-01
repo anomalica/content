@@ -78,6 +78,11 @@ related_nodes:
     node_type: document
     slug: discover-magazine
     shared_claims: 1
+  - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
+    title: Gold visors (Apollo helmet visors)
+    node_type: object
+    slug: gold-visors-apollo-helmet-visors
+    shared_claims: 1
   - node_id: 899a5e63-d997-4685-b67f-09dac73fbb20
     title: Oxberry Animation Stand
     node_type: object
@@ -87,11 +92,6 @@ related_nodes:
     title: Westinghouse Field Sequential Color Camera
     node_type: object
     slug: westinghouse-field-sequential-color-camera
-    shared_claims: 1
-  - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
-    title: gold visors (Apollo helmet visors)
-    node_type: object
-    slug: gold-visors-apollo-helmet-visors
     shared_claims: 1
 claims:
   - claim_id: a2c62543-aaec-465d-b912-c65f10186296
@@ -809,7 +809,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
-        title: gold visors (Apollo helmet visors)
+        title: Gold visors (Apollo helmet visors)
         slug: gold-visors-apollo-helmet-visors
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean

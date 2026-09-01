@@ -38,15 +38,15 @@ related_nodes:
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
     shared_claims: 3
+  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+    title: Telepathy
+    node_type: topic
+    slug: telepathy
+    shared_claims: 2
   - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
     title: United States Congress
     node_type: organisation
     slug: united-states-congress
-    shared_claims: 2
-  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-    title: telepathy
-    node_type: topic
-    slug: telepathy
     shared_claims: 2
   - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
     title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
@@ -1120,7 +1120,7 @@ claims:
         title: Reverse engineering of recovered craft of non-human origin
         slug: reverse-engineering-of-recovered-craft-of-non-human-origin
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch
@@ -1161,7 +1161,7 @@ claims:
         title: Reverse engineering of recovered craft of non-human origin
         slug: reverse-engineering-of-recovered-craft-of-non-human-origin
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch

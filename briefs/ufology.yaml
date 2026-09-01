@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
   node_type: topic
-  title: ufology
+  title: Ufology
   slug: ufology
   claim_count: 26
   claim_count_total: 26
@@ -29,7 +29,7 @@ related_nodes:
     slug: unidentified-flying-object-ufo
     shared_claims: 7
   - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
-    title: psychological operations (psyop)
+    title: Psychological operations (psyop)
     node_type: topic
     slug: psychological-operations-psyop-a07cf4c0
     shared_claims: 4
@@ -73,6 +73,11 @@ related_nodes:
     node_type: person
     slug: eric-davis
     shared_claims: 1
+  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+    title: Hypnotic regression
+    node_type: topic
+    slug: hypnotic-regression
+    shared_claims: 1
   - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
     title: Jacques Vallée
     node_type: person
@@ -113,11 +118,6 @@ related_nodes:
     node_type: organisation
     slug: vatican-observatory
     shared_claims: 1
-  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-    title: hypnotic regression
-    node_type: topic
-    slug: hypnotic-regression
-    shared_claims: 1
 claims:
   - claim_id: 3ec14aeb-c155-4b86-bbcb-63a9e8e85438
     claim_hash: 6df30ddc6de663ea306d59a967989313d12c517bd6eadf2060d4095fd4f42ba2
@@ -142,7 +142,7 @@ claims:
         title: Tyler D.
         slug: tyler-d
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -180,7 +180,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -223,7 +223,7 @@ claims:
         title: James Master
         slug: james-master
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -255,7 +255,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -290,7 +290,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -323,10 +323,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -366,7 +366,7 @@ claims:
         title: Rey Hernandez
         slug: rey-hernandez
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -406,7 +406,7 @@ claims:
         title: Rey Hernandez
         slug: rey-hernandez
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -441,7 +441,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -480,7 +480,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -517,7 +517,7 @@ claims:
         title: Brenda Denzler
         slug: brenda-denzler
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -554,7 +554,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -590,7 +590,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -630,7 +630,7 @@ claims:
         title: Massimo Teodorani
         slug: massimo-teodorani
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -664,7 +664,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -698,10 +698,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
-        title: psychological operations (psyop)
+        title: Psychological operations (psyop)
         slug: psychological-operations-psyop-a07cf4c0
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -735,10 +735,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
-        title: psychological operations (psyop)
+        title: Psychological operations (psyop)
         slug: psychological-operations-psyop-a07cf4c0
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -772,7 +772,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -805,10 +805,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
-        title: psychological operations (psyop)
+        title: Psychological operations (psyop)
         slug: psychological-operations-psyop-a07cf4c0
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -846,7 +846,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -878,7 +878,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -912,7 +912,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
       - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
         title: Jason Samosa
@@ -952,7 +952,7 @@ claims:
         title: Vatican
         slug: vatican
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
       - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
         title: Jason Samosa
@@ -999,7 +999,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -1032,7 +1032,7 @@ claims:
         title: Budd Hopkins
         slug: budd-hopkins
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -1068,10 +1068,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
-        title: psychological operations (psyop)
+        title: Psychological operations (psyop)
         slug: psychological-operations-psyop-a07cf4c0
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null

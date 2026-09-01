@@ -33,20 +33,20 @@ related_nodes:
     node_type: organisation
     slug: central-intelligence-agency-cia
     shared_claims: 4
-  - node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
-    title: Jesus
-    node_type: person
-    slug: jesus
-    shared_claims: 4
   - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-    title: crash retrieval and reverse engineering
+    title: Crash retrieval and reverse engineering
     node_type: topic
     slug: crash-retrieval-and-reverse-engineering
     shared_claims: 4
   - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-    title: human-alien hybridization
+    title: Human-alien hybridization
     node_type: topic
     slug: human-alien-hybridization
+    shared_claims: 4
+  - node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
+    title: Jesus
+    node_type: person
+    slug: jesus
     shared_claims: 4
   - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
     title: 2004 USS Nimitz UAP encounter
@@ -83,6 +83,11 @@ related_nodes:
     node_type: event
     slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
     shared_claims: 2
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 2
   - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
     title: Anti-Gravity Propulsion
     node_type: topic
@@ -93,20 +98,40 @@ related_nodes:
     node_type: event
     slug: congress-of-vienna
     shared_claims: 2
+  - node_id: df7d5b8f-fc81-4b9c-9fb1-6a9322ca371a
+    title: Counter-intelligence
+    node_type: topic
+    slug: counter-intelligence
+    shared_claims: 2
   - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
     title: Donald Trump
     node_type: person
     slug: donald-trump
+    shared_claims: 2
+  - node_id: 84a43dea-0183-4bb1-b2d7-c9637920d75f
+    title: Eschatology
+    node_type: topic
+    slug: eschatology
     shared_claims: 2
   - node_id: 0c444899-f412-4dd4-aa47-0d6677ec405c
     title: Henry Kissinger
     node_type: person
     slug: henry-kissinger
     shared_claims: 2
+  - node_id: 68f95b2d-1d61-484e-af08-98d2318b8fd2
+    title: Immanentising the eschaton
+    node_type: topic
+    slug: immanentising-the-eschaton
+    shared_claims: 2
   - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
     title: Jim Semivan
     node_type: person
     slug: jim-semivan
+    shared_claims: 2
+  - node_id: a3e2e1f9-b00a-47e1-80ee-e7ed50c5f9f3
+    title: Katechon
+    node_type: topic
+    slug: katechon
     shared_claims: 2
   - node_id: becc1fa1-610e-446b-bd6b-48ecc083b5c0
     title: Lindy effect
@@ -137,31 +162,6 @@ related_nodes:
     title: Tucker Carlson
     node_type: person
     slug: tucker-carlson
-    shared_claims: 2
-  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
-    node_type: topic
-    slug: alien-abduction
-    shared_claims: 2
-  - node_id: df7d5b8f-fc81-4b9c-9fb1-6a9322ca371a
-    title: counter-intelligence
-    node_type: topic
-    slug: counter-intelligence
-    shared_claims: 2
-  - node_id: 84a43dea-0183-4bb1-b2d7-c9637920d75f
-    title: eschatology
-    node_type: topic
-    slug: eschatology
-    shared_claims: 2
-  - node_id: 68f95b2d-1d61-484e-af08-98d2318b8fd2
-    title: immanentising the eschaton
-    node_type: topic
-    slug: immanentising-the-eschaton
-    shared_claims: 2
-  - node_id: a3e2e1f9-b00a-47e1-80ee-e7ed50c5f9f3
-    title: katechon
-    node_type: topic
-    slug: katechon
     shared_claims: 2
   - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
     title: 1917 Fatima Marian apparitions
@@ -381,7 +381,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -988,7 +988,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -1328,7 +1328,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -1485,7 +1485,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
-        title: cargo cult
+        title: Cargo cult
         slug: cargo-cult
       - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
         title: Tom DeLonge
@@ -1556,7 +1556,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: c7d959e1-cea1-4a13-9d71-0f60e225c007
-        title: r/UFOs subreddit
+        title: R/UFOs subreddit
         slug: rufos-subreddit
     date: null
     date_end: null
@@ -2036,7 +2036,7 @@ claims:
         title: Donald Trump
         slug: donald-trump
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -2316,7 +2316,7 @@ claims:
         title: John Brennan
         slug: john-brennan
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
       - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
         title: James R. Clapper
@@ -2577,7 +2577,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
     date: null
     date_end: null
@@ -2614,7 +2614,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch
@@ -2804,7 +2804,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
     date: null
     date_end: null
@@ -2847,7 +2847,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
     date: null
     date_end: null
@@ -2996,10 +2996,10 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: bd204df6-8fcd-44db-b5dc-371b1d62c6ff
-        title: von Neumann probe
+        title: Von Neumann probe
         slug: von-neumann-probe
     date: null
     date_end: null
@@ -3037,10 +3037,10 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3117,7 +3117,7 @@ claims:
         title: Skywatcher
         slug: skywatcher
       - node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
-        title: unacknowledged special access program (USAP )
+        title: Unacknowledged special access program (USAP)
         slug: unacknowledged-special-access-program-usap
     date: null
     date_end: null
@@ -3190,7 +3190,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
       - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
         title: Bob Lazar
@@ -3263,7 +3263,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown
@@ -3302,7 +3302,7 @@ claims:
         title: 1958 Hartford Connecticut crash retrieval
         slug: 1958-hartford-connecticut-crash-retrieval
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
       - node_id: b23fce4b-dde4-41f9-8e0a-e62575d2de7c
         title: USA, Connecticut, Hartford
@@ -3488,7 +3488,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown
@@ -3772,7 +3772,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -4378,7 +4378,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5155f44f-289f-4f79-b477-0d6d3b188d52
-        title: deep state
+        title: Deep state
         slug: deep-state
       - node_id: 9ba3dd81-7f50-481c-8fd4-ed618d3aee7e
         title: Peter Dale Scott
@@ -4553,7 +4553,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown
@@ -4823,7 +4823,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 18935466-c561-44ee-8d75-5ae35101bc60
-        title: extended electrodynamics
+        title: Extended electrodynamics
         slug: extended-electrodynamics
       - node_id: 604c23f9-70cb-4323-92a6-f733764d303b
         title: Charles Proteus Steinmetz
@@ -4858,7 +4858,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 18935466-c561-44ee-8d75-5ae35101bc60
-        title: extended electrodynamics
+        title: Extended electrodynamics
         slug: extended-electrodynamics
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -5500,7 +5500,7 @@ claims:
         title: Jeffrey Epstein
         slug: jeffrey-epstein
       - node_id: 30c25905-7c45-4757-811a-26c8f348d138
-        title: cold fusion
+        title: Cold fusion
         slug: cold-fusion
       - node_id: 6f1a9022-ceda-40d1-8b85-4bcbf1aad6f9
         title: Martin Fleischmann
@@ -5750,7 +5750,7 @@ claims:
         title: Unit 8200
         slug: unit-8200
       - node_id: 39d27af9-353d-4435-8b6b-d832b82bb4b7
-        title: cyber warfare
+        title: Cyber warfare
         slug: cyber-warfare
     date: null
     date_end: null
@@ -5978,7 +5978,7 @@ claims:
         title: Gaia
         slug: gaia
       - node_id: 92395963-b6b1-4e27-9885-b1dae7b11687
-        title: secret space program
+        title: Secret space program
         slug: secret-space-program
       - node_id: 9bbfb006-0ecd-4d69-b3a3-8f6b01768d5b
         title: Corey Goode
@@ -6017,10 +6017,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
-        title: psychological operations (psyop)
+        title: Psychological operations (psyop)
         slug: psychological-operations-psyop-a07cf4c0
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -6290,13 +6290,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
         title: Going Within
         slug: going-within
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
         title: USA, District of Columbia, Washington
@@ -6335,10 +6335,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -6643,7 +6643,7 @@ claims:
         title: Lone Stars group
         slug: lone-stars-group
       - node_id: 84a43dea-0183-4bb1-b2d7-c9637920d75f
-        title: eschatology
+        title: Eschatology
         slug: eschatology
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -6839,7 +6839,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: a2fde57e-632c-4264-bdf5-8b11ac83f4e5
-        title: materialist reductionism
+        title: Materialist reductionism
         slug: materialist-reductionism
     date: null
     date_end: null
@@ -6876,7 +6876,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -6919,7 +6919,7 @@ claims:
         title: Jim Semivan
         slug: jim-semivan
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -6965,13 +6965,13 @@ claims:
         title: Overton window
         slug: overton-window
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
-        title: psychological operations (psyop)
+        title: Psychological operations (psyop)
         slug: psychological-operations-psyop-a07cf4c0
     date: null
     date_end: null
@@ -7011,7 +7011,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: df7d5b8f-fc81-4b9c-9fb1-6a9322ca371a
-        title: counter-intelligence
+        title: Counter-intelligence
         slug: counter-intelligence
     date: null
     date_end: null
@@ -7356,7 +7356,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: df7d5b8f-fc81-4b9c-9fb1-6a9322ca371a
-        title: counter-intelligence
+        title: Counter-intelligence
         slug: counter-intelligence
       - node_id: e1cdceef-8907-4a0b-858d-ddc28e0dd150
         title: Majestic 12 documents
@@ -7517,7 +7517,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
         title: USA, California, Edwards Air Force Base
@@ -7560,7 +7560,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 907f7e41-b17f-413a-a683-52058e338f54
-        title: non-disclosure agreement (NDA)
+        title: Non-disclosure agreement (NDA)
         slug: non-disclosure-agreement-nda
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -7603,13 +7603,13 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 68f95b2d-1d61-484e-af08-98d2318b8fd2
-        title: immanentising the eschaton
+        title: Immanentising the eschaton
         slug: immanentising-the-eschaton
       - node_id: 84a43dea-0183-4bb1-b2d7-c9637920d75f
-        title: eschatology
+        title: Eschatology
         slug: eschatology
       - node_id: a3e2e1f9-b00a-47e1-80ee-e7ed50c5f9f3
-        title: katechon
+        title: Katechon
         slug: katechon
     date: null
     date_end: null
@@ -7646,10 +7646,10 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 68f95b2d-1d61-484e-af08-98d2318b8fd2
-        title: immanentising the eschaton
+        title: Immanentising the eschaton
         slug: immanentising-the-eschaton
       - node_id: a3e2e1f9-b00a-47e1-80ee-e7ed50c5f9f3
-        title: katechon
+        title: Katechon
         slug: katechon
     date: null
     date_end: null
@@ -7693,7 +7693,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null

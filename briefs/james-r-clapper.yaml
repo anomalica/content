@@ -108,6 +108,11 @@ related_nodes:
     node_type: person
     slug: charles-mccullough-iii
     shared_claims: 1
+  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+    title: Crash retrieval and reverse engineering
+    node_type: topic
+    slug: crash-retrieval-and-reverse-engineering
+    shared_claims: 1
   - node_id: d9532953-68e1-4f10-bfc3-a62ab2c428bc
     title: Jennifer
     node_type: person
@@ -162,11 +167,6 @@ related_nodes:
     title: William Lynn III
     node_type: person
     slug: william-lynn-iii
-    shared_claims: 1
-  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-    title: crash retrieval and reverse engineering
-    node_type: topic
-    slug: crash-retrieval-and-reverse-engineering
     shared_claims: 1
 claims:
   - claim_id: 8489fd4d-b292-43e9-8c20-c0ca2eca871c
@@ -948,7 +948,7 @@ claims:
         title: John Brennan
         slug: john-brennan
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
       - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
         title: James R. Clapper

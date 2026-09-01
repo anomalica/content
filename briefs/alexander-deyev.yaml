@@ -103,6 +103,11 @@ related_nodes:
     node_type: document
     slug: mart-sanders-book-on-the-merivalja-object
     shared_claims: 1
+  - node_id: 346df5bf-dea2-4581-b79f-65d10641f682
+    title: Telepathic contact with non-human objects
+    node_type: topic
+    slug: telepathic-contact-with-non-human-objects
+    shared_claims: 1
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
     node_type: topic
@@ -112,11 +117,6 @@ related_nodes:
     title: Vivika Eva
     node_type: person
     slug: vivika-eva
-    shared_claims: 1
-  - node_id: 346df5bf-dea2-4581-b79f-65d10641f682
-    title: telepathic contact with non-human objects
-    node_type: topic
-    slug: telepathic-contact-with-non-human-objects
     shared_claims: 1
 claims:
   - claim_id: c9fb3fab-5db5-4a31-90e4-e453f08daa3a
@@ -968,7 +968,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 346df5bf-dea2-4581-b79f-65d10641f682
-        title: telepathic contact with non-human objects
+        title: Telepathic contact with non-human objects
         slug: telepathic-contact-with-non-human-objects
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev

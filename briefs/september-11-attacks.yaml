@@ -73,6 +73,11 @@ related_nodes:
     node_type: place
     slug: guantanamo-bay-camp-7-cuba
     shared_claims: 1
+  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+    title: Informational substrate
+    node_type: topic
+    slug: informational-substrate
+    shared_claims: 1
   - node_id: 064f0559-6a90-4bf9-9053-81a040bb00ca
     title: Iraq
     node_type: place
@@ -93,20 +98,15 @@ related_nodes:
     node_type: person
     slug: quetzal
     shared_claims: 1
+  - node_id: 93c3f513-e320-4d7e-bb43-a343cd220d03
+    title: The Holocaust
+    node_type: event
+    slug: the-holocaust
+    shared_claims: 1
   - node_id: c2161b8f-ab11-449c-8521-174024cb0552
     title: USA, Washington DC, Pentagon
     node_type: place
     slug: washington-dc-pentagon-usa
-    shared_claims: 1
-  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-    title: informational substrate
-    node_type: topic
-    slug: informational-substrate
-    shared_claims: 1
-  - node_id: 93c3f513-e320-4d7e-bb43-a343cd220d03
-    title: the Holocaust
-    node_type: event
-    slug: the-holocaust
     shared_claims: 1
 claims:
   - claim_id: c66c3c05-5487-4173-bf95-7f192ebfa17a
@@ -544,13 +544,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: informational substrate
+        title: Informational substrate
         slug: informational-substrate
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: 93c3f513-e320-4d7e-bb43-a343cd220d03
-        title: the Holocaust
+        title: The Holocaust
         slug: the-holocaust
       - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
         title: September 11 attacks

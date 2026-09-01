@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 5a444e8f-c623-42c6-8018-293818d9df73
   node_type: topic
-  title: extrasensory perception (ESP)
+  title: Extrasensory perception (ESP)
   slug: extrasensory-perception-esp
   claim_count: 19
   claim_count_total: 19
@@ -113,6 +113,11 @@ related_nodes:
     node_type: topic
     slug: out-of-body-experience-obe
     shared_claims: 1
+  - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
+    title: Psi (psychic functioning)
+    node_type: topic
+    slug: psi-psychic-functioning
+    shared_claims: 1
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
     title: Remote Viewing (RV)
     node_type: topic
@@ -133,6 +138,21 @@ related_nodes:
     node_type: project
     slug: stanford-research-institute-psychic-spy-program
     shared_claims: 1
+  - node_id: ec85bfdd-0899-4aa9-b790-b91008022037
+    title: Super-Extrasensory Perception (ESP) hypothesis
+    node_type: topic
+    slug: super-extrasensory-perception-esp-hypothesis
+    shared_claims: 1
+  - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+    title: Survival hypothesis
+    node_type: topic
+    slug: survival-hypothesis
+    shared_claims: 1
+  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+    title: Telepathy
+    node_type: topic
+    slug: telepathy
+    shared_claims: 1
   - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
     title: To the Stars Academy of Arts and Science (TTSA)
     node_type: organisation
@@ -147,26 +167,6 @@ related_nodes:
     title: Unidentified Anomalous Phenomena (UAP)
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
-    shared_claims: 1
-  - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
-    title: psi (psychic functioning)
-    node_type: topic
-    slug: psi-psychic-functioning
-    shared_claims: 1
-  - node_id: ec85bfdd-0899-4aa9-b790-b91008022037
-    title: super-Extrasensory Perception (ESP) hypothesis
-    node_type: topic
-    slug: super-extrasensory-perception-esp-hypothesis
-    shared_claims: 1
-  - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-    title: survival hypothesis
-    node_type: topic
-    slug: survival-hypothesis
-    shared_claims: 1
-  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-    title: telepathy
-    node_type: topic
-    slug: telepathy
     shared_claims: 1
 claims:
   - claim_id: 6617cdeb-0a3b-4803-b009-7be916650b2e
@@ -189,7 +189,7 @@ claims:
         title: Duke University
         slug: duke-university
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 997b4d63-99fb-499e-98d9-8656808e3db8
         title: J. B. Rhine
@@ -222,7 +222,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 997b4d63-99fb-499e-98d9-8656808e3db8
         title: J. B. Rhine
@@ -257,7 +257,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 997b4d63-99fb-499e-98d9-8656808e3db8
         title: J. B. Rhine
@@ -294,7 +294,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -336,7 +336,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 9dbd0699-bbc9-42ca-bbca-b4128803cc47
         title: James Leininger
@@ -375,7 +375,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -413,7 +413,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: daf1b51a-2cf8-4f7b-b6b0-4c0048dedc1b
         title: Laura Lynne Jackson
@@ -452,13 +452,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: ec85bfdd-0899-4aa9-b790-b91008022037
-        title: super-Extrasensory Perception (ESP) hypothesis
+        title: Super-Extrasensory Perception (ESP) hypothesis
         slug: super-extrasensory-perception-esp-hypothesis
     date: null
     date_end: null
@@ -497,7 +497,7 @@ claims:
         title: Leonora E. Piper
         slug: leonora-e-piper
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: b65a228b-8581-437c-a083-670590b31c40
         title: Alan Gauld
@@ -537,7 +537,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
         title: Runolfur Runolfsson ("Runki")
@@ -576,10 +576,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
-        title: psi (psychic functioning)
+        title: Psi (psychic functioning)
         slug: psi-psychic-functioning
     date: null
     date_end: null
@@ -615,7 +615,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -659,7 +659,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
         title: United States Army
@@ -695,7 +695,7 @@ claims:
         title: KGB
         slug: kgb
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
     date: null
     date_end: null
@@ -730,7 +730,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
         title: United States Army
@@ -775,7 +775,7 @@ claims:
         title: Remote Viewing (RV)
         slug: remote-viewing-rv
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
     date: null
     date_end: null
@@ -810,7 +810,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -845,7 +845,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -854,7 +854,7 @@ claims:
         title: To the Stars Academy of Arts and Science (TTSA)
         slug: to-the-stars-academy-of-arts-and-science-ttsa
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -891,7 +891,7 @@ claims:
         title: Stanford Research Institute (SRI)
         slug: stanford-research-institute-sri
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: a3498c81-b42f-406d-b489-f4a2ea6d4d5f
         title: Stanford Research Institute psychic spy program

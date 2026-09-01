@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
   node_type: topic
-  title: alien implant
+  title: Alien implant
   slug: alien-implant
   claim_count: 45
   claim_count_total: 45
@@ -133,6 +133,11 @@ related_nodes:
     node_type: person
     slug: stephen-hawking
     shared_claims: 1
+  - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+    title: Synchronicity
+    node_type: topic
+    slug: synchronicity
+    shared_claims: 1
   - node_id: e4c073e9-3046-44ee-9b85-0c03473434df
     title: USA, Maryland, Fort Detrick
     node_type: place
@@ -147,11 +152,6 @@ related_nodes:
     title: University of Miami
     node_type: organisation
     slug: university-of-miami
-    shared_claims: 1
-  - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-    title: synchronicity
-    node_type: topic
-    slug: synchronicity
     shared_claims: 1
 claims:
   - claim_id: 23ed1e16-6ee8-44b0-b0a1-ea4f12de922f
@@ -179,7 +179,7 @@ claims:
         title: Luis Elizondo
         slug: luis-elizondo
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -213,7 +213,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -249,7 +249,7 @@ claims:
         title: Morgellons fibers
         slug: morgellons-fibers
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -283,7 +283,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -324,7 +324,7 @@ claims:
         title: Luis Elizondo
         slug: luis-elizondo
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -361,7 +361,7 @@ claims:
         title: Luis Elizondo
         slug: luis-elizondo
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -396,7 +396,7 @@ claims:
         title: Luis Elizondo
         slug: luis-elizondo
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -428,7 +428,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -468,7 +468,7 @@ claims:
         title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
         slug: advanced-aerospace-weapon-system-applications-program-aawsap
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -516,7 +516,7 @@ claims:
         title: USA, Maryland, Fort Detrick
         slug: maryland-fort-detrick-usa
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -550,7 +550,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -593,7 +593,7 @@ claims:
         title: Luis Elizondo
         slug: luis-elizondo
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -627,7 +627,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -661,7 +661,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -693,7 +693,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -725,7 +725,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: '2018'
     date_end: null
@@ -760,7 +760,7 @@ claims:
         title: Bigelow Aerospace Advanced Space Studies, LLC
         slug: llc-bigelow-aerospace-advanced-space-studies
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -798,7 +798,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -835,7 +835,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -875,7 +875,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -910,7 +910,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -953,7 +953,7 @@ claims:
         title: Roger Leir
         slug: roger-leir
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -992,7 +992,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1034,7 +1034,7 @@ claims:
         title: In Hitler's House (Whitley Strieber)
         slug: in-hitlers-house-whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1077,7 +1077,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: '2015'
     date_end: null
@@ -1120,7 +1120,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1162,7 +1162,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1208,7 +1208,7 @@ claims:
         title: In Hitler's House (Whitley Strieber)
         slug: in-hitlers-house-whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1252,7 +1252,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1291,10 +1291,10 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-        title: synchronicity
+        title: Synchronicity
         slug: synchronicity
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1342,7 +1342,7 @@ claims:
         title: Robert Sarbacher
         slug: robert-sarbacher
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: '2026-07-24'
     date_end: null
@@ -1382,7 +1382,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1425,7 +1425,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: '2026-07-24'
     date_end: null
@@ -1463,7 +1463,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1507,7 +1507,7 @@ claims:
         title: Roger Leir
         slug: roger-leir
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1546,7 +1546,7 @@ claims:
         title: Southwest Research Institute
         slug: southwest-research-institute
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1592,7 +1592,7 @@ claims:
         title: Southwest Research Institute
         slug: southwest-research-institute
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1639,7 +1639,7 @@ claims:
         title: Southwest Research Institute
         slug: southwest-research-institute
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1686,7 +1686,7 @@ claims:
         title: USA, Texas, San Antonio
         slug: texas-san-antonio-usa
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1727,7 +1727,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1767,7 +1767,7 @@ claims:
         title: Stephen Hawking
         slug: stephen-hawking
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1803,7 +1803,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1839,7 +1839,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1879,7 +1879,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1923,7 +1923,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null

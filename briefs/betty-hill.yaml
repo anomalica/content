@@ -148,6 +148,11 @@ related_nodes:
     node_type: person
     slug: al-lawson
     shared_claims: 1
+  - node_id: e8f59760-c068-456e-bbcc-3a1844122213
+    title: Alien pregnancy test
+    node_type: topic
+    slug: alien-pregnancy-test
+    shared_claims: 1
   - node_id: 21c29dd2-c3c2-4c56-b32f-0c261bad9517
     title: Anomaly Physical Evidence Group (APEG)
     node_type: organisation
@@ -167,11 +172,6 @@ related_nodes:
     title: Bill Chalker
     node_type: person
     slug: bill-chalker
-    shared_claims: 1
-  - node_id: 0cbe5dd5-2d05-43e0-9fa8-646c2b4bcd07
-    title: Delphi (dog)
-    node_type: object
-    slug: delphi-dog
     shared_claims: 1
 claims:
   - claim_id: 8a4d1d8a-b6e1-40a8-8508-c231a8bd1210
@@ -3292,7 +3292,7 @@ claims:
         title: Betty Hill
         slug: betty-hill
       - node_id: ae766667-cf07-4f9d-bc61-96b5901c6b00
-        title: psychotronic phenomena
+        title: Psychotronic phenomena
         slug: psychotronic-phenomena
       - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
         title: Barney Hill
@@ -3375,7 +3375,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2afd117d-a2b0-47c6-97be-29fd96a94494
-        title: imaginary abductees hypnosis study
+        title: Imaginary abductees hypnosis study
         slug: imaginary-abductees-hypnosis-study
       - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
         title: Charlie Hickson
@@ -3668,7 +3668,7 @@ claims:
         title: Betty Hill
         slug: betty-hill
       - node_id: e8f59760-c068-456e-bbcc-3a1844122213
-        title: alien pregnancy test
+        title: Alien pregnancy test
         slug: alien-pregnancy-test
     date: null
     date_end: null
@@ -3977,7 +3977,7 @@ claims:
         title: Betty Hill
         slug: betty-hill
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: 92a70f77-d5d2-4547-bc55-49a07cdd6b24
         title: Betty Hill's 1961 dress Deoxyribonucleic Acid (DNA) analysis

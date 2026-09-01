@@ -108,15 +108,15 @@ related_nodes:
     node_type: event
     slug: second-battle-of-el-alamein-1942-11-03
     shared_claims: 1
+  - node_id: 65b0455e-7d9d-419b-93bc-46a1fa6a5c4d
+    title: Secret societies
+    node_type: topic
+    slug: secret-societies
+    shared_claims: 1
   - node_id: 1f7e363f-62ce-4edf-8c5a-41c6247086d7
     title: The Odyssey
     node_type: document
     slug: the-odyssey
-    shared_claims: 1
-  - node_id: 65b0455e-7d9d-419b-93bc-46a1fa6a5c4d
-    title: secret societies
-    node_type: topic
-    slug: secret-societies
     shared_claims: 1
 claims:
   - claim_id: 134d9205-2a5a-4ea3-93b4-f9a9a0236676
@@ -511,7 +511,7 @@ claims:
         title: Plato
         slug: plato
       - node_id: 65b0455e-7d9d-419b-93bc-46a1fa6a5c4d
-        title: secret societies
+        title: Secret societies
         slug: secret-societies
       - node_id: 6987da55-6570-45e6-ac96-ce73a15eabb8
         title: Egypt

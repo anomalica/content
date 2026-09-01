@@ -38,15 +38,15 @@ related_nodes:
     node_type: person
     slug: u-thant
     shared_claims: 11
+  - node_id: f2829b06-90b3-4a65-a9ce-e707735ccea6
+    title: Extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
+    node_type: topic
+    slug: extraterrestrial-hypothesis-for-unidentified-flying-objects-ufos
+    shared_claims: 7
   - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
     title: United States Air Force (USAF)
     node_type: organisation
     slug: united-states-air-force-usaf
-    shared_claims: 7
-  - node_id: f2829b06-90b3-4a65-a9ce-e707735ccea6
-    title: extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
-    node_type: topic
-    slug: extraterrestrial-hypothesis-for-unidentified-flying-objects-ufos
     shared_claims: 7
   - node_id: cb00f2f4-e720-4d5f-b966-08cd84761f63
     title: 1963-02 Moe farm disc sighting reported by farmer Brew
@@ -88,6 +88,11 @@ related_nodes:
     node_type: place
     slug: victoria-moe-australia
     shared_claims: 3
+  - node_id: eb844394-11fa-4223-ab75-374412b7be46
+    title: Ball lightning
+    node_type: topic
+    slug: ball-lightning
+    shared_claims: 3
   - node_id: e6fedf20-62e4-4c9a-98a0-e491939f2036
     title: Carl Jung's psychological archetype explanation of flying saucers
     node_type: topic
@@ -107,11 +112,6 @@ related_nodes:
     title: Vietnam War
     node_type: event
     slug: vietnam-war
-    shared_claims: 3
-  - node_id: eb844394-11fa-4223-ab75-374412b7be46
-    title: ball lightning
-    node_type: topic
-    slug: ball-lightning
     shared_claims: 3
   - node_id: 9d8382f0-71d5-403b-a54c-b75b05fafe41
     title: 1949 Hawthorn cigar-shaped object sighting
@@ -614,7 +614,7 @@ claims:
         title: 1949 Hawthorn cigar-shaped object sighting
         slug: 1949-hawthorn-cigar-shaped-object-sighting
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: null
     date_end: null
@@ -725,7 +725,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: null
     date_end: null
@@ -3384,7 +3384,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: null
     date_end: null
@@ -3546,7 +3546,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: ab52dafd-db06-45d7-9e6e-ccabeb0f5bc3
-        title: sun dog
+        title: Sun dog
         slug: sun-dog
     date: null
     date_end: null
@@ -3732,7 +3732,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: f2829b06-90b3-4a65-a9ce-e707735ccea6
-        title: extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
+        title: Extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
         slug: extraterrestrial-hypothesis-for-unidentified-flying-objects-ufos
     date: null
     date_end: null
@@ -3772,7 +3772,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: f2829b06-90b3-4a65-a9ce-e707735ccea6
-        title: extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
+        title: Extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
         slug: extraterrestrial-hypothesis-for-unidentified-flying-objects-ufos
     date: null
     date_end: null
@@ -3812,7 +3812,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: f2829b06-90b3-4a65-a9ce-e707735ccea6
-        title: extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
+        title: Extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
         slug: extraterrestrial-hypothesis-for-unidentified-flying-objects-ufos
     date: null
     date_end: null
@@ -3850,7 +3850,7 @@ claims:
         title: James MacDonald
         slug: james-macdonald
       - node_id: f2829b06-90b3-4a65-a9ce-e707735ccea6
-        title: extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
+        title: Extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
         slug: extraterrestrial-hypothesis-for-unidentified-flying-objects-ufos
     date: null
     date_end: null
@@ -3990,7 +3990,7 @@ claims:
         title: James MacDonald
         slug: james-macdonald
       - node_id: f2829b06-90b3-4a65-a9ce-e707735ccea6
-        title: extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
+        title: Extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
         slug: extraterrestrial-hypothesis-for-unidentified-flying-objects-ufos
     date: null
     date_end: null
@@ -4031,7 +4031,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: f2829b06-90b3-4a65-a9ce-e707735ccea6
-        title: extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
+        title: Extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
         slug: extraterrestrial-hypothesis-for-unidentified-flying-objects-ufos
     date: null
     date_end: null
@@ -4068,7 +4068,7 @@ claims:
         title: James MacDonald
         slug: james-macdonald
       - node_id: f2829b06-90b3-4a65-a9ce-e707735ccea6
-        title: extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
+        title: Extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
         slug: extraterrestrial-hypothesis-for-unidentified-flying-objects-ufos
     date: null
     date_end: null

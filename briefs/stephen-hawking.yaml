@@ -23,6 +23,11 @@ belonging:
   suspect_excluded: 0
   unreviewed: 3
 related_nodes:
+  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+    title: Alien implant
+    node_type: topic
+    slug: alien-implant
+    shared_claims: 1
   - node_id: f2daae19-9351-4a8e-b466-664f83887f61
     title: Diana Walsh Pasulka
     node_type: person
@@ -38,13 +43,8 @@ related_nodes:
     node_type: person
     slug: whitley-strieber
     shared_claims: 1
-  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-    title: alien implant
-    node_type: topic
-    slug: alien-implant
-    shared_claims: 1
   - node_id: 493c699b-1ccf-4d67-bed7-26928fb6fb71
-    title: wormhole theory
+    title: Wormhole theory
     node_type: topic
     slug: wormhole-theory
     shared_claims: 1
@@ -109,7 +109,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 493c699b-1ccf-4d67-bed7-26928fb6fb71
-        title: wormhole theory
+        title: Wormhole theory
         slug: wormhole-theory
       - node_id: 514c9a2e-3e4e-40f2-8832-2709aa98c567
         title: Stephen Hawking
@@ -152,7 +152,7 @@ claims:
         title: Stephen Hawking
         slug: stephen-hawking
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null

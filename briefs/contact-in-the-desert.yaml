@@ -48,6 +48,11 @@ related_nodes:
     node_type: topic
     slug: atlantis
     shared_claims: 1
+  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+    title: Nonhuman intelligence (NHI)
+    node_type: topic
+    slug: nonhuman-intelligence-nhi
+    shared_claims: 1
   - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
     title: Out-of-Body Experience (OBE)
     node_type: topic
@@ -62,11 +67,6 @@ related_nodes:
     title: Ross Coulthart
     node_type: person
     slug: ross-coulthart
-    shared_claims: 1
-  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-    title: nonhuman intelligence (NHI)
-    node_type: topic
-    slug: nonhuman-intelligence-nhi
     shared_claims: 1
 claims:
   - claim_id: 6ba440c5-9811-4ec7-9fd3-eb0df0a84c53
@@ -287,7 +287,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge

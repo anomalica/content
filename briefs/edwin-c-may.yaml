@@ -48,6 +48,11 @@ related_nodes:
     node_type: organisation
     slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
     shared_claims: 2
+  - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
+    title: Entropy
+    node_type: topic
+    slug: entropy
+    shared_claims: 1
   - node_id: 7b95c492-ed48-47d1-8d82-4935050a7edc
     title: Ganzfeld effect
     node_type: topic
@@ -78,6 +83,11 @@ related_nodes:
     node_type: project
     slug: project-stargate
     shared_claims: 1
+  - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
+    title: Psi
+    node_type: topic
+    slug: psi
+    shared_claims: 1
   - node_id: 7fb922af-1483-4503-a282-e724de9d0320
     title: Put to the Test (ABC Special)
     node_type: document
@@ -87,16 +97,6 @@ related_nodes:
     title: The Stargate Project
     node_type: project
     slug: the-stargate-project
-    shared_claims: 1
-  - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-    title: entropy
-    node_type: topic
-    slug: entropy
-    shared_claims: 1
-  - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
-    title: psi
-    node_type: topic
-    slug: psi
     shared_claims: 1
 claims:
   - claim_id: 89fc4f62-7805-46c4-98da-d298765faca8
@@ -601,7 +601,7 @@ claims:
         title: Pat Price
         slug: pat-price
       - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
-        title: psi
+        title: Psi
         slug: psi
     date: null
     date_end: null
@@ -636,7 +636,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-        title: entropy
+        title: Entropy
         slug: entropy
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay

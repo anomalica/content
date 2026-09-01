@@ -138,30 +138,30 @@ related_nodes:
     node_type: topic
     slug: reverse-engineering-of-recovered-craft-of-non-human-origin
     shared_claims: 4
+  - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
+    title: Dark energy
+    node_type: topic
+    slug: dark-energy
+    shared_claims: 3
+  - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
+    title: Entropy
+    node_type: topic
+    slug: entropy
+    shared_claims: 3
   - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
     title: Project Blue Book
     node_type: project
     slug: project-blue-book
     shared_claims: 3
+  - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
+    title: Quantum mechanics
+    node_type: topic
+    slug: quantum-mechanics
+    shared_claims: 3
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
     title: Remote Viewing (RV)
     node_type: topic
     slug: remote-viewing-rv
-    shared_claims: 3
-  - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-    title: dark energy
-    node_type: topic
-    slug: dark-energy
-    shared_claims: 3
-  - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-    title: entropy
-    node_type: topic
-    slug: entropy
-    shared_claims: 3
-  - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
-    title: quantum mechanics
-    node_type: topic
-    slug: quantum-mechanics
     shared_claims: 3
   - node_id: 5bb7db4b-73e2-42c7-9f93-6454343f11eb
     title: 60 Minutes
@@ -4384,7 +4384,7 @@ claims:
         title: George Knapp
         slug: george-knapp
       - node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
-        title: cattle mutilation
+        title: Cattle mutilation
         slug: cattle-mutilation
     date: null
     date_end: null
@@ -5092,7 +5092,7 @@ claims:
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
-        title: quantum mechanics
+        title: Quantum mechanics
         slug: quantum-mechanics
     date: null
     date_end: null
@@ -5297,7 +5297,7 @@ claims:
         title: Consciousness studies
         slug: consciousness-studies
       - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
-        title: quantum mechanics
+        title: Quantum mechanics
         slug: quantum-mechanics
     date: null
     date_end: null
@@ -5343,10 +5343,10 @@ claims:
         title: Remote Viewing (RV)
         slug: remote-viewing-rv
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-        title: clairvoyance
+        title: Clairvoyance
         slug: clairvoyance
       - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
-        title: mediumship
+        title: Mediumship
         slug: mediumship
     date: null
     date_end: null
@@ -5384,7 +5384,7 @@ claims:
         title: Remote Viewing (RV)
         slug: remote-viewing-rv
       - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
-        title: mediumship
+        title: Mediumship
         slug: mediumship
     date: null
     date_end: null
@@ -5644,7 +5644,7 @@ claims:
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-        title: string theory
+        title: String theory
         slug: string-theory
     date: null
     date_end: null
@@ -5684,7 +5684,7 @@ claims:
         title: Big Bang theory
         slug: big-bang-theory
       - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-        title: string theory
+        title: String theory
         slug: string-theory
     date: null
     date_end: null
@@ -5790,7 +5790,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-        title: entropy
+        title: Entropy
         slug: entropy
     date: null
     date_end: null
@@ -5824,7 +5824,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-        title: entropy
+        title: Entropy
         slug: entropy
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -5860,7 +5860,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
       - node_id: fb2903b3-56b1-41ef-8eae-594ab1d0e2e8
         title: Dark matter
@@ -5897,13 +5897,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-        title: entropy
+        title: Entropy
         slug: entropy
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
     date: null
     date_end: null
@@ -6033,7 +6033,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
       - node_id: fb2903b3-56b1-41ef-8eae-594ab1d0e2e8
         title: Dark matter
@@ -6076,7 +6076,7 @@ claims:
         title: Consciousness studies
         slug: consciousness-studies
       - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
-        title: quantum mechanics
+        title: Quantum mechanics
         slug: quantum-mechanics
     date: null
     date_end: null
@@ -7088,13 +7088,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-        title: entropy
+        title: Entropy
         slug: entropy
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
       - node_id: fb2903b3-56b1-41ef-8eae-594ab1d0e2e8
         title: Dark matter
@@ -7698,7 +7698,7 @@ claims:
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -7733,7 +7733,7 @@ claims:
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -7813,7 +7813,7 @@ claims:
         title: Consciousness studies
         slug: consciousness-studies
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
       - node_id: fb2903b3-56b1-41ef-8eae-594ab1d0e2e8
         title: Dark matter

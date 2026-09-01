@@ -73,6 +73,11 @@ related_nodes:
     node_type: person
     slug: christopher-green
     shared_claims: 1
+  - node_id: 84a43dea-0183-4bb1-b2d7-c9637920d75f
+    title: Eschatology
+    node_type: topic
+    slug: eschatology
+    shared_claims: 1
   - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
     title: George Knapp
     node_type: person
@@ -113,6 +118,11 @@ related_nodes:
     node_type: place
     slug: washington-dc-pentagon-usa
     shared_claims: 1
+  - node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
+    title: Unacknowledged special access program (USAP)
+    node_type: topic
+    slug: unacknowledged-special-access-program-usap
+    shared_claims: 1
   - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
     title: United States Department of Defense (DoD)
     node_type: organisation
@@ -122,16 +132,6 @@ related_nodes:
     title: World War II
     node_type: event
     slug: world-war-ii
-    shared_claims: 1
-  - node_id: 84a43dea-0183-4bb1-b2d7-c9637920d75f
-    title: eschatology
-    node_type: topic
-    slug: eschatology
-    shared_claims: 1
-  - node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
-    title: unacknowledged special access program (USAP )
-    node_type: topic
-    slug: unacknowledged-special-access-program-usap
     shared_claims: 1
 claims:
   - claim_id: 5a1565b6-424f-4495-a3ec-dcf32a0a898c
@@ -479,7 +479,7 @@ claims:
         title: Collins Elite
         slug: collins-elite
       - node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
-        title: unacknowledged special access program (USAP )
+        title: Unacknowledged special access program (USAP)
         slug: unacknowledged-special-access-program-usap
       - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
         title: Jason Samosa
@@ -700,7 +700,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 84a43dea-0183-4bb1-b2d7-c9637920d75f
-        title: eschatology
+        title: Eschatology
         slug: eschatology
       - node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
         title: Collins Elite

@@ -54,7 +54,7 @@ related_nodes:
     slug: space-and-technology-us-house-committee-on-science
     shared_claims: 1
   - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-    title: war.gov/UFOs release
+    title: War.gov/UFOs release
     node_type: document
     slug: wargovufos-release
     shared_claims: 1
@@ -275,7 +275,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-        title: war.gov/UFOs release
+        title: War.gov/UFOs release
         slug: wargovufos-release
       - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
         title: Maaneli "Max" Derakhshani

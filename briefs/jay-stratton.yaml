@@ -109,7 +109,7 @@ related_nodes:
     slug: united-states-navy-usn
     shared_claims: 3
   - node_id: 9fbb2218-c47f-4d07-b0b1-a106bd109bd7
-    title: Alternative Compensatory Control Measure (ACCM )
+    title: Alternative Compensatory Control Measure (ACCM)
     node_type: topic
     slug: alternative-compensatory-control-measure-accm
     shared_claims: 2
@@ -133,6 +133,11 @@ related_nodes:
     node_type: person
     slug: harold-e-puthoff
     shared_claims: 2
+  - node_id: f169c972-e1d6-4d16-a2d6-99f333f02bc0
+    title: Hitchhiker effect
+    node_type: topic
+    slug: hitchhiker-effect
+    shared_claims: 2
   - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
     title: Jim Semivan
     node_type: person
@@ -152,11 +157,6 @@ related_nodes:
     title: United States Space Force (USSF)
     node_type: organisation
     slug: united-states-space-force-ussf
-    shared_claims: 2
-  - node_id: f169c972-e1d6-4d16-a2d6-99f333f02bc0
-    title: hitchhiker effect
-    node_type: topic
-    slug: hitchhiker-effect
     shared_claims: 2
   - node_id: 9c966ab6-17cb-4617-a9ec-07a3782b2456
     title: 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) encounter
@@ -353,7 +353,7 @@ claims:
         title: Jay Stratton
         slug: jay-stratton
       - node_id: f169c972-e1d6-4d16-a2d6-99f333f02bc0
-        title: hitchhiker effect
+        title: Hitchhiker effect
         slug: hitchhiker-effect
     date: null
     date_end: null
@@ -846,7 +846,7 @@ claims:
         title: USA, Utah, Skinwalker Ranch
         slug: utah-skinwalker-ranch-usa
       - node_id: f169c972-e1d6-4d16-a2d6-99f333f02bc0
-        title: hitchhiker effect
+        title: Hitchhiker effect
         slug: hitchhiker-effect
     date: null
     date_end: null
@@ -1434,7 +1434,7 @@ claims:
         title: Joint Chiefs of Staff
         slug: joint-chiefs-of-staff
       - node_id: 9fbb2218-c47f-4d07-b0b1-a106bd109bd7
-        title: Alternative Compensatory Control Measure (ACCM )
+        title: Alternative Compensatory Control Measure (ACCM)
         slug: alternative-compensatory-control-measure-accm
       - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
         title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
@@ -1603,7 +1603,7 @@ claims:
         title: OPLAN Interloper
         slug: oplan-interloper
       - node_id: 9fbb2218-c47f-4d07-b0b1-a106bd109bd7
-        title: Alternative Compensatory Control Measure (ACCM )
+        title: Alternative Compensatory Control Measure (ACCM)
         slug: alternative-compensatory-control-measure-accm
       - node_id: dbb703ca-bb91-4756-b452-95047fb5b186
         title: Joint Staff

@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
   node_type: topic
-  title: hypnotic regression
+  title: Hypnotic regression
   slug: hypnotic-regression
   claim_count: 15
   claim_count_total: 15
@@ -28,16 +28,21 @@ related_nodes:
     node_type: person
     slug: julia-mossbridge
     shared_claims: 9
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 2
   - node_id: 3ff75793-423c-4333-8402-d5c543074091
     title: Bill Chalker
     node_type: person
     slug: bill-chalker
     shared_claims: 2
-  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
+  - node_id: c6413eb2-1877-438f-a575-d3181f4cec26
+    title: Confabulation
     node_type: topic
-    slug: alien-abduction
-    shared_claims: 2
+    slug: confabulation
+    shared_claims: 1
   - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
     title: Jordan Jozak
     node_type: person
@@ -73,20 +78,15 @@ related_nodes:
     node_type: person
     slug: susan-clancy
     shared_claims: 1
+  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+    title: Ufology
+    node_type: topic
+    slug: ufology
+    shared_claims: 1
   - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
     title: Unidentified Anomalous Phenomena (UAP)
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
-    shared_claims: 1
-  - node_id: c6413eb2-1877-438f-a575-d3181f4cec26
-    title: confabulation
-    node_type: topic
-    slug: confabulation
-    shared_claims: 1
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    node_type: topic
-    slug: ufology
     shared_claims: 1
 claims:
   - claim_id: cae372ee-d67f-463d-a93f-e00c71bceecc
@@ -110,7 +110,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -148,7 +148,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 373e266a-9430-4cea-88d0-0fd5dd811ae6
         title: Stewart (Sally's alleged transgenic visitor)
@@ -187,13 +187,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 224c7243-0077-417a-a148-29465dacae71
         title: Susan Clancy
         slug: susan-clancy
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: ce6f6bfe-db96-4aa5-a836-c04b0d897a42
         title: Richard McNally
@@ -232,13 +232,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -273,13 +273,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 475770e2-bd8c-44ae-8d95-a9f6b9c639a3
         title: Scott Browne
         slug: scott-browne
       - node_id: c6413eb2-1877-438f-a575-d3181f4cec26
-        title: confabulation
+        title: Confabulation
         slug: confabulation
     date: null
     date_end: null
@@ -312,10 +312,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -347,7 +347,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -384,7 +384,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -423,7 +423,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -461,7 +461,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -498,7 +498,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -536,7 +536,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -573,7 +573,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -610,7 +610,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
         title: Jordan Jozak
@@ -650,7 +650,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge

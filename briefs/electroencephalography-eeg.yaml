@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
   node_type: topic
-  title: electroencephalography (EEG)
+  title: Electroencephalography (EEG)
   slug: electroencephalography-eeg
   claim_count: 21
   claim_count_total: 21
@@ -16,1009 +16,970 @@ size:
   sized_against: 1050000
 publication:
   status: published
-  note: Prepared for publication. Claim excerpts are short attributed quotations and
-    are carried through; full bodies and transcripts are gated elsewhere.
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
 belonging:
   verified: 0
   suspect_excluded: 0
   unreviewed: 21
 related_nodes:
-- node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-  title: Robert Monroe
-  node_type: person
-  slug: robert-monroe
-  shared_claims: 11
-- node_id: 5f43b9d2-0313-4055-9278-6bf9f5aabff4
-  title: Robert Monroe's psycho-physiological experiment at Topeka VA Hospital
-  node_type: event
-  slug: robert-monroes-psycho-physiological-experiment-at-topeka-va-hospital
-  shared_claims: 6
-- node_id: 7dd41fc6-847d-4a7f-9fff-f01b9bdf0bff
-  title: 'Electroencephalogram (EEG) Experiment #EEG-5 (1966-07-19)'
-  node_type: event
-  slug: electroencephalogram-eeg-experiment-eeg-5-1966-07-19
-  shared_claims: 3
-- node_id: ac050fca-beee-4b02-b808-a976ff75b610
-  title: Pam Reynolds
-  node_type: person
-  slug: pam-reynolds
-  shared_claims: 2
-- node_id: 61b10963-73a8-493f-90ad-96b5245c570b
-  title: University of Padova 2014 electroencephalography (EEG) paper in Frontiers
-    in Human Neuroscience
-  node_type: document
-  slug: university-of-padova-2014-electroencephalography-eeg-paper-in-frontiers-in-human-neuroscience
-  shared_claims: 2
-- node_id: 8de46277-4bd1-4f42-92e6-a6fedba9111e
-  title: hypothermic cardiac arrest technique
-  node_type: topic
-  slug: hypothermic-cardiac-arrest-technique
-  shared_claims: 2
-- node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-  title: near-death experience (NDE)
-  node_type: topic
-  slug: near-death-experience-nde
-  shared_claims: 2
-- node_id: 753d6acf-91e7-4ecd-a7fe-452336b30f13
-  title: 2007 interview of Robert Spetzler
-  node_type: document
-  slug: 2007-interview-of-robert-spetzler
-  shared_claims: 1
-- node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
-  title: Charlie Hickson
-  node_type: person
-  slug: charlie-hickson
-  shared_claims: 1
-- node_id: 72698ef3-fe06-45f6-adb9-47996297860e
-  title: Frontiers in Human Neuroscience
-  node_type: organisation
-  slug: frontiers-in-human-neuroscience
-  shared_claims: 1
-- node_id: 9337fbaf-3bd9-43e4-9905-259421b9c59d
-  title: Galvanic Skin Response (GSR)
-  node_type: topic
-  slug: galvanic-skin-response-gsr
-  shared_claims: 1
-- node_id: f774194b-106c-43bd-be85-5318eb56d66e
-  title: Italy
-  node_type: place
-  slug: italy
-  shared_claims: 1
-- node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-  title: Julia Mossbridge
-  node_type: person
-  slug: julia-mossbridge
-  shared_claims: 1
-- node_id: d12ebb23-4faf-4060-95a7-156343da4172
-  title: Northwestern University
-  node_type: organisation
-  slug: northwestern-university
-  shared_claims: 1
-- node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
-  title: Out-of-Body Experience (OBE)
-  node_type: topic
-  slug: out-of-body-experience-obe
-  shared_claims: 1
-- node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
-  title: Pim van Lommel
-  node_type: person
-  slug: pim-van-lommel
-  shared_claims: 1
-- node_id: ea943180-20a7-469d-8fd5-fe4cdc274849
-  title: Richard Gordon
-  node_type: person
-  slug: richard-gordon
-  shared_claims: 1
-- node_id: be5eedeb-20d3-4b3d-8cb8-24a81457a278
-  title: Robert Spetzler
-  node_type: person
-  slug: robert-spetzler
-  shared_claims: 1
-- node_id: fc27a115-50de-48fe-a838-8b9646498f78
-  title: University of Padova
-  node_type: organisation
-  slug: university-of-padova
-  shared_claims: 1
-- node_id: ed31a19b-d67d-45ad-84cc-e3cb4184fa20
-  title: Windbridge Institute
-  node_type: organisation
-  slug: windbridge-institute
-  shared_claims: 1
-- node_id: 693acdd5-6e23-41d6-9ff7-adcda3ef160e
-  title: Windbridge Institute electroencephalography (EEG) study of six mediums
-  node_type: document
-  slug: windbridge-institute-electroencephalography-eeg-study-of-six-mediums
-  shared_claims: 1
-- node_id: 72cb2492-82b5-41c3-938e-122b8d563316
-  title: presentiment
-  node_type: topic
-  slug: presentiment
-  shared_claims: 1
-claims:
-- claim_id: c44ee9a7-c39b-4873-9425-0efd58122b57
-  claim_hash: aaef1893f213008a4cc6f45ca4822449e5e1c0789242df80e1db1743b6bf1fdc
-  content: During the second separation of the EEG experiment, Robert Monroe let himself
-    float to the floor beside the cot and felt himself passing through the various
-    EEG wires on the way down.
-  original_excerpt: This time, I let myself float to the floor beside the cot. I fell
-    slowly, and could feel myself passing through the various EEG wires on the way
-    down.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-  provenance_chain:
-    origin_kind: speaker
-    origin: Robert Monroe
-    relay: []
-  attribution_mode: bare_ok
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
   - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
     title: Robert Monroe
+    node_type: person
     slug: robert-monroe
+    shared_claims: 11
+  - node_id: 5f43b9d2-0313-4055-9278-6bf9f5aabff4
+    title: Robert Monroe's psycho-physiological experiment at Topeka VA Hospital
+    node_type: event
+    slug: robert-monroes-psycho-physiological-experiment-at-topeka-va-hospital
+    shared_claims: 6
   - node_id: 7dd41fc6-847d-4a7f-9fff-f01b9bdf0bff
     title: 'Electroencephalogram (EEG) Experiment #EEG-5 (1966-07-19)'
+    node_type: event
     slug: electroencephalogram-eeg-experiment-eeg-5-1966-07-19
-  date: null
-  date_end: null
-  location_in_record: ch12:20926-21071
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-- claim_id: cd548142-3819-4e8c-ae83-67dda1c3f274
-  claim_hash: 3e76bc3b442469b9b81146b52e454dcdba6c8bb8f2dc5c2dff9d7453a5bac551
-  content: Robert Monroe was unaware of the presence of the technician's husband prior
-    to the EEG experiment, which he considered the only supporting evidence beyond
-    what might have appeared on the EEG recording.
-  original_excerpt: The only supporting evidence other than what might have appeared
-    on the EEG lies in the presence of the husband, of which I was unaware prior to
-    the experiment.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-  provenance_chain:
-    origin_kind: speaker
-    origin: Robert Monroe
-    relay: []
-  attribution_mode: bare_ok
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-    slug: robert-monroe
-  - node_id: 7dd41fc6-847d-4a7f-9fff-f01b9bdf0bff
-    title: 'Electroencephalogram (EEG) Experiment #EEG-5 (1966-07-19)'
-    slug: electroencephalogram-eeg-experiment-eeg-5-1966-07-19
-  date: null
-  date_end: null
-  location_in_record: ch12:24188-24337
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-- claim_id: 06e0a806-ddab-4ad5-bf02-a539685a8a71
-  claim_hash: 41025b99e5f2816f8db71e96e47682e4b5db4b7c40695484e9855123ac77d813
-  content: Charles T. Tart stated that the EEG recording showed definite unusual and
-    unique tracings during the time of Robert Monroe's out-of-body activity in the
-    EEG-5 experiment.
-  original_excerpt: Dr. Tart states that the EEG shows definite unusual and unique
-    tracings during time of activity.
-  claim_type: testimony
-  attestation: second_hand
-  speaker:
-    node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
-    title: Charlie Hickson
-  provenance_chain:
-    origin_kind: named
-    origin: Charles T. Tart
-    relay: []
-  attribution_mode: unknown
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
-    title: Charlie Hickson
-    slug: charlie-hickson
-  - node_id: 7dd41fc6-847d-4a7f-9fff-f01b9bdf0bff
-    title: 'Electroencephalogram (EEG) Experiment #EEG-5 (1966-07-19)'
-    slug: electroencephalogram-eeg-experiment-eeg-5-1966-07-19
-  date: null
-  date_end: null
-  location_in_record: ch12:24660-24747
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-- claim_id: 6ee92d95-c8ea-4c4f-9c47-0694388c10dc
-  claim_hash: 8868d24836c45210a543be4f791c88ca843b422cce870336f5c0af5b7654fb93
-  content: During the psycho-physiological experiment, Robert Monroe was hooked up
-    to a polygraph, and measurements were taken of his brain waves, anxiety level,
-    and level of alertness by Galvanic Skin Response (GSR).
-  original_excerpt: We had him hooked up to a polygraph and took some brain wave tracings
-    and measurements of his anxiety level and level of alertness (GSR).
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: f5051f0b-eeaf-4811-b4a3-f684c498e892
-    title: Stuart W. Twemlow
-  provenance_chain:
-    origin_kind: speaker
-    origin: Stuart W. Twemlow
-    relay: []
-  attribution_mode: bare_ok
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-    slug: robert-monroe
-  - node_id: 5f43b9d2-0313-4055-9278-6bf9f5aabff4
-    title: Robert Monroe's psycho-physiological experiment at Topeka VA Hospital
-    slug: robert-monroes-psycho-physiological-experiment-at-topeka-va-hospital
-  - node_id: 9337fbaf-3bd9-43e4-9905-259421b9c59d
-    title: Galvanic Skin Response (GSR)
-    slug: galvanic-skin-response-gsr
-  date: null
-  date_end: null
-  location_in_record: ch30:11406-11538
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-- claim_id: bf5a05f0-6ff8-4d2c-8155-8d28b31c8cef
-  claim_hash: 6750c193cac504fac90afb35dba91b4208634255a5ed5dd25bbf94141fc29592
-  content: Robert Monroe's return signal during the psycho-physiological experiment
-    correlated with a change in his brain waves.
-  original_excerpt: This signal correlated with a change again in his brain waves.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: f5051f0b-eeaf-4811-b4a3-f684c498e892
-    title: Stuart W. Twemlow
-  provenance_chain:
-    origin_kind: speaker
-    origin: Stuart W. Twemlow
-    relay: []
-  attribution_mode: bare_ok
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-    slug: robert-monroe
-  - node_id: 5f43b9d2-0313-4055-9278-6bf9f5aabff4
-    title: Robert Monroe's psycho-physiological experiment at Topeka VA Hospital
-    slug: robert-monroes-psycho-physiological-experiment-at-topeka-va-hospital
-  date: null
-  date_end: null
-  location_in_record: ch30:12374-12430
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-- claim_id: 62d63cd9-46bc-47dd-aefd-ac83f914ab1e
-  claim_hash: 74a108a7aeed76a1b08cd844caea2f9715747fa36b1cd68e8da679d370870f55
-  content: A computer analysis of Robert Monroe's brain waves during the psycho-physiological
-    experiment demonstrated that most of his brain energy was in the four to five
-    cycle per second (Theta) frequency range, with nothing at all above ten cycles
-    per second.
-  original_excerpt: A computer analysis of Monroe’s brain waves demonstrated that
-    most of his brain energy was in the four to five (Theta) frequency range, with
-    nothing at all above ten cycles per second.
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: f5051f0b-eeaf-4811-b4a3-f684c498e892
-    title: Stuart W. Twemlow
-  provenance_chain:
-    origin_kind: speaker
-    origin: Stuart W. Twemlow
-    relay: []
-  attribution_mode: bare_ok
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-    slug: robert-monroe
-  - node_id: 5f43b9d2-0313-4055-9278-6bf9f5aabff4
-    title: Robert Monroe's psycho-physiological experiment at Topeka VA Hospital
-    slug: robert-monroes-psycho-physiological-experiment-at-topeka-va-hospital
-  date: null
-  date_end: null
-  location_in_record: ch30:14079-14256
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-- claim_id: 5dd62a74-cbf1-462d-bc69-24f5b2929023
-  claim_hash: 155bc694e2b37c59accecd97f442a23731b327265e69ced64011b52ac3cdb120
-  content: At the time the technician noticed the change in Robert Monroe's electroencephalogram
-    (EEG) during the experiment, there appeared to be a shift in energy from the left
-    to the right side of his brain.
-  original_excerpt: At the time the technician noticed the change in the EEG there
-    appeared to be a shift in energy from the left to the right side of his brain.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: f5051f0b-eeaf-4811-b4a3-f684c498e892
-    title: Stuart W. Twemlow
-  provenance_chain:
-    origin_kind: speaker
-    origin: Stuart W. Twemlow
-    relay: []
-  attribution_mode: bare_ok
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-    slug: robert-monroe
-  - node_id: 5f43b9d2-0313-4055-9278-6bf9f5aabff4
-    title: Robert Monroe's psycho-physiological experiment at Topeka VA Hospital
-    slug: robert-monroes-psycho-physiological-experiment-at-topeka-va-hospital
-  date: null
-  date_end: null
-  location_in_record: ch30:14574-14709
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-- claim_id: 9e162c2d-5462-41b1-ba5a-0965ee21a9d1
-  claim_hash: d6532b8844c09c0940147c1d26efe8cc785b8dd51f75d720e2bf0286a527cee9
-  content: Robert Monroe's ordinary electroencephalogram (EEG) was quite normal with
-    no evidence of epilepsy and no evidence of unusual responses to overbreathing
-    or light stimulation.
-  original_excerpt: His ordinary EEG was quite normal with no evidence of epilepsy
-    and no evidence of unusual responses to overbreathing or light stimulation.
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: f5051f0b-eeaf-4811-b4a3-f684c498e892
-    title: Stuart W. Twemlow
-  provenance_chain:
-    origin_kind: speaker
-    origin: Stuart W. Twemlow
-    relay: []
-  attribution_mode: bare_ok
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-    slug: robert-monroe
-  date: null
-  date_end: null
-  location_in_record: ch30:14716-14842
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-- claim_id: 0ab93e27-04eb-4bb5-83f9-bdb94fd5be8b
-  claim_hash: 9f5bcfd4e00ab0e7d307c8cbe87b3b5a49d94ca9a653a5d54b4f47e57ec6fad8
-  content: A later statistical analysis of variance of Robert Monroe's electroencephalogram
-    (EEG) tracings showed no particular difference between the frequency of brain
-    waves on the right and left side of his brain, but that during the time he was
-    out of the body the frequency of his brain waves was considerably slower.
-  original_excerpt: A later statistical analysis of his EEG tracings (analysis of
-    variance) showed that in terms of the frequency of brain waves there was no particular
-    difference between the right and left side of his brain, but that during the time
-    he was out of the body the frequency of his brain waves was considerably slower.
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: f5051f0b-eeaf-4811-b4a3-f684c498e892
-    title: Stuart W. Twemlow
-  provenance_chain:
-    origin_kind: speaker
-    origin: Stuart W. Twemlow
-    relay: []
-  attribution_mode: bare_ok
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-    slug: robert-monroe
-  - node_id: 5f43b9d2-0313-4055-9278-6bf9f5aabff4
-    title: Robert Monroe's psycho-physiological experiment at Topeka VA Hospital
-    slug: robert-monroes-psycho-physiological-experiment-at-topeka-va-hospital
-  date: null
-  date_end: null
-  location_in_record: ch30:14855-15159
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-- claim_id: 39d1864e-38c6-4db8-b0d3-73dafe072194
-  claim_hash: 308b01474f263d3a5a3e8bde3de6f9d8104425899a4dcd7d5d7b66e73e338c0c
-  content: During the out-of-the-body period of the experiment, the variation in frequency
-    of Robert Monroe's brain waves was considerably smaller, and this variation was
-    much less on the right side of his brain than on the left side, a difference that
-    was highly statistically significant at P less than 0.001.
-  original_excerpt: During the out-of-the-body period the *variations* in frequency
-    of his brain waves were considerably smaller, the variation being much less on
-    the right side of his brain than on the left side. The differences here were highly
-    statistically significant (P< .001).
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: f5051f0b-eeaf-4811-b4a3-f684c498e892
-    title: Stuart W. Twemlow
-  provenance_chain:
-    origin_kind: speaker
-    origin: Stuart W. Twemlow
-    relay: []
-  attribution_mode: bare_ok
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-    slug: robert-monroe
-  - node_id: 5f43b9d2-0313-4055-9278-6bf9f5aabff4
-    title: Robert Monroe's psycho-physiological experiment at Topeka VA Hospital
-    slug: robert-monroes-psycho-physiological-experiment-at-topeka-va-hospital
-  date: null
-  date_end: null
-  location_in_record: ch30:15167-15425
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-- claim_id: 1a646fd9-9314-40c6-a2ce-e67737fbaf9f
-  claim_hash: 79577cff2d8070fba9bb6cd294ab6a87ce4f62dc4787bcf2910b0fb4963958a1
-  content: In other experiments, Stuart W. Twemlow found different types of brain
-    wave responses associated with what is defined as out-of-the-body, but they all
-    showed a slowing in the brain waves and a shifting of energy focus.
-  original_excerpt: 'In other experiments we have found different types of brain wave
-    responses to what is defined as out-of-the-body, but they all seem to have one
-    thing in common: there is a slowing in the brain waves, and a shifting of energy
-    focus.'
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: f5051f0b-eeaf-4811-b4a3-f684c498e892
-    title: Stuart W. Twemlow
-  provenance_chain:
-    origin_kind: speaker
-    origin: Stuart W. Twemlow
-    relay: []
-  attribution_mode: bare_ok
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
-    title: Out-of-Body Experience (OBE)
-    slug: out-of-body-experience-obe
-  date: null
-  date_end: null
-  location_in_record: ch30:15932-16157
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-- claim_id: 207ff65a-a4de-4cbe-a9c7-4bf26e336077
-  claim_hash: 7d22788de103cd0e7cc3284abadd798c053e57b50d52d3a535d07d0e4006a8ea
-  content: Measurements were made of Robert Monroe's brain waves (electroencephalogram),
-    eye movements, and heart rate (electrocardiogram) during the laboratory sessions.
-  original_excerpt: Measurements were made of Mr. Monroe’s brain waves (the electroencephalogram),
-    eye movements, and heart rate (the electrocardiogram).
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
-    title: Charlie Hickson
-  provenance_chain:
-    origin_kind: speaker
-    origin: Charles T. Tart
-    relay: []
-  attribution_mode: bare_ok
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-    slug: robert-monroe
-  date: null
-  date_end: null
-  location_in_record: ch8:12817-12931
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-- claim_id: 04dd55df-38c1-4db0-bc13-21b1fe0e92b4
-  claim_hash: 2735ddf817e03341d6350dbc0e9ba51085ec0454bcb94c4356dba5381159347d
-  content: Richard Gordon arranged for Robert Monroe to have an electroencephalogram
-    (EEG) brain-wave analysis, which showed no unusual problem.
-  original_excerpt: He arranged for an EEG (brain-wave analysis), which evidently
-    showed no unusual problem.
-  claim_type: measurement
-  attestation: second_hand
-  speaker:
-    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-  provenance_chain:
-    origin_kind: named
-    origin: Richard Gordon
-    relay:
-    - Robert Monroe
-  attribution_mode: unknown
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
-    title: Robert Monroe
-    slug: robert-monroe
-  - node_id: ea943180-20a7-469d-8fd5-fe4cdc274849
-    title: Richard Gordon
-    slug: richard-gordon
-  date: '1958'
-  date_end: null
-  location_in_record: ch9:19335-19415
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 0585998d-c88f-4448-be7b-523c2680e789
-    record_title: Journeys Out of the Body
-    record_date: '2014-11-11'
-    record_reference: null
-    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
-    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-- claim_id: 005a312a-24d5-4c7b-a142-60299a392311
-  claim_hash: 109eb41100ae7cfd6b686d7d92e1624ea293c7d1ece88053b5923b289bb0653b
-  content: A 2014 paper in Frontiers in Human Neuroscience by nine scientists from
-    the University of Padova, Italy, reports on using electroencephalography (EEG)
-    to investigate the characteristics of near-death experience memories and their
-    neural markers compared to memories of both real and imagined events.
-  original_excerpt: A lengthy 2014 paper in Frontiers in Human Neuroscience by nine
-    scientists from the University of Padova, Italy, reports on the use of electroencephalography
-    (EEG) "to investigate the characteristics of NDE memories and their neural markers
-    compared to memories of both real and imagined events."
-  claim_type: administrative
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: University of Padova 2014 EEG paper in Frontiers in Human Neuroscience
-    relay: []
-  attribution_mode: unknown
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
+    shared_claims: 3
+  - node_id: 8de46277-4bd1-4f42-92e6-a6fedba9111e
+    title: Hypothermic cardiac arrest technique
+    node_type: topic
+    slug: hypothermic-cardiac-arrest-technique
+    shared_claims: 2
   - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-    title: near-death experience (NDE)
+    title: Near-death experience (NDE)
+    node_type: topic
     slug: near-death-experience-nde
+    shared_claims: 2
+  - node_id: ac050fca-beee-4b02-b808-a976ff75b610
+    title: Pam Reynolds
+    node_type: person
+    slug: pam-reynolds
+    shared_claims: 2
   - node_id: 61b10963-73a8-493f-90ad-96b5245c570b
-    title: University of Padova 2014 electroencephalography (EEG) paper in Frontiers
-      in Human Neuroscience
+    title: University of Padova 2014 electroencephalography (EEG) paper in Frontiers in Human Neuroscience
+    node_type: document
     slug: university-of-padova-2014-electroencephalography-eeg-paper-in-frontiers-in-human-neuroscience
-  - node_id: 72698ef3-fe06-45f6-adb9-47996297860e
-    title: Frontiers in Human Neuroscience
-    slug: frontiers-in-human-neuroscience
-  - node_id: f774194b-106c-43bd-be85-5318eb56d66e
-    title: Italy
-    slug: italy
-  - node_id: fc27a115-50de-48fe-a838-8b9646498f78
-    title: University of Padova
-    slug: university-of-padova
-  date: '2014'
-  date_end: null
-  location_in_record: ch16:15323-15613
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-- claim_id: 2befc649-a990-4264-a545-c36c82ead041
-  claim_hash: 0a41f03a70a9ef52ab7494cfb5cdade18601f14f0a790fdd9b5f2c479b7f7ab7
-  content: The University of Padova scientists state that the EEG pattern of correlations
-    for near-death experience memory recall differed from the pattern for memories
-    of imagined events.
-  original_excerpt: '"It is notable that the EEG pattern of correlations for NDE memory
-    recall differed from the pattern for memories of imagined events," they state.'
-  claim_type: observation
-  attestation: second_hand
-  speaker: null
-  provenance_chain:
-    origin_kind: document
-    origin: University of Padova 2014 EEG paper in Frontiers in Human Neuroscience
-    relay: []
-  attribution_mode: unknown
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-    title: near-death experience (NDE)
-    slug: near-death-experience-nde
-  - node_id: 61b10963-73a8-493f-90ad-96b5245c570b
-    title: University of Padova 2014 electroencephalography (EEG) paper in Frontiers
-      in Human Neuroscience
-    slug: university-of-padova-2014-electroencephalography-eeg-paper-in-frontiers-in-human-neuroscience
-  date: null
-  date_end: null
-  location_in_record: ch16:15681-15819
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-- claim_id: ea35a948-3023-4ae1-8aa8-f07048fc1c13
-  claim_hash: 676e73512bf5f4b0c10b2da97b2fc33cd4c79460053cfe314109ec16846c3d15
-  content: Robert Spetzler stated that during hypothermic cardiac arrest it is inconceivable,
-    from a scientific perspective, that there is any brain function requiring metabolic
-    activity, and that Pam Reynolds's EEG and evoked potentials were completely flat,
-    confirming she was clinically dead.
-  original_excerpt: if I look at it purely as a scientist, I would say that during
-    hypothermic cardiac arrest, it is inconceivable to me that there is any brain
-    function going on that requires metabolic activity. There was absolutely no question
-    that Pam Reynolds was clinically dead. Her EEG was completely flat, and her evoked
-    potential too was completely gone.
-  claim_type: opinion
-  attestation: first_hand
-  speaker:
-    node_id: be5eedeb-20d3-4b3d-8cb8-24a81457a278
-    title: Robert Spetzler
-  provenance_chain:
-    origin_kind: speaker
-    origin: Robert Spetzler
-    relay: []
-  attribution_mode: unknown
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
+    shared_claims: 2
   - node_id: 753d6acf-91e7-4ecd-a7fe-452336b30f13
     title: 2007 interview of Robert Spetzler
+    node_type: document
     slug: 2007-interview-of-robert-spetzler
-  - node_id: 8de46277-4bd1-4f42-92e6-a6fedba9111e
-    title: hypothermic cardiac arrest technique
-    slug: hypothermic-cardiac-arrest-technique
-  - node_id: ac050fca-beee-4b02-b808-a976ff75b610
-    title: Pam Reynolds
-    slug: pam-reynolds
-  - node_id: be5eedeb-20d3-4b3d-8cb8-24a81457a278
-    title: Robert Spetzler
-    slug: robert-spetzler
-  date: '2007'
-  date_end: null
-  location_in_record: ch17:16835-17173
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-- claim_id: 6da6982f-d973-4659-b750-7d7d6d921713
-  claim_hash: 2bb58c84700d241c1b7281538f1915057d9a644efb2a5a0cb45a187d6525e165
-  content: During Pam Reynolds's hypothermic cardiac arrest, her EEG brain waves and
-    evoked potentials completely disappeared, showing no detectable brain activity.
-  original_excerpt: Now, in hypothermic cardiac arrest, those waves completely disappear.
-    They are gone, they are flat. There is absolutely no brain activity that we can
-    detect.
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: be5eedeb-20d3-4b3d-8cb8-24a81457a278
-    title: Robert Spetzler
-  provenance_chain:
-    origin_kind: speaker
-    origin: Robert Spetzler
-    relay: []
-  attribution_mode: bare_ok
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 8de46277-4bd1-4f42-92e6-a6fedba9111e
-    title: hypothermic cardiac arrest technique
-    slug: hypothermic-cardiac-arrest-technique
-  - node_id: ac050fca-beee-4b02-b808-a976ff75b610
-    title: Pam Reynolds
-    slug: pam-reynolds
-  date: '2007'
-  date_end: null
-  location_in_record: ch17:2581-2731
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-- claim_id: 577d5eec-2bbc-4e5e-b0b0-6e56e9e65590
-  claim_hash: af390bdcee1d35226e34af2b3a23fe02dd019ce92cf7deab8f13e7d599b28db8
-  content: Electroencephalography (EEG), magnetoencephalography (MEG), and positron
-    emission tomography (PET) scans measure electrical, magnetic, and chemical activity
-    in the brain.
-  original_excerpt: We can measure only the electrical, magnetic, chemical activities
-    in the brain by EEG-, MEG-, and PET-scan
-  claim_type: observation
-  attestation: first_hand
-  speaker:
-    node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
-    title: Pim van Lommel
-  provenance_chain:
-    origin_kind: speaker
-    origin: Pim van Lommel
-    relay: []
-  attribution_mode: bare_ok
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
-    title: Pim van Lommel
-    slug: pim-van-lommel
-  date: null
-  date_end: null
-  location_in_record: ch18:20608-20710
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-- claim_id: f90ae4f6-ab21-4f27-8b90-e17f5d039ce5
-  claim_hash: 1f6530176a4cb178f1584c885fbeadbd32193efca8ccb67980030e95370e123e
-  content: 'The Windbridge Institute EEG study of six mediums monitored the mediums''
-    brain activity using electroencephalography (EEG) during four tasks: recollection
-    (thinking about a living person known to the medium), perception (listening to
-    information read about a person), fabrication (making up a fictitious person and
-    thinking about them), and communication (communicating with a deceased person
-    known to the medium).'
-  original_excerpt: 'In a study in which we monitored the brain activity of six Windbridge
-    Institute mediums using electroencephalography (EEG), we found differences for
-    four tasks the mediums performed: recollection (think about a living person you
-    know), perception (listen while I read you information about a person), fabrication
-    (make up someone and think about him/her), and communication (communicate with
-    a deceased person you know).'
-  claim_type: measurement
-  attestation: first_hand
-  speaker:
-    node_id: a058b818-ab64-4775-ba08-67f9db5f8453
-    title: Jeff Tarrant
-  provenance_chain:
-    origin_kind: speaker
-    origin: Jeff Tarrant
-    relay: []
-  attribution_mode: bare_ok
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 693acdd5-6e23-41d6-9ff7-adcda3ef160e
-    title: Windbridge Institute electroencephalography (EEG) study of six mediums
-    slug: windbridge-institute-electroencephalography-eeg-study-of-six-mediums
-  - node_id: ed31a19b-d67d-45ad-84cc-e3cb4184fa20
-    title: Windbridge Institute
-    slug: windbridge-institute
-  date: null
-  date_end: null
-  location_in_record: ch25:20617-21031
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-    record_title: Surviving Death
-    record_date: '2017-03-07'
-    record_reference: null
-    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-    friendly_name: 2017-03-07-ebook-surviving-death
-- claim_id: 7969339b-601a-4803-9951-3cd029375ec5
-  claim_hash: 43d1714a2af760658a62b0e6f903ab29ea08c4ee4a5279c370a19deceafe494d
-  content: Presentiment is the idea that the body changes its heart rhythm, respiration
-    or electroencephalography (EEG) signal before a random event occurs, so the body
-    responds to a future event it cannot know about by usual means.
-  original_excerpt: So it's the idea that your body can change its heart rhythm, respiration,
-    EEG, you name it, whatever sensor you want on the body before an event occurs,
-    and the event is random. So your body's responding to a future event that it can't
-    know about according to the usual means.
-  claim_type: testimony
-  attestation: first_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Julia Mossbridge
-    relay: []
-  attribution_mode: bare_ok
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
-  - node_id: 72cb2492-82b5-41c3-938e-122b8d563316
-    title: presentiment
-    slug: presentiment
-  date: null
-  date_end: null
-  location_in_record: 01:23:05.1-01:23:22.4
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
-- claim_id: 69ab702a-2a46-4b49-92d2-4c00fefb8033
-  claim_hash: e8ec2074374c096e01451cebaecadbeb090cb1cc5cfe68b76d0898839b131a14
-  content: During her postdoctoral work at Northwestern University, Julia Mossbridge
-    was doing electroencephalography (EEG) research.
-  original_excerpt: And I was doing EEG, and I was helping out with another experiment
-  claim_type: administrative
-  attestation: first_hand
-  speaker:
-    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-  provenance_chain:
-    origin_kind: speaker
-    origin: Julia Mossbridge
-    relay: []
-  attribution_mode: bare_ok
-  attachment: unreviewed
-  node_refs:
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    slug: electroencephalography-eeg
+    shared_claims: 1
+  - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+    title: Charlie Hickson
+    node_type: person
+    slug: charlie-hickson
+    shared_claims: 1
+  - node_id: 72698ef3-fe06-45f6-adb9-47996297860e
+    title: Frontiers in Human Neuroscience
+    node_type: organisation
+    slug: frontiers-in-human-neuroscience
+    shared_claims: 1
+  - node_id: 9337fbaf-3bd9-43e4-9905-259421b9c59d
+    title: Galvanic Skin Response (GSR)
+    node_type: topic
+    slug: galvanic-skin-response-gsr
+    shared_claims: 1
+  - node_id: f774194b-106c-43bd-be85-5318eb56d66e
+    title: Italy
+    node_type: place
+    slug: italy
+    shared_claims: 1
   - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
     title: Julia Mossbridge
+    node_type: person
     slug: julia-mossbridge
+    shared_claims: 1
   - node_id: d12ebb23-4faf-4060-95a7-156343da4172
     title: Northwestern University
+    node_type: organisation
     slug: northwestern-university
-  date: null
-  date_end: null
-  location_in_record: 01:49:09.2-01:49:12.2
-  evidence:
-    score: null
-    independent_sources: 1
-  provenance:
-    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
-      Mossbridge | ep. 99
-    record_date: '2026-08-14'
-    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-    friendly_name: null
+    shared_claims: 1
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    node_type: topic
+    slug: out-of-body-experience-obe
+    shared_claims: 1
+  - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+    title: Pim van Lommel
+    node_type: person
+    slug: pim-van-lommel
+    shared_claims: 1
+  - node_id: 72cb2492-82b5-41c3-938e-122b8d563316
+    title: Presentiment
+    node_type: topic
+    slug: presentiment
+    shared_claims: 1
+  - node_id: ea943180-20a7-469d-8fd5-fe4cdc274849
+    title: Richard Gordon
+    node_type: person
+    slug: richard-gordon
+    shared_claims: 1
+  - node_id: be5eedeb-20d3-4b3d-8cb8-24a81457a278
+    title: Robert Spetzler
+    node_type: person
+    slug: robert-spetzler
+    shared_claims: 1
+  - node_id: fc27a115-50de-48fe-a838-8b9646498f78
+    title: University of Padova
+    node_type: organisation
+    slug: university-of-padova
+    shared_claims: 1
+  - node_id: ed31a19b-d67d-45ad-84cc-e3cb4184fa20
+    title: Windbridge Institute
+    node_type: organisation
+    slug: windbridge-institute
+    shared_claims: 1
+  - node_id: 693acdd5-6e23-41d6-9ff7-adcda3ef160e
+    title: Windbridge Institute electroencephalography (EEG) study of six mediums
+    node_type: document
+    slug: windbridge-institute-electroencephalography-eeg-study-of-six-mediums
+    shared_claims: 1
+claims:
+  - claim_id: c44ee9a7-c39b-4873-9425-0efd58122b57
+    claim_hash: aaef1893f213008a4cc6f45ca4822449e5e1c0789242df80e1db1743b6bf1fdc
+    content: During the second separation of the EEG experiment, Robert Monroe let himself float to the floor beside the cot
+      and felt himself passing through the various EEG wires on the way down.
+    original_excerpt: This time, I let myself float to the floor beside the cot. I fell slowly, and could feel myself passing
+      through the various EEG wires on the way down.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      title: Robert Monroe
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Monroe
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 7dd41fc6-847d-4a7f-9fff-f01b9bdf0bff
+        title: 'Electroencephalogram (EEG) Experiment #EEG-5 (1966-07-19)'
+        slug: electroencephalogram-eeg-experiment-eeg-5-1966-07-19
+    date: null
+    date_end: null
+    location_in_record: ch12:20926-21071
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: cd548142-3819-4e8c-ae83-67dda1c3f274
+    claim_hash: 3e76bc3b442469b9b81146b52e454dcdba6c8bb8f2dc5c2dff9d7453a5bac551
+    content: Robert Monroe was unaware of the presence of the technician's husband prior to the EEG experiment, which he considered
+      the only supporting evidence beyond what might have appeared on the EEG recording.
+    original_excerpt: The only supporting evidence other than what might have appeared on the EEG lies in the presence of
+      the husband, of which I was unaware prior to the experiment.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      title: Robert Monroe
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Monroe
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 7dd41fc6-847d-4a7f-9fff-f01b9bdf0bff
+        title: 'Electroencephalogram (EEG) Experiment #EEG-5 (1966-07-19)'
+        slug: electroencephalogram-eeg-experiment-eeg-5-1966-07-19
+    date: null
+    date_end: null
+    location_in_record: ch12:24188-24337
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 06e0a806-ddab-4ad5-bf02-a539685a8a71
+    claim_hash: 41025b99e5f2816f8db71e96e47682e4b5db4b7c40695484e9855123ac77d813
+    content: Charles T. Tart stated that the EEG recording showed definite unusual and unique tracings during the time of
+      Robert Monroe's out-of-body activity in the EEG-5 experiment.
+    original_excerpt: Dr. Tart states that the EEG shows definite unusual and unique tracings during time of activity.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: named
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 7dd41fc6-847d-4a7f-9fff-f01b9bdf0bff
+        title: 'Electroencephalogram (EEG) Experiment #EEG-5 (1966-07-19)'
+        slug: electroencephalogram-eeg-experiment-eeg-5-1966-07-19
+    date: null
+    date_end: null
+    location_in_record: ch12:24660-24747
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 6ee92d95-c8ea-4c4f-9c47-0694388c10dc
+    claim_hash: 8868d24836c45210a543be4f791c88ca843b422cce870336f5c0af5b7654fb93
+    content: During the psycho-physiological experiment, Robert Monroe was hooked up to a polygraph, and measurements were
+      taken of his brain waves, anxiety level, and level of alertness by Galvanic Skin Response (GSR).
+    original_excerpt: We had him hooked up to a polygraph and took some brain wave tracings and measurements of his anxiety
+      level and level of alertness (GSR).
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: f5051f0b-eeaf-4811-b4a3-f684c498e892
+      title: Stuart W. Twemlow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stuart W. Twemlow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 5f43b9d2-0313-4055-9278-6bf9f5aabff4
+        title: Robert Monroe's psycho-physiological experiment at Topeka VA Hospital
+        slug: robert-monroes-psycho-physiological-experiment-at-topeka-va-hospital
+      - node_id: 9337fbaf-3bd9-43e4-9905-259421b9c59d
+        title: Galvanic Skin Response (GSR)
+        slug: galvanic-skin-response-gsr
+    date: null
+    date_end: null
+    location_in_record: ch30:11406-11538
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: bf5a05f0-6ff8-4d2c-8155-8d28b31c8cef
+    claim_hash: 6750c193cac504fac90afb35dba91b4208634255a5ed5dd25bbf94141fc29592
+    content: Robert Monroe's return signal during the psycho-physiological experiment correlated with a change in his brain
+      waves.
+    original_excerpt: This signal correlated with a change again in his brain waves.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f5051f0b-eeaf-4811-b4a3-f684c498e892
+      title: Stuart W. Twemlow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stuart W. Twemlow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 5f43b9d2-0313-4055-9278-6bf9f5aabff4
+        title: Robert Monroe's psycho-physiological experiment at Topeka VA Hospital
+        slug: robert-monroes-psycho-physiological-experiment-at-topeka-va-hospital
+    date: null
+    date_end: null
+    location_in_record: ch30:12374-12430
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 62d63cd9-46bc-47dd-aefd-ac83f914ab1e
+    claim_hash: 74a108a7aeed76a1b08cd844caea2f9715747fa36b1cd68e8da679d370870f55
+    content: A computer analysis of Robert Monroe's brain waves during the psycho-physiological experiment demonstrated that
+      most of his brain energy was in the four to five cycle per second (Theta) frequency range, with nothing at all above
+      ten cycles per second.
+    original_excerpt: A computer analysis of Monroe’s brain waves demonstrated that most of his brain energy was in the four
+      to five (Theta) frequency range, with nothing at all above ten cycles per second.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: f5051f0b-eeaf-4811-b4a3-f684c498e892
+      title: Stuart W. Twemlow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stuart W. Twemlow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 5f43b9d2-0313-4055-9278-6bf9f5aabff4
+        title: Robert Monroe's psycho-physiological experiment at Topeka VA Hospital
+        slug: robert-monroes-psycho-physiological-experiment-at-topeka-va-hospital
+    date: null
+    date_end: null
+    location_in_record: ch30:14079-14256
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 5dd62a74-cbf1-462d-bc69-24f5b2929023
+    claim_hash: 155bc694e2b37c59accecd97f442a23731b327265e69ced64011b52ac3cdb120
+    content: At the time the technician noticed the change in Robert Monroe's electroencephalogram (EEG) during the experiment,
+      there appeared to be a shift in energy from the left to the right side of his brain.
+    original_excerpt: At the time the technician noticed the change in the EEG there appeared to be a shift in energy from
+      the left to the right side of his brain.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f5051f0b-eeaf-4811-b4a3-f684c498e892
+      title: Stuart W. Twemlow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stuart W. Twemlow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 5f43b9d2-0313-4055-9278-6bf9f5aabff4
+        title: Robert Monroe's psycho-physiological experiment at Topeka VA Hospital
+        slug: robert-monroes-psycho-physiological-experiment-at-topeka-va-hospital
+    date: null
+    date_end: null
+    location_in_record: ch30:14574-14709
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 9e162c2d-5462-41b1-ba5a-0965ee21a9d1
+    claim_hash: d6532b8844c09c0940147c1d26efe8cc785b8dd51f75d720e2bf0286a527cee9
+    content: Robert Monroe's ordinary electroencephalogram (EEG) was quite normal with no evidence of epilepsy and no evidence
+      of unusual responses to overbreathing or light stimulation.
+    original_excerpt: His ordinary EEG was quite normal with no evidence of epilepsy and no evidence of unusual responses
+      to overbreathing or light stimulation.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: f5051f0b-eeaf-4811-b4a3-f684c498e892
+      title: Stuart W. Twemlow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stuart W. Twemlow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+    date: null
+    date_end: null
+    location_in_record: ch30:14716-14842
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 0ab93e27-04eb-4bb5-83f9-bdb94fd5be8b
+    claim_hash: 9f5bcfd4e00ab0e7d307c8cbe87b3b5a49d94ca9a653a5d54b4f47e57ec6fad8
+    content: A later statistical analysis of variance of Robert Monroe's electroencephalogram (EEG) tracings showed no particular
+      difference between the frequency of brain waves on the right and left side of his brain, but that during the time he
+      was out of the body the frequency of his brain waves was considerably slower.
+    original_excerpt: A later statistical analysis of his EEG tracings (analysis of variance) showed that in terms of the
+      frequency of brain waves there was no particular difference between the right and left side of his brain, but that during
+      the time he was out of the body the frequency of his brain waves was considerably slower.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: f5051f0b-eeaf-4811-b4a3-f684c498e892
+      title: Stuart W. Twemlow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stuart W. Twemlow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 5f43b9d2-0313-4055-9278-6bf9f5aabff4
+        title: Robert Monroe's psycho-physiological experiment at Topeka VA Hospital
+        slug: robert-monroes-psycho-physiological-experiment-at-topeka-va-hospital
+    date: null
+    date_end: null
+    location_in_record: ch30:14855-15159
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 39d1864e-38c6-4db8-b0d3-73dafe072194
+    claim_hash: 308b01474f263d3a5a3e8bde3de6f9d8104425899a4dcd7d5d7b66e73e338c0c
+    content: During the out-of-the-body period of the experiment, the variation in frequency of Robert Monroe's brain waves
+      was considerably smaller, and this variation was much less on the right side of his brain than on the left side, a difference
+      that was highly statistically significant at P less than 0.001.
+    original_excerpt: During the out-of-the-body period the *variations* in frequency of his brain waves were considerably
+      smaller, the variation being much less on the right side of his brain than on the left side. The differences here were
+      highly statistically significant (P< .001).
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: f5051f0b-eeaf-4811-b4a3-f684c498e892
+      title: Stuart W. Twemlow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stuart W. Twemlow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 5f43b9d2-0313-4055-9278-6bf9f5aabff4
+        title: Robert Monroe's psycho-physiological experiment at Topeka VA Hospital
+        slug: robert-monroes-psycho-physiological-experiment-at-topeka-va-hospital
+    date: null
+    date_end: null
+    location_in_record: ch30:15167-15425
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 1a646fd9-9314-40c6-a2ce-e67737fbaf9f
+    claim_hash: 79577cff2d8070fba9bb6cd294ab6a87ce4f62dc4787bcf2910b0fb4963958a1
+    content: In other experiments, Stuart W. Twemlow found different types of brain wave responses associated with what is
+      defined as out-of-the-body, but they all showed a slowing in the brain waves and a shifting of energy focus.
+    original_excerpt: 'In other experiments we have found different types of brain wave responses to what is defined as out-of-the-body,
+      but they all seem to have one thing in common: there is a slowing in the brain waves, and a shifting of energy focus.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f5051f0b-eeaf-4811-b4a3-f684c498e892
+      title: Stuart W. Twemlow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stuart W. Twemlow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: null
+    date_end: null
+    location_in_record: ch30:15932-16157
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 207ff65a-a4de-4cbe-a9c7-4bf26e336077
+    claim_hash: 7d22788de103cd0e7cc3284abadd798c053e57b50d52d3a535d07d0e4006a8ea
+    content: Measurements were made of Robert Monroe's brain waves (electroencephalogram), eye movements, and heart rate (electrocardiogram)
+      during the laboratory sessions.
+    original_excerpt: Measurements were made of Mr. Monroe’s brain waves (the electroencephalogram), eye movements, and heart
+      rate (the electrocardiogram).
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+    date: null
+    date_end: null
+    location_in_record: ch8:12817-12931
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 04dd55df-38c1-4db0-bc13-21b1fe0e92b4
+    claim_hash: 2735ddf817e03341d6350dbc0e9ba51085ec0454bcb94c4356dba5381159347d
+    content: Richard Gordon arranged for Robert Monroe to have an electroencephalogram (EEG) brain-wave analysis, which showed
+      no unusual problem.
+    original_excerpt: He arranged for an EEG (brain-wave analysis), which evidently showed no unusual problem.
+    claim_type: measurement
+    attestation: second_hand
+    speaker:
+      node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      title: Robert Monroe
+    provenance_chain:
+      origin_kind: named
+      origin: Richard Gordon
+      relay:
+        - Robert Monroe
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: ea943180-20a7-469d-8fd5-fe4cdc274849
+        title: Richard Gordon
+        slug: richard-gordon
+    date: '1958'
+    date_end: null
+    location_in_record: ch9:19335-19415
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 005a312a-24d5-4c7b-a142-60299a392311
+    claim_hash: 109eb41100ae7cfd6b686d7d92e1624ea293c7d1ece88053b5923b289bb0653b
+    content: A 2014 paper in Frontiers in Human Neuroscience by nine scientists from the University of Padova, Italy, reports
+      on using electroencephalography (EEG) to investigate the characteristics of near-death experience memories and their
+      neural markers compared to memories of both real and imagined events.
+    original_excerpt: A lengthy 2014 paper in Frontiers in Human Neuroscience by nine scientists from the University of Padova,
+      Italy, reports on the use of electroencephalography (EEG) "to investigate the characteristics of NDE memories and their
+      neural markers compared to memories of both real and imagined events."
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: University of Padova 2014 EEG paper in Frontiers in Human Neuroscience
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: Near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: 61b10963-73a8-493f-90ad-96b5245c570b
+        title: University of Padova 2014 electroencephalography (EEG) paper in Frontiers in Human Neuroscience
+        slug: university-of-padova-2014-electroencephalography-eeg-paper-in-frontiers-in-human-neuroscience
+      - node_id: 72698ef3-fe06-45f6-adb9-47996297860e
+        title: Frontiers in Human Neuroscience
+        slug: frontiers-in-human-neuroscience
+      - node_id: f774194b-106c-43bd-be85-5318eb56d66e
+        title: Italy
+        slug: italy
+      - node_id: fc27a115-50de-48fe-a838-8b9646498f78
+        title: University of Padova
+        slug: university-of-padova
+    date: '2014'
+    date_end: null
+    location_in_record: ch16:15323-15613
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 2befc649-a990-4264-a545-c36c82ead041
+    claim_hash: 0a41f03a70a9ef52ab7494cfb5cdade18601f14f0a790fdd9b5f2c479b7f7ab7
+    content: The University of Padova scientists state that the EEG pattern of correlations for near-death experience memory
+      recall differed from the pattern for memories of imagined events.
+    original_excerpt: '"It is notable that the EEG pattern of correlations for NDE memory recall differed from the pattern
+      for memories of imagined events," they state.'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: University of Padova 2014 EEG paper in Frontiers in Human Neuroscience
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: Near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: 61b10963-73a8-493f-90ad-96b5245c570b
+        title: University of Padova 2014 electroencephalography (EEG) paper in Frontiers in Human Neuroscience
+        slug: university-of-padova-2014-electroencephalography-eeg-paper-in-frontiers-in-human-neuroscience
+    date: null
+    date_end: null
+    location_in_record: ch16:15681-15819
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: ea35a948-3023-4ae1-8aa8-f07048fc1c13
+    claim_hash: 676e73512bf5f4b0c10b2da97b2fc33cd4c79460053cfe314109ec16846c3d15
+    content: Robert Spetzler stated that during hypothermic cardiac arrest it is inconceivable, from a scientific perspective,
+      that there is any brain function requiring metabolic activity, and that Pam Reynolds's EEG and evoked potentials were
+      completely flat, confirming she was clinically dead.
+    original_excerpt: if I look at it purely as a scientist, I would say that during hypothermic cardiac arrest, it is inconceivable
+      to me that there is any brain function going on that requires metabolic activity. There was absolutely no question that
+      Pam Reynolds was clinically dead. Her EEG was completely flat, and her evoked potential too was completely gone.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: be5eedeb-20d3-4b3d-8cb8-24a81457a278
+      title: Robert Spetzler
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Spetzler
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 753d6acf-91e7-4ecd-a7fe-452336b30f13
+        title: 2007 interview of Robert Spetzler
+        slug: 2007-interview-of-robert-spetzler
+      - node_id: 8de46277-4bd1-4f42-92e6-a6fedba9111e
+        title: Hypothermic cardiac arrest technique
+        slug: hypothermic-cardiac-arrest-technique
+      - node_id: ac050fca-beee-4b02-b808-a976ff75b610
+        title: Pam Reynolds
+        slug: pam-reynolds
+      - node_id: be5eedeb-20d3-4b3d-8cb8-24a81457a278
+        title: Robert Spetzler
+        slug: robert-spetzler
+    date: '2007'
+    date_end: null
+    location_in_record: ch17:16835-17173
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 6da6982f-d973-4659-b750-7d7d6d921713
+    claim_hash: 2bb58c84700d241c1b7281538f1915057d9a644efb2a5a0cb45a187d6525e165
+    content: During Pam Reynolds's hypothermic cardiac arrest, her EEG brain waves and evoked potentials completely disappeared,
+      showing no detectable brain activity.
+    original_excerpt: Now, in hypothermic cardiac arrest, those waves completely disappear. They are gone, they are flat.
+      There is absolutely no brain activity that we can detect.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: be5eedeb-20d3-4b3d-8cb8-24a81457a278
+      title: Robert Spetzler
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Spetzler
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 8de46277-4bd1-4f42-92e6-a6fedba9111e
+        title: Hypothermic cardiac arrest technique
+        slug: hypothermic-cardiac-arrest-technique
+      - node_id: ac050fca-beee-4b02-b808-a976ff75b610
+        title: Pam Reynolds
+        slug: pam-reynolds
+    date: '2007'
+    date_end: null
+    location_in_record: ch17:2581-2731
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 577d5eec-2bbc-4e5e-b0b0-6e56e9e65590
+    claim_hash: af390bdcee1d35226e34af2b3a23fe02dd019ce92cf7deab8f13e7d599b28db8
+    content: Electroencephalography (EEG), magnetoencephalography (MEG), and positron emission tomography (PET) scans measure
+      electrical, magnetic, and chemical activity in the brain.
+    original_excerpt: We can measure only the electrical, magnetic, chemical activities in the brain by EEG-, MEG-, and PET-scan
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+    date: null
+    date_end: null
+    location_in_record: ch18:20608-20710
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: f90ae4f6-ab21-4f27-8b90-e17f5d039ce5
+    claim_hash: 1f6530176a4cb178f1584c885fbeadbd32193efca8ccb67980030e95370e123e
+    content: 'The Windbridge Institute EEG study of six mediums monitored the mediums'' brain activity using electroencephalography
+      (EEG) during four tasks: recollection (thinking about a living person known to the medium), perception (listening to
+      information read about a person), fabrication (making up a fictitious person and thinking about them), and communication
+      (communicating with a deceased person known to the medium).'
+    original_excerpt: 'In a study in which we monitored the brain activity of six Windbridge Institute mediums using electroencephalography
+      (EEG), we found differences for four tasks the mediums performed: recollection (think about a living person you know),
+      perception (listen while I read you information about a person), fabrication (make up someone and think about him/her),
+      and communication (communicate with a deceased person you know).'
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+      title: Jeff Tarrant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jeff Tarrant
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 693acdd5-6e23-41d6-9ff7-adcda3ef160e
+        title: Windbridge Institute electroencephalography (EEG) study of six mediums
+        slug: windbridge-institute-electroencephalography-eeg-study-of-six-mediums
+      - node_id: ed31a19b-d67d-45ad-84cc-e3cb4184fa20
+        title: Windbridge Institute
+        slug: windbridge-institute
+    date: null
+    date_end: null
+    location_in_record: ch25:20617-21031
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 7969339b-601a-4803-9951-3cd029375ec5
+    claim_hash: 43d1714a2af760658a62b0e6f903ab29ea08c4ee4a5279c370a19deceafe494d
+    content: Presentiment is the idea that the body changes its heart rhythm, respiration or electroencephalography (EEG)
+      signal before a random event occurs, so the body responds to a future event it cannot know about by usual means.
+    original_excerpt: So it's the idea that your body can change its heart rhythm, respiration, EEG, you name it, whatever
+      sensor you want on the body before an event occurs, and the event is random. So your body's responding to a future event
+      that it can't know about according to the usual means.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 72cb2492-82b5-41c3-938e-122b8d563316
+        title: Presentiment
+        slug: presentiment
+    date: null
+    date_end: null
+    location_in_record: 01:23:05.1-01:23:22.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 69ab702a-2a46-4b49-92d2-4c00fefb8033
+    claim_hash: e8ec2074374c096e01451cebaecadbeb090cb1cc5cfe68b76d0898839b131a14
+    content: During her postdoctoral work at Northwestern University, Julia Mossbridge was doing electroencephalography (EEG)
+      research.
+    original_excerpt: And I was doing EEG, and I was helping out with another experiment
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: d12ebb23-4faf-4060-95a7-156343da4172
+        title: Northwestern University
+        slug: northwestern-university
+    date: null
+    date_end: null
+    location_in_record: 01:49:09.2-01:49:12.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

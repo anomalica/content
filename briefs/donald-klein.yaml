@@ -34,7 +34,7 @@ related_nodes:
     slug: budd-hopkins
     shared_claims: 6
   - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
-    title: forensic hypnosis
+    title: Forensic hypnosis
     node_type: topic
     slug: forensic-hypnosis
     shared_claims: 6
@@ -48,6 +48,11 @@ related_nodes:
     node_type: event
     slug: 1986-03-hypnosis-session-of-whitley-strieber-by-donald-klein
     shared_claims: 2
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 2
   - node_id: 5f3c0bb3-cd34-415b-9acc-8f0fb7146d6e
     title: March 1, 1986 hypnosis session (October 4 memories)
     node_type: event
@@ -57,11 +62,6 @@ related_nodes:
     title: Robert Naiman
     node_type: person
     slug: robert-naiman
-    shared_claims: 2
-  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
-    node_type: topic
-    slug: alien-abduction
     shared_claims: 2
   - node_id: 14a28fcf-6ed3-45c5-b107-e46117e024b7
     title: 1957 train trip abduction memory (age twelve)
@@ -93,15 +93,15 @@ related_nodes:
     node_type: event
     slug: 1985-abduction-experience-october-4
     shared_claims: 1
+  - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
+    title: The visitors (nonhuman beings)
+    node_type: topic
+    slug: the-visitors-nonhuman-beings
+    shared_claims: 1
   - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
     title: USA, New York, Manhattan
     node_type: place
     slug: new-york-manhattan-usa
-    shared_claims: 1
-  - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-    title: the visitors (nonhuman beings)
-    node_type: topic
-    slug: the-visitors-nonhuman-beings
     shared_claims: 1
 claims:
   - claim_id: a67edea8-5973-4968-834f-cff7f02e769f
@@ -883,7 +883,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-        title: the visitors (nonhuman beings)
+        title: The visitors (nonhuman beings)
         slug: the-visitors-nonhuman-beings
       - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
         title: Donald Klein
@@ -1586,7 +1586,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
-        title: forensic hypnosis
+        title: Forensic hypnosis
         slug: forensic-hypnosis
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1627,7 +1627,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
-        title: forensic hypnosis
+        title: Forensic hypnosis
         slug: forensic-hypnosis
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1700,7 +1700,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
-        title: forensic hypnosis
+        title: Forensic hypnosis
         slug: forensic-hypnosis
       - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
         title: Donald Klein
@@ -1737,13 +1737,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
-        title: forensic hypnosis
+        title: Forensic hypnosis
         slug: forensic-hypnosis
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -1784,7 +1784,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
-        title: forensic hypnosis
+        title: Forensic hypnosis
         slug: forensic-hypnosis
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1825,13 +1825,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
-        title: forensic hypnosis
+        title: Forensic hypnosis
         slug: forensic-hypnosis
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
         title: Donald Klein

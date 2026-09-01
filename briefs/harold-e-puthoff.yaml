@@ -84,7 +84,7 @@ related_nodes:
     slug: arts-parts-alleged-roswell-metal-samples
     shared_claims: 7
   - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
-    title: warp drive
+    title: Warp drive
     node_type: topic
     slug: warp-drive
     shared_claims: 6
@@ -1436,7 +1436,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -2224,7 +2224,7 @@ claims:
         title: EarthTech International
         slug: earthtech-international
       - node_id: c973fa9a-1303-4d8f-a85a-8e08f8f9d253
-        title: beamed energy propulsion
+        title: Beamed energy propulsion
         slug: beamed-energy-propulsion
     date: '2018'
     date_end: null
@@ -2971,7 +2971,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-        title: zero-point energy
+        title: Zero-point energy
         slug: zero-point-energy
       - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
         title: Anti-Gravity Propulsion
@@ -3034,7 +3034,7 @@ claims:
         title: 2016-04 Salvatore Pais gravity wave spacecraft patent application
         slug: 2016-04-salvatore-pais-gravity-wave-spacecraft-patent-application
       - node_id: bae45012-c331-4cd1-90ed-a6382a865d59
-        title: vacuum polarisation
+        title: Vacuum polarisation
         slug: vacuum-polarisation
     date: null
     date_end: null
@@ -3076,7 +3076,7 @@ claims:
         title: Harold E. Puthoff
         slug: harold-e-puthoff
       - node_id: bae45012-c331-4cd1-90ed-a6382a865d59
-        title: vacuum polarisation
+        title: Vacuum polarisation
         slug: vacuum-polarisation
     date: 2016-04
     date_end: null
@@ -3894,7 +3894,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -4053,7 +4053,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 469451fd-d38a-453c-b2c0-a1f83d9b5267
-        title: traversable wormhole
+        title: Traversable wormhole
         slug: traversable-wormhole
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -4062,7 +4062,7 @@ claims:
         title: Harold E. Puthoff
         slug: harold-e-puthoff
       - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
-        title: warp drive
+        title: Warp drive
         slug: warp-drive
       - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
         title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
@@ -4316,7 +4316,7 @@ claims:
         title: Roswell incident (1947)
         slug: roswell-incident-1947
       - node_id: dd72cc7d-7470-4d37-9d6f-474300e06820
-        title: electromagnetic pulse (EMP)
+        title: Electromagnetic pulse (EMP)
         slug: electromagnetic-pulse-emp
     date: null
     date_end: null
@@ -4353,7 +4353,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 6d1423bb-22bf-458e-9ce2-0d878a1909ad
-        title: directed-energy weapon
+        title: Directed-energy weapon
         slug: directed-energy-weapon
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -4362,7 +4362,7 @@ claims:
         title: Roswell incident (1947)
         slug: roswell-incident-1947
       - node_id: dd72cc7d-7470-4d37-9d6f-474300e06820
-        title: electromagnetic pulse (EMP)
+        title: Electromagnetic pulse (EMP)
         slug: electromagnetic-pulse-emp
     date: null
     date_end: null
@@ -4505,7 +4505,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-        title: zero-point energy
+        title: Zero-point energy
         slug: zero-point-energy
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -4652,13 +4652,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 469451fd-d38a-453c-b2c0-a1f83d9b5267
-        title: traversable wormhole
+        title: Traversable wormhole
         slug: traversable-wormhole
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
         slug: harold-e-puthoff
       - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
-        title: warp drive
+        title: Warp drive
         slug: warp-drive
     date: null
     date_end: null
@@ -4876,7 +4876,7 @@ claims:
         title: Harold E. Puthoff
         slug: harold-e-puthoff
       - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
-        title: warp drive
+        title: Warp drive
         slug: warp-drive
     date: null
     date_end: null
@@ -5013,7 +5013,7 @@ claims:
         title: Harold E. Puthoff
         slug: harold-e-puthoff
       - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
-        title: warp drive
+        title: Warp drive
         slug: warp-drive
     date: null
     date_end: null
@@ -5158,7 +5158,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-        title: zero-point energy
+        title: Zero-point energy
         slug: zero-point-energy
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -5456,7 +5456,7 @@ claims:
         title: Harold E. Puthoff
         slug: harold-e-puthoff
       - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
-        title: warp drive
+        title: Warp drive
         slug: warp-drive
     date: null
     date_end: null
@@ -6253,7 +6253,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -6292,7 +6292,7 @@ claims:
         title: Harold E. Puthoff
         slug: harold-e-puthoff
       - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
-        title: warp drive
+        title: Warp drive
         slug: warp-drive
     date: null
     date_end: null
@@ -8758,7 +8758,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 18935466-c561-44ee-8d75-5ae35101bc60
-        title: extended electrodynamics
+        title: Extended electrodynamics
         slug: extended-electrodynamics
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff

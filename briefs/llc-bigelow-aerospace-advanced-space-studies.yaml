@@ -78,6 +78,11 @@ related_nodes:
     node_type: event
     slug: 2009-harry-reid-special-access-program-request-for-advanced-aerospace-threat-identification-program-aatip
     shared_claims: 1
+  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+    title: Alien implant
+    node_type: topic
+    slug: alien-implant
+    shared_claims: 1
   - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
     title: Eric Davis
     node_type: person
@@ -92,11 +97,6 @@ related_nodes:
     title: United States Pentagon
     node_type: place
     slug: united-states-pentagon
-    shared_claims: 1
-  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-    title: alien implant
-    node_type: topic
-    slug: alien-implant
     shared_claims: 1
 claims:
   - claim_id: f3bb0a7a-8872-40bb-beb8-b9c0735620f7
@@ -514,7 +514,7 @@ claims:
         title: Bigelow Aerospace Advanced Space Studies, LLC
         slug: llc-bigelow-aerospace-advanced-space-studies
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null

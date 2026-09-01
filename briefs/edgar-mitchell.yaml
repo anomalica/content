@@ -24,7 +24,7 @@ belonging:
   unreviewed: 225
 related_nodes:
   - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-    title: cosmic ray visual phenomena (light flashes)
+    title: Cosmic ray visual phenomena (light flashes)
     node_type: topic
     slug: cosmic-ray-visual-phenomena-light-flashes
     shared_claims: 31
@@ -118,6 +118,11 @@ related_nodes:
     node_type: event
     slug: apollo-14-lunar-landing-mission
     shared_claims: 5
+  - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
+    title: Dyadic model of consciousness (Mitchell)
+    node_type: topic
+    slug: dyadic-model-of-consciousness-mitchell
+    shared_claims: 5
   - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
     title: James Rigney
     node_type: person
@@ -127,6 +132,11 @@ related_nodes:
     title: National Aeronautics and Space Administration (NASA)
     node_type: organisation
     slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 5
+  - node_id: 880f2af4-643d-4b5f-b936-3998996fd52f
+    title: Quantum hologram theory of physics and consciousness (QHTC)
+    node_type: topic
+    slug: quantum-hologram-theory-of-physics-and-consciousness-qhtc
     shared_claims: 5
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
     title: Remote Viewing (RV)
@@ -143,20 +153,15 @@ related_nodes:
     node_type: person
     slug: rudy-schild
     shared_claims: 5
-  - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
-    title: dyadic model of consciousness (Mitchell)
-    node_type: topic
-    slug: dyadic-model-of-consciousness-mitchell
-    shared_claims: 5
-  - node_id: 880f2af4-643d-4b5f-b936-3998996fd52f
-    title: quantum hologram theory of physics and consciousness (QHTC)
-    node_type: topic
-    slug: quantum-hologram-theory-of-physics-and-consciousness-qhtc
-    shared_claims: 5
   - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
     title: Eric Davis
     node_type: person
     slug: eric-davis
+    shared_claims: 4
+  - node_id: 2b677f65-d068-44a7-913d-aade288d1e62
+    title: Samadhi
+    node_type: topic
+    slug: samadhi
     shared_claims: 4
   - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
     title: Tyler D.
@@ -167,11 +172,6 @@ related_nodes:
     title: Unidentified Anomalous Phenomena (UAP)
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
-    shared_claims: 4
-  - node_id: 2b677f65-d068-44a7-913d-aade288d1e62
-    title: samadhi
-    node_type: topic
-    slug: samadhi
     shared_claims: 4
 claims:
   - claim_id: 3df64293-e6b6-484f-aa25-a4d074b69359
@@ -478,7 +478,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
-        title: gold visors (Apollo helmet visors)
+        title: Gold visors (Apollo helmet visors)
         slug: gold-visors-apollo-helmet-visors
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -522,7 +522,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
-        title: gold visors (Apollo helmet visors)
+        title: Gold visors (Apollo helmet visors)
         slug: gold-visors-apollo-helmet-visors
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -1135,10 +1135,10 @@ claims:
         title: Rudy Schild
         slug: rudy-schild
       - node_id: 880f2af4-643d-4b5f-b936-3998996fd52f
-        title: quantum hologram theory of physics and consciousness (QHTC)
+        title: Quantum hologram theory of physics and consciousness (QHTC)
         slug: quantum-hologram-theory-of-physics-and-consciousness-qhtc
       - node_id: aa57bb9f-dbaa-4374-8fbc-0f79917662c3
-        title: contact modalities
+        title: Contact modalities
         slug: contact-modalities
     date: null
     date_end: null
@@ -1171,7 +1171,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 880f2af4-643d-4b5f-b936-3998996fd52f
-        title: quantum hologram theory of physics and consciousness (QHTC)
+        title: Quantum hologram theory of physics and consciousness (QHTC)
         slug: quantum-hologram-theory-of-physics-and-consciousness-qhtc
     date: null
     date_end: null
@@ -2272,7 +2272,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2b677f65-d068-44a7-913d-aade288d1e62
-        title: samadhi
+        title: Samadhi
         slug: samadhi
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -3131,7 +3131,7 @@ claims:
         title: Rey Hernandez
         slug: rey-hernandez
       - node_id: aa57bb9f-dbaa-4374-8fbc-0f79917662c3
-        title: contact modalities
+        title: Contact modalities
         slug: contact-modalities
     date: null
     date_end: null
@@ -3169,7 +3169,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 880f2af4-643d-4b5f-b936-3998996fd52f
-        title: quantum hologram theory of physics and consciousness (QHTC)
+        title: Quantum hologram theory of physics and consciousness (QHTC)
         slug: quantum-hologram-theory-of-physics-and-consciousness-qhtc
     date: null
     date_end: null
@@ -3209,7 +3209,7 @@ claims:
         title: Rey Hernandez
         slug: rey-hernandez
       - node_id: 880f2af4-643d-4b5f-b936-3998996fd52f
-        title: quantum hologram theory of physics and consciousness (QHTC)
+        title: Quantum hologram theory of physics and consciousness (QHTC)
         slug: quantum-hologram-theory-of-physics-and-consciousness-qhtc
     date: null
     date_end: null
@@ -3246,7 +3246,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 880f2af4-643d-4b5f-b936-3998996fd52f
-        title: quantum hologram theory of physics and consciousness (QHTC)
+        title: Quantum hologram theory of physics and consciousness (QHTC)
         slug: quantum-hologram-theory-of-physics-and-consciousness-qhtc
     date: null
     date_end: null
@@ -3282,7 +3282,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2b677f65-d068-44a7-913d-aade288d1e62
-        title: samadhi
+        title: Samadhi
         slug: samadhi
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
         title: Remote Viewing (RV)
@@ -3294,7 +3294,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
-        title: dyadic model of consciousness (Mitchell)
+        title: Dyadic model of consciousness (Mitchell)
         slug: dyadic-model-of-consciousness-mitchell
     date: null
     date_end: null
@@ -3334,7 +3334,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
-        title: dyadic model of consciousness (Mitchell)
+        title: Dyadic model of consciousness (Mitchell)
         slug: dyadic-model-of-consciousness-mitchell
     date: null
     date_end: null
@@ -3371,7 +3371,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2b677f65-d068-44a7-913d-aade288d1e62
-        title: samadhi
+        title: Samadhi
         slug: samadhi
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -3410,16 +3410,16 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2b677f65-d068-44a7-913d-aade288d1e62
-        title: samadhi
+        title: Samadhi
         slug: samadhi
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
-        title: dyadic model of consciousness (Mitchell)
+        title: Dyadic model of consciousness (Mitchell)
         slug: dyadic-model-of-consciousness-mitchell
       - node_id: 8e3eba30-1639-45f5-a0ef-e91c5a19332c
-        title: zero point field
+        title: Zero point field
         slug: zero-point-field
     date: null
     date_end: null
@@ -3461,7 +3461,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
-        title: dyadic model of consciousness (Mitchell)
+        title: Dyadic model of consciousness (Mitchell)
         slug: dyadic-model-of-consciousness-mitchell
     date: null
     date_end: null
@@ -3499,7 +3499,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
-        title: dyadic model of consciousness (Mitchell)
+        title: Dyadic model of consciousness (Mitchell)
         slug: dyadic-model-of-consciousness-mitchell
     date: null
     date_end: null
@@ -7269,7 +7269,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -7305,7 +7305,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -7340,7 +7340,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -7377,7 +7377,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -7413,7 +7413,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -7453,7 +7453,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -7492,7 +7492,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
       - node_id: d538b2d3-df5e-4278-8b99-f4eb3d3b1921
         title: Apollo 14
@@ -7596,7 +7596,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -7629,7 +7629,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
       - node_id: d538b2d3-df5e-4278-8b99-f4eb3d3b1921
         title: Apollo 14
@@ -7670,7 +7670,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
       - node_id: d538b2d3-df5e-4278-8b99-f4eb3d3b1921
         title: Apollo 14
@@ -7712,7 +7712,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -7747,7 +7747,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -7783,7 +7783,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -7820,7 +7820,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
       - node_id: d538b2d3-df5e-4278-8b99-f4eb3d3b1921
         title: Apollo 14
@@ -7858,7 +7858,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
       - node_id: d538b2d3-df5e-4278-8b99-f4eb3d3b1921
         title: Apollo 14
@@ -7933,7 +7933,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -7969,7 +7969,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -8006,7 +8006,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -8042,7 +8042,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
       - node_id: d538b2d3-df5e-4278-8b99-f4eb3d3b1921
         title: Apollo 14
@@ -8081,7 +8081,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -8116,7 +8116,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -8153,7 +8153,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -8189,7 +8189,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -8226,7 +8226,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
       - node_id: d538b2d3-df5e-4278-8b99-f4eb3d3b1921
         title: Apollo 14
@@ -8265,7 +8265,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -8302,7 +8302,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -8339,7 +8339,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -8378,7 +8378,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null
@@ -8411,7 +8411,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
       - node_id: d538b2d3-df5e-4278-8b99-f4eb3d3b1921
         title: Apollo 14
@@ -8451,7 +8451,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: '1971-02-01'
     date_end: null
@@ -8487,7 +8487,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
-        title: cosmic ray visual phenomena (light flashes)
+        title: Cosmic ray visual phenomena (light flashes)
         slug: cosmic-ray-visual-phenomena-light-flashes
     date: null
     date_end: null

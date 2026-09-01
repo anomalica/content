@@ -33,6 +33,11 @@ related_nodes:
     node_type: event
     slug: 2004-uss-nimitz-uap-encounter
     shared_claims: 2
+  - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+    title: Cattle mutilations phenomenon
+    node_type: topic
+    slug: cattle-mutilations-phenomenon
+    shared_claims: 2
   - node_id: 59476464-a679-46ce-9247-b0adcb287762
     title: Edgar Mitchell
     node_type: person
@@ -42,11 +47,6 @@ related_nodes:
     title: Steven Greer
     node_type: person
     slug: steven-greer
-    shared_claims: 2
-  - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-    title: cattle mutilations phenomenon
-    node_type: topic
-    slug: cattle-mutilations-phenomenon
     shared_claims: 2
   - node_id: 7526e49b-2604-48de-81a4-026d9fd64955
     title: Cattlemen's Association (Colorado)
@@ -156,7 +156,7 @@ claims:
         title: Richard Dolan
         slug: richard-dolan
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
     date: null
     date_end: null
@@ -191,7 +191,7 @@ claims:
         title: Richard Dolan
         slug: richard-dolan
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
     date: null
     date_end: null

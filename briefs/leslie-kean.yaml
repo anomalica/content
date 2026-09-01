@@ -79,7 +79,7 @@ related_nodes:
     slug: dr-barnett
     shared_claims: 8
   - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-    title: survival hypothesis
+    title: Survival hypothesis
     node_type: topic
     slug: survival-hypothesis
     shared_claims: 8
@@ -133,20 +133,25 @@ related_nodes:
     node_type: person
     slug: marty-martyn
     shared_claims: 6
+  - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
+    title: Physical mediumship
+    node_type: topic
+    slug: physical-mediumship
+    shared_claims: 6
   - node_id: d8f5c9ea-4729-4b73-bb26-2282e35fec01
     title: Séance with Stephen Braude and Kai Muegge in Hanau, Germany (2015)
     node_type: event
     slug: germany-2015-seance-with-stephen-braude-and-kai-muegge-in-hanau
     shared_claims: 6
-  - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-    title: physical mediumship
-    node_type: topic
-    slug: physical-mediumship
-    shared_claims: 6
   - node_id: 1b91bf08-93fc-4249-9068-e3583a8fe70e
     title: Cyndi Hammons
     node_type: person
     slug: cyndi-hammons
+    shared_claims: 5
+  - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
+    title: Materialization (mediumship phenomenon)
+    node_type: topic
+    slug: materialization-mediumship-phenomenon
     shared_claims: 5
   - node_id: b2a5915e-1740-4f6c-90d4-ffb75ae30347
     title: Surviving Death
@@ -158,20 +163,15 @@ related_nodes:
     node_type: place
     slug: new-york-usa
     shared_claims: 5
-  - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-    title: materialization (mediumship phenomenon)
-    node_type: topic
-    slug: materialization-mediumship-phenomenon
-    shared_claims: 5
   - node_id: d37c0cd7-2d4e-4895-af2a-a5140b0a1ea0
     title: Leslie Kean's kitchen light and microwave blinking incident
     node_type: event
     slug: leslie-keans-kitchen-light-and-microwave-blinking-incident
     shared_claims: 4
-  - node_id: 83208844-8d2d-4377-a07f-c87b2884915d
-    title: Michael Sudduth
-    node_type: person
-    slug: michael-sudduth
+  - node_id: 7be5a773-b4bd-445d-bf96-ac6cd4ed633a
+    title: Macro-psychokinesis (PK)
+    node_type: topic
+    slug: macro-psychokinesis-pk
     shared_claims: 4
 claims:
   - claim_id: d71e5a62-174f-413b-9eb7-ae31f6fb11b6
@@ -393,7 +393,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -758,7 +758,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
     date: null
     date_end: null
@@ -2387,7 +2387,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
       - node_id: 80cf92ce-bae3-49f3-beab-99c80495f848
         title: Ryan Hammons
@@ -3035,7 +3035,7 @@ claims:
         title: Jim Tucker
         slug: jim-tucker
       - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
-        title: psi (psychic functioning)
+        title: Psi (psychic functioning)
         slug: psi-psychic-functioning
     date: null
     date_end: null
@@ -4264,7 +4264,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
       - node_id: 80cf92ce-bae3-49f3-beab-99c80495f848
         title: Ryan Hammons
@@ -4455,7 +4455,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
-        title: veridical out-of-body perception
+        title: Veridical out-of-body perception
         slug: veridical-out-of-body-perception
     date: null
     date_end: null
@@ -5913,10 +5913,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30a29dde-52a4-4213-84ab-4401e00c2a06
-        title: mental mediumship
+        title: Mental mediumship
         slug: mental-mediumship
       - node_id: a07ef7af-f468-4633-b414-4abaca1648fc
-        title: cold reading
+        title: Cold reading
         slug: cold-reading
     date: null
     date_end: null
@@ -5952,10 +5952,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30a29dde-52a4-4213-84ab-4401e00c2a06
-        title: mental mediumship
+        title: Mental mediumship
         slug: mental-mediumship
       - node_id: a07ef7af-f468-4633-b414-4abaca1648fc
-        title: cold reading
+        title: Cold reading
         slug: cold-reading
     date: null
     date_end: null
@@ -5991,7 +5991,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30a29dde-52a4-4213-84ab-4401e00c2a06
-        title: mental mediumship
+        title: Mental mediumship
         slug: mental-mediumship
     date: null
     date_end: null
@@ -6025,7 +6025,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30a29dde-52a4-4213-84ab-4401e00c2a06
-        title: mental mediumship
+        title: Mental mediumship
         slug: mental-mediumship
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -6672,10 +6672,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 30a29dde-52a4-4213-84ab-4401e00c2a06
-        title: mental mediumship
+        title: Mental mediumship
         slug: mental-mediumship
       - node_id: 66df6be3-9190-4aa9-9a1c-ef19bb90f070
         title: Living-Agent Psi (LAP) hypothesis
@@ -8311,13 +8311,13 @@ claims:
         title: Leslie Kean
         slug: leslie-kean
       - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
-        title: materialist paradigm of consciousness
+        title: Materialist paradigm of consciousness
         slug: materialist-paradigm-of-consciousness
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
       - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
-        title: psi (psychic functioning)
+        title: Psi (psychic functioning)
         slug: psi-psychic-functioning
     date: null
     date_end: null
@@ -8390,7 +8390,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
         title: Jeff Tarrant
@@ -8833,7 +8833,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-        title: drop-in communicators
+        title: Drop-in communicators
         slug: drop-in-communicators
     date: null
     date_end: null
@@ -8869,13 +8869,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-        title: clairvoyance
+        title: Clairvoyance
         slug: clairvoyance
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
       - node_id: ec85bfdd-0899-4aa9-b790-b91008022037
-        title: super-Extrasensory Perception (ESP) hypothesis
+        title: Super-Extrasensory Perception (ESP) hypothesis
         slug: super-extrasensory-perception-esp-hypothesis
     date: null
     date_end: null
@@ -8909,10 +8909,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2ffb57c1-7ed8-4674-8851-40073fcb4de9
-        title: survival psi
+        title: Survival psi
         slug: survival-psi
       - node_id: 30a29dde-52a4-4213-84ab-4401e00c2a06
-        title: mental mediumship
+        title: Mental mediumship
         slug: mental-mediumship
       - node_id: 66df6be3-9190-4aa9-9a1c-ef19bb90f070
         title: Living-Agent Psi (LAP) hypothesis
@@ -8951,16 +8951,16 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 14da1dc7-1325-4a1b-aa81-15e85474c49c
-        title: end-of-life experiences
+        title: End-of-life experiences
         slug: end-of-life-experiences
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 29ab86b1-4a0c-47f6-964c-85459df97507
-        title: intermission memories
+        title: Intermission memories
         slug: intermission-memories
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
     date: null
     date_end: null
@@ -8993,7 +8993,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-        title: drop-in communicators
+        title: Drop-in communicators
         slug: drop-in-communicators
     date: null
     date_end: null
@@ -9366,7 +9366,7 @@ claims:
         title: Leslie Kean
         slug: leslie-kean
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -10002,7 +10002,7 @@ claims:
         title: Psychokinesis (PK)
         slug: psychokinesis-pk
       - node_id: 7be5a773-b4bd-445d-bf96-ac6cd4ed633a
-        title: macro-psychokinesis (PK)
+        title: Macro-psychokinesis (PK)
         slug: macro-psychokinesis-pk
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -10040,10 +10040,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52416aac-c26b-4b65-86c2-edcdd1df3cbf
-        title: positive poltergeist effect
+        title: Positive poltergeist effect
         slug: positive-poltergeist-effect
       - node_id: 6ff217ef-aca4-4eb3-baef-1616b9789fb2
-        title: motivated psi
+        title: Motivated psi
         slug: motivated-psi
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -10271,7 +10271,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 6ff217ef-aca4-4eb3-baef-1616b9789fb2
-        title: motivated psi
+        title: Motivated psi
         slug: motivated-psi
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -10541,7 +10541,7 @@ claims:
         title: Leslie Kean
         slug: leslie-kean
       - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
-        title: materialist paradigm of consciousness
+        title: Materialist paradigm of consciousness
         slug: materialist-paradigm-of-consciousness
     date: null
     date_end: null
@@ -10648,7 +10648,7 @@ claims:
         title: Peter Fenwick
         slug: peter-fenwick
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -10688,7 +10688,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -11682,7 +11682,7 @@ claims:
         title: Kai Muegge
         slug: kai-muegge
       - node_id: 7be5a773-b4bd-445d-bf96-ac6cd4ed633a
-        title: macro-psychokinesis (PK)
+        title: Macro-psychokinesis (PK)
         slug: macro-psychokinesis-pk
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -11722,7 +11722,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7be5a773-b4bd-445d-bf96-ac6cd4ed633a
-        title: macro-psychokinesis (PK)
+        title: Macro-psychokinesis (PK)
         slug: macro-psychokinesis-pk
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -11759,16 +11759,16 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 7be5a773-b4bd-445d-bf96-ac6cd4ed633a
-        title: macro-psychokinesis (PK)
+        title: Macro-psychokinesis (PK)
         slug: macro-psychokinesis-pk
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
         slug: leslie-kean
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
     date: null
     date_end: null
@@ -12075,7 +12075,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-        title: materialization (mediumship phenomenon)
+        title: Materialization (mediumship phenomenon)
         slug: materialization-mediumship-phenomenon
     date: null
     date_end: null
@@ -12107,7 +12107,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-        title: materialization (mediumship phenomenon)
+        title: Materialization (mediumship phenomenon)
         slug: materialization-mediumship-phenomenon
     date: null
     date_end: null
@@ -12283,10 +12283,10 @@ claims:
         title: Leslie Kean
         slug: leslie-kean
       - node_id: aef7ab7b-a43e-4e6f-9663-d10940eb5d1c
-        title: independent voice (mediumship phenomenon)
+        title: Independent voice (mediumship phenomenon)
         slug: independent-voice-mediumship-phenomenon
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
     date: null
     date_end: null
@@ -12431,10 +12431,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 089c8f3a-c5fe-405d-a8ce-5df9e3951691
-        title: somatic psi (living-agent psi)
+        title: Somatic psi (living-agent psi)
         slug: somatic-psi-living-agent-psi
       - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-        title: materialization (mediumship phenomenon)
+        title: Materialization (mediumship phenomenon)
         slug: materialization-mediumship-phenomenon
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -12504,7 +12504,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-        title: materialization (mediumship phenomenon)
+        title: Materialization (mediumship phenomenon)
         slug: materialization-mediumship-phenomenon
       - node_id: ac0abcfa-ccde-4913-8135-d55a8e61f1bd
         title: Stephen Braude
@@ -12545,7 +12545,7 @@ claims:
         title: Gustave Geley
         slug: gustave-geley
       - node_id: bc3f4c43-8a34-493d-98dd-419393017405
-        title: ectoplasm
+        title: Ectoplasm
         slug: ectoplasm
     date: null
     date_end: null
@@ -12587,7 +12587,7 @@ claims:
         title: Leslie Kean
         slug: leslie-kean
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
     date: '2016'
     date_end: null
@@ -12622,10 +12622,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-        title: materialization (mediumship phenomenon)
+        title: Materialization (mediumship phenomenon)
         slug: materialization-mediumship-phenomenon
       - node_id: bc3f4c43-8a34-493d-98dd-419393017405
-        title: ectoplasm
+        title: Ectoplasm
         slug: ectoplasm
     date: null
     date_end: null
@@ -12659,7 +12659,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-        title: materialization (mediumship phenomenon)
+        title: Materialization (mediumship phenomenon)
         slug: materialization-mediumship-phenomenon
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -12705,7 +12705,7 @@ claims:
         title: Leslie Kean
         slug: leslie-kean
       - node_id: bc3f4c43-8a34-493d-98dd-419393017405
-        title: ectoplasm
+        title: Ectoplasm
         slug: ectoplasm
     date: null
     date_end: null
@@ -12743,16 +12743,16 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 089c8f3a-c5fe-405d-a8ce-5df9e3951691
-        title: somatic psi (living-agent psi)
+        title: Somatic psi (living-agent psi)
         slug: somatic-psi-living-agent-psi
       - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-        title: materialization (mediumship phenomenon)
+        title: Materialization (mediumship phenomenon)
         slug: materialization-mediumship-phenomenon
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
         slug: leslie-kean
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -12789,13 +12789,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-        title: materialization (mediumship phenomenon)
+        title: Materialization (mediumship phenomenon)
         slug: materialization-mediumship-phenomenon
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
         slug: leslie-kean
       - node_id: cb4a5fa0-4215-4340-8c43-4e7091f6b650
-        title: poltergeist
+        title: Poltergeist
         slug: poltergeist
     date: null
     date_end: null
@@ -12830,7 +12830,7 @@ claims:
         title: Hereward Carrington
         slug: hereward-carrington
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
     date: null
     date_end: null
@@ -12865,13 +12865,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
         title: Hereward Carrington
         slug: hereward-carrington
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
     date: null
     date_end: null
@@ -12908,7 +12908,7 @@ claims:
         title: Leslie Kean
         slug: leslie-kean
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
     date: null
     date_end: null
@@ -13806,7 +13806,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
     date: null
     date_end: null
@@ -13928,7 +13928,7 @@ claims:
         title: Stewart Alexander
         slug: stewart-alexander
       - node_id: 3f40e3be-237a-43f4-91f5-fe8c70d19ecc
-        title: living matter through matter (mediumship phenomenon)
+        title: Living matter through matter (mediumship phenomenon)
         slug: living-matter-through-matter-mediumship-phenomenon
       - node_id: 49feb85d-57e5-4e6e-b247-c1979b43a95c
         title: Walter Stinson
@@ -13972,7 +13972,7 @@ claims:
         title: Stewart Alexander
         slug: stewart-alexander
       - node_id: 3f40e3be-237a-43f4-91f5-fe8c70d19ecc
-        title: living matter through matter (mediumship phenomenon)
+        title: Living matter through matter (mediumship phenomenon)
         slug: living-matter-through-matter-mediumship-phenomenon
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -14047,7 +14047,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3f40e3be-237a-43f4-91f5-fe8c70d19ecc
-        title: living matter through matter (mediumship phenomenon)
+        title: Living matter through matter (mediumship phenomenon)
         slug: living-matter-through-matter-mediumship-phenomenon
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -14164,7 +14164,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 49feb85d-57e5-4e6e-b247-c1979b43a95c
         title: Walter Stinson
@@ -16022,7 +16022,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 9e343107-3e76-4cba-80cb-1a03c1cf755b
-        title: book tests
+        title: Book tests
         slug: book-tests
       - node_id: a0a13636-e073-42d1-8773-ec76f0367f44
         title: Freda
@@ -16453,7 +16453,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 66df6be3-9190-4aa9-9a1c-ef19bb90f070
         title: Living-Agent Psi (LAP) hypothesis
@@ -16497,7 +16497,7 @@ claims:
         title: Emil Jensen
         slug: emil-jensen
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-        title: drop-in communicators
+        title: Drop-in communicators
         slug: drop-in-communicators
       - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
         title: Erlendur Haraldsson
@@ -16539,7 +16539,7 @@ claims:
         title: Indridi Indridason
         slug: indridi-indridason
       - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-        title: materialization (mediumship phenomenon)
+        title: Materialization (mediumship phenomenon)
         slug: materialization-mediumship-phenomenon
     date: null
     date_end: null
@@ -16666,7 +16666,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30a29dde-52a4-4213-84ab-4401e00c2a06
-        title: mental mediumship
+        title: Mental mediumship
         slug: mental-mediumship
       - node_id: 3e036525-2148-4bbf-b518-a1cbfdf9717c
         title: Leslie Kean's brother Garry
@@ -16747,7 +16747,7 @@ claims:
         title: Leslie Kean's séances with Stewart Alexander (2015-04 - 2015-08)
         slug: leslie-keans-seances-with-stewart-alexander-2015-04---2015-08
       - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-        title: materialization (mediumship phenomenon)
+        title: Materialization (mediumship phenomenon)
         slug: materialization-mediumship-phenomenon
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -16898,7 +16898,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 83208844-8d2d-4377-a07f-c87b2884915d
         title: Michael Sudduth
@@ -17472,7 +17472,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3c3d5584-e613-4549-a7e9-2795f6a262d5
-        title: advocacy journalism
+        title: Advocacy journalism
         slug: advocacy-journalism
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -18002,7 +18002,7 @@ claims:
         title: Leslie Kean
         slug: leslie-kean
       - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
-        title: psi (psychic functioning)
+        title: Psi (psychic functioning)
         slug: psi-psychic-functioning
     date: null
     date_end: null
@@ -18036,7 +18036,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
     date: null
     date_end: null
@@ -18110,7 +18110,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 83208844-8d2d-4377-a07f-c87b2884915d
         title: Michael Sudduth
@@ -18308,7 +18308,7 @@ claims:
         title: Leslie Kean
         slug: leslie-kean
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
     date: null
     date_end: null
@@ -18342,7 +18342,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30a29dde-52a4-4213-84ab-4401e00c2a06
-        title: mental mediumship
+        title: Mental mediumship
         slug: mental-mediumship
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -18385,7 +18385,7 @@ claims:
         title: Surviving Death
         slug: surviving-death
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
     date: null
     date_end: null
@@ -18570,7 +18570,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -18638,7 +18638,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean

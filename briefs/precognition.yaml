@@ -63,18 +63,18 @@ related_nodes:
     node_type: person
     slug: daryl-bem
     shared_claims: 4
+  - node_id: fe6edf88-0be3-453e-8a6b-449709eae1e7
+    title: Haunting (place memory)
+    node_type: topic
+    slug: haunting-place-memory
+    shared_claims: 4
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
     title: Remote Viewing (RV)
     node_type: topic
     slug: remote-viewing-rv
     shared_claims: 4
-  - node_id: fe6edf88-0be3-453e-8a6b-449709eae1e7
-    title: haunting (place memory)
-    node_type: topic
-    slug: haunting-place-memory
-    shared_claims: 4
   - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-    title: time travel
+    title: Time travel
     node_type: topic
     slug: time-travel
     shared_claims: 4
@@ -83,18 +83,18 @@ related_nodes:
     node_type: event
     slug: 1999-admiral-duncan-pub-bombing
     shared_claims: 3
+  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+    title: Informational substrate
+    node_type: topic
+    slug: informational-substrate
+    shared_claims: 3
   - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
     title: Pat
     node_type: person
     slug: pat
     shared_claims: 3
-  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-    title: informational substrate
-    node_type: topic
-    slug: informational-substrate
-    shared_claims: 3
   - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-    title: telepathy
+    title: Telepathy
     node_type: topic
     slug: telepathy
     shared_claims: 3
@@ -103,48 +103,48 @@ related_nodes:
     node_type: person
     slug: alex-tanous
     shared_claims: 2
+  - node_id: 2392cee9-5f74-465f-9e78-b6e4aaab6c16
+    title: Boundary conditions
+    node_type: topic
+    slug: boundary-conditions
+    shared_claims: 2
+  - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+    title: Clairvoyance
+    node_type: topic
+    slug: clairvoyance
+    shared_claims: 2
+  - node_id: f00ee898-537f-4c5e-986c-88511f61b0a2
+    title: Deathbed visions
+    node_type: topic
+    slug: deathbed-visions
+    shared_claims: 2
   - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
     title: Erlendur Haraldsson
     node_type: person
     slug: erlendur-haraldsson
+    shared_claims: 2
+  - node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
+    title: Perceptual insertion
+    node_type: topic
+    slug: perceptual-insertion
+    shared_claims: 2
+  - node_id: cb4a5fa0-4215-4340-8c43-4e7091f6b650
+    title: Poltergeist
+    node_type: topic
+    slug: poltergeist
     shared_claims: 2
   - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
     title: Precognitive Remote Viewing
     node_type: topic
     slug: precognitive-remote-viewing
     shared_claims: 2
-  - node_id: 2392cee9-5f74-465f-9e78-b6e4aaab6c16
-    title: boundary conditions
-    node_type: topic
-    slug: boundary-conditions
-    shared_claims: 2
-  - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-    title: clairvoyance
-    node_type: topic
-    slug: clairvoyance
-    shared_claims: 2
-  - node_id: f00ee898-537f-4c5e-986c-88511f61b0a2
-    title: deathbed visions
-    node_type: topic
-    slug: deathbed-visions
-    shared_claims: 2
-  - node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
-    title: perceptual insertion
-    node_type: topic
-    slug: perceptual-insertion
-    shared_claims: 2
-  - node_id: cb4a5fa0-4215-4340-8c43-4e7091f6b650
-    title: poltergeist
-    node_type: topic
-    slug: poltergeist
-    shared_claims: 2
   - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
-    title: psi (psychic functioning)
+    title: Psi (psychic functioning)
     node_type: topic
     slug: psi-psychic-functioning
     shared_claims: 2
   - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-    title: survival hypothesis
+    title: Survival hypothesis
     node_type: topic
     slug: survival-hypothesis
     shared_claims: 2
@@ -719,7 +719,7 @@ claims:
         title: William Barrett
         slug: william-barrett
       - node_id: f00ee898-537f-4c5e-986c-88511f61b0a2
-        title: deathbed visions
+        title: Deathbed visions
         slug: deathbed-visions
     date: null
     date_end: null
@@ -759,7 +759,7 @@ claims:
         title: Precognition
         slug: precognition
       - node_id: f00ee898-537f-4c5e-986c-88511f61b0a2
-        title: deathbed visions
+        title: Deathbed visions
         slug: deathbed-visions
     date: null
     date_end: null
@@ -828,7 +828,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-        title: drop-in communicators
+        title: Drop-in communicators
         slug: drop-in-communicators
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -837,7 +837,7 @@ claims:
         title: Erlendur Haraldsson
         slug: erlendur-haraldsson
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -1068,7 +1068,7 @@ claims:
         title: Precognition
         slug: precognition
       - node_id: 4fd84898-ccea-43c2-83f0-3f8ff9289979
-        title: psychometry
+        title: Psychometry
         slug: psychometry
       - node_id: acd92bbb-a5de-40b0-b511-cad866103001
         title: Donna McCormick
@@ -1114,7 +1114,7 @@ claims:
         title: Donna McCormick
         slug: donna-mccormick
       - node_id: fe6edf88-0be3-453e-8a6b-449709eae1e7
-        title: haunting (place memory)
+        title: Haunting (place memory)
         slug: haunting-place-memory
     date: null
     date_end: null
@@ -1441,7 +1441,7 @@ claims:
         title: Loyd Auerbach
         slug: loyd-auerbach
       - node_id: fe6edf88-0be3-453e-8a6b-449709eae1e7
-        title: haunting (place memory)
+        title: Haunting (place memory)
         slug: haunting-place-memory
     date: null
     date_end: null
@@ -1477,10 +1477,10 @@ claims:
         title: Loyd Auerbach
         slug: loyd-auerbach
       - node_id: cb4a5fa0-4215-4340-8c43-4e7091f6b650
-        title: poltergeist
+        title: Poltergeist
         slug: poltergeist
       - node_id: fe6edf88-0be3-453e-8a6b-449709eae1e7
-        title: haunting (place memory)
+        title: Haunting (place memory)
         slug: haunting-place-memory
     date: null
     date_end: null
@@ -1603,7 +1603,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
-        title: perceptual insertion
+        title: Perceptual insertion
         slug: perceptual-insertion
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -1612,7 +1612,7 @@ claims:
         title: Loyd Auerbach
         slug: loyd-auerbach
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1646,7 +1646,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
-        title: perceptual insertion
+        title: Perceptual insertion
         slug: perceptual-insertion
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -1694,7 +1694,7 @@ claims:
         title: Precognition
         slug: precognition
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-        title: clairvoyance
+        title: Clairvoyance
         slug: clairvoyance
       - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
         title: Loyd Auerbach
@@ -1813,7 +1813,7 @@ claims:
         title: Loyd Auerbach
         slug: loyd-auerbach
       - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
-        title: psi (psychic functioning)
+        title: Psi (psychic functioning)
         slug: psi-psychic-functioning
     date: null
     date_end: null
@@ -1847,7 +1847,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -1887,7 +1887,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -1928,7 +1928,7 @@ claims:
         title: Precognition
         slug: precognition
       - node_id: fe6edf88-0be3-453e-8a6b-449709eae1e7
-        title: haunting (place memory)
+        title: Haunting (place memory)
         slug: haunting-place-memory
     date: null
     date_end: null
@@ -2002,7 +2002,7 @@ claims:
         title: Psychokinesis (PK)
         slug: psychokinesis-pk
       - node_id: cb4a5fa0-4215-4340-8c43-4e7091f6b650
-        title: poltergeist
+        title: Poltergeist
         slug: poltergeist
     date: null
     date_end: null
@@ -2041,10 +2041,10 @@ claims:
         title: Precognition
         slug: precognition
       - node_id: ba0c3542-ce21-4be8-b13d-89820c11475f
-        title: trance mediumship
+        title: Trance mediumship
         slug: trance-mediumship
       - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
-        title: psi (psychic functioning)
+        title: Psi (psychic functioning)
         slug: psi-psychic-functioning
     date: null
     date_end: null
@@ -2345,7 +2345,7 @@ claims:
         title: Graham Nichols
         slug: graham-nichols
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -2391,10 +2391,10 @@ claims:
         title: Remote Viewing (RV)
         slug: remote-viewing-rv
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-        title: clairvoyance
+        title: Clairvoyance
         slug: clairvoyance
       - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
-        title: mediumship
+        title: Mediumship
         slug: mediumship
     date: null
     date_end: null
@@ -2433,7 +2433,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
-        title: psi
+        title: Psi
         slug: psi
     date: null
     date_end: null
@@ -2581,7 +2581,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2621,7 +2621,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2662,7 +2662,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2392cee9-5f74-465f-9e78-b6e4aaab6c16
-        title: boundary conditions
+        title: Boundary conditions
         slug: boundary-conditions
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2705,7 +2705,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2392cee9-5f74-465f-9e78-b6e4aaab6c16
-        title: boundary conditions
+        title: Boundary conditions
         slug: boundary-conditions
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2863,7 +2863,7 @@ claims:
         title: Precognition
         slug: precognition
       - node_id: 72cb2492-82b5-41c3-938e-122b8d563316
-        title: presentiment
+        title: Presentiment
         slug: presentiment
     date: null
     date_end: null
@@ -2941,7 +2941,7 @@ claims:
         title: Daryl Bem
         slug: daryl-bem
       - node_id: ae2a3399-8c70-4272-a9c0-5250f2f5cb4b
-        title: meta-analysis
+        title: Meta-analysis
         slug: meta-analysis
     date: null
     date_end: null
@@ -3057,7 +3057,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -3130,7 +3130,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -3168,7 +3168,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -3213,7 +3213,7 @@ claims:
         title: Precognition
         slug: precognition
       - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: informational substrate
+        title: Informational substrate
         slug: informational-substrate
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -3254,13 +3254,13 @@ claims:
         title: Precognition
         slug: precognition
       - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: informational substrate
+        title: Informational substrate
         slug: informational-substrate
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -3295,7 +3295,7 @@ claims:
         title: Precognition
         slug: precognition
       - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: informational substrate
+        title: Informational substrate
         slug: informational-substrate
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge

@@ -29,7 +29,7 @@ related_nodes:
     slug: daniel-dunglas-home
     shared_claims: 7
   - node_id: 3f40e3be-237a-43f4-91f5-fe8c70d19ecc
-    title: living matter through matter (mediumship phenomenon)
+    title: Living matter through matter (mediumship phenomenon)
     node_type: topic
     slug: living-matter-through-matter-mediumship-phenomenon
     shared_claims: 1
@@ -268,7 +268,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3f40e3be-237a-43f4-91f5-fe8c70d19ecc
-        title: living matter through matter (mediumship phenomenon)
+        title: Living matter through matter (mediumship phenomenon)
         slug: living-matter-through-matter-mediumship-phenomenon
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home

@@ -38,6 +38,11 @@ related_nodes:
     node_type: person
     slug: william-dudley-pelley
     shared_claims: 2
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 1
   - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
     title: Chris Ramsay
     node_type: person
@@ -73,6 +78,11 @@ related_nodes:
     node_type: person
     slug: jacques-bordas
     shared_claims: 1
+  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+    title: Nonhuman intelligence (NHI)
+    node_type: topic
+    slug: nonhuman-intelligence-nhi
+    shared_claims: 1
   - node_id: dbfe20f2-ed28-46f7-b844-a778d7814b06
     title: Point Loma Naval Electronics Laboratory
     node_type: organisation
@@ -97,16 +107,6 @@ related_nodes:
     title: USA, California, San Diego, Point Loma
     node_type: place
     slug: california-san-diego-point-loma-usa
-    shared_claims: 1
-  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
-    node_type: topic
-    slug: alien-abduction
-    shared_claims: 1
-  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-    title: nonhuman intelligence (NHI)
-    node_type: topic
-    slug: nonhuman-intelligence-nhi
     shared_claims: 1
 claims:
   - claim_id: 28647784-c3a2-4f27-a173-ce9ad31dd9b8
@@ -694,10 +694,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null

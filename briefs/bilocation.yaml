@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 1ca375c2-ea54-473a-92d6-621d26119214
   node_type: topic
-  title: bilocation
+  title: Bilocation
   slug: bilocation
   claim_count: 9
   claim_count_total: 9
@@ -24,7 +24,7 @@ belonging:
   unreviewed: 9
 related_nodes:
   - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-    title: levitation
+    title: Levitation
     node_type: topic
     slug: levitation
     shared_claims: 3
@@ -68,6 +68,11 @@ related_nodes:
     node_type: topic
     slug: out-of-body-experience-obe
     shared_claims: 1
+  - node_id: 29648d49-595f-4908-84b7-17578cbe98f8
+    title: Siddhis (Hindu/Buddhist accomplishments)
+    node_type: topic
+    slug: siddhis-hindubuddhist-accomplishments
+    shared_claims: 1
   - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
     title: USA, New Mexico
     node_type: place
@@ -77,11 +82,6 @@ related_nodes:
     title: Vyasa
     node_type: person
     slug: vyasa
-    shared_claims: 1
-  - node_id: 29648d49-595f-4908-84b7-17578cbe98f8
-    title: siddhis (Hindu/Buddhist accomplishments)
-    node_type: topic
-    slug: siddhis-hindubuddhist-accomplishments
     shared_claims: 1
 claims:
   - claim_id: 632a7cc3-1680-4c77-ab1b-3977c12dcfc5
@@ -105,7 +105,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -144,7 +144,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -179,13 +179,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
       - node_id: 29648d49-595f-4908-84b7-17578cbe98f8
-        title: siddhis (Hindu/Buddhist accomplishments)
+        title: Siddhis (Hindu/Buddhist accomplishments)
         slug: siddhis-hindubuddhist-accomplishments
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -218,7 +218,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
     date: null
     date_end: null
@@ -249,13 +249,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
       - node_id: 6dac3327-0f55-4388-8aca-be45c3b14dba
         title: Buddha
         slug: buddha
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -287,10 +287,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: b0154a66-ab11-4075-9f80-8e3a136b35c8
         title: Mahabharata
@@ -326,7 +326,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
       - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
         title: Maria of Agreda
@@ -361,7 +361,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
       - node_id: 4a044b05-a5f4-4f73-97fe-7fc80687e04a
         title: Mary of Agreda
@@ -400,7 +400,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay

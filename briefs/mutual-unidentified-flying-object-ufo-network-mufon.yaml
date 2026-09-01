@@ -63,6 +63,11 @@ related_nodes:
     node_type: person
     slug: erik-nanstiel
     shared_claims: 1
+  - node_id: 3c3c2f7c-5e6c-4a52-a069-5d04ca40e105
+    title: Free energy
+    node_type: topic
+    slug: free-energy
+    shared_claims: 1
   - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
     title: J. Allen Hynek
     node_type: person
@@ -87,11 +92,6 @@ related_nodes:
     title: Unidentified Flying Object (UFO)
     node_type: topic
     slug: unidentified-flying-object-ufo
-    shared_claims: 1
-  - node_id: 3c3c2f7c-5e6c-4a52-a069-5d04ca40e105
-    title: free energy
-    node_type: topic
-    slug: free-energy
     shared_claims: 1
 claims:
   - claim_id: b28de0fc-7812-4f18-aee3-658a7f636190
@@ -1142,7 +1142,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3c3c2f7c-5e6c-4a52-a069-5d04ca40e105
-        title: free energy
+        title: Free energy
         slug: free-energy
       - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
         title: Mutual Unidentified Flying Object (UFO) Network (MUFON)

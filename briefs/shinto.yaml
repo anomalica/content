@@ -28,25 +28,25 @@ related_nodes:
     node_type: place
     slug: japan
     shared_claims: 2
-  - node_id: 8db52f05-ad79-434c-96cb-976f86083be7
-    title: Zen
-    node_type: topic
-    slug: zen
-    shared_claims: 1
   - node_id: d72eaf29-0682-4094-88bc-9b2d1c07527e
-    title: kami (Shinto nature spirits)
+    title: Kami (Shinto nature spirits)
     node_type: topic
     slug: kami-shinto-nature-spirits
     shared_claims: 1
   - node_id: 5e00bba1-273a-43e8-84bd-bc4ad9b19358
-    title: shamanism
+    title: Shamanism
     node_type: topic
     slug: shamanism
     shared_claims: 1
   - node_id: dd9b1445-e42b-4165-924a-a4d526e3f597
-    title: spirits of nature
+    title: Spirits of nature
     node_type: topic
     slug: spirits-of-nature
+    shared_claims: 1
+  - node_id: 8db52f05-ad79-434c-96cb-976f86083be7
+    title: Zen
+    node_type: topic
+    slug: zen
     shared_claims: 1
 claims:
   - claim_id: 46b89065-4212-45bd-b078-02daab2ebfb8
@@ -173,7 +173,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5e00bba1-273a-43e8-84bd-bc4ad9b19358
-        title: shamanism
+        title: Shamanism
         slug: shamanism
       - node_id: afa8522c-cb97-4680-94e5-530d910f6bc8
         title: Shinto
@@ -182,10 +182,10 @@ claims:
         title: Japan
         slug: japan
       - node_id: d72eaf29-0682-4094-88bc-9b2d1c07527e
-        title: kami (Shinto nature spirits)
+        title: Kami (Shinto nature spirits)
         slug: kami-shinto-nature-spirits
       - node_id: dd9b1445-e42b-4165-924a-a4d526e3f597
-        title: spirits of nature
+        title: Spirits of nature
         slug: spirits-of-nature
     date: null
     date_end: null

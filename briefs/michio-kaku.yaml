@@ -23,6 +23,11 @@ belonging:
   suspect_excluded: 0
   unreviewed: 4
 related_nodes:
+  - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
+    title: Dark energy
+    node_type: topic
+    slug: dark-energy
+    shared_claims: 1
   - node_id: b46539e0-2f7c-4743-87a2-21afa6655264
     title: Hyperspace
     node_type: document
@@ -38,18 +43,13 @@ related_nodes:
     node_type: person
     slug: kary-mullis
     shared_claims: 1
-  - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-    title: dark energy
-    node_type: topic
-    slug: dark-energy
-    shared_claims: 1
   - node_id: 02891ce2-5b56-4ee3-97e5-f88d4ccff302
-    title: multidimensional physics
+    title: Multidimensional physics
     node_type: topic
     slug: multidimensional-physics
     shared_claims: 1
   - node_id: 830c3427-3a42-45d6-b737-75e480743959
-    title: quaternions (mathematics)
+    title: Quaternions (mathematics)
     node_type: topic
     slug: quaternions-mathematics
     shared_claims: 1
@@ -74,7 +74,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 02891ce2-5b56-4ee3-97e5-f88d4ccff302
-        title: multidimensional physics
+        title: Multidimensional physics
         slug: multidimensional-physics
       - node_id: 2cc858d0-aa73-46c4-bdd0-7cb545271750
         title: Kary Mullis
@@ -118,7 +118,7 @@ claims:
         title: James Clerk Maxwell
         slug: james-clerk-maxwell
       - node_id: 830c3427-3a42-45d6-b737-75e480743959
-        title: quaternions (mathematics)
+        title: Quaternions (mathematics)
         slug: quaternions-mathematics
       - node_id: 9d96c660-346c-4307-b3b1-e71196aa6e75
         title: Michio Kaku
@@ -155,7 +155,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
       - node_id: 9d96c660-346c-4307-b3b1-e71196aa6e75
         title: Michio Kaku

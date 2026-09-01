@@ -24,7 +24,7 @@ belonging:
   unreviewed: 70
 related_nodes:
   - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-    title: past-life memories in young children
+    title: Past-life memories in young children
     node_type: topic
     slug: past-life-memories-in-young-children
     shared_claims: 13
@@ -93,6 +93,16 @@ related_nodes:
     node_type: person
     slug: chanai-choomalaiwong
     shared_claims: 2
+  - node_id: ad93eae6-0acc-4b63-b1ff-3a34db5f2d8d
+    title: Discarnate agency hypothesis
+    node_type: topic
+    slug: discarnate-agency-hypothesis
+    shared_claims: 2
+  - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
+    title: Drop-in communicators
+    node_type: topic
+    slug: drop-in-communicators
+    shared_claims: 2
   - node_id: c8d56e9e-8fd1-4d51-823a-4847910946a2
     title: Hafsteinn Bjornsson
     node_type: person
@@ -102,6 +112,11 @@ related_nodes:
     title: Jürgen Keil
     node_type: person
     slug: jurgen-keil
+    shared_claims: 2
+  - node_id: 2f233091-26fa-48a7-9e00-134ff0e17197
+    title: Post-traumatic play
+    node_type: topic
+    slug: post-traumatic-play
     shared_claims: 2
   - node_id: 392eb889-4168-4dc7-971f-ec655151def6
     title: Reincarnation and Biology
@@ -122,21 +137,6 @@ related_nodes:
     title: The Journal of Scientific Exploration
     node_type: organisation
     slug: the-journal-of-scientific-exploration
-    shared_claims: 2
-  - node_id: ad93eae6-0acc-4b63-b1ff-3a34db5f2d8d
-    title: discarnate agency hypothesis
-    node_type: topic
-    slug: discarnate-agency-hypothesis
-    shared_claims: 2
-  - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-    title: drop-in communicators
-    node_type: topic
-    slug: drop-in-communicators
-    shared_claims: 2
-  - node_id: 2f233091-26fa-48a7-9e00-134ff0e17197
-    title: post-traumatic play
-    node_type: topic
-    slug: post-traumatic-play
     shared_claims: 2
   - node_id: 09b0a884-5814-45c2-a845-ec52beda412f
     title: '"Phobias in Children Who Claim to Remember Previous Lives" (paper by Ian Stevenson)'
@@ -168,10 +168,10 @@ related_nodes:
     node_type: person
     slug: emily-cook
     shared_claims: 1
-  - node_id: 9dbd0699-bbc9-42ca-bbca-b4128803cc47
-    title: James Leininger
-    node_type: person
-    slug: james-leininger
+  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+    title: Extrasensory perception (ESP)
+    node_type: topic
+    slug: extrasensory-perception-esp
     shared_claims: 1
 claims:
   - claim_id: 26733539-f246-454f-a92c-1a36f873d3ed
@@ -406,7 +406,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
     date: null
     date_end: null
@@ -475,7 +475,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -687,7 +687,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
     date: null
     date_end: null
@@ -963,7 +963,7 @@ claims:
         title: USA, South Carolina
         slug: south-carolina-usa
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
       - node_id: b4f06585-086c-45f5-9b05-c2bc9386e7d6
         title: India, Darbhanga
@@ -1002,7 +1002,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
     date: null
     date_end: null
@@ -1038,7 +1038,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
     date: null
     date_end: null
@@ -1112,7 +1112,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
       - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
         title: Jim Tucker
@@ -1153,7 +1153,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
       - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
         title: Jim Tucker
@@ -1265,7 +1265,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
     date: null
     date_end: null
@@ -1299,7 +1299,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30a29dde-52a4-4213-84ab-4401e00c2a06
-        title: mental mediumship
+        title: Mental mediumship
         slug: mental-mediumship
       - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
         title: Ian Stevenson
@@ -1441,7 +1441,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
     date: null
     date_end: null
@@ -1531,7 +1531,7 @@ claims:
         title: Antonia Mills
         slug: antonia-mills
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
       - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
         title: Erlendur Haraldsson
@@ -1653,7 +1653,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
       - node_id: b04b9a11-f9cf-4a78-abf8-79f95b58fa2f
         title: University of Virginia
@@ -1726,7 +1726,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
       - node_id: b04b9a11-f9cf-4a78-abf8-79f95b58fa2f
         title: University of Virginia
@@ -1881,7 +1881,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-        title: drop-in communicators
+        title: Drop-in communicators
         slug: drop-in-communicators
       - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
         title: Ian Stevenson
@@ -1919,7 +1919,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-        title: drop-in communicators
+        title: Drop-in communicators
         slug: drop-in-communicators
       - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
         title: Ian Stevenson
@@ -1999,7 +1999,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
         title: Runolfur Runolfsson ("Runki")
@@ -2076,7 +2076,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
         title: Ian Stevenson
@@ -2126,7 +2126,7 @@ claims:
         title: Erlendur Haraldsson
         slug: erlendur-haraldsson
       - node_id: ec85bfdd-0899-4aa9-b790-b91008022037
-        title: super-Extrasensory Perception (ESP) hypothesis
+        title: Super-Extrasensory Perception (ESP) hypothesis
         slug: super-extrasensory-perception-esp-hypothesis
     date: null
     date_end: null
@@ -2207,10 +2207,10 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
       - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
-        title: psi (psychic functioning)
+        title: Psi (psychic functioning)
         slug: psi-psychic-functioning
     date: null
     date_end: null
@@ -2249,7 +2249,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: cb4a5fa0-4215-4340-8c43-4e7091f6b650
-        title: poltergeist
+        title: Poltergeist
         slug: poltergeist
     date: null
     date_end: null
@@ -2288,7 +2288,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: ad93eae6-0acc-4b63-b1ff-3a34db5f2d8d
-        title: discarnate agency hypothesis
+        title: Discarnate agency hypothesis
         slug: discarnate-agency-hypothesis
     date: null
     date_end: null
@@ -2325,7 +2325,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: ad93eae6-0acc-4b63-b1ff-3a34db5f2d8d
-        title: discarnate agency hypothesis
+        title: Discarnate agency hypothesis
         slug: discarnate-agency-hypothesis
       - node_id: b65a228b-8581-437c-a083-670590b31c40
         title: Alan Gauld
@@ -2527,7 +2527,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2f233091-26fa-48a7-9e00-134ff0e17197
-        title: post-traumatic play
+        title: Post-traumatic play
         slug: post-traumatic-play
       - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
         title: Ian Stevenson
@@ -2568,7 +2568,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2f233091-26fa-48a7-9e00-134ff0e17197
-        title: post-traumatic play
+        title: Post-traumatic play
         slug: post-traumatic-play
       - node_id: 392eb889-4168-4dc7-971f-ec655151def6
         title: Reincarnation and Biology

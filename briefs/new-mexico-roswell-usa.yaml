@@ -113,6 +113,11 @@ related_nodes:
     node_type: person
     slug: david-marler
     shared_claims: 1
+  - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+    title: Extraterrestrial biological entity (EBE)
+    node_type: topic
+    slug: extraterrestrial-biological-entity-ebe
+    shared_claims: 1
   - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
     title: Federal Bureau of Investigation (FBI)
     node_type: organisation
@@ -167,11 +172,6 @@ related_nodes:
     title: Project Mogul
     node_type: project
     slug: project-mogul
-    shared_claims: 1
-  - node_id: 0c8f5937-374e-48ff-ad30-6894ae0ce10c
-    title: Robert Goddard
-    node_type: person
-    slug: robert-goddard
     shared_claims: 1
 claims:
   - claim_id: 0fd1d09f-713e-49d9-a306-7968e8508295
@@ -2024,7 +2024,7 @@ claims:
         title: Shirley Wright
         slug: shirley-wright
       - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
-        title: extraterrestrial biological entity (EBE)
+        title: Extraterrestrial biological entity (EBE)
         slug: extraterrestrial-biological-entity-ebe
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
         title: Roswell incident (1947)

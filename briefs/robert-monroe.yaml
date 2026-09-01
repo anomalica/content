@@ -109,7 +109,7 @@ related_nodes:
     slug: 1960-robert-monroe-out-of-body-beam-experiences
     shared_claims: 13
   - node_id: fc757284-847d-48c9-be11-047f3db2771e
-    title: sleep learning (hypnopaedia)
+    title: Sleep learning (hypnopaedia)
     node_type: topic
     slug: sleep-learning-hypnopaedia
     shared_claims: 13
@@ -119,7 +119,7 @@ related_nodes:
     slug: the-barrier
     shared_claims: 12
   - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
+    title: Electroencephalography (EEG)
     node_type: topic
     slug: electroencephalography-eeg
     shared_claims: 11
@@ -658,7 +658,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: 671e9c71-d77c-4c06-852c-f9fd912b3d7e
-        title: beam of light phenomenon
+        title: Beam of light phenomenon
         slug: beam-of-light-phenomenon
     date: null
     date_end: null
@@ -1177,7 +1177,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0ccfa4fa-7fae-4c16-bdf5-5b561bef99e0
-        title: antigravity
+        title: Antigravity
         slug: antigravity
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -1375,7 +1375,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: f664eac3-734e-435c-b87b-2ac2431134fc
         title: Agnew Bahnson
@@ -1942,7 +1942,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
-        title: mediumship
+        title: Mediumship
         slug: mediumship
       - node_id: b6f0ad71-f13b-4966-9ab5-a9fe8ae2894f
         title: Second Body
@@ -2172,7 +2172,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
     date: null
     date_end: null
@@ -2209,7 +2209,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: b6f0ad71-f13b-4966-9ab5-a9fe8ae2894f
         title: Second Body
@@ -2493,7 +2493,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
-        title: mediumship
+        title: Mediumship
         slug: mediumship
       - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
         title: Mrs. M.
@@ -2534,7 +2534,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
-        title: mediumship
+        title: Mediumship
         slug: mediumship
       - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
         title: Mrs. M.
@@ -4778,7 +4778,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-        title: electroencephalography (EEG)
+        title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -5302,7 +5302,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-        title: electroencephalography (EEG)
+        title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -9078,7 +9078,7 @@ claims:
         title: Locale I
         slug: locale-i
       - node_id: 9f41211f-b806-4236-be0a-7b8d6ac60f1d
-        title: antimatter theory
+        title: Antimatter theory
         slug: antimatter-theory
     date: null
     date_end: null
@@ -10248,7 +10248,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0ccfa4fa-7fae-4c16-bdf5-5b561bef99e0
-        title: antigravity
+        title: Antigravity
         slug: antigravity
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -18477,7 +18477,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: 9f41211f-b806-4236-be0a-7b8d6ac60f1d
-        title: antimatter theory
+        title: Antimatter theory
         slug: antimatter-theory
       - node_id: b6f0ad71-f13b-4966-9ab5-a9fe8ae2894f
         title: Second Body
@@ -23741,7 +23741,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: fc757284-847d-48c9-be11-047f3db2771e
-        title: sleep learning (hypnopaedia)
+        title: Sleep learning (hypnopaedia)
         slug: sleep-learning-hypnopaedia
     date: null
     date_end: null
@@ -23778,7 +23778,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: fc757284-847d-48c9-be11-047f3db2771e
-        title: sleep learning (hypnopaedia)
+        title: Sleep learning (hypnopaedia)
         slug: sleep-learning-hypnopaedia
     date: null
     date_end: null
@@ -23814,7 +23814,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: fc757284-847d-48c9-be11-047f3db2771e
-        title: sleep learning (hypnopaedia)
+        title: Sleep learning (hypnopaedia)
         slug: sleep-learning-hypnopaedia
     date: null
     date_end: null
@@ -23851,7 +23851,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: fc757284-847d-48c9-be11-047f3db2771e
-        title: sleep learning (hypnopaedia)
+        title: Sleep learning (hypnopaedia)
         slug: sleep-learning-hypnopaedia
     date: null
     date_end: null
@@ -23890,7 +23890,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: fc757284-847d-48c9-be11-047f3db2771e
-        title: sleep learning (hypnopaedia)
+        title: Sleep learning (hypnopaedia)
         slug: sleep-learning-hypnopaedia
     date: null
     date_end: null
@@ -23964,7 +23964,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: fc757284-847d-48c9-be11-047f3db2771e
-        title: sleep learning (hypnopaedia)
+        title: Sleep learning (hypnopaedia)
         slug: sleep-learning-hypnopaedia
     date: null
     date_end: null
@@ -24000,7 +24000,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: fc757284-847d-48c9-be11-047f3db2771e
-        title: sleep learning (hypnopaedia)
+        title: Sleep learning (hypnopaedia)
         slug: sleep-learning-hypnopaedia
     date: null
     date_end: null
@@ -24037,7 +24037,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: fc757284-847d-48c9-be11-047f3db2771e
-        title: sleep learning (hypnopaedia)
+        title: Sleep learning (hypnopaedia)
         slug: sleep-learning-hypnopaedia
     date: null
     date_end: null
@@ -24074,7 +24074,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: fc757284-847d-48c9-be11-047f3db2771e
-        title: sleep learning (hypnopaedia)
+        title: Sleep learning (hypnopaedia)
         slug: sleep-learning-hypnopaedia
     date: null
     date_end: null
@@ -24109,7 +24109,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: fc757284-847d-48c9-be11-047f3db2771e
-        title: sleep learning (hypnopaedia)
+        title: Sleep learning (hypnopaedia)
         slug: sleep-learning-hypnopaedia
     date: null
     date_end: null
@@ -25544,7 +25544,7 @@ claims:
         title: Later Stage of out-of-body research (Robert Monroe)
         slug: later-stage-of-out-of-body-research-robert-monroe
       - node_id: 6bdaa09e-a95f-4add-9c0c-c7a56cce2fb6
-        title: intertime state
+        title: Intertime state
         slug: intertime-state
     date: null
     date_end: null
@@ -26039,7 +26039,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: c55bf269-7990-4438-8503-47536c69b254
-        title: two-dollar plank precognitive incident, age fifteen (Robert Monroe)
+        title: Two-dollar plank precognitive incident, age fifteen (Robert Monroe)
         slug: age-fifteen-robert-monroe-two-dollar-plank-precognitive-incident
     date: null
     date_end: null
@@ -26221,7 +26221,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0c17dba1-f730-41c0-971a-f00d5e387905
-        title: thrombus hemorrhoid incident during Later Stage (Robert Monroe)
+        title: Thrombus hemorrhoid incident during Later Stage (Robert Monroe)
         slug: thrombus-hemorrhoid-incident-during-later-stage-robert-monroe
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -26333,7 +26333,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -26372,7 +26372,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -26890,7 +26890,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: c55bf269-7990-4438-8503-47536c69b254
-        title: two-dollar plank precognitive incident, age fifteen (Robert Monroe)
+        title: Two-dollar plank precognitive incident, age fifteen (Robert Monroe)
         slug: age-fifteen-robert-monroe-two-dollar-plank-precognitive-incident
     date: '1935'
     date_end: null
@@ -26927,7 +26927,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: c55bf269-7990-4438-8503-47536c69b254
-        title: two-dollar plank precognitive incident, age fifteen (Robert Monroe)
+        title: Two-dollar plank precognitive incident, age fifteen (Robert Monroe)
         slug: age-fifteen-robert-monroe-two-dollar-plank-precognitive-incident
     date: null
     date_end: null
@@ -27749,7 +27749,7 @@ claims:
         title: 1958 contact-cement anesthesia episode and inhalant experiments (Robert Monroe)
         slug: 1958-contact-cement-anesthesia-episode-and-inhalant-experiments-robert-monroe
       - node_id: fc757284-847d-48c9-be11-047f3db2771e
-        title: sleep learning (hypnopaedia)
+        title: Sleep learning (hypnopaedia)
         slug: sleep-learning-hypnopaedia
     date: null
     date_end: null
@@ -29118,7 +29118,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: f03e382e-2436-4b80-ab01-b8c4989d964d
-        title: laboratory animal hypothesis (extraterrestrial experimentation premise)
+        title: Laboratory animal hypothesis (extraterrestrial experimentation premise)
         slug: laboratory-animal-hypothesis-extraterrestrial-experimentation-premise
     date: null
     date_end: null
@@ -29270,7 +29270,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: f03e382e-2436-4b80-ab01-b8c4989d964d
-        title: laboratory animal hypothesis (extraterrestrial experimentation premise)
+        title: Laboratory animal hypothesis (extraterrestrial experimentation premise)
         slug: laboratory-animal-hypothesis-extraterrestrial-experimentation-premise
     date: null
     date_end: null
@@ -29649,13 +29649,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 28c8099d-1022-49f0-bffa-ce60c899c628
-        title: psi force
+        title: Psi force
         slug: psi-force
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
         slug: robert-monroe
       - node_id: f03e382e-2436-4b80-ab01-b8c4989d964d
-        title: laboratory animal hypothesis (extraterrestrial experimentation premise)
+        title: Laboratory animal hypothesis (extraterrestrial experimentation premise)
         slug: laboratory-animal-hypothesis-extraterrestrial-experimentation-premise
     date: null
     date_end: null
@@ -29691,7 +29691,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: f03e382e-2436-4b80-ab01-b8c4989d964d
-        title: laboratory animal hypothesis (extraterrestrial experimentation premise)
+        title: Laboratory animal hypothesis (extraterrestrial experimentation premise)
         slug: laboratory-animal-hypothesis-extraterrestrial-experimentation-premise
     date: null
     date_end: null
@@ -29761,7 +29761,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: f03e382e-2436-4b80-ab01-b8c4989d964d
-        title: laboratory animal hypothesis (extraterrestrial experimentation premise)
+        title: Laboratory animal hypothesis (extraterrestrial experimentation premise)
         slug: laboratory-animal-hypothesis-extraterrestrial-experimentation-premise
     date: null
     date_end: null
@@ -29798,7 +29798,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: f03e382e-2436-4b80-ab01-b8c4989d964d
-        title: laboratory animal hypothesis (extraterrestrial experimentation premise)
+        title: Laboratory animal hypothesis (extraterrestrial experimentation premise)
         slug: laboratory-animal-hypothesis-extraterrestrial-experimentation-premise
     date: null
     date_end: null
@@ -29830,7 +29830,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1d15da07-b8d5-479e-b8fe-aa1747f904fe
-        title: third force
+        title: Third force
         slug: third-force
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -29983,7 +29983,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1d15da07-b8d5-479e-b8fe-aa1747f904fe
-        title: third force
+        title: Third force
         slug: third-force
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -30629,7 +30629,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-        title: electroencephalography (EEG)
+        title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -30827,7 +30827,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-        title: electroencephalography (EEG)
+        title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -31101,7 +31101,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-        title: electroencephalography (EEG)
+        title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -31179,7 +31179,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-        title: electroencephalography (EEG)
+        title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -31219,7 +31219,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-        title: electroencephalography (EEG)
+        title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -31258,7 +31258,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-        title: electroencephalography (EEG)
+        title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -31300,7 +31300,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-        title: electroencephalography (EEG)
+        title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -31931,7 +31931,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: 75b4c0a0-a976-4546-9e23-b04f7eef1cc5
-        title: self-actualization
+        title: Self-actualization
         slug: self-actualization
     date: null
     date_end: null
@@ -32507,7 +32507,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: 75b4c0a0-a976-4546-9e23-b04f7eef1cc5
-        title: self-actualization
+        title: Self-actualization
         slug: self-actualization
     date: null
     date_end: null
@@ -33434,7 +33434,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-        title: electroencephalography (EEG)
+        title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -35466,7 +35466,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-        title: electroencephalography (EEG)
+        title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -35966,7 +35966,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: fc757284-847d-48c9-be11-047f3db2771e
-        title: sleep learning (hypnopaedia)
+        title: Sleep learning (hypnopaedia)
         slug: sleep-learning-hypnopaedia
     date: '1958'
     date_end: null
@@ -36005,7 +36005,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: fc757284-847d-48c9-be11-047f3db2771e
-        title: sleep learning (hypnopaedia)
+        title: Sleep learning (hypnopaedia)
         slug: sleep-learning-hypnopaedia
     date: '1958'
     date_end: null

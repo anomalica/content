@@ -23,20 +23,25 @@ belonging:
   suspect_excluded: 0
   unreviewed: 12
 related_nodes:
+  - node_id: b3dbcbc1-3581-43e7-89f6-bf2c0fcc1997
+    title: The download (nonlocal intelligence contact)
+    node_type: topic
+    slug: the-download-nonlocal-intelligence-contact
+    shared_claims: 4
   - node_id: 30498526-eedf-48ea-94c8-a2df235ae155
     title: Unidentified Flying Object (UFO) Sky Pilots
     node_type: document
     slug: unidentified-flying-object-ufo-sky-pilots
     shared_claims: 4
-  - node_id: b3dbcbc1-3581-43e7-89f6-bf2c0fcc1997
-    title: the download (nonlocal intelligence contact)
-    node_type: topic
-    slug: the-download-nonlocal-intelligence-contact
-    shared_claims: 4
   - node_id: af3a6abe-1fea-4c64-9f94-e7be54f6b637
     title: Desta Barnabe
     node_type: person
     slug: desta-barnabe
+    shared_claims: 1
+  - node_id: 3c3c2f7c-5e6c-4a52-a069-5d04ca40e105
+    title: Free energy
+    node_type: topic
+    slug: free-energy
     shared_claims: 1
   - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
     title: James Rigney
@@ -63,11 +68,6 @@ related_nodes:
     node_type: topic
     slug: unidentified-flying-object-ufo
     shared_claims: 1
-  - node_id: 3c3c2f7c-5e6c-4a52-a069-5d04ca40e105
-    title: free energy
-    node_type: topic
-    slug: free-energy
-    shared_claims: 1
 claims:
   - claim_id: 48b30ce3-5109-4623-9e5d-41e9d83f288f
     claim_hash: 6136c35958a63e57ef8d9213c918aeea962e4f892c06e102a28f8682e11bcbb9
@@ -88,7 +88,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: b3dbcbc1-3581-43e7-89f6-bf2c0fcc1997
-        title: the download (nonlocal intelligence contact)
+        title: The download (nonlocal intelligence contact)
         slug: the-download-nonlocal-intelligence-contact
       - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
         title: Grant Cameron
@@ -125,7 +125,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: b3dbcbc1-3581-43e7-89f6-bf2c0fcc1997
-        title: the download (nonlocal intelligence contact)
+        title: The download (nonlocal intelligence contact)
         slug: the-download-nonlocal-intelligence-contact
       - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
         title: Grant Cameron
@@ -199,7 +199,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: b3dbcbc1-3581-43e7-89f6-bf2c0fcc1997
-        title: the download (nonlocal intelligence contact)
+        title: The download (nonlocal intelligence contact)
         slug: the-download-nonlocal-intelligence-contact
       - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
         title: Grant Cameron
@@ -234,7 +234,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: b3dbcbc1-3581-43e7-89f6-bf2c0fcc1997
-        title: the download (nonlocal intelligence contact)
+        title: The download (nonlocal intelligence contact)
         slug: the-download-nonlocal-intelligence-contact
       - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
         title: Grant Cameron
@@ -512,7 +512,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3c3c2f7c-5e6c-4a52-a069-5d04ca40e105
-        title: free energy
+        title: Free energy
         slug: free-energy
       - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
         title: Grant Cameron

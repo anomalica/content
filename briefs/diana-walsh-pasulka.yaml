@@ -84,7 +84,7 @@ related_nodes:
     slug: the-gay-science
     shared_claims: 4
   - node_id: 31ce8fce-7d60-4ef6-bcd0-15248adc466d
-    title: the artifact (Pasulka's anomalous object)
+    title: The artifact (Pasulka's anomalous object)
     node_type: object
     slug: the-artifact-pasulkas-anomalous-object
     shared_claims: 4
@@ -108,25 +108,25 @@ related_nodes:
     node_type: person
     slug: maria-of-agreda
     shared_claims: 3
+  - node_id: 51c43828-75f7-4054-83a2-334d3a382729
+    title: Meta-experiencer
+    node_type: topic
+    slug: meta-experiencer
+    shared_claims: 3
   - node_id: 475770e2-bd8c-44ae-8d95-a9f6b9c639a3
     title: Scott Browne
     node_type: person
     slug: scott-browne
     shared_claims: 3
+  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+    title: Ufology
+    node_type: topic
+    slug: ufology
+    shared_claims: 3
   - node_id: 49286131-da81-4d49-9b69-de49065b47c5
     title: Vatican Observatory
     node_type: organisation
     slug: vatican-observatory
-    shared_claims: 3
-  - node_id: 51c43828-75f7-4054-83a2-334d3a382729
-    title: meta-experiencer
-    node_type: topic
-    slug: meta-experiencer
-    shared_claims: 3
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    node_type: topic
-    slug: ufology
     shared_claims: 3
   - node_id: 498a763a-70c5-42ce-b216-c3713763aff5
     title: '2001: A Space Odyssey'
@@ -137,6 +137,11 @@ related_nodes:
     title: American Cosmic
     node_type: document
     slug: american-cosmic
+    shared_claims: 2
+  - node_id: ed41ee4b-2eff-4bfc-a1dd-3c0f9274bae1
+    title: Bilocation (Catholic charism)
+    node_type: topic
+    slug: bilocation-catholic-charism
     shared_claims: 2
   - node_id: c551f048-0859-4b1c-af58-df2919d81390
     title: Carl Jung
@@ -163,15 +168,10 @@ related_nodes:
     node_type: person
     slug: konstantin-tsiolkovsky
     shared_claims: 2
-  - node_id: ed41ee4b-2eff-4bfc-a1dd-3c0f9274bae1
-    title: bilocation (Catholic charism)
+  - node_id: 6b5b933c-0eef-4d3b-b48e-84498a6dcbb4
+    title: Purgatory (Catholic doctrine)
     node_type: topic
-    slug: bilocation-catholic-charism
-    shared_claims: 2
-  - node_id: 97503ead-f388-4057-b01b-9e0ae7fcd28f
-    title: iPhone
-    node_type: object
-    slug: iphone
+    slug: purgatory-catholic-doctrine
     shared_claims: 2
 claims:
   - claim_id: 042ce593-e376-43cc-9bf4-8d3c1485363b
@@ -352,7 +352,7 @@ claims:
         title: Tyler D.
         slug: tyler-d
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -389,7 +389,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 608e0d14-5063-422d-b774-c278be9ea191
-        title: hierophany
+        title: Hierophany
         slug: hierophany
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -427,7 +427,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -617,7 +617,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 51c43828-75f7-4054-83a2-334d3a382729
-        title: meta-experiencer
+        title: Meta-experiencer
         slug: meta-experiencer
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -3193,7 +3193,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 31ce8fce-7d60-4ef6-bcd0-15248adc466d
-        title: the artifact (Pasulka's anomalous object)
+        title: The artifact (Pasulka's anomalous object)
         slug: the-artifact-pasulkas-anomalous-object
       - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
         title: James Master
@@ -5685,7 +5685,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2b26531d-c2df-4e39-af0c-cd3d9cdb15d1
-        title: synchronicity (Jungian concept)
+        title: Synchronicity (Jungian concept)
         slug: synchronicity-jungian-concept
       - node_id: 5aa837fb-d184-432d-ae57-d25510311763
         title: The Gay Science
@@ -6203,7 +6203,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8d51e05f-1dd1-468f-8c44-f590bfe983c3
-        title: amplificatory interpretation (Jungian concept)
+        title: Amplificatory interpretation (Jungian concept)
         slug: amplificatory-interpretation-jungian-concept
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -6321,7 +6321,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 31ce8fce-7d60-4ef6-bcd0-15248adc466d
-        title: the artifact (Pasulka's anomalous object)
+        title: The artifact (Pasulka's anomalous object)
         slug: the-artifact-pasulkas-anomalous-object
       - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
         title: USA, New Mexico
@@ -6691,7 +6691,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e297d9ad-cac9-4381-bc86-edcd369d9650
-        title: specialist factual programming
+        title: Specialist factual programming
         slug: specialist-factual-programming
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -6940,7 +6940,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 9b8c43c9-a39c-44e8-a2fb-ced739a8d79b
-        title: realist montage
+        title: Realist montage
         slug: realist-montage
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -7080,7 +7080,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 9b8c43c9-a39c-44e8-a2fb-ced739a8d79b
-        title: realist montage
+        title: Realist montage
         slug: realist-montage
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -7283,7 +7283,7 @@ claims:
         title: France, Lourdes
         slug: lourdes-france
       - node_id: 608e0d14-5063-422d-b774-c278be9ea191
-        title: hierophany
+        title: Hierophany
         slug: hierophany
       - node_id: 95472b02-af65-4737-896c-993994f9be27
         title: Portugal, Fatima
@@ -7562,7 +7562,7 @@ claims:
         title: Remote Viewing (RV)
         slug: remote-viewing-rv
       - node_id: 592179d3-0f1e-4128-9bc2-fcaaa9182814
-        title: technologically sacred
+        title: Technologically sacred
         slug: technologically-sacred
     date: null
     date_end: null
@@ -7671,7 +7671,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 14abaae6-76e4-4319-ba95-09d992941296
-        title: biotechnical imaginary
+        title: Biotechnical imaginary
         slug: biotechnical-imaginary
       - node_id: c79dc9e7-ce68-431b-ad93-5c3a9a4996b1
         title: USA, California, Silicon Valley
@@ -7783,7 +7783,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 6b5b933c-0eef-4d3b-b48e-84498a6dcbb4
-        title: purgatory (Catholic doctrine)
+        title: Purgatory (Catholic doctrine)
         slug: purgatory-catholic-doctrine
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -8080,7 +8080,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: ed41ee4b-2eff-4bfc-a1dd-3c0f9274bae1
-        title: bilocation (Catholic charism)
+        title: Bilocation (Catholic charism)
         slug: bilocation-catholic-charism
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -8124,7 +8124,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: ed41ee4b-2eff-4bfc-a1dd-3c0f9274bae1
-        title: bilocation (Catholic charism)
+        title: Bilocation (Catholic charism)
         slug: bilocation-catholic-charism
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -9104,7 +9104,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 880f2af4-643d-4b5f-b936-3998996fd52f
-        title: quantum hologram theory of physics and consciousness (QHTC)
+        title: Quantum hologram theory of physics and consciousness (QHTC)
         slug: quantum-hologram-theory-of-physics-and-consciousness-qhtc
     date: null
     date_end: null
@@ -9141,7 +9141,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 880f2af4-643d-4b5f-b936-3998996fd52f
-        title: quantum hologram theory of physics and consciousness (QHTC)
+        title: Quantum hologram theory of physics and consciousness (QHTC)
         slug: quantum-hologram-theory-of-physics-and-consciousness-qhtc
     date: null
     date_end: null
@@ -9177,7 +9177,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2b677f65-d068-44a7-913d-aade288d1e62
-        title: samadhi
+        title: Samadhi
         slug: samadhi
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
         title: Remote Viewing (RV)
@@ -9189,7 +9189,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
-        title: dyadic model of consciousness (Mitchell)
+        title: Dyadic model of consciousness (Mitchell)
         slug: dyadic-model-of-consciousness-mitchell
     date: null
     date_end: null
@@ -9229,7 +9229,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
-        title: dyadic model of consciousness (Mitchell)
+        title: Dyadic model of consciousness (Mitchell)
         slug: dyadic-model-of-consciousness-mitchell
     date: null
     date_end: null
@@ -9266,7 +9266,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2b677f65-d068-44a7-913d-aade288d1e62
-        title: samadhi
+        title: Samadhi
         slug: samadhi
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -9305,16 +9305,16 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2b677f65-d068-44a7-913d-aade288d1e62
-        title: samadhi
+        title: Samadhi
         slug: samadhi
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
-        title: dyadic model of consciousness (Mitchell)
+        title: Dyadic model of consciousness (Mitchell)
         slug: dyadic-model-of-consciousness-mitchell
       - node_id: 8e3eba30-1639-45f5-a0ef-e91c5a19332c
-        title: zero point field
+        title: Zero point field
         slug: zero-point-field
     date: null
     date_end: null
@@ -9356,7 +9356,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
-        title: dyadic model of consciousness (Mitchell)
+        title: Dyadic model of consciousness (Mitchell)
         slug: dyadic-model-of-consciousness-mitchell
     date: null
     date_end: null
@@ -9394,7 +9394,7 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
-        title: dyadic model of consciousness (Mitchell)
+        title: Dyadic model of consciousness (Mitchell)
         slug: dyadic-model-of-consciousness-mitchell
     date: null
     date_end: null
@@ -11369,7 +11369,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -11487,7 +11487,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 51c43828-75f7-4054-83a2-334d3a382729
-        title: meta-experiencer
+        title: Meta-experiencer
         slug: meta-experiencer
       - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
         title: Maria of Agreda
@@ -12170,7 +12170,7 @@ claims:
         title: Brenda Denzler
         slug: brenda-denzler
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -12207,7 +12207,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -12755,7 +12755,7 @@ claims:
         title: Tyler D.
         slug: tyler-d
       - node_id: 31ce8fce-7d60-4ef6-bcd0-15248adc466d
-        title: the artifact (Pasulka's anomalous object)
+        title: The artifact (Pasulka's anomalous object)
         slug: the-artifact-pasulkas-anomalous-object
       - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
         title: James Master
@@ -12796,7 +12796,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 31ce8fce-7d60-4ef6-bcd0-15248adc466d
-        title: the artifact (Pasulka's anomalous object)
+        title: The artifact (Pasulka's anomalous object)
         slug: the-artifact-pasulkas-anomalous-object
     date: null
     date_end: null
@@ -12830,7 +12830,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 31ce8fce-7d60-4ef6-bcd0-15248adc466d
-        title: the artifact (Pasulka's anomalous object)
+        title: The artifact (Pasulka's anomalous object)
         slug: the-artifact-pasulkas-anomalous-object
     date: null
     date_end: null
@@ -13157,7 +13157,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 31ce8fce-7d60-4ef6-bcd0-15248adc466d
-        title: the artifact (Pasulka's anomalous object)
+        title: The artifact (Pasulka's anomalous object)
         slug: the-artifact-pasulkas-anomalous-object
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -13195,7 +13195,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 31ce8fce-7d60-4ef6-bcd0-15248adc466d
-        title: the artifact (Pasulka's anomalous object)
+        title: The artifact (Pasulka's anomalous object)
         slug: the-artifact-pasulkas-anomalous-object
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -13765,7 +13765,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -13801,7 +13801,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 6b5b933c-0eef-4d3b-b48e-84498a6dcbb4
-        title: purgatory (Catholic doctrine)
+        title: Purgatory (Catholic doctrine)
         slug: purgatory-catholic-doctrine
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -14149,7 +14149,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 51c43828-75f7-4054-83a2-334d3a382729
-        title: meta-experiencer
+        title: Meta-experiencer
         slug: meta-experiencer
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
@@ -14578,7 +14578,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 41a65634-8fe3-4bdc-b3ba-fa609280102d
         title: Jacques Vallee's journals (Forbidden Science)

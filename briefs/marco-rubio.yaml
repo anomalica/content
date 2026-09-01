@@ -54,7 +54,7 @@ related_nodes:
     slug: mark-warner
     shared_claims: 2
   - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
     node_type: document
     slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     shared_claims: 2
@@ -536,7 +536,7 @@ claims:
         title: Mark Warner
         slug: mark-warner
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null
@@ -883,7 +883,7 @@ claims:
         title: Marco Rubio
         slug: marco-rubio
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: 2022-12
     date_end: null

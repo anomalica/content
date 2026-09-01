@@ -38,6 +38,16 @@ related_nodes:
     node_type: event
     slug: wisconsin-1957-07-family-trip-to-madison
     shared_claims: 1
+  - node_id: 6868042d-2525-4808-96f4-d74c1c3522da
+    title: Alien-human hybridisation programme
+    node_type: topic
+    slug: alien-human-hybridisation-programme
+    shared_claims: 1
+  - node_id: 499fffe9-4707-4d7e-bde4-a3701cfe6340
+    title: Deep underground military bases (DUMBs)
+    node_type: topic
+    slug: deep-underground-military-bases-dumbs
+    shared_claims: 1
   - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
     title: Jim Tucker
     node_type: person
@@ -57,6 +67,11 @@ related_nodes:
     title: New Madrid Fault
     node_type: place
     slug: new-madrid-fault
+    shared_claims: 1
+  - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+    title: Past-life memories in young children
+    node_type: topic
+    slug: past-life-memories-in-young-children
     shared_claims: 1
   - node_id: a7ae90c1-5485-4c66-9255-5796bfe65ee0
     title: Texas Eagle (train)
@@ -87,21 +102,6 @@ related_nodes:
     title: Whitley Strieber
     node_type: person
     slug: whitley-strieber
-    shared_claims: 1
-  - node_id: 6868042d-2525-4808-96f4-d74c1c3522da
-    title: alien-human hybridisation programme
-    node_type: topic
-    slug: alien-human-hybridisation-programme
-    shared_claims: 1
-  - node_id: 499fffe9-4707-4d7e-bde4-a3701cfe6340
-    title: deep underground military bases (DUMBs)
-    node_type: topic
-    slug: deep-underground-military-bases-dumbs
-    shared_claims: 1
-  - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-    title: past-life memories in young children
-    node_type: topic
-    slug: past-life-memories-in-young-children
     shared_claims: 1
 claims:
   - claim_id: 63dd4161-ba06-462a-bbbf-b3661d6ef6be
@@ -290,7 +290,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
       - node_id: aaf20f22-7a2e-478d-badb-214d022969fc
         title: USA, Illinois, Chicago
@@ -457,7 +457,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 499fffe9-4707-4d7e-bde4-a3701cfe6340
-        title: deep underground military bases (DUMBs)
+        title: Deep underground military bases (DUMBs)
         slug: deep-underground-military-bases-dumbs
       - node_id: aaf20f22-7a2e-478d-badb-214d022969fc
         title: USA, Illinois, Chicago
@@ -494,7 +494,7 @@ claims:
         title: Erik Nanstiel
         slug: erik-nanstiel
       - node_id: 6868042d-2525-4808-96f4-d74c1c3522da
-        title: alien-human hybridisation programme
+        title: Alien-human hybridisation programme
         slug: alien-human-hybridisation-programme
       - node_id: aaf20f22-7a2e-478d-badb-214d022969fc
         title: USA, Illinois, Chicago

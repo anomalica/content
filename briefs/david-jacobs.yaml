@@ -34,10 +34,15 @@ related_nodes:
     slug: chris-ramsay
     shared_claims: 2
   - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-    title: human-alien hybrid children
+    title: Human-alien hybrid children
     node_type: topic
     slug: human-alien-hybrid-children
     shared_claims: 2
+  - node_id: 6868042d-2525-4808-96f4-d74c1c3522da
+    title: Alien-human hybridisation programme
+    node_type: topic
+    slug: alien-human-hybridisation-programme
+    shared_claims: 1
   - node_id: 3ff75793-423c-4333-8402-d5c543074091
     title: Bill Chalker
     node_type: person
@@ -57,11 +62,6 @@ related_nodes:
     title: The Threat
     node_type: document
     slug: the-threat
-    shared_claims: 1
-  - node_id: 6868042d-2525-4808-96f4-d74c1c3522da
-    title: alien-human hybridisation programme
-    node_type: topic
-    slug: alien-human-hybridisation-programme
     shared_claims: 1
 claims:
   - claim_id: 5dfc7e0a-a448-4d1b-bc1b-838aa7da53fa
@@ -243,7 +243,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 6868042d-2525-4808-96f4-d74c1c3522da
-        title: alien-human hybridisation programme
+        title: Alien-human hybridisation programme
         slug: alien-human-hybridisation-programme
       - node_id: a6562833-55c1-43a2-ba01-47c66c2d327f
         title: David Jacobs
@@ -288,7 +288,7 @@ claims:
         title: David Jacobs
         slug: david-jacobs
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-        title: human-alien hybrid children
+        title: Human-alien hybrid children
         slug: human-alien-hybrid-children
     date: null
     date_end: null
@@ -327,7 +327,7 @@ claims:
         title: David Jacobs
         slug: david-jacobs
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-        title: human-alien hybrid children
+        title: Human-alien hybrid children
         slug: human-alien-hybrid-children
     date: null
     date_end: null

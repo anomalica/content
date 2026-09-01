@@ -148,15 +148,15 @@ related_nodes:
     node_type: person
     slug: ted-phillips
     shared_claims: 1
+  - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
+    title: The Invisible College
+    node_type: topic
+    slug: the-invisible-college
+    shared_claims: 1
   - node_id: 4c8a2a8d-4542-4b8d-bf52-a8ebcade3342
     title: UMMO organization
     node_type: organisation
     slug: ummo-organization
-    shared_claims: 1
-  - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-    title: the Invisible College
-    node_type: topic
-    slug: the-invisible-college
     shared_claims: 1
 claims:
   - claim_id: cb006f68-f2cb-45d0-8457-c6099d512b12
@@ -804,7 +804,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
       - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
         title: France

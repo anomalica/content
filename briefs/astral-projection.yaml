@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
   node_type: topic
-  title: astral projection
+  title: Astral projection
   slug: astral-projection
   claim_count: 22
   claim_count_total: 22
@@ -49,7 +49,7 @@ related_nodes:
     slug: chris-ramsay
     shared_claims: 2
   - node_id: f13e389f-17a5-482c-adac-7d579f8ef046
-    title: government disclosure of Unidentified Flying Object (UFO) information
+    title: Government disclosure of Unidentified Flying Object (UFO) information
     node_type: topic
     slug: government-disclosure-of-unidentified-flying-object-ufo-information
     shared_claims: 2
@@ -57,6 +57,11 @@ related_nodes:
     title: Agnew Bahnson
     node_type: person
     slug: agnew-bahnson
+    shared_claims: 1
+  - node_id: 6823d7df-50a7-4a07-83c6-9523db1bacf7
+    title: Channelling
+    node_type: topic
+    slug: channelling
     shared_claims: 1
   - node_id: 301c373e-31ba-4989-a764-195e8b4af2ec
     title: Foster Bradshaw
@@ -78,6 +83,16 @@ related_nodes:
     node_type: topic
     slug: lucid-dreaming
     shared_claims: 1
+  - node_id: dcc840c9-8ef1-4997-aaa6-e7b80e8ee90a
+    title: Multi-dimensional body
+    node_type: topic
+    slug: multi-dimensional-body
+    shared_claims: 1
+  - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+    title: Near-death experience (NDE)
+    node_type: topic
+    slug: near-death-experience-nde
+    shared_claims: 1
   - node_id: b6f0ad71-f13b-4966-9ab5-a9fe8ae2894f
     title: Second Body
     node_type: topic
@@ -88,6 +103,16 @@ related_nodes:
     node_type: topic
     slug: second-state
     shared_claims: 1
+  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+    title: Telepathy
+    node_type: topic
+    slug: telepathy
+    shared_claims: 1
+  - node_id: 9a93af1a-d617-4edc-8470-3ab0cda13aaa
+    title: The lower astral
+    node_type: topic
+    slug: the-lower-astral
+    shared_claims: 1
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
     node_type: topic
@@ -97,31 +122,6 @@ related_nodes:
     title: Vicki Klein
     node_type: person
     slug: vicki-klein
-    shared_claims: 1
-  - node_id: 6823d7df-50a7-4a07-83c6-9523db1bacf7
-    title: channelling
-    node_type: topic
-    slug: channelling
-    shared_claims: 1
-  - node_id: dcc840c9-8ef1-4997-aaa6-e7b80e8ee90a
-    title: multi-dimensional body
-    node_type: topic
-    slug: multi-dimensional-body
-    shared_claims: 1
-  - node_id: aacb407b-6d99-4351-bcfc-9f2bfc6871cd
-    title: near-death experience
-    node_type: topic
-    slug: near-death-experience
-    shared_claims: 1
-  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-    title: telepathy
-    node_type: topic
-    slug: telepathy
-    shared_claims: 1
-  - node_id: 9a93af1a-d617-4edc-8470-3ab0cda13aaa
-    title: the lower astral
-    node_type: topic
-    slug: the-lower-astral
     shared_claims: 1
 claims:
   - claim_id: 80eb0621-0391-4f74-a9e8-d8f7cd3b0aa2
@@ -143,7 +143,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
         title: Vicki Klein
@@ -185,7 +185,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: f664eac3-734e-435c-b87b-2ac2431134fc
         title: Agnew Bahnson
@@ -227,7 +227,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
     date: null
     date_end: null
@@ -264,7 +264,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: b6f0ad71-f13b-4966-9ab5-a9fe8ae2894f
         title: Second Body
@@ -304,7 +304,7 @@ claims:
         title: Erik Nanstiel
         slug: erik-nanstiel
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -344,7 +344,7 @@ claims:
         title: Erik Nanstiel
         slug: erik-nanstiel
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -382,7 +382,7 @@ claims:
         title: Erik Nanstiel
         slug: erik-nanstiel
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -420,7 +420,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -463,7 +463,7 @@ claims:
         title: Gateway Experience tapes (Monroe Institute audio series)
         slug: gateway-experience-tapes-monroe-institute-audio-series
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
@@ -500,7 +500,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -509,7 +509,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: dcc840c9-8ef1-4997-aaa6-e7b80e8ee90a
-        title: multi-dimensional body
+        title: Multi-dimensional body
         slug: multi-dimensional-body
     date: null
     date_end: null
@@ -544,7 +544,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -582,7 +582,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
     date: null
     date_end: null
@@ -617,7 +617,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -660,7 +660,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -702,7 +702,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
@@ -738,18 +738,18 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: Near-death experience (NDE)
+        slug: near-death-experience-nde
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
-      - node_id: aacb407b-6d99-4351-bcfc-9f2bfc6871cd
-        title: near-death experience
-        slug: near-death-experience
     date: null
     date_end: null
     location_in_record: 01:28:48.7-01:29:06.6
@@ -782,13 +782,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
         slug: jason-quitt
       - node_id: 9a93af1a-d617-4edc-8470-3ab0cda13aaa
-        title: the lower astral
+        title: The lower astral
         slug: the-lower-astral
     date: null
     date_end: null
@@ -822,7 +822,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -862,7 +862,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
@@ -899,10 +899,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 6823d7df-50a7-4a07-83c6-9523db1bacf7
-        title: channelling
+        title: Channelling
         slug: channelling
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
@@ -911,7 +911,7 @@ claims:
         title: Lucid Dreaming
         slug: lucid-dreaming
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -947,10 +947,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: f13e389f-17a5-482c-adac-7d579f8ef046
-        title: government disclosure of Unidentified Flying Object (UFO) information
+        title: Government disclosure of Unidentified Flying Object (UFO) information
         slug: government-disclosure-of-unidentified-flying-object-ufo-information
     date: null
     date_end: null
@@ -983,10 +983,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: f13e389f-17a5-482c-adac-7d579f8ef046
-        title: government disclosure of Unidentified Flying Object (UFO) information
+        title: Government disclosure of Unidentified Flying Object (UFO) information
         slug: government-disclosure-of-unidentified-flying-object-ufo-information
     date: null
     date_end: null

@@ -43,6 +43,11 @@ related_nodes:
     node_type: person
     slug: charlie-hickson
     shared_claims: 1
+  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+    title: Crash retrieval and reverse engineering
+    node_type: topic
+    slug: crash-retrieval-and-reverse-engineering
+    shared_claims: 1
   - node_id: 6f1d5f64-164c-408c-b80e-8e7c1bef866c
     title: James Lay
     node_type: person
@@ -92,11 +97,6 @@ related_nodes:
     title: World Commerce Corporation
     node_type: organisation
     slug: world-commerce-corporation
-    shared_claims: 1
-  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-    title: crash retrieval and reverse engineering
-    node_type: topic
-    slug: crash-retrieval-and-reverse-engineering
     shared_claims: 1
 claims:
   - claim_id: 3f85ddf9-d956-4fa4-ba2d-ac28ccfe387a
@@ -209,7 +209,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)

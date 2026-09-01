@@ -114,7 +114,7 @@ related_nodes:
     slug: united-states-congress
     shared_claims: 1
   - node_id: eb84fff5-f42d-4831-81ae-0ea6548a0c58
-    title: weapons of mass destruction (WMD)
+    title: Weapons of mass destruction (WMD)
     node_type: topic
     slug: weapons-of-mass-destruction-wmd
     shared_claims: 1
@@ -450,7 +450,7 @@ claims:
         title: Stargate
         slug: stargate
       - node_id: eb84fff5-f42d-4831-81ae-0ea6548a0c58
-        title: weapons of mass destruction (WMD)
+        title: Weapons of mass destruction (WMD)
         slug: weapons-of-mass-destruction-wmd
     date: null
     date_end: null

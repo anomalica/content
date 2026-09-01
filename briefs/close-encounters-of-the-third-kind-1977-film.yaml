@@ -48,6 +48,11 @@ related_nodes:
     node_type: document
     slug: et-the-extra-terrestrial-1982-film
     shared_claims: 1
+  - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
+    title: Grey aliens
+    node_type: topic
+    slug: grey-aliens
+    shared_claims: 1
   - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
     title: Jacques Vallée
     node_type: person
@@ -93,6 +98,11 @@ related_nodes:
     node_type: object
     slug: the-white-house
     shared_claims: 1
+  - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
+    title: The close encounter experience
+    node_type: topic
+    slug: the-close-encounter-experience
+    shared_claims: 1
   - node_id: 4ba391a0-d872-408d-9f2c-7bc49ffea5e6
     title: 'UFOs: Past, Present, and Future'
     node_type: document
@@ -107,16 +117,6 @@ related_nodes:
     title: Unidentified Flying Object (UFO)
     node_type: topic
     slug: unidentified-flying-object-ufo
-    shared_claims: 1
-  - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-    title: grey aliens
-    node_type: topic
-    slug: grey-aliens
-    shared_claims: 1
-  - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-    title: the close encounter experience
-    node_type: topic
-    slug: the-close-encounter-experience
     shared_claims: 1
 claims:
   - claim_id: 29460d77-f9d7-47e7-8c0f-23ec29a4ab8a
@@ -303,7 +303,7 @@ claims:
         title: Richard Dreyfuss
         slug: richard-dreyfuss
       - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-        title: the close encounter experience
+        title: The close encounter experience
         slug: the-close-encounter-experience
     date: null
     date_end: null
@@ -470,7 +470,7 @@ claims:
         title: Close Encounters of the Third Kind (1977 film)
         slug: close-encounters-of-the-third-kind-1977-film
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
         title: Steven Spielberg

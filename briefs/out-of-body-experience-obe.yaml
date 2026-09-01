@@ -69,12 +69,12 @@ related_nodes:
     slug: nelson-delis
     shared_claims: 11
   - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-    title: astral projection
+    title: Astral projection
     node_type: topic
     slug: astral-projection
     shared_claims: 10
   - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
+    title: Alien abduction
     node_type: topic
     slug: alien-abduction
     shared_claims: 8
@@ -83,8 +83,13 @@ related_nodes:
     node_type: person
     slug: charlie-hickson
     shared_claims: 7
+  - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+    title: Near-death experience (NDE)
+    node_type: topic
+    slug: near-death-experience-nde
+    shared_claims: 6
   - node_id: b92b1eb3-2dab-4b3e-acae-ed9705a8b005
-    title: shadow people
+    title: Shadow people
     node_type: topic
     slug: shadow-people
     shared_claims: 6
@@ -98,20 +103,20 @@ related_nodes:
     node_type: topic
     slug: lucid-dreaming
     shared_claims: 5
-  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
-    title: The Monroe Institute
-    node_type: organisation
-    slug: the-monroe-institute
-    shared_claims: 4
   - node_id: dcc840c9-8ef1-4997-aaa6-e7b80e8ee90a
-    title: multi-dimensional body
+    title: Multi-dimensional body
     node_type: topic
     slug: multi-dimensional-body
     shared_claims: 4
   - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-    title: nonlocal consciousness
+    title: Nonlocal consciousness
     node_type: topic
     slug: nonlocal-consciousness
+    shared_claims: 4
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    node_type: organisation
+    slug: the-monroe-institute
     shared_claims: 4
   - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
     title: Linda Moulton Howe
@@ -123,18 +128,8 @@ related_nodes:
     node_type: person
     slug: maria
     shared_claims: 3
-  - node_id: aacb407b-6d99-4351-bcfc-9f2bfc6871cd
-    title: near-death experience
-    node_type: topic
-    slug: near-death-experience
-    shared_claims: 3
-  - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-    title: near-death experience (NDE)
-    node_type: topic
-    slug: near-death-experience-nde
-    shared_claims: 3
   - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-    title: sleep paralysis
+    title: Sleep paralysis
     node_type: topic
     slug: sleep-paralysis
     shared_claims: 3
@@ -148,10 +143,25 @@ related_nodes:
     node_type: document
     slug: communion
     shared_claims: 2
+  - node_id: ebe4f37e-e297-49e1-b26e-8dd7e7dd0e68
+    title: Crystal healing
+    node_type: topic
+    slug: crystal-healing
+    shared_claims: 2
+  - node_id: f1bd457e-2e18-406b-aefa-c0e9eff27a64
+    title: Ego death
+    node_type: topic
+    slug: ego-death
+    shared_claims: 2
   - node_id: 252d3fc0-1833-465a-b8b5-954936455fc3
     title: Gateway Experience (Monroe Institute program)
     node_type: project
     slug: gateway-experience-monroe-institute-program
+    shared_claims: 2
+  - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
+    title: Grey aliens
+    node_type: topic
+    slug: grey-aliens
     shared_claims: 2
   - node_id: 6abc7e34-35e0-416c-b0f5-a29f44683289
     title: Hemi-Sync audio technology
@@ -162,16 +172,6 @@ related_nodes:
     title: Jungian archetypes
     node_type: topic
     slug: jungian-archetypes
-    shared_claims: 2
-  - node_id: e9ec8062-a1f2-498c-b930-2490afa4185e
-    title: Kimberly Clark Sharp
-    node_type: person
-    slug: kimberly-clark-sharp
-    shared_claims: 2
-  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
-    title: Non-Human Intelligence
-    node_type: topic
-    slug: non-human-intelligence
     shared_claims: 2
 claims:
   - claim_id: d3b4a171-a092-4acc-b95f-7c366c11d930
@@ -1990,7 +1990,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-        title: electroencephalography (EEG)
+        title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -3396,7 +3396,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -3696,7 +3696,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -3772,7 +3772,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
-        title: veridical out-of-body perception
+        title: Veridical out-of-body perception
         slug: veridical-out-of-body-perception
       - node_id: 7d618f64-556b-469c-b75e-3a7b103bdb81
         title: Maria
@@ -3813,7 +3813,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -3890,7 +3890,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
-        title: veridical out-of-body perception
+        title: Veridical out-of-body perception
         slug: veridical-out-of-body-perception
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -3930,7 +3930,7 @@ claims:
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -3966,7 +3966,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -4003,7 +4003,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 29ab86b1-4a0c-47f6-964c-85459df97507
-        title: intermission memories
+        title: Intermission memories
         slug: intermission-memories
       - node_id: 68eb0ed2-c660-4bfc-9272-dc9de9b22b2c
         title: Myanmar
@@ -4531,7 +4531,7 @@ claims:
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
       - node_id: b5033b04-782c-4fac-904d-4b7159305af2
-        title: the G Technique
+        title: The G Technique
         slug: the-g-technique
       - node_id: c3e9bb65-7e60-4ffd-a7b8-dc49ba4d39ae
         title: Graham Nichols
@@ -4571,7 +4571,7 @@ claims:
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
       - node_id: b5033b04-782c-4fac-904d-4b7159305af2
-        title: the G Technique
+        title: The G Technique
         slug: the-g-technique
       - node_id: c3e9bb65-7e60-4ffd-a7b8-dc49ba4d39ae
         title: Graham Nichols
@@ -5644,7 +5644,7 @@ claims:
         title: Erik Nanstiel
         slug: erik-nanstiel
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -5684,7 +5684,7 @@ claims:
         title: Erik Nanstiel
         slug: erik-nanstiel
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -5722,7 +5722,7 @@ claims:
         title: Erik Nanstiel
         slug: erik-nanstiel
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -6257,7 +6257,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: ebe4f37e-e297-49e1-b26e-8dd7e7dd0e68
-        title: crystal healing
+        title: Crystal healing
         slug: crystal-healing
     date: null
     date_end: null
@@ -6325,7 +6325,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -6447,7 +6447,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: b92b1eb3-2dab-4b3e-acae-ed9705a8b005
-        title: shadow people
+        title: Shadow people
         slug: shadow-people
     date: null
     date_end: null
@@ -6487,7 +6487,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: b92b1eb3-2dab-4b3e-acae-ed9705a8b005
-        title: shadow people
+        title: Shadow people
         slug: shadow-people
     date: null
     date_end: null
@@ -6594,7 +6594,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -6745,7 +6745,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -7265,7 +7265,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -7274,7 +7274,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: dcc840c9-8ef1-4997-aaa6-e7b80e8ee90a
-        title: multi-dimensional body
+        title: Multi-dimensional body
         slug: multi-dimensional-body
     date: null
     date_end: null
@@ -7724,7 +7724,7 @@ claims:
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
       - node_id: dcc840c9-8ef1-4997-aaa6-e7b80e8ee90a
-        title: multi-dimensional body
+        title: Multi-dimensional body
         slug: multi-dimensional-body
     date: null
     date_end: null
@@ -8025,7 +8025,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: defa5ce6-288d-44b1-a84a-ad4f8b92bebc
-        title: psilocybin mushroom journey
+        title: Psilocybin mushroom journey
         slug: psilocybin-mushroom-journey
     date: null
     date_end: null
@@ -8279,7 +8279,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -8434,7 +8434,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: 9a93af1a-d617-4edc-8470-3ab0cda13aaa
-        title: the lower astral
+        title: The lower astral
         slug: the-lower-astral
     date: null
     date_end: null
@@ -8474,7 +8474,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: b92b1eb3-2dab-4b3e-acae-ed9705a8b005
-        title: shadow people
+        title: Shadow people
         slug: shadow-people
     date: null
     date_end: null
@@ -8512,7 +8512,7 @@ claims:
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
       - node_id: 9a93af1a-d617-4edc-8470-3ab0cda13aaa
-        title: the lower astral
+        title: The lower astral
         slug: the-lower-astral
     date: null
     date_end: null
@@ -8547,7 +8547,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -8628,7 +8628,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: 968c42b4-aad9-4781-bcf7-4b043dd02ae2
-        title: mantid beings (praying mantis entities)
+        title: Mantid beings (praying mantis entities)
         slug: mantid-beings-praying-mantis-entities
     date: null
     date_end: null
@@ -8772,7 +8772,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: b92b1eb3-2dab-4b3e-acae-ed9705a8b005
-        title: shadow people
+        title: Shadow people
         slug: shadow-people
     date: null
     date_end: null
@@ -8811,7 +8811,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: b92b1eb3-2dab-4b3e-acae-ed9705a8b005
-        title: shadow people
+        title: Shadow people
         slug: shadow-people
     date: null
     date_end: null
@@ -8850,7 +8850,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: b92b1eb3-2dab-4b3e-acae-ed9705a8b005
-        title: shadow people
+        title: Shadow people
         slug: shadow-people
     date: null
     date_end: null
@@ -8887,7 +8887,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -8934,10 +8934,10 @@ claims:
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: dcc840c9-8ef1-4997-aaa6-e7b80e8ee90a
-        title: multi-dimensional body
+        title: Multi-dimensional body
         slug: multi-dimensional-body
     date: null
     date_end: null
@@ -8978,7 +8978,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -9019,7 +9019,7 @@ claims:
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -9059,7 +9059,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -9139,7 +9139,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -9178,10 +9178,10 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: 968c42b4-aad9-4781-bcf7-4b043dd02ae2
-        title: mantid beings (praying mantis entities)
+        title: Mantid beings (praying mantis entities)
         slug: mantid-beings-praying-mantis-entities
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -9213,7 +9213,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -9257,7 +9257,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
-        title: reptilian beings
+        title: Reptilian beings
         slug: reptilian-beings
     date: null
     date_end: null
@@ -9300,7 +9300,7 @@ claims:
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
       - node_id: a2c794bc-200f-45a3-9ce8-cdaea90574a5
-        title: kundalini awakening
+        title: Kundalini awakening
         slug: kundalini-awakening
     date: null
     date_end: null
@@ -9340,7 +9340,7 @@ claims:
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -9412,7 +9412,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2bcec438-4ef0-4869-a486-e4f13b450105
-        title: ayahuasca
+        title: Ayahuasca
         slug: ayahuasca
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -9421,7 +9421,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: f1bd457e-2e18-406b-aefa-c0e9eff27a64
-        title: ego death
+        title: Ego death
         slug: ego-death
     date: null
     date_end: null
@@ -9464,7 +9464,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: f1bd457e-2e18-406b-aefa-c0e9eff27a64
-        title: ego death
+        title: Ego death
         slug: ego-death
     date: null
     date_end: null
@@ -9506,7 +9506,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: dcc840c9-8ef1-4997-aaa6-e7b80e8ee90a
-        title: multi-dimensional body
+        title: Multi-dimensional body
         slug: multi-dimensional-body
     date: null
     date_end: null
@@ -9694,18 +9694,18 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: Near-death experience (NDE)
+        slug: near-death-experience-nde
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
-      - node_id: aacb407b-6d99-4351-bcfc-9f2bfc6871cd
-        title: near-death experience
-        slug: near-death-experience
     date: null
     date_end: null
     location_in_record: 01:28:48.7-01:29:06.6
@@ -9882,7 +9882,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -9995,7 +9995,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -10080,10 +10080,10 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-        title: human-alien hybrid children
+        title: Human-alien hybrid children
         slug: human-alien-hybrid-children
     date: null
     date_end: null
@@ -10190,7 +10190,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -10237,7 +10237,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: ebe4f37e-e297-49e1-b26e-8dd7e7dd0e68
-        title: crystal healing
+        title: Crystal healing
         slug: crystal-healing
     date: null
     date_end: null
@@ -10277,7 +10277,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: defa5ce6-288d-44b1-a84a-ad4f8b92bebc
-        title: psilocybin mushroom journey
+        title: Psilocybin mushroom journey
         slug: psilocybin-mushroom-journey
     date: null
     date_end: null
@@ -10741,7 +10741,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -11722,7 +11722,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
-        title: kundalini
+        title: Kundalini
         slug: kundalini
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -11794,15 +11794,15 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: Near-death experience (NDE)
+        slug: near-death-experience-nde
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
-      - node_id: aacb407b-6d99-4351-bcfc-9f2bfc6871cd
-        title: near-death experience
-        slug: near-death-experience
     date: null
     date_end: null
     location_in_record: 00:46:24.4-00:46:35.7
@@ -12097,15 +12097,15 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: Near-death experience (NDE)
+        slug: near-death-experience-nde
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
-      - node_id: aacb407b-6d99-4351-bcfc-9f2bfc6871cd
-        title: near-death experience
-        slug: near-death-experience
     date: null
     date_end: null
     location_in_record: 01:40:14.0-01:40:29.2
@@ -12138,7 +12138,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 091f459e-bde8-4abc-a7c8-28ee007f7aab
-        title: dissociation
+        title: Dissociation
         slug: dissociation
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -12147,7 +12147,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -12184,7 +12184,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -12810,7 +12810,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -13010,7 +13010,7 @@ claims:
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -13229,7 +13229,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay

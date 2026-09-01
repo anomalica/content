@@ -53,15 +53,15 @@ related_nodes:
     node_type: organisation
     slug: university-of-iceland
     shared_claims: 5
+  - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
+    title: Drop-in communicators
+    node_type: topic
+    slug: drop-in-communicators
+    shared_claims: 4
   - node_id: 6f04ce2d-1997-49aa-b7e4-cf5821b23369
     title: 'The Departed Among the Living: An Investigative Study of Afterlife Encounters (book by Erlendur Haraldsson)'
     node_type: document
     slug: the-departed-among-the-living-an-investigative-study-of-afterlife-encounters-book-by-erlendur-haraldsson
-    shared_claims: 4
-  - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-    title: drop-in communicators
-    node_type: topic
-    slug: drop-in-communicators
     shared_claims: 4
   - node_id: b5266d70-92ac-4be4-9a23-9c13170d40ee
     title: 63 Store Kongensgade fire, Copenhagen
@@ -69,7 +69,7 @@ related_nodes:
     slug: copenhagen-63-store-kongensgade-fire
     shared_claims: 3
   - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-    title: survival hypothesis
+    title: Survival hypothesis
     node_type: topic
     slug: survival-hypothesis
     shared_claims: 3
@@ -108,6 +108,11 @@ related_nodes:
     node_type: person
     slug: jurgen-keil
     shared_claims: 2
+  - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+    title: Past-life memories in young children
+    node_type: topic
+    slug: past-life-memories-in-young-children
+    shared_claims: 2
   - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
     title: Precognition
     node_type: topic
@@ -117,11 +122,6 @@ related_nodes:
     title: Satwant Pasricha
     node_type: person
     slug: satwant-pasricha
-    shared_claims: 2
-  - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-    title: past-life memories in young children
-    node_type: topic
-    slug: past-life-memories-in-young-children
     shared_claims: 2
   - node_id: c18ec082-8faf-4da3-bc2b-03a5b03e6e5c
     title: '"Alleged Encounters with the Dead: The Importance of Violent Death in 337 New Cases" (paper by Erlendur Haraldsson)'
@@ -153,6 +153,11 @@ related_nodes:
     node_type: project
     slug: erlendur-haraldssons-1970s-survey-of-icelanders-on-after-death-awareness
     shared_claims: 1
+  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+    title: Extrasensory perception (ESP)
+    node_type: topic
+    slug: extrasensory-perception-esp
+    shared_claims: 1
   - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
     title: Geomagnetic Fluctuations (GMF)
     node_type: topic
@@ -167,11 +172,6 @@ related_nodes:
     title: Minute books of the Experimental Society (Iceland)
     node_type: document
     slug: minute-books-of-the-experimental-society-iceland
-    shared_claims: 1
-  - node_id: 764f60f0-777e-4542-8f93-10d696bd0e56
-    title: Politiken
-    node_type: organisation
-    slug: politiken
     shared_claims: 1
 claims:
   - claim_id: 4a74221e-7a4c-40ab-9b05-7257e4547d13
@@ -289,7 +289,7 @@ claims:
         title: Antonia Mills
         slug: antonia-mills
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
       - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
         title: Erlendur Haraldsson
@@ -335,7 +335,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
       - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
         title: Erlendur Haraldsson
@@ -415,7 +415,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
         title: Runolfur Runolfsson ("Runki")
@@ -492,7 +492,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
         title: Ian Stevenson
@@ -542,7 +542,7 @@ claims:
         title: Erlendur Haraldsson
         slug: erlendur-haraldsson
       - node_id: ec85bfdd-0899-4aa9-b790-b91008022037
-        title: super-Extrasensory Perception (ESP) hypothesis
+        title: Super-Extrasensory Perception (ESP) hypothesis
         slug: super-extrasensory-perception-esp-hypothesis
     date: null
     date_end: null
@@ -892,7 +892,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-        title: drop-in communicators
+        title: Drop-in communicators
         slug: drop-in-communicators
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -901,7 +901,7 @@ claims:
         title: Erlendur Haraldsson
         slug: erlendur-haraldsson
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -967,7 +967,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
         title: Erlendur Haraldsson
@@ -1291,7 +1291,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-        title: drop-in communicators
+        title: Drop-in communicators
         slug: drop-in-communicators
       - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
         title: Erlendur Haraldsson
@@ -1446,7 +1446,7 @@ claims:
         title: Emil Jensen
         slug: emil-jensen
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-        title: drop-in communicators
+        title: Drop-in communicators
         slug: drop-in-communicators
     date: null
     date_end: null
@@ -1560,7 +1560,7 @@ claims:
         title: Emil Jensen
         slug: emil-jensen
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 513f6595-b6ed-429b-bcd6-7200533c6dd1
         title: Indridi Indridason
@@ -1599,7 +1599,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 9be216da-aa9e-43d0-b539-cd881e233581
-        title: direct-voice mediumship
+        title: Direct-voice mediumship
         slug: direct-voice-mediumship
     date: null
     date_end: null
@@ -1704,7 +1704,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2567af72-7bbf-420f-a930-e346565402af
-        title: xenoglossy
+        title: Xenoglossy
         slug: xenoglossy
     date: null
     date_end: null
@@ -1913,7 +1913,7 @@ claims:
         title: Emil Jensen
         slug: emil-jensen
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-        title: drop-in communicators
+        title: Drop-in communicators
         slug: drop-in-communicators
       - node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
         title: Runolfur Runolfsson ("Runki")
@@ -1958,16 +1958,16 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-        title: drop-in communicators
+        title: Drop-in communicators
         slug: drop-in-communicators
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-        title: clairvoyance
+        title: Clairvoyance
         slug: clairvoyance
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -2500,7 +2500,7 @@ claims:
         title: Emil Jensen
         slug: emil-jensen
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-        title: drop-in communicators
+        title: Drop-in communicators
         slug: drop-in-communicators
       - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
         title: Erlendur Haraldsson

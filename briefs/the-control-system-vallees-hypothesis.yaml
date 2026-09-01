@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
   node_type: topic
-  title: the Control System (Vallée's hypothesis)
+  title: The Control System (Vallée's hypothesis)
   slug: the-control-system-vallees-hypothesis
   claim_count: 7
   claim_count_total: 7
@@ -43,25 +43,25 @@ related_nodes:
     node_type: topic
     slug: non-human-intelligence
     shared_claims: 1
+  - node_id: 8f51cc7f-3e01-4514-b974-c29ef680d683
+    title: Psychotronics
+    node_type: topic
+    slug: psychotronics
+    shared_claims: 1
   - node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
     title: Raymond Bernard
     node_type: person
     slug: raymond-bernard
     shared_claims: 1
+  - node_id: d75bc7c1-9f0b-4eb4-a164-e68e21f75299
+    title: The High Council ("A")
+    node_type: topic
+    slug: the-high-council-a
+    shared_claims: 1
   - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
     title: Whitley Strieber
     node_type: person
     slug: whitley-strieber
-    shared_claims: 1
-  - node_id: 8f51cc7f-3e01-4514-b974-c29ef680d683
-    title: psychotronics
-    node_type: topic
-    slug: psychotronics
-    shared_claims: 1
-  - node_id: d75bc7c1-9f0b-4eb4-a164-e68e21f75299
-    title: the High Council ("A")
-    node_type: topic
-    slug: the-high-council-a
     shared_claims: 1
 claims:
   - claim_id: 3f0f84a5-fc50-47b2-9113-3298b23d2165
@@ -86,7 +86,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
-        title: the Control System (Vallée's hypothesis)
+        title: The Control System (Vallée's hypothesis)
         slug: the-control-system-vallees-hypothesis
       - node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
         title: Raymond Bernard
@@ -95,7 +95,7 @@ claims:
         title: Maha (self-proclaimed superior being)
         slug: maha-self-proclaimed-superior-being
       - node_id: d75bc7c1-9f0b-4eb4-a164-e68e21f75299
-        title: the High Council ("A")
+        title: The High Council ("A")
         slug: the-high-council-a
     date: null
     date_end: null
@@ -132,10 +132,10 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
-        title: the Control System (Vallée's hypothesis)
+        title: The Control System (Vallée's hypothesis)
         slug: the-control-system-vallees-hypothesis
       - node_id: 8f51cc7f-3e01-4514-b974-c29ef680d683
-        title: psychotronics
+        title: Psychotronics
         slug: psychotronics
     date: null
     date_end: null
@@ -173,7 +173,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
-        title: the Control System (Vallée's hypothesis)
+        title: The Control System (Vallée's hypothesis)
         slug: the-control-system-vallees-hypothesis
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -214,7 +214,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
-        title: the Control System (Vallée's hypothesis)
+        title: The Control System (Vallée's hypothesis)
         slug: the-control-system-vallees-hypothesis
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -253,7 +253,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
-        title: the Control System (Vallée's hypothesis)
+        title: The Control System (Vallée's hypothesis)
         slug: the-control-system-vallees-hypothesis
     date: null
     date_end: null
@@ -291,7 +291,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
-        title: the Control System (Vallée's hypothesis)
+        title: The Control System (Vallée's hypothesis)
         slug: the-control-system-vallees-hypothesis
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -331,7 +331,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
-        title: the Control System (Vallée's hypothesis)
+        title: The Control System (Vallée's hypothesis)
         slug: the-control-system-vallees-hypothesis
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence

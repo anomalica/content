@@ -103,6 +103,11 @@ related_nodes:
     node_type: organisation
     slug: national-security-council
     shared_claims: 1
+  - node_id: 8c9052fb-28d4-4be8-b6dd-994776a779a8
+    title: Perception management (UFO information control)
+    node_type: topic
+    slug: perception-management-ufo-information-control
+    shared_claims: 1
   - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
     title: Phil McGraw
     node_type: person
@@ -142,11 +147,6 @@ related_nodes:
     title: Walter Bedell Smith
     node_type: person
     slug: walter-bedell-smith
-    shared_claims: 1
-  - node_id: 8c9052fb-28d4-4be8-b6dd-994776a779a8
-    title: perception management (UFO information control)
-    node_type: topic
-    slug: perception-management-ufo-information-control
     shared_claims: 1
 claims:
   - claim_id: 924f1852-0130-4a15-96e1-dd0f84c41c79
@@ -286,7 +286,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8c9052fb-28d4-4be8-b6dd-994776a779a8
-        title: perception management (UFO information control)
+        title: Perception management (UFO information control)
         slug: perception-management-ufo-information-control
       - node_id: e0a197e9-f299-4903-ac82-5593e0915802
         title: Robertson Panel

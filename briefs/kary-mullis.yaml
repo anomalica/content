@@ -29,7 +29,7 @@ related_nodes:
     slug: mulliss-1985-anderson-valley-cabin-encounter
     shared_claims: 8
   - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-    title: polymerase chain reaction
+    title: Polymerase chain reaction
     node_type: topic
     slug: polymerase-chain-reaction
     shared_claims: 5
@@ -43,6 +43,11 @@ related_nodes:
     node_type: person
     slug: bill-chalker
     shared_claims: 4
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 3
   - node_id: fd0d4696-45b5-43d9-ad79-26df5acb4a6f
     title: Nobel Prize in Chemistry
     node_type: topic
@@ -52,11 +57,6 @@ related_nodes:
     title: USA, California, Mendocino County, Anderson Valley cabin
     node_type: place
     slug: california-mendocino-county-anderson-valley-cabin-usa
-    shared_claims: 3
-  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
-    node_type: topic
-    slug: alien-abduction
     shared_claims: 3
   - node_id: a963e855-eacc-4ab4-8d69-7256891a764e
     title: Kary Mullis's talking, glowing raccoon encounter
@@ -78,10 +78,20 @@ related_nodes:
     node_type: person
     slug: peter-khoury
     shared_claims: 2
+  - node_id: ebcb116b-c0f5-47a1-a0fe-b5e05fb2c633
+    title: Alien-human hybrid theory
+    node_type: topic
+    slug: alien-human-hybrid-theory
+    shared_claims: 1
   - node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
     title: Communion
     node_type: document
     slug: communion
+    shared_claims: 1
+  - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
+    title: Gray alien stereotype
+    node_type: topic
+    slug: gray-alien-stereotype
     shared_claims: 1
   - node_id: b46539e0-2f7c-4743-87a2-21afa6655264
     title: Hyperspace
@@ -98,6 +108,11 @@ related_nodes:
     node_type: person
     slug: michio-kaku
     shared_claims: 1
+  - node_id: 02891ce2-5b56-4ee3-97e5-f88d4ccff302
+    title: Multidimensional physics
+    node_type: topic
+    slug: multidimensional-physics
+    shared_claims: 1
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
     node_type: topic
@@ -107,21 +122,6 @@ related_nodes:
     title: Whitley Strieber
     node_type: person
     slug: whitley-strieber
-    shared_claims: 1
-  - node_id: ebcb116b-c0f5-47a1-a0fe-b5e05fb2c633
-    title: alien-human hybrid theory
-    node_type: topic
-    slug: alien-human-hybrid-theory
-    shared_claims: 1
-  - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
-    title: gray alien stereotype
-    node_type: topic
-    slug: gray-alien-stereotype
-    shared_claims: 1
-  - node_id: 02891ce2-5b56-4ee3-97e5-f88d4ccff302
-    title: multidimensional physics
-    node_type: topic
-    slug: multidimensional-physics
     shared_claims: 1
 claims:
   - claim_id: b4d72ddf-ff18-4aa7-9f7c-7aca340f4976
@@ -358,7 +358,7 @@ claims:
         title: Kary Mullis
         slug: kary-mullis
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: a3ac6135-89c2-4d32-96da-8e2a74d2a160
         title: USA, California, Mendocino County, Anderson Valley cabin
@@ -673,7 +673,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 02891ce2-5b56-4ee3-97e5-f88d4ccff302
-        title: multidimensional physics
+        title: Multidimensional physics
         slug: multidimensional-physics
       - node_id: 2cc858d0-aa73-46c4-bdd0-7cb545271750
         title: Kary Mullis
@@ -719,7 +719,7 @@ claims:
         title: Kary Mullis
         slug: kary-mullis
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -756,7 +756,7 @@ claims:
         title: Kary Mullis
         slug: kary-mullis
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -825,13 +825,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
-        title: gray alien stereotype
+        title: Gray alien stereotype
         slug: gray-alien-stereotype
       - node_id: 2cc858d0-aa73-46c4-bdd0-7cb545271750
         title: Kary Mullis
         slug: kary-mullis
       - node_id: ebcb116b-c0f5-47a1-a0fe-b5e05fb2c633
-        title: alien-human hybrid theory
+        title: Alien-human hybrid theory
         slug: alien-human-hybrid-theory
     date: null
     date_end: null
@@ -979,7 +979,7 @@ claims:
         title: Kary Mullis
         slug: kary-mullis
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -1090,7 +1090,7 @@ claims:
         title: Kary Mullis
         slug: kary-mullis
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: null
     date_end: null
@@ -1123,7 +1123,7 @@ claims:
         title: Kary Mullis
         slug: kary-mullis
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: fd0d4696-45b5-43d9-ad79-26df5acb4a6f
         title: Nobel Prize in Chemistry
@@ -1162,7 +1162,7 @@ claims:
         title: Kary Mullis
         slug: kary-mullis
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: fd0d4696-45b5-43d9-ad79-26df5acb4a6f
         title: Nobel Prize in Chemistry
@@ -1239,7 +1239,7 @@ claims:
         title: Kary Mullis
         slug: kary-mullis
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: '1993'
     date_end: null

@@ -143,6 +143,11 @@ related_nodes:
     node_type: person
     slug: daniel-sheehan
     shared_claims: 1
+  - node_id: f00ee898-537f-4c5e-986c-88511f61b0a2
+    title: Deathbed visions
+    node_type: topic
+    slug: deathbed-visions
+    shared_claims: 1
   - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
     title: Defense Intelligence Agency (DIA)
     node_type: organisation
@@ -158,20 +163,15 @@ related_nodes:
     node_type: object
     slug: fa-18-super-hornet
     shared_claims: 1
+  - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
+    title: Foo fighter
+    node_type: topic
+    slug: foo-fighter
+    shared_claims: 1
   - node_id: a77966af-a350-432e-8fbc-2ca59029820b
     title: Fox News
     node_type: organisation
     slug: fox-news
-    shared_claims: 1
-  - node_id: b34fd408-b07a-4bc4-b750-c80cfdecbcb3
-    title: Frank Bristow
-    node_type: person
-    slug: frank-bristow
-    shared_claims: 1
-  - node_id: 4094e5d5-06b8-4b3b-ac52-e926313e2e47
-    title: Frank Pearlman
-    node_type: person
-    slug: frank-pearlman
     shared_claims: 1
 claims:
   - claim_id: 979aa4af-cb2c-4316-a344-7a15caca6acc
@@ -394,7 +394,7 @@ claims:
         title: Steve Jobs
         slug: steve-jobs
       - node_id: f00ee898-537f-4c5e-986c-88511f61b0a2
-        title: deathbed visions
+        title: Deathbed visions
         slug: deathbed-visions
     date: '2011-10-30'
     date_end: null
@@ -1090,7 +1090,7 @@ claims:
         title: The New York Times
         slug: the-new-york-times
       - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
-        title: foo fighter
+        title: Foo fighter
         slug: foo-fighter
     date: 1945-01
     date_end: null
@@ -1526,7 +1526,7 @@ claims:
         title: The New York Times
         slug: the-new-york-times
       - node_id: c7d959e1-cea1-4a13-9d71-0f60e225c007
-        title: r/UFOs subreddit
+        title: R/UFOs subreddit
         slug: rufos-subreddit
       - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
         title: Jason Samosa

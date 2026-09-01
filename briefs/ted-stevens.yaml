@@ -58,6 +58,11 @@ related_nodes:
     node_type: organisation
     slug: defense-intelligence-agency-dia
     shared_claims: 1
+  - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
+    title: Foo fighter
+    node_type: topic
+    slug: foo-fighter
+    shared_claims: 1
   - node_id: c95dc873-284b-438f-88d4-19bb5619fa48
     title: Michael D. Maples
     node_type: person
@@ -82,11 +87,6 @@ related_nodes:
     title: United States Air Force (USAF)
     node_type: organisation
     slug: united-states-air-force-usaf
-    shared_claims: 1
-  - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
-    title: foo fighter
-    node_type: topic
-    slug: foo-fighter
     shared_claims: 1
 claims:
   - claim_id: 1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
@@ -684,7 +684,7 @@ claims:
         title: Ted Stevens
         slug: ted-stevens
       - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
-        title: foo fighter
+        title: Foo fighter
         slug: foo-fighter
     date: null
     date_end: null

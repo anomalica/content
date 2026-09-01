@@ -58,6 +58,11 @@ related_nodes:
     node_type: event
     slug: sister-maria-of-agredas-alleged-bilocations-to-new-mexico
     shared_claims: 2
+  - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
+    title: Bilocation
+    node_type: topic
+    slug: bilocation
+    shared_claims: 1
   - node_id: 5e1e45c3-3628-423d-b155-37209309df3f
     title: Congregation for the Cause of the Saints
     node_type: organisation
@@ -83,6 +88,11 @@ related_nodes:
     node_type: person
     slug: jeffrey-kripal
     shared_claims: 1
+  - node_id: 51c43828-75f7-4054-83a2-334d3a382729
+    title: Meta-experiencer
+    node_type: topic
+    slug: meta-experiencer
+    shared_claims: 1
   - node_id: e78fc889-bf06-4127-a9a0-228768d9f075
     title: Mystical City of God
     node_type: document
@@ -107,16 +117,6 @@ related_nodes:
     title: Vatican Observatory
     node_type: organisation
     slug: vatican-observatory
-    shared_claims: 1
-  - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-    title: bilocation
-    node_type: topic
-    slug: bilocation
-    shared_claims: 1
-  - node_id: 51c43828-75f7-4054-83a2-334d3a382729
-    title: meta-experiencer
-    node_type: topic
-    slug: meta-experiencer
     shared_claims: 1
 claims:
   - claim_id: 3eeb8d02-a597-4306-8b35-3391dcac2f2c
@@ -173,7 +173,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 51c43828-75f7-4054-83a2-334d3a382729
-        title: meta-experiencer
+        title: Meta-experiencer
         slug: meta-experiencer
       - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
         title: Maria of Agreda
@@ -1213,7 +1213,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
       - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
         title: Maria of Agreda

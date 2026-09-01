@@ -109,7 +109,7 @@ related_nodes:
     slug: neil-mccasland
     shared_claims: 2
   - node_id: b83da5e3-e3b2-4a45-970e-1fb61796f3df
-    title: reverse engineering of non-human technology
+    title: Reverse engineering of non-human technology
     node_type: topic
     slug: reverse-engineering-of-non-human-technology
     shared_claims: 2
@@ -122,6 +122,11 @@ related_nodes:
     title: Air Force Research Laboratory
     node_type: organisation
     slug: air-force-research-laboratory
+    shared_claims: 1
+  - node_id: dd4fc424-4c79-4cee-910d-b78073e8abc2
+    title: Electron beam welding
+    node_type: topic
+    slug: electron-beam-welding
     shared_claims: 1
   - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
     title: Eric Davis
@@ -167,11 +172,6 @@ related_nodes:
     title: TRW Inc.
     node_type: organisation
     slug: trw-inc
-    shared_claims: 1
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    node_type: person
-    slug: tom-delonge
     shared_claims: 1
 claims:
   - claim_id: 8d4f57f7-6a0b-4fa1-a5b8-74d065b38a8c
@@ -1815,7 +1815,7 @@ claims:
         title: USA, Ohio, Wright-Patterson Air Force Base
         slug: ohio-wright-patterson-air-force-base-usa
       - node_id: b83da5e3-e3b2-4a45-970e-1fb61796f3df
-        title: reverse engineering of non-human technology
+        title: Reverse engineering of non-human technology
         slug: reverse-engineering-of-non-human-technology
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -1940,7 +1940,7 @@ claims:
         title: USA, Ohio, Wright-Patterson Air Force Base
         slug: ohio-wright-patterson-air-force-base-usa
       - node_id: dd4fc424-4c79-4cee-910d-b78073e8abc2
-        title: electron beam welding
+        title: Electron beam welding
         slug: electron-beam-welding
     date: null
     date_end: null
@@ -1983,7 +1983,7 @@ claims:
         title: USA, Ohio, Wright-Patterson Air Force Base
         slug: ohio-wright-patterson-air-force-base-usa
       - node_id: b83da5e3-e3b2-4a45-970e-1fb61796f3df
-        title: reverse engineering of non-human technology
+        title: Reverse engineering of non-human technology
         slug: reverse-engineering-of-non-human-technology
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart

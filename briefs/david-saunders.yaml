@@ -93,6 +93,11 @@ related_nodes:
     node_type: person
     slug: stanton-friedman
     shared_claims: 1
+  - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
+    title: The Invisible College
+    node_type: topic
+    slug: the-invisible-college
+    shared_claims: 1
   - node_id: 006b3ab1-13d0-406c-919a-ef4c0681b996
     title: USA, Colorado, Boulder
     node_type: place
@@ -107,11 +112,6 @@ related_nodes:
     title: Zeta Reticuli star map analysis
     node_type: project
     slug: zeta-reticuli-star-map-analysis
-    shared_claims: 1
-  - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-    title: the Invisible College
-    node_type: topic
-    slug: the-invisible-college
     shared_claims: 1
 claims:
   - claim_id: 550ccd06-4f9e-46b8-93aa-06ba5335e3a0
@@ -267,7 +267,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
       - node_id: 2c57037a-db11-4c30-b871-4f8a98603310
         title: 1974 photograph of the Invisible College members in Boulder, Colorado

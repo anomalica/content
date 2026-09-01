@@ -23,15 +23,15 @@ belonging:
   suspect_excluded: 0
   unreviewed: 4
 related_nodes:
+  - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+    title: Levitation
+    node_type: topic
+    slug: levitation
+    shared_claims: 3
   - node_id: c4e34315-2672-453b-9229-4ffc45af0a8f
     title: They Flew
     node_type: document
     slug: they-flew
-    shared_claims: 3
-  - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-    title: levitation
-    node_type: topic
-    slug: levitation
     shared_claims: 3
   - node_id: c7724717-0065-4753-904b-4ba6d06946e5
     title: Roman Inquisition
@@ -62,7 +62,7 @@ claims:
         title: Carlos M. N. Eire
         slug: carlos-m-n-eire
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: c4e34315-2672-453b-9229-4ffc45af0a8f
         title: They Flew
@@ -100,7 +100,7 @@ claims:
         title: Carlos M. N. Eire
         slug: carlos-m-n-eire
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: c4e34315-2672-453b-9229-4ffc45af0a8f
         title: They Flew
@@ -180,7 +180,7 @@ claims:
         title: They Flew (Carlos Eire)
         slug: they-flew-carlos-eire
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: c7724717-0065-4753-904b-4ba6d06946e5
         title: Roman Inquisition

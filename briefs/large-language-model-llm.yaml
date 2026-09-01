@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 57e26296-4524-486b-a7ea-fc698140bb84
   node_type: topic
-  title: large language model (LLM )
+  title: Large language model (LLM)
   slug: large-language-model-llm
   claim_count: 6
   claim_count_total: 6
@@ -28,15 +28,15 @@ related_nodes:
     node_type: person
     slug: chris-ramsay
     shared_claims: 4
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: Artificial intelligence (AI)
+    node_type: topic
+    slug: artificial-intelligence-ai
+    shared_claims: 3
   - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
     title: Julia Mossbridge
     node_type: person
     slug: julia-mossbridge
-    shared_claims: 2
-  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
-    title: artificial intelligence (AI )
-    node_type: topic
-    slug: artificial-intelligence-ai
     shared_claims: 2
   - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
     title: Non-Human Intelligence
@@ -47,11 +47,6 @@ related_nodes:
     title: Precognitive Remote Viewing
     node_type: topic
     slug: precognitive-remote-viewing
-    shared_claims: 1
-  - node_id: 54616729-112f-44c5-9178-811f7811f1e8
-    title: artificial intelligence
-    node_type: topic
-    slug: artificial-intelligence
     shared_claims: 1
 claims:
   - claim_id: 4b5b8d4b-5a2c-4284-bb00-e5dd0e456564
@@ -77,11 +72,11 @@ claims:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
-      - node_id: 54616729-112f-44c5-9178-811f7811f1e8
-        title: artificial intelligence
-        slug: artificial-intelligence
+      - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+        title: Artificial intelligence (AI)
+        slug: artificial-intelligence-ai
       - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
-        title: large language model (LLM )
+        title: Large language model (LLM)
         slug: large-language-model-llm
     date: null
     date_end: null
@@ -119,7 +114,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
-        title: large language model (LLM )
+        title: Large language model (LLM)
         slug: large-language-model-llm
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -158,7 +153,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
-        title: large language model (LLM )
+        title: Large language model (LLM)
         slug: large-language-model-llm
     date: null
     date_end: null
@@ -195,7 +190,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
-        title: large language model (LLM )
+        title: Large language model (LLM)
         slug: large-language-model-llm
     date: null
     date_end: null
@@ -227,10 +222,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
-        title: artificial intelligence (AI )
+        title: Artificial intelligence (AI)
         slug: artificial-intelligence-ai
       - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
-        title: large language model (LLM )
+        title: Large language model (LLM)
         slug: large-language-model-llm
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -267,13 +262,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
-        title: artificial intelligence (AI )
+        title: Artificial intelligence (AI)
         slug: artificial-intelligence-ai
       - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
         title: Precognitive Remote Viewing
         slug: precognitive-remote-viewing
       - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
-        title: large language model (LLM )
+        title: Large language model (LLM)
         slug: large-language-model-llm
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge

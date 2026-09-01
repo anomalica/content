@@ -34,7 +34,7 @@ related_nodes:
     slug: technology-and-logistics-ousdat-office-of-the-under-secretary-of-defense-for-acquisition
     shared_claims: 1
   - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
-    title: Reverse-engineering program of recovered technological hardware (unnamed SAP )
+    title: Reverse-engineering program of recovered technological hardware (unnamed SAP)
     node_type: project
     slug: reverse-engineering-program-of-recovered-technological-hardware-unnamed-sap
     shared_claims: 1
@@ -270,7 +270,7 @@ claims:
         title: Jacques Gansler
         slug: jacques-gansler
       - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
-        title: Reverse-engineering program of recovered technological hardware (unnamed SAP )
+        title: Reverse-engineering program of recovered technological hardware (unnamed SAP)
         slug: reverse-engineering-program-of-recovered-technological-hardware-unnamed-sap
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson

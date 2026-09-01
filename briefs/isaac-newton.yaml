@@ -38,15 +38,15 @@ related_nodes:
     node_type: person
     slug: lucretius
     shared_claims: 1
+  - node_id: 0deea1bc-f136-4fda-8322-d068e132a316
+    title: Vortex atom theory
+    node_type: topic
+    slug: vortex-atom-theory
+    shared_claims: 1
   - node_id: c86d9083-73e9-4500-80a4-1c7662b875d1
     title: William Thomson (Lord Kelvin)
     node_type: person
     slug: william-thomson-lord-kelvin
-    shared_claims: 1
-  - node_id: 0deea1bc-f136-4fda-8322-d068e132a316
-    title: vortex atom theory
-    node_type: topic
-    slug: vortex-atom-theory
     shared_claims: 1
 claims:
   - claim_id: 485b4dc0-681b-4534-9767-cdda119d64a4
@@ -132,7 +132,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0deea1bc-f136-4fda-8322-d068e132a316
-        title: vortex atom theory
+        title: Vortex atom theory
         slug: vortex-atom-theory
       - node_id: 2928e96b-16f5-4850-802d-f6adf4af9ee4
         title: Lucretius

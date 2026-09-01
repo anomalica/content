@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
   node_type: topic
-  title: quantum mechanics
+  title: Quantum mechanics
   slug: quantum-mechanics
   claim_count: 4
   claim_count_total: 4
@@ -39,12 +39,12 @@ related_nodes:
     slug: double-slit-experiment
     shared_claims: 1
   - node_id: 2a7e99da-a52b-42f0-ae13-32841e4a3bc8
-    title: quantum gravity
+    title: Quantum gravity
     node_type: topic
     slug: quantum-gravity
     shared_claims: 1
   - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-    title: string theory
+    title: String theory
     node_type: topic
     slug: string-theory
     shared_claims: 1
@@ -68,13 +68,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-        title: string theory
+        title: String theory
         slug: string-theory
       - node_id: 2a7e99da-a52b-42f0-ae13-32841e4a3bc8
-        title: quantum gravity
+        title: Quantum gravity
         slug: quantum-gravity
       - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
-        title: quantum mechanics
+        title: Quantum mechanics
         slug: quantum-mechanics
     date: null
     date_end: null
@@ -114,7 +114,7 @@ claims:
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
-        title: quantum mechanics
+        title: Quantum mechanics
         slug: quantum-mechanics
     date: null
     date_end: null
@@ -154,7 +154,7 @@ claims:
         title: Consciousness studies
         slug: consciousness-studies
       - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
-        title: quantum mechanics
+        title: Quantum mechanics
         slug: quantum-mechanics
     date: null
     date_end: null
@@ -194,7 +194,7 @@ claims:
         title: Consciousness studies
         slug: consciousness-studies
       - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
-        title: quantum mechanics
+        title: Quantum mechanics
         slug: quantum-mechanics
     date: null
     date_end: null

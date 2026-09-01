@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
   node_type: topic
-  title: human-alien hybridization
+  title: Human-alien hybridization
   slug: human-alien-hybridization
   claim_count: 37
   claim_count_total: 37
@@ -63,33 +63,33 @@ related_nodes:
     node_type: person
     slug: luis-elizondo
     shared_claims: 3
+  - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
+    title: The close encounter experience
+    node_type: topic
+    slug: the-close-encounter-experience
+    shared_claims: 3
   - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
     title: Tom DeLonge
     node_type: person
     slug: tom-delonge
     shared_claims: 3
-  - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-    title: the close encounter experience
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
     node_type: topic
-    slug: the-close-encounter-experience
-    shared_claims: 3
+    slug: alien-abduction
+    shared_claims: 2
+  - node_id: 16764115-151c-4a5b-af6b-c4f7f4a5ae06
+    title: Declining human sperm counts
+    node_type: topic
+    slug: declining-human-sperm-counts
+    shared_claims: 2
   - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
     title: Jim Semivan
     node_type: person
     slug: jim-semivan
     shared_claims: 2
-  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
-    node_type: topic
-    slug: alien-abduction
-    shared_claims: 2
-  - node_id: 16764115-151c-4a5b-af6b-c4f7f4a5ae06
-    title: declining human sperm counts
-    node_type: topic
-    slug: declining-human-sperm-counts
-    shared_claims: 2
   - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-    title: time travel
+    title: Time travel
     node_type: topic
     slug: time-travel
     shared_claims: 2
@@ -97,6 +97,11 @@ related_nodes:
     title: 1985 Whitley Strieber close encounter at his upstate New York cabin
     node_type: event
     slug: 1985-whitley-strieber-close-encounter-at-his-upstate-new-york-cabin
+    shared_claims: 1
+  - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
+    title: Alien abduction experience
+    node_type: topic
+    slug: alien-abduction-experience
     shared_claims: 1
   - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
     title: Andrew Strieber
@@ -127,6 +132,11 @@ related_nodes:
     title: Eric Nanstiel
     node_type: person
     slug: eric-nanstiel
+    shared_claims: 1
+  - node_id: eb16ca39-c2e7-4102-ba7d-9b127e88a047
+    title: Genocide
+    node_type: topic
+    slug: genocide
     shared_claims: 1
   - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
     title: Going Within
@@ -163,16 +173,6 @@ related_nodes:
     node_type: person
     slug: john-ramirez
     shared_claims: 1
-  - node_id: 0c5bd4c5-90dd-40c4-bb88-91c023a0b20d
-    title: Overton window
-    node_type: topic
-    slug: overton-window
-    shared_claims: 1
-  - node_id: 19247384-509d-492b-8701-0f0894424c86
-    title: Peter Curry
-    node_type: person
-    slug: peter-curry
-    shared_claims: 1
 claims:
   - claim_id: a7012f16-90c0-4130-b9a0-c4809cb71c7c
     claim_hash: 2b70bf162af32329ae88046c9d8656e68c0b5bfaed6b55a66a65ce502220b618
@@ -199,7 +199,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -241,7 +241,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -281,13 +281,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
         title: Going Within
         slug: going-within
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
         title: USA, District of Columbia, Washington
@@ -326,10 +326,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -362,7 +362,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
         title: Jason Samosa
@@ -399,7 +399,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
         title: Jason Samosa
@@ -435,7 +435,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -479,7 +479,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
         title: Tom DeLonge
@@ -524,7 +524,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 41a65634-8fe3-4bdc-b3ba-fa609280102d
         title: Jacques Vallee's journals (Forbidden Science)
@@ -571,7 +571,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 6fc39504-75d6-4592-aece-49f7e2abaa9b
         title: John Ramirez
@@ -616,10 +616,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -661,7 +661,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: beb9eb48-6799-4f9b-a465-6fccb65370bd
         title: Secret Machines
@@ -670,7 +670,7 @@ claims:
         title: Tom DeLonge
         slug: tom-delonge
       - node_id: eb16ca39-c2e7-4102-ba7d-9b127e88a047
-        title: genocide
+        title: Genocide
         slug: genocide
       - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
         title: Jason Samosa
@@ -713,7 +713,7 @@ claims:
         title: Jim Semivan
         slug: jim-semivan
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 6cc97343-1634-45fa-9c85-4325f72a109c
         title: Ryan Bledsoe
@@ -761,7 +761,7 @@ claims:
         title: Imminent (book by Luis Elizondo)
         slug: imminent-book-by-luis-elizondo
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -803,7 +803,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -846,7 +846,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -883,7 +883,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
         title: Jason Samosa
@@ -926,7 +926,7 @@ claims:
         title: Jim Semivan
         slug: jim-semivan
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -972,13 +972,13 @@ claims:
         title: Overton window
         slug: overton-window
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
-        title: psychological operations (psyop)
+        title: Psychological operations (psyop)
         slug: psychological-operations-psyop-a07cf4c0
     date: null
     date_end: null
@@ -1013,13 +1013,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 469acb99-5f7f-499c-b8c3-6a20bb5a0790
-        title: the soul
+        title: The soul
         slug: the-soul
     date: null
     date_end: null
@@ -1053,7 +1053,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1092,13 +1092,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 3d44231b-2421-4393-99cf-b82e6fa23482
         title: Debbie Jordan
         slug: debbie-jordan
       - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-        title: the close encounter experience
+        title: The close encounter experience
         slug: the-close-encounter-experience
     date: null
     date_end: null
@@ -1135,10 +1135,10 @@ claims:
         title: Peter Curry
         slug: peter-curry
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-        title: the close encounter experience
+        title: The close encounter experience
         slug: the-close-encounter-experience
       - node_id: bcb82e5c-3a50-48d8-b0d7-34857b22c6b9
         title: Eric Nanstiel
@@ -1173,10 +1173,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
-        title: alien abduction experience
+        title: Alien abduction experience
         slug: alien-abduction-experience
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1214,7 +1214,7 @@ claims:
         title: Anne Strieber
         slug: anne-strieber
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1257,7 +1257,7 @@ claims:
         title: Anne Strieber
         slug: anne-strieber
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1296,13 +1296,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-        title: the close encounter experience
+        title: The close encounter experience
         slug: the-close-encounter-experience
     date: null
     date_end: null
@@ -1337,7 +1337,7 @@ claims:
         title: Anne Strieber
         slug: anne-strieber
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1374,7 +1374,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1411,7 +1411,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1448,7 +1448,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1488,13 +1488,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 16764115-151c-4a5b-af6b-c4f7f4a5ae06
-        title: declining human sperm counts
+        title: Declining human sperm counts
         slug: declining-human-sperm-counts
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
     date: null
     date_end: null
@@ -1533,7 +1533,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
     date: null
     date_end: null
@@ -1569,16 +1569,16 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 16764115-151c-4a5b-af6b-c4f7f4a5ae06
-        title: declining human sperm counts
+        title: Declining human sperm counts
         slug: declining-human-sperm-counts
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
     date: null
     date_end: null
@@ -1612,10 +1612,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1624,7 +1624,7 @@ claims:
         title: Non-Human Intelligence
         slug: non-human-intelligence
       - node_id: f17d0ba2-aa3c-4fe9-a2c7-86753732b53d
-        title: the extratempestrial model
+        title: The extratempestrial model
         slug: the-extratempestrial-model
     date: null
     date_end: null
@@ -1661,7 +1661,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -1701,7 +1701,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: a384e65a-f90f-4829-9bc0-cd87e84a56cf
         title: Jason Reza Jorjani

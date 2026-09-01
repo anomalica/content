@@ -168,10 +168,10 @@ related_nodes:
     node_type: organisation
     slug: navy-n2
     shared_claims: 1
-  - node_id: d306d2a9-b63d-4818-90bc-11ffafbd04d2
-    title: Office of the Secretary of the Air Force
-    node_type: organisation
-    slug: office-of-the-secretary-of-the-air-force
+  - node_id: 907f7e41-b17f-413a-a683-52058e338f54
+    title: Non-disclosure agreement (NDA)
+    node_type: topic
+    slug: non-disclosure-agreement-nda
     shared_claims: 1
 claims:
   - claim_id: 12a5052a-09e6-49d3-9bd6-e3625b026942
@@ -1276,7 +1276,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 907f7e41-b17f-413a-a683-52058e338f54
-        title: non-disclosure agreement (NDA)
+        title: Non-disclosure agreement (NDA)
         slug: non-disclosure-agreement-nda
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)

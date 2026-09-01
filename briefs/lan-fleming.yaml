@@ -65,7 +65,7 @@ related_nodes:
     slug: sts-48-video-anomalous-objects-incident-1991-09
     shared_claims: 1
   - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-    title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR )
+    title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
     node_type: organisation
     slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
     shared_claims: 1
@@ -131,8 +131,7 @@ claims:
         title: National Aeronautics and Space Administration (NASA)
         slug: national-aeronautics-and-space-administration-nasa
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
     date: null
     date_end: null

@@ -43,6 +43,11 @@ related_nodes:
     node_type: event
     slug: 2004-uss-nimitz-uap-encounter
     shared_claims: 1
+  - node_id: f28ca005-7c30-4a55-afe9-24f352aa54fb
+    title: Alien implants (phenomenon)
+    node_type: topic
+    slug: alien-implants-phenomenon
+    shared_claims: 1
   - node_id: c02bca71-cad9-4f6a-92eb-bf43dafdc424
     title: Bill Lynn
     node_type: person
@@ -62,11 +67,6 @@ related_nodes:
     title: Thomas Wilson
     node_type: person
     slug: thomas-wilson
-    shared_claims: 1
-  - node_id: f28ca005-7c30-4a55-afe9-24f352aa54fb
-    title: alien implants (phenomenon)
-    node_type: topic
-    slug: alien-implants-phenomenon
     shared_claims: 1
 claims:
   - claim_id: 405e21a6-702c-4703-b6ed-a910ba86cb3b
@@ -90,7 +90,7 @@ claims:
         title: Keith Basterfield
         slug: keith-basterfield
       - node_id: f28ca005-7c30-4a55-afe9-24f352aa54fb
-        title: alien implants (phenomenon)
+        title: Alien implants (phenomenon)
         slug: alien-implants-phenomenon
     date: null
     date_end: null

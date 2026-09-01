@@ -53,6 +53,11 @@ related_nodes:
     node_type: event
     slug: 1997-edgar-mitchell-fax-to-strom-thurmond-supporting-philip-corsos-roswell-claims
     shared_claims: 1
+  - node_id: d828ba4b-f9c5-4731-8e80-fd0cb99a8bcc
+    title: Anonymous Reddit document on nonhuman anatomy (sent to Whitley Strieber in 2024)
+    node_type: document
+    slug: anonymous-reddit-document-on-nonhuman-anatomy-sent-to-whitley-strieber-in-2024
+    shared_claims: 1
   - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
     title: USA, New Mexico, Roswell
     node_type: place
@@ -67,11 +72,6 @@ related_nodes:
     title: Whitley Strieber
     node_type: person
     slug: whitley-strieber
-    shared_claims: 1
-  - node_id: d828ba4b-f9c5-4731-8e80-fd0cb99a8bcc
-    title: anonymous Reddit document on nonhuman anatomy (sent to Whitley Strieber in 2024)
-    node_type: document
-    slug: anonymous-reddit-document-on-nonhuman-anatomy-sent-to-whitley-strieber-in-2024
     shared_claims: 1
 claims:
   - claim_id: 4fd0fcbb-1cf7-4b12-b420-a63ff0269150
@@ -465,7 +465,7 @@ claims:
         title: Philip Corso
         slug: philip-corso
       - node_id: d828ba4b-f9c5-4731-8e80-fd0cb99a8bcc
-        title: anonymous Reddit document on nonhuman anatomy (sent to Whitley Strieber in 2024)
+        title: Anonymous Reddit document on nonhuman anatomy (sent to Whitley Strieber in 2024)
         slug: anonymous-reddit-document-on-nonhuman-anatomy-sent-to-whitley-strieber-in-2024
     date: null
     date_end: null

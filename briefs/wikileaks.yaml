@@ -38,6 +38,11 @@ related_nodes:
     node_type: event
     slug: 2016-gru-hacking-of-john-podestas-email-and-wikileaks-release
     shared_claims: 1
+  - node_id: bee3c8f3-c1a2-4805-8f0f-178353cac7c4
+    title: Catastrophic disclosure
+    node_type: topic
+    slug: catastrophic-disclosure
+    shared_claims: 1
   - node_id: 7ed3ece6-d2b6-46e4-884b-8b9bd720adef
     title: Havana syndrome
     node_type: topic
@@ -77,11 +82,6 @@ related_nodes:
     title: United States Department of War
     node_type: organisation
     slug: united-states-department-of-war
-    shared_claims: 1
-  - node_id: bee3c8f3-c1a2-4805-8f0f-178353cac7c4
-    title: catastrophic disclosure
-    node_type: topic
-    slug: catastrophic-disclosure
     shared_claims: 1
 claims:
   - claim_id: 3a8bf1d6-9c20-485c-816b-d5c0691d850f
@@ -276,7 +276,7 @@ claims:
         title: Wikileaks
         slug: wikileaks
       - node_id: bee3c8f3-c1a2-4805-8f0f-178353cac7c4
-        title: catastrophic disclosure
+        title: Catastrophic disclosure
         slug: catastrophic-disclosure
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart

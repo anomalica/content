@@ -28,6 +28,11 @@ related_nodes:
     node_type: organisation
     slug: central-intelligence-agency-cia
     shared_claims: 9
+  - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+    title: Cattle mutilations phenomenon
+    node_type: topic
+    slug: cattle-mutilations-phenomenon
+    shared_claims: 3
   - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
     title: Ed Dames
     node_type: person
@@ -47,11 +52,6 @@ related_nodes:
     title: Unidentified Flying Object (UFO)
     node_type: topic
     slug: unidentified-flying-object-ufo
-    shared_claims: 3
-  - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-    title: cattle mutilations phenomenon
-    node_type: topic
-    slug: cattle-mutilations-phenomenon
     shared_claims: 3
   - node_id: 11534995-4b1f-41b6-a0d7-5fa6aec01cbb
     title: 1950 Guy Hottel Federal Bureau of Investigation (FBI) memo
@@ -234,7 +234,7 @@ claims:
         title: Floyd K. Haskell
         slug: floyd-k-haskell
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
         title: Federal Bureau of Investigation (FBI)
@@ -272,7 +272,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
         title: Federal Bureau of Investigation (FBI)
@@ -346,7 +346,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: a789545b-0778-4fee-80fe-0741297014c2
-        title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
           (Phase One, hair shaft, 1998-1999)
         slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
@@ -1053,7 +1053,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
         title: Federal Bureau of Investigation (FBI)

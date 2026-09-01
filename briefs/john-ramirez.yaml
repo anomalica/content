@@ -43,6 +43,11 @@ related_nodes:
     node_type: document
     slug: dreamland-podcast
     shared_claims: 1
+  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+    title: Human-alien hybridization
+    node_type: topic
+    slug: human-alien-hybridization
+    shared_claims: 1
   - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
     title: Jason Samosa
     node_type: person
@@ -52,11 +57,6 @@ related_nodes:
     title: Luis Elizondo
     node_type: person
     slug: luis-elizondo
-    shared_claims: 1
-  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-    title: human-alien hybridization
-    node_type: topic
-    slug: human-alien-hybridization
     shared_claims: 1
 claims:
   - claim_id: 1536286b-3f2a-4c21-ac34-531780aa84aa
@@ -120,7 +120,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 6fc39504-75d6-4592-aece-49f7e2abaa9b
         title: John Ramirez

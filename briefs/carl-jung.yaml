@@ -28,31 +28,36 @@ related_nodes:
     node_type: topic
     slug: unidentified-flying-object-ufo
     shared_claims: 5
+  - node_id: 8d51e05f-1dd1-468f-8c44-f590bfe983c3
+    title: Amplificatory interpretation (Jungian concept)
+    node_type: topic
+    slug: amplificatory-interpretation-jungian-concept
+    shared_claims: 2
   - node_id: f2daae19-9351-4a8e-b466-664f83887f61
     title: Diana Walsh Pasulka
     node_type: person
     slug: diana-walsh-pasulka
+    shared_claims: 2
+  - node_id: c47ce8ee-28f3-4757-8d83-a31e0a0f96bc
+    title: Fine structure constant
+    node_type: topic
+    slug: fine-structure-constant
+    shared_claims: 2
+  - node_id: 2b26531d-c2df-4e39-af0c-cd3d9cdb15d1
+    title: Synchronicity (Jungian concept)
+    node_type: topic
+    slug: synchronicity-jungian-concept
     shared_claims: 2
   - node_id: d6a23884-a280-40fa-a17a-7fe40f8d1d2a
     title: Wolfgang Pauli
     node_type: person
     slug: wolfgang-pauli
     shared_claims: 2
-  - node_id: 8d51e05f-1dd1-468f-8c44-f590bfe983c3
-    title: amplificatory interpretation (Jungian concept)
+  - node_id: 511b95fb-738d-4880-b933-e81325628830
+    title: Collective unconscious
     node_type: topic
-    slug: amplificatory-interpretation-jungian-concept
-    shared_claims: 2
-  - node_id: c47ce8ee-28f3-4757-8d83-a31e0a0f96bc
-    title: fine structure constant
-    node_type: topic
-    slug: fine-structure-constant
-    shared_claims: 2
-  - node_id: 2b26531d-c2df-4e39-af0c-cd3d9cdb15d1
-    title: synchronicity (Jungian concept)
-    node_type: topic
-    slug: synchronicity-jungian-concept
-    shared_claims: 2
+    slug: collective-unconscious
+    shared_claims: 1
   - node_id: e002eed3-4e45-4049-af0b-600c1214e623
     title: David Stinnett
     node_type: person
@@ -78,20 +83,15 @@ related_nodes:
     node_type: person
     slug: julia-mossbridge
     shared_claims: 1
+  - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+    title: Synchronicity
+    node_type: topic
+    slug: synchronicity
+    shared_claims: 1
   - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
     title: Tyler D.
     node_type: person
     slug: tyler-d
-    shared_claims: 1
-  - node_id: 511b95fb-738d-4880-b933-e81325628830
-    title: collective unconscious
-    node_type: topic
-    slug: collective-unconscious
-    shared_claims: 1
-  - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-    title: synchronicity
-    node_type: topic
-    slug: synchronicity
     shared_claims: 1
 claims:
   - claim_id: dadaefd4-ea4a-4483-afc2-1f4bd459aff6
@@ -399,7 +399,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8d51e05f-1dd1-468f-8c44-f590bfe983c3
-        title: amplificatory interpretation (Jungian concept)
+        title: Amplificatory interpretation (Jungian concept)
         slug: amplificatory-interpretation-jungian-concept
       - node_id: c551f048-0859-4b1c-af58-df2919d81390
         title: Carl Jung
@@ -503,7 +503,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2b26531d-c2df-4e39-af0c-cd3d9cdb15d1
-        title: synchronicity (Jungian concept)
+        title: Synchronicity (Jungian concept)
         slug: synchronicity-jungian-concept
       - node_id: c551f048-0859-4b1c-af58-df2919d81390
         title: Carl Jung
@@ -542,7 +542,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2b26531d-c2df-4e39-af0c-cd3d9cdb15d1
-        title: synchronicity (Jungian concept)
+        title: Synchronicity (Jungian concept)
         slug: synchronicity-jungian-concept
       - node_id: c551f048-0859-4b1c-af58-df2919d81390
         title: Carl Jung
@@ -630,7 +630,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8d51e05f-1dd1-468f-8c44-f590bfe983c3
-        title: amplificatory interpretation (Jungian concept)
+        title: Amplificatory interpretation (Jungian concept)
         slug: amplificatory-interpretation-jungian-concept
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -774,7 +774,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: c47ce8ee-28f3-4757-8d83-a31e0a0f96bc
-        title: fine structure constant
+        title: Fine structure constant
         slug: fine-structure-constant
       - node_id: c551f048-0859-4b1c-af58-df2919d81390
         title: Carl Jung
@@ -813,7 +813,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 511b95fb-738d-4880-b933-e81325628830
-        title: collective unconscious
+        title: Collective unconscious
         slug: collective-unconscious
       - node_id: c551f048-0859-4b1c-af58-df2919d81390
         title: Carl Jung
@@ -883,7 +883,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: c47ce8ee-28f3-4757-8d83-a31e0a0f96bc
-        title: fine structure constant
+        title: Fine structure constant
         slug: fine-structure-constant
       - node_id: c551f048-0859-4b1c-af58-df2919d81390
         title: Carl Jung
@@ -923,7 +923,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-        title: synchronicity
+        title: Synchronicity
         slug: synchronicity
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge

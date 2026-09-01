@@ -58,6 +58,11 @@ related_nodes:
     node_type: person
     slug: agnew-bahnson
     shared_claims: 1
+  - node_id: 0ccfa4fa-7fae-4c16-bdf5-5b561bef99e0
+    title: Antigravity
+    node_type: topic
+    slug: antigravity
+    shared_claims: 1
   - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
     title: Budd Hopkins
     node_type: person
@@ -89,7 +94,7 @@ related_nodes:
     slug: new-jersey-newark-airport-usa
     shared_claims: 1
   - node_id: 2abc96cd-8dcd-4c74-a1aa-58e5f1fd4a91
-    title: United Nations Organization (UN )
+    title: United Nations Organization (UN)
     node_type: organisation
     slug: united-nations-organization-un
     shared_claims: 1
@@ -97,11 +102,6 @@ related_nodes:
     title: United Nations Special Political Committee
     node_type: organisation
     slug: united-nations-special-political-committee
-    shared_claims: 1
-  - node_id: 0ccfa4fa-7fae-4c16-bdf5-5b561bef99e0
-    title: antigravity
-    node_type: topic
-    slug: antigravity
     shared_claims: 1
 claims:
   - claim_id: 5a598c5f-c548-403c-8eef-0020cc8c8e3b
@@ -130,7 +130,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 2abc96cd-8dcd-4c74-a1aa-58e5f1fd4a91
-        title: United Nations Organization (UN )
+        title: United Nations Organization (UN)
         slug: united-nations-organization-un
       - node_id: 3abd8bc9-ef78-4110-9694-0e28d97751e7
         title: 1978 Jacques Vallée United Nations Unidentified Flying Object (UFO) statement
@@ -170,7 +170,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0ccfa4fa-7fae-4c16-bdf5-5b561bef99e0
-        title: antigravity
+        title: Antigravity
         slug: antigravity
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe

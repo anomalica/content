@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
   node_type: topic
-  title: time travel
+  title: Time travel
   slug: time-travel
   claim_count: 33
   claim_count_total: 33
@@ -33,21 +33,26 @@ related_nodes:
     node_type: person
     slug: whitley-strieber
     shared_claims: 12
+  - node_id: 3ebf2a70-a0d1-484e-8912-35929642bc47
+    title: Grandfather paradox
+    node_type: topic
+    slug: grandfather-paradox
+    shared_claims: 4
   - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
     title: Precognition
     node_type: topic
     slug: precognition
-    shared_claims: 4
-  - node_id: 3ebf2a70-a0d1-484e-8912-35929642bc47
-    title: grandfather paradox
-    node_type: topic
-    slug: grandfather-paradox
     shared_claims: 4
   - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
     title: Chris Ramsay
     node_type: person
     slug: chris-ramsay
     shared_claims: 3
+  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+    title: Human-alien hybridization
+    node_type: topic
+    slug: human-alien-hybridization
+    shared_claims: 2
   - node_id: d7e78302-bfc0-44d0-b2c8-967b15fde742
     title: Nikola Tesla
     node_type: person
@@ -58,25 +63,20 @@ related_nodes:
     node_type: topic
     slug: non-human-intelligence
     shared_claims: 2
-  - node_id: 96c9d481-7c21-4bc7-b293-56b6469c40ed
-    title: Whitley Strieber's 1983 time slip on LaGuardia Place
-    node_type: event
-    slug: whitley-striebers-1983-time-slip-on-laguardia-place
-    shared_claims: 2
-  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-    title: human-alien hybridization
-    node_type: topic
-    slug: human-alien-hybridization
-    shared_claims: 2
   - node_id: f17d0ba2-aa3c-4fe9-a2c7-86753732b53d
-    title: the extratempestrial model
+    title: The extratempestrial model
     node_type: topic
     slug: the-extratempestrial-model
     shared_claims: 2
   - node_id: 374982e6-193c-49b4-87fa-1259227a9f3d
-    title: time slip
+    title: Time slip
     node_type: topic
     slug: time-slip
+    shared_claims: 2
+  - node_id: 96c9d481-7c21-4bc7-b293-56b6469c40ed
+    title: Whitley Strieber's 1983 time slip on LaGuardia Place
+    node_type: event
+    slug: whitley-striebers-1983-time-slip-on-laguardia-place
     shared_claims: 2
   - node_id: d83947f5-60f0-41dc-b4ae-cf7f846432a4
     title: American Electrodynamics
@@ -93,10 +93,30 @@ related_nodes:
     node_type: document
     slug: back-to-the-future
     shared_claims: 1
+  - node_id: a9d055ed-c0a1-468c-a40e-5449159763e8
+    title: Block universe theory
+    node_type: topic
+    slug: block-universe-theory
+    shared_claims: 1
+  - node_id: 16764115-151c-4a5b-af6b-c4f7f4a5ae06
+    title: Declining human sperm counts
+    node_type: topic
+    slug: declining-human-sperm-counts
+    shared_claims: 1
   - node_id: 697d5622-493d-4575-892e-8b8eaa6d2d32
     title: How to Avoid the Time Wars
     node_type: document
     slug: how-to-avoid-the-time-wars
+    shared_claims: 1
+  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+    title: Informational substrate
+    node_type: topic
+    slug: informational-substrate
+    shared_claims: 1
+  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+    title: Nonlocal consciousness
+    node_type: topic
+    slug: nonlocal-consciousness
     shared_claims: 1
   - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
     title: Out-of-Body Experience (OBE)
@@ -108,35 +128,15 @@ related_nodes:
     node_type: place
     slug: new-york-manhattan-laguardia-place-usa
     shared_claims: 1
+  - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
+    title: Unconditional love
+    node_type: topic
+    slug: unconditional-love
+    shared_claims: 1
   - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
     title: Unidentified Anomalous Phenomena (UAP)
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
-    shared_claims: 1
-  - node_id: a9d055ed-c0a1-468c-a40e-5449159763e8
-    title: block universe theory
-    node_type: topic
-    slug: block-universe-theory
-    shared_claims: 1
-  - node_id: 16764115-151c-4a5b-af6b-c4f7f4a5ae06
-    title: declining human sperm counts
-    node_type: topic
-    slug: declining-human-sperm-counts
-    shared_claims: 1
-  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-    title: informational substrate
-    node_type: topic
-    slug: informational-substrate
-    shared_claims: 1
-  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-    title: nonlocal consciousness
-    node_type: topic
-    slug: nonlocal-consciousness
-    shared_claims: 1
-  - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-    title: unconditional love
-    node_type: topic
-    slug: unconditional-love
     shared_claims: 1
 claims:
   - claim_id: 6803d886-925d-4f06-8573-98300c87002f
@@ -160,16 +160,16 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 16764115-151c-4a5b-af6b-c4f7f4a5ae06
-        title: declining human sperm counts
+        title: Declining human sperm counts
         slug: declining-human-sperm-counts
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
     date: null
     date_end: null
@@ -203,7 +203,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -238,10 +238,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 374982e6-193c-49b4-87fa-1259227a9f3d
-        title: time slip
+        title: Time slip
         slug: time-slip
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -278,10 +278,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -290,7 +290,7 @@ claims:
         title: Non-Human Intelligence
         slug: non-human-intelligence
       - node_id: f17d0ba2-aa3c-4fe9-a2c7-86753732b53d
-        title: the extratempestrial model
+        title: The extratempestrial model
         slug: the-extratempestrial-model
     date: null
     date_end: null
@@ -328,10 +328,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ebf2a70-a0d1-484e-8912-35929642bc47
-        title: grandfather paradox
+        title: Grandfather paradox
         slug: grandfather-paradox
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -340,7 +340,7 @@ claims:
         title: Non-Human Intelligence
         slug: non-human-intelligence
       - node_id: f17d0ba2-aa3c-4fe9-a2c7-86753732b53d
-        title: the extratempestrial model
+        title: The extratempestrial model
         slug: the-extratempestrial-model
     date: null
     date_end: null
@@ -374,7 +374,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 6a42f73e-1e98-4f51-ac69-8baada52acbe
         title: USA, New York, Manhattan, LaGuardia Place
@@ -417,10 +417,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 374982e6-193c-49b4-87fa-1259227a9f3d
-        title: time slip
+        title: Time slip
         slug: time-slip
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -463,13 +463,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -504,7 +504,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -540,10 +540,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ebf2a70-a0d1-484e-8912-35929642bc47
-        title: grandfather paradox
+        title: Grandfather paradox
         slug: grandfather-paradox
     date: null
     date_end: null
@@ -577,10 +577,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ebf2a70-a0d1-484e-8912-35929642bc47
-        title: grandfather paradox
+        title: Grandfather paradox
         slug: grandfather-paradox
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -617,10 +617,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ebf2a70-a0d1-484e-8912-35929642bc47
-        title: grandfather paradox
+        title: Grandfather paradox
         slug: grandfather-paradox
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -656,7 +656,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -694,13 +694,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: a9d055ed-c0a1-468c-a40e-5449159763e8
-        title: block universe theory
+        title: Block universe theory
         slug: block-universe-theory
     date: null
     date_end: null
@@ -734,7 +734,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -772,7 +772,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -812,7 +812,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 697d5622-493d-4575-892e-8b8eaa6d2d32
         title: How to Avoid the Time Wars
@@ -821,7 +821,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-        title: unconditional love
+        title: Unconditional love
         slug: unconditional-love
     date: null
     date_end: null
@@ -855,7 +855,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -892,7 +892,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -932,7 +932,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -972,7 +972,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -1011,10 +1011,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: informational substrate
+        title: Informational substrate
         slug: informational-substrate
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -1049,7 +1049,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -1085,7 +1085,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1129,7 +1129,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -1165,7 +1165,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -1206,7 +1206,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -1242,7 +1242,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -1280,7 +1280,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -1318,7 +1318,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -1360,7 +1360,7 @@ claims:
         title: 'Avengers: Endgame'
         slug: avengers-endgame
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1395,7 +1395,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -1434,7 +1434,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge

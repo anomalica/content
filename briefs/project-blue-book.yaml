@@ -6012,7 +6012,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 55d8864f-5a54-49b4-b247-64670258220d
-        title: swamp gas
+        title: Swamp gas
         slug: swamp-gas
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -6021,7 +6021,7 @@ claims:
         title: Project Blue Book
         slug: project-blue-book
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: null
     date_end: null

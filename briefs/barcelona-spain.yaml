@@ -38,6 +38,11 @@ related_nodes:
     node_type: person
     slug: jacques-vallee
     shared_claims: 3
+  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+    title: Nonlocal consciousness
+    node_type: topic
+    slug: nonlocal-consciousness
+    shared_claims: 2
   - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
     title: Ross Coulthart
     node_type: person
@@ -52,11 +57,6 @@ related_nodes:
     title: Xavier Clares Jerez
     node_type: person
     slug: xavier-clares-jerez
-    shared_claims: 2
-  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-    title: nonlocal consciousness
-    node_type: topic
-    slug: nonlocal-consciousness
     shared_claims: 2
   - node_id: a6806a15-a981-4c9d-afee-e8756ea538e5
     title: Ballester-Olmos
@@ -467,7 +467,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: '2025'
     date_end: null
@@ -514,7 +514,7 @@ claims:
         title: Roger Penrose
         slug: roger-penrose
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null

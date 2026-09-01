@@ -78,6 +78,11 @@ related_nodes:
     node_type: event
     slug: massachusetts-and-manhattan-subway-leslie-keans-two-red-balloons-sighting-concord
     shared_claims: 1
+  - node_id: 374982e6-193c-49b4-87fa-1259227a9f3d
+    title: Time slip
+    node_type: topic
+    slug: time-slip
+    shared_claims: 1
   - node_id: 871de715-d0f3-44ac-8828-59dfac9f7717
     title: USA, Massachusetts, Concord
     node_type: place
@@ -107,11 +112,6 @@ related_nodes:
     title: Whitley Strieber's 1983 time slip on LaGuardia Place
     node_type: event
     slug: whitley-striebers-1983-time-slip-on-laguardia-place
-    shared_claims: 1
-  - node_id: 374982e6-193c-49b4-87fa-1259227a9f3d
-    title: time slip
-    node_type: topic
-    slug: time-slip
     shared_claims: 1
 claims:
   - claim_id: 9da8037e-f6ea-41f2-9a50-fcbca797ed7d
@@ -912,7 +912,7 @@ claims:
         title: USA, New York, Manhattan
         slug: new-york-manhattan-usa
       - node_id: 374982e6-193c-49b4-87fa-1259227a9f3d
-        title: time slip
+        title: Time slip
         slug: time-slip
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber

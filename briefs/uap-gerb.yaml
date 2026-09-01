@@ -43,6 +43,11 @@ related_nodes:
     node_type: organisation
     slug: mitre-corporation
     shared_claims: 1
+  - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
+    title: Psychological operations (psyop)
+    node_type: topic
+    slug: psychological-operations-psyop-a07cf4c0
+    shared_claims: 1
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
     node_type: topic
@@ -52,11 +57,6 @@ related_nodes:
     title: United States Department of Energy (DOE)
     node_type: organisation
     slug: united-states-department-of-energy-doe
-    shared_claims: 1
-  - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
-    title: psychological operations (psyop)
-    node_type: topic
-    slug: psychological-operations-psyop-a07cf4c0
     shared_claims: 1
 claims:
   - claim_id: b2f8e5a8-6fa3-4545-b809-778f6ed2e0d5
@@ -1343,7 +1343,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
-        title: psychological operations (psyop)
+        title: Psychological operations (psyop)
         slug: psychological-operations-psyop-a07cf4c0
     date: null
     date_end: null

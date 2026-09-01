@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: f94c0e15-7072-4800-a97a-a9843462f35b
   node_type: topic
-  title: foo fighter
+  title: Foo fighter
   slug: foo-fighter
   claim_count: 12
   claim_count_total: 12
@@ -61,7 +61,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
-        title: foo fighter
+        title: Foo fighter
         slug: foo-fighter
     date: null
     date_end: null
@@ -92,7 +92,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
-        title: foo fighter
+        title: Foo fighter
         slug: foo-fighter
     date: null
     date_end: null
@@ -129,7 +129,7 @@ claims:
         title: Tachikawa Ki-36 fighter aircraft
         slug: tachikawa-ki-36-fighter-aircraft
       - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
-        title: foo fighter
+        title: Foo fighter
         slug: foo-fighter
     date: '1945'
     date_end: null
@@ -166,7 +166,7 @@ claims:
         title: The New York Times
         slug: the-new-york-times
       - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
-        title: foo fighter
+        title: Foo fighter
         slug: foo-fighter
     date: 1945-01
     date_end: null
@@ -198,7 +198,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
-        title: foo fighter
+        title: Foo fighter
         slug: foo-fighter
     date: null
     date_end: null
@@ -230,7 +230,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
-        title: foo fighter
+        title: Foo fighter
         slug: foo-fighter
     date: null
     date_end: null
@@ -262,7 +262,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
-        title: foo fighter
+        title: Foo fighter
         slug: foo-fighter
     date: null
     date_end: null
@@ -292,7 +292,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
-        title: foo fighter
+        title: Foo fighter
         slug: foo-fighter
     date: null
     date_end: null
@@ -322,7 +322,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
-        title: foo fighter
+        title: Foo fighter
         slug: foo-fighter
     date: null
     date_end: null
@@ -355,7 +355,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
-        title: foo fighter
+        title: Foo fighter
         slug: foo-fighter
     date: null
     date_end: null
@@ -390,7 +390,7 @@ claims:
         title: Ted Stevens
         slug: ted-stevens
       - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
-        title: foo fighter
+        title: Foo fighter
         slug: foo-fighter
     date: null
     date_end: null
@@ -422,7 +422,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
-        title: foo fighter
+        title: Foo fighter
         slug: foo-fighter
     date: null
     date_end: null

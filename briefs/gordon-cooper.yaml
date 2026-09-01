@@ -34,7 +34,7 @@ related_nodes:
     slug: unidentified-flying-object-ufo
     shared_claims: 5
   - node_id: eb931019-ff87-4630-92fc-e67374887a7f
-    title: space fireflies phenomenon
+    title: Space fireflies phenomenon
     node_type: topic
     slug: space-fireflies-phenomenon
     shared_claims: 4
@@ -330,7 +330,7 @@ claims:
         title: Gordon Cooper
         slug: gordon-cooper
       - node_id: eb931019-ff87-4630-92fc-e67374887a7f
-        title: space fireflies phenomenon
+        title: Space fireflies phenomenon
         slug: space-fireflies-phenomenon
     date: '1963-05-15'
     date_end: null
@@ -402,7 +402,7 @@ claims:
         title: Gordon Cooper
         slug: gordon-cooper
       - node_id: eb931019-ff87-4630-92fc-e67374887a7f
-        title: space fireflies phenomenon
+        title: Space fireflies phenomenon
         slug: space-fireflies-phenomenon
     date: '1963-05-15'
     date_end: null
@@ -438,7 +438,7 @@ claims:
         title: Gordon Cooper
         slug: gordon-cooper
       - node_id: eb931019-ff87-4630-92fc-e67374887a7f
-        title: space fireflies phenomenon
+        title: Space fireflies phenomenon
         slug: space-fireflies-phenomenon
     date: '1963-05-15'
     date_end: null
@@ -618,7 +618,7 @@ claims:
         title: Gordon Cooper
         slug: gordon-cooper
       - node_id: eb931019-ff87-4630-92fc-e67374887a7f
-        title: space fireflies phenomenon
+        title: Space fireflies phenomenon
         slug: space-fireflies-phenomenon
     date: '1963-05-15'
     date_end: null

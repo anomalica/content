@@ -48,6 +48,11 @@ related_nodes:
     node_type: topic
     slug: eye-of-horus-egyptian-symbol
     shared_claims: 1
+  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+    title: Kundalini
+    node_type: topic
+    slug: kundalini
+    shared_claims: 1
   - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
     title: Non-Human Intelligence
     node_type: topic
@@ -62,11 +67,6 @@ related_nodes:
     title: Younger Dryas
     node_type: event
     slug: younger-dryas
-    shared_claims: 1
-  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
-    title: kundalini
-    node_type: topic
-    slug: kundalini
     shared_claims: 1
 claims:
   - claim_id: 50fdeda4-08d7-44f3-80b5-e849f80c48cf
@@ -134,7 +134,7 @@ claims:
         title: Eye of Horus (Egyptian symbol)
         slug: eye-of-horus-egyptian-symbol
       - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
-        title: kundalini
+        title: Kundalini
         slug: kundalini
       - node_id: 76286f9e-6c30-4be8-9469-5b14dd5d15bd
         title: Raven Dana

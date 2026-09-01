@@ -33,6 +33,11 @@ related_nodes:
     node_type: event
     slug: 1960-08-17-misdirected-visit-toward-agnew-bahnson-robert-monroe
     shared_claims: 2
+  - node_id: 0ccfa4fa-7fae-4c16-bdf5-5b561bef99e0
+    title: Antigravity
+    node_type: topic
+    slug: antigravity
+    shared_claims: 2
   - node_id: b3b0d21d-dc65-45e6-801e-fb990351bbe5
     title: Death of Agnew Bahnson in a plane crash
     node_type: event
@@ -48,15 +53,15 @@ related_nodes:
     node_type: object
     slug: van-de-graaff-generator
     shared_claims: 2
-  - node_id: 0ccfa4fa-7fae-4c16-bdf5-5b561bef99e0
-    title: antigravity
-    node_type: topic
-    slug: antigravity
-    shared_claims: 2
   - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
     title: Anti-Gravity Propulsion
     node_type: topic
     slug: anti-gravity-propulsion
+    shared_claims: 1
+  - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
+    title: Astral projection
+    node_type: topic
+    slug: astral-projection
     shared_claims: 1
   - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
     title: Jesse Mitchells
@@ -98,11 +103,6 @@ related_nodes:
     node_type: topic
     slug: unidentified-flying-object-ufo
     shared_claims: 1
-  - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-    title: astral projection
-    node_type: topic
-    slug: astral-projection
-    shared_claims: 1
 claims:
   - claim_id: 860d75eb-9f4f-4f56-bf52-f6dee1aa98c7
     claim_hash: 6daf1d5ec3ff93b216de75bad380f1b024d08f2e877d69bbf95462d687836312
@@ -123,7 +123,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0ccfa4fa-7fae-4c16-bdf5-5b561bef99e0
-        title: antigravity
+        title: Antigravity
         slug: antigravity
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -171,7 +171,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: f664eac3-734e-435c-b87b-2ac2431134fc
         title: Agnew Bahnson
@@ -398,7 +398,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0ccfa4fa-7fae-4c16-bdf5-5b561bef99e0
-        title: antigravity
+        title: Antigravity
         slug: antigravity
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe

@@ -108,18 +108,18 @@ related_nodes:
     node_type: project
     slug: project-serpo
     shared_claims: 6
+  - node_id: b83da5e3-e3b2-4a45-970e-1fb61796f3df
+    title: Reverse engineering of non-human technology
+    node_type: topic
+    slug: reverse-engineering-of-non-human-technology
+    shared_claims: 6
   - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
     title: Thomas Wilson
     node_type: person
     slug: thomas-wilson
     shared_claims: 6
-  - node_id: b83da5e3-e3b2-4a45-970e-1fb61796f3df
-    title: reverse engineering of non-human technology
-    node_type: topic
-    slug: reverse-engineering-of-non-human-technology
-    shared_claims: 6
   - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
-    title: war.gov Unidentified Flying Object (UFO) files website
+    title: War.gov Unidentified Flying Object (UFO) files website
     node_type: document
     slug: wargov-unidentified-flying-object-ufo-files-website
     shared_claims: 6
@@ -148,6 +148,11 @@ related_nodes:
     node_type: topic
     slug: non-human-intelligence
     shared_claims: 4
+  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+    title: Nonlocal consciousness
+    node_type: topic
+    slug: nonlocal-consciousness
+    shared_claims: 4
   - node_id: 2fb38d8e-5dc9-429c-a03e-e7573f67e4a0
     title: Paul Smith
     node_type: person
@@ -162,11 +167,6 @@ related_nodes:
     title: United States Department of War
     node_type: organisation
     slug: united-states-department-of-war
-    shared_claims: 4
-  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-    title: nonlocal consciousness
-    node_type: topic
-    slug: nonlocal-consciousness
     shared_claims: 4
   - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
     title: 1948 Roswell UFO incident
@@ -7863,7 +7863,7 @@ claims:
         title: Gang of Eight
         slug: gang-of-eight
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null
@@ -8153,7 +8153,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null
@@ -12744,7 +12744,7 @@ claims:
         title: United States Department of War
         slug: united-states-department-of-war
       - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-        title: war.gov/UFOs release
+        title: War.gov/UFOs release
         slug: wargovufos-release
     date: null
     date_end: null
@@ -12784,7 +12784,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-        title: war.gov/UFOs release
+        title: War.gov/UFOs release
         slug: wargovufos-release
     date: null
     date_end: null
@@ -13305,7 +13305,7 @@ claims:
         title: United States Department of War
         slug: united-states-department-of-war
       - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-        title: war.gov/UFOs release
+        title: War.gov/UFOs release
         slug: wargovufos-release
     date: null
     date_end: null
@@ -13375,7 +13375,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-        title: war.gov/UFOs release
+        title: War.gov/UFOs release
         slug: wargovufos-release
     date: null
     date_end: null
@@ -13905,7 +13905,7 @@ claims:
         title: United States Department of War
         slug: united-states-department-of-war
       - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-        title: war.gov/UFOs release
+        title: War.gov/UFOs release
         slug: wargovufos-release
       - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
         title: 2004 USS Nimitz UAP encounter
@@ -15301,7 +15301,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
-        title: war.gov Unidentified Flying Object (UFO) files website
+        title: War.gov Unidentified Flying Object (UFO) files website
         slug: wargov-unidentified-flying-object-ufo-files-website
     date: null
     date_end: null
@@ -15902,7 +15902,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -16234,7 +16234,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: a384e65a-f90f-4829-9bc0-cd87e84a56cf
         title: Jason Reza Jorjani
@@ -17088,7 +17088,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
         title: Sean Chittle
@@ -17126,7 +17126,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
         title: Sean Chittle
@@ -17163,7 +17163,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
         title: Steven Spielberg
@@ -17207,7 +17207,7 @@ claims:
         title: Close Encounters of the Third Kind (1977 film)
         slug: close-encounters-of-the-third-kind-1977-film
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
         title: Steven Spielberg
@@ -17255,7 +17255,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
         title: Sean Chittle
@@ -17292,7 +17292,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
         title: Sean Chittle
@@ -17616,7 +17616,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
-        title: war.gov Unidentified Flying Object (UFO) files website
+        title: War.gov Unidentified Flying Object (UFO) files website
         slug: wargov-unidentified-flying-object-ufo-files-website
     date: null
     date_end: null
@@ -17694,7 +17694,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
-        title: war.gov Unidentified Flying Object (UFO) files website
+        title: War.gov Unidentified Flying Object (UFO) files website
         slug: wargov-unidentified-flying-object-ufo-files-website
     date: null
     date_end: null
@@ -17735,7 +17735,7 @@ claims:
         title: Wikileaks
         slug: wikileaks
       - node_id: bee3c8f3-c1a2-4805-8f0f-178353cac7c4
-        title: catastrophic disclosure
+        title: Catastrophic disclosure
         slug: catastrophic-disclosure
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -17773,7 +17773,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: bee3c8f3-c1a2-4805-8f0f-178353cac7c4
-        title: catastrophic disclosure
+        title: Catastrophic disclosure
         slug: catastrophic-disclosure
       - node_id: debbde62-76ce-426d-8dd6-6d820c2d2c51
         title: The Pentagon
@@ -17888,7 +17888,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: b83da5e3-e3b2-4a45-970e-1fb61796f3df
-        title: reverse engineering of non-human technology
+        title: Reverse engineering of non-human technology
         slug: reverse-engineering-of-non-human-technology
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -17925,7 +17925,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-        title: zero-point energy
+        title: Zero-point energy
         slug: zero-point-energy
     date: null
     date_end: null
@@ -17959,7 +17959,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-        title: zero-point energy
+        title: Zero-point energy
         slug: zero-point-energy
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -18188,7 +18188,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: b83da5e3-e3b2-4a45-970e-1fb61796f3df
-        title: reverse engineering of non-human technology
+        title: Reverse engineering of non-human technology
         slug: reverse-engineering-of-non-human-technology
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -18226,7 +18226,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: b83da5e3-e3b2-4a45-970e-1fb61796f3df
-        title: reverse engineering of non-human technology
+        title: Reverse engineering of non-human technology
         slug: reverse-engineering-of-non-human-technology
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -18266,7 +18266,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: b83da5e3-e3b2-4a45-970e-1fb61796f3df
-        title: reverse engineering of non-human technology
+        title: Reverse engineering of non-human technology
         slug: reverse-engineering-of-non-human-technology
       - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
         title: Legacy Program
@@ -18315,7 +18315,7 @@ claims:
         title: The White House
         slug: the-white-house
       - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
-        title: war.gov Unidentified Flying Object (UFO) files website
+        title: War.gov Unidentified Flying Object (UFO) files website
         slug: wargov-unidentified-flying-object-ufo-files-website
     date: null
     date_end: null
@@ -18461,7 +18461,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-        title: zero-point energy
+        title: Zero-point energy
         slug: zero-point-energy
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -18589,7 +18589,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
-        title: war.gov Unidentified Flying Object (UFO) files website
+        title: War.gov Unidentified Flying Object (UFO) files website
         slug: wargov-unidentified-flying-object-ufo-files-website
     date: null
     date_end: null
@@ -18960,7 +18960,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 12a45987-5c51-4a85-9c41-d2fbc4142d46
-        title: the five observables
+        title: The five observables
         slug: the-five-observables
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -20408,7 +20408,7 @@ claims:
         title: Nat Kobitz
         slug: nat-kobitz
       - node_id: dd4fc424-4c79-4cee-910d-b78073e8abc2
-        title: electron beam welding
+        title: Electron beam welding
         slug: electron-beam-welding
     date: null
     date_end: null
@@ -20567,7 +20567,7 @@ claims:
         title: USA, Ohio, Wright-Patterson Air Force Base
         slug: ohio-wright-patterson-air-force-base-usa
       - node_id: b83da5e3-e3b2-4a45-970e-1fb61796f3df
-        title: reverse engineering of non-human technology
+        title: Reverse engineering of non-human technology
         slug: reverse-engineering-of-non-human-technology
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -20692,7 +20692,7 @@ claims:
         title: USA, Ohio, Wright-Patterson Air Force Base
         slug: ohio-wright-patterson-air-force-base-usa
       - node_id: dd4fc424-4c79-4cee-910d-b78073e8abc2
-        title: electron beam welding
+        title: Electron beam welding
         slug: electron-beam-welding
     date: null
     date_end: null
@@ -20735,7 +20735,7 @@ claims:
         title: USA, Ohio, Wright-Patterson Air Force Base
         slug: ohio-wright-patterson-air-force-base-usa
       - node_id: b83da5e3-e3b2-4a45-970e-1fb61796f3df
-        title: reverse engineering of non-human technology
+        title: Reverse engineering of non-human technology
         slug: reverse-engineering-of-non-human-technology
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -21044,7 +21044,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
-        title: war.gov Unidentified Flying Object (UFO) files website
+        title: War.gov Unidentified Flying Object (UFO) files website
         slug: wargov-unidentified-flying-object-ufo-files-website
     date: null
     date_end: null
@@ -21226,7 +21226,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 346df5bf-dea2-4581-b79f-65d10641f682
-        title: telepathic contact with non-human objects
+        title: Telepathic contact with non-human objects
         slug: telepathic-contact-with-non-human-objects
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -22500,7 +22500,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -22540,7 +22540,7 @@ claims:
         title: 1985 Whitley Strieber close encounter at his upstate New York cabin
         slug: 1985-whitley-strieber-close-encounter-at-his-upstate-new-york-cabin
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: c03bb60a-63f8-4242-808e-128703673fff
         title: USA, New York, upstate New York cabin of Whitley Strieber
@@ -22622,7 +22622,7 @@ claims:
         title: Communion
         slug: communion
       - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
-        title: the Greys
+        title: The Greys
         slug: the-greys
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -22738,7 +22738,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: '2025'
     date_end: null
@@ -22785,7 +22785,7 @@ claims:
         title: Roger Penrose
         slug: roger-penrose
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -22825,7 +22825,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -22971,7 +22971,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -23055,7 +23055,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -23140,10 +23140,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 6db62b5a-5b0b-4cb2-9524-81178818f8b7
-        title: the Mantids
+        title: The Mantids
         slug: the-mantids
       - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
-        title: the Greys
+        title: The Greys
         slug: the-greys
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -23178,7 +23178,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
-        title: the Greys
+        title: The Greys
         slug: the-greys
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -23455,7 +23455,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
-        title: forensic hypnosis
+        title: Forensic hypnosis
         slug: forensic-hypnosis
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber

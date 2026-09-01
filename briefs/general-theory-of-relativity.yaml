@@ -48,15 +48,15 @@ related_nodes:
     node_type: person
     slug: theodor-kaluza
     shared_claims: 1
+  - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
+    title: Torsion field
+    node_type: topic
+    slug: torsion-field
+    shared_claims: 1
   - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
     title: Whitley Strieber
     node_type: person
     slug: whitley-strieber
-    shared_claims: 1
-  - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
-    title: torsion field
-    node_type: topic
-    slug: torsion-field
     shared_claims: 1
 claims:
   - claim_id: 04c4a6a4-ce90-46f0-9e63-dd6c1df4e461
@@ -123,7 +123,7 @@ claims:
         title: Albert Einstein
         slug: albert-einstein
       - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
-        title: torsion field
+        title: Torsion field
         slug: torsion-field
       - node_id: fff5833c-220a-4c9c-b778-03a8f7240596
         title: Elie-Joseph Cartan

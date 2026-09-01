@@ -93,6 +93,11 @@ related_nodes:
     node_type: person
     slug: donald-klein
     shared_claims: 1
+  - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
+    title: Gray alien stereotype
+    node_type: topic
+    slug: gray-alien-stereotype
+    shared_claims: 1
   - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
     title: Harry S. Truman
     node_type: person
@@ -138,10 +143,20 @@ related_nodes:
     node_type: person
     slug: ted-jacobs
     shared_claims: 1
+  - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+    title: The Greys
+    node_type: topic
+    slug: the-greys
+    shared_claims: 1
   - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
     title: The New York Times
     node_type: organisation
     slug: the-new-york-times
+    shared_claims: 1
+  - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
+    title: The visitors (nonhuman beings)
+    node_type: topic
+    slug: the-visitors-nonhuman-beings
     shared_claims: 1
   - node_id: 86b372c0-e4f9-41c5-b0c2-7089746db0e3
     title: Transformation
@@ -152,21 +167,6 @@ related_nodes:
     title: USA, New York, Manhattan, LaGuardia Place
     node_type: place
     slug: new-york-manhattan-laguardia-place-usa
-    shared_claims: 1
-  - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
-    title: gray alien stereotype
-    node_type: topic
-    slug: gray-alien-stereotype
-    shared_claims: 1
-  - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
-    title: the Greys
-    node_type: topic
-    slug: the-greys
-    shared_claims: 1
-  - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-    title: the visitors (nonhuman beings)
-    node_type: topic
-    slug: the-visitors-nonhuman-beings
     shared_claims: 1
 claims:
   - claim_id: 01c1465d-03c0-4436-8ebd-16bd5c7ba789
@@ -266,7 +266,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
-        title: gray alien stereotype
+        title: Gray alien stereotype
         slug: gray-alien-stereotype
       - node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
         title: Communion
@@ -388,7 +388,7 @@ claims:
         title: Communion
         slug: communion
       - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-        title: the visitors (nonhuman beings)
+        title: The visitors (nonhuman beings)
         slug: the-visitors-nonhuman-beings
     date: null
     date_end: null
@@ -1600,7 +1600,7 @@ claims:
         title: Communion
         slug: communion
       - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
-        title: the Greys
+        title: The Greys
         slug: the-greys
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart

@@ -39,7 +39,7 @@ related_nodes:
     slug: poseidon
     shared_claims: 3
   - node_id: 65b0455e-7d9d-419b-93bc-46a1fa6a5c4d
-    title: secret societies
+    title: Secret societies
     node_type: topic
     slug: secret-societies
     shared_claims: 3
@@ -98,6 +98,11 @@ related_nodes:
     node_type: person
     slug: critias
     shared_claims: 1
+  - node_id: 88d33fdf-3494-410f-9137-935db5c9c45c
+    title: Demiurge
+    node_type: topic
+    slug: demiurge
+    shared_claims: 1
   - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
     title: Jason Samosa
     node_type: person
@@ -152,11 +157,6 @@ related_nodes:
     title: Younger Dryas
     node_type: event
     slug: younger-dryas
-    shared_claims: 1
-  - node_id: 88d33fdf-3494-410f-9137-935db5c9c45c
-    title: demiurge
-    node_type: topic
-    slug: demiurge
     shared_claims: 1
 claims:
   - claim_id: e9110d3e-f4c7-4df5-9542-969e9be8bf9b
@@ -775,7 +775,7 @@ claims:
         title: Plato
         slug: plato
       - node_id: 88d33fdf-3494-410f-9137-935db5c9c45c
-        title: demiurge
+        title: Demiurge
         slug: demiurge
       - node_id: 9eb498ae-b397-4eeb-93e3-8d15c1a1de29
         title: Timaeus (dialogue by Plato)
@@ -981,7 +981,7 @@ claims:
         title: Plato
         slug: plato
       - node_id: 65b0455e-7d9d-419b-93bc-46a1fa6a5c4d
-        title: secret societies
+        title: Secret societies
         slug: secret-societies
     date: null
     date_end: null
@@ -1056,7 +1056,7 @@ claims:
         title: Plato
         slug: plato
       - node_id: 65b0455e-7d9d-419b-93bc-46a1fa6a5c4d
-        title: secret societies
+        title: Secret societies
         slug: secret-societies
     date: null
     date_end: null
@@ -1320,7 +1320,7 @@ claims:
         title: Plato
         slug: plato
       - node_id: 65b0455e-7d9d-419b-93bc-46a1fa6a5c4d
-        title: secret societies
+        title: Secret societies
         slug: secret-societies
       - node_id: 6987da55-6570-45e6-ac96-ce73a15eabb8
         title: Egypt

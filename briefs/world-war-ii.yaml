@@ -83,6 +83,11 @@ related_nodes:
     node_type: person
     slug: allen-dulles
     shared_claims: 2
+  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+    title: Crash retrieval and reverse engineering
+    node_type: topic
+    slug: crash-retrieval-and-reverse-engineering
+    shared_claims: 2
   - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
     title: Fatima apparitions (1917)
     node_type: event
@@ -137,11 +142,6 @@ related_nodes:
     title: Unidentified Flying Object (UFO)
     node_type: topic
     slug: unidentified-flying-object-ufo
-    shared_claims: 2
-  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-    title: crash retrieval and reverse engineering
-    node_type: topic
-    slug: crash-retrieval-and-reverse-engineering
     shared_claims: 2
   - node_id: 3fea44f6-262c-4077-bac8-78b8f2e3ba6e
     title: 2026 United States war with Iran
@@ -1543,7 +1543,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -2026,7 +2026,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown
@@ -2141,13 +2141,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 93c3f513-e320-4d7e-bb43-a343cd220d03
-        title: the Holocaust
+        title: The Holocaust
         slug: the-holocaust
       - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
         title: World War II
         slug: world-war-ii
       - node_id: eb16ca39-c2e7-4102-ba7d-9b127e88a047
-        title: genocide
+        title: Genocide
         slug: genocide
       - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
         title: Jason Samosa

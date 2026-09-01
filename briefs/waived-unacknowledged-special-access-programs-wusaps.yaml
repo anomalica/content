@@ -54,7 +54,7 @@ related_nodes:
     slug: james-lacatski
     shared_claims: 1
   - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
     node_type: document
     slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     shared_claims: 1
@@ -293,7 +293,7 @@ claims:
         title: Gang of Eight
         slug: gang-of-eight
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null

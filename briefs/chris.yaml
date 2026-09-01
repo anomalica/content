@@ -53,6 +53,11 @@ related_nodes:
     node_type: event
     slug: jesse-delucas-2024-05-quebec-drone-unidentified-aerial-phenomena-uap-encounter
     shared_claims: 3
+  - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+    title: Clairvoyance
+    node_type: topic
+    slug: clairvoyance
+    shared_claims: 1
   - node_id: be99e640-236f-4613-9b0a-393419a52b63
     title: DJI Mini 3 Pro
     node_type: object
@@ -68,28 +73,23 @@ related_nodes:
     node_type: person
     slug: kip-leyser
     shared_claims: 1
+  - node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
+    title: Perceptual insertion
+    node_type: topic
+    slug: perceptual-insertion
+    shared_claims: 1
   - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
     title: Precognition
     node_type: topic
     slug: precognition
     shared_claims: 1
-  - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-    title: clairvoyance
-    node_type: topic
-    slug: clairvoyance
-    shared_claims: 1
-  - node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
-    title: perceptual insertion
-    node_type: topic
-    slug: perceptual-insertion
-    shared_claims: 1
   - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-    title: telepathy
+    title: Telepathy
     node_type: topic
     slug: telepathy
     shared_claims: 1
   - node_id: ba0c3542-ce21-4be8-b13d-89820c11475f
-    title: trance mediumship
+    title: Trance mediumship
     node_type: topic
     slug: trance-mediumship
     shared_claims: 1
@@ -653,7 +653,7 @@ claims:
         title: Lois
         slug: lois
       - node_id: ba0c3542-ce21-4be8-b13d-89820c11475f
-        title: trance mediumship
+        title: Trance mediumship
         slug: trance-mediumship
       - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
         title: Chris
@@ -886,7 +886,7 @@ claims:
         title: Lois
         slug: lois
       - node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
-        title: perceptual insertion
+        title: Perceptual insertion
         slug: perceptual-insertion
       - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
         title: Loyd Auerbach
@@ -1352,7 +1352,7 @@ claims:
         title: Chris
         slug: chris
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1667,7 +1667,7 @@ claims:
         title: Precognition
         slug: precognition
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-        title: clairvoyance
+        title: Clairvoyance
         slug: clairvoyance
       - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
         title: Loyd Auerbach

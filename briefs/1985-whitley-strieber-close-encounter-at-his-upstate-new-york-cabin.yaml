@@ -34,10 +34,20 @@ related_nodes:
     slug: non-human-intelligence
     shared_claims: 7
   - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-    title: the close encounter experience
+    title: The close encounter experience
     node_type: topic
     slug: the-close-encounter-experience
     shared_claims: 2
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 1
+  - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
+    title: Alien abduction experience
+    node_type: topic
+    slug: alien-abduction-experience
+    shared_claims: 1
   - node_id: dfa3268c-8bbb-4c5d-8066-f9a3a416b7e6
     title: Communion (Whitley Strieber book)
     node_type: document
@@ -47,6 +57,16 @@ related_nodes:
     title: Greys
     node_type: topic
     slug: greys
+    shared_claims: 1
+  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+    title: Human-alien hybridization
+    node_type: topic
+    slug: human-alien-hybridization
+    shared_claims: 1
+  - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+    title: Levitation
+    node_type: topic
+    slug: levitation
     shared_claims: 1
   - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
     title: Linda Moulton Howe
@@ -67,26 +87,6 @@ related_nodes:
     title: USA, New York, upstate New York cabin of Whitley Strieber
     node_type: place
     slug: new-york-upstate-new-york-cabin-of-whitley-strieber-usa
-    shared_claims: 1
-  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
-    node_type: topic
-    slug: alien-abduction
-    shared_claims: 1
-  - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
-    title: alien abduction experience
-    node_type: topic
-    slug: alien-abduction-experience
-    shared_claims: 1
-  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-    title: human-alien hybridization
-    node_type: topic
-    slug: human-alien-hybridization
-    shared_claims: 1
-  - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-    title: levitation
-    node_type: topic
-    slug: levitation
     shared_claims: 1
 claims:
   - claim_id: a48f7170-d250-4c13-8d6d-76d7221e616a
@@ -381,7 +381,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -423,7 +423,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: 97c90a0b-6567-4a2e-86da-61338378b3e2
         title: 1985 Whitley Strieber close encounter at his upstate New York cabin
@@ -501,7 +501,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
-        title: alien abduction experience
+        title: Alien abduction experience
         slug: alien-abduction-experience
       - node_id: 97c90a0b-6567-4a2e-86da-61338378b3e2
         title: 1985 Whitley Strieber close encounter at his upstate New York cabin
@@ -584,7 +584,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-        title: the close encounter experience
+        title: The close encounter experience
         slug: the-close-encounter-experience
       - node_id: 97c90a0b-6567-4a2e-86da-61338378b3e2
         title: 1985 Whitley Strieber close encounter at his upstate New York cabin
@@ -627,7 +627,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-        title: the close encounter experience
+        title: The close encounter experience
         slug: the-close-encounter-experience
       - node_id: 97c90a0b-6567-4a2e-86da-61338378b3e2
         title: 1985 Whitley Strieber close encounter at his upstate New York cabin
@@ -673,7 +673,7 @@ claims:
         title: 1985 Whitley Strieber close encounter at his upstate New York cabin
         slug: 1985-whitley-strieber-close-encounter-at-his-upstate-new-york-cabin
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: c03bb60a-63f8-4242-808e-128703673fff
         title: USA, New York, upstate New York cabin of Whitley Strieber

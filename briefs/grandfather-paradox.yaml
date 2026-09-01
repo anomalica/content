@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 3ebf2a70-a0d1-484e-8912-35929642bc47
   node_type: topic
-  title: grandfather paradox
+  title: Grandfather paradox
   slug: grandfather-paradox
   claim_count: 4
   claim_count_total: 4
@@ -24,7 +24,7 @@ belonging:
   unreviewed: 4
 related_nodes:
   - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-    title: time travel
+    title: Time travel
     node_type: topic
     slug: time-travel
     shared_claims: 4
@@ -39,7 +39,7 @@ related_nodes:
     slug: non-human-intelligence
     shared_claims: 1
   - node_id: f17d0ba2-aa3c-4fe9-a2c7-86753732b53d
-    title: the extratempestrial model
+    title: The extratempestrial model
     node_type: topic
     slug: the-extratempestrial-model
     shared_claims: 1
@@ -67,10 +67,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ebf2a70-a0d1-484e-8912-35929642bc47
-        title: grandfather paradox
+        title: Grandfather paradox
         slug: grandfather-paradox
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -79,7 +79,7 @@ claims:
         title: Non-Human Intelligence
         slug: non-human-intelligence
       - node_id: f17d0ba2-aa3c-4fe9-a2c7-86753732b53d
-        title: the extratempestrial model
+        title: The extratempestrial model
         slug: the-extratempestrial-model
     date: null
     date_end: null
@@ -112,10 +112,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ebf2a70-a0d1-484e-8912-35929642bc47
-        title: grandfather paradox
+        title: Grandfather paradox
         slug: grandfather-paradox
     date: null
     date_end: null
@@ -149,10 +149,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ebf2a70-a0d1-484e-8912-35929642bc47
-        title: grandfather paradox
+        title: Grandfather paradox
         slug: grandfather-paradox
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -189,10 +189,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ebf2a70-a0d1-484e-8912-35929642bc47
-        title: grandfather paradox
+        title: Grandfather paradox
         slug: grandfather-paradox
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber

@@ -93,6 +93,11 @@ related_nodes:
     node_type: place
     slug: arizona-tucson-usa
     shared_claims: 1
+  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+    title: Ufology
+    node_type: topic
+    slug: ufology
+    shared_claims: 1
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
     node_type: topic
@@ -107,11 +112,6 @@ related_nodes:
     title: Vision of the pope in the Vatican gardens ('dance of the sun') (1950-10-30)
     node_type: event
     slug: vision-of-the-pope-in-the-vatican-gardens-dance-of-the-sun-1950-10-30
-    shared_claims: 1
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    node_type: topic
-    slug: ufology
     shared_claims: 1
 claims:
   - claim_id: 1f9d8c64-f000-470f-93ef-eece818710c6
@@ -604,7 +604,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null

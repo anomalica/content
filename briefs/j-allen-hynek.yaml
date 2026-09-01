@@ -38,6 +38,11 @@ related_nodes:
     node_type: person
     slug: jacques-vallee
     shared_claims: 8
+  - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
+    title: The Invisible College
+    node_type: topic
+    slug: the-invisible-college
+    shared_claims: 4
   - node_id: b93678ae-8e0b-4c2c-a905-72d831400849
     title: USA, Michigan, Ann Arbor
     node_type: place
@@ -47,11 +52,6 @@ related_nodes:
     title: Unidentified Flying Object (UFO)
     node_type: topic
     slug: unidentified-flying-object-ufo
-    shared_claims: 4
-  - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-    title: the Invisible College
-    node_type: topic
-    slug: the-invisible-college
     shared_claims: 4
   - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
     title: 2004 USS Nimitz UAP encounter
@@ -821,7 +821,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek
@@ -864,7 +864,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
       - node_id: 2c57037a-db11-4c30-b871-4f8a98603310
         title: 1974 photograph of the Invisible College members in Boulder, Colorado
@@ -1086,7 +1086,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek
@@ -1124,7 +1124,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek

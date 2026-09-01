@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
   node_type: topic
-  title: mediumship
+  title: Mediumship
   slug: mediumship
   claim_count: 5
   claim_count_total: 5
@@ -43,6 +43,11 @@ related_nodes:
     node_type: person
     slug: robert-bigelow
     shared_claims: 2
+  - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+    title: Clairvoyance
+    node_type: topic
+    slug: clairvoyance
+    shared_claims: 1
   - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
     title: Consciousness studies
     node_type: topic
@@ -57,11 +62,6 @@ related_nodes:
     title: Second Body
     node_type: topic
     slug: second-body
-    shared_claims: 1
-  - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-    title: clairvoyance
-    node_type: topic
-    slug: clairvoyance
     shared_claims: 1
 claims:
   - claim_id: 7121aa14-f02c-485f-8b01-b2586a837ddf
@@ -86,7 +86,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
-        title: mediumship
+        title: Mediumship
         slug: mediumship
       - node_id: b6f0ad71-f13b-4966-9ab5-a9fe8ae2894f
         title: Second Body
@@ -127,7 +127,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
-        title: mediumship
+        title: Mediumship
         slug: mediumship
       - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
         title: Mrs. M.
@@ -168,7 +168,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
-        title: mediumship
+        title: Mediumship
         slug: mediumship
       - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
         title: Mrs. M.
@@ -217,10 +217,10 @@ claims:
         title: Remote Viewing (RV)
         slug: remote-viewing-rv
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-        title: clairvoyance
+        title: Clairvoyance
         slug: clairvoyance
       - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
-        title: mediumship
+        title: Mediumship
         slug: mediumship
     date: null
     date_end: null
@@ -258,7 +258,7 @@ claims:
         title: Remote Viewing (RV)
         slug: remote-viewing-rv
       - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
-        title: mediumship
+        title: Mediumship
         slug: mediumship
     date: null
     date_end: null

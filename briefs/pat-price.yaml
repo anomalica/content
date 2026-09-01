@@ -98,6 +98,11 @@ related_nodes:
     node_type: organisation
     slug: national-security-agency-nsa
     shared_claims: 1
+  - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
+    title: Psi
+    node_type: topic
+    slug: psi
+    shared_claims: 1
   - node_id: 8e820a7d-25f1-4ac2-ab52-88185e6bbf94
     title: USA, Alaska, Mt. Hayes
     node_type: place
@@ -112,11 +117,6 @@ related_nodes:
     title: Zimbabwe, Mount Inyangani
     node_type: place
     slug: mount-inyangani-zimbabwe
-    shared_claims: 1
-  - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
-    title: psi
-    node_type: topic
-    slug: psi
     shared_claims: 1
 claims:
   - claim_id: df72ab9c-594b-4c7f-aed0-926606b21c24
@@ -562,7 +562,7 @@ claims:
         title: Pat Price
         slug: pat-price
       - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
-        title: psi
+        title: Psi
         slug: psi
     date: null
     date_end: null

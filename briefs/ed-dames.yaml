@@ -93,6 +93,11 @@ related_nodes:
     node_type: topic
     slug: coordinate-remote-viewing
     shared_claims: 1
+  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+    title: Extrasensory perception (ESP)
+    node_type: topic
+    slug: extrasensory-perception-esp
+    shared_claims: 1
   - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
     title: Harold E. Puthoff
     node_type: person
@@ -147,11 +152,6 @@ related_nodes:
     title: United States Marshals Service
     node_type: organisation
     slug: united-states-marshals-service
-    shared_claims: 1
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    node_type: topic
-    slug: extrasensory-perception-esp
     shared_claims: 1
 claims:
   - claim_id: a97304b7-f1fd-4f18-8f29-57e3f5828485
@@ -819,7 +819,7 @@ claims:
         title: Remote Viewing (RV)
         slug: remote-viewing-rv
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
     date: null
     date_end: null

@@ -88,6 +88,16 @@ related_nodes:
     node_type: document
     slug: abduction-human-encounters-with-aliens
     shared_claims: 1
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 1
+  - node_id: 993f3695-0fa6-4c29-85e1-5e14b6a1ddb2
+    title: Alien abduction physical evidence
+    node_type: topic
+    slug: alien-abduction-physical-evidence
+    shared_claims: 1
   - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
     title: Australia, New South Wales, Sydney
     node_type: place
@@ -163,16 +173,6 @@ related_nodes:
     node_type: person
     slug: roger-leir
     shared_claims: 1
-  - node_id: f40ac781-7d61-4703-aa75-b595b797252d
-    title: Stephen Larsen
-    node_type: person
-    slug: stephen-larsen
-    shared_claims: 1
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    node_type: person
-    slug: tom-delonge
-    shared_claims: 1
 claims:
   - claim_id: c7620867-18c0-4c0f-8dda-a938203848e4
     claim_hash: fa8944294f6c6a3225d781e5440b5f6e2f437f97fadbb882a5348a2219829627
@@ -228,7 +228,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
         title: Australia, New South Wales, Sydney
@@ -352,7 +352,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 993f3695-0fa6-4c29-85e1-5e14b6a1ddb2
-        title: alien abduction physical evidence
+        title: Alien abduction physical evidence
         slug: alien-abduction-physical-evidence
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins

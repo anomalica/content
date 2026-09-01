@@ -23,6 +23,11 @@ belonging:
   suspect_excluded: 0
   unreviewed: 12
 related_nodes:
+  - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+    title: Levitation
+    node_type: topic
+    slug: levitation
+    shared_claims: 2
   - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
     title: Maria of Agreda
     node_type: person
@@ -32,11 +37,6 @@ related_nodes:
     title: Pope Urban VIII
     node_type: person
     slug: pope-urban-viii
-    shared_claims: 2
-  - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-    title: levitation
-    node_type: topic
-    slug: levitation
     shared_claims: 2
   - node_id: f2daae19-9351-4a8e-b466-664f83887f61
     title: Diana Walsh Pasulka
@@ -421,7 +421,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
         title: Joseph of Cupertino
@@ -459,7 +459,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
         title: Joseph of Cupertino

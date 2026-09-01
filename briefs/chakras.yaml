@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: b1f20b71-56e6-401c-a4f6-88e12c16a5ed
   node_type: topic
-  title: chakras
+  title: Chakras
   slug: chakras
   claim_count: 5
   claim_count_total: 5
@@ -29,7 +29,7 @@ related_nodes:
     slug: pyramid-texts-west-wall-inscription-of-the-pyramid-of-unas
     shared_claims: 2
   - node_id: 6d0c3eb1-3a11-47a1-a499-0c7696ebedc3
-    title: ta-ntr (seven energy centres in Pyramid Text)
+    title: Ta-ntr (seven energy centres in Pyramid Text)
     node_type: topic
     slug: ta-ntr-seven-energy-centres-in-pyramid-text
     shared_claims: 2
@@ -61,7 +61,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: b1f20b71-56e6-401c-a4f6-88e12c16a5ed
-        title: chakras
+        title: Chakras
         slug: chakras
     date: null
     date_end: null
@@ -94,10 +94,10 @@ claims:
         title: Pyramid Text
         slug: pyramid-text
       - node_id: 6d0c3eb1-3a11-47a1-a499-0c7696ebedc3
-        title: ta-ntr (seven energy centres in Pyramid Text)
+        title: Ta-ntr (seven energy centres in Pyramid Text)
         slug: ta-ntr-seven-energy-centres-in-pyramid-text
       - node_id: b1f20b71-56e6-401c-a4f6-88e12c16a5ed
-        title: chakras
+        title: Chakras
         slug: chakras
     date: null
     date_end: null
@@ -131,10 +131,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 6d0c3eb1-3a11-47a1-a499-0c7696ebedc3
-        title: ta-ntr (seven energy centres in Pyramid Text)
+        title: Ta-ntr (seven energy centres in Pyramid Text)
         slug: ta-ntr-seven-energy-centres-in-pyramid-text
       - node_id: b1f20b71-56e6-401c-a4f6-88e12c16a5ed
-        title: chakras
+        title: Chakras
         slug: chakras
     date: null
     date_end: null
@@ -169,7 +169,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: b1f20b71-56e6-401c-a4f6-88e12c16a5ed
-        title: chakras
+        title: Chakras
         slug: chakras
       - node_id: cbba9649-f06e-4b26-82eb-dbc9ec0917d7
         title: Pyramid Texts west wall inscription of the Pyramid of Unas
@@ -210,7 +210,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: b1f20b71-56e6-401c-a4f6-88e12c16a5ed
-        title: chakras
+        title: Chakras
         slug: chakras
       - node_id: cbba9649-f06e-4b26-82eb-dbc9ec0917d7
         title: Pyramid Texts west wall inscription of the Pyramid of Unas

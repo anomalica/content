@@ -5820,9 +5820,9 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     node_refs:
-      - node_id: 54616729-112f-44c5-9178-811f7811f1e8
-        title: artificial intelligence
-        slug: artificial-intelligence
+      - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+        title: Artificial intelligence (AI)
+        slug: artificial-intelligence-ai
       - node_id: c09e3558-1732-4676-a218-d67d285d98ef
         title: David Fravor
         slug: david-fravor
@@ -5993,9 +5993,9 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     node_refs:
-      - node_id: 54616729-112f-44c5-9178-811f7811f1e8
-        title: artificial intelligence
-        slug: artificial-intelligence
+      - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+        title: Artificial intelligence (AI)
+        slug: artificial-intelligence-ai
       - node_id: c09e3558-1732-4676-a218-d67d285d98ef
         title: David Fravor
         slug: david-fravor
@@ -14872,7 +14872,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 99d496fc-1624-4539-a7b0-85cdd97aae43
-        title: military-industrial complex
+        title: Military-industrial complex
         slug: military-industrial-complex
       - node_id: c09e3558-1732-4676-a218-d67d285d98ef
         title: David Fravor
@@ -14911,7 +14911,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 99d496fc-1624-4539-a7b0-85cdd97aae43
-        title: military-industrial complex
+        title: Military-industrial complex
         slug: military-industrial-complex
       - node_id: c09e3558-1732-4676-a218-d67d285d98ef
         title: David Fravor

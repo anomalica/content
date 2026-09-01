@@ -104,7 +104,7 @@ related_nodes:
     slug: go-fast-video
     shared_claims: 5
   - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
     node_type: document
     slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     shared_claims: 5
@@ -2974,7 +2974,7 @@ claims:
         title: United States Department of Defense (DoD)
         slug: united-states-department-of-defense-dod
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: '2022-12-23'
     date_end: null
@@ -3009,7 +3009,7 @@ claims:
         title: United States Department of Defense (DoD)
         slug: united-states-department-of-defense-dod
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: '2022-12-23'
     date_end: null
@@ -3160,7 +3160,7 @@ claims:
         title: United States Department of Defense (DoD)
         slug: united-states-department-of-defense-dod
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: '2022-12-23'
     date_end: null
@@ -5699,7 +5699,7 @@ claims:
         title: Roswell incident (1947)
         slug: roswell-incident-1947
       - node_id: dd72cc7d-7470-4d37-9d6f-474300e06820
-        title: electromagnetic pulse (EMP)
+        title: Electromagnetic pulse (EMP)
         slug: electromagnetic-pulse-emp
     date: null
     date_end: null
@@ -5904,7 +5904,7 @@ claims:
         title: National Aeronautics and Space Administration (NASA)
         slug: national-aeronautics-and-space-administration-nasa
       - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
-        title: warp drive
+        title: Warp drive
         slug: warp-drive
       - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
         title: United States Department of Defense (DoD)
@@ -8507,7 +8507,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 03d2b1b2-090a-49d4-a28d-38d443323b09
-        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2022-fy-2022-ndaa
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -8822,7 +8822,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 03d2b1b2-090a-49d4-a28d-38d443323b09
-        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2022-fy-2022-ndaa
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -8977,7 +8977,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 03d2b1b2-090a-49d4-a28d-38d443323b09
-        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2022-fy-2022-ndaa
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -9225,7 +9225,7 @@ claims:
         title: United States Department of Defense (DoD)
         slug: united-states-department-of-defense-dod
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null
@@ -9840,7 +9840,7 @@ claims:
         title: Department of Energy
         slug: department-of-energy
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
       - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
         title: All-domain Anomaly Resolution Office (AARO)
@@ -10657,7 +10657,7 @@ claims:
         title: United States Department of Defense (DoD)
         slug: united-states-department-of-defense-dod
       - node_id: c2432e85-d5f9-4b32-9b6a-d7eb4d8ecb6d
-        title: soul (fourth-dimensional consciousness)
+        title: Soul (fourth-dimensional consciousness)
         slug: soul-fourth-dimensional-consciousness
     date: null
     date_end: null

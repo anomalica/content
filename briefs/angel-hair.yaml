@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: ccdf0290-866f-4b6c-8317-9f529510769f
   node_type: topic
-  title: angel hair
+  title: Angel hair
   slug: angel-hair
   claim_count: 7
   claim_count_total: 7
@@ -38,15 +38,15 @@ related_nodes:
     node_type: person
     slug: luis-d-elizondo-iii-father
     shared_claims: 1
+  - node_id: 413c657c-2495-459f-a7ce-79feb936b92c
+    title: Metamaterials
+    node_type: topic
+    slug: metamaterials
+    shared_claims: 1
   - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
     title: Unidentified Anomalous Phenomena (UAP)
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
-    shared_claims: 1
-  - node_id: 413c657c-2495-459f-a7ce-79feb936b92c
-    title: metamaterials
-    node_type: topic
-    slug: metamaterials
     shared_claims: 1
 claims:
   - claim_id: f5442085-b62b-440d-be22-db7cdba6674f
@@ -65,7 +65,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
-        title: angel hair
+        title: Angel hair
         slug: angel-hair
     date: null
     date_end: null
@@ -100,7 +100,7 @@ claims:
         title: Luis D. Elizondo III (father)
         slug: luis-d-elizondo-iii-father
       - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
-        title: angel hair
+        title: Angel hair
         slug: angel-hair
     date: null
     date_end: null
@@ -136,7 +136,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
-        title: angel hair
+        title: Angel hair
         slug: angel-hair
     date: null
     date_end: null
@@ -172,7 +172,7 @@ claims:
         title: Luis Elizondo
         slug: luis-elizondo
       - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
-        title: angel hair
+        title: Angel hair
         slug: angel-hair
     date: null
     date_end: null
@@ -205,7 +205,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
-        title: angel hair
+        title: Angel hair
         slug: angel-hair
     date: null
     date_end: null
@@ -237,13 +237,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 413c657c-2495-459f-a7ce-79feb936b92c
-        title: metamaterials
+        title: Metamaterials
         slug: metamaterials
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
         slug: luis-elizondo
       - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
-        title: angel hair
+        title: Angel hair
         slug: angel-hair
     date: null
     date_end: null
@@ -279,7 +279,7 @@ claims:
         title: Christopher Bledsoe
         slug: christopher-bledsoe
       - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
-        title: angel hair
+        title: Angel hair
         slug: angel-hair
     date: null
     date_end: null

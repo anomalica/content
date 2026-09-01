@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: ffe8aba5-a269-4040-a88f-07a9238b7e32
   node_type: topic
-  title: transcranial magnetic stimulation
+  title: Transcranial magnetic stimulation
   slug: transcranial-magnetic-stimulation
   claim_count: 5
   claim_count_total: 5
@@ -34,7 +34,7 @@ related_nodes:
     slug: morris-freeman
     shared_claims: 1
   - node_id: d1343434-965d-4ad6-98f4-3e90f32ee187
-    title: transcranial direct current stimulation (tDCS)
+    title: Transcranial direct current stimulation (tDCS)
     node_type: topic
     slug: transcranial-direct-current-stimulation-tdcs
     shared_claims: 1
@@ -55,7 +55,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: ffe8aba5-a269-4040-a88f-07a9238b7e32
-        title: transcranial magnetic stimulation
+        title: Transcranial magnetic stimulation
         slug: transcranial-magnetic-stimulation
     date: null
     date_end: null
@@ -97,7 +97,7 @@ claims:
         title: Morris Freeman
         slug: morris-freeman
       - node_id: ffe8aba5-a269-4040-a88f-07a9238b7e32
-        title: transcranial magnetic stimulation
+        title: Transcranial magnetic stimulation
         slug: transcranial-magnetic-stimulation
     date: null
     date_end: null
@@ -133,7 +133,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: ffe8aba5-a269-4040-a88f-07a9238b7e32
-        title: transcranial magnetic stimulation
+        title: Transcranial magnetic stimulation
         slug: transcranial-magnetic-stimulation
     date: null
     date_end: null
@@ -167,10 +167,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: d1343434-965d-4ad6-98f4-3e90f32ee187
-        title: transcranial direct current stimulation (tDCS)
+        title: Transcranial direct current stimulation (tDCS)
         slug: transcranial-direct-current-stimulation-tdcs
       - node_id: ffe8aba5-a269-4040-a88f-07a9238b7e32
-        title: transcranial magnetic stimulation
+        title: Transcranial magnetic stimulation
         slug: transcranial-magnetic-stimulation
     date: null
     date_end: null
@@ -209,7 +209,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: ffe8aba5-a269-4040-a88f-07a9238b7e32
-        title: transcranial magnetic stimulation
+        title: Transcranial magnetic stimulation
         slug: transcranial-magnetic-stimulation
     date: null
     date_end: null

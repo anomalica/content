@@ -6552,7 +6552,7 @@ claims:
         title: Iraq
         slug: iraq
       - node_id: eb84fff5-f42d-4831-81ae-0ea6548a0c58
-        title: weapons of mass destruction (WMD)
+        title: Weapons of mass destruction (WMD)
         slug: weapons-of-mass-destruction-wmd
       - node_id: fb23b4a4-2e7e-4432-8347-0832eaeca2da
         title: Saddam Hussein
@@ -7765,7 +7765,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5c5234c3-03a0-4a44-815f-c76b73f54451
-        title: space race
+        title: Space race
         slug: space-race
       - node_id: f0788bc9-f60f-4fb2-bf83-7bcd8a5915e5
         title: Sputnik 1

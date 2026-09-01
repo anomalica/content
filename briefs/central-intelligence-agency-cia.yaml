@@ -148,6 +148,11 @@ related_nodes:
     node_type: organisation
     slug: defense-intelligence-agency-dia
     shared_claims: 4
+  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+    title: Extrasensory perception (ESP)
+    node_type: topic
+    slug: extrasensory-perception-esp
+    shared_claims: 4
   - node_id: a384e65a-f90f-4829-9bc0-cd87e84a56cf
     title: Jason Reza Jorjani
     node_type: person
@@ -167,11 +172,6 @@ related_nodes:
     title: Jimmy Carter
     node_type: person
     slug: jimmy-carter
-    shared_claims: 4
-  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-    title: Office of the Director of National Intelligence (ODNI)
-    node_type: organisation
-    slug: office-of-the-director-of-national-intelligence-odni
     shared_claims: 4
 claims:
   - claim_id: a4804ba5-3583-4175-a6fc-3ed6853f0bd6
@@ -550,7 +550,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 9485fd87-a687-4581-8d15-f53031d03694
-        title: Photographic Interpretation Center (CIA )
+        title: Photographic Interpretation Center (CIA)
         slug: photographic-interpretation-center-cia
       - node_id: c48ec689-a330-4cdf-8407-246612b39159
         title: Arthur Lundahl
@@ -587,7 +587,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 9485fd87-a687-4581-8d15-f53031d03694
-        title: Photographic Interpretation Center (CIA )
+        title: Photographic Interpretation Center (CIA)
         slug: photographic-interpretation-center-cia
       - node_id: c48ec689-a330-4cdf-8407-246612b39159
         title: Arthur Lundahl
@@ -1095,7 +1095,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -3189,7 +3189,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
         title: United States Army
@@ -3376,7 +3376,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
         title: United States Army
@@ -4350,7 +4350,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -6583,7 +6583,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -8170,7 +8170,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
     date: null
     date_end: null
@@ -8520,7 +8520,7 @@ claims:
         title: Jim Semivan
         slug: jim-semivan
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)

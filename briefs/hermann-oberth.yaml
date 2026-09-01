@@ -34,7 +34,7 @@ related_nodes:
     slug: wernher-von-braun
     shared_claims: 3
   - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-    title: nonhuman intelligence (NHI)
+    title: Nonhuman intelligence (NHI)
     node_type: topic
     slug: nonhuman-intelligence-nhi
     shared_claims: 2
@@ -262,7 +262,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -302,7 +302,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
         title: Hermann Oberth

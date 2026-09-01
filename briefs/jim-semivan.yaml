@@ -73,6 +73,11 @@ related_nodes:
     node_type: topic
     slug: havana-syndrome
     shared_claims: 2
+  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+    title: Human-alien hybridization
+    node_type: topic
+    slug: human-alien-hybridization
+    shared_claims: 2
   - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
     title: Jason Samosa
     node_type: person
@@ -112,11 +117,6 @@ related_nodes:
     title: USA, Washington DC, Pentagon
     node_type: place
     slug: washington-dc-pentagon-usa
-    shared_claims: 2
-  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-    title: human-alien hybridization
-    node_type: topic
-    slug: human-alien-hybridization
     shared_claims: 2
   - node_id: d46162c5-c64c-4139-878e-78b659bcae5c
     title: 2016 United States presidential election
@@ -168,10 +168,10 @@ related_nodes:
     node_type: person
     slug: julian-assange
     shared_claims: 1
-  - node_id: 12a9f354-2e71-4792-8b5e-dc43bcdbdaa1
-    title: Ohio State University
-    node_type: organisation
-    slug: ohio-state-university
+  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+    title: Nonhuman intelligence (NHI)
+    node_type: topic
+    slug: nonhuman-intelligence-nhi
     shared_claims: 1
 claims:
   - claim_id: 82cab98f-9c54-4f71-bc77-fe00d1d3a0ee
@@ -1834,7 +1834,7 @@ claims:
         title: Jim Semivan
         slug: jim-semivan
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
     date: null
     date_end: null
@@ -2412,7 +2412,7 @@ claims:
         title: Jim Semivan
         slug: jim-semivan
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 6cc97343-1634-45fa-9c85-4325f72a109c
         title: Ryan Bledsoe
@@ -2461,7 +2461,7 @@ claims:
         title: Jim Semivan
         slug: jim-semivan
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)

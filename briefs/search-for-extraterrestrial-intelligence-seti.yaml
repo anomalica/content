@@ -43,6 +43,11 @@ related_nodes:
     node_type: person
     slug: iosif-samuilovich-shklovsky
     shared_claims: 1
+  - node_id: b636c9a1-e958-4f48-a639-450a7ab409f0
+    title: Junk Deoxyribonucleic Acid (DNA)
+    node_type: topic
+    slug: junk-deoxyribonucleic-acid-dna
+    shared_claims: 1
   - node_id: 5c9023b9-5b26-4a95-b6ae-6c81a24aa33e
     title: New Scientist
     node_type: document
@@ -72,11 +77,6 @@ related_nodes:
     title: Unidentified Flying Object (UFO)
     node_type: topic
     slug: unidentified-flying-object-ufo
-    shared_claims: 1
-  - node_id: b636c9a1-e958-4f48-a639-450a7ab409f0
-    title: junk Deoxyribonucleic Acid (DNA)
-    node_type: topic
-    slug: junk-deoxyribonucleic-acid-dna
     shared_claims: 1
 claims:
   - claim_id: 50dc3394-07d3-4476-9123-283a0da2f806
@@ -185,7 +185,7 @@ claims:
         title: New Scientist
         slug: new-scientist
       - node_id: b636c9a1-e958-4f48-a639-450a7ab409f0
-        title: junk Deoxyribonucleic Acid (DNA)
+        title: Junk Deoxyribonucleic Acid (DNA)
         slug: junk-deoxyribonucleic-acid-dna
       - node_id: d94477e4-4d22-4eae-bb58-06988f024414
         title: Search for Extraterrestrial Intelligence (SETI)

@@ -109,7 +109,7 @@ related_nodes:
     slug: us-department-of-defense-inspector-general
     shared_claims: 4
   - node_id: 03d2b1b2-090a-49d4-a28d-38d443323b09
-    title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA )
+    title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA)
     node_type: document
     slug: national-defense-authorization-act-for-fiscal-year-2022-fy-2022-ndaa
     shared_claims: 4
@@ -134,7 +134,7 @@ related_nodes:
     slug: jon-kosloski
     shared_claims: 3
   - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
     node_type: document
     slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     shared_claims: 3
@@ -1499,7 +1499,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 03d2b1b2-090a-49d4-a28d-38d443323b09
-        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2022-fy-2022-ndaa
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -2263,7 +2263,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 03d2b1b2-090a-49d4-a28d-38d443323b09
-        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2022-fy-2022-ndaa
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -2306,7 +2306,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 03d2b1b2-090a-49d4-a28d-38d443323b09
-        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2022-fy-2022-ndaa
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -2346,7 +2346,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 03d2b1b2-090a-49d4-a28d-38d443323b09
-        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2022-fy-2022-ndaa
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -2389,7 +2389,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
       - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
         title: All-domain Anomaly Resolution Office (AARO)
@@ -3345,7 +3345,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
       - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
         title: All-domain Anomaly Resolution Office (AARO)
@@ -3896,7 +3896,7 @@ claims:
     node_refs:
       - node_id: 6689e238-4312-4b15-8f33-2e0c553deaa5
         title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (Unidentified
-          Anomalous Phenomena / UAP ), Volume I
+          Anomalous Phenomena / UAP), Volume I
         slug: volume-i-report-on-the-historical-record-of-us-government-involvement-with-unidentified-anomalous-phenomena-unidentified-anomalous-phenomena-uap
       - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
         title: All-domain Anomaly Resolution Office (AARO)
@@ -5846,7 +5846,7 @@ claims:
         title: Department of Energy
         slug: department-of-energy
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
       - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
         title: All-domain Anomaly Resolution Office (AARO)
@@ -7295,7 +7295,7 @@ claims:
         title: US Senate Select Committee on Intelligence
         slug: us-senate-select-committee-on-intelligence
       - node_id: d828ba4b-f9c5-4731-8e80-fd0cb99a8bcc
-        title: anonymous Reddit document on nonhuman anatomy (sent to Whitley Strieber in 2024)
+        title: Anonymous Reddit document on nonhuman anatomy (sent to Whitley Strieber in 2024)
         slug: anonymous-reddit-document-on-nonhuman-anatomy-sent-to-whitley-strieber-in-2024
       - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
         title: All-domain Anomaly Resolution Office (AARO)

@@ -39,7 +39,7 @@ related_nodes:
     slug: 1985-whitley-strieber-close-encounter-at-his-upstate-new-york-cabin
     shared_claims: 7
   - node_id: 469acb99-5f7f-499c-b8c3-6a20bb5a0790
-    title: the soul
+    title: The soul
     node_type: topic
     slug: the-soul
     shared_claims: 7
@@ -48,26 +48,31 @@ related_nodes:
     node_type: topic
     slug: unidentified-aerial-phenomena-disclosure
     shared_claims: 6
+  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+    title: Human-alien hybridization
+    node_type: topic
+    slug: human-alien-hybridization
+    shared_claims: 4
   - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
     title: Ross Coulthart
     node_type: person
     slug: ross-coulthart
     shared_claims: 4
-  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-    title: human-alien hybridization
-    node_type: topic
-    slug: human-alien-hybridization
-    shared_claims: 4
   - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-    title: the close encounter experience
+    title: The close encounter experience
     node_type: topic
     slug: the-close-encounter-experience
     shared_claims: 4
-  - node_id: 54616729-112f-44c5-9178-811f7811f1e8
-    title: artificial intelligence
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: Artificial intelligence (AI)
     node_type: topic
-    slug: artificial-intelligence
+    slug: artificial-intelligence-ai
     shared_claims: 3
+  - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
+    title: Alien abduction experience
+    node_type: topic
+    slug: alien-abduction-experience
+    shared_claims: 2
   - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
     title: Arthur Exon
     node_type: person
@@ -93,6 +98,11 @@ related_nodes:
     node_type: person
     slug: jonathan-caplan
     shared_claims: 2
+  - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+    title: Levitation
+    node_type: topic
+    slug: levitation
+    shared_claims: 2
   - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
     title: Out-of-Body Experience (OBE)
     node_type: topic
@@ -113,6 +123,16 @@ related_nodes:
     node_type: document
     slug: the-fourth-mind-whitley-strieber
     shared_claims: 2
+  - node_id: f17d0ba2-aa3c-4fe9-a2c7-86753732b53d
+    title: The extratempestrial model
+    node_type: topic
+    slug: the-extratempestrial-model
+    shared_claims: 2
+  - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+    title: Time travel
+    node_type: topic
+    slug: time-travel
+    shared_claims: 2
   - node_id: 3e35ba86-6210-47c7-91f7-eb2dbfee762a
     title: Transformation (Whitley Strieber)
     node_type: document
@@ -127,26 +147,6 @@ related_nodes:
     title: United States Air Force (USAF)
     node_type: organisation
     slug: united-states-air-force-usaf
-    shared_claims: 2
-  - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
-    title: alien abduction experience
-    node_type: topic
-    slug: alien-abduction-experience
-    shared_claims: 2
-  - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-    title: levitation
-    node_type: topic
-    slug: levitation
-    shared_claims: 2
-  - node_id: f17d0ba2-aa3c-4fe9-a2c7-86753732b53d
-    title: the extratempestrial model
-    node_type: topic
-    slug: the-extratempestrial-model
-    shared_claims: 2
-  - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-    title: time travel
-    node_type: topic
-    slug: time-travel
     shared_claims: 2
   - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
     title: Anne Strieber
@@ -856,7 +856,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 469acb99-5f7f-499c-b8c3-6a20bb5a0790
-        title: the soul
+        title: The soul
         slug: the-soul
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -897,7 +897,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 469acb99-5f7f-499c-b8c3-6a20bb5a0790
-        title: the soul
+        title: The soul
         slug: the-soul
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -935,7 +935,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 469acb99-5f7f-499c-b8c3-6a20bb5a0790
-        title: the soul
+        title: The soul
         slug: the-soul
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1010,7 +1010,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 469acb99-5f7f-499c-b8c3-6a20bb5a0790
-        title: the soul
+        title: The soul
         slug: the-soul
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1053,7 +1053,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 469acb99-5f7f-499c-b8c3-6a20bb5a0790
-        title: the soul
+        title: The soul
         slug: the-soul
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1131,7 +1131,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 469acb99-5f7f-499c-b8c3-6a20bb5a0790
-        title: the soul
+        title: The soul
         slug: the-soul
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1209,7 +1209,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 469acb99-5f7f-499c-b8c3-6a20bb5a0790
-        title: the soul
+        title: The soul
         slug: the-soul
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -2434,7 +2434,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-        title: the close encounter experience
+        title: The close encounter experience
         slug: the-close-encounter-experience
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -2508,12 +2508,12 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     node_refs:
+      - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+        title: Artificial intelligence (AI)
+        slug: artificial-intelligence-ai
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: 54616729-112f-44c5-9178-811f7811f1e8
-        title: artificial intelligence
-        slug: artificial-intelligence
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
         slug: non-human-intelligence
@@ -2590,7 +2590,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
-        title: large language model (LLM )
+        title: Large language model (LLM)
         slug: large-language-model-llm
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -2629,9 +2629,9 @@ claims:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
-      - node_id: 54616729-112f-44c5-9178-811f7811f1e8
-        title: artificial intelligence
-        slug: artificial-intelligence
+      - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+        title: Artificial intelligence (AI)
+        slug: artificial-intelligence-ai
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
         slug: non-human-intelligence
@@ -2740,12 +2740,12 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     node_refs:
+      - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+        title: Artificial intelligence (AI)
+        slug: artificial-intelligence-ai
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: 54616729-112f-44c5-9178-811f7811f1e8
-        title: artificial intelligence
-        slug: artificial-intelligence
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
         slug: non-human-intelligence
@@ -2868,7 +2868,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
-        title: the Control System (Vallée's hypothesis)
+        title: The Control System (Vallée's hypothesis)
         slug: the-control-system-vallees-hypothesis
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -2914,7 +2914,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-        title: the close encounter experience
+        title: The close encounter experience
         slug: the-close-encounter-experience
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -3378,10 +3378,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
-        title: alien abduction experience
+        title: Alien abduction experience
         slug: alien-abduction-experience
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -3419,7 +3419,7 @@ claims:
         title: Anne Strieber
         slug: anne-strieber
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3502,7 +3502,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3542,10 +3542,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3554,7 +3554,7 @@ claims:
         title: Non-Human Intelligence
         slug: non-human-intelligence
       - node_id: f17d0ba2-aa3c-4fe9-a2c7-86753732b53d
-        title: the extratempestrial model
+        title: The extratempestrial model
         slug: the-extratempestrial-model
     date: null
     date_end: null
@@ -3592,10 +3592,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 3ebf2a70-a0d1-484e-8912-35929642bc47
-        title: grandfather paradox
+        title: Grandfather paradox
         slug: grandfather-paradox
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3604,7 +3604,7 @@ claims:
         title: Non-Human Intelligence
         slug: non-human-intelligence
       - node_id: f17d0ba2-aa3c-4fe9-a2c7-86753732b53d
-        title: the extratempestrial model
+        title: The extratempestrial model
         slug: the-extratempestrial-model
     date: null
     date_end: null
@@ -3641,7 +3641,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-        title: the close encounter experience
+        title: The close encounter experience
         slug: the-close-encounter-experience
       - node_id: 97c90a0b-6567-4a2e-86da-61338378b3e2
         title: 1985 Whitley Strieber close encounter at his upstate New York cabin
@@ -3683,10 +3683,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
-        title: alien abduction experience
+        title: Alien abduction experience
         slug: alien-abduction-experience
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -3725,7 +3725,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -3918,7 +3918,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-        title: the close encounter experience
+        title: The close encounter experience
         slug: the-close-encounter-experience
       - node_id: 97c90a0b-6567-4a2e-86da-61338378b3e2
         title: 1985 Whitley Strieber close encounter at his upstate New York cabin

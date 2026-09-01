@@ -44,7 +44,7 @@ related_nodes:
     slug: 2012-02-jennifer-elizondo-crosswalk-accident
     shared_claims: 1
   - node_id: 9fbb2218-c47f-4d07-b0b1-a106bd109bd7
-    title: Alternative Compensatory Control Measure (ACCM )
+    title: Alternative Compensatory Control Measure (ACCM)
     node_type: topic
     slug: alternative-compensatory-control-measure-accm
     shared_claims: 1
@@ -583,7 +583,7 @@ claims:
         title: Joint Chiefs of Staff
         slug: joint-chiefs-of-staff
       - node_id: 9fbb2218-c47f-4d07-b0b1-a106bd109bd7
-        title: Alternative Compensatory Control Measure (ACCM )
+        title: Alternative Compensatory Control Measure (ACCM)
         slug: alternative-compensatory-control-measure-accm
       - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
         title: Office of the Under Secretary of Defense for Intelligence (OUSDI)

@@ -68,6 +68,11 @@ related_nodes:
     node_type: event
     slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
     shared_claims: 1
+  - node_id: e8f59760-c068-456e-bbcc-3a1844122213
+    title: Alien pregnancy test
+    node_type: topic
+    slug: alien-pregnancy-test
+    shared_claims: 1
   - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
     title: National Investigations Committee on Aerial Phenomena (NICAP)
     node_type: organisation
@@ -77,11 +82,6 @@ related_nodes:
     title: September 19, 1961 Betty and Barney Hill interrupted journey and UFO abduction
     node_type: event
     slug: 1961-betty-and-barney-hill-interrupted-journey-and-ufo-abduction-september-19
-    shared_claims: 1
-  - node_id: e8f59760-c068-456e-bbcc-3a1844122213
-    title: alien pregnancy test
-    node_type: topic
-    slug: alien-pregnancy-test
     shared_claims: 1
 claims:
   - claim_id: d0bb7010-5098-4847-b342-e21ee560c4b6
@@ -2776,7 +2776,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: null
     date_end: null
@@ -3315,7 +3315,7 @@ claims:
         title: Benjamin Simon
         slug: benjamin-simon
       - node_id: e8f59760-c068-456e-bbcc-3a1844122213
-        title: alien pregnancy test
+        title: Alien pregnancy test
         slug: alien-pregnancy-test
     date: null
     date_end: null

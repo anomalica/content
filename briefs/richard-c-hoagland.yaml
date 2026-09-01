@@ -49,7 +49,7 @@ related_nodes:
     slug: erol-torun
     shared_claims: 33
   - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-    title: hyper-dimensional physics theory
+    title: Hyper-dimensional physics theory
     node_type: topic
     slug: hyper-dimensional-physics-theory
     shared_claims: 33
@@ -129,7 +129,7 @@ related_nodes:
     slug: sinus-medii
     shared_claims: 14
   - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-    title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR )
+    title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
     node_type: organisation
     slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
     shared_claims: 14
@@ -7425,7 +7425,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
-        title: gold visors (Apollo helmet visors)
+        title: Gold visors (Apollo helmet visors)
         slug: gold-visors-apollo-helmet-visors
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -7511,7 +7511,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
-        title: gold visors (Apollo helmet visors)
+        title: Gold visors (Apollo helmet visors)
         slug: gold-visors-apollo-helmet-visors
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -7552,7 +7552,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
-        title: gold visors (Apollo helmet visors)
+        title: Gold visors (Apollo helmet visors)
         slug: gold-visors-apollo-helmet-visors
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -8133,7 +8133,7 @@ claims:
         title: The Castle (lunar object)
         slug: the-castle-lunar-object
       - node_id: ee2bb070-a934-4372-8d9d-0fdb30f6dc00
-        title: National Space Science Data Service (NSSDC )
+        title: National Space Science Data Service (NSSDC)
         slug: national-space-science-data-service-nssdc
       - node_id: f6658983-807e-4a72-90cf-39290c3ebf3f
         title: National Space Science Data Center (NSSDC) visit by Hoagland's lunar investigation team, 1995
@@ -8549,8 +8549,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -8900,7 +8899,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -9168,8 +9167,7 @@ claims:
         title: National Aeronautics and Space Administration (NASA)
         slug: national-aeronautics-and-space-administration-nasa
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -9364,8 +9362,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -10086,7 +10083,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -16639,7 +16636,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
         title: Cydonia
@@ -17335,7 +17332,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
         title: Jack Parsons
@@ -17897,7 +17894,7 @@ claims:
         title: Mars Pathfinder
         slug: mars-pathfinder
       - node_id: f7a936ba-1265-4004-9431-a8fc64ab7fbc
-        title: super-resolution surface modeling
+        title: Super-resolution surface modeling
         slug: super-resolution-surface-modeling
     date: null
     date_end: null
@@ -22218,7 +22215,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
     date: null
     date_end: null
@@ -22252,7 +22249,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
     date: null
     date_end: null
@@ -22287,7 +22284,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: f23b3f3a-16ad-408c-9e21-4dcbd82948f5
         title: Saturn
@@ -22921,8 +22918,7 @@ claims:
         title: Nature (journal)
         slug: nature-journal
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: 8dd081ad-030c-436d-9171-f4e972084a2a
         title: Science (journal)
@@ -23004,8 +23000,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -23743,8 +23738,7 @@ claims:
         title: National Aeronautics and Space Administration (NASA)
         slug: national-aeronautics-and-space-administration-nasa
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
         title: Mark C. Carlotto
@@ -23785,8 +23779,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: b5c47b21-8697-4839-beb7-3c943072ce04
         title: Viking 1
@@ -24535,8 +24528,7 @@ claims:
         title: Face on Mars
         slug: face-on-mars
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -25088,8 +25080,7 @@ claims:
         title: Mars Global Surveyor
         slug: mars-global-surveyor
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
         title: Cydonia
@@ -25129,7 +25120,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 199b4f5f-021c-4157-b8eb-27c139c90890
-        title: the mesa south of the Face (Cydonia)
+        title: The mesa south of the Face (Cydonia)
         slug: the-mesa-south-of-the-face-cydonia
       - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
         title: Face on Mars
@@ -25172,7 +25163,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 199b4f5f-021c-4157-b8eb-27c139c90890
-        title: the mesa south of the Face (Cydonia)
+        title: The mesa south of the Face (Cydonia)
         slug: the-mesa-south-of-the-face-cydonia
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -25258,8 +25249,7 @@ claims:
         title: Face on Mars
         slug: face-on-mars
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
         title: Cydonia
@@ -25427,8 +25417,7 @@ claims:
         title: D&M Pyramid
         slug: dm-pyramid
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -25516,8 +25505,7 @@ claims:
         title: D&M Pyramid
         slug: dm-pyramid
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -25608,8 +25596,7 @@ claims:
         title: D&M Pyramid
         slug: dm-pyramid
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
     date: null
     date_end: null
@@ -25646,8 +25633,7 @@ claims:
         title: D&M Pyramid
         slug: dm-pyramid
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -27089,8 +27075,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -27617,7 +27602,7 @@ claims:
         title: Cydonia Geometric Relationship Model
         slug: cydonia-geometric-relationship-model
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
         title: Cydonia
@@ -28202,8 +28187,7 @@ claims:
         title: NASA Jet Propulsion Laboratory (JPL)
         slug: nasa-jet-propulsion-laboratory-jpl
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
     date: null
     date_end: null
@@ -28317,8 +28301,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -28357,8 +28340,7 @@ claims:
         title: Enterprise Mission
         slug: enterprise-mission
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
     date: null
     date_end: null
@@ -28395,8 +28377,7 @@ claims:
         title: Tom Van Flandern
         slug: tom-van-flandern
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
         title: Cydonia
@@ -29367,7 +29348,7 @@ claims:
         title: 2001 Mars Odyssey press briefing on Hydaspsis Chaos Infrared (IR) image, 2002-03-01
         slug: 2002-03-01-2001-mars-odyssey-press-briefing-on-hydaspsis-chaos-infrared-ir-image
       - node_id: 6ce9ed67-ef32-4756-989f-72fa56d25491
-        title: Gamma Ray Spectrometer (GRS ), Mars Odyssey
+        title: Gamma Ray Spectrometer (GRS), Mars Odyssey
         slug: mars-odyssey-gamma-ray-spectrometer-grs
       - node_id: 8e678939-523f-46d1-98b0-dbd67ca25888
         title: William Boynton
@@ -31622,7 +31603,7 @@ claims:
         title: D&M Pyramid
         slug: dm-pyramid
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: aa7af744-d87f-4a35-9c27-02a1a4a3e631
         title: Erol Torun
@@ -32569,10 +32550,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1804fc9a-e98b-4b41-bdae-d3486f61039f
-        title: the train station (Cydonia)
+        title: The train station (Cydonia)
         slug: the-train-station-cydonia
       - node_id: 199b4f5f-021c-4157-b8eb-27c139c90890
-        title: the mesa south of the Face (Cydonia)
+        title: The mesa south of the Face (Cydonia)
         slug: the-mesa-south-of-the-face-cydonia
       - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
         title: Face on Mars
@@ -32614,7 +32595,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 199b4f5f-021c-4157-b8eb-27c139c90890
-        title: the mesa south of the Face (Cydonia)
+        title: The mesa south of the Face (Cydonia)
         slug: the-mesa-south-of-the-face-cydonia
       - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
         title: Cydonia
@@ -32654,7 +32635,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1804fc9a-e98b-4b41-bdae-d3486f61039f
-        title: the train station (Cydonia)
+        title: The train station (Cydonia)
         slug: the-train-station-cydonia
       - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
         title: Cydonia
@@ -32739,7 +32720,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 199b4f5f-021c-4157-b8eb-27c139c90890
-        title: the mesa south of the Face (Cydonia)
+        title: The mesa south of the Face (Cydonia)
         slug: the-mesa-south-of-the-face-cydonia
       - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
         title: Face on Mars
@@ -35960,8 +35941,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
         title: Thermal Emission Imaging System (THEMIS)
@@ -38882,7 +38862,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
         title: Cydonia
@@ -40657,7 +40637,7 @@ claims:
         title: Mars, Gusev Crater
         slug: gusev-crater-mars
       - node_id: c126f9df-7dd2-4beb-b43f-12b9b26d7da5
-        title: the magic carpet (Gusev Crater feature)
+        title: The magic carpet (Gusev Crater feature)
         slug: the-magic-carpet-gusev-crater-feature
       - node_id: de58d5ed-956d-4fd7-ac5e-3ff37e27fd64
         title: B-2 Spirit
@@ -40887,7 +40867,7 @@ claims:
         title: El Capitan (Opportunity Ledge outcrop section)
         slug: el-capitan-opportunity-ledge-outcrop-section
       - node_id: ffc1b279-7973-41d7-b1ec-2c7362dc5a21
-        title: apparent Martian fossil in El Capitan microscopic image
+        title: Apparent Martian fossil in El Capitan microscopic image
         slug: apparent-martian-fossil-in-el-capitan-microscopic-image
     date: null
     date_end: null
@@ -40923,7 +40903,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: ffc1b279-7973-41d7-b1ec-2c7362dc5a21
-        title: apparent Martian fossil in El Capitan microscopic image
+        title: Apparent Martian fossil in El Capitan microscopic image
         slug: apparent-martian-fossil-in-el-capitan-microscopic-image
     date: null
     date_end: null
@@ -40966,7 +40946,7 @@ claims:
         title: NASA Jet Propulsion Laboratory (JPL)
         slug: nasa-jet-propulsion-laboratory-jpl
       - node_id: 6ce9ed67-ef32-4756-989f-72fa56d25491
-        title: Gamma Ray Spectrometer (GRS ), Mars Odyssey
+        title: Gamma Ray Spectrometer (GRS), Mars Odyssey
         slug: mars-odyssey-gamma-ray-spectrometer-grs
       - node_id: e441ec39-279d-45ba-a607-759d5ec180bf
         title: Mars Tidal Model
@@ -41008,7 +40988,7 @@ claims:
         title: Rock Abrasion Tool (RAT)
         slug: rock-abrasion-tool-rat
       - node_id: ffc1b279-7973-41d7-b1ec-2c7362dc5a21
-        title: apparent Martian fossil in El Capitan microscopic image
+        title: Apparent Martian fossil in El Capitan microscopic image
         slug: apparent-martian-fossil-in-el-capitan-microscopic-image
     date: null
     date_end: null
@@ -41363,7 +41343,7 @@ claims:
         title: Opportunity
         slug: opportunity
       - node_id: ffc1b279-7973-41d7-b1ec-2c7362dc5a21
-        title: apparent Martian fossil in El Capitan microscopic image
+        title: Apparent Martian fossil in El Capitan microscopic image
         slug: apparent-martian-fossil-in-el-capitan-microscopic-image
     date: null
     date_end: null
@@ -42180,7 +42160,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 110dc77f-6b9b-40b2-b11d-eb7fd84b7c8f
-        title: naming of Project Orion, 2006-07-20
+        title: Naming of Project Orion, 2006-07-20
         slug: 2006-07-20-naming-of-project-orion
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -50272,7 +50252,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -53095,7 +53075,7 @@ claims:
         title: James Clerk Maxwell
         slug: james-clerk-maxwell
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -53346,7 +53326,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: aa7af744-d87f-4a35-9c27-02a1a4a3e631
         title: Erol Torun
@@ -53926,7 +53906,7 @@ claims:
         title: James Clerk Maxwell
         slug: james-clerk-maxwell
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: 76449e3f-22d8-4d86-bb58-7adffc768d49
         title: Sweden, Stockholm
@@ -54084,7 +54064,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: ddbb3ba0-a208-4f3b-b0ef-925cda47c77d
         title: Angstrom Foundation
@@ -54200,7 +54180,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -54240,7 +54220,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: 6ea4a62d-bf29-47ef-9691-915da997fb0a
         title: Jupiter
@@ -54287,7 +54267,7 @@ claims:
         title: Einstein-Cartan Torsion (ECT)
         slug: einstein-cartan-torsion-ect
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: aa7af744-d87f-4a35-9c27-02a1a4a3e631
         title: Erol Torun
@@ -54404,7 +54384,7 @@ claims:
         title: James Clerk Maxwell
         slug: james-clerk-maxwell
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
         title: Cydonia
@@ -54541,7 +54521,7 @@ claims:
         title: Motionless Electromagnetic Generator
         slug: motionless-electromagnetic-generator
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -54578,13 +54558,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-        title: zero-point energy
+        title: Zero-point energy
         slug: zero-point-energy
       - node_id: 38056c94-8e88-4ea8-8761-89856badf530
         title: James Clerk Maxwell
         slug: james-clerk-maxwell
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -54622,7 +54602,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -54947,7 +54927,7 @@ claims:
         title: Bruce DePalma
         slug: bruce-depalma
       - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
-        title: torsion field
+        title: Torsion field
         slug: torsion-field
     date: null
     date_end: null
@@ -55096,7 +55076,7 @@ claims:
         title: James Clerk Maxwell
         slug: james-clerk-maxwell
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -55133,7 +55113,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
         title: Cydonia
@@ -55209,7 +55189,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5247844f-1f97-4320-86b3-77a92488eec1
-        title: conservation of angular momentum
+        title: Conservation of angular momentum
         slug: conservation-of-angular-momentum
     date: null
     date_end: null
@@ -55245,7 +55225,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
     date: null
     date_end: null
@@ -55647,7 +55627,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -55790,7 +55770,7 @@ claims:
         title: Pluto
         slug: pluto
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -55828,7 +55808,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -56141,7 +56121,7 @@ claims:
         title: Frank J. Low
         slug: frank-j-low
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: 6ea4a62d-bf29-47ef-9691-915da997fb0a
         title: Jupiter
@@ -56223,7 +56203,7 @@ claims:
         title: Hoagland presentation at United Nations, 1992
         slug: 1992-hoagland-presentation-at-united-nations
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: 6ea4a62d-bf29-47ef-9691-915da997fb0a
         title: Jupiter
@@ -56309,7 +56289,7 @@ claims:
         title: Hoagland presentation at United Nations, 1992
         slug: 1992-hoagland-presentation-at-united-nations
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
         title: United Nations (UN)
@@ -56349,10 +56329,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: 95ce99f5-dff8-4826-9d1e-6a4e57582630
-        title: pulsar phenomenon
+        title: Pulsar phenomenon
         slug: pulsar-phenomenon
       - node_id: aa7af744-d87f-4a35-9c27-02a1a4a3e631
         title: Erol Torun
@@ -56547,7 +56527,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -56624,7 +56604,7 @@ claims:
         title: B1757-24 (pulsar)
         slug: b1757-24-pulsar
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -56663,7 +56643,7 @@ claims:
         title: B1757-24 (pulsar)
         slug: b1757-24-pulsar
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: aa7af744-d87f-4a35-9c27-02a1a4a3e631
         title: Erol Torun
@@ -56710,7 +56690,7 @@ claims:
         title: The Monuments of Mars (book)
         slug: the-monuments-of-mars-book
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -56748,7 +56728,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: 5400858e-d87e-4985-8d00-5d6e3aa73607
         title: Bruce DePalma
@@ -56790,7 +56770,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -56830,7 +56810,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: 5400858e-d87e-4985-8d00-5d6e3aa73607
         title: Bruce DePalma
@@ -56873,7 +56853,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland

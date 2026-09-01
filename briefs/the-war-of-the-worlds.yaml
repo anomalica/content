@@ -58,6 +58,11 @@ related_nodes:
     node_type: document
     slug: et-the-extra-terrestrial-1982-film
     shared_claims: 1
+  - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
+    title: Grey aliens
+    node_type: topic
+    slug: grey-aliens
+    shared_claims: 1
   - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
     title: Joseph Stalin
     node_type: person
@@ -87,11 +92,6 @@ related_nodes:
     title: USA, New Mexico, Roswell
     node_type: place
     slug: new-mexico-roswell-usa
-    shared_claims: 1
-  - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-    title: grey aliens
-    node_type: topic
-    slug: grey-aliens
     shared_claims: 1
 claims:
   - claim_id: 1afaeda5-e619-46d5-a742-917a46fd2196
@@ -312,7 +312,7 @@ claims:
         title: Close Encounters of the Third Kind (1977 film)
         slug: close-encounters-of-the-third-kind-1977-film
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
         title: Steven Spielberg

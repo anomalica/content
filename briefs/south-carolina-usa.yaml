@@ -108,6 +108,11 @@ related_nodes:
     node_type: person
     slug: mark-walker
     shared_claims: 1
+  - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+    title: Past-life memories in young children
+    node_type: topic
+    slug: past-life-memories-in-young-children
+    shared_claims: 1
   - node_id: e36f0801-e7c2-47d4-9fab-f39281125ee7
     title: Republican Party
     node_type: organisation
@@ -142,11 +147,6 @@ related_nodes:
     title: Unidentified Anomalous Phenomena (UAP)
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
-    shared_claims: 1
-  - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-    title: past-life memories in young children
-    node_type: topic
-    slug: past-life-memories-in-young-children
     shared_claims: 1
 claims:
   - claim_id: 3bbfc1a5-5573-4323-aa62-d64573e40ad7
@@ -286,7 +286,7 @@ claims:
         title: USA, South Carolina
         slug: south-carolina-usa
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
       - node_id: b4f06585-086c-45f5-9b05-c2bc9386e7d6
         title: India, Darbhanga

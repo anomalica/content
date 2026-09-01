@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
   node_type: topic
-  title: cargo cult
+  title: Cargo cult
   slug: cargo-cult
   claim_count: 4
   claim_count_total: 4
@@ -62,7 +62,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
-        title: cargo cult
+        title: Cargo cult
         slug: cargo-cult
     date: null
     date_end: null
@@ -96,7 +96,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
-        title: cargo cult
+        title: Cargo cult
         slug: cargo-cult
       - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
         title: Lockheed Martin Skunk Works
@@ -141,7 +141,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
-        title: cargo cult
+        title: Cargo cult
         slug: cargo-cult
       - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
         title: Tom DeLonge
@@ -178,7 +178,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
-        title: cargo cult
+        title: Cargo cult
         slug: cargo-cult
     date: null
     date_end: null

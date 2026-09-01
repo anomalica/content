@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
   node_type: topic
-  title: screen memory
+  title: Screen memory
   slug: screen-memory
   claim_count: 16
   claim_count_total: 16
@@ -43,35 +43,35 @@ related_nodes:
     node_type: person
     slug: chris-ramsay
     shared_claims: 2
-  - node_id: c9e83617-1cd0-4f43-9f12-87505a3380b4
-    title: Wallace Shawn
-    node_type: person
-    slug: wallace-shawn
-    shared_claims: 1
   - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
+    title: Alien abduction
     node_type: topic
     slug: alien-abduction
     shared_claims: 1
   - node_id: f726fe9c-7d9b-4979-9da0-8d698923a39b
-    title: alien semen extraction device (pyramidal cone)
+    title: Alien semen extraction device (pyramidal cone)
     node_type: object
     slug: alien-semen-extraction-device-pyramidal-cone
     shared_claims: 1
   - node_id: 2c688b45-6e45-42e1-ade1-04a9bfadf0f0
-    title: early 1960s owl and light sighting (Strieber's sister)
+    title: Early 1960s owl and light sighting (Strieber's sister)
     node_type: event
     slug: early-1960s-owl-and-light-sighting-striebers-sister
     shared_claims: 1
   - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-    title: telepathy
+    title: Telepathy
     node_type: topic
     slug: telepathy
     shared_claims: 1
   - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-    title: the visitors (nonhuman beings)
+    title: The visitors (nonhuman beings)
     node_type: topic
     slug: the-visitors-nonhuman-beings
+    shared_claims: 1
+  - node_id: c9e83617-1cd0-4f43-9f12-87505a3380b4
+    title: Wallace Shawn
+    node_type: person
+    slug: wallace-shawn
     shared_claims: 1
 claims:
   - claim_id: cf943dc9-8b92-4cbe-9657-94511b2fc246
@@ -89,7 +89,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
     date: null
     date_end: null
@@ -122,13 +122,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2c688b45-6e45-42e1-ade1-04a9bfadf0f0
-        title: early 1960s owl and light sighting (Strieber's sister)
+        title: Early 1960s owl and light sighting (Strieber's sister)
         slug: early-1960s-owl-and-light-sighting-striebers-sister
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
     date: null
     date_end: null
@@ -164,10 +164,10 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-        title: the visitors (nonhuman beings)
+        title: The visitors (nonhuman beings)
         slug: the-visitors-nonhuman-beings
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
     date: null
     date_end: null
@@ -205,7 +205,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
     date: null
     date_end: null
@@ -242,7 +242,7 @@ claims:
         title: Erik Nanstiel
         slug: erik-nanstiel
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
     date: '1953'
     date_end: null
@@ -276,7 +276,7 @@ claims:
         title: Erik Nanstiel
         slug: erik-nanstiel
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
     date: null
     date_end: null
@@ -315,7 +315,7 @@ claims:
         title: Greys (extraterrestrial beings)
         slug: greys-extraterrestrial-beings
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
     date: null
     date_end: null
@@ -351,10 +351,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
     date: null
     date_end: null
@@ -389,7 +389,7 @@ claims:
         title: Erik Nanstiel
         slug: erik-nanstiel
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
     date: null
     date_end: null
@@ -427,7 +427,7 @@ claims:
         title: Greys (extraterrestrial beings)
         slug: greys-extraterrestrial-beings
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
     date: null
     date_end: null
@@ -462,7 +462,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
     date: null
     date_end: null
@@ -499,7 +499,7 @@ claims:
         title: Greys (extraterrestrial beings)
         slug: greys-extraterrestrial-beings
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
     date: null
     date_end: null
@@ -538,7 +538,7 @@ claims:
         title: Greys (extraterrestrial beings)
         slug: greys-extraterrestrial-beings
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
     date: null
     date_end: null
@@ -578,7 +578,7 @@ claims:
         title: Wallace Shawn
         slug: wallace-shawn
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
     date: null
     date_end: null
@@ -612,10 +612,10 @@ claims:
         title: Erik Nanstiel
         slug: erik-nanstiel
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
     date: null
     date_end: null
@@ -654,10 +654,10 @@ claims:
         title: Greys (extraterrestrial beings)
         slug: greys-extraterrestrial-beings
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
       - node_id: f726fe9c-7d9b-4979-9da0-8d698923a39b
-        title: alien semen extraction device (pyramidal cone)
+        title: Alien semen extraction device (pyramidal cone)
         slug: alien-semen-extraction-device-pyramidal-cone
     date: null
     date_end: null

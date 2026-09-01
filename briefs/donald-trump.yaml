@@ -1218,7 +1218,7 @@ claims:
         title: Donald Trump
         slug: donald-trump
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -1917,7 +1917,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-        title: synchronicity
+        title: Synchronicity
         slug: synchronicity
       - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
         title: Donald Trump
@@ -2117,7 +2117,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
-        title: war.gov Unidentified Flying Object (UFO) files website
+        title: War.gov Unidentified Flying Object (UFO) files website
         slug: wargov-unidentified-flying-object-ufo-files-website
     date: null
     date_end: null

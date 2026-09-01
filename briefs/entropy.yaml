@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
   node_type: topic
-  title: entropy
+  title: Entropy
   slug: entropy
   claim_count: 7
   claim_count_total: 7
@@ -28,15 +28,15 @@ related_nodes:
     node_type: person
     slug: robert-bigelow
     shared_claims: 3
+  - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
+    title: Dark energy
+    node_type: topic
+    slug: dark-energy
+    shared_claims: 2
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
     title: Remote Viewing (RV)
     node_type: topic
     slug: remote-viewing-rv
-    shared_claims: 2
-  - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-    title: dark energy
-    node_type: topic
-    slug: dark-energy
     shared_claims: 2
   - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
     title: Chris Ramsay
@@ -83,7 +83,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-        title: entropy
+        title: Entropy
         slug: entropy
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -118,7 +118,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-        title: entropy
+        title: Entropy
         slug: entropy
     date: null
     date_end: null
@@ -152,7 +152,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-        title: entropy
+        title: Entropy
         slug: entropy
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -189,13 +189,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-        title: entropy
+        title: Entropy
         slug: entropy
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
     date: null
     date_end: null
@@ -229,13 +229,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-        title: entropy
+        title: Entropy
         slug: entropy
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
       - node_id: fb2903b3-56b1-41ef-8eae-594ab1d0e2e8
         title: Dark matter
@@ -273,7 +273,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-        title: entropy
+        title: Entropy
         slug: entropy
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -316,7 +316,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-        title: entropy
+        title: Entropy
         slug: entropy
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
         title: Remote Viewing (RV)

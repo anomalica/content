@@ -43,6 +43,11 @@ related_nodes:
     node_type: document
     slug: a-blood-covenant-the-alien-agenda-behind-civilization-and-human-domestication-erik-nanstiel-book
     shared_claims: 1
+  - node_id: 86d836b2-2e1f-4f1b-ad27-9ee79da084a2
+    title: Ancient astronaut theory
+    node_type: topic
+    slug: ancient-astronaut-theory
+    shared_claims: 1
   - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
     title: Betty Hill
     node_type: person
@@ -77,11 +82,6 @@ related_nodes:
     title: The Yellow Book
     node_type: object
     slug: the-yellow-book
-    shared_claims: 1
-  - node_id: 86d836b2-2e1f-4f1b-ad27-9ee79da084a2
-    title: ancient astronaut theory
-    node_type: topic
-    slug: ancient-astronaut-theory
     shared_claims: 1
 claims:
   - claim_id: 934bbc3e-8546-40f9-846f-b756f4e9cac0
@@ -258,7 +258,7 @@ claims:
         title: Greys (extraterrestrial beings)
         slug: greys-extraterrestrial-beings
       - node_id: 86d836b2-2e1f-4f1b-ad27-9ee79da084a2
-        title: ancient astronaut theory
+        title: Ancient astronaut theory
         slug: ancient-astronaut-theory
       - node_id: a670ba7e-02aa-4f8b-a201-484badfc8e1c
         title: Zeta Reticuli

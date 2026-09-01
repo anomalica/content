@@ -24,7 +24,7 @@ belonging:
   unreviewed: 12
 related_nodes:
   - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-    title: near-death experience (NDE)
+    title: Near-death experience (NDE)
     node_type: topic
     slug: near-death-experience-nde
     shared_claims: 8
@@ -48,15 +48,15 @@ related_nodes:
     node_type: person
     slug: jessica-utts
     shared_claims: 1
+  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+    title: Nonlocal consciousness
+    node_type: topic
+    slug: nonlocal-consciousness
+    shared_claims: 1
   - node_id: 12a1de1a-2a19-4ca3-9265-ce2409db4572
     title: University of Virginia Medical School
     node_type: organisation
     slug: university-of-virginia-medical-school
-    shared_claims: 1
-  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-    title: nonlocal consciousness
-    node_type: topic
-    slug: nonlocal-consciousness
     shared_claims: 1
 claims:
   - claim_id: 08a7815b-63e9-4d0f-8cb3-ef9bdf655004
@@ -111,7 +111,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 6705ff37-f3d0-4c33-a3f8-de6024104abb
         title: Bruce Greyson
@@ -184,7 +184,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 6705ff37-f3d0-4c33-a3f8-de6024104abb
         title: Bruce Greyson
@@ -219,7 +219,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 6705ff37-f3d0-4c33-a3f8-de6024104abb
         title: Bruce Greyson
@@ -258,7 +258,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 6705ff37-f3d0-4c33-a3f8-de6024104abb
         title: Bruce Greyson
@@ -295,7 +295,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 6705ff37-f3d0-4c33-a3f8-de6024104abb
         title: Bruce Greyson
@@ -332,7 +332,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 6705ff37-f3d0-4c33-a3f8-de6024104abb
         title: Bruce Greyson
@@ -371,7 +371,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 3b62adb4-0814-4889-ae74-bb8a60c26541
         title: Greyson 2003 American prospective Near-Death Experience (NDE) study
@@ -409,7 +409,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 6705ff37-f3d0-4c33-a3f8-de6024104abb
         title: Bruce Greyson
@@ -450,7 +450,7 @@ claims:
         title: Bruce Greyson
         slug: bruce-greyson
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null

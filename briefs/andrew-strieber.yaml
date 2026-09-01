@@ -44,7 +44,7 @@ related_nodes:
     slug: andrew-striebers-written-note-the-morning-after-his-1980s-encounter
     shared_claims: 4
   - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
+    title: Alien abduction
     node_type: topic
     slug: alien-abduction
     shared_claims: 2
@@ -52,6 +52,26 @@ related_nodes:
     title: 1987-01 Whitley Strieber clearing encounter and childhood-memory regression
     node_type: event
     slug: 1987-01-whitley-strieber-clearing-encounter-and-childhood-memory-regression
+    shared_claims: 1
+  - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
+    title: Alien abduction experience
+    node_type: topic
+    slug: alien-abduction-experience
+    shared_claims: 1
+  - node_id: 73ad5bb8-c3ed-4ecb-96a0-66dd4e819fe9
+    title: Childhood amnesia
+    node_type: topic
+    slug: childhood-amnesia
+    shared_claims: 1
+  - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
+    title: Forensic hypnosis
+    node_type: topic
+    slug: forensic-hypnosis
+    shared_claims: 1
+  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+    title: Human-alien hybridization
+    node_type: topic
+    slug: human-alien-hybridization
     shared_claims: 1
   - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
     title: Ross Coulthart
@@ -62,26 +82,6 @@ related_nodes:
     title: Whitley Strieber's alleged implant
     node_type: object
     slug: whitley-striebers-alleged-implant
-    shared_claims: 1
-  - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
-    title: alien abduction experience
-    node_type: topic
-    slug: alien-abduction-experience
-    shared_claims: 1
-  - node_id: 73ad5bb8-c3ed-4ecb-96a0-66dd4e819fe9
-    title: childhood amnesia
-    node_type: topic
-    slug: childhood-amnesia
-    shared_claims: 1
-  - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
-    title: forensic hypnosis
-    node_type: topic
-    slug: forensic-hypnosis
-    shared_claims: 1
-  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-    title: human-alien hybridization
-    node_type: topic
-    slug: human-alien-hybridization
     shared_claims: 1
 claims:
   - claim_id: d1ff858f-efdc-4f38-8c05-9a5f416c7fcb
@@ -111,7 +111,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
-        title: alien abduction experience
+        title: Alien abduction experience
         slug: alien-abduction-experience
       - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
         title: Andrew Strieber
@@ -151,7 +151,7 @@ claims:
         title: Anne Strieber
         slug: anne-strieber
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -279,7 +279,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -743,10 +743,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 73ad5bb8-c3ed-4ecb-96a0-66dd4e819fe9
-        title: childhood amnesia
+        title: Childhood amnesia
         slug: childhood-amnesia
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
         title: Andrew Strieber
@@ -824,7 +824,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
-        title: forensic hypnosis
+        title: Forensic hypnosis
         slug: forensic-hypnosis
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber

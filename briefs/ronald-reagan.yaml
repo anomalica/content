@@ -163,15 +163,15 @@ related_nodes:
     node_type: object
     slug: the-white-house
     shared_claims: 1
+  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+    title: Ufology
+    node_type: topic
+    slug: ufology
+    shared_claims: 1
   - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
     title: Whitley Strieber
     node_type: person
     slug: whitley-strieber
-    shared_claims: 1
-  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-    title: ufology
-    node_type: topic
-    slug: ufology
     shared_claims: 1
 claims:
   - claim_id: e7890490-b3eb-4580-8f0d-f4d257869e4b
@@ -709,7 +709,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null

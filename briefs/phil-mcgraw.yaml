@@ -38,15 +38,15 @@ related_nodes:
     node_type: person
     slug: david-charles-grusch
     shared_claims: 6
+  - node_id: fa4ba20c-867f-4754-b298-14b96e410072
+    title: Extraterrestrial hypothesis
+    node_type: topic
+    slug: extraterrestrial-hypothesis
+    shared_claims: 3
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
     node_type: topic
     slug: unidentified-flying-object-ufo
-    shared_claims: 3
-  - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-    title: extraterrestrial hypothesis
-    node_type: topic
-    slug: extraterrestrial-hypothesis
     shared_claims: 3
   - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
     title: Project MKUltra (MKUltra)
@@ -78,6 +78,11 @@ related_nodes:
     node_type: person
     slug: anna-paulina-luna
     shared_claims: 1
+  - node_id: 6bb44638-8f37-4292-be02-dede7f8a57d9
+    title: Autism spectrum
+    node_type: topic
+    slug: autism-spectrum
+    shared_claims: 1
   - node_id: 35fbce00-9df6-4cb4-a547-5286477dd95e
     title: Blue Angels
     node_type: organisation
@@ -98,6 +103,11 @@ related_nodes:
     node_type: organisation
     slug: presidential-commission-for-religious-liberty
     shared_claims: 1
+  - node_id: 93fe290b-199f-418a-a3fe-715b41745a4c
+    title: Psychological operations (PSYOP)
+    node_type: topic
+    slug: psychological-operations-psyop
+    shared_claims: 1
   - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
     title: Reverse engineering of recovered craft of non-human origin
     node_type: topic
@@ -117,16 +127,6 @@ related_nodes:
     title: Tim Burchett
     node_type: person
     slug: tim-burchett
-    shared_claims: 1
-  - node_id: 6bb44638-8f37-4292-be02-dede7f8a57d9
-    title: autism spectrum
-    node_type: topic
-    slug: autism-spectrum
-    shared_claims: 1
-  - node_id: 93fe290b-199f-418a-a3fe-715b41745a4c
-    title: psychological operations (PSYOP)
-    node_type: topic
-    slug: psychological-operations-psyop
     shared_claims: 1
 claims:
   - claim_id: 4e52d57d-71be-4cd8-8668-0cd5bdc8e70d
@@ -1259,7 +1259,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3fcf97ec-972c-47b7-b813-24c8c648ffba
-        title: time dilation
+        title: Time dilation
         slug: time-dilation
       - node_id: 4341e6e9-f49b-4a5f-9775-b6211950d1b6
         title: Andromeda Galaxy
@@ -2964,7 +2964,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 6bb44638-8f37-4292-be02-dede7f8a57d9
-        title: autism spectrum
+        title: Autism spectrum
         slug: autism-spectrum
       - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
         title: Phil McGraw
@@ -3002,7 +3002,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 93fe290b-199f-418a-a3fe-715b41745a4c
-        title: psychological operations (PSYOP)
+        title: Psychological operations (PSYOP)
         slug: psychological-operations-psyop
       - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
         title: Phil McGraw
@@ -3081,7 +3081,7 @@ claims:
         title: Phil McGraw
         slug: phil-mcgraw
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -3270,7 +3270,7 @@ claims:
         title: Phil McGraw
         slug: phil-mcgraw
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -3739,7 +3739,7 @@ claims:
         title: Phil McGraw
         slug: phil-mcgraw
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -4058,7 +4058,7 @@ claims:
         title: Afghanistan
         slug: afghanistan
       - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
-        title: post-traumatic stress disorder (PTSD)
+        title: Post-traumatic stress disorder (PTSD)
         slug: post-traumatic-stress-disorder-ptsd
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch

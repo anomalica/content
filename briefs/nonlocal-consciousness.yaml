@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
   node_type: topic
-  title: nonlocal consciousness
+  title: Nonlocal consciousness
   slug: nonlocal-consciousness
   claim_count: 51
   claim_count_total: 51
@@ -39,12 +39,12 @@ related_nodes:
     slug: chris-ramsay
     shared_claims: 6
   - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-    title: informational substrate
+    title: Informational substrate
     node_type: topic
     slug: informational-substrate
     shared_claims: 5
   - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-    title: near-death experience (NDE)
+    title: Near-death experience (NDE)
     node_type: topic
     slug: near-death-experience-nde
     shared_claims: 5
@@ -59,10 +59,20 @@ related_nodes:
     slug: ross-coulthart
     shared_claims: 4
   - node_id: 45c38426-8f8a-4152-981e-19f1fd5ebd86
-    title: filter theory of consciousness
+    title: Filter theory of consciousness
     node_type: topic
     slug: filter-theory-of-consciousness
     shared_claims: 3
+  - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
+    title: Materialist paradigm of consciousness
+    node_type: topic
+    slug: materialist-paradigm-of-consciousness
+    shared_claims: 2
+  - node_id: 8d46574b-05d7-4112-b31f-339f93b3d360
+    title: Quantum nonlocality
+    node_type: topic
+    slug: quantum-nonlocality
+    shared_claims: 2
   - node_id: 23946db4-a580-4494-b572-8ec5778678ee
     title: Spain, Barcelona
     node_type: place
@@ -72,16 +82,6 @@ related_nodes:
     title: Unidentified Anomalous Phenomena (UAP)
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
-    shared_claims: 2
-  - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
-    title: materialist paradigm of consciousness
-    node_type: topic
-    slug: materialist-paradigm-of-consciousness
-    shared_claims: 2
-  - node_id: 8d46574b-05d7-4112-b31f-339f93b3d360
-    title: quantum nonlocality
-    node_type: topic
-    slug: quantum-nonlocality
     shared_claims: 2
   - node_id: ec527113-0912-4b33-81d6-d58f7df79dc1
     title: After-death communication (ADC)
@@ -97,6 +97,11 @@ related_nodes:
     title: Bruce Greyson
     node_type: person
     slug: bruce-greyson
+    shared_claims: 1
+  - node_id: 091f459e-bde8-4abc-a7c8-28ee007f7aab
+    title: Dissociation
+    node_type: topic
+    slug: dissociation
     shared_claims: 1
   - node_id: a0a13636-e073-42d1-8773-ec76f0367f44
     title: Freda
@@ -143,6 +148,11 @@ related_nodes:
     node_type: topic
     slug: precognitive-remote-viewing
     shared_claims: 1
+  - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
+    title: Psi (psychic functioning)
+    node_type: topic
+    slug: psi-psychic-functioning
+    shared_claims: 1
   - node_id: e458c0c4-74c0-4642-b871-17c917cb8dcc
     title: Roger Penrose
     node_type: person
@@ -162,16 +172,6 @@ related_nodes:
     title: Sigmund Freud
     node_type: person
     slug: sigmund-freud
-    shared_claims: 1
-  - node_id: c431377a-e381-4d3a-b69c-6053b98be052
-    title: Stuart Hameroff
-    node_type: person
-    slug: stuart-hameroff
-    shared_claims: 1
-  - node_id: 25f7474b-76d5-4475-88dd-38b0bb6b390c
-    title: 'The Heart of the Mind: Using Our Mind to Transform Our Consciousness (book by Russell Targ and Jane Katra)'
-    node_type: document
-    slug: the-heart-of-the-mind-using-our-mind-to-transform-our-consciousness-book-by-russell-targ-and-jane-katra
     shared_claims: 1
 claims:
   - claim_id: cc896841-3f13-4ab4-9330-2752c56cca85
@@ -193,13 +193,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -233,10 +233,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -273,7 +273,7 @@ claims:
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -305,7 +305,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -339,10 +339,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
-        title: materialist paradigm of consciousness
+        title: Materialist paradigm of consciousness
         slug: materialist-paradigm-of-consciousness
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -378,13 +378,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8d46574b-05d7-4112-b31f-339f93b3d360
-        title: quantum nonlocality
+        title: Quantum nonlocality
         slug: quantum-nonlocality
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -421,7 +421,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -457,13 +457,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -500,7 +500,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -537,7 +537,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
       - node_id: ec527113-0912-4b33-81d6-d58f7df79dc1
         title: After-death communication (ADC)
@@ -573,13 +573,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8d46574b-05d7-4112-b31f-339f93b3d360
-        title: quantum nonlocality
+        title: Quantum nonlocality
         slug: quantum-nonlocality
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -612,13 +612,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -656,7 +656,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -692,7 +692,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -728,7 +728,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -765,7 +765,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -803,13 +803,13 @@ claims:
         title: Peter Fenwick
         slug: peter-fenwick
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -840,13 +840,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
-        title: veridical out-of-body perception
+        title: Veridical out-of-body perception
         slug: veridical-out-of-body-perception
       - node_id: ac050fca-beee-4b02-b808-a976ff75b610
         title: Pam Reynolds
         slug: pam-reynolds
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -885,7 +885,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -922,7 +922,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -961,13 +961,13 @@ claims:
         title: Leslie Kean
         slug: leslie-kean
       - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
-        title: materialist paradigm of consciousness
+        title: Materialist paradigm of consciousness
         slug: materialist-paradigm-of-consciousness
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
       - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
-        title: psi (psychic functioning)
+        title: Psi (psychic functioning)
         slug: psi-psychic-functioning
     date: null
     date_end: null
@@ -1008,7 +1008,7 @@ claims:
         title: Jane Katra
         slug: jane-katra
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
       - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
         title: Russell Targ
@@ -1051,7 +1051,7 @@ claims:
         title: Freda
         slug: freda
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1089,7 +1089,7 @@ claims:
         title: Bruce Greyson
         slug: bruce-greyson
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1123,13 +1123,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1166,7 +1166,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1204,7 +1204,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: '2025'
     date_end: null
@@ -1251,7 +1251,7 @@ claims:
         title: Roger Penrose
         slug: roger-penrose
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1291,7 +1291,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1328,7 +1328,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1365,7 +1365,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1406,7 +1406,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1443,10 +1443,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: informational substrate
+        title: Informational substrate
         slug: informational-substrate
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1480,13 +1480,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 45c38426-8f8a-4152-981e-19f1fd5ebd86
-        title: filter theory of consciousness
+        title: Filter theory of consciousness
         slug: filter-theory-of-consciousness
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1521,13 +1521,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: informational substrate
+        title: Informational substrate
         slug: informational-substrate
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1561,13 +1561,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 45c38426-8f8a-4152-981e-19f1fd5ebd86
-        title: filter theory of consciousness
+        title: Filter theory of consciousness
         slug: filter-theory-of-consciousness
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1608,7 +1608,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1644,7 +1644,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1680,7 +1680,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1718,10 +1718,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: informational substrate
+        title: Informational substrate
         slug: informational-substrate
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1754,13 +1754,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 45c38426-8f8a-4152-981e-19f1fd5ebd86
-        title: filter theory of consciousness
+        title: Filter theory of consciousness
         slug: filter-theory-of-consciousness
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1794,13 +1794,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: informational substrate
+        title: Informational substrate
         slug: informational-substrate
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1837,7 +1837,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1871,7 +1871,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 091f459e-bde8-4abc-a7c8-28ee007f7aab
-        title: dissociation
+        title: Dissociation
         slug: dissociation
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -1880,7 +1880,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1920,7 +1920,7 @@ claims:
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1962,10 +1962,10 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-        title: unconditional love
+        title: Unconditional love
         slug: unconditional-love
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -2005,7 +2005,7 @@ claims:
         title: Scientific Coalition for Unidentified Aerial Phenomena (UAP) Studies
         slug: scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -2045,7 +2045,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -2086,7 +2086,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -2128,7 +2128,7 @@ claims:
         title: Wilbert Smith 1950 memorandum on flying saucers
         slug: wilbert-smith-1950-memorandum-on-flying-saucers
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: '1950'
     date_end: null
@@ -2166,13 +2166,13 @@ claims:
         title: Precognition
         slug: precognition
       - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: informational substrate
+        title: Informational substrate
         slug: informational-substrate
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null

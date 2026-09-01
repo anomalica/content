@@ -43,6 +43,11 @@ related_nodes:
     node_type: person
     slug: j-allen-hynek
     shared_claims: 2
+  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+    title: Electroencephalography (EEG)
+    node_type: topic
+    slug: electroencephalography-eeg
+    shared_claims: 1
   - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
     title: Project Blue Book
     node_type: project
@@ -52,6 +57,11 @@ related_nodes:
     title: SPECTRA (alleged cosmic intelligence)
     node_type: topic
     slug: spectra-alleged-cosmic-intelligence
+    shared_claims: 1
+  - node_id: 42f18655-eca1-466e-a528-080032bfc0fb
+    title: Synesthesia
+    node_type: topic
+    slug: synesthesia
     shared_claims: 1
   - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
     title: United States Air Force (USAF)
@@ -67,16 +77,6 @@ related_nodes:
     title: William T. Powers
     node_type: person
     slug: william-t-powers
-    shared_claims: 1
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    node_type: topic
-    slug: electroencephalography-eeg
-    shared_claims: 1
-  - node_id: 42f18655-eca1-466e-a528-080032bfc0fb
-    title: synesthesia
-    node_type: topic
-    slug: synesthesia
     shared_claims: 1
 claims:
   - claim_id: fd11b0b2-ad36-49b8-94aa-c216ef87ec8b
@@ -395,7 +395,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-        title: electroencephalography (EEG)
+        title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -473,7 +473,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 42f18655-eca1-466e-a528-080032bfc0fb
-        title: synesthesia
+        title: Synesthesia
         slug: synesthesia
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge

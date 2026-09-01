@@ -34,7 +34,7 @@ related_nodes:
     slug: judy-cook
     shared_claims: 7
   - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-    title: cattle mutilations phenomenon
+    title: Cattle mutilations phenomenon
     node_type: topic
     slug: cattle-mutilations-phenomenon
     shared_claims: 4
@@ -581,7 +581,7 @@ claims:
         title: Mick Cook
         slug: mick-cook
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
     date: null
     date_end: null
@@ -616,7 +616,7 @@ claims:
         title: Mick Cook
         slug: mick-cook
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
     date: null
     date_end: null
@@ -651,7 +651,7 @@ claims:
         title: Mick Cook
         slug: mick-cook
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
     date: null
     date_end: null
@@ -689,7 +689,7 @@ claims:
         title: Judy Cook
         slug: judy-cook
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
     date: null
     date_end: null

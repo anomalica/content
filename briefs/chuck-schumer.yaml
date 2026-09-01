@@ -49,7 +49,7 @@ related_nodes:
     slug: marco-rubio
     shared_claims: 1
   - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-    title: nonhuman intelligence (NHI)
+    title: Nonhuman intelligence (NHI)
     node_type: topic
     slug: nonhuman-intelligence-nhi
     shared_claims: 1
@@ -157,7 +157,7 @@ claims:
         title: Chuck Schumer
         slug: chuck-schumer
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
     date: null
     date_end: null

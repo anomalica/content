@@ -38,6 +38,11 @@ related_nodes:
     node_type: event
     slug: 1987-01-whitley-strieber-clearing-encounter-and-childhood-memory-regression
     shared_claims: 2
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: Artificial intelligence (AI)
+    node_type: topic
+    slug: artificial-intelligence-ai
+    shared_claims: 2
   - node_id: d6a4efbc-b3fe-4f0d-a800-1c02bcaf8c3c
     title: Church of Our Lady of Guadalupe, San Antonio
     node_type: object
@@ -47,11 +52,6 @@ related_nodes:
     title: USA, Wisconsin, Madison
     node_type: place
     slug: wisconsin-madison-usa
-    shared_claims: 2
-  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
-    title: artificial intelligence (AI )
-    node_type: topic
-    slug: artificial-intelligence-ai
     shared_claims: 2
   - node_id: d06a65fe-f529-4e01-9eb5-d2d72c1cffc5
     title: 1957 St. Anthony's School photograph memory
@@ -73,10 +73,20 @@ related_nodes:
     node_type: event
     slug: 1972-1973-san-antonio-small-figure-sighting
     shared_claims: 1
+  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+    title: Alien implant
+    node_type: topic
+    slug: alien-implant
+    shared_claims: 1
   - node_id: c975048c-479e-45fb-a679-07e841e7c2f6
     title: Battle of Flowers Parade
     node_type: event
     slug: battle-of-flowers-parade
+    shared_claims: 1
+  - node_id: 73ad5bb8-c3ed-4ecb-96a0-66dd4e819fe9
+    title: Childhood amnesia
+    node_type: topic
+    slug: childhood-amnesia
     shared_claims: 1
   - node_id: c55df851-e387-4fed-9a6e-df520a2ab031
     title: Karl Strieber
@@ -152,16 +162,6 @@ related_nodes:
     title: Whitley Strieber's alien implant
     node_type: object
     slug: whitley-striebers-alien-implant
-    shared_claims: 1
-  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-    title: alien implant
-    node_type: topic
-    slug: alien-implant
-    shared_claims: 1
-  - node_id: 73ad5bb8-c3ed-4ecb-96a0-66dd4e819fe9
-    title: childhood amnesia
-    node_type: topic
-    slug: childhood-amnesia
     shared_claims: 1
 claims:
   - claim_id: 75260e8a-e9b7-4227-81a8-62ddcad4e09b
@@ -902,7 +902,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
-        title: artificial intelligence (AI )
+        title: Artificial intelligence (AI)
         slug: artificial-intelligence-ai
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -943,7 +943,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
-        title: artificial intelligence (AI )
+        title: Artificial intelligence (AI)
         slug: artificial-intelligence-ai
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -996,7 +996,7 @@ claims:
         title: USA, Texas, San Antonio
         slug: texas-san-antonio-usa
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -1039,7 +1039,7 @@ claims:
         title: USA, Texas, San Antonio
         slug: texas-san-antonio-usa
       - node_id: 73ad5bb8-c3ed-4ecb-96a0-66dd4e819fe9
-        title: childhood amnesia
+        title: Childhood amnesia
         slug: childhood-amnesia
     date: 1987-01
     date_end: null

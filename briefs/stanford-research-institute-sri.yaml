@@ -78,6 +78,11 @@ related_nodes:
     node_type: topic
     slug: coordinate-remote-viewing
     shared_claims: 1
+  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+    title: Extrasensory perception (ESP)
+    node_type: topic
+    slug: extrasensory-perception-esp
+    shared_claims: 1
   - node_id: 563d955c-1f65-4030-bcf2-09543851e2a2
     title: Greg Molenaar
     node_type: person
@@ -127,11 +132,6 @@ related_nodes:
     title: Vince Dipietro
     node_type: person
     slug: vince-dipietro
-    shared_claims: 1
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    node_type: topic
-    slug: extrasensory-perception-esp
     shared_claims: 1
 claims:
   - claim_id: df72ab9c-594b-4c7f-aed0-926606b21c24
@@ -710,7 +710,7 @@ claims:
         title: Stanford Research Institute (SRI)
         slug: stanford-research-institute-sri
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: a3498c81-b42f-406d-b489-f4a2ea6d4d5f
         title: Stanford Research Institute psychic spy program

@@ -59,7 +59,7 @@ related_nodes:
     slug: ricci-torsion-dynamic-torsion
     shared_claims: 1
   - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
-    title: torsion field
+    title: Torsion field
     node_type: topic
     slug: torsion-field
     shared_claims: 1
@@ -126,7 +126,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
-        title: torsion field
+        title: Torsion field
         slug: torsion-field
       - node_id: d50d21e7-1f4c-41d9-b156-4b899624ffea
         title: René Descartes

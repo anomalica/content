@@ -54,7 +54,7 @@ related_nodes:
     slug: keith-rylance
     shared_claims: 19
   - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
+    title: Alien abduction
     node_type: topic
     slug: alien-abduction
     shared_claims: 17
@@ -103,6 +103,11 @@ related_nodes:
     node_type: event
     slug: 2001-gundiah-alien-abduction-case-october-4-5
     shared_claims: 7
+  - node_id: 17f4d90d-ea64-4696-818f-d0d11b10cf42
+    title: Invisible college of UFO researchers
+    node_type: organisation
+    slug: invisible-college-of-ufo-researchers
+    shared_claims: 6
   - node_id: 282e609b-4748-4538-8eb4-469f0b16a408
     title: Petra Heller
     node_type: person
@@ -112,11 +117,6 @@ related_nodes:
     title: Tuatha de Danann
     node_type: topic
     slug: tuatha-de-danann
-    shared_claims: 6
-  - node_id: 17f4d90d-ea64-4696-818f-d0d11b10cf42
-    title: invisible college of UFO researchers
-    node_type: organisation
-    slug: invisible-college-of-ufo-researchers
     shared_claims: 6
   - node_id: e6dc715c-1d32-466a-95bd-c071af60ecee
     title: 1992-05-13 Peter Khoury job site head injury
@@ -1349,7 +1349,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20a0e1ff-96bc-4d96-82ba-d0465d03f6d0
-        title: electromagnetic (EM) effects in UFO close encounters
+        title: Electromagnetic (EM) effects in UFO close encounters
         slug: electromagnetic-em-effects-in-ufo-close-encounters
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -1455,7 +1455,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -1495,7 +1495,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2043,7 +2043,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 17f4d90d-ea64-4696-818f-d0d11b10cf42
-        title: invisible college of UFO researchers
+        title: Invisible college of UFO researchers
         slug: invisible-college-of-ufo-researchers
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -2081,7 +2081,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 17f4d90d-ea64-4696-818f-d0d11b10cf42
-        title: invisible college of UFO researchers
+        title: Invisible college of UFO researchers
         slug: invisible-college-of-ufo-researchers
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -2121,13 +2121,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 17f4d90d-ea64-4696-818f-d0d11b10cf42
-        title: invisible college of UFO researchers
+        title: Invisible college of UFO researchers
         slug: invisible-college-of-ufo-researchers
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 8e513f45-1abf-4a03-a664-6a3e9fbddeb2
-        title: forbidden science
+        title: Forbidden science
         slug: forbidden-science
     date: null
     date_end: null
@@ -2266,7 +2266,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 17f4d90d-ea64-4696-818f-d0d11b10cf42
-        title: invisible college of UFO researchers
+        title: Invisible college of UFO researchers
         slug: invisible-college-of-ufo-researchers
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -2358,7 +2358,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2393,7 +2393,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2497,7 +2497,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: a789545b-0778-4fee-80fe-0741297014c2
-        title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
           (Phase One, hair shaft, 1998-1999)
         slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
       - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
@@ -2539,7 +2539,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3dfafb11-8bac-4b30-9475-4de1985294ea
-        title: genetic fingerprinting
+        title: Genetic fingerprinting
         slug: genetic-fingerprinting
       - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
         title: Peter Khoury alien abduction case
@@ -2653,10 +2653,10 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 94bd5682-cd3e-452d-b16f-1d5b0a9e8431
-        title: forensic crime-scene approach to alien abduction investigation
+        title: Forensic crime-scene approach to alien abduction investigation
         slug: forensic-crime-scene-approach-to-alien-abduction-investigation
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
         title: Peter Khoury alien abduction case
@@ -2765,7 +2765,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 17f4d90d-ea64-4696-818f-d0d11b10cf42
-        title: invisible college of UFO researchers
+        title: Invisible college of UFO researchers
         slug: invisible-college-of-ufo-researchers
       - node_id: 21c29dd2-c3c2-4c56-b32f-0c261bad9517
         title: Anomaly Physical Evidence Group (APEG)
@@ -2811,7 +2811,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 8e513f45-1abf-4a03-a664-6a3e9fbddeb2
-        title: forbidden science
+        title: Forbidden science
         slug: forbidden-science
     date: null
     date_end: null
@@ -2883,7 +2883,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 17f4d90d-ea64-4696-818f-d0d11b10cf42
-        title: invisible college of UFO researchers
+        title: Invisible college of UFO researchers
         slug: invisible-college-of-ufo-researchers
       - node_id: 21c29dd2-c3c2-4c56-b32f-0c261bad9517
         title: Anomaly Physical Evidence Group (APEG)
@@ -2999,7 +2999,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
-        title: mitochondrial Deoxyribonucleic Acid (DNA)
+        title: Mitochondrial Deoxyribonucleic Acid (DNA)
         slug: mitochondrial-deoxyribonucleic-acid-dna
       - node_id: 21c29dd2-c3c2-4c56-b32f-0c261bad9517
         title: Anomaly Physical Evidence Group (APEG)
@@ -3008,7 +3008,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -3048,7 +3048,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3163,7 +3163,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: a789545b-0778-4fee-80fe-0741297014c2
-        title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
           (Phase One, hair shaft, 1998-1999)
         slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
     date: '1998'
@@ -3201,7 +3201,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: a789545b-0778-4fee-80fe-0741297014c2
-        title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
           (Phase One, hair shaft, 1998-1999)
         slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
     date: null
@@ -3697,7 +3697,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -3781,7 +3781,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 706789c1-74d3-4cfd-b717-03569b88059b
-        title: murder of Peter Khoury's sister-in-law
+        title: Murder of Peter Khoury's sister-in-law
         slug: murder-of-peter-khourys-sister-in-law
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -4141,7 +4141,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 4c3ba358-2444-4642-90c1-116af2e2008e
-        title: young Queenslander's 1991 creature encounter and hair samples
+        title: Young Queenslander's 1991 creature encounter and hair samples
         slug: young-queenslanders-1991-creature-encounter-and-hair-samples
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -4421,7 +4421,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 4c3ba358-2444-4642-90c1-116af2e2008e
-        title: young Queenslander's 1991 creature encounter and hair samples
+        title: Young Queenslander's 1991 creature encounter and hair samples
         slug: young-queenslanders-1991-creature-encounter-and-hair-samples
       - node_id: ce2ed2ae-5963-4c62-92ee-fc193c65f424
         title: Phenomena Research Australia (PRA)
@@ -4616,7 +4616,7 @@ claims:
         title: Anomaly Physical Evidence Group (APEG)
         slug: anomaly-physical-evidence-group-apeg
       - node_id: 4c3ba358-2444-4642-90c1-116af2e2008e
-        title: young Queenslander's 1991 creature encounter and hair samples
+        title: Young Queenslander's 1991 creature encounter and hair samples
         slug: young-queenslanders-1991-creature-encounter-and-hair-samples
     date: null
     date_end: null
@@ -5866,7 +5866,7 @@ claims:
         title: 1992 McGhee/Dickeson taped interview with Peter Khoury
         slug: 1992-mcgheedickeson-taped-interview-with-peter-khoury
       - node_id: 706789c1-74d3-4cfd-b717-03569b88059b
-        title: murder of Peter Khoury's sister-in-law
+        title: Murder of Peter Khoury's sister-in-law
         slug: murder-of-peter-khourys-sister-in-law
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -5910,7 +5910,7 @@ claims:
         title: 1992 McGhee/Dickeson taped interview with Peter Khoury
         slug: 1992-mcgheedickeson-taped-interview-with-peter-khoury
       - node_id: 706789c1-74d3-4cfd-b717-03569b88059b
-        title: murder of Peter Khoury's sister-in-law
+        title: Murder of Peter Khoury's sister-in-law
         slug: murder-of-peter-khourys-sister-in-law
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -6426,7 +6426,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
-        title: gray alien stereotype
+        title: Gray alien stereotype
         slug: gray-alien-stereotype
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -7218,17 +7218,17 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
-        title: mitochondrial Deoxyribonucleic Acid (DNA)
+        title: Mitochondrial Deoxyribonucleic Acid (DNA)
         slug: mitochondrial-deoxyribonucleic-acid-dna
       - node_id: 146c1c05-7049-4a51-9fd5-46904a84e5d5
-        title: mitochondrial Deoxyribonucleic Acid (DNA) Polymerase Chain Reaction (PCR) profiling comparison of Mike Wood's
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) Polymerase Chain Reaction (PCR) profiling comparison of Mike Wood's
           daughter's hair sample against human consensus
         slug: mitochondrial-deoxyribonucleic-acid-dna-polymerase-chain-reaction-pcr-profiling-comparison-of-mike-woods-daughters-hair-sample-against-human-consensus
       - node_id: 3cd38fe6-f50f-407c-956b-ca5d4c844909
         title: Mike Wood's daughter
         slug: mike-woods-daughter
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: null
     date_end: null
@@ -7262,7 +7262,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
-        title: mitochondrial Deoxyribonucleic Acid (DNA)
+        title: Mitochondrial Deoxyribonucleic Acid (DNA)
         slug: mitochondrial-deoxyribonucleic-acid-dna
       - node_id: c46b674d-c1b2-403d-a6dd-ab3fc9932904
         title: Mike Wood's April 7, 2002 alleged alien encounter and hair recovery
@@ -7337,7 +7337,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
-        title: gray alien stereotype
+        title: Gray alien stereotype
         slug: gray-alien-stereotype
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -7488,7 +7488,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
-        title: gray alien stereotype
+        title: Gray alien stereotype
         slug: gray-alien-stereotype
     date: null
     date_end: null
@@ -7522,7 +7522,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
-        title: gray alien stereotype
+        title: Gray alien stereotype
         slug: gray-alien-stereotype
     date: null
     date_end: null
@@ -8360,10 +8360,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: b85eaf16-704a-492f-a86a-79c9ce7facc6
-        title: star children (phenomenon)
+        title: Star children (phenomenon)
         slug: star-children-phenomenon
       - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
         title: Vicki Klein
@@ -8438,7 +8438,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: b85eaf16-704a-492f-a86a-79c9ce7facc6
-        title: star children (phenomenon)
+        title: Star children (phenomenon)
         slug: star-children-phenomenon
       - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
         title: Vicki Klein
@@ -8686,7 +8686,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -8833,7 +8833,7 @@ claims:
         title: Budd Hopkins
         slug: budd-hopkins
       - node_id: ebcb116b-c0f5-47a1-a0fe-b5e05fb2c633
-        title: alien-human hybrid theory
+        title: Alien-human hybrid theory
         slug: alien-human-hybrid-theory
     date: null
     date_end: null
@@ -8945,7 +8945,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3951fc62-2ca9-4257-ab4e-7a423a90fc6c
-        title: feather foot spirits (Australian aboriginal lore)
+        title: Feather foot spirits (Australian aboriginal lore)
         slug: feather-foot-spirits-australian-aboriginal-lore
       - node_id: bfa0352e-922e-4607-91e8-c798b01e817d
         title: John Kernott
@@ -8984,7 +8984,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3951fc62-2ca9-4257-ab4e-7a423a90fc6c
-        title: feather foot spirits (Australian aboriginal lore)
+        title: Feather foot spirits (Australian aboriginal lore)
         slug: feather-foot-spirits-australian-aboriginal-lore
       - node_id: bfa0352e-922e-4607-91e8-c798b01e817d
         title: John Kernott
@@ -9489,7 +9489,7 @@ claims:
         title: Peter Khoury alien abduction case
         slug: peter-khoury-alien-abduction-case
       - node_id: d779b639-fa29-4da4-9657-2fa623efb853
-        title: delta-C-C chemokine receptor type 5 (CCR5) mutation
+        title: Delta-C-C chemokine receptor type 5 (CCR5) mutation
         slug: delta-c-c-chemokine-receptor-type-5-ccr5-mutation
       - node_id: e727aed8-9cb2-4e44-8d93-8a893629140c
         title: C-C chemokine receptor type 5 (CCR5) gene
@@ -9679,7 +9679,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
-        title: gray alien stereotype
+        title: Gray alien stereotype
         slug: gray-alien-stereotype
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -9837,7 +9837,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -10205,7 +10205,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -10246,7 +10246,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: f28ca005-7c30-4a55-afe9-24f352aa54fb
-        title: alien implants (phenomenon)
+        title: Alien implants (phenomenon)
         slug: alien-implants-phenomenon
     date: null
     date_end: null
@@ -10403,7 +10403,7 @@ claims:
         title: Betty Hill
         slug: betty-hill
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: 92a70f77-d5d2-4547-bc55-49a07cdd6b24
         title: Betty Hill's 1961 dress Deoxyribonucleic Acid (DNA) analysis
@@ -10517,10 +10517,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 94bd5682-cd3e-452d-b16f-1d5b0a9e8431
-        title: forensic crime-scene approach to alien abduction investigation
+        title: Forensic crime-scene approach to alien abduction investigation
         slug: forensic-crime-scene-approach-to-alien-abduction-investigation
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -10629,7 +10629,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -10663,7 +10663,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: b48a162a-0ad8-47f1-b41d-23c8f4f2cfb8
         title: UFO physical trace cases
@@ -11047,7 +11047,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 46a284ea-0a1b-4828-8e2a-bfcc470ac208
-        title: solid light phenomenon (UFO)
+        title: Solid light phenomenon (UFO)
         slug: solid-light-phenomenon-ufo
     date: null
     date_end: null
@@ -12731,7 +12731,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 46a284ea-0a1b-4828-8e2a-bfcc470ac208
-        title: solid light phenomenon (UFO)
+        title: Solid light phenomenon (UFO)
         slug: solid-light-phenomenon-ufo
     date: null
     date_end: null
@@ -12770,7 +12770,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 46a284ea-0a1b-4828-8e2a-bfcc470ac208
-        title: solid light phenomenon (UFO)
+        title: Solid light phenomenon (UFO)
         slug: solid-light-phenomenon-ufo
     date: null
     date_end: null
@@ -12839,7 +12839,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3dfafb11-8bac-4b30-9475-4de1985294ea
-        title: genetic fingerprinting
+        title: Genetic fingerprinting
         slug: genetic-fingerprinting
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -13229,7 +13229,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 993f3695-0fa6-4c29-85e1-5e14b6a1ddb2
-        title: alien abduction physical evidence
+        title: Alien abduction physical evidence
         slug: alien-abduction-physical-evidence
     date: null
     date_end: null
@@ -13354,7 +13354,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
-        title: gray alien stereotype
+        title: Gray alien stereotype
         slug: gray-alien-stereotype
       - node_id: 1b9339d2-39f0-4a42-8691-8b80b6958982
         title: Tuatha de Danann
@@ -13403,7 +13403,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -13482,7 +13482,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 839657bd-9e46-43f6-a59d-f2137bd4a9c1
-        title: sidh (Otherworld/fairy realm)
+        title: Sidh (Otherworld/fairy realm)
         slug: sidh-otherworldfairy-realm
     date: null
     date_end: null
@@ -13675,7 +13675,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -13712,7 +13712,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -13785,7 +13785,7 @@ claims:
         title: Deoxyribonucleic Acid (DNA) profiling
         slug: deoxyribonucleic-acid-dna-profiling
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -13820,7 +13820,7 @@ claims:
         title: Deoxyribonucleic Acid (DNA) profiling
         slug: deoxyribonucleic-acid-dna-profiling
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -13857,7 +13857,7 @@ claims:
         title: Deoxyribonucleic Acid (DNA) profiling
         slug: deoxyribonucleic-acid-dna-profiling
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -13890,7 +13890,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 993f3695-0fa6-4c29-85e1-5e14b6a1ddb2
-        title: alien abduction physical evidence
+        title: Alien abduction physical evidence
         slug: alien-abduction-physical-evidence
     date: null
     date_end: null
@@ -13924,7 +13924,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -13994,7 +13994,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -14095,13 +14095,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3424e224-1fe9-4dfc-bd30-168319f7f30a
-        title: non-Darwinian patterns hypothesis in human Deoxyribonucleic Acid (DNA)
+        title: Non-Darwinian patterns hypothesis in human Deoxyribonucleic Acid (DNA)
         slug: non-darwinian-patterns-hypothesis-in-human-deoxyribonucleic-acid-dna
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
         slug: bill-chalker
       - node_id: b636c9a1-e958-4f48-a639-450a7ab409f0
-        title: junk Deoxyribonucleic Acid (DNA)
+        title: Junk Deoxyribonucleic Acid (DNA)
         slug: junk-deoxyribonucleic-acid-dna
     date: null
     date_end: null
@@ -14138,7 +14138,7 @@ claims:
         title: Deoxyribonucleic Acid (DNA) profiling
         slug: deoxyribonucleic-acid-dna-profiling
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: null
     date_end: null
@@ -14177,7 +14177,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: d167e2ff-4f88-4b21-887e-8046a8ec44f1
-        title: pale blue dot
+        title: Pale blue dot
         slug: pale-blue-dot
     date: null
     date_end: null
@@ -14418,7 +14418,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -14760,10 +14760,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 4c3ba358-2444-4642-90c1-116af2e2008e
-        title: young Queenslander's 1991 creature encounter and hair samples
+        title: Young Queenslander's 1991 creature encounter and hair samples
         slug: young-queenslanders-1991-creature-encounter-and-hair-samples
       - node_id: 5f5e5a0a-bb0f-434d-b8ab-874fb87b0124
-        title: yowie (Australian cryptid)
+        title: Yowie (Australian cryptid)
         slug: yowie-australian-cryptid
       - node_id: ea3b7bc3-55b7-41ae-a2a6-e07ec3e8981d
         title: Phase Two hair root Deoxyribonucleic Acid (DNA) analysis of Peter Khoury's alien hair sample revealing Basque/Gaelic
@@ -14804,7 +14804,7 @@ claims:
         title: Kary Mullis
         slug: kary-mullis
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -16232,7 +16232,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -16277,7 +16277,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
         title: Peter Khoury alien abduction case
@@ -16553,7 +16553,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 5f5e5a0a-bb0f-434d-b8ab-874fb87b0124
-        title: yowie (Australian cryptid)
+        title: Yowie (Australian cryptid)
         slug: yowie-australian-cryptid
     date: null
     date_end: null
@@ -16589,10 +16589,10 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 8e513f45-1abf-4a03-a664-6a3e9fbddeb2
-        title: forbidden science
+        title: Forbidden science
         slug: forbidden-science
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -16820,7 +16820,7 @@ claims:
         title: Anomaly Physical Evidence Group (APEG)
         slug: anomaly-physical-evidence-group-apeg
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -16886,7 +16886,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
-        title: gray alien stereotype
+        title: Gray alien stereotype
         slug: gray-alien-stereotype
     date: null
     date_end: null
@@ -16920,7 +16920,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
-        title: gray alien stereotype
+        title: Gray alien stereotype
         slug: gray-alien-stereotype
     date: null
     date_end: null
@@ -17105,7 +17105,7 @@ claims:
         title: Kary Mullis
         slug: kary-mullis
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: fd0d4696-45b5-43d9-ad79-26df5acb4a6f
         title: Nobel Prize in Chemistry
@@ -17185,7 +17185,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: ffa1defa-13d3-4353-bbf3-8706f3fdb1d0
         title: Edmond Locard
@@ -17268,7 +17268,7 @@ claims:
         title: John O'Neill
         slug: john-oneill
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -17309,13 +17309,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 6f1d7102-1298-4638-ab0e-e4a1523d0e25
-        title: hypnagogic imagery
+        title: Hypnagogic imagery
         slug: hypnagogic-imagery
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -17353,13 +17353,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 6f1d7102-1298-4638-ab0e-e4a1523d0e25
-        title: hypnagogic imagery
+        title: Hypnagogic imagery
         slug: hypnagogic-imagery
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -17476,13 +17476,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -17519,13 +17519,13 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 94bd5682-cd3e-452d-b16f-1d5b0a9e8431
-        title: forensic crime-scene approach to alien abduction investigation
+        title: Forensic crime-scene approach to alien abduction investigation
         slug: forensic-crime-scene-approach-to-alien-abduction-investigation
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: 993f3695-0fa6-4c29-85e1-5e14b6a1ddb2
-        title: alien abduction physical evidence
+        title: Alien abduction physical evidence
         slug: alien-abduction-physical-evidence
     date: null
     date_end: null
@@ -18097,7 +18097,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null

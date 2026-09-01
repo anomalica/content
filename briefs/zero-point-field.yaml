@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 8e3eba30-1639-45f5-a0ef-e91c5a19332c
   node_type: topic
-  title: zero point field
+  title: Zero point field
   slug: zero-point-field
   claim_count: 3
   claim_count_total: 3
@@ -29,10 +29,15 @@ related_nodes:
     slug: chris-ramsay
     shared_claims: 2
   - node_id: 37dc77f1-fd1c-4332-81e6-c720d73fb654
-    title: quantum vacuum
+    title: Quantum vacuum
     node_type: topic
     slug: quantum-vacuum
     shared_claims: 2
+  - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
+    title: Dyadic model of consciousness (Mitchell)
+    node_type: topic
+    slug: dyadic-model-of-consciousness-mitchell
+    shared_claims: 1
   - node_id: 59476464-a679-46ce-9247-b0adcb287762
     title: Edgar Mitchell
     node_type: person
@@ -43,13 +48,8 @@ related_nodes:
     node_type: person
     slug: jason-quitt
     shared_claims: 1
-  - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
-    title: dyadic model of consciousness (Mitchell)
-    node_type: topic
-    slug: dyadic-model-of-consciousness-mitchell
-    shared_claims: 1
   - node_id: 2b677f65-d068-44a7-913d-aade288d1e62
-    title: samadhi
+    title: Samadhi
     node_type: topic
     slug: samadhi
     shared_claims: 1
@@ -75,16 +75,16 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2b677f65-d068-44a7-913d-aade288d1e62
-        title: samadhi
+        title: Samadhi
         slug: samadhi
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
-        title: dyadic model of consciousness (Mitchell)
+        title: Dyadic model of consciousness (Mitchell)
         slug: dyadic-model-of-consciousness-mitchell
       - node_id: 8e3eba30-1639-45f5-a0ef-e91c5a19332c
-        title: zero point field
+        title: Zero point field
         slug: zero-point-field
     date: null
     date_end: null
@@ -121,10 +121,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 37dc77f1-fd1c-4332-81e6-c720d73fb654
-        title: quantum vacuum
+        title: Quantum vacuum
         slug: quantum-vacuum
       - node_id: 8e3eba30-1639-45f5-a0ef-e91c5a19332c
-        title: zero point field
+        title: Zero point field
         slug: zero-point-field
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
@@ -165,10 +165,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 37dc77f1-fd1c-4332-81e6-c720d73fb654
-        title: quantum vacuum
+        title: Quantum vacuum
         slug: quantum-vacuum
       - node_id: 8e3eba30-1639-45f5-a0ef-e91c5a19332c
-        title: zero point field
+        title: Zero point field
         slug: zero-point-field
     date: null
     date_end: null

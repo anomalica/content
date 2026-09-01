@@ -24,7 +24,7 @@ belonging:
   unreviewed: 17
 related_nodes:
   - node_id: b2e86343-c60f-450e-876d-cad999d3b50b
-    title: self-replicating machines (von Neumann probes)
+    title: Self-replicating machines (von Neumann probes)
     node_type: topic
     slug: self-replicating-machines-von-neumann-probes
     shared_claims: 4
@@ -78,6 +78,11 @@ related_nodes:
     node_type: topic
     slug: non-human-intelligence
     shared_claims: 1
+  - node_id: f4d3da13-18bf-413b-9b69-d9f5fa6196ba
+    title: Quantum indeterminacy
+    node_type: topic
+    slug: quantum-indeterminacy
+    shared_claims: 1
   - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
     title: Roswell incident (1947)
     node_type: event
@@ -87,11 +92,6 @@ related_nodes:
     title: William Steinman
     node_type: person
     slug: william-steinman
-    shared_claims: 1
-  - node_id: f4d3da13-18bf-413b-9b69-d9f5fa6196ba
-    title: quantum indeterminacy
-    node_type: topic
-    slug: quantum-indeterminacy
     shared_claims: 1
 claims:
   - claim_id: aa8c130e-d1e0-41fa-b2ab-3a6c89d9079c
@@ -177,7 +177,7 @@ claims:
         title: John von Neumann
         slug: john-von-neumann
       - node_id: b2e86343-c60f-450e-876d-cad999d3b50b
-        title: self-replicating machines (von Neumann probes)
+        title: Self-replicating machines (von Neumann probes)
         slug: self-replicating-machines-von-neumann-probes
     date: null
     date_end: null
@@ -215,7 +215,7 @@ claims:
         title: John von Neumann
         slug: john-von-neumann
       - node_id: b2e86343-c60f-450e-876d-cad999d3b50b
-        title: self-replicating machines (von Neumann probes)
+        title: Self-replicating machines (von Neumann probes)
         slug: self-replicating-machines-von-neumann-probes
     date: null
     date_end: null
@@ -254,7 +254,7 @@ claims:
         title: John von Neumann
         slug: john-von-neumann
       - node_id: b2e86343-c60f-450e-876d-cad999d3b50b
-        title: self-replicating machines (von Neumann probes)
+        title: Self-replicating machines (von Neumann probes)
         slug: self-replicating-machines-von-neumann-probes
     date: null
     date_end: null
@@ -292,7 +292,7 @@ claims:
         title: John von Neumann
         slug: john-von-neumann
       - node_id: b2e86343-c60f-450e-876d-cad999d3b50b
-        title: self-replicating machines (von Neumann probes)
+        title: Self-replicating machines (von Neumann probes)
         slug: self-replicating-machines-von-neumann-probes
     date: null
     date_end: null
@@ -710,7 +710,7 @@ claims:
         title: John von Neumann
         slug: john-von-neumann
       - node_id: f4d3da13-18bf-413b-9b69-d9f5fa6196ba
-        title: quantum indeterminacy
+        title: Quantum indeterminacy
         slug: quantum-indeterminacy
     date: null
     date_end: null

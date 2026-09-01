@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
   node_type: topic
-  title: telepathy
+  title: Telepathy
   slug: telepathy
   claim_count: 66
   claim_count_total: 66
@@ -39,7 +39,7 @@ related_nodes:
     slug: greys-extraterrestrial-beings
     shared_claims: 7
   - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-    title: levitation
+    title: Levitation
     node_type: topic
     slug: levitation
     shared_claims: 6
@@ -48,15 +48,15 @@ related_nodes:
     node_type: person
     slug: chris-ramsay
     shared_claims: 4
+  - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+    title: Clairvoyance
+    node_type: topic
+    slug: clairvoyance
+    shared_claims: 4
   - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
     title: Whitley Strieber
     node_type: person
     slug: whitley-strieber
-    shared_claims: 4
-  - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-    title: clairvoyance
-    node_type: topic
-    slug: clairvoyance
     shared_claims: 4
   - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
     title: David Charles Grusch
@@ -68,6 +68,21 @@ related_nodes:
     node_type: topic
     slug: precognition
     shared_claims: 3
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 2
+  - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
+    title: Drop-in communicators
+    node_type: topic
+    slug: drop-in-communicators
+    shared_claims: 2
+  - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
+    title: Human-alien hybrid children
+    node_type: topic
+    slug: human-alien-hybrid-children
+    shared_claims: 2
   - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
     title: Jason Quitt
     node_type: person
@@ -93,10 +108,20 @@ related_nodes:
     node_type: topic
     slug: lucid-dreaming
     shared_claims: 2
+  - node_id: f08db58b-2467-498c-87c9-98f26a367ca4
+    title: Neurodivergence
+    node_type: topic
+    slug: neurodivergence
+    shared_claims: 2
   - node_id: 19247384-509d-492b-8701-0f0894424c86
     title: Peter Curry
     node_type: person
     slug: peter-curry
+    shared_claims: 2
+  - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
+    title: Psi
+    node_type: topic
+    slug: psi
     shared_claims: 2
   - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
     title: Reverse engineering of recovered craft of non-human origin
@@ -108,70 +133,45 @@ related_nodes:
     node_type: person
     slug: runolfur-runolfsson-runki
     shared_claims: 2
-  - node_id: 4a5f3ce6-bc0b-4064-b849-498204e1f76a
-    title: Younger Dryas
-    node_type: event
-    slug: younger-dryas
-    shared_claims: 2
-  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
-    node_type: topic
-    slug: alien-abduction
-    shared_claims: 2
-  - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-    title: drop-in communicators
-    node_type: topic
-    slug: drop-in-communicators
-    shared_claims: 2
-  - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-    title: human-alien hybrid children
-    node_type: topic
-    slug: human-alien-hybrid-children
-    shared_claims: 2
-  - node_id: f08db58b-2467-498c-87c9-98f26a367ca4
-    title: neurodivergence
-    node_type: topic
-    slug: neurodivergence
-    shared_claims: 2
-  - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
-    title: psi
-    node_type: topic
-    slug: psi
-    shared_claims: 2
   - node_id: 29648d49-595f-4908-84b7-17578cbe98f8
-    title: siddhis (Hindu/Buddhist accomplishments)
+    title: Siddhis (Hindu/Buddhist accomplishments)
     node_type: topic
     slug: siddhis-hindubuddhist-accomplishments
     shared_claims: 2
   - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-    title: survival hypothesis
+    title: Survival hypothesis
     node_type: topic
     slug: survival-hypothesis
+    shared_claims: 2
+  - node_id: 4a5f3ce6-bc0b-4064-b849-498204e1f76a
+    title: Younger Dryas
+    node_type: event
+    slug: younger-dryas
     shared_claims: 2
   - node_id: b65a228b-8581-437c-a083-670590b31c40
     title: Alan Gauld
     node_type: person
     slug: alan-gauld
     shared_claims: 1
+  - node_id: 6868042d-2525-4808-96f4-d74c1c3522da
+    title: Alien-human hybridisation programme
+    node_type: topic
+    slug: alien-human-hybridisation-programme
+    shared_claims: 1
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: Artificial intelligence (AI)
+    node_type: topic
+    slug: artificial-intelligence-ai
+    shared_claims: 1
   - node_id: fdcdc179-deb6-421b-b4b1-af7c00e2759f
     title: Asket
     node_type: person
     slug: asket
     shared_claims: 1
-  - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
-    title: Billy Meier
-    node_type: person
-    slug: billy-meier
-    shared_claims: 1
-  - node_id: f8672e85-d1fc-4723-ba59-f2dd6a60d97b
-    title: Billy Meier and Asket Giza pyramid visit
-    node_type: event
-    slug: billy-meier-and-asket-giza-pyramid-visit
-    shared_claims: 1
-  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
-    title: Chris
-    node_type: person
-    slug: chris
+  - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
+    title: Astral projection
+    node_type: topic
+    slug: astral-projection
     shared_claims: 1
 claims:
   - claim_id: aed3d643-7c1a-4300-88c8-2a4226d16fb1
@@ -195,16 +195,16 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-        title: clairvoyance
+        title: Clairvoyance
         slug: clairvoyance
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: b0a1c36b-e9d1-4629-aa6d-5e95333b7b3c
         title: High Sense Perception
         slug: high-sense-perception
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -236,10 +236,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30a29dde-52a4-4213-84ab-4401e00c2a06
-        title: mental mediumship
+        title: Mental mediumship
         slug: mental-mediumship
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -275,19 +275,19 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-        title: drop-in communicators
+        title: Drop-in communicators
         slug: drop-in-communicators
       - node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
         title: Runolfur Runolfsson ("Runki")
         slug: runolfur-runolfsson-runki
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-        title: clairvoyance
+        title: Clairvoyance
         slug: clairvoyance
       - node_id: b65a228b-8581-437c-a083-670590b31c40
         title: Alan Gauld
         slug: alan-gauld
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -324,7 +324,7 @@ claims:
         title: Runolfur Runolfsson ("Runki")
         slug: runolfur-runolfsson-runki
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -360,13 +360,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-        title: clairvoyance
+        title: Clairvoyance
         slug: clairvoyance
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
       - node_id: ec85bfdd-0899-4aa9-b790-b91008022037
-        title: super-Extrasensory Perception (ESP) hypothesis
+        title: Super-Extrasensory Perception (ESP) hypothesis
         slug: super-extrasensory-perception-esp-hypothesis
     date: null
     date_end: null
@@ -406,7 +406,7 @@ claims:
         title: Leslie Kean
         slug: leslie-kean
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -440,7 +440,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
-        title: perceptual insertion
+        title: Perceptual insertion
         slug: perceptual-insertion
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -449,7 +449,7 @@ claims:
         title: Loyd Auerbach
         slug: loyd-auerbach
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -493,7 +493,7 @@ claims:
         title: Chris
         slug: chris
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -529,16 +529,16 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-        title: drop-in communicators
+        title: Drop-in communicators
         slug: drop-in-communicators
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-        title: clairvoyance
+        title: Clairvoyance
         slug: clairvoyance
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -576,16 +576,16 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 089c8f3a-c5fe-405d-a8ce-5df9e3951691
-        title: somatic psi (living-agent psi)
+        title: Somatic psi (living-agent psi)
         slug: somatic-psi-living-agent-psi
       - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-        title: materialization (mediumship phenomenon)
+        title: Materialization (mediumship phenomenon)
         slug: materialization-mediumship-phenomenon
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
         slug: leslie-kean
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -625,7 +625,7 @@ claims:
         title: Stephen Braude
         slug: stephen-braude
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: '1970'
     date_end: null
@@ -656,7 +656,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -690,13 +690,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 66df6be3-9190-4aa9-9a1c-ef19bb90f070
         title: Living-Agent Psi (LAP) hypothesis
         slug: living-agent-psi-lap-hypothesis
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -730,7 +730,7 @@ claims:
         title: Living-Agent Psi (LAP) hypothesis
         slug: living-agent-psi-lap-hypothesis
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -771,7 +771,7 @@ claims:
         title: Graham Nichols
         slug: graham-nichols
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -806,13 +806,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 827297d5-f5db-49e5-b2ce-232ea3832060
-        title: autism (condition)
+        title: Autism (condition)
         slug: autism-condition
       - node_id: 9dcffb78-e369-43ca-a23a-7240173d60ba
         title: Diane Hennacy Powell
         slug: diane-hennacy-powell
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -844,7 +844,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -882,7 +882,7 @@ claims:
         title: Klinefelter syndrome
         slug: klinefelter-syndrome
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -916,7 +916,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -952,7 +952,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -988,7 +988,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1023,10 +1023,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1060,13 +1060,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 29648d49-595f-4908-84b7-17578cbe98f8
-        title: siddhis (Hindu/Buddhist accomplishments)
+        title: Siddhis (Hindu/Buddhist accomplishments)
         slug: siddhis-hindubuddhist-accomplishments
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1098,13 +1098,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 29648d49-595f-4908-84b7-17578cbe98f8
-        title: siddhis (Hindu/Buddhist accomplishments)
+        title: Siddhis (Hindu/Buddhist accomplishments)
         slug: siddhis-hindubuddhist-accomplishments
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1138,7 +1138,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1175,7 +1175,7 @@ claims:
         title: Younger Dryas
         slug: younger-dryas
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1208,10 +1208,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8b42ec00-bc4a-45cc-bdfa-f2d7d9932bfb
-        title: pineal gland and the third eye
+        title: Pineal gland and the third eye
         slug: pineal-gland-and-the-third-eye
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1246,10 +1246,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1284,13 +1284,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: bf9f4a9f-3b21-4631-bd55-6d2652f1db4e
-        title: vashitva (mind-control siddhi)
+        title: Vashitva (mind-control siddhi)
         slug: vashitva-mind-control-siddhi
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1325,7 +1325,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1359,10 +1359,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1396,7 +1396,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1433,7 +1433,7 @@ claims:
         title: Younger Dryas
         slug: younger-dryas
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1467,7 +1467,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1502,7 +1502,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1534,7 +1534,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -1543,7 +1543,7 @@ claims:
         title: To the Stars Academy of Arts and Science (TTSA)
         slug: to-the-stars-academy-of-arts-and-science-ttsa
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1579,10 +1579,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
       - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
-        title: screen memory
+        title: Screen memory
         slug: screen-memory
     date: null
     date_end: null
@@ -1620,7 +1620,7 @@ claims:
         title: Erik Nanstiel 2020 garage grey encounter
         slug: erik-nanstiel-2020-garage-grey-encounter
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1658,7 +1658,7 @@ claims:
         title: Greys (extraterrestrial beings)
         slug: greys-extraterrestrial-beings
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1695,7 +1695,7 @@ claims:
         title: Greys (extraterrestrial beings)
         slug: greys-extraterrestrial-beings
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1727,7 +1727,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1767,7 +1767,7 @@ claims:
         title: Greys (extraterrestrial beings)
         slug: greys-extraterrestrial-beings
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1804,10 +1804,10 @@ claims:
         title: Greys (extraterrestrial beings)
         slug: greys-extraterrestrial-beings
       - node_id: 6868042d-2525-4808-96f4-d74c1c3522da
-        title: alien-human hybridisation programme
+        title: Alien-human hybridisation programme
         slug: alien-human-hybridisation-programme
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1845,7 +1845,7 @@ claims:
         title: Greys (extraterrestrial beings)
         slug: greys-extraterrestrial-beings
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1884,7 +1884,7 @@ claims:
         title: Greys (extraterrestrial beings)
         slug: greys-extraterrestrial-beings
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1918,7 +1918,7 @@ claims:
         title: Erik Nanstiel
         slug: erik-nanstiel
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1952,7 +1952,7 @@ claims:
         title: Erik Nanstiel
         slug: erik-nanstiel
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1984,7 +1984,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -2021,7 +2021,7 @@ claims:
         title: Billy Meier
         slug: billy-meier
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
       - node_id: f8672e85-d1fc-4723-ba59-f2dd6a60d97b
         title: Billy Meier and Asket Giza pyramid visit
@@ -2064,7 +2064,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -2098,10 +2098,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 6823d7df-50a7-4a07-83c6-9523db1bacf7
-        title: channelling
+        title: Channelling
         slug: channelling
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
@@ -2110,7 +2110,7 @@ claims:
         title: Lucid Dreaming
         slug: lucid-dreaming
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -2151,10 +2151,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-        title: human-alien hybrid children
+        title: Human-alien hybrid children
         slug: human-alien-hybrid-children
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -2194,10 +2194,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-        title: human-alien hybrid children
+        title: Human-alien hybrid children
         slug: human-alien-hybrid-children
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -2238,7 +2238,7 @@ claims:
         title: Lucid Dreaming
         slug: lucid-dreaming
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -2277,7 +2277,7 @@ claims:
         title: Reverse engineering of recovered craft of non-human origin
         slug: reverse-engineering-of-recovered-craft-of-non-human-origin
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch
@@ -2318,7 +2318,7 @@ claims:
         title: Reverse engineering of recovered craft of non-human origin
         slug: reverse-engineering-of-recovered-craft-of-non-human-origin
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch
@@ -2354,7 +2354,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch
@@ -2393,16 +2393,16 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: informational substrate
+        title: Informational substrate
         slug: informational-substrate
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
       - node_id: f08db58b-2467-498c-87c9-98f26a367ca4
-        title: neurodivergence
+        title: Neurodivergence
         slug: neurodivergence
     date: null
     date_end: null
@@ -2440,10 +2440,10 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
       - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
-        title: psi
+        title: Psi
         slug: psi
     date: null
     date_end: null
@@ -2478,13 +2478,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7856e46b-4c17-471d-91f5-d7c1bb3315df
-        title: no-signalling theorem
+        title: No-signalling theorem
         slug: no-signalling-theorem
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -2521,10 +2521,10 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: be3bc9ad-43db-4515-8c79-f5c22b46af9b
-        title: quantum entanglement
+        title: Quantum entanglement
         slug: quantum-entanglement
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -2558,13 +2558,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
-        title: artificial intelligence (AI )
+        title: Artificial intelligence (AI)
         slug: artificial-intelligence-ai
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -2601,10 +2601,10 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
       - node_id: f08db58b-2467-498c-87c9-98f26a367ca4
-        title: neurodivergence
+        title: Neurodivergence
         slug: neurodivergence
     date: null
     date_end: null
@@ -2641,10 +2641,10 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
       - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
-        title: psi
+        title: Psi
         slug: psi
     date: null
     date_end: null
@@ -2679,10 +2679,10 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -2723,7 +2723,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null

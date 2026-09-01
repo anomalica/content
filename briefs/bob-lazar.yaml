@@ -128,6 +128,11 @@ related_nodes:
     node_type: person
     slug: billy-meier
     shared_claims: 1
+  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+    title: Crash retrieval and reverse engineering
+    node_type: topic
+    slug: crash-retrieval-and-reverse-engineering
+    shared_claims: 1
   - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
     title: David Grush
     node_type: person
@@ -167,11 +172,6 @@ related_nodes:
     title: Lockheed Martin
     node_type: organisation
     slug: lockheed-martin
-    shared_claims: 1
-  - node_id: da72c89a-3ef6-4eb5-ba52-c314bdbb52db
-    title: Looking Glass (briefing)
-    node_type: document
-    slug: looking-glass-briefing
     shared_claims: 1
 claims:
   - claim_id: 6d13b0a4-ea20-4bf0-a24b-eb0809772e0c
@@ -3669,7 +3669,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
       - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
         title: Bob Lazar
@@ -3706,7 +3706,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 469acb99-5f7f-499c-b8c3-6a20bb5a0790
-        title: the soul
+        title: The soul
         slug: the-soul
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence

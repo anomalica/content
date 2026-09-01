@@ -83,15 +83,15 @@ related_nodes:
     node_type: place
     slug: new-south-wales-sydney-australia
     shared_claims: 13
+  - node_id: 81199802-f495-4b1c-9d09-8286233bc400
+    title: Egg-shaped silver craft (Lebanon rooftop encounter)
+    node_type: object
+    slug: egg-shaped-silver-craft-lebanon-rooftop-encounter
+    shared_claims: 12
   - node_id: 889b15c2-b882-43ce-bc97-e3a4d77e3a1e
     title: Peter Khoury's 1996 bedroom mirror experience
     node_type: object
     slug: peter-khourys-1996-bedroom-mirror-experience
-    shared_claims: 12
-  - node_id: 81199802-f495-4b1c-9d09-8286233bc400
-    title: egg-shaped silver craft (Lebanon rooftop encounter)
-    node_type: object
-    slug: egg-shaped-silver-craft-lebanon-rooftop-encounter
     shared_claims: 12
   - node_id: 07a7ada7-b1b3-41e2-a8e9-fff63e8e198f
     title: Moira McGhee
@@ -104,7 +104,7 @@ related_nodes:
     slug: michael-khoury-family-neighbor
     shared_claims: 10
   - node_id: a789545b-0778-4fee-80fe-0741297014c2
-    title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample (Phase
+    title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample (Phase
       One, hair shaft, 1998-1999)
     node_type: event
     slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
@@ -2102,7 +2102,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 17f4d90d-ea64-4696-818f-d0d11b10cf42
-        title: invisible college of UFO researchers
+        title: Invisible college of UFO researchers
         slug: invisible-college-of-ufo-researchers
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -2189,7 +2189,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: a789545b-0778-4fee-80fe-0741297014c2
-        title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
           (Phase One, hair shaft, 1998-1999)
         slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
     date: null
@@ -2301,7 +2301,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: a789545b-0778-4fee-80fe-0741297014c2
-        title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
           (Phase One, hair shaft, 1998-1999)
         slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
     date: null
@@ -2493,7 +2493,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: a789545b-0778-4fee-80fe-0741297014c2
-        title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
           (Phase One, hair shaft, 1998-1999)
         slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
       - node_id: abaa3069-f12f-4aec-b1f2-243308ea2e25
@@ -2792,7 +2792,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
-        title: mitochondrial Deoxyribonucleic Acid (DNA)
+        title: Mitochondrial Deoxyribonucleic Acid (DNA)
         slug: mitochondrial-deoxyribonucleic-acid-dna
       - node_id: 21c29dd2-c3c2-4c56-b32f-0c261bad9517
         title: Anomaly Physical Evidence Group (APEG)
@@ -2801,7 +2801,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -2919,7 +2919,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: a789545b-0778-4fee-80fe-0741297014c2
-        title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
           (Phase One, hair shaft, 1998-1999)
         slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
     date: '1998'
@@ -2957,7 +2957,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: a789545b-0778-4fee-80fe-0741297014c2
-        title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
           (Phase One, hair shaft, 1998-1999)
         slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
     date: null
@@ -3101,7 +3101,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: a789545b-0778-4fee-80fe-0741297014c2
-        title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
           (Phase One, hair shaft, 1998-1999)
         slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
     date: null
@@ -3448,7 +3448,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -3532,7 +3532,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 706789c1-74d3-4cfd-b717-03569b88059b
-        title: murder of Peter Khoury's sister-in-law
+        title: Murder of Peter Khoury's sister-in-law
         slug: murder-of-peter-khourys-sister-in-law
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -5115,7 +5115,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 4c3ba358-2444-4642-90c1-116af2e2008e
-        title: young Queenslander's 1991 creature encounter and hair samples
+        title: Young Queenslander's 1991 creature encounter and hair samples
         slug: young-queenslanders-1991-creature-encounter-and-hair-samples
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -5491,7 +5491,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 4c3ba358-2444-4642-90c1-116af2e2008e
-        title: young Queenslander's 1991 creature encounter and hair samples
+        title: Young Queenslander's 1991 creature encounter and hair samples
         slug: young-queenslanders-1991-creature-encounter-and-hair-samples
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -5800,7 +5800,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 4c3ba358-2444-4642-90c1-116af2e2008e
-        title: young Queenslander's 1991 creature encounter and hair samples
+        title: Young Queenslander's 1991 creature encounter and hair samples
         slug: young-queenslanders-1991-creature-encounter-and-hair-samples
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -6719,7 +6719,7 @@ claims:
         title: Anomaly Physical Evidence Group (APEG)
         slug: anomaly-physical-evidence-group-apeg
       - node_id: 4c3ba358-2444-4642-90c1-116af2e2008e
-        title: young Queenslander's 1991 creature encounter and hair samples
+        title: Young Queenslander's 1991 creature encounter and hair samples
         slug: young-queenslanders-1991-creature-encounter-and-hair-samples
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -7660,7 +7660,7 @@ claims:
         title: 1992 McGhee/Dickeson taped interview with Peter Khoury
         slug: 1992-mcgheedickeson-taped-interview-with-peter-khoury
       - node_id: 706789c1-74d3-4cfd-b717-03569b88059b
-        title: murder of Peter Khoury's sister-in-law
+        title: Murder of Peter Khoury's sister-in-law
         slug: murder-of-peter-khourys-sister-in-law
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -7695,7 +7695,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 706789c1-74d3-4cfd-b717-03569b88059b
-        title: murder of Peter Khoury's sister-in-law
+        title: Murder of Peter Khoury's sister-in-law
         slug: murder-of-peter-khourys-sister-in-law
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -7739,7 +7739,7 @@ claims:
         title: 1992 McGhee/Dickeson taped interview with Peter Khoury
         slug: 1992-mcgheedickeson-taped-interview-with-peter-khoury
       - node_id: 706789c1-74d3-4cfd-b717-03569b88059b
-        title: murder of Peter Khoury's sister-in-law
+        title: Murder of Peter Khoury's sister-in-law
         slug: murder-of-peter-khourys-sister-in-law
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -9059,7 +9059,7 @@ claims:
         title: Peter Khoury alien abduction case
         slug: peter-khoury-alien-abduction-case
       - node_id: d779b639-fa29-4da4-9657-2fa623efb853
-        title: delta-C-C chemokine receptor type 5 (CCR5) mutation
+        title: Delta-C-C chemokine receptor type 5 (CCR5) mutation
         slug: delta-c-c-chemokine-receptor-type-5-ccr5-mutation
       - node_id: e727aed8-9cb2-4e44-8d93-8a893629140c
         title: C-C chemokine receptor type 5 (CCR5) gene
@@ -9336,7 +9336,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: a789545b-0778-4fee-80fe-0741297014c2
-        title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
           (Phase One, hair shaft, 1998-1999)
         slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
     date: null
@@ -9372,7 +9372,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -9414,7 +9414,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1d438ee6-e7e6-441f-bc37-fc70f605e874
-        title: heteroplasmy
+        title: Heteroplasmy
         slug: heteroplasmy
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -10411,7 +10411,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: a789545b-0778-4fee-80fe-0741297014c2
-        title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
           (Phase One, hair shaft, 1998-1999)
         slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
     date: '1998'
@@ -10547,7 +10547,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: a789545b-0778-4fee-80fe-0741297014c2
-        title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
           (Phase One, hair shaft, 1998-1999)
         slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
       - node_id: bc2f053f-e64f-43b5-8277-1d8036baf9f6
@@ -10935,7 +10935,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
-        title: mitochondrial Deoxyribonucleic Acid (DNA)
+        title: Mitochondrial Deoxyribonucleic Acid (DNA)
         slug: mitochondrial-deoxyribonucleic-acid-dna
       - node_id: 561a0780-b8e4-443b-a1ad-db626660ed6b
         title: Chinese Mongoloid mitochondrial Deoxyribonucleic Acid (DNA) substitution found in Peter Khoury's alien hair
@@ -10976,7 +10976,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: a789545b-0778-4fee-80fe-0741297014c2
-        title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
           (Phase One, hair shaft, 1998-1999)
         slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
     date: null
@@ -11084,7 +11084,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 59b22720-4888-479b-b83a-b0ec6b1e0c43
-        title: smallpox
+        title: Smallpox
         slug: smallpox
       - node_id: 688b58a2-e2aa-4c9e-bf9b-6ded0a5d2d4a
         title: Polymerase Chain Reaction (PCR) test for nuclear C-C chemokine receptor type 5 (CCR5) gene deletion in Peter
@@ -11097,7 +11097,7 @@ claims:
         title: Human Immunodeficiency Virus (HIV)
         slug: human-immunodeficiency-virus-hiv
       - node_id: d779b639-fa29-4da4-9657-2fa623efb853
-        title: delta-C-C chemokine receptor type 5 (CCR5) mutation
+        title: Delta-C-C chemokine receptor type 5 (CCR5) mutation
         slug: delta-c-c-chemokine-receptor-type-5-ccr5-mutation
     date: null
     date_end: null
@@ -11175,7 +11175,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: d779b639-fa29-4da4-9657-2fa623efb853
-        title: delta-C-C chemokine receptor type 5 (CCR5) mutation
+        title: Delta-C-C chemokine receptor type 5 (CCR5) mutation
         slug: delta-c-c-chemokine-receptor-type-5-ccr5-mutation
     date: null
     date_end: null
@@ -11450,7 +11450,7 @@ claims:
         title: Kary Mullis
         slug: kary-mullis
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -11603,7 +11603,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -11721,7 +11721,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5f5e5a0a-bb0f-434d-b8ab-874fb87b0124
-        title: yowie (Australian cryptid)
+        title: Yowie (Australian cryptid)
         slug: yowie-australian-cryptid
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -11758,7 +11758,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
-        title: mitochondrial Deoxyribonucleic Acid (DNA)
+        title: Mitochondrial Deoxyribonucleic Acid (DNA)
         slug: mitochondrial-deoxyribonucleic-acid-dna
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -12494,7 +12494,7 @@ claims:
         title: John O'Neill
         slug: john-oneill
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -12538,7 +12538,7 @@ claims:
         title: John O'Neill
         slug: john-oneill
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -12578,7 +12578,7 @@ claims:
         title: John O'Neill
         slug: john-oneill
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -12619,13 +12619,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 6f1d7102-1298-4638-ab0e-e4a1523d0e25
-        title: hypnagogic imagery
+        title: Hypnagogic imagery
         slug: hypnagogic-imagery
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -12663,13 +12663,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 6f1d7102-1298-4638-ab0e-e4a1523d0e25
-        title: hypnagogic imagery
+        title: Hypnagogic imagery
         slug: hypnagogic-imagery
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -15747,7 +15747,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -17263,7 +17263,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -18192,7 +18192,7 @@ claims:
         title: 1972 Lebanon rooftop egg-shaped craft encounter
         slug: 1972-lebanon-rooftop-egg-shaped-craft-encounter
       - node_id: 81199802-f495-4b1c-9d09-8286233bc400
-        title: egg-shaped silver craft (Lebanon rooftop encounter)
+        title: Egg-shaped silver craft (Lebanon rooftop encounter)
         slug: egg-shaped-silver-craft-lebanon-rooftop-encounter
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -18335,7 +18335,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 81199802-f495-4b1c-9d09-8286233bc400
-        title: egg-shaped silver craft (Lebanon rooftop encounter)
+        title: Egg-shaped silver craft (Lebanon rooftop encounter)
         slug: egg-shaped-silver-craft-lebanon-rooftop-encounter
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -18372,7 +18372,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 81199802-f495-4b1c-9d09-8286233bc400
-        title: egg-shaped silver craft (Lebanon rooftop encounter)
+        title: Egg-shaped silver craft (Lebanon rooftop encounter)
         slug: egg-shaped-silver-craft-lebanon-rooftop-encounter
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -18409,7 +18409,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 81199802-f495-4b1c-9d09-8286233bc400
-        title: egg-shaped silver craft (Lebanon rooftop encounter)
+        title: Egg-shaped silver craft (Lebanon rooftop encounter)
         slug: egg-shaped-silver-craft-lebanon-rooftop-encounter
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -18518,7 +18518,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 81199802-f495-4b1c-9d09-8286233bc400
-        title: egg-shaped silver craft (Lebanon rooftop encounter)
+        title: Egg-shaped silver craft (Lebanon rooftop encounter)
         slug: egg-shaped-silver-craft-lebanon-rooftop-encounter
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -18557,7 +18557,7 @@ claims:
         title: 1972 Lebanon rooftop egg-shaped craft encounter
         slug: 1972-lebanon-rooftop-egg-shaped-craft-encounter
       - node_id: 81199802-f495-4b1c-9d09-8286233bc400
-        title: egg-shaped silver craft (Lebanon rooftop encounter)
+        title: Egg-shaped silver craft (Lebanon rooftop encounter)
         slug: egg-shaped-silver-craft-lebanon-rooftop-encounter
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -18630,7 +18630,7 @@ claims:
         title: 1972 Lebanon rooftop egg-shaped craft encounter
         slug: 1972-lebanon-rooftop-egg-shaped-craft-encounter
       - node_id: 81199802-f495-4b1c-9d09-8286233bc400
-        title: egg-shaped silver craft (Lebanon rooftop encounter)
+        title: Egg-shaped silver craft (Lebanon rooftop encounter)
         slug: egg-shaped-silver-craft-lebanon-rooftop-encounter
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -18667,7 +18667,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 81199802-f495-4b1c-9d09-8286233bc400
-        title: egg-shaped silver craft (Lebanon rooftop encounter)
+        title: Egg-shaped silver craft (Lebanon rooftop encounter)
         slug: egg-shaped-silver-craft-lebanon-rooftop-encounter
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -18705,7 +18705,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 81199802-f495-4b1c-9d09-8286233bc400
-        title: egg-shaped silver craft (Lebanon rooftop encounter)
+        title: Egg-shaped silver craft (Lebanon rooftop encounter)
         slug: egg-shaped-silver-craft-lebanon-rooftop-encounter
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -18741,7 +18741,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 81199802-f495-4b1c-9d09-8286233bc400
-        title: egg-shaped silver craft (Lebanon rooftop encounter)
+        title: Egg-shaped silver craft (Lebanon rooftop encounter)
         slug: egg-shaped-silver-craft-lebanon-rooftop-encounter
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -18786,7 +18786,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: afd89359-4e5a-4ab4-8aff-ff47a272a993
-        title: missing time phenomenon
+        title: Missing time phenomenon
         slug: missing-time-phenomenon
     date: null
     date_end: null
@@ -18827,7 +18827,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: afd89359-4e5a-4ab4-8aff-ff47a272a993
-        title: missing time phenomenon
+        title: Missing time phenomenon
         slug: missing-time-phenomenon
     date: null
     date_end: null
@@ -19280,7 +19280,7 @@ claims:
         title: 1972 Lebanon rooftop egg-shaped craft encounter
         slug: 1972-lebanon-rooftop-egg-shaped-craft-encounter
       - node_id: 81199802-f495-4b1c-9d09-8286233bc400
-        title: egg-shaped silver craft (Lebanon rooftop encounter)
+        title: Egg-shaped silver craft (Lebanon rooftop encounter)
         slug: egg-shaped-silver-craft-lebanon-rooftop-encounter
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -21381,7 +21381,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 32208595-b5c9-4061-a255-d42a5ff8c7aa
-        title: telepathic communication (alien contact)
+        title: Telepathic communication (alien contact)
         slug: telepathic-communication-alien-contact
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -21875,7 +21875,7 @@ claims:
         title: 1988 Peter Khoury bedroom hooded entity encounter
         slug: 1988-peter-khoury-bedroom-hooded-entity-encounter
       - node_id: 32208595-b5c9-4061-a255-d42a5ff8c7aa
-        title: telepathic communication (alien contact)
+        title: Telepathic communication (alien contact)
         slug: telepathic-communication-alien-contact
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -21912,7 +21912,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 32208595-b5c9-4061-a255-d42a5ff8c7aa
-        title: telepathic communication (alien contact)
+        title: Telepathic communication (alien contact)
         slug: telepathic-communication-alien-contact
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -22113,7 +22113,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 32208595-b5c9-4061-a255-d42a5ff8c7aa
-        title: telepathic communication (alien contact)
+        title: Telepathic communication (alien contact)
         slug: telepathic-communication-alien-contact
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -22738,7 +22738,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: afd89359-4e5a-4ab4-8aff-ff47a272a993
-        title: missing time phenomenon
+        title: Missing time phenomenon
         slug: missing-time-phenomenon
     date: null
     date_end: null
@@ -24548,7 +24548,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: a4e0b94d-b0bf-4116-b81e-117581f8cfbd
-        title: scoop mark phenomenon
+        title: Scoop mark phenomenon
         slug: scoop-mark-phenomenon
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -25004,7 +25004,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: a4e0b94d-b0bf-4116-b81e-117581f8cfbd
-        title: scoop mark phenomenon
+        title: Scoop mark phenomenon
         slug: scoop-mark-phenomenon
     date: null
     date_end: null
@@ -25392,7 +25392,7 @@ claims:
         title: William Perry
         slug: william-perry
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -25759,7 +25759,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: a4e0b94d-b0bf-4116-b81e-117581f8cfbd
-        title: scoop mark phenomenon
+        title: Scoop mark phenomenon
         slug: scoop-mark-phenomenon
     date: null
     date_end: null
@@ -26946,7 +26946,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -27256,7 +27256,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 81199802-f495-4b1c-9d09-8286233bc400
-        title: egg-shaped silver craft (Lebanon rooftop encounter)
+        title: Egg-shaped silver craft (Lebanon rooftop encounter)
         slug: egg-shaped-silver-craft-lebanon-rooftop-encounter
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -27409,7 +27409,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: bc488fbb-a620-41b1-904f-b374715b7dff
-        title: sleep paralysis (Old Hag syndrome)
+        title: Sleep paralysis (Old Hag syndrome)
         slug: sleep-paralysis-old-hag-syndrome
     date: null
     date_end: null

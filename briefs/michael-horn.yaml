@@ -68,6 +68,11 @@ related_nodes:
     node_type: person
     slug: jacobus
     shared_claims: 1
+  - node_id: 089017c0-d63f-4eb5-b48e-7c46836215e0
+    title: Petrodollar
+    node_type: topic
+    slug: petrodollar
+    shared_claims: 1
   - node_id: 17643007-cf47-4056-97f0-d44aec31de1f
     title: Switzerland, Zurich Highlands
     node_type: place
@@ -92,11 +97,6 @@ related_nodes:
     title: Wedding cake Unidentified Flying Object (UFO)
     node_type: object
     slug: wedding-cake-unidentified-flying-object-ufo
-    shared_claims: 1
-  - node_id: 089017c0-d63f-4eb5-b48e-7c46836215e0
-    title: petrodollar
-    node_type: topic
-    slug: petrodollar
     shared_claims: 1
 claims:
   - claim_id: 2006ec25-c674-483e-bb6d-334244067c1a
@@ -1811,7 +1811,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30c25905-7c45-4757-811a-26c8f348d138
-        title: cold fusion
+        title: Cold fusion
         slug: cold-fusion
       - node_id: 64e6175a-594a-45ed-bb15-bd022f8d453c
         title: Marcel Vogel
@@ -3798,7 +3798,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -4693,7 +4693,7 @@ claims:
         title: Billy Meier
         slug: billy-meier
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
       - node_id: f8672e85-d1fc-4723-ba59-f2dd6a60d97b
         title: Billy Meier and Asket Giza pyramid visit
@@ -5463,7 +5463,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 9eaff4f9-bb10-4c1a-ae13-ce69a47e0f77
-        title: telekinesis
+        title: Telekinesis
         slug: telekinesis
       - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
         title: Billy Meier
@@ -5495,7 +5495,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 9eaff4f9-bb10-4c1a-ae13-ce69a47e0f77
-        title: telekinesis
+        title: Telekinesis
         slug: telekinesis
       - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
         title: Billy Meier
@@ -6147,7 +6147,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 089017c0-d63f-4eb5-b48e-7c46836215e0
-        title: petrodollar
+        title: Petrodollar
         slug: petrodollar
       - node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
         title: Michael Horn
@@ -7462,7 +7462,7 @@ claims:
         title: Billy Meier
         slug: billy-meier
       - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-        title: creation energy teaching (Geisteslehre)
+        title: Creation energy teaching (Geisteslehre)
         slug: creation-energy-teaching-geisteslehre
     date: null
     date_end: null
@@ -7492,7 +7492,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-        title: creation energy teaching (Geisteslehre)
+        title: Creation energy teaching (Geisteslehre)
         slug: creation-energy-teaching-geisteslehre
     date: null
     date_end: null
@@ -7529,7 +7529,7 @@ claims:
         title: Billy Meier
         slug: billy-meier
       - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-        title: creation energy teaching (Geisteslehre)
+        title: Creation energy teaching (Geisteslehre)
         slug: creation-energy-teaching-geisteslehre
     date: null
     date_end: null
@@ -7561,7 +7561,7 @@ claims:
         title: Billy Meier
         slug: billy-meier
       - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-        title: creation energy teaching (Geisteslehre)
+        title: Creation energy teaching (Geisteslehre)
         slug: creation-energy-teaching-geisteslehre
     date: null
     date_end: null
@@ -7592,7 +7592,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-        title: creation energy teaching (Geisteslehre)
+        title: Creation energy teaching (Geisteslehre)
         slug: creation-energy-teaching-geisteslehre
     date: null
     date_end: null
@@ -7716,7 +7716,7 @@ claims:
         title: Billy Meier
         slug: billy-meier
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -8158,10 +8158,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
       - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-        title: creation energy teaching (Geisteslehre)
+        title: Creation energy teaching (Geisteslehre)
         slug: creation-energy-teaching-geisteslehre
     date: null
     date_end: null
@@ -8192,7 +8192,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -8223,10 +8223,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
       - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-        title: creation energy teaching (Geisteslehre)
+        title: Creation energy teaching (Geisteslehre)
         slug: creation-energy-teaching-geisteslehre
     date: null
     date_end: null
@@ -8257,10 +8257,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
       - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-        title: creation energy teaching (Geisteslehre)
+        title: Creation energy teaching (Geisteslehre)
         slug: creation-energy-teaching-geisteslehre
     date: null
     date_end: null
@@ -8291,7 +8291,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -8389,10 +8389,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
       - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-        title: creation energy teaching (Geisteslehre)
+        title: Creation energy teaching (Geisteslehre)
         slug: creation-energy-teaching-geisteslehre
     date: null
     date_end: null

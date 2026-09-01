@@ -89,7 +89,7 @@ related_nodes:
     slug: legacy-program
     shared_claims: 5
   - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
     node_type: document
     slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     shared_claims: 5
@@ -2241,7 +2241,7 @@ claims:
         title: United States Congress
         slug: united-states-congress
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: '2022-12-23'
     date_end: null
@@ -2280,7 +2280,7 @@ claims:
         title: United States Congress
         slug: united-states-congress
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: '2022-12-23'
     date_end: null
@@ -2318,7 +2318,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null
@@ -2365,7 +2365,7 @@ claims:
         title: Douglas Dean Johnson
         slug: douglas-dean-johnson
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null
@@ -3083,7 +3083,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null
@@ -5683,7 +5683,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -6266,7 +6266,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 03d2b1b2-090a-49d4-a28d-38d443323b09
-        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2022-fy-2022-ndaa
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress

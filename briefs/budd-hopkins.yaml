@@ -34,7 +34,7 @@ related_nodes:
     slug: sandra-ohara
     shared_claims: 24
   - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
+    title: Alien abduction
     node_type: topic
     slug: alien-abduction
     shared_claims: 22
@@ -108,6 +108,11 @@ related_nodes:
     node_type: event
     slug: 1985-abduction-experience-december-26
     shared_claims: 3
+  - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
+    title: Forensic hypnosis
+    node_type: topic
+    slug: forensic-hypnosis
+    shared_claims: 3
   - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
     title: USA, New York, Manhattan
     node_type: place
@@ -117,11 +122,6 @@ related_nodes:
     title: Unidentified Flying Object (UFO)
     node_type: topic
     slug: unidentified-flying-object-ufo
-    shared_claims: 3
-  - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
-    title: forensic hypnosis
-    node_type: topic
-    slug: forensic-hypnosis
     shared_claims: 3
   - node_id: 1efdf5f1-93ef-47f1-8f11-558155760575
     title: 1967 Central Australia Royal Australian Air Force (RAAF) photo-mapping Unidentified Aerial Phenomena (UAP) film
@@ -349,7 +349,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 417813ab-6613-4887-8e05-003cf682b858
-        title: transgenics
+        title: Transgenics
         slug: transgenics
       - node_id: 8062e4dd-039a-439d-91db-d58b6f6d3584
         title: Carol Rainey
@@ -638,7 +638,7 @@ claims:
         title: Budd Hopkins
         slug: budd-hopkins
       - node_id: ebcb116b-c0f5-47a1-a0fe-b5e05fb2c633
-        title: alien-human hybrid theory
+        title: Alien-human hybrid theory
         slug: alien-human-hybrid-theory
     date: null
     date_end: null
@@ -746,7 +746,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 993f3695-0fa6-4c29-85e1-5e14b6a1ddb2
-        title: alien abduction physical evidence
+        title: Alien abduction physical evidence
         slug: alien-abduction-physical-evidence
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -1986,7 +1986,7 @@ claims:
         title: April 13, 1986 colloquy at Budd Hopkins' home
         slug: 1986-colloquy-at-budd-hopkins-home-april-13
       - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-        title: the visitors (nonhuman beings)
+        title: The visitors (nonhuman beings)
         slug: the-visitors-nonhuman-beings
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -2089,7 +2089,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-        title: the visitors (nonhuman beings)
+        title: The visitors (nonhuman beings)
         slug: the-visitors-nonhuman-beings
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -5280,7 +5280,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -5348,7 +5348,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -5382,7 +5382,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -5626,7 +5626,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -5660,7 +5660,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -5767,7 +5767,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -5971,7 +5971,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -6008,7 +6008,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -6112,7 +6112,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -6185,7 +6185,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -6532,7 +6532,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -6976,7 +6976,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7014,7 +7014,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7052,7 +7052,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7091,7 +7091,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7129,7 +7129,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7167,7 +7167,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7209,7 +7209,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7245,7 +7245,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7286,7 +7286,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7324,7 +7324,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7361,7 +7361,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7397,7 +7397,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7432,7 +7432,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7469,7 +7469,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7506,7 +7506,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7544,7 +7544,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7581,7 +7581,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7878,7 +7878,7 @@ claims:
         title: Peter Khoury
         slug: peter-khoury
       - node_id: a4e0b94d-b0bf-4116-b81e-117581f8cfbd
-        title: scoop mark phenomenon
+        title: Scoop mark phenomenon
         slug: scoop-mark-phenomenon
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -8109,7 +8109,7 @@ claims:
         title: Budd Hopkins
         slug: budd-hopkins
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -8146,13 +8146,13 @@ claims:
         title: Debbie Jordan
         slug: debbie-jordan
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
         slug: budd-hopkins
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-        title: human-alien hybrid children
+        title: Human-alien hybrid children
         slug: human-alien-hybrid-children
     date: null
     date_end: null
@@ -8221,7 +8221,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
-        title: forensic hypnosis
+        title: Forensic hypnosis
         slug: forensic-hypnosis
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -8260,7 +8260,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
-        title: forensic hypnosis
+        title: Forensic hypnosis
         slug: forensic-hypnosis
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -8303,13 +8303,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
-        title: forensic hypnosis
+        title: Forensic hypnosis
         slug: forensic-hypnosis
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins

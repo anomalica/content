@@ -73,6 +73,11 @@ related_nodes:
     node_type: organisation
     slug: all-domain-anomaly-resolution-office-aaro
     shared_claims: 1
+  - node_id: d828ba4b-f9c5-4731-8e80-fd0cb99a8bcc
+    title: Anonymous Reddit document on nonhuman anatomy (sent to Whitley Strieber in 2024)
+    node_type: document
+    slug: anonymous-reddit-document-on-nonhuman-anatomy-sent-to-whitley-strieber-in-2024
+    shared_claims: 1
   - node_id: 686eaae7-5727-44a9-9928-85c56a0eccb8
     title: Avril Haines
     node_type: person
@@ -109,7 +114,7 @@ related_nodes:
     slug: mark-warner
     shared_claims: 1
   - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
     node_type: document
     slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     shared_claims: 1
@@ -142,11 +147,6 @@ related_nodes:
     title: United States Air Force (USAF)
     node_type: organisation
     slug: united-states-air-force-usaf
-    shared_claims: 1
-  - node_id: d828ba4b-f9c5-4731-8e80-fd0cb99a8bcc
-    title: anonymous Reddit document on nonhuman anatomy (sent to Whitley Strieber in 2024)
-    node_type: document
-    slug: anonymous-reddit-document-on-nonhuman-anatomy-sent-to-whitley-strieber-in-2024
     shared_claims: 1
 claims:
   - claim_id: 83c001d4-c605-46ed-acfd-2f62fa8c8999
@@ -476,7 +476,7 @@ claims:
         title: Mark Warner
         slug: mark-warner
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null
@@ -813,7 +813,7 @@ claims:
         title: US Senate Select Committee on Intelligence
         slug: us-senate-select-committee-on-intelligence
       - node_id: d828ba4b-f9c5-4731-8e80-fd0cb99a8bcc
-        title: anonymous Reddit document on nonhuman anatomy (sent to Whitley Strieber in 2024)
+        title: Anonymous Reddit document on nonhuman anatomy (sent to Whitley Strieber in 2024)
         slug: anonymous-reddit-document-on-nonhuman-anatomy-sent-to-whitley-strieber-in-2024
       - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
         title: All-domain Anomaly Resolution Office (AARO)

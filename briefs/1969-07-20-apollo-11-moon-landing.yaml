@@ -93,6 +93,11 @@ related_nodes:
     node_type: place
     slug: sea-of-tranquility-tranquility-base-moon
     shared_claims: 1
+  - node_id: 110dc77f-6b9b-40b2-b11d-eb7fd84b7c8f
+    title: Naming of Project Orion, 2006-07-20
+    node_type: event
+    slug: 2006-07-20-naming-of-project-orion
+    shared_claims: 1
   - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
     title: National Aeronautics and Space Administration (NASA)
     node_type: organisation
@@ -123,6 +128,11 @@ related_nodes:
     node_type: event
     slug: 1989-07-20-space-exploration-initiative-announcement
     shared_claims: 1
+  - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
+    title: The Moon
+    node_type: place
+    slug: the-moon
+    shared_claims: 1
   - node_id: 7472d435-35cc-4653-a00b-24be847ca8b6
     title: USA, Texas, Houston
     node_type: place
@@ -142,16 +152,6 @@ related_nodes:
     title: Zond 3 mission
     node_type: project
     slug: zond-3-mission
-    shared_claims: 1
-  - node_id: 110dc77f-6b9b-40b2-b11d-eb7fd84b7c8f
-    title: naming of Project Orion, 2006-07-20
-    node_type: event
-    slug: 2006-07-20-naming-of-project-orion
-    shared_claims: 1
-  - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-    title: the Moon
-    node_type: place
-    slug: the-moon
     shared_claims: 1
 claims:
   - claim_id: 1c9bfc6a-4b5b-46f9-9e89-7de5047a708c
@@ -486,7 +486,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 110dc77f-6b9b-40b2-b11d-eb7fd84b7c8f
-        title: naming of Project Orion, 2006-07-20
+        title: Naming of Project Orion, 2006-07-20
         slug: 2006-07-20-naming-of-project-orion
       - node_id: 507f01bf-31d9-4cbe-85b7-8ca02a950653
         title: Apollo 11 Moon landing, 1969-07-20
@@ -843,7 +843,7 @@ claims:
         title: Apollo 11 Moon landing, 1969-07-20
         slug: 1969-07-20-apollo-11-moon-landing
       - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-        title: the Moon
+        title: The Moon
         slug: the-moon
       - node_id: edcd823e-07d4-4319-b0e9-f1bdd30731dd
         title: Apollo Lunar Module

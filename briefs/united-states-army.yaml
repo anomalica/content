@@ -114,6 +114,11 @@ related_nodes:
     node_type: person
     slug: eugene-lessman
     shared_claims: 2
+  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+    title: Extrasensory perception (ESP)
+    node_type: topic
+    slug: extrasensory-perception-esp
+    shared_claims: 2
   - node_id: 6afb5b29-88fb-4b5f-881d-f3028dae0ced
     title: Great Skills program
     node_type: project
@@ -153,11 +158,6 @@ related_nodes:
     title: United States Navy (USN)
     node_type: organisation
     slug: united-states-navy-usn
-    shared_claims: 2
-  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-    title: extrasensory perception (ESP)
-    node_type: topic
-    slug: extrasensory-perception-esp
     shared_claims: 2
   - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
     title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
@@ -1969,7 +1969,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
         title: United States Army
@@ -2040,7 +2040,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
         title: United States Army
@@ -2674,7 +2674,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
-        title: caudate-putamen
+        title: Caudate-putamen
         slug: caudate-putamen
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
         title: Remote Viewing (RV)

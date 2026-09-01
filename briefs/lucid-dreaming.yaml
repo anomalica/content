@@ -69,15 +69,30 @@ related_nodes:
     slug: precognitive-remote-viewing
     shared_claims: 2
   - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-    title: sleep paralysis
+    title: Sleep paralysis
     node_type: topic
     slug: sleep-paralysis
     shared_claims: 2
   - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-    title: telepathy
+    title: Telepathy
     node_type: topic
     slug: telepathy
     shared_claims: 2
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: Artificial intelligence (AI)
+    node_type: topic
+    slug: artificial-intelligence-ai
+    shared_claims: 1
+  - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
+    title: Astral projection
+    node_type: topic
+    slug: astral-projection
+    shared_claims: 1
+  - node_id: 6823d7df-50a7-4a07-83c6-9523db1bacf7
+    title: Channelling
+    node_type: topic
+    slug: channelling
+    shared_claims: 1
   - node_id: 344083bf-4d39-4eb0-a23c-61979a9ced10
     title: Stanford University Sleep Research Center
     node_type: organisation
@@ -87,21 +102,6 @@ related_nodes:
     title: UK
     node_type: place
     slug: uk
-    shared_claims: 1
-  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
-    title: artificial intelligence (AI )
-    node_type: topic
-    slug: artificial-intelligence-ai
-    shared_claims: 1
-  - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-    title: astral projection
-    node_type: topic
-    slug: astral-projection
-    shared_claims: 1
-  - node_id: 6823d7df-50a7-4a07-83c6-9523db1bacf7
-    title: channelling
-    node_type: topic
-    slug: channelling
     shared_claims: 1
 claims:
   - claim_id: 1d739a49-a6f8-4527-99ba-0d9889ab90c0
@@ -326,7 +326,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -366,7 +366,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -556,10 +556,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 6823d7df-50a7-4a07-83c6-9523db1bacf7
-        title: channelling
+        title: Channelling
         slug: channelling
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
-        title: astral projection
+        title: Astral projection
         slug: astral-projection
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
@@ -568,7 +568,7 @@ claims:
         title: Lucid Dreaming
         slug: lucid-dreaming
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -609,7 +609,7 @@ claims:
         title: Lucid Dreaming
         slug: lucid-dreaming
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -884,7 +884,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
-        title: artificial intelligence (AI )
+        title: Artificial intelligence (AI)
         slug: artificial-intelligence-ai
       - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
         title: Precognitive Remote Viewing

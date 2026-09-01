@@ -1546,7 +1546,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 469451fd-d38a-453c-b2c0-a1f83d9b5267
-        title: traversable wormhole
+        title: Traversable wormhole
         slug: traversable-wormhole
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -1555,7 +1555,7 @@ claims:
         title: Harold E. Puthoff
         slug: harold-e-puthoff
       - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
-        title: warp drive
+        title: Warp drive
         slug: warp-drive
       - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
         title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
@@ -2703,7 +2703,7 @@ claims:
         title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
         slug: advanced-aerospace-weapon-system-applications-program-aawsap
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null

@@ -39,7 +39,7 @@ related_nodes:
     slug: national-aeronautics-and-space-administration-nasa
     shared_claims: 4
   - node_id: c126f9df-7dd2-4beb-b43f-12b9b26d7da5
-    title: the magic carpet (Gusev Crater feature)
+    title: The magic carpet (Gusev Crater feature)
     node_type: object
     slug: the-magic-carpet-gusev-crater-feature
     shared_claims: 3
@@ -491,7 +491,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: c126f9df-7dd2-4beb-b43f-12b9b26d7da5
-        title: the magic carpet (Gusev Crater feature)
+        title: The magic carpet (Gusev Crater feature)
         slug: the-magic-carpet-gusev-crater-feature
       - node_id: de58d5ed-956d-4fd7-ac5e-3ff37e27fd64
         title: B-2 Spirit
@@ -527,7 +527,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: c126f9df-7dd2-4beb-b43f-12b9b26d7da5
-        title: the magic carpet (Gusev Crater feature)
+        title: The magic carpet (Gusev Crater feature)
         slug: the-magic-carpet-gusev-crater-feature
       - node_id: d3c95a6e-b64c-4c5d-b436-dd85ec7c6568
         title: Bonneville Crater
@@ -571,7 +571,7 @@ claims:
         title: Mars, Gusev Crater
         slug: gusev-crater-mars
       - node_id: c126f9df-7dd2-4beb-b43f-12b9b26d7da5
-        title: the magic carpet (Gusev Crater feature)
+        title: The magic carpet (Gusev Crater feature)
         slug: the-magic-carpet-gusev-crater-feature
       - node_id: de58d5ed-956d-4fd7-ac5e-3ff37e27fd64
         title: B-2 Spirit

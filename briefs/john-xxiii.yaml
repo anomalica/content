@@ -163,15 +163,15 @@ related_nodes:
     node_type: person
     slug: helder-camara
     shared_claims: 1
+  - node_id: d2086c24-9d5d-4838-96a8-c17f99427cd6
+    title: Incorruptibility (Catholic tradition)
+    node_type: topic
+    slug: incorruptibility-catholic-tradition
+    shared_claims: 1
   - node_id: fd098218-945b-496e-a091-cf4602e3a5a2
     title: Italy, Bergamo, Sotto il Monte
     node_type: place
     slug: bergamo-sotto-il-monte-italy
-    shared_claims: 1
-  - node_id: 278dd77d-927f-4112-8b07-ffbf1d60f5d7
-    title: Italy, Venice
-    node_type: place
-    slug: venice-italy
     shared_claims: 1
 claims:
   - claim_id: 122db297-02b9-477a-8ea7-22c9899c3567
@@ -1866,7 +1866,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: d2086c24-9d5d-4838-96a8-c17f99427cd6
-        title: incorruptibility (Catholic tradition)
+        title: Incorruptibility (Catholic tradition)
         slug: incorruptibility-catholic-tradition
       - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
         title: John XXIII

@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
   node_type: topic
-  title: reincarnation
+  title: Reincarnation
   slug: reincarnation
   claim_count: 20
   claim_count_total: 20
@@ -23,16 +23,21 @@ belonging:
   suspect_excluded: 0
   unreviewed: 20
 related_nodes:
+  - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
+    title: Creation energy teaching (Geisteslehre)
+    node_type: topic
+    slug: creation-energy-teaching-geisteslehre
+    shared_claims: 4
   - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
     title: Jim Tucker
     node_type: person
     slug: jim-tucker
     shared_claims: 4
-  - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-    title: creation energy teaching (Geisteslehre)
+  - node_id: 29ab86b1-4a0c-47f6-964c-85459df97507
+    title: Intermission memories
     node_type: topic
-    slug: creation-energy-teaching-geisteslehre
-    shared_claims: 4
+    slug: intermission-memories
+    shared_claims: 2
   - node_id: 862daff0-b6c0-4070-bf5c-c244a2d70b44
     title: Kevin Hammons
     node_type: person
@@ -42,11 +47,6 @@ related_nodes:
     title: Robert Bigelow
     node_type: person
     slug: robert-bigelow
-    shared_claims: 2
-  - node_id: 29ab86b1-4a0c-47f6-964c-85459df97507
-    title: intermission memories
-    node_type: topic
-    slug: intermission-memories
     shared_claims: 2
   - node_id: db26fc74-5c66-4c23-976f-15676c8fd4d2
     title: '"Searching for the Science Behind Reincarnation" (NPR Weekend Edition interview)'
@@ -68,6 +68,11 @@ related_nodes:
     node_type: person
     slug: cyndi-hammons
     shared_claims: 1
+  - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
+    title: Drop-in communicators
+    node_type: topic
+    slug: drop-in-communicators
+    shared_claims: 1
   - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
     title: Erlendur Haraldsson
     node_type: person
@@ -88,6 +93,11 @@ related_nodes:
     node_type: organisation
     slug: national-public-radio-npr
     shared_claims: 1
+  - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+    title: Past-life memories in young children
+    node_type: topic
+    slug: past-life-memories-in-young-children
+    shared_claims: 1
   - node_id: 34997ce2-30ac-49d0-a4e9-7956515bac6c
     title: Poonam Sharma
     node_type: person
@@ -102,16 +112,6 @@ related_nodes:
     title: Weekend Edition (NPR programme)
     node_type: organisation
     slug: weekend-edition-npr-programme
-    shared_claims: 1
-  - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-    title: drop-in communicators
-    node_type: topic
-    slug: drop-in-communicators
-    shared_claims: 1
-  - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-    title: past-life memories in young children
-    node_type: topic
-    slug: past-life-memories-in-young-children
     shared_claims: 1
 claims:
   - claim_id: 27554e94-a31d-4dd6-baca-a4c0bc8e64e1
@@ -136,7 +136,7 @@ claims:
         title: Ian Stevenson
         slug: ian-stevenson
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -166,10 +166,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
-        title: past-life memories in young children
+        title: Past-life memories in young children
         slug: past-life-memories-in-young-children
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -206,7 +206,7 @@ claims:
         title: Kevin Hammons
         slug: kevin-hammons
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -242,7 +242,7 @@ claims:
         title: Kevin Hammons
         slug: kevin-hammons
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -279,7 +279,7 @@ claims:
         title: Jim Tucker
         slug: jim-tucker
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: '2014'
     date_end: null
@@ -311,10 +311,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 29ab86b1-4a0c-47f6-964c-85459df97507
-        title: intermission memories
+        title: Intermission memories
         slug: intermission-memories
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -348,7 +348,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-        title: drop-in communicators
+        title: Drop-in communicators
         slug: drop-in-communicators
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -357,7 +357,7 @@ claims:
         title: Erlendur Haraldsson
         slug: erlendur-haraldsson
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -403,7 +403,7 @@ claims:
         title: '"Searching for the Science Behind Reincarnation" (NPR Weekend Edition interview)'
         slug: searching-for-the-science-behind-reincarnation-npr-weekend-edition-interview
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: '2014-01-05'
     date_end: null
@@ -436,7 +436,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 29ab86b1-4a0c-47f6-964c-85459df97507
-        title: intermission memories
+        title: Intermission memories
         slug: intermission-memories
       - node_id: 34997ce2-30ac-49d0-a4e9-7956515bac6c
         title: Poonam Sharma
@@ -445,7 +445,7 @@ claims:
         title: Jim Tucker
         slug: jim-tucker
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
       - node_id: ff1cc139-2497-48a2-8fd7-ec3c29d615d2
         title: Journal of Near-Death Studies
@@ -481,7 +481,7 @@ claims:
         title: Jim Tucker
         slug: jim-tucker
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -518,7 +518,7 @@ claims:
         title: Bruce Leininger
         slug: bruce-leininger
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -550,7 +550,7 @@ claims:
         title: Billy Meier
         slug: billy-meier
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -581,10 +581,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
       - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-        title: creation energy teaching (Geisteslehre)
+        title: Creation energy teaching (Geisteslehre)
         slug: creation-energy-teaching-geisteslehre
     date: null
     date_end: null
@@ -615,7 +615,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -646,10 +646,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
       - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-        title: creation energy teaching (Geisteslehre)
+        title: Creation energy teaching (Geisteslehre)
         slug: creation-energy-teaching-geisteslehre
     date: null
     date_end: null
@@ -680,10 +680,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
       - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-        title: creation energy teaching (Geisteslehre)
+        title: Creation energy teaching (Geisteslehre)
         slug: creation-energy-teaching-geisteslehre
     date: null
     date_end: null
@@ -714,7 +714,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -747,10 +747,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
       - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-        title: creation energy teaching (Geisteslehre)
+        title: Creation energy teaching (Geisteslehre)
         slug: creation-energy-teaching-geisteslehre
     date: null
     date_end: null
@@ -788,7 +788,7 @@ claims:
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null
@@ -823,7 +823,7 @@ claims:
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null

@@ -108,6 +108,11 @@ related_nodes:
     node_type: person
     slug: nelson-rockefeller
     shared_claims: 1
+  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+    title: Nonhuman intelligence (NHI)
+    node_type: topic
+    slug: nonhuman-intelligence-nhi
+    shared_claims: 1
   - node_id: aa444365-5da9-49c7-9c87-1d84a720b157
     title: USA, California, Whittier
     node_type: place
@@ -117,11 +122,6 @@ related_nodes:
     title: Whitley Strieber
     node_type: person
     slug: whitley-strieber
-    shared_claims: 1
-  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-    title: nonhuman intelligence (NHI)
-    node_type: topic
-    slug: nonhuman-intelligence-nhi
     shared_claims: 1
 claims:
   - claim_id: 852373ce-85f6-4a30-9db5-f0e2c235eb9d
@@ -263,7 +263,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
         title: Richard Nixon

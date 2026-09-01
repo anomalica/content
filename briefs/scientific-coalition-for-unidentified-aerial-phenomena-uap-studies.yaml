@@ -44,6 +44,16 @@ related_nodes:
     node_type: person
     slug: luis-elizondo
     shared_claims: 1
+  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+    title: Nonhuman intelligence (NHI)
+    node_type: topic
+    slug: nonhuman-intelligence-nhi
+    shared_claims: 1
+  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+    title: Nonlocal consciousness
+    node_type: topic
+    slug: nonlocal-consciousness
+    shared_claims: 1
   - node_id: 803dbec1-a852-489a-a5a9-d2bd5bb22fe5
     title: Robert Powell
     node_type: person
@@ -68,16 +78,6 @@ related_nodes:
     title: Unidentified Anomalous Phenomena (UAP)
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
-    shared_claims: 1
-  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-    title: nonhuman intelligence (NHI)
-    node_type: topic
-    slug: nonhuman-intelligence-nhi
-    shared_claims: 1
-  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-    title: nonlocal consciousness
-    node_type: topic
-    slug: nonlocal-consciousness
     shared_claims: 1
 claims:
   - claim_id: 4ca5d415-a9f5-46c6-a0b2-67795713abd8
@@ -262,7 +262,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -308,7 +308,7 @@ claims:
         title: Scientific Coalition for Unidentified Aerial Phenomena (UAP) Studies
         slug: scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null

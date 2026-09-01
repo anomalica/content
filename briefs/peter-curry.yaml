@@ -29,15 +29,20 @@ related_nodes:
     slug: chris-ramsay
     shared_claims: 6
   - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-    title: human-alien hybrid children
+    title: Human-alien hybrid children
     node_type: topic
     slug: human-alien-hybrid-children
     shared_claims: 5
   - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-    title: telepathy
+    title: Telepathy
     node_type: topic
     slug: telepathy
     shared_claims: 2
+  - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
+    title: Alien abduction experience
+    node_type: topic
+    slug: alien-abduction-experience
+    shared_claims: 1
   - node_id: dfa3268c-8bbb-4c5d-8066-f9a3a416b7e6
     title: Communion (Whitley Strieber book)
     node_type: document
@@ -48,23 +53,18 @@ related_nodes:
     node_type: person
     slug: eric-nanstiel
     shared_claims: 1
+  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+    title: Human-alien hybridization
+    node_type: topic
+    slug: human-alien-hybridization
+    shared_claims: 1
   - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
     title: Jason Quitt
     node_type: person
     slug: jason-quitt
     shared_claims: 1
-  - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
-    title: alien abduction experience
-    node_type: topic
-    slug: alien-abduction-experience
-    shared_claims: 1
-  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-    title: human-alien hybridization
-    node_type: topic
-    slug: human-alien-hybridization
-    shared_claims: 1
   - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-    title: the close encounter experience
+    title: The close encounter experience
     node_type: topic
     slug: the-close-encounter-experience
     shared_claims: 1
@@ -131,7 +131,7 @@ claims:
         title: Peter Curry
         slug: peter-curry
       - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
-        title: alien abduction experience
+        title: Alien abduction experience
         slug: alien-abduction-experience
     date: null
     date_end: null
@@ -168,10 +168,10 @@ claims:
         title: Peter Curry
         slug: peter-curry
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-        title: the close encounter experience
+        title: The close encounter experience
         slug: the-close-encounter-experience
       - node_id: bcb82e5c-3a50-48d8-b0d7-34857b22c6b9
         title: Eric Nanstiel
@@ -212,7 +212,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-        title: human-alien hybrid children
+        title: Human-alien hybrid children
         slug: human-alien-hybrid-children
     date: null
     date_end: null
@@ -253,7 +253,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-        title: human-alien hybrid children
+        title: Human-alien hybrid children
         slug: human-alien-hybrid-children
     date: null
     date_end: null
@@ -294,10 +294,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-        title: human-alien hybrid children
+        title: Human-alien hybrid children
         slug: human-alien-hybrid-children
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -337,10 +337,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-        title: human-alien hybrid children
+        title: Human-alien hybrid children
         slug: human-alien-hybrid-children
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -384,7 +384,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-        title: human-alien hybrid children
+        title: Human-alien hybrid children
         slug: human-alien-hybrid-children
     date: null
     date_end: null

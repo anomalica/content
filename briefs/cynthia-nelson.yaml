@@ -29,7 +29,7 @@ related_nodes:
     slug: 1968-zeitoun-apparitions-of-the-virgin-mary
     shared_claims: 1
   - node_id: ce4ced41-7a8c-4d38-95e1-05c0e4449fd1
-    title: descriptive phenomenology
+    title: Descriptive phenomenology
     node_type: topic
     slug: descriptive-phenomenology
     shared_claims: 1
@@ -58,7 +58,7 @@ claims:
         title: Cynthia Nelson
         slug: cynthia-nelson
       - node_id: ce4ced41-7a8c-4d38-95e1-05c0e4449fd1
-        title: descriptive phenomenology
+        title: Descriptive phenomenology
         slug: descriptive-phenomenology
     date: null
     date_end: null

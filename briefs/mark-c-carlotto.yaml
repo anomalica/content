@@ -89,7 +89,7 @@ related_nodes:
     slug: sts-80-video-disk-like-object-sightings-1996-12-02
     shared_claims: 4
   - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-    title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR )
+    title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
     node_type: organisation
     slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
     shared_claims: 4
@@ -474,7 +474,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2f754094-bdff-4576-a249-665d28696cb4
-        title: foreshortening (remote sensing geometry)
+        title: Foreshortening (remote sensing geometry)
         slug: foreshortening-remote-sensing-geometry
     date: null
     date_end: null
@@ -934,7 +934,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: d502d8e6-dd1b-4299-9268-7928df56f97d
-        title: automatic gain control
+        title: Automatic gain control
         slug: automatic-gain-control
     date: null
     date_end: null
@@ -1570,7 +1570,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2f754094-bdff-4576-a249-665d28696cb4
-        title: foreshortening (remote sensing geometry)
+        title: Foreshortening (remote sensing geometry)
         slug: foreshortening-remote-sensing-geometry
     date: null
     date_end: null
@@ -2335,7 +2335,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 92e1ae5e-90b6-4cf5-8405-b18c791467f7
-        title: retrograde orbit
+        title: Retrograde orbit
         slug: retrograde-orbit
     date: null
     date_end: null
@@ -2369,7 +2369,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 92e1ae5e-90b6-4cf5-8405-b18c791467f7
-        title: retrograde orbit
+        title: Retrograde orbit
         slug: retrograde-orbit
       - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
         title: STS-80
@@ -2584,10 +2584,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98a821c3-2ba9-4e45-a28c-3219f2441543
-        title: blue jets (upper-atmospheric lightning)
+        title: Blue jets (upper-atmospheric lightning)
         slug: blue-jets-upper-atmospheric-lightning
       - node_id: e8cc9c2f-aa24-41c3-96a8-5d82a70cc3f6
-        title: sprites (upper-atmospheric lightning)
+        title: Sprites (upper-atmospheric lightning)
         slug: sprites-upper-atmospheric-lightning
     date: null
     date_end: null
@@ -2622,7 +2622,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: '1996'
     date_end: null
@@ -2656,13 +2656,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98a821c3-2ba9-4e45-a28c-3219f2441543
-        title: blue jets (upper-atmospheric lightning)
+        title: Blue jets (upper-atmospheric lightning)
         slug: blue-jets-upper-atmospheric-lightning
       - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
         title: STS-80
         slug: sts-80
       - node_id: e8cc9c2f-aa24-41c3-96a8-5d82a70cc3f6
-        title: sprites (upper-atmospheric lightning)
+        title: Sprites (upper-atmospheric lightning)
         slug: sprites-upper-atmospheric-lightning
     date: null
     date_end: null
@@ -2698,7 +2698,7 @@ claims:
         title: STS-80
         slug: sts-80
       - node_id: e8cc9c2f-aa24-41c3-96a8-5d82a70cc3f6
-        title: sprites (upper-atmospheric lightning)
+        title: Sprites (upper-atmospheric lightning)
         slug: sprites-upper-atmospheric-lightning
     date: null
     date_end: null
@@ -3059,7 +3059,7 @@ claims:
         title: Lufthansa flight 405 light sighting (1995-11)
         slug: lufthansa-flight-405-light-sighting-1995-11
       - node_id: 78ede0c2-bff9-4e90-a9e3-f4ae02ac806c
-        title: surface-to-air missile
+        title: Surface-to-air missile
         slug: surface-to-air-missile
       - node_id: ed83eaa3-228f-4e21-8688-49862e9bcb40
         title: Trans World Airlines (TWA) Flight 800 crash (1996-07-17)
@@ -3094,7 +3094,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 78ede0c2-bff9-4e90-a9e3-f4ae02ac806c
-        title: surface-to-air missile
+        title: Surface-to-air missile
         slug: surface-to-air-missile
     date: null
     date_end: null
@@ -3128,7 +3128,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 78ede0c2-bff9-4e90-a9e3-f4ae02ac806c
-        title: surface-to-air missile
+        title: Surface-to-air missile
         slug: surface-to-air-missile
       - node_id: 86f8df64-f392-47ca-93fb-c5d8c00ad7a1
         title: USA, Puerto Rico
@@ -3165,16 +3165,16 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 78ede0c2-bff9-4e90-a9e3-f4ae02ac806c
-        title: surface-to-air missile
+        title: Surface-to-air missile
         slug: surface-to-air-missile
       - node_id: 98a821c3-2ba9-4e45-a28c-3219f2441543
-        title: blue jets (upper-atmospheric lightning)
+        title: Blue jets (upper-atmospheric lightning)
         slug: blue-jets-upper-atmospheric-lightning
       - node_id: e8cc9c2f-aa24-41c3-96a8-5d82a70cc3f6
-        title: sprites (upper-atmospheric lightning)
+        title: Sprites (upper-atmospheric lightning)
         slug: sprites-upper-atmospheric-lightning
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: '1996-12-02'
     date_end: null
@@ -3334,7 +3334,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 78ede0c2-bff9-4e90-a9e3-f4ae02ac806c
-        title: surface-to-air missile
+        title: Surface-to-air missile
         slug: surface-to-air-missile
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -4064,7 +4064,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2f754094-bdff-4576-a249-665d28696cb4
-        title: foreshortening (remote sensing geometry)
+        title: Foreshortening (remote sensing geometry)
         slug: foreshortening-remote-sensing-geometry
     date: null
     date_end: null
@@ -4098,7 +4098,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2f754094-bdff-4576-a249-665d28696cb4
-        title: foreshortening (remote sensing geometry)
+        title: Foreshortening (remote sensing geometry)
         slug: foreshortening-remote-sensing-geometry
     date: null
     date_end: null
@@ -4132,7 +4132,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2f754094-bdff-4576-a249-665d28696cb4
-        title: foreshortening (remote sensing geometry)
+        title: Foreshortening (remote sensing geometry)
         slug: foreshortening-remote-sensing-geometry
     date: null
     date_end: null
@@ -4311,7 +4311,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2f754094-bdff-4576-a249-665d28696cb4
-        title: foreshortening (remote sensing geometry)
+        title: Foreshortening (remote sensing geometry)
         slug: foreshortening-remote-sensing-geometry
       - node_id: 86f8df64-f392-47ca-93fb-c5d8c00ad7a1
         title: USA, Puerto Rico
@@ -4351,7 +4351,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2f754094-bdff-4576-a249-665d28696cb4
-        title: foreshortening (remote sensing geometry)
+        title: Foreshortening (remote sensing geometry)
         slug: foreshortening-remote-sensing-geometry
       - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
         title: STS-80
@@ -4513,7 +4513,7 @@ claims:
         title: STS-80
         slug: sts-80
       - node_id: d502d8e6-dd1b-4299-9268-7928df56f97d
-        title: automatic gain control
+        title: Automatic gain control
         slug: automatic-gain-control
     date: null
     date_end: null
@@ -4624,7 +4624,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: c62ff481-31e2-453e-b4ee-a35f8b080689
-        title: inverse-square law of radiation
+        title: Inverse-square law of radiation
         slug: inverse-square-law-of-radiation
     date: null
     date_end: null
@@ -4661,7 +4661,7 @@ claims:
         title: STS-80
         slug: sts-80
       - node_id: c62ff481-31e2-453e-b4ee-a35f8b080689
-        title: inverse-square law of radiation
+        title: Inverse-square law of radiation
         slug: inverse-square-law-of-radiation
     date: null
     date_end: null
@@ -6055,7 +6055,7 @@ claims:
         title: STS-80
         slug: sts-80
       - node_id: d502d8e6-dd1b-4299-9268-7928df56f97d
-        title: automatic gain control
+        title: Automatic gain control
         slug: automatic-gain-control
     date: null
     date_end: null
@@ -6386,8 +6386,7 @@ claims:
         title: National Aeronautics and Space Administration (NASA)
         slug: national-aeronautics-and-space-administration-nasa
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
         title: Mark C. Carlotto
@@ -6428,8 +6427,7 @@ claims:
         title: Carl Pilcher
         slug: carl-pilcher
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
         title: Mark C. Carlotto
@@ -6624,8 +6622,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
         title: Thermal Emission Imaging System (THEMIS)
@@ -7107,8 +7104,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
         title: Mark C. Carlotto

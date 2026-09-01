@@ -33,6 +33,11 @@ related_nodes:
     node_type: person
     slug: carl-sagan
     shared_claims: 1
+  - node_id: 17f4d90d-ea64-4696-818f-d0d11b10cf42
+    title: Invisible college of UFO researchers
+    node_type: organisation
+    slug: invisible-college-of-ufo-researchers
+    shared_claims: 1
   - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
     title: J. Allen Hynek
     node_type: person
@@ -43,13 +48,8 @@ related_nodes:
     node_type: topic
     slug: search-for-extraterrestrial-intelligence-seti
     shared_claims: 1
-  - node_id: 17f4d90d-ea64-4696-818f-d0d11b10cf42
-    title: invisible college of UFO researchers
-    node_type: organisation
-    slug: invisible-college-of-ufo-researchers
-    shared_claims: 1
   - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-    title: the Invisible College
+    title: The Invisible College
     node_type: topic
     slug: the-invisible-college
     shared_claims: 1
@@ -114,7 +114,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 17f4d90d-ea64-4696-818f-d0d11b10cf42
-        title: invisible college of UFO researchers
+        title: Invisible college of UFO researchers
         slug: invisible-college-of-ufo-researchers
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -189,7 +189,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek

@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
   node_type: topic
-  title: string theory
+  title: String theory
   slug: string-theory
   claim_count: 7
   claim_count_total: 7
@@ -33,23 +33,23 @@ related_nodes:
     node_type: topic
     slug: big-bang-theory
     shared_claims: 1
+  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+    title: Informational substrate
+    node_type: topic
+    slug: informational-substrate
+    shared_claims: 1
   - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
     title: Julia Mossbridge
     node_type: person
     slug: julia-mossbridge
     shared_claims: 1
-  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-    title: informational substrate
-    node_type: topic
-    slug: informational-substrate
-    shared_claims: 1
   - node_id: 2a7e99da-a52b-42f0-ae13-32841e4a3bc8
-    title: quantum gravity
+    title: Quantum gravity
     node_type: topic
     slug: quantum-gravity
     shared_claims: 1
   - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
-    title: quantum mechanics
+    title: Quantum mechanics
     node_type: topic
     slug: quantum-mechanics
     shared_claims: 1
@@ -69,7 +69,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-        title: string theory
+        title: String theory
         slug: string-theory
     date: null
     date_end: null
@@ -103,13 +103,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-        title: string theory
+        title: String theory
         slug: string-theory
       - node_id: 2a7e99da-a52b-42f0-ae13-32841e4a3bc8
-        title: quantum gravity
+        title: Quantum gravity
         slug: quantum-gravity
       - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
-        title: quantum mechanics
+        title: Quantum mechanics
         slug: quantum-mechanics
     date: null
     date_end: null
@@ -141,7 +141,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-        title: string theory
+        title: String theory
         slug: string-theory
     date: null
     date_end: null
@@ -177,7 +177,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-        title: string theory
+        title: String theory
         slug: string-theory
     date: null
     date_end: null
@@ -214,7 +214,7 @@ claims:
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-        title: string theory
+        title: String theory
         slug: string-theory
     date: null
     date_end: null
@@ -254,7 +254,7 @@ claims:
         title: Big Bang theory
         slug: big-bang-theory
       - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-        title: string theory
+        title: String theory
         slug: string-theory
     date: null
     date_end: null
@@ -289,10 +289,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-        title: string theory
+        title: String theory
         slug: string-theory
       - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: informational substrate
+        title: Informational substrate
         slug: informational-substrate
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge

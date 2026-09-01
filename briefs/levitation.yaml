@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
   node_type: topic
-  title: levitation
+  title: Levitation
   slug: levitation
   claim_count: 51
   claim_count_total: 51
@@ -34,7 +34,7 @@ related_nodes:
     slug: chris-ramsay
     shared_claims: 6
   - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-    title: telepathy
+    title: Telepathy
     node_type: topic
     slug: telepathy
     shared_claims: 6
@@ -48,6 +48,11 @@ related_nodes:
     node_type: organisation
     slug: roman-inquisition
     shared_claims: 4
+  - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
+    title: Bilocation
+    node_type: topic
+    slug: bilocation
+    shared_claims: 3
   - node_id: 1dfc5bba-82c0-4790-91f9-e0613debe938
     title: Carlos M. N. Eire
     node_type: person
@@ -63,16 +68,16 @@ related_nodes:
     node_type: person
     slug: padre-pio
     shared_claims: 3
-  - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-    title: bilocation
-    node_type: topic
-    slug: bilocation
-    shared_claims: 3
   - node_id: 29648d49-595f-4908-84b7-17578cbe98f8
-    title: siddhis (Hindu/Buddhist accomplishments)
+    title: Siddhis (Hindu/Buddhist accomplishments)
     node_type: topic
     slug: siddhis-hindubuddhist-accomplishments
     shared_claims: 3
+  - node_id: 51d5b265-d761-4682-a177-e794447ed628
+    title: Exorcism
+    node_type: topic
+    slug: exorcism
+    shared_claims: 2
   - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
     title: Joseph of Cupertino
     node_type: person
@@ -93,15 +98,15 @@ related_nodes:
     node_type: topic
     slug: tummo-inner-heat-practice
     shared_claims: 2
-  - node_id: 51d5b265-d761-4682-a177-e794447ed628
-    title: exorcism
-    node_type: topic
-    slug: exorcism
-    shared_claims: 2
   - node_id: 97c90a0b-6567-4a2e-86da-61338378b3e2
     title: 1985 Whitley Strieber close encounter at his upstate New York cabin
     node_type: event
     slug: 1985-whitley-strieber-close-encounter-at-his-upstate-new-york-cabin
+    shared_claims: 1
+  - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
+    title: Alien abduction experience
+    node_type: topic
+    slug: alien-abduction-experience
     shared_claims: 1
   - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
     title: Anti-Gravity Propulsion
@@ -112,6 +117,16 @@ related_nodes:
     title: Buddha
     node_type: person
     slug: buddha
+    shared_claims: 1
+  - node_id: c02e77c4-512a-4524-88ae-55ec4eaa6c83
+    title: Exorcism of seventeen-year-old girl witnessed by Paul Eno
+    node_type: event
+    slug: exorcism-of-seventeen-year-old-girl-witnessed-by-paul-eno
+    shared_claims: 1
+  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+    title: Kundalini
+    node_type: topic
+    slug: kundalini
     shared_claims: 1
   - node_id: 05adbec5-47f6-446b-ad02-e83a9d0735a2
     title: London Review of Books
@@ -133,6 +148,11 @@ related_nodes:
     node_type: document
     slug: they-flew-carlos-eire
     shared_claims: 1
+  - node_id: bf9f4a9f-3b21-4631-bd55-6d2652f1db4e
+    title: Vashitva (mind-control siddhi)
+    node_type: topic
+    slug: vashitva-mind-control-siddhi
+    shared_claims: 1
   - node_id: e8d103c5-50bf-44a3-9f61-13059d535f2b
     title: Vyasa
     node_type: person
@@ -147,26 +167,6 @@ related_nodes:
     title: Younger Dryas
     node_type: event
     slug: younger-dryas
-    shared_claims: 1
-  - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
-    title: alien abduction experience
-    node_type: topic
-    slug: alien-abduction-experience
-    shared_claims: 1
-  - node_id: c02e77c4-512a-4524-88ae-55ec4eaa6c83
-    title: exorcism of seventeen-year-old girl witnessed by Paul Eno
-    node_type: event
-    slug: exorcism-of-seventeen-year-old-girl-witnessed-by-paul-eno
-    shared_claims: 1
-  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
-    title: kundalini
-    node_type: topic
-    slug: kundalini
-    shared_claims: 1
-  - node_id: bf9f4a9f-3b21-4631-bd55-6d2652f1db4e
-    title: vashitva (mind-control siddhi)
-    node_type: topic
-    slug: vashitva-mind-control-siddhi
     shared_claims: 1
 claims:
   - claim_id: b4ce3004-a359-45d6-9886-b870546190fc
@@ -186,13 +186,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
       - node_id: 29648d49-595f-4908-84b7-17578cbe98f8
-        title: siddhis (Hindu/Buddhist accomplishments)
+        title: Siddhis (Hindu/Buddhist accomplishments)
         slug: siddhis-hindubuddhist-accomplishments
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -227,10 +227,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -262,10 +262,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
-        title: kundalini
+        title: Kundalini
         slug: kundalini
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -302,7 +302,7 @@ claims:
         title: Tummo (inner heat practice)
         slug: tummo-inner-heat-practice
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -337,7 +337,7 @@ claims:
         title: Tummo (inner heat practice)
         slug: tummo-inner-heat-practice
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -371,13 +371,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 29648d49-595f-4908-84b7-17578cbe98f8
-        title: siddhis (Hindu/Buddhist accomplishments)
+        title: Siddhis (Hindu/Buddhist accomplishments)
         slug: siddhis-hindubuddhist-accomplishments
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -409,13 +409,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 29648d49-595f-4908-84b7-17578cbe98f8
-        title: siddhis (Hindu/Buddhist accomplishments)
+        title: Siddhis (Hindu/Buddhist accomplishments)
         slug: siddhis-hindubuddhist-accomplishments
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -446,13 +446,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
       - node_id: 6dac3327-0f55-4388-8aca-be45c3b14dba
         title: Buddha
         slug: buddha
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -484,10 +484,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: b0154a66-ab11-4075-9f80-8e3a136b35c8
         title: Mahabharata
@@ -526,7 +526,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -559,7 +559,7 @@ claims:
         title: Carlos M. N. Eire
         slug: carlos-m-n-eire
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: c4e34315-2672-453b-9229-4ffc45af0a8f
         title: They Flew
@@ -599,7 +599,7 @@ claims:
         title: London Review of Books
         slug: london-review-of-books
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -634,7 +634,7 @@ claims:
         title: Carlos M. N. Eire
         slug: carlos-m-n-eire
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: c4e34315-2672-453b-9229-4ffc45af0a8f
         title: They Flew
@@ -671,7 +671,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: ceddae85-8b0c-43f5-b372-fee1f4bf4e7d
         title: Padre Pio
@@ -704,7 +704,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: ceddae85-8b0c-43f5-b372-fee1f4bf4e7d
         title: Padre Pio
@@ -740,7 +740,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: ceddae85-8b0c-43f5-b372-fee1f4bf4e7d
         title: Padre Pio
@@ -777,7 +777,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -811,7 +811,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -848,10 +848,10 @@ claims:
         title: Paul Eno
         slug: paul-eno
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: c02e77c4-512a-4524-88ae-55ec4eaa6c83
-        title: exorcism of seventeen-year-old girl witnessed by Paul Eno
+        title: Exorcism of seventeen-year-old girl witnessed by Paul Eno
         slug: exorcism-of-seventeen-year-old-girl-witnessed-by-paul-eno
     date: null
     date_end: null
@@ -888,7 +888,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -925,7 +925,7 @@ claims:
         title: Younger Dryas
         slug: younger-dryas
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -960,10 +960,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -998,13 +998,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: bf9f4a9f-3b21-4631-bd55-6d2652f1db4e
-        title: vashitva (mind-control siddhi)
+        title: Vashitva (mind-control siddhi)
         slug: vashitva-mind-control-siddhi
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1037,7 +1037,7 @@ claims:
         title: Paul Eno
         slug: paul-eno
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -1071,10 +1071,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -1112,7 +1112,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -1147,7 +1147,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -1183,7 +1183,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: 97c90a0b-6567-4a2e-86da-61338378b3e2
         title: 1985 Whitley Strieber close encounter at his upstate New York cabin
@@ -1221,7 +1221,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -1262,7 +1262,7 @@ claims:
         title: They Flew (Carlos Eire)
         slug: they-flew-carlos-eire
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: c7724717-0065-4753-904b-4ba6d06946e5
         title: Roman Inquisition
@@ -1300,7 +1300,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: c7724717-0065-4753-904b-4ba6d06946e5
         title: Roman Inquisition
@@ -1338,7 +1338,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: c7724717-0065-4753-904b-4ba6d06946e5
         title: Roman Inquisition
@@ -1375,7 +1375,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
         title: Joseph of Cupertino
@@ -1413,7 +1413,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
         title: Joseph of Cupertino
@@ -1452,7 +1452,7 @@ claims:
         title: Mary of Agreda
         slug: mary-of-agreda
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -1490,7 +1490,7 @@ claims:
         title: Mary of Agreda
         slug: mary-of-agreda
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -1527,7 +1527,7 @@ claims:
         title: Mary of Agreda
         slug: mary-of-agreda
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -1559,7 +1559,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -1596,7 +1596,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -1633,7 +1633,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -1674,7 +1674,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -1711,7 +1711,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -1749,7 +1749,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: c7724717-0065-4753-904b-4ba6d06946e5
         title: Roman Inquisition
@@ -1793,10 +1793,10 @@ claims:
         title: Paul Eno
         slug: paul-eno
       - node_id: 51d5b265-d761-4682-a177-e794447ed628
-        title: exorcism
+        title: Exorcism
         slug: exorcism
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -1834,10 +1834,10 @@ claims:
         title: Paul Eno
         slug: paul-eno
       - node_id: 51d5b265-d761-4682-a177-e794447ed628
-        title: exorcism
+        title: Exorcism
         slug: exorcism
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -1869,7 +1869,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -1906,7 +1906,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -1942,10 +1942,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
-        title: alien abduction experience
+        title: Alien abduction experience
         slug: alien-abduction-experience
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1984,7 +1984,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -2028,7 +2028,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -2063,7 +2063,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null

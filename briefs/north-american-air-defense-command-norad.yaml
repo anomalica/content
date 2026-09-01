@@ -28,15 +28,15 @@ related_nodes:
     node_type: person
     slug: frederick-w-smith
     shared_claims: 4
+  - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+    title: Cattle mutilations phenomenon
+    node_type: topic
+    slug: cattle-mutilations-phenomenon
+    shared_claims: 3
   - node_id: f481ddd0-5174-4637-a4b4-6b054acfdde2
     title: USA, Colorado, Cheyenne Mountain
     node_type: place
     slug: colorado-cheyenne-mountain-usa
-    shared_claims: 3
-  - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-    title: cattle mutilations phenomenon
-    node_type: topic
-    slug: cattle-mutilations-phenomenon
     shared_claims: 3
   - node_id: 0841fca4-8906-47b6-a5c1-f2415ec1559b
     title: 1975 Cheyenne Mountain area cattle mutilation wave
@@ -217,7 +217,7 @@ claims:
         title: 1975 Cheyenne Mountain area cattle mutilation wave
         slug: 1975-cheyenne-mountain-area-cattle-mutilation-wave
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
       - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
         title: North American Air Defense Command (NORAD)
@@ -257,7 +257,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
       - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
         title: North American Air Defense Command (NORAD)
@@ -296,7 +296,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
       - node_id: 9e05037f-bd7e-4cbc-814f-ddefe6bc5dfe
         title: Cattle Mutilation

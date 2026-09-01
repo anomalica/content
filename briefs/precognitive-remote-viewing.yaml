@@ -29,10 +29,15 @@ related_nodes:
     slug: julia-mossbridge
     shared_claims: 18
   - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-    title: unconditional love
+    title: Unconditional love
     node_type: topic
     slug: unconditional-love
     shared_claims: 8
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: Artificial intelligence (AI)
+    node_type: topic
+    slug: artificial-intelligence-ai
+    shared_claims: 2
   - node_id: d1e05233-43cd-4e3e-b9c3-d143478cd6a4
     title: Dave Green
     node_type: person
@@ -48,11 +53,11 @@ related_nodes:
     node_type: topic
     slug: precognition
     shared_claims: 2
-  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
-    title: artificial intelligence (AI )
+  - node_id: f884db59-9857-4303-bdbb-5d81b30ddbbd
+    title: Binaural beats
     node_type: topic
-    slug: artificial-intelligence-ai
-    shared_claims: 2
+    slug: binaural-beats
+    shared_claims: 1
   - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
     title: Chris Ramsay
     node_type: person
@@ -68,28 +73,23 @@ related_nodes:
     node_type: object
     slug: google-scholar
     shared_claims: 1
+  - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
+    title: Large language model (LLM)
+    node_type: topic
+    slug: large-language-model-llm
+    shared_claims: 1
+  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+    title: Nonlocal consciousness
+    node_type: topic
+    slug: nonlocal-consciousness
+    shared_claims: 1
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
     title: Remote Viewing (RV)
     node_type: topic
     slug: remote-viewing-rv
     shared_claims: 1
-  - node_id: f884db59-9857-4303-bdbb-5d81b30ddbbd
-    title: binaural beats
-    node_type: topic
-    slug: binaural-beats
-    shared_claims: 1
-  - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
-    title: large language model (LLM )
-    node_type: topic
-    slug: large-language-model-llm
-    shared_claims: 1
-  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-    title: nonlocal consciousness
-    node_type: topic
-    slug: nonlocal-consciousness
-    shared_claims: 1
   - node_id: 42f18655-eca1-466e-a528-080032bfc0fb
-    title: synesthesia
+    title: Synesthesia
     node_type: topic
     slug: synesthesia
     shared_claims: 1
@@ -152,7 +152,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-        title: unconditional love
+        title: Unconditional love
         slug: unconditional-love
     date: null
     date_end: null
@@ -192,7 +192,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-        title: unconditional love
+        title: Unconditional love
         slug: unconditional-love
     date: null
     date_end: null
@@ -231,7 +231,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-        title: unconditional love
+        title: Unconditional love
         slug: unconditional-love
     date: null
     date_end: null
@@ -272,7 +272,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-        title: unconditional love
+        title: Unconditional love
         slug: unconditional-love
     date: null
     date_end: null
@@ -311,7 +311,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: f884db59-9857-4303-bdbb-5d81b30ddbbd
-        title: binaural beats
+        title: Binaural beats
         slug: binaural-beats
     date: null
     date_end: null
@@ -641,7 +641,7 @@ claims:
         title: Precognitive Remote Viewing
         slug: precognitive-remote-viewing
       - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-        title: unconditional love
+        title: Unconditional love
         slug: unconditional-love
     date: null
     date_end: null
@@ -707,13 +707,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
-        title: artificial intelligence (AI )
+        title: Artificial intelligence (AI)
         slug: artificial-intelligence-ai
       - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
         title: Precognitive Remote Viewing
         slug: precognitive-remote-viewing
       - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
-        title: large language model (LLM )
+        title: Large language model (LLM)
         slug: large-language-model-llm
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -794,7 +794,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
-        title: artificial intelligence (AI )
+        title: Artificial intelligence (AI)
         slug: artificial-intelligence-ai
       - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
         title: Precognitive Remote Viewing
@@ -957,7 +957,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 42f18655-eca1-466e-a528-080032bfc0fb
-        title: synesthesia
+        title: Synesthesia
         slug: synesthesia
       - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
         title: Precognitive Remote Viewing
@@ -1002,7 +1002,7 @@ claims:
         title: Precognitive Remote Viewing
         slug: precognitive-remote-viewing
       - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-        title: unconditional love
+        title: Unconditional love
         slug: unconditional-love
     date: null
     date_end: null
@@ -1044,10 +1044,10 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-        title: unconditional love
+        title: Unconditional love
         slug: unconditional-love
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1088,7 +1088,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-        title: unconditional love
+        title: Unconditional love
         slug: unconditional-love
     date: null
     date_end: null

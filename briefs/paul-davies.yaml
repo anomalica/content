@@ -43,6 +43,11 @@ related_nodes:
     node_type: person
     slug: charlie-hickson
     shared_claims: 1
+  - node_id: b636c9a1-e958-4f48-a639-450a7ab409f0
+    title: Junk Deoxyribonucleic Acid (DNA)
+    node_type: topic
+    slug: junk-deoxyribonucleic-acid-dna
+    shared_claims: 1
   - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
     title: Laurance Rockefeller
     node_type: person
@@ -72,11 +77,6 @@ related_nodes:
     title: University of Arizona Press
     node_type: organisation
     slug: university-of-arizona-press
-    shared_claims: 1
-  - node_id: b636c9a1-e958-4f48-a639-450a7ab409f0
-    title: junk Deoxyribonucleic Acid (DNA)
-    node_type: topic
-    slug: junk-deoxyribonucleic-acid-dna
     shared_claims: 1
 claims:
   - claim_id: b7aab27b-4509-422a-83f9-99dbc862ae60
@@ -184,7 +184,7 @@ claims:
         title: New Scientist
         slug: new-scientist
       - node_id: b636c9a1-e958-4f48-a639-450a7ab409f0
-        title: junk Deoxyribonucleic Acid (DNA)
+        title: Junk Deoxyribonucleic Acid (DNA)
         slug: junk-deoxyribonucleic-acid-dna
       - node_id: d94477e4-4d22-4eae-bb58-06988f024414
         title: Search for Extraterrestrial Intelligence (SETI)

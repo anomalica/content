@@ -23,6 +23,11 @@ belonging:
   suspect_excluded: 0
   unreviewed: 3
 related_nodes:
+  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+    title: Alien implant
+    node_type: topic
+    slug: alien-implant
+    shared_claims: 1
   - node_id: 0e2d31cb-dd61-40e0-8c7d-8f59e64ab05f
     title: Centers for Disease Control and Prevention
     node_type: organisation
@@ -43,6 +48,11 @@ related_nodes:
     node_type: organisation
     slug: food-and-drug-administration
     shared_claims: 1
+  - node_id: 315a987e-d776-40fe-b4e2-c8827f659722
+    title: Glioblastoma multiforme
+    node_type: topic
+    slug: glioblastoma-multiforme
+    shared_claims: 1
   - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
     title: Jacques Vallée
     node_type: person
@@ -62,16 +72,6 @@ related_nodes:
     title: United States Department of Energy (DOE)
     node_type: organisation
     slug: united-states-department-of-energy-doe
-    shared_claims: 1
-  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-    title: alien implant
-    node_type: topic
-    slug: alien-implant
-    shared_claims: 1
-  - node_id: 315a987e-d776-40fe-b4e2-c8827f659722
-    title: glioblastoma multiforme
-    node_type: topic
-    slug: glioblastoma-multiforme
     shared_claims: 1
 claims:
   - claim_id: 2b096ce7-9ebf-47e6-83be-034037d7c85a
@@ -136,7 +136,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 315a987e-d776-40fe-b4e2-c8827f659722
-        title: glioblastoma multiforme
+        title: Glioblastoma multiforme
         slug: glioblastoma-multiforme
       - node_id: aa0bdc53-6ad5-4d69-824f-182736d35a63
         title: National Institutes of Health
@@ -193,7 +193,7 @@ claims:
         title: USA, Maryland, Fort Detrick
         slug: maryland-fort-detrick-usa
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null

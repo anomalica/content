@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: fa4ba20c-867f-4754-b298-14b96e410072
   node_type: topic
-  title: extraterrestrial hypothesis
+  title: Extraterrestrial hypothesis
   slug: extraterrestrial-hypothesis
   claim_count: 14
   claim_count_total: 14
@@ -48,6 +48,11 @@ related_nodes:
     node_type: topic
     slug: unidentified-flying-object-ufo
     shared_claims: 2
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: Artificial intelligence (AI)
+    node_type: topic
+    slug: artificial-intelligence-ai
+    shared_claims: 1
   - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
     title: Donald Trump
     node_type: person
@@ -67,11 +72,6 @@ related_nodes:
     title: Leslie Kean
     node_type: person
     slug: leslie-kean
-    shared_claims: 1
-  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
-    title: artificial intelligence (AI )
-    node_type: topic
-    slug: artificial-intelligence-ai
     shared_claims: 1
 claims:
   - claim_id: 3b0c7c7a-7f21-4cf5-b088-cd2c6c3d14f9
@@ -94,7 +94,7 @@ claims:
         title: COMETA Report
         slug: cometa-report
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -128,7 +128,7 @@ claims:
         title: COMETA Report
         slug: cometa-report
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -168,7 +168,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -205,7 +205,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
       - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
         title: Jason Samosa
@@ -245,10 +245,10 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
-        title: artificial intelligence (AI )
+        title: Artificial intelligence (AI)
         slug: artificial-intelligence-ai
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -287,7 +287,7 @@ claims:
         title: Donald Trump
         slug: donald-trump
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -325,7 +325,7 @@ claims:
         title: Phil McGraw
         slug: phil-mcgraw
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -362,7 +362,7 @@ claims:
         title: Phil McGraw
         slug: phil-mcgraw
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -399,7 +399,7 @@ claims:
         title: Phil McGraw
         slug: phil-mcgraw
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -434,7 +434,7 @@ claims:
         title: David Charles Grusch
         slug: david-charles-grusch
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -474,7 +474,7 @@ claims:
         title: David Charles Grusch
         slug: david-charles-grusch
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -511,7 +511,7 @@ claims:
         title: David Charles Grusch
         slug: david-charles-grusch
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -552,7 +552,7 @@ claims:
         title: David Charles Grusch
         slug: david-charles-grusch
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -590,7 +590,7 @@ claims:
         title: David Charles Grusch
         slug: david-charles-grusch
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null

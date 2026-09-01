@@ -55,6 +55,11 @@ related_nodes:
     node_type: object
     slug: arts-parts-alleged-roswell-metal-samples
     shared_claims: 1
+  - node_id: c973fa9a-1303-4d8f-a85a-8e08f8f9d253
+    title: Beamed energy propulsion
+    node_type: topic
+    slug: beamed-energy-propulsion
+    shared_claims: 1
   - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
     title: Christopher K. Mellon
     node_type: person
@@ -74,11 +79,6 @@ related_nodes:
     title: Steve Justice
     node_type: person
     slug: steve-justice
-    shared_claims: 1
-  - node_id: c973fa9a-1303-4d8f-a85a-8e08f8f9d253
-    title: beamed energy propulsion
-    node_type: topic
-    slug: beamed-energy-propulsion
     shared_claims: 1
 claims:
   - claim_id: bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
@@ -248,7 +248,7 @@ claims:
         title: EarthTech International
         slug: earthtech-international
       - node_id: c973fa9a-1303-4d8f-a85a-8e08f8f9d253
-        title: beamed energy propulsion
+        title: Beamed energy propulsion
         slug: beamed-energy-propulsion
     date: '2018'
     date_end: null

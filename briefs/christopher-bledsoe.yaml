@@ -33,6 +33,16 @@ related_nodes:
     node_type: person
     slug: ryan-bledsoe
     shared_claims: 2
+  - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
+    title: Angel hair
+    node_type: topic
+    slug: angel-hair
+    shared_claims: 1
+  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+    title: Human-alien hybridization
+    node_type: topic
+    slug: human-alien-hybridization
+    shared_claims: 1
   - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
     title: Jason Samosa
     node_type: person
@@ -57,16 +67,6 @@ related_nodes:
     title: Unidentified Flying Object (UFO) of God
     node_type: document
     slug: unidentified-flying-object-ufo-of-god
-    shared_claims: 1
-  - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
-    title: angel hair
-    node_type: topic
-    slug: angel-hair
-    shared_claims: 1
-  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-    title: human-alien hybridization
-    node_type: topic
-    slug: human-alien-hybridization
     shared_claims: 1
 claims:
   - claim_id: ee399a00-439a-446d-b160-3e1ed33c39c8
@@ -361,7 +361,7 @@ claims:
         title: Christopher Bledsoe
         slug: christopher-bledsoe
       - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
-        title: angel hair
+        title: Angel hair
         slug: angel-hair
     date: null
     date_end: null
@@ -438,7 +438,7 @@ claims:
         title: Jim Semivan
         slug: jim-semivan
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 6cc97343-1634-45fa-9c85-4325f72a109c
         title: Ryan Bledsoe

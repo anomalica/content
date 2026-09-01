@@ -73,15 +73,15 @@ related_nodes:
     node_type: place
     slug: maryland-greenbelt-goddard-space-flight-center-gsfc-usa
     shared_claims: 1
+  - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
+    title: War.gov/UFOs release
+    node_type: document
+    slug: wargovufos-release
+    shared_claims: 1
   - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
     title: Wernher von Braun
     node_type: person
     slug: wernher-von-braun
-    shared_claims: 1
-  - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-    title: war.gov/UFOs release
-    node_type: document
-    slug: wargovufos-release
     shared_claims: 1
 claims:
   - claim_id: bb4090fe-b14c-4640-ba93-275d23ee74a1
@@ -265,7 +265,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-        title: war.gov/UFOs release
+        title: War.gov/UFOs release
         slug: wargovufos-release
       - node_id: 8671e6b7-b36f-418a-a532-8a67c5f91010
         title: Apollo 17

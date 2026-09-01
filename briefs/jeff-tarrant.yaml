@@ -29,7 +29,7 @@ related_nodes:
     slug: laura-lynne-jackson
     shared_claims: 6
   - node_id: 880b88e9-fc8d-4ad5-9d7f-f821fbe47418
-    title: Jeff Tarrant's brain-mapping study of Laura Lynne Jackson (2013- )
+    title: Jeff Tarrant's brain-mapping study of Laura Lynne Jackson (2013-)
     node_type: project
     slug: jeff-tarrants-brain-mapping-study-of-laura-lynne-jackson-2013
     shared_claims: 3
@@ -37,6 +37,11 @@ related_nodes:
     title: '"The Mind of the Medium: The Art and Science of Psychic Mediumship" (blog post by Jeff Tarrant)'
     node_type: document
     slug: the-mind-of-the-medium-the-art-and-science-of-psychic-mediumship-blog-post-by-jeff-tarrant
+    shared_claims: 1
+  - node_id: 333767c0-204b-4270-af47-4eb11da45cf9
+    title: Brain-wave activity study of mediums
+    node_type: topic
+    slug: brain-wave-activity-study-of-mediums
     shared_claims: 1
   - node_id: 4fefea91-5bbb-4235-90d1-ef49e1f4f913
     title: Damon Abraham
@@ -68,20 +73,15 @@ related_nodes:
     node_type: person
     slug: polly-washburn
     shared_claims: 1
+  - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+    title: Survival hypothesis
+    node_type: topic
+    slug: survival-hypothesis
+    shared_claims: 1
   - node_id: 767ea3f3-ea68-4317-8234-3d1a14eb3675
     title: University of Missouri
     node_type: organisation
     slug: university-of-missouri
-    shared_claims: 1
-  - node_id: 333767c0-204b-4270-af47-4eb11da45cf9
-    title: brain-wave activity study of mediums
-    node_type: topic
-    slug: brain-wave-activity-study-of-mediums
-    shared_claims: 1
-  - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-    title: survival hypothesis
-    node_type: topic
-    slug: survival-hypothesis
     shared_claims: 1
 claims:
   - claim_id: f90ae4f6-ab21-4f27-8b90-e17f5d039ce5
@@ -107,7 +107,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-        title: electroencephalography (EEG)
+        title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 693acdd5-6e23-41d6-9ff7-adcda3ef160e
         title: Windbridge Institute electroencephalography (EEG) study of six mediums
@@ -243,7 +243,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 880b88e9-fc8d-4ad5-9d7f-f821fbe47418
-        title: Jeff Tarrant's brain-mapping study of Laura Lynne Jackson (2013- )
+        title: Jeff Tarrant's brain-mapping study of Laura Lynne Jackson (2013-)
         slug: jeff-tarrants-brain-mapping-study-of-laura-lynne-jackson-2013
       - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
         title: Jeff Tarrant
@@ -280,7 +280,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 880b88e9-fc8d-4ad5-9d7f-f821fbe47418
-        title: Jeff Tarrant's brain-mapping study of Laura Lynne Jackson (2013- )
+        title: Jeff Tarrant's brain-mapping study of Laura Lynne Jackson (2013-)
         slug: jeff-tarrants-brain-mapping-study-of-laura-lynne-jackson-2013
       - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
         title: Jeff Tarrant
@@ -503,7 +503,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
         title: Jeff Tarrant
@@ -543,7 +543,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 333767c0-204b-4270-af47-4eb11da45cf9
-        title: brain-wave activity study of mediums
+        title: Brain-wave activity study of mediums
         slug: brain-wave-activity-study-of-mediums
       - node_id: 8d09e976-8eba-4e72-b2f5-385d020289b5
         title: '"The Mind of the Medium: The Art and Science of Psychic Mediumship" (blog post by Jeff Tarrant)'
@@ -583,7 +583,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 880b88e9-fc8d-4ad5-9d7f-f821fbe47418
-        title: Jeff Tarrant's brain-mapping study of Laura Lynne Jackson (2013- )
+        title: Jeff Tarrant's brain-mapping study of Laura Lynne Jackson (2013-)
         slug: jeff-tarrants-brain-mapping-study-of-laura-lynne-jackson-2013
       - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
         title: Jeff Tarrant

@@ -24,22 +24,22 @@ belonging:
   unreviewed: 99
 related_nodes:
   - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-    title: near-death experience (NDE)
+    title: Near-death experience (NDE)
     node_type: topic
     slug: near-death-experience-nde
     shared_claims: 17
   - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-    title: nonlocal consciousness
+    title: Nonlocal consciousness
     node_type: topic
     slug: nonlocal-consciousness
     shared_claims: 15
   - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
-    title: materialist paradigm of consciousness
+    title: Materialist paradigm of consciousness
     node_type: topic
     slug: materialist-paradigm-of-consciousness
     shared_claims: 5
   - node_id: 2191a476-b188-481c-bf57-95fc089afbe3
-    title: van Lommel et al. 2001 Lancet study on near-death experiences
+    title: Van Lommel et al. 2001 Lancet study on near-death experiences
     node_type: document
     slug: van-lommel-et-al-2001-lancet-study-on-near-death-experiences
     shared_claims: 4
@@ -49,12 +49,12 @@ related_nodes:
     slug: peter-fenwick
     shared_claims: 2
   - node_id: 8d46574b-05d7-4112-b31f-339f93b3d360
-    title: quantum nonlocality
+    title: Quantum nonlocality
     node_type: topic
     slug: quantum-nonlocality
     shared_claims: 2
   - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-    title: survival hypothesis
+    title: Survival hypothesis
     node_type: topic
     slug: survival-hypothesis
     shared_claims: 2
@@ -82,6 +82,16 @@ related_nodes:
     title: Dutch Association Against Quackery
     node_type: organisation
     slug: dutch-association-against-quackery
+    shared_claims: 1
+  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+    title: Electroencephalography (EEG)
+    node_type: topic
+    slug: electroencephalography-eeg
+    shared_claims: 1
+  - node_id: 14da1dc7-1325-4a1b-aa81-15e85474c49c
+    title: End-of-life experiences
+    node_type: topic
+    slug: end-of-life-experiences
     shared_claims: 1
   - node_id: 953f6232-9902-437f-ad4c-add4fd080043
     title: Leslie Kean
@@ -118,30 +128,20 @@ related_nodes:
     node_type: organisation
     slug: the-lancet
     shared_claims: 1
-  - node_id: 6ee34082-2037-42ee-9cfe-8c01ec50348b
-    title: W. Betz
-    node_type: person
-    slug: w-betz
-    shared_claims: 1
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    node_type: topic
-    slug: electroencephalography-eeg
-    shared_claims: 1
-  - node_id: 14da1dc7-1325-4a1b-aa81-15e85474c49c
-    title: end-of-life experiences
-    node_type: topic
-    slug: end-of-life-experiences
-    shared_claims: 1
   - node_id: 7d6bde80-2ab3-46e4-a31e-f8ef5b02b1cb
-    title: unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
+    title: Unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
     node_type: event
     slug: unnamed-coronary-care-unit-patients-veridical-out-of-body-experience-of-dentures-removal
     shared_claims: 1
   - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
-    title: veridical out-of-body perception
+    title: Veridical out-of-body perception
     node_type: topic
     slug: veridical-out-of-body-perception
+    shared_claims: 1
+  - node_id: 6ee34082-2037-42ee-9cfe-8c01ec50348b
+    title: W. Betz
+    node_type: person
+    slug: w-betz
     shared_claims: 1
 claims:
   - claim_id: bc21c507-6a67-45e8-865f-9d98803accc9
@@ -400,7 +400,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
         title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
@@ -436,7 +436,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
         title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
@@ -474,7 +474,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
         title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
@@ -512,7 +512,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
         title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
@@ -549,7 +549,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
         title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
@@ -586,7 +586,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
         title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
@@ -623,13 +623,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -663,7 +663,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2191a476-b188-481c-bf57-95fc089afbe3
-        title: van Lommel et al. 2001 Lancet study on near-death experiences
+        title: Van Lommel et al. 2001 Lancet study on near-death experiences
         slug: van-lommel-et-al-2001-lancet-study-on-near-death-experiences
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -701,10 +701,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 2191a476-b188-481c-bf57-95fc089afbe3
-        title: van Lommel et al. 2001 Lancet study on near-death experiences
+        title: Van Lommel et al. 2001 Lancet study on near-death experiences
         slug: van-lommel-et-al-2001-lancet-study-on-near-death-experiences
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -743,7 +743,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2191a476-b188-481c-bf57-95fc089afbe3
-        title: van Lommel et al. 2001 Lancet study on near-death experiences
+        title: Van Lommel et al. 2001 Lancet study on near-death experiences
         slug: van-lommel-et-al-2001-lancet-study-on-near-death-experiences
       - node_id: 2271e97d-2520-4a9f-8322-f4a332eb1654
         title: Dutch Association Against Quackery
@@ -789,7 +789,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2191a476-b188-481c-bf57-95fc089afbe3
-        title: van Lommel et al. 2001 Lancet study on near-death experiences
+        title: Van Lommel et al. 2001 Lancet study on near-death experiences
         slug: van-lommel-et-al-2001-lancet-study-on-near-death-experiences
       - node_id: 297a7748-8fd4-494a-9253-305c6e06b003
         title: SKEPP
@@ -834,7 +834,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
         title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
@@ -904,7 +904,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 3b62adb4-0814-4889-ae74-bb8a60c26541
         title: Greyson 2003 American prospective Near-Death Experience (NDE) study
@@ -944,10 +944,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -983,7 +983,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
     date: null
     date_end: null
@@ -1016,7 +1016,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -1053,7 +1053,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
-        title: veridical out-of-body perception
+        title: Veridical out-of-body perception
         slug: veridical-out-of-body-perception
       - node_id: 7d618f64-556b-469c-b75e-3a7b103bdb81
         title: Maria
@@ -1096,10 +1096,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
-        title: veridical out-of-body perception
+        title: Veridical out-of-body perception
         slug: veridical-out-of-body-perception
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
     date: null
     date_end: null
@@ -1131,7 +1131,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
     date: null
     date_end: null
@@ -1163,7 +1163,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -1240,7 +1240,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
-        title: veridical out-of-body perception
+        title: Veridical out-of-body perception
         slug: veridical-out-of-body-perception
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -1310,10 +1310,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
-        title: veridical out-of-body perception
+        title: Veridical out-of-body perception
         slug: veridical-out-of-body-perception
       - node_id: 7d6bde80-2ab3-46e4-a31e-f8ef5b02b1cb
-        title: unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
+        title: Unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
         slug: unnamed-coronary-care-unit-patients-veridical-out-of-body-experience-of-dentures-removal
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -1355,7 +1355,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7d6bde80-2ab3-46e4-a31e-f8ef5b02b1cb
-        title: unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
+        title: Unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
         slug: unnamed-coronary-care-unit-patients-veridical-out-of-body-experience-of-dentures-removal
     date: null
     date_end: null
@@ -1392,7 +1392,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7d6bde80-2ab3-46e4-a31e-f8ef5b02b1cb
-        title: unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
+        title: Unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
         slug: unnamed-coronary-care-unit-patients-veridical-out-of-body-experience-of-dentures-removal
     date: null
     date_end: null
@@ -1460,10 +1460,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
-        title: veridical out-of-body perception
+        title: Veridical out-of-body perception
         slug: veridical-out-of-body-perception
       - node_id: 7d6bde80-2ab3-46e4-a31e-f8ef5b02b1cb
-        title: unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
+        title: Unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
         slug: unnamed-coronary-care-unit-patients-veridical-out-of-body-experience-of-dentures-removal
     date: null
     date_end: null
@@ -1497,7 +1497,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7d6bde80-2ab3-46e4-a31e-f8ef5b02b1cb
-        title: unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
+        title: Unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
         slug: unnamed-coronary-care-unit-patients-veridical-out-of-body-experience-of-dentures-removal
     date: null
     date_end: null
@@ -1529,7 +1529,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7d6bde80-2ab3-46e4-a31e-f8ef5b02b1cb
-        title: unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
+        title: Unnamed coronary-care-unit patient's veridical out-of-body experience of dentures removal
         slug: unnamed-coronary-care-unit-patients-veridical-out-of-body-experience-of-dentures-removal
     date: null
     date_end: null
@@ -1566,7 +1566,7 @@ claims:
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1598,7 +1598,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1633,10 +1633,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
-        title: materialist paradigm of consciousness
+        title: Materialist paradigm of consciousness
         slug: materialist-paradigm-of-consciousness
     date: null
     date_end: null
@@ -1670,10 +1670,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
-        title: materialist paradigm of consciousness
+        title: Materialist paradigm of consciousness
         slug: materialist-paradigm-of-consciousness
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -1707,10 +1707,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
-        title: materialist paradigm of consciousness
+        title: Materialist paradigm of consciousness
         slug: materialist-paradigm-of-consciousness
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -1747,7 +1747,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -1783,7 +1783,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-        title: electroencephalography (EEG)
+        title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -1852,7 +1852,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
-        title: materialist paradigm of consciousness
+        title: Materialist paradigm of consciousness
         slug: materialist-paradigm-of-consciousness
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -1889,7 +1889,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
-        title: materialist paradigm of consciousness
+        title: Materialist paradigm of consciousness
         slug: materialist-paradigm-of-consciousness
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -2063,13 +2063,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8d46574b-05d7-4112-b31f-339f93b3d360
-        title: quantum nonlocality
+        title: Quantum nonlocality
         slug: quantum-nonlocality
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -2106,7 +2106,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -2142,13 +2142,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -2185,7 +2185,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -2222,7 +2222,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
       - node_id: ec527113-0912-4b33-81d6-d58f7df79dc1
         title: After-death communication (ADC)
@@ -2289,13 +2289,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8d46574b-05d7-4112-b31f-339f93b3d360
-        title: quantum nonlocality
+        title: Quantum nonlocality
         slug: quantum-nonlocality
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -2328,13 +2328,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -2368,7 +2368,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
-        title: materialist paradigm of consciousness
+        title: Materialist paradigm of consciousness
         slug: materialist-paradigm-of-consciousness
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -2476,7 +2476,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -2510,7 +2510,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -2549,7 +2549,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -2585,7 +2585,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -2622,7 +2622,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -2656,10 +2656,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
-        title: materialist paradigm of consciousness
+        title: Materialist paradigm of consciousness
         slug: materialist-paradigm-of-consciousness
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -2692,7 +2692,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -2729,7 +2729,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -2766,7 +2766,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -2803,7 +2803,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -2842,7 +2842,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -2883,7 +2883,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
     date: null
     date_end: null
@@ -2916,7 +2916,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
     date: null
     date_end: null
@@ -2950,7 +2950,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
     date: null
     date_end: null
@@ -2984,7 +2984,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
     date: null
     date_end: null
@@ -3018,7 +3018,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
     date: null
     date_end: null
@@ -3054,7 +3054,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
     date: null
     date_end: null
@@ -3088,7 +3088,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
     date: null
     date_end: null
@@ -3120,7 +3120,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -3157,7 +3157,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
     date: null
     date_end: null
@@ -3192,7 +3192,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
         title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
@@ -3231,7 +3231,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
         title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
@@ -3434,7 +3434,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a2ebc6ff-b05b-489e-b345-d38f5068b6ab
         title: Pim van Lommel's 1988-2001 Dutch prospective Near-Death Experience (NDE) study
@@ -3471,10 +3471,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 14da1dc7-1325-4a1b-aa81-15e85474c49c
-        title: end-of-life experiences
+        title: End-of-life experiences
         slug: end-of-life-experiences
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
@@ -3515,13 +3515,13 @@ claims:
         title: Peter Fenwick
         slug: peter-fenwick
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: near-death experience (NDE)
+        title: Near-death experience (NDE)
         slug: near-death-experience-nde
       - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -3560,7 +3560,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -3597,7 +3597,7 @@ claims:
         title: Pim van Lommel
         slug: pim-van-lommel
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -3636,7 +3636,7 @@ claims:
         title: Peter Fenwick
         slug: peter-fenwick
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean

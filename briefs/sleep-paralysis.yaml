@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
   node_type: topic
-  title: sleep paralysis
+  title: Sleep paralysis
   slug: sleep-paralysis
   claim_count: 30
   claim_count_total: 30
@@ -58,25 +58,25 @@ related_nodes:
     node_type: topic
     slug: out-of-body-experience-obe
     shared_claims: 3
-  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
-    title: Lucid Dreaming
-    node_type: topic
-    slug: lucid-dreaming
-    shared_claims: 2
   - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
+    title: Alien abduction
     node_type: topic
     slug: alien-abduction
     shared_claims: 2
   - node_id: 6f1d7102-1298-4638-ab0e-e4a1523d0e25
-    title: hypnagogic imagery
+    title: Hypnagogic imagery
     node_type: topic
     slug: hypnagogic-imagery
     shared_claims: 2
   - node_id: 496a6b87-409a-48ae-a59a-2a2fbfa48c07
-    title: hypnopompic hallucination
+    title: Hypnopompic hallucination
     node_type: topic
     slug: hypnopompic-hallucination
+    shared_claims: 2
+  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+    title: Lucid Dreaming
+    node_type: topic
+    slug: lucid-dreaming
     shared_claims: 2
   - node_id: 327a1797-a5ec-414d-b9ae-6486e3e3ffd5
     title: America Online (AOL)
@@ -103,35 +103,35 @@ related_nodes:
     node_type: event
     slug: erik-nanstiel-1994-grey-encounter
     shared_claims: 1
+  - node_id: dcc840c9-8ef1-4997-aaa6-e7b80e8ee90a
+    title: Multi-dimensional body
+    node_type: topic
+    slug: multi-dimensional-body
+    shared_claims: 1
   - node_id: 4edb686d-59e3-443a-9ebe-bccf34cce70f
     title: Qigong (Chi Gong)
     node_type: topic
     slug: qigong-chi-gong
+    shared_claims: 1
+  - node_id: b92b1eb3-2dab-4b3e-acae-ed9705a8b005
+    title: Shadow people
+    node_type: topic
+    slug: shadow-people
     shared_claims: 1
   - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
     title: The Monroe Institute
     node_type: organisation
     slug: the-monroe-institute
     shared_claims: 1
+  - node_id: 05df981b-2fd2-4e98-b701-8627e6fc70d5
+    title: The old hag phenomenon
+    node_type: topic
+    slug: the-old-hag-phenomenon
+    shared_claims: 1
   - node_id: a1944995-1d95-4159-915f-d001d4be3919
     title: Yahoo
     node_type: organisation
     slug: yahoo
-    shared_claims: 1
-  - node_id: dcc840c9-8ef1-4997-aaa6-e7b80e8ee90a
-    title: multi-dimensional body
-    node_type: topic
-    slug: multi-dimensional-body
-    shared_claims: 1
-  - node_id: b92b1eb3-2dab-4b3e-acae-ed9705a8b005
-    title: shadow people
-    node_type: topic
-    slug: shadow-people
-    shared_claims: 1
-  - node_id: 05df981b-2fd2-4e98-b701-8627e6fc70d5
-    title: the old hag phenomenon
-    node_type: topic
-    slug: the-old-hag-phenomenon
     shared_claims: 1
 claims:
   - claim_id: 8180101d-c7f1-4b61-859e-50db51c0c959
@@ -159,7 +159,7 @@ claims:
         title: John O'Neill
         slug: john-oneill
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -203,7 +203,7 @@ claims:
         title: John O'Neill
         slug: john-oneill
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -243,7 +243,7 @@ claims:
         title: John O'Neill
         slug: john-oneill
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -284,13 +284,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 6f1d7102-1298-4638-ab0e-e4a1523d0e25
-        title: hypnagogic imagery
+        title: Hypnagogic imagery
         slug: hypnagogic-imagery
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -328,13 +328,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 6f1d7102-1298-4638-ab0e-e4a1523d0e25
-        title: hypnagogic imagery
+        title: Hypnagogic imagery
         slug: hypnagogic-imagery
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -372,7 +372,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
         title: Ronald Siegel
@@ -409,7 +409,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
         title: Ronald Siegel
@@ -446,7 +446,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
         title: Ronald Siegel
@@ -483,10 +483,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 496a6b87-409a-48ae-a59a-2a2fbfa48c07
-        title: hypnopompic hallucination
+        title: Hypnopompic hallucination
         slug: hypnopompic-hallucination
       - node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
         title: Ronald Siegel
@@ -521,10 +521,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 496a6b87-409a-48ae-a59a-2a2fbfa48c07
-        title: hypnopompic hallucination
+        title: Hypnopompic hallucination
         slug: hypnopompic-hallucination
     date: null
     date_end: null
@@ -560,7 +560,7 @@ claims:
         title: Erik Nanstiel
         slug: erik-nanstiel
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 530511b4-8f58-40fa-927a-2c2aef39d54b
         title: Erik Nanstiel 1994 grey encounter
@@ -594,13 +594,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -633,7 +633,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
@@ -669,7 +669,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
@@ -708,7 +708,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 327a1797-a5ec-414d-b9ae-6486e3e3ffd5
         title: America Online (AOL)
@@ -750,7 +750,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
@@ -786,7 +786,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
@@ -823,13 +823,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
         slug: jason-quitt
       - node_id: dcc840c9-8ef1-4997-aaa6-e7b80e8ee90a
-        title: multi-dimensional body
+        title: Multi-dimensional body
         slug: multi-dimensional-body
     date: null
     date_end: null
@@ -862,7 +862,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -903,7 +903,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -938,7 +938,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -975,10 +975,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 05df981b-2fd2-4e98-b701-8627e6fc70d5
-        title: the old hag phenomenon
+        title: The old hag phenomenon
         slug: the-old-hag-phenomenon
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1014,7 +1014,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1054,7 +1054,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1094,7 +1094,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -1135,7 +1135,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 4edb686d-59e3-443a-9ebe-bccf34cce70f
         title: Qigong (Chi Gong)
@@ -1175,13 +1175,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
         slug: jason-quitt
       - node_id: b92b1eb3-2dab-4b3e-acae-ed9705a8b005
-        title: shadow people
+        title: Shadow people
         slug: shadow-people
     date: null
     date_end: null
@@ -1217,13 +1217,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 4860f67b-322c-4a17-a59c-95299225511a
         title: Bob Mitchell
         slug: bob-mitchell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -1257,7 +1257,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1295,7 +1295,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)

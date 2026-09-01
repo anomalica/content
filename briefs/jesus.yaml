@@ -68,6 +68,11 @@ related_nodes:
     node_type: document
     slug: didache
     shared_claims: 1
+  - node_id: 84a43dea-0183-4bb1-b2d7-c9637920d75f
+    title: Eschatology
+    node_type: topic
+    slug: eschatology
+    shared_claims: 1
   - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
     title: Jacques Vallée
     node_type: person
@@ -97,11 +102,6 @@ related_nodes:
     title: The Bible
     node_type: document
     slug: the-bible
-    shared_claims: 1
-  - node_id: 84a43dea-0183-4bb1-b2d7-c9637920d75f
-    title: eschatology
-    node_type: topic
-    slug: eschatology
     shared_claims: 1
 claims:
   - claim_id: cc3d4bfd-3c25-4112-90b8-2aacabb60ffb
@@ -397,7 +397,7 @@ claims:
         title: Lone Stars group
         slug: lone-stars-group
       - node_id: 84a43dea-0183-4bb1-b2d7-c9637920d75f
-        title: eschatology
+        title: Eschatology
         slug: eschatology
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)

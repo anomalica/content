@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
   node_type: topic
-  title: polymerase chain reaction
+  title: Polymerase chain reaction
   slug: polymerase-chain-reaction
   claim_count: 35
   claim_count_total: 35
@@ -48,15 +48,15 @@ related_nodes:
     node_type: topic
     slug: deoxyribonucleic-acid-dna-profiling
     shared_claims: 4
+  - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
+    title: Mitochondrial Deoxyribonucleic Acid (DNA)
+    node_type: topic
+    slug: mitochondrial-deoxyribonucleic-acid-dna
+    shared_claims: 4
   - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
     title: Peter Khoury
     node_type: person
     slug: peter-khoury
-    shared_claims: 4
-  - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
-    title: mitochondrial Deoxyribonucleic Acid (DNA)
-    node_type: topic
-    slug: mitochondrial-deoxyribonucleic-acid-dna
     shared_claims: 4
   - node_id: 3ff75793-423c-4333-8402-d5c543074091
     title: Bill Chalker
@@ -113,6 +113,18 @@ related_nodes:
     node_type: person
     slug: mike-woods-daughter
     shared_claims: 1
+  - node_id: 146c1c05-7049-4a51-9fd5-46904a84e5d5
+    title: Mitochondrial Deoxyribonucleic Acid (DNA) Polymerase Chain Reaction (PCR) profiling comparison of Mike Wood's daughter's
+      hair sample against human consensus
+    node_type: event
+    slug: mitochondrial-deoxyribonucleic-acid-dna-polymerase-chain-reaction-pcr-profiling-comparison-of-mike-woods-daughters-hair-sample-against-human-consensus
+    shared_claims: 1
+  - node_id: a789545b-0778-4fee-80fe-0741297014c2
+    title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample (Phase
+      One, hair shaft, 1998-1999)
+    node_type: event
+    slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
+    shared_claims: 1
   - node_id: fd0d4696-45b5-43d9-ad79-26df5acb4a6f
     title: Nobel Prize in Chemistry
     node_type: topic
@@ -139,18 +151,6 @@ related_nodes:
     node_type: place
     slug: california-mendocino-county-anderson-valley-cabin-usa
     shared_claims: 1
-  - node_id: 146c1c05-7049-4a51-9fd5-46904a84e5d5
-    title: mitochondrial Deoxyribonucleic Acid (DNA) Polymerase Chain Reaction (PCR) profiling comparison of Mike Wood's daughter's
-      hair sample against human consensus
-    node_type: event
-    slug: mitochondrial-deoxyribonucleic-acid-dna-polymerase-chain-reaction-pcr-profiling-comparison-of-mike-woods-daughters-hair-sample-against-human-consensus
-    shared_claims: 1
-  - node_id: a789545b-0778-4fee-80fe-0741297014c2
-    title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample (Phase
-      One, hair shaft, 1998-1999)
-    node_type: event
-    slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
-    shared_claims: 1
 claims:
   - claim_id: 94ca98f2-f656-4339-b107-18947433df33
     claim_hash: 6c0c06a58c8ac130e102d870a3058fbedcc62f43f54ee1d77c20e5dc857dd1d4
@@ -172,7 +172,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
-        title: mitochondrial Deoxyribonucleic Acid (DNA)
+        title: Mitochondrial Deoxyribonucleic Acid (DNA)
         slug: mitochondrial-deoxyribonucleic-acid-dna
       - node_id: 21c29dd2-c3c2-4c56-b32f-0c261bad9517
         title: Anomaly Physical Evidence Group (APEG)
@@ -181,7 +181,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -218,10 +218,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: a789545b-0778-4fee-80fe-0741297014c2
-        title: mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
           (Phase One, hair shaft, 1998-1999)
         slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
     date: null
@@ -254,7 +254,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: null
     date_end: null
@@ -286,7 +286,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: bc2f053f-e64f-43b5-8277-1d8036baf9f6
         title: Vivian Khoury
@@ -325,7 +325,7 @@ claims:
         title: Kary Mullis
         slug: kary-mullis
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: a3ac6135-89c2-4d32-96da-8e2a74d2a160
         title: USA, California, Mendocino County, Anderson Valley cabin
@@ -364,17 +364,17 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
-        title: mitochondrial Deoxyribonucleic Acid (DNA)
+        title: Mitochondrial Deoxyribonucleic Acid (DNA)
         slug: mitochondrial-deoxyribonucleic-acid-dna
       - node_id: 146c1c05-7049-4a51-9fd5-46904a84e5d5
-        title: mitochondrial Deoxyribonucleic Acid (DNA) Polymerase Chain Reaction (PCR) profiling comparison of Mike Wood's
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) Polymerase Chain Reaction (PCR) profiling comparison of Mike Wood's
           daughter's hair sample against human consensus
         slug: mitochondrial-deoxyribonucleic-acid-dna-polymerase-chain-reaction-pcr-profiling-comparison-of-mike-woods-daughters-hair-sample-against-human-consensus
       - node_id: 3cd38fe6-f50f-407c-956b-ca5d4c844909
         title: Mike Wood's daughter
         slug: mike-woods-daughter
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: null
     date_end: null
@@ -413,7 +413,7 @@ claims:
         title: 2000-09 Gary Lowrey alien claw discovery
         slug: 2000-09-gary-lowrey-alien-claw-discovery
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
         title: Colm Kelleher
@@ -452,7 +452,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: null
     date_end: null
@@ -489,7 +489,7 @@ claims:
         title: 2000-09 Gary Lowrey alien claw discovery
         slug: 2000-09-gary-lowrey-alien-claw-discovery
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: null
     date_end: null
@@ -526,7 +526,7 @@ claims:
         title: Betty Hill
         slug: betty-hill
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: 92a70f77-d5d2-4547-bc55-49a07cdd6b24
         title: Betty Hill's 1961 dress Deoxyribonucleic Acid (DNA) analysis
@@ -566,7 +566,7 @@ claims:
         title: Deoxyribonucleic Acid (DNA) profiling
         slug: deoxyribonucleic-acid-dna-profiling
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: null
     date_end: null
@@ -601,7 +601,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -640,7 +640,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
         title: Peter Khoury alien abduction case
@@ -679,7 +679,7 @@ claims:
           shaft
         slug: chinese-mongoloid-mitochondrial-deoxyribonucleic-acid-dna-substitution-found-in-peter-khourys-alien-hair-shaft
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
         title: Peter Khoury alien abduction case
@@ -716,7 +716,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
         title: Peter Khoury alien abduction case
@@ -754,10 +754,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
-        title: mitochondrial Deoxyribonucleic Acid (DNA)
+        title: Mitochondrial Deoxyribonucleic Acid (DNA)
         slug: mitochondrial-deoxyribonucleic-acid-dna
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: null
     date_end: null
@@ -794,7 +794,7 @@ claims:
         title: Kary Mullis
         slug: kary-mullis
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -834,7 +834,7 @@ claims:
         title: UFO Research New South Wales
         slug: ufo-research-new-south-wales
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: null
     date_end: null
@@ -870,7 +870,7 @@ claims:
         title: David Berryman
         slug: david-berryman
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: null
     date_end: null
@@ -915,7 +915,7 @@ claims:
         title: Radio National (ABC)
         slug: radio-national-abc
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: a709c9ea-00d7-47ac-b8c4-78e319f72728
         title: David Berryman's September 22, 2002 Radio National interview on Polymerase Chain Reaction (PCR) crime-scene
@@ -956,7 +956,7 @@ claims:
         title: David Berryman
         slug: david-berryman
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: a709c9ea-00d7-47ac-b8c4-78e319f72728
         title: David Berryman's September 22, 2002 Radio National interview on Polymerase Chain Reaction (PCR) crime-scene
@@ -997,7 +997,7 @@ claims:
         title: David Berryman
         slug: david-berryman
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: a709c9ea-00d7-47ac-b8c4-78e319f72728
         title: David Berryman's September 22, 2002 Radio National interview on Polymerase Chain Reaction (PCR) crime-scene
@@ -1039,7 +1039,7 @@ claims:
         title: David Berryman
         slug: david-berryman
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: a709c9ea-00d7-47ac-b8c4-78e319f72728
         title: David Berryman's September 22, 2002 Radio National interview on Polymerase Chain Reaction (PCR) crime-scene
@@ -1080,7 +1080,7 @@ claims:
         title: David Berryman
         slug: david-berryman
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: a709c9ea-00d7-47ac-b8c4-78e319f72728
         title: David Berryman's September 22, 2002 Radio National interview on Polymerase Chain Reaction (PCR) crime-scene
@@ -1121,7 +1121,7 @@ claims:
         title: David Berryman
         slug: david-berryman
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: a709c9ea-00d7-47ac-b8c4-78e319f72728
         title: David Berryman's September 22, 2002 Radio National interview on Polymerase Chain Reaction (PCR) crime-scene
@@ -1164,7 +1164,7 @@ claims:
         title: David Berryman
         slug: david-berryman
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: a709c9ea-00d7-47ac-b8c4-78e319f72728
         title: David Berryman's September 22, 2002 Radio National interview on Polymerase Chain Reaction (PCR) crime-scene
@@ -1205,7 +1205,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -1250,7 +1250,7 @@ claims:
         title: Bill Chalker
         slug: bill-chalker
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
         title: Peter Khoury alien abduction case
@@ -1287,10 +1287,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
-        title: mitochondrial Deoxyribonucleic Acid (DNA)
+        title: Mitochondrial Deoxyribonucleic Acid (DNA)
         slug: mitochondrial-deoxyribonucleic-acid-dna
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
         title: Peter Khoury alien abduction case
@@ -1328,7 +1328,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: null
     date_end: null
@@ -1362,7 +1362,7 @@ claims:
         title: Kary Mullis
         slug: kary-mullis
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: null
     date_end: null
@@ -1395,7 +1395,7 @@ claims:
         title: Kary Mullis
         slug: kary-mullis
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
       - node_id: fd0d4696-45b5-43d9-ad79-26df5acb4a6f
         title: Nobel Prize in Chemistry
@@ -1439,7 +1439,7 @@ claims:
         title: Henry C. Lee
         slug: henry-c-lee
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: null
     date_end: null
@@ -1478,7 +1478,7 @@ claims:
         title: Henry C. Lee
         slug: henry-c-lee
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: null
     date_end: null
@@ -1512,7 +1512,7 @@ claims:
         title: Kary Mullis
         slug: kary-mullis
       - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
-        title: polymerase chain reaction
+        title: Polymerase chain reaction
         slug: polymerase-chain-reaction
     date: '1993'
     date_end: null

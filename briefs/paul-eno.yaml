@@ -24,17 +24,17 @@ belonging:
   unreviewed: 10
 related_nodes:
   - node_id: 51d5b265-d761-4682-a177-e794447ed628
-    title: exorcism
+    title: Exorcism
     node_type: topic
     slug: exorcism
     shared_claims: 4
   - node_id: c02e77c4-512a-4524-88ae-55ec4eaa6c83
-    title: exorcism of seventeen-year-old girl witnessed by Paul Eno
+    title: Exorcism of seventeen-year-old girl witnessed by Paul Eno
     node_type: event
     slug: exorcism-of-seventeen-year-old-girl-witnessed-by-paul-eno
     shared_claims: 4
   - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-    title: levitation
+    title: Levitation
     node_type: topic
     slug: levitation
     shared_claims: 4
@@ -59,7 +59,7 @@ claims:
         title: Paul Eno
         slug: paul-eno
       - node_id: c02e77c4-512a-4524-88ae-55ec4eaa6c83
-        title: exorcism of seventeen-year-old girl witnessed by Paul Eno
+        title: Exorcism of seventeen-year-old girl witnessed by Paul Eno
         slug: exorcism-of-seventeen-year-old-girl-witnessed-by-paul-eno
     date: null
     date_end: null
@@ -130,7 +130,7 @@ claims:
         title: Paul Eno
         slug: paul-eno
       - node_id: c02e77c4-512a-4524-88ae-55ec4eaa6c83
-        title: exorcism of seventeen-year-old girl witnessed by Paul Eno
+        title: Exorcism of seventeen-year-old girl witnessed by Paul Eno
         slug: exorcism-of-seventeen-year-old-girl-witnessed-by-paul-eno
     date: null
     date_end: null
@@ -167,10 +167,10 @@ claims:
         title: Paul Eno
         slug: paul-eno
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
       - node_id: c02e77c4-512a-4524-88ae-55ec4eaa6c83
-        title: exorcism of seventeen-year-old girl witnessed by Paul Eno
+        title: Exorcism of seventeen-year-old girl witnessed by Paul Eno
         slug: exorcism-of-seventeen-year-old-girl-witnessed-by-paul-eno
     date: null
     date_end: null
@@ -205,7 +205,7 @@ claims:
         title: Paul Eno
         slug: paul-eno
       - node_id: c02e77c4-512a-4524-88ae-55ec4eaa6c83
-        title: exorcism of seventeen-year-old girl witnessed by Paul Eno
+        title: Exorcism of seventeen-year-old girl witnessed by Paul Eno
         slug: exorcism-of-seventeen-year-old-girl-witnessed-by-paul-eno
     date: null
     date_end: null
@@ -238,7 +238,7 @@ claims:
         title: Paul Eno
         slug: paul-eno
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -276,7 +276,7 @@ claims:
         title: Paul Eno
         slug: paul-eno
       - node_id: 51d5b265-d761-4682-a177-e794447ed628
-        title: exorcism
+        title: Exorcism
         slug: exorcism
     date: null
     date_end: null
@@ -316,7 +316,7 @@ claims:
         title: Paul Eno
         slug: paul-eno
       - node_id: 51d5b265-d761-4682-a177-e794447ed628
-        title: exorcism
+        title: Exorcism
         slug: exorcism
     date: null
     date_end: null
@@ -357,10 +357,10 @@ claims:
         title: Paul Eno
         slug: paul-eno
       - node_id: 51d5b265-d761-4682-a177-e794447ed628
-        title: exorcism
+        title: Exorcism
         slug: exorcism
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null
@@ -398,10 +398,10 @@ claims:
         title: Paul Eno
         slug: paul-eno
       - node_id: 51d5b265-d761-4682-a177-e794447ed628
-        title: exorcism
+        title: Exorcism
         slug: exorcism
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-        title: levitation
+        title: Levitation
         slug: levitation
     date: null
     date_end: null

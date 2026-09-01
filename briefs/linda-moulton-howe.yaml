@@ -89,10 +89,20 @@ related_nodes:
     node_type: document
     slug: 2019-to-the-stars-academy-of-arts-sciences-ttsa-securities-and-exchange-commission-sec-disclosure-on-arts-parts-purchase
     shared_claims: 1
+  - node_id: 86d836b2-2e1f-4f1b-ad27-9ee79da084a2
+    title: Ancient astronaut theory
+    node_type: topic
+    slug: ancient-astronaut-theory
+    shared_claims: 1
   - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
     title: Bruce Maccabee
     node_type: person
     slug: bruce-maccabee
+    shared_claims: 1
+  - node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
+    title: Cattle mutilation
+    node_type: topic
+    slug: cattle-mutilation
     shared_claims: 1
   - node_id: dfa3268c-8bbb-4c5d-8066-f9a3a416b7e6
     title: Communion (Whitley Strieber book)
@@ -163,16 +173,6 @@ related_nodes:
     title: USA, New Mexico, White Sands
     node_type: place
     slug: new-mexico-white-sands-usa
-    shared_claims: 1
-  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
-    title: United States Army
-    node_type: organisation
-    slug: united-states-army
-    shared_claims: 1
-  - node_id: 86d836b2-2e1f-4f1b-ad27-9ee79da084a2
-    title: ancient astronaut theory
-    node_type: topic
-    slug: ancient-astronaut-theory
     shared_claims: 1
 claims:
   - claim_id: 092ab7bb-81b1-4f7a-9b1f-7f93b8f47a5c
@@ -905,7 +905,7 @@ claims:
         title: Linda Moulton Howe
         slug: linda-moulton-howe
       - node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
-        title: cattle mutilation
+        title: Cattle mutilation
         slug: cattle-mutilation
     date: null
     date_end: null
@@ -942,7 +942,7 @@ claims:
         title: Greys (extraterrestrial beings)
         slug: greys-extraterrestrial-beings
       - node_id: 86d836b2-2e1f-4f1b-ad27-9ee79da084a2
-        title: ancient astronaut theory
+        title: Ancient astronaut theory
         slug: ancient-astronaut-theory
     date: null
     date_end: null

@@ -49,10 +49,15 @@ related_nodes:
     slug: poseidon
     shared_claims: 4
   - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
-    title: precession of the equinoxes
+    title: Precession of the equinoxes
     node_type: topic
     slug: precession-of-the-equinoxes
     shared_claims: 4
+  - node_id: 7a34e267-ee5c-4172-9230-fb920cddde2a
+    title: Cyclical destruction by fire and water
+    node_type: topic
+    slug: cyclical-destruction-by-fire-and-water
+    shared_claims: 3
   - node_id: 46aaeeb4-05cc-413a-892a-bd9f52e4c35f
     title: Egyptian creation myths
     node_type: topic
@@ -78,11 +83,16 @@ related_nodes:
     node_type: place
     slug: strait-of-gibraltar-spain-morocco
     shared_claims: 3
-  - node_id: 7a34e267-ee5c-4172-9230-fb920cddde2a
-    title: cyclical destruction by fire and water
+  - node_id: a64c32cb-291d-4a81-8663-e91dfbb7b803
+    title: Astrotheology
     node_type: topic
-    slug: cyclical-destruction-by-fire-and-water
-    shared_claims: 3
+    slug: astrotheology
+    shared_claims: 2
+  - node_id: 88d33fdf-3494-410f-9137-935db5c9c45c
+    title: Demiurge
+    node_type: topic
+    slug: demiurge
+    shared_claims: 2
   - node_id: 6987da55-6570-45e6-ac96-ce73a15eabb8
     title: Egypt
     node_type: place
@@ -108,25 +118,15 @@ related_nodes:
     node_type: person
     slug: raymond-bernard
     shared_claims: 2
+  - node_id: 65b0455e-7d9d-419b-93bc-46a1fa6a5c4d
+    title: Secret societies
+    node_type: topic
+    slug: secret-societies
+    shared_claims: 2
   - node_id: 064e30a2-3d9f-4036-ada6-ce7df15f66d1
     title: Vega (star)
     node_type: object
     slug: vega-star
-    shared_claims: 2
-  - node_id: a64c32cb-291d-4a81-8663-e91dfbb7b803
-    title: astrotheology
-    node_type: topic
-    slug: astrotheology
-    shared_claims: 2
-  - node_id: 88d33fdf-3494-410f-9137-935db5c9c45c
-    title: demiurge
-    node_type: topic
-    slug: demiurge
-    shared_claims: 2
-  - node_id: 65b0455e-7d9d-419b-93bc-46a1fa6a5c4d
-    title: secret societies
-    node_type: topic
-    slug: secret-societies
     shared_claims: 2
   - node_id: b29d51b3-ea18-46c3-b059-8edf8e7c72a9
     title: 12 labours of Hercules
@@ -142,6 +142,16 @@ related_nodes:
     title: Ancient and Mystical Order of the Rosy Cross (AMORC)
     node_type: organisation
     slug: ancient-and-mystical-order-of-the-rosy-cross-amorc
+    shared_claims: 1
+  - node_id: fb350229-87cd-41df-98d3-016277d59b90
+    title: Ancient astronaut hypothesis
+    node_type: topic
+    slug: ancient-astronaut-hypothesis
+    shared_claims: 1
+  - node_id: c06dafc2-fee5-4276-8680-226eaef49f82
+    title: As above, so below
+    node_type: topic
+    slug: so-below-as-above
     shared_claims: 1
   - node_id: 23ff61ce-e9da-4b1b-b3e0-a0975965e9f6
     title: Atlas
@@ -162,16 +172,6 @@ related_nodes:
     title: Critias
     node_type: person
     slug: critias
-    shared_claims: 1
-  - node_id: e830d98d-6555-4898-9e4c-2808aac1e6c8
-    title: Emma Fox
-    node_type: person
-    slug: emma-fox
-    shared_claims: 1
-  - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
-    title: Heinrich Himmler
-    node_type: person
-    slug: heinrich-himmler
     shared_claims: 1
 claims:
   - claim_id: f1ec719b-3a15-4bed-867f-bb9743bb9dc1
@@ -468,7 +468,7 @@ claims:
         title: Atlantis
         slug: atlantis
       - node_id: fb350229-87cd-41df-98d3-016277d59b90
-        title: ancient astronaut hypothesis
+        title: Ancient astronaut hypothesis
         slug: ancient-astronaut-hypothesis
     date: null
     date_end: null
@@ -818,7 +818,7 @@ claims:
         title: Egyptian creation myths
         slug: egyptian-creation-myths
       - node_id: 8b91d74c-3d45-46e6-8fbc-076d20c27c22
-        title: hermeticism
+        title: Hermeticism
         slug: hermeticism
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
@@ -1066,7 +1066,7 @@ claims:
         title: Atlantis
         slug: atlantis
       - node_id: a338ad98-1490-4da4-b1bd-8c1c1a0f0fee
-        title: orichalcum
+        title: Orichalcum
         slug: orichalcum
     date: null
     date_end: null
@@ -1183,7 +1183,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
-        title: precession of the equinoxes
+        title: Precession of the equinoxes
         slug: precession-of-the-equinoxes
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1229,10 +1229,10 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: a64c32cb-291d-4a81-8663-e91dfbb7b803
-        title: astrotheology
+        title: Astrotheology
         slug: astrotheology
       - node_id: c06dafc2-fee5-4276-8680-226eaef49f82
-        title: as above, so below
+        title: As above, so below
         slug: so-below-as-above
     date: null
     date_end: null
@@ -1266,7 +1266,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
-        title: precession of the equinoxes
+        title: Precession of the equinoxes
         slug: precession-of-the-equinoxes
       - node_id: 064e30a2-3d9f-4036-ada6-ce7df15f66d1
         title: Vega (star)
@@ -1343,7 +1343,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
-        title: precession of the equinoxes
+        title: Precession of the equinoxes
         slug: precession-of-the-equinoxes
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1390,7 +1390,7 @@ claims:
         title: Nun (ancient Egyptian primordial waters)
         slug: nun-ancient-egyptian-primordial-waters
       - node_id: 7a34e267-ee5c-4172-9230-fb920cddde2a
-        title: cyclical destruction by fire and water
+        title: Cyclical destruction by fire and water
         slug: cyclical-destruction-by-fire-and-water
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
@@ -1472,7 +1472,7 @@ claims:
         title: Plato
         slug: plato
       - node_id: 88d33fdf-3494-410f-9137-935db5c9c45c
-        title: demiurge
+        title: Demiurge
         slug: demiurge
       - node_id: 9eb498ae-b397-4eeb-93e3-8d15c1a1de29
         title: Timaeus (dialogue by Plato)
@@ -1522,7 +1522,7 @@ claims:
         title: Timaeus (dialogue by Plato)
         slug: timaeus-dialogue-by-plato
       - node_id: fd7ec391-52f8-4411-8a6b-793458e83a27
-        title: sacred geometry
+        title: Sacred geometry
         slug: sacred-geometry
     date: null
     date_end: null
@@ -1654,7 +1654,7 @@ claims:
         title: Plato
         slug: plato
       - node_id: 65b0455e-7d9d-419b-93bc-46a1fa6a5c4d
-        title: secret societies
+        title: Secret societies
         slug: secret-societies
     date: null
     date_end: null
@@ -1693,7 +1693,7 @@ claims:
         title: Atlantis
         slug: atlantis
       - node_id: 7a34e267-ee5c-4172-9230-fb920cddde2a
-        title: cyclical destruction by fire and water
+        title: Cyclical destruction by fire and water
         slug: cyclical-destruction-by-fire-and-water
       - node_id: a264f1fe-2e5e-42d4-b688-60d4289a3a98
         title: Solon
@@ -1734,7 +1734,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
-        title: precession of the equinoxes
+        title: Precession of the equinoxes
         slug: precession-of-the-equinoxes
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1743,7 +1743,7 @@ claims:
         title: Solon
         slug: solon
       - node_id: a64c32cb-291d-4a81-8663-e91dfbb7b803
-        title: astrotheology
+        title: Astrotheology
         slug: astrotheology
     date: null
     date_end: null
@@ -1780,7 +1780,7 @@ claims:
         title: Atlantis
         slug: atlantis
       - node_id: 7a34e267-ee5c-4172-9230-fb920cddde2a
-        title: cyclical destruction by fire and water
+        title: Cyclical destruction by fire and water
         slug: cyclical-destruction-by-fire-and-water
       - node_id: a27f6b98-6732-48c1-9eb6-642003047d48
         title: Phaethon
@@ -2090,7 +2090,7 @@ claims:
         title: Proclus's commentary on the Atlantis story
         slug: procluss-commentary-on-the-atlantis-story
       - node_id: 88d33fdf-3494-410f-9137-935db5c9c45c
-        title: demiurge
+        title: Demiurge
         slug: demiurge
       - node_id: c40e0763-32f3-4358-b5d0-bee352a7f4c8
         title: Proclus
@@ -2133,7 +2133,7 @@ claims:
         title: Plato
         slug: plato
       - node_id: 65b0455e-7d9d-419b-93bc-46a1fa6a5c4d
-        title: secret societies
+        title: Secret societies
         slug: secret-societies
       - node_id: 6987da55-6570-45e6-ac96-ce73a15eabb8
         title: Egypt

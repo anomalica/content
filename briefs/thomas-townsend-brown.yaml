@@ -48,6 +48,11 @@ related_nodes:
     node_type: organisation
     slug: caroline-group
     shared_claims: 2
+  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+    title: Crash retrieval and reverse engineering
+    node_type: topic
+    slug: crash-retrieval-and-reverse-engineering
+    shared_claims: 2
   - node_id: 3028a824-813b-4b7f-83ff-ccd989f7c7dd
     title: Eldridge Reeves Johnson
     node_type: person
@@ -58,13 +63,8 @@ related_nodes:
     node_type: person
     slug: jesse-mitchells
     shared_claims: 2
-  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-    title: crash retrieval and reverse engineering
-    node_type: topic
-    slug: crash-retrieval-and-reverse-engineering
-    shared_claims: 2
   - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-    title: nonhuman intelligence (NHI)
+    title: Nonhuman intelligence (NHI)
     node_type: topic
     slug: nonhuman-intelligence-nhi
     shared_claims: 2
@@ -209,7 +209,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown
@@ -248,7 +248,7 @@ claims:
         title: 1958 Hartford Connecticut crash retrieval
         slug: 1958-hartford-connecticut-crash-retrieval
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
       - node_id: b23fce4b-dde4-41f9-8e0a-e62575d2de7c
         title: USA, Connecticut, Hartford
@@ -358,7 +358,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown
@@ -550,7 +550,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
-        title: crash retrieval and reverse engineering
+        title: Crash retrieval and reverse engineering
         slug: crash-retrieval-and-reverse-engineering
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown

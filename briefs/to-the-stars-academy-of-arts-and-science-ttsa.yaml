@@ -2838,7 +2838,7 @@ claims:
         title: EarthTech International
         slug: earthtech-international
       - node_id: c973fa9a-1303-4d8f-a85a-8e08f8f9d253
-        title: beamed energy propulsion
+        title: Beamed energy propulsion
         slug: beamed-energy-propulsion
     date: '2018'
     date_end: null
@@ -3519,7 +3519,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2e3b1f38-f41e-4ced-9ec0-812b17e942d3
-        title: metamaterials (Art's Parts context)
+        title: Metamaterials (Art's Parts context)
         slug: metamaterials-arts-parts-context
       - node_id: 389d0c85-b557-433e-8054-107e29b1de11
         title: 2019 To The Stars Academy of Arts & Sciences (TTSA) Twitter claim about metamaterials from an advanced aerospace
@@ -5312,7 +5312,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -5321,7 +5321,7 @@ claims:
         title: To the Stars Academy of Arts and Science (TTSA)
         slug: to-the-stars-academy-of-arts-and-science-ttsa
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null

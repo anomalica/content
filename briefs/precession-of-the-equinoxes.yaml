@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
   node_type: topic
-  title: precession of the equinoxes
+  title: Precession of the equinoxes
   slug: precession-of-the-equinoxes
   claim_count: 9
   claim_count_total: 9
@@ -43,6 +43,16 @@ related_nodes:
     node_type: object
     slug: vega-star
     shared_claims: 2
+  - node_id: a64c32cb-291d-4a81-8663-e91dfbb7b803
+    title: Astrotheology
+    node_type: topic
+    slug: astrotheology
+    shared_claims: 1
+  - node_id: 7a34e267-ee5c-4172-9230-fb920cddde2a
+    title: Cyclical destruction by fire and water
+    node_type: topic
+    slug: cyclical-destruction-by-fire-and-water
+    shared_claims: 1
   - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
     title: Jason Quitt
     node_type: person
@@ -57,16 +67,6 @@ related_nodes:
     title: Western astrological calendar
     node_type: topic
     slug: western-astrological-calendar
-    shared_claims: 1
-  - node_id: a64c32cb-291d-4a81-8663-e91dfbb7b803
-    title: astrotheology
-    node_type: topic
-    slug: astrotheology
-    shared_claims: 1
-  - node_id: 7a34e267-ee5c-4172-9230-fb920cddde2a
-    title: cyclical destruction by fire and water
-    node_type: topic
-    slug: cyclical-destruction-by-fire-and-water
     shared_claims: 1
 claims:
   - claim_id: c9ca640c-84c5-4b36-97c8-b89e0bdef10a
@@ -86,7 +86,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
-        title: precession of the equinoxes
+        title: Precession of the equinoxes
         slug: precession-of-the-equinoxes
       - node_id: bde7d0db-6607-4a24-9738-7ebad2cc191b
         title: Western astrological calendar
@@ -120,7 +120,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
-        title: precession of the equinoxes
+        title: Precession of the equinoxes
         slug: precession-of-the-equinoxes
     date: null
     date_end: null
@@ -154,7 +154,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
-        title: precession of the equinoxes
+        title: Precession of the equinoxes
         slug: precession-of-the-equinoxes
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -194,7 +194,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
-        title: precession of the equinoxes
+        title: Precession of the equinoxes
         slug: precession-of-the-equinoxes
       - node_id: 064e30a2-3d9f-4036-ada6-ce7df15f66d1
         title: Vega (star)
@@ -232,7 +232,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
-        title: precession of the equinoxes
+        title: Precession of the equinoxes
         slug: precession-of-the-equinoxes
     date: null
     date_end: null
@@ -266,7 +266,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
-        title: precession of the equinoxes
+        title: Precession of the equinoxes
         slug: precession-of-the-equinoxes
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -308,7 +308,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
-        title: precession of the equinoxes
+        title: Precession of the equinoxes
         slug: precession-of-the-equinoxes
       - node_id: 064e30a2-3d9f-4036-ada6-ce7df15f66d1
         title: Vega (star)
@@ -349,7 +349,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
-        title: precession of the equinoxes
+        title: Precession of the equinoxes
         slug: precession-of-the-equinoxes
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -358,7 +358,7 @@ claims:
         title: Solon
         slug: solon
       - node_id: a64c32cb-291d-4a81-8663-e91dfbb7b803
-        title: astrotheology
+        title: Astrotheology
         slug: astrotheology
     date: null
     date_end: null
@@ -392,10 +392,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
-        title: precession of the equinoxes
+        title: Precession of the equinoxes
         slug: precession-of-the-equinoxes
       - node_id: 7a34e267-ee5c-4172-9230-fb920cddde2a
-        title: cyclical destruction by fire and water
+        title: Cyclical destruction by fire and water
         slug: cyclical-destruction-by-fire-and-water
       - node_id: a264f1fe-2e5e-42d4-b688-60d4289a3a98
         title: Solon

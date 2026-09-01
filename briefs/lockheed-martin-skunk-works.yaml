@@ -78,6 +78,11 @@ related_nodes:
     node_type: event
     slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
     shared_claims: 1
+  - node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
+    title: Cargo cult
+    node_type: topic
+    slug: cargo-cult
+    shared_claims: 1
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
     node_type: organisation
@@ -167,11 +172,6 @@ related_nodes:
     title: Tom DeLonge's meetings with Lockheed Martin Skunk Works on Unidentified Aerial Phenomena (UAP) disclosure
     node_type: event
     slug: tom-delonges-meetings-with-lockheed-martin-skunk-works-on-unidentified-aerial-phenomena-uap-disclosure
-    shared_claims: 1
-  - node_id: 3dcb1bdf-9e00-430b-97ed-ded13b79fd61
-    title: U-2 spy plane
-    node_type: object
-    slug: u-2-spy-plane
     shared_claims: 1
 claims:
   - claim_id: 0a145af8-0338-4a3a-b100-5255e8e11c46
@@ -1429,7 +1429,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
-        title: cargo cult
+        title: Cargo cult
         slug: cargo-cult
       - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
         title: Lockheed Martin Skunk Works

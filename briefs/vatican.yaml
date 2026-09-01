@@ -2235,7 +2235,7 @@ claims:
         title: Vatican
         slug: vatican
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
       - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
         title: Jason Samosa
@@ -2966,10 +2966,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 84a43dea-0183-4bb1-b2d7-c9637920d75f
-        title: eschatology
+        title: Eschatology
         slug: eschatology
       - node_id: a3e2e1f9-b00a-47e1-80ee-e7ed50c5f9f3
-        title: katechon
+        title: Katechon
         slug: katechon
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican

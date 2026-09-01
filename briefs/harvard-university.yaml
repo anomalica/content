@@ -38,15 +38,15 @@ related_nodes:
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
     shared_claims: 3
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 2
   - node_id: 85f8bd31-f61c-42f2-aa26-97fa022d841c
     title: Galileo Project
     node_type: organisation
     slug: galileo-project
-    shared_claims: 2
-  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
-    node_type: topic
-    slug: alien-abduction
     shared_claims: 2
   - node_id: b65a228b-8581-437c-a083-670590b31c40
     title: Alan Gauld
@@ -141,7 +141,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
         title: Australia, New South Wales, Sydney
@@ -182,7 +182,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
         title: Harvard University

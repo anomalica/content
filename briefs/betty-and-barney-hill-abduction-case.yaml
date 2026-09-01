@@ -23,6 +23,11 @@ belonging:
   suspect_excluded: 0
   unreviewed: 3
 related_nodes:
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 1
   - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
     title: Barack Obama
     node_type: person
@@ -42,11 +47,6 @@ related_nodes:
     title: Zeta Reticuli
     node_type: place
     slug: zeta-reticuli
-    shared_claims: 1
-  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
-    node_type: topic
-    slug: alien-abduction
     shared_claims: 1
 claims:
   - claim_id: f92d021d-ac9e-488e-9cae-1173692517f8
@@ -139,7 +139,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: ede32718-5670-4e5a-97da-13b980b85676
         title: Betty and Barney Hill abduction case

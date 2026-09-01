@@ -33,6 +33,11 @@ related_nodes:
     node_type: person
     slug: david-charles-grusch
     shared_claims: 1
+  - node_id: a726a8e2-00e5-4e3f-8504-9d5d0ac6a8fa
+    title: Escalate to de-escalate doctrine
+    node_type: topic
+    slug: escalate-to-de-escalate-doctrine
+    shared_claims: 1
   - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
     title: George Knapp
     node_type: person
@@ -42,11 +47,6 @@ related_nodes:
     title: Russian Air Defense Forces
     node_type: organisation
     slug: russian-air-defense-forces
-    shared_claims: 1
-  - node_id: a726a8e2-00e5-4e3f-8504-9d5d0ac6a8fa
-    title: escalate to de-escalate doctrine
-    node_type: topic
-    slug: escalate-to-de-escalate-doctrine
     shared_claims: 1
 claims:
   - claim_id: bc6cf381-474f-48b6-bcb1-8d4da376b64a
@@ -194,7 +194,7 @@ claims:
         title: Russian Ministry of Defense (MOD)
         slug: russian-ministry-of-defense-mod
       - node_id: a726a8e2-00e5-4e3f-8504-9d5d0ac6a8fa
-        title: escalate to de-escalate doctrine
+        title: Escalate to de-escalate doctrine
         slug: escalate-to-de-escalate-doctrine
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch

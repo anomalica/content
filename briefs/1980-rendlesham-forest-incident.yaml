@@ -92,6 +92,11 @@ related_nodes:
     node_type: event
     slug: 1980-huffman-texas-unidentified-flying-object-ufo-incident-december-29
     shared_claims: 1
+  - node_id: a0e01650-0dec-416c-a1d6-2daec8bd0e6b
+    title: Flash override protocol
+    node_type: topic
+    slug: flash-override-protocol
+    shared_claims: 1
   - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
     title: Harold E. Puthoff
     node_type: person
@@ -131,11 +136,6 @@ related_nodes:
     title: 'You Can''t Tell the People: The Definitive Account of the Rendlesham Forest Unidentified Flying Object (UFO) Mystery'
     node_type: document
     slug: you-cant-tell-the-people-the-definitive-account-of-the-rendlesham-forest-unidentified-flying-object-ufo-mystery
-    shared_claims: 1
-  - node_id: a0e01650-0dec-416c-a1d6-2daec8bd0e6b
-    title: flash override protocol
-    node_type: topic
-    slug: flash-override-protocol
     shared_claims: 1
 claims:
   - claim_id: bcf0e86f-b7bc-422e-bd1c-451d39983c7c
@@ -1332,7 +1332,7 @@ claims:
         title: 1980 Rendlesham Forest incident
         slug: 1980-rendlesham-forest-incident
       - node_id: a0e01650-0dec-416c-a1d6-2daec8bd0e6b
-        title: flash override protocol
+        title: Flash override protocol
         slug: flash-override-protocol
     date: 1980-12
     date_end: null

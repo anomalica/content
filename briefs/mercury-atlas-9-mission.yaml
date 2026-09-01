@@ -38,15 +38,15 @@ related_nodes:
     node_type: person
     slug: walter-schirra
     shared_claims: 2
+  - node_id: eb931019-ff87-4630-92fc-e67374887a7f
+    title: Space fireflies phenomenon
+    node_type: topic
+    slug: space-fireflies-phenomenon
+    shared_claims: 1
   - node_id: 7f308d88-d2de-4252-9456-3615d3a27796
     title: USA, Florida
     node_type: place
     slug: florida-usa
-    shared_claims: 1
-  - node_id: eb931019-ff87-4630-92fc-e67374887a7f
-    title: space fireflies phenomenon
-    node_type: topic
-    slug: space-fireflies-phenomenon
     shared_claims: 1
 claims:
   - claim_id: 503c430f-5608-491c-a5f4-f570f128b89d
@@ -111,7 +111,7 @@ claims:
         title: Gordon Cooper
         slug: gordon-cooper
       - node_id: eb931019-ff87-4630-92fc-e67374887a7f
-        title: space fireflies phenomenon
+        title: Space fireflies phenomenon
         slug: space-fireflies-phenomenon
     date: '1963-05-15'
     date_end: null

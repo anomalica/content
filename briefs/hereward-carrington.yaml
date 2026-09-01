@@ -29,7 +29,7 @@ related_nodes:
     slug: eusapia-palladino
     shared_claims: 7
   - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-    title: physical mediumship
+    title: Physical mediumship
     node_type: topic
     slug: physical-mediumship
     shared_claims: 5
@@ -43,28 +43,28 @@ related_nodes:
     node_type: person
     slug: w-w-baggally
     shared_claims: 3
+  - node_id: ad93eae6-0acc-4b63-b1ff-3a34db5f2d8d
+    title: Discarnate agency hypothesis
+    node_type: topic
+    slug: discarnate-agency-hypothesis
+    shared_claims: 2
+  - node_id: bc3f4c43-8a34-493d-98dd-419393017405
+    title: Ectoplasm
+    node_type: topic
+    slug: ectoplasm
+    shared_claims: 2
   - node_id: 96f9fff2-8d02-44d6-90c7-7d12372f55f1
     title: John King
     node_type: person
     slug: john-king
     shared_claims: 2
-  - node_id: ad93eae6-0acc-4b63-b1ff-3a34db5f2d8d
-    title: discarnate agency hypothesis
-    node_type: topic
-    slug: discarnate-agency-hypothesis
-    shared_claims: 2
-  - node_id: bc3f4c43-8a34-493d-98dd-419393017405
-    title: ectoplasm
-    node_type: topic
-    slug: ectoplasm
-    shared_claims: 2
   - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-    title: materialization (mediumship phenomenon)
+    title: Materialization (mediumship phenomenon)
     node_type: topic
     slug: materialization-mediumship-phenomenon
     shared_claims: 2
   - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-    title: survival hypothesis
+    title: Survival hypothesis
     node_type: topic
     slug: survival-hypothesis
     shared_claims: 2
@@ -83,6 +83,11 @@ related_nodes:
     node_type: topic
     slug: precognition
     shared_claims: 1
+  - node_id: 089c8f3a-c5fe-405d-a8ce-5df9e3951691
+    title: Somatic psi (living-agent psi)
+    node_type: topic
+    slug: somatic-psi-living-agent-psi
+    shared_claims: 1
   - node_id: b38fd0c6-f387-480d-a748-6477450577a5
     title: Sylvan Muldoon
     node_type: person
@@ -93,13 +98,8 @@ related_nodes:
     node_type: event
     slug: seance-v-of-the-1908-naples-sittings-with-eusapia-palladino
     shared_claims: 1
-  - node_id: 089c8f3a-c5fe-405d-a8ce-5df9e3951691
-    title: somatic psi (living-agent psi)
-    node_type: topic
-    slug: somatic-psi-living-agent-psi
-    shared_claims: 1
   - node_id: 2567af72-7bbf-420f-a930-e346565402af
-    title: xenoglossy
+    title: Xenoglossy
     node_type: topic
     slug: xenoglossy
     shared_claims: 1
@@ -461,7 +461,7 @@ claims:
         title: Hereward Carrington
         slug: hereward-carrington
       - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-        title: materialization (mediumship phenomenon)
+        title: Materialization (mediumship phenomenon)
         slug: materialization-mediumship-phenomenon
       - node_id: e7d1f5fb-e4b0-4ad8-b0df-8e75d1585cae
         title: Eusapia Palladino
@@ -501,10 +501,10 @@ claims:
         title: Hereward Carrington
         slug: hereward-carrington
       - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-        title: materialization (mediumship phenomenon)
+        title: Materialization (mediumship phenomenon)
         slug: materialization-mediumship-phenomenon
       - node_id: ad93eae6-0acc-4b63-b1ff-3a34db5f2d8d
-        title: discarnate agency hypothesis
+        title: Discarnate agency hypothesis
         slug: discarnate-agency-hypothesis
     date: null
     date_end: null
@@ -538,7 +538,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 089c8f3a-c5fe-405d-a8ce-5df9e3951691
-        title: somatic psi (living-agent psi)
+        title: Somatic psi (living-agent psi)
         slug: somatic-psi-living-agent-psi
       - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
         title: Hereward Carrington
@@ -581,7 +581,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
         title: Hereward Carrington
@@ -622,7 +622,7 @@ claims:
         title: Hereward Carrington
         slug: hereward-carrington
       - node_id: bc3f4c43-8a34-493d-98dd-419393017405
-        title: ectoplasm
+        title: Ectoplasm
         slug: ectoplasm
     date: null
     date_end: null
@@ -661,7 +661,7 @@ claims:
         title: Hereward Carrington
         slug: hereward-carrington
       - node_id: bc3f4c43-8a34-493d-98dd-419393017405
-        title: ectoplasm
+        title: Ectoplasm
         slug: ectoplasm
     date: null
     date_end: null
@@ -698,7 +698,7 @@ claims:
         title: Hereward Carrington
         slug: hereward-carrington
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
     date: null
     date_end: null
@@ -773,7 +773,7 @@ claims:
         title: Hereward Carrington
         slug: hereward-carrington
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
     date: null
     date_end: null
@@ -811,13 +811,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2567af72-7bbf-420f-a930-e346565402af
-        title: xenoglossy
+        title: Xenoglossy
         slug: xenoglossy
       - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
         title: Hereward Carrington
         slug: hereward-carrington
       - node_id: ad93eae6-0acc-4b63-b1ff-3a34db5f2d8d
-        title: discarnate agency hypothesis
+        title: Discarnate agency hypothesis
         slug: discarnate-agency-hypothesis
     date: null
     date_end: null
@@ -852,13 +852,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
         title: Hereward Carrington
         slug: hereward-carrington
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
     date: null
     date_end: null
@@ -1070,7 +1070,7 @@ claims:
         title: Hereward Carrington
         slug: hereward-carrington
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
     date: null
     date_end: null
@@ -1107,7 +1107,7 @@ claims:
         title: Hereward Carrington
         slug: hereward-carrington
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
       - node_id: e7d1f5fb-e4b0-4ad8-b0df-8e75d1585cae
         title: Eusapia Palladino

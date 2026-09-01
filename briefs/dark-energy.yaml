@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
   node_type: topic
-  title: dark energy
+  title: Dark energy
   slug: dark-energy
   claim_count: 10
   claim_count_total: 10
@@ -34,7 +34,7 @@ related_nodes:
     slug: robert-bigelow
     shared_claims: 3
   - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-    title: entropy
+    title: Entropy
     node_type: topic
     slug: entropy
     shared_claims: 2
@@ -69,7 +69,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
     date: null
     date_end: null
@@ -99,7 +99,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
     date: null
     date_end: null
@@ -131,7 +131,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
     date: null
     date_end: null
@@ -165,7 +165,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
       - node_id: 9d96c660-346c-4307-b3b1-e71196aa6e75
         title: Michio Kaku
@@ -204,7 +204,7 @@ claims:
         title: Michael S. Turner
         slug: michael-s-turner
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
     date: null
     date_end: null
@@ -237,7 +237,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
       - node_id: fb2903b3-56b1-41ef-8eae-594ab1d0e2e8
         title: Dark matter
@@ -274,13 +274,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-        title: entropy
+        title: Entropy
         slug: entropy
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
     date: null
     date_end: null
@@ -313,7 +313,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
       - node_id: fb2903b3-56b1-41ef-8eae-594ab1d0e2e8
         title: Dark matter
@@ -350,13 +350,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
-        title: entropy
+        title: Entropy
         slug: entropy
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
       - node_id: fb2903b3-56b1-41ef-8eae-594ab1d0e2e8
         title: Dark matter
@@ -399,7 +399,7 @@ claims:
         title: Consciousness studies
         slug: consciousness-studies
       - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
-        title: dark energy
+        title: Dark energy
         slug: dark-energy
       - node_id: fb2903b3-56b1-41ef-8eae-594ab1d0e2e8
         title: Dark matter

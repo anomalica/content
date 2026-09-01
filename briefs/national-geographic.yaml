@@ -69,7 +69,7 @@ related_nodes:
     slug: unidentified-flying-object-ufo
     shared_claims: 1
   - node_id: fbebaf7d-431f-4145-8801-0e52471c3eb6
-    title: unnamed woman's death and resuscitation in the forest (2011-06)
+    title: Unnamed woman's death and resuscitation in the forest (2011-06)
     node_type: event
     slug: unnamed-womans-death-and-resuscitation-in-the-forest-2011-06
     shared_claims: 1
@@ -97,7 +97,7 @@ claims:
         title: '"Crossing Over" (National Geographic article by Robin Marantz Henig)'
         slug: crossing-over-national-geographic-article-by-robin-marantz-henig
       - node_id: fbebaf7d-431f-4145-8801-0e52471c3eb6
-        title: unnamed woman's death and resuscitation in the forest (2011-06)
+        title: Unnamed woman's death and resuscitation in the forest (2011-06)
         slug: unnamed-womans-death-and-resuscitation-in-the-forest-2011-06
       - node_id: ff555cb2-efb4-4de4-a3d6-c76a2bd68a6b
         title: National Geographic

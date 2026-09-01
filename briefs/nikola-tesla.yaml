@@ -28,6 +28,11 @@ related_nodes:
     node_type: event
     slug: whitley-striebers-1983-time-slip-on-laguardia-place
     shared_claims: 3
+  - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+    title: Time travel
+    node_type: topic
+    slug: time-travel
+    shared_claims: 2
   - node_id: 6a42f73e-1e98-4f51-ac69-8baada52acbe
     title: USA, New York, Manhattan, LaGuardia Place
     node_type: place
@@ -37,11 +42,6 @@ related_nodes:
     title: Whitley Strieber
     node_type: person
     slug: whitley-strieber
-    shared_claims: 2
-  - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-    title: time travel
-    node_type: topic
-    slug: time-travel
     shared_claims: 2
   - node_id: 6225f499-1adb-4e32-b963-7f27f90e9067
     title: Dreamland (podcast)
@@ -63,25 +63,25 @@ related_nodes:
     node_type: person
     slug: james-clerk-maxwell
     shared_claims: 1
+  - node_id: 830c3427-3a42-45d6-b737-75e480743959
+    title: Quaternions (mathematics)
+    node_type: topic
+    slug: quaternions-mathematics
+    shared_claims: 1
   - node_id: 1b7f7388-4e9c-4830-8d37-3df0f3e5597f
     title: Thomas Bearden
     node_type: person
     slug: thomas-bearden
     shared_claims: 1
+  - node_id: 374982e6-193c-49b4-87fa-1259227a9f3d
+    title: Time slip
+    node_type: topic
+    slug: time-slip
+    shared_claims: 1
   - node_id: 268ebaed-fa42-4feb-881f-fd8f70ca28fb
     title: USA, Colorado, Colorado Springs
     node_type: place
     slug: colorado-colorado-springs-usa
-    shared_claims: 1
-  - node_id: 830c3427-3a42-45d6-b737-75e480743959
-    title: quaternions (mathematics)
-    node_type: topic
-    slug: quaternions-mathematics
-    shared_claims: 1
-  - node_id: 374982e6-193c-49b4-87fa-1259227a9f3d
-    title: time slip
-    node_type: topic
-    slug: time-slip
     shared_claims: 1
 claims:
   - claim_id: e4e498fa-dd68-410a-ac1d-87172cdcc771
@@ -212,7 +212,7 @@ claims:
         title: James Clerk Maxwell
         slug: james-clerk-maxwell
       - node_id: 830c3427-3a42-45d6-b737-75e480743959
-        title: quaternions (mathematics)
+        title: Quaternions (mathematics)
         slug: quaternions-mathematics
       - node_id: d7e78302-bfc0-44d0-b2c8-967b15fde742
         title: Nikola Tesla
@@ -364,7 +364,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 6a42f73e-1e98-4f51-ac69-8baada52acbe
         title: USA, New York, Manhattan, LaGuardia Place
@@ -407,10 +407,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 374982e6-193c-49b4-87fa-1259227a9f3d
-        title: time slip
+        title: Time slip
         slug: time-slip
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber

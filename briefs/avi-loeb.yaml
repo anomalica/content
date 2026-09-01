@@ -73,6 +73,11 @@ related_nodes:
     node_type: project
     slug: galileo-project
     shared_claims: 1
+  - node_id: 71aaf24b-dbf2-492b-8fc0-97cdc20c3b67
+    title: Interstellar meteors
+    node_type: topic
+    slug: interstellar-meteors
+    shared_claims: 1
   - node_id: dfe23ce1-b298-4fd2-8e7c-cbfb04749550
     title: Jensen Huang
     node_type: person
@@ -127,11 +132,6 @@ related_nodes:
     title: Vatican City
     node_type: place
     slug: vatican-city
-    shared_claims: 1
-  - node_id: 71aaf24b-dbf2-492b-8fc0-97cdc20c3b67
-    title: interstellar meteors
-    node_type: topic
-    slug: interstellar-meteors
     shared_claims: 1
 claims:
   - claim_id: 040e035a-379c-4bf3-bb4a-0c91bb22a419
@@ -482,7 +482,7 @@ claims:
         title: Avi Loeb
         slug: avi-loeb
       - node_id: 71aaf24b-dbf2-492b-8fc0-97cdc20c3b67
-        title: interstellar meteors
+        title: Interstellar meteors
         slug: interstellar-meteors
     date: null
     date_end: null
@@ -1241,13 +1241,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-        title: string theory
+        title: String theory
         slug: string-theory
       - node_id: 2a7e99da-a52b-42f0-ae13-32841e4a3bc8
-        title: quantum gravity
+        title: Quantum gravity
         slug: quantum-gravity
       - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
-        title: quantum mechanics
+        title: Quantum mechanics
         slug: quantum-mechanics
     date: null
     date_end: null
@@ -1279,7 +1279,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-        title: string theory
+        title: String theory
         slug: string-theory
     date: null
     date_end: null
@@ -1315,7 +1315,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
-        title: string theory
+        title: String theory
         slug: string-theory
     date: null
     date_end: null

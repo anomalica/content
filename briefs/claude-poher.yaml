@@ -108,6 +108,11 @@ related_nodes:
     node_type: person
     slug: remy-chauvin
     shared_claims: 1
+  - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
+    title: The Invisible College
+    node_type: topic
+    slug: the-invisible-college
+    shared_claims: 1
   - node_id: 006b3ab1-13d0-406c-919a-ef4c0681b996
     title: USA, Colorado, Boulder
     node_type: place
@@ -122,11 +127,6 @@ related_nodes:
     title: United Nations Special Political Committee
     node_type: organisation
     slug: united-nations-special-political-committee
-    shared_claims: 1
-  - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-    title: the Invisible College
-    node_type: topic
-    slug: the-invisible-college
     shared_claims: 1
 claims:
   - claim_id: 4eea3e1c-58fd-47be-ad85-9bfa5a38a07a
@@ -404,7 +404,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
       - node_id: 2c57037a-db11-4c30-b871-4f8a98603310
         title: 1974 photograph of the Invisible College members in Boulder, Colorado

@@ -63,6 +63,11 @@ related_nodes:
     node_type: person
     slug: u-thant
     shared_claims: 3
+  - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
+    title: Hyper-dimensional physics theory
+    node_type: topic
+    slug: hyper-dimensional-physics-theory
+    shared_claims: 2
   - node_id: 7f2106c6-6a69-4d27-86d5-847bafd5796e
     title: James E. McDonald statement to the United Nations Outer Space Affairs Group, 1967-06-07
     node_type: document
@@ -87,11 +92,6 @@ related_nodes:
     title: Unidentified Anomalous Phenomena (UAP)
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
-    shared_claims: 2
-  - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-    title: hyper-dimensional physics theory
-    node_type: topic
-    slug: hyper-dimensional-physics-theory
     shared_claims: 2
   - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
     title: Albert Einstein
@@ -127,6 +127,11 @@ related_nodes:
     title: Drew Pearson
     node_type: person
     slug: drew-pearson
+    shared_claims: 1
+  - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+    title: Extraterrestrial biological entity (EBE)
+    node_type: topic
+    slug: extraterrestrial-biological-entity-ebe
     shared_claims: 1
   - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
     title: Gordon Cooper
@@ -167,11 +172,6 @@ related_nodes:
     title: Kennedy United Nations General Assembly speech, 1963-09-20
     node_type: event
     slug: 1963-09-20-kennedy-united-nations-general-assembly-speech
-    shared_claims: 1
-  - node_id: 75f8cf38-618c-4dd4-8629-d6b9b7d425fb
-    title: Kurt Waldheim
-    node_type: person
-    slug: kurt-waldheim
     shared_claims: 1
 claims:
   - claim_id: 023984ed-a622-4ea4-813b-9734cbb41b13
@@ -348,7 +348,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
-        title: extraterrestrial biological entity (EBE)
+        title: Extraterrestrial biological entity (EBE)
         slug: extraterrestrial-biological-entity-ebe
       - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
         title: United Nations (UN)
@@ -835,7 +835,7 @@ claims:
         title: Hoagland presentation at United Nations, 1992
         slug: 1992-hoagland-presentation-at-united-nations
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: 6ea4a62d-bf29-47ef-9691-915da997fb0a
         title: Jupiter
@@ -887,7 +887,7 @@ claims:
         title: Hoagland presentation at United Nations, 1992
         slug: 1992-hoagland-presentation-at-united-nations
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
         title: United Nations (UN)

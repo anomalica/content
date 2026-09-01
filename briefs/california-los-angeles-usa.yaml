@@ -148,6 +148,11 @@ related_nodes:
     node_type: person
     slug: melchizedek
     shared_claims: 1
+  - node_id: afd89359-4e5a-4ab4-8aff-ff47a272a993
+    title: Missing time phenomenon
+    node_type: topic
+    slug: missing-time-phenomenon
+    shared_claims: 1
   - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
     title: National Aeronautics and Space Administration (NASA)
     node_type: organisation
@@ -167,11 +172,6 @@ related_nodes:
     title: Richard C. Hoagland
     node_type: person
     slug: richard-c-hoagland
-    shared_claims: 1
-  - node_id: 86012e89-5cc0-4950-a4e1-c70b16dd4c9c
-    title: Robert Kennedy
-    node_type: person
-    slug: robert-kennedy
     shared_claims: 1
 claims:
   - claim_id: 62e23554-1b4f-4558-a171-1e1552f2b20a
@@ -1037,7 +1037,7 @@ claims:
         title: USA, California, Los Angeles
         slug: california-los-angeles-usa
       - node_id: afd89359-4e5a-4ab4-8aff-ff47a272a993
-        title: missing time phenomenon
+        title: Missing time phenomenon
         slug: missing-time-phenomenon
     date: null
     date_end: null

@@ -39,7 +39,7 @@ related_nodes:
     slug: iraq
     shared_claims: 2
   - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
-    title: post-traumatic stress disorder (PTSD)
+    title: Post-traumatic stress disorder (PTSD)
     node_type: topic
     slug: post-traumatic-stress-disorder-ptsd
     shared_claims: 2
@@ -484,7 +484,7 @@ claims:
         title: Afghanistan
         slug: afghanistan
       - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
-        title: post-traumatic stress disorder (PTSD)
+        title: Post-traumatic stress disorder (PTSD)
         slug: post-traumatic-stress-disorder-ptsd
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch
@@ -523,7 +523,7 @@ claims:
         title: Afghanistan
         slug: afghanistan
       - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
-        title: post-traumatic stress disorder (PTSD)
+        title: Post-traumatic stress disorder (PTSD)
         slug: post-traumatic-stress-disorder-ptsd
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch

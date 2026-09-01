@@ -112,6 +112,11 @@ related_nodes:
     node_type: person
     slug: donald-trump
     shared_claims: 3
+  - node_id: dd72cc7d-7470-4d37-9d6f-474300e06820
+    title: Electromagnetic pulse (EMP)
+    node_type: topic
+    slug: electromagnetic-pulse-emp
+    shared_claims: 3
   - node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
     title: Philip Corso
     node_type: person
@@ -131,11 +136,6 @@ related_nodes:
     title: W. W. Brazel
     node_type: person
     slug: w-w-brazel
-    shared_claims: 3
-  - node_id: dd72cc7d-7470-4d37-9d6f-474300e06820
-    title: electromagnetic pulse (EMP)
-    node_type: topic
-    slug: electromagnetic-pulse-emp
     shared_claims: 3
   - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
     title: 509th Bomb Group
@@ -167,15 +167,15 @@ related_nodes:
     node_type: person
     slug: eric-davis
     shared_claims: 2
+  - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+    title: Extraterrestrial biological entity (EBE)
+    node_type: topic
+    slug: extraterrestrial-biological-entity-ebe
+    shared_claims: 2
   - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
     title: Federal Bureau of Investigation (FBI)
     node_type: organisation
     slug: federal-bureau-of-investigation-fbi
-    shared_claims: 2
-  - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
-    title: Government Accountability Office
-    node_type: organisation
-    slug: government-accountability-office
     shared_claims: 2
 claims:
   - claim_id: 8981523e-1132-431f-a55d-d8560b578966
@@ -3859,7 +3859,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -3979,7 +3979,7 @@ claims:
         title: Roswell incident (1947)
         slug: roswell-incident-1947
       - node_id: dd72cc7d-7470-4d37-9d6f-474300e06820
-        title: electromagnetic pulse (EMP)
+        title: Electromagnetic pulse (EMP)
         slug: electromagnetic-pulse-emp
     date: null
     date_end: null
@@ -4368,7 +4368,7 @@ claims:
         title: Roswell incident (1947)
         slug: roswell-incident-1947
       - node_id: dd72cc7d-7470-4d37-9d6f-474300e06820
-        title: electromagnetic pulse (EMP)
+        title: Electromagnetic pulse (EMP)
         slug: electromagnetic-pulse-emp
     date: null
     date_end: null
@@ -4405,7 +4405,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 6d1423bb-22bf-458e-9ce2-0d878a1909ad
-        title: directed-energy weapon
+        title: Directed-energy weapon
         slug: directed-energy-weapon
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -4414,7 +4414,7 @@ claims:
         title: Roswell incident (1947)
         slug: roswell-incident-1947
       - node_id: dd72cc7d-7470-4d37-9d6f-474300e06820
-        title: electromagnetic pulse (EMP)
+        title: Electromagnetic pulse (EMP)
         slug: electromagnetic-pulse-emp
     date: null
     date_end: null
@@ -5521,7 +5521,7 @@ claims:
         title: Shirley Wright
         slug: shirley-wright
       - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
-        title: extraterrestrial biological entity (EBE)
+        title: Extraterrestrial biological entity (EBE)
         slug: extraterrestrial-biological-entity-ebe
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
         title: Roswell incident (1947)
@@ -5561,7 +5561,7 @@ claims:
         title: Shirley Wright
         slug: shirley-wright
       - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
-        title: extraterrestrial biological entity (EBE)
+        title: Extraterrestrial biological entity (EBE)
         slug: extraterrestrial-biological-entity-ebe
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
         title: Roswell incident (1947)

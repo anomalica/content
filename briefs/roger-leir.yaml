@@ -33,6 +33,11 @@ related_nodes:
     node_type: person
     slug: whitley-strieber
     shared_claims: 4
+  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+    title: Alien implant
+    node_type: topic
+    slug: alien-implant
+    shared_claims: 2
   - node_id: 05c993d3-ff62-4822-a7fe-91cba59c0215
     title: Brazil
     node_type: organisation
@@ -47,11 +52,6 @@ related_nodes:
     title: Southwest Research Institute
     node_type: organisation
     slug: southwest-research-institute
-    shared_claims: 2
-  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-    title: alien implant
-    node_type: topic
-    slug: alien-implant
     shared_claims: 2
   - node_id: 16326490-45cc-47c3-bf56-993e00effaaa
     title: 1996 death of Officer Marco Eli Cherese
@@ -877,7 +877,7 @@ claims:
         title: Roger Leir
         slug: roger-leir
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -921,7 +921,7 @@ claims:
         title: Roger Leir
         slug: roger-leir
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null

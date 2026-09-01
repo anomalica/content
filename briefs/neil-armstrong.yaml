@@ -143,6 +143,11 @@ related_nodes:
     node_type: object
     slug: s-ivb-apollo-11-discarded-third-stage
     shared_claims: 1
+  - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
+    title: The Moon
+    node_type: place
+    slug: the-moon
+    shared_claims: 1
   - node_id: 46c8d007-ef16-4e61-8db5-95823dd41ceb
     title: USA, Ohio, Wapakoneta
     node_type: place
@@ -167,11 +172,6 @@ related_nodes:
     title: Zond 3 lunar flyby imaging, 1965-07-20
     node_type: event
     slug: 1965-07-20-zond-3-lunar-flyby-imaging
-    shared_claims: 1
-  - node_id: 04c7feb4-2092-4a8e-b881-0c6e7c4048d6
-    title: Zond 3 mission
-    node_type: project
-    slug: zond-3-mission
     shared_claims: 1
 claims:
   - claim_id: 79be4923-0927-4bc8-9764-d754ffb51db7
@@ -1578,7 +1578,7 @@ claims:
         title: Buzz Aldrin
         slug: buzz-aldrin
       - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-        title: the Moon
+        title: The Moon
         slug: the-moon
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11

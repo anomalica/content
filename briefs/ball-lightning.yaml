@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: eb844394-11fa-4223-ab75-374412b7be46
   node_type: topic
-  title: ball lightning
+  title: Ball lightning
   slug: ball-lightning
   claim_count: 10
   claim_count_total: 10
@@ -43,6 +43,11 @@ related_nodes:
     node_type: event
     slug: 1949-hawthorn-cigar-shaped-object-sighting
     shared_claims: 1
+  - node_id: 98a821c3-2ba9-4e45-a28c-3219f2441543
+    title: Blue jets (upper-atmospheric lightning)
+    node_type: topic
+    slug: blue-jets-upper-atmospheric-lightning
+    shared_claims: 1
   - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
     title: David Charles Grusch
     node_type: person
@@ -63,23 +68,18 @@ related_nodes:
     node_type: project
     slug: project-blue-book
     shared_claims: 1
-  - node_id: 98a821c3-2ba9-4e45-a28c-3219f2441543
-    title: blue jets (upper-atmospheric lightning)
-    node_type: topic
-    slug: blue-jets-upper-atmospheric-lightning
-    shared_claims: 1
   - node_id: e8cc9c2f-aa24-41c3-96a8-5d82a70cc3f6
-    title: sprites (upper-atmospheric lightning)
+    title: Sprites (upper-atmospheric lightning)
     node_type: topic
     slug: sprites-upper-atmospheric-lightning
     shared_claims: 1
   - node_id: 78ede0c2-bff9-4e90-a9e3-f4ae02ac806c
-    title: surface-to-air missile
+    title: Surface-to-air missile
     node_type: object
     slug: surface-to-air-missile
     shared_claims: 1
   - node_id: 55d8864f-5a54-49b4-b247-64670258220d
-    title: swamp gas
+    title: Swamp gas
     node_type: topic
     slug: swamp-gas
     shared_claims: 1
@@ -106,7 +106,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: null
     date_end: null
@@ -140,7 +140,7 @@ claims:
         title: James L. Tuck
         slug: james-l-tuck
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: '1970-11-28'
     date_end: null
@@ -175,7 +175,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: '1996'
     date_end: null
@@ -209,16 +209,16 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 78ede0c2-bff9-4e90-a9e3-f4ae02ac806c
-        title: surface-to-air missile
+        title: Surface-to-air missile
         slug: surface-to-air-missile
       - node_id: 98a821c3-2ba9-4e45-a28c-3219f2441543
-        title: blue jets (upper-atmospheric lightning)
+        title: Blue jets (upper-atmospheric lightning)
         slug: blue-jets-upper-atmospheric-lightning
       - node_id: e8cc9c2f-aa24-41c3-96a8-5d82a70cc3f6
-        title: sprites (upper-atmospheric lightning)
+        title: Sprites (upper-atmospheric lightning)
         slug: sprites-upper-atmospheric-lightning
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: '1996-12-02'
     date_end: null
@@ -257,7 +257,7 @@ claims:
         title: 1949 Hawthorn cigar-shaped object sighting
         slug: 1949-hawthorn-cigar-shaped-object-sighting
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: null
     date_end: null
@@ -296,7 +296,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: null
     date_end: null
@@ -336,7 +336,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: null
     date_end: null
@@ -371,7 +371,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 55d8864f-5a54-49b4-b247-64670258220d
-        title: swamp gas
+        title: Swamp gas
         slug: swamp-gas
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -380,7 +380,7 @@ claims:
         title: Project Blue Book
         slug: project-blue-book
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: null
     date_end: null
@@ -418,7 +418,7 @@ claims:
         title: David Charles Grusch
         slug: david-charles-grusch
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: null
     date_end: null
@@ -455,7 +455,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: null
     date_end: null

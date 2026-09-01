@@ -73,6 +73,11 @@ related_nodes:
     node_type: person
     slug: david-fontana
     shared_claims: 4
+  - node_id: bc3f4c43-8a34-493d-98dd-419393017405
+    title: Ectoplasm
+    node_type: topic
+    slug: ectoplasm
+    shared_claims: 4
   - node_id: dd11edfa-b648-4aad-bcf3-d4599ae1854b
     title: Kevin Kussow
     node_type: person
@@ -93,11 +98,6 @@ related_nodes:
     node_type: person
     slug: whitley-strieber
     shared_claims: 4
-  - node_id: bc3f4c43-8a34-493d-98dd-419393017405
-    title: ectoplasm
-    node_type: topic
-    slug: ectoplasm
-    shared_claims: 4
   - node_id: e19816c7-6ad7-483d-afc9-2e2502e7312d
     title: Alan Crossley
     node_type: person
@@ -113,6 +113,11 @@ related_nodes:
     node_type: event
     slug: leslie-keans-2015-request-to-videotape-walters-materialized-hand
     shared_claims: 3
+  - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
+    title: Physical mediumship
+    node_type: topic
+    slug: physical-mediumship
+    shared_claims: 3
   - node_id: 59fb6f6a-8991-44f6-8efc-87bba94f1060
     title: Stewart Alexander's séance with Leslie Flint where White Feather confirmed his own left-hand deformity
     node_type: event
@@ -122,11 +127,6 @@ related_nodes:
     title: Stewart Alexander's séance with Leslie Flint where his grandmother's voice was heard
     node_type: event
     slug: stewart-alexanders-seance-with-leslie-flint-where-his-grandmothers-voice-was-heard
-    shared_claims: 3
-  - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-    title: physical mediumship
-    node_type: topic
-    slug: physical-mediumship
     shared_claims: 3
   - node_id: c01ad92c-e964-45ce-89e8-fca6bace7077
     title: 1988 (era) private weekly séance of Stewart Alexander witnessed by Whitley Strieber
@@ -168,10 +168,10 @@ related_nodes:
     node_type: event
     slug: leslie-keans-seances-with-stewart-alexander-2015-04---2015-08
     shared_claims: 2
-  - node_id: 4246f19f-2810-4622-89aa-167403d7c0d1
-    title: Minnie Harrison
-    node_type: person
-    slug: minnie-harrison
+  - node_id: 3f40e3be-237a-43f4-91f5-fe8c70d19ecc
+    title: Living matter through matter (mediumship phenomenon)
+    node_type: topic
+    slug: living-matter-through-matter-mediumship-phenomenon
     shared_claims: 2
 claims:
   - claim_id: be1fb439-56d2-4e19-98ca-d77e072971a6
@@ -1444,7 +1444,7 @@ claims:
         title: Stewart Alexander
         slug: stewart-alexander
       - node_id: 3f40e3be-237a-43f4-91f5-fe8c70d19ecc
-        title: living matter through matter (mediumship phenomenon)
+        title: Living matter through matter (mediumship phenomenon)
         slug: living-matter-through-matter-mediumship-phenomenon
       - node_id: 49feb85d-57e5-4e6e-b247-c1979b43a95c
         title: Walter Stinson
@@ -1488,7 +1488,7 @@ claims:
         title: Stewart Alexander
         slug: stewart-alexander
       - node_id: 3f40e3be-237a-43f4-91f5-fe8c70d19ecc
-        title: living matter through matter (mediumship phenomenon)
+        title: Living matter through matter (mediumship phenomenon)
         slug: living-matter-through-matter-mediumship-phenomenon
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean
@@ -3674,7 +3674,7 @@ claims:
         title: Stewart Alexander
         slug: stewart-alexander
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-        title: clairvoyance
+        title: Clairvoyance
         slug: clairvoyance
     date: null
     date_end: null
@@ -3708,13 +3708,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 37977667-bf57-4a8f-beca-cc4ab84f66c4
         title: Stewart Alexander
         slug: stewart-alexander
       - node_id: 9e343107-3e76-4cba-80cb-1a03c1cf755b
-        title: book tests
+        title: Book tests
         slug: book-tests
     date: null
     date_end: null
@@ -4537,13 +4537,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: survival hypothesis
+        title: Survival hypothesis
         slug: survival-hypothesis
       - node_id: 37977667-bf57-4a8f-beca-cc4ab84f66c4
         title: Stewart Alexander
         slug: stewart-alexander
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
     date: null
     date_end: null
@@ -5313,7 +5313,7 @@ claims:
         title: Walter Stinson
         slug: walter-stinson
       - node_id: bc3f4c43-8a34-493d-98dd-419393017405
-        title: ectoplasm
+        title: Ectoplasm
         slug: ectoplasm
     date: null
     date_end: null
@@ -5618,7 +5618,7 @@ claims:
         title: Stewart Alexander
         slug: stewart-alexander
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
     date: null
     date_end: null
@@ -5656,10 +5656,10 @@ claims:
         title: Stewart Alexander
         slug: stewart-alexander
       - node_id: ba0c3542-ce21-4be8-b13d-89820c11475f
-        title: trance mediumship
+        title: Trance mediumship
         slug: trance-mediumship
       - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
-        title: physical mediumship
+        title: Physical mediumship
         slug: physical-mediumship
     date: null
     date_end: null
@@ -5695,7 +5695,7 @@ claims:
         title: Stewart Alexander
         slug: stewart-alexander
       - node_id: ba0c3542-ce21-4be8-b13d-89820c11475f
-        title: trance mediumship
+        title: Trance mediumship
         slug: trance-mediumship
     date: null
     date_end: null
@@ -6340,7 +6340,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 9be216da-aa9e-43d0-b539-cd881e233581
-        title: direct-voice mediumship
+        title: Direct-voice mediumship
         slug: direct-voice-mediumship
       - node_id: ce2ecc87-4b3b-45b5-9d93-a4a2bd36eb03
         title: Leslie Flint
@@ -6980,10 +6980,10 @@ claims:
         title: Stewart Alexander
         slug: stewart-alexander
       - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-        title: materialization (mediumship phenomenon)
+        title: Materialization (mediumship phenomenon)
         slug: materialization-mediumship-phenomenon
       - node_id: bc3f4c43-8a34-493d-98dd-419393017405
-        title: ectoplasm
+        title: Ectoplasm
         slug: ectoplasm
     date: null
     date_end: null
@@ -7020,7 +7020,7 @@ claims:
         title: Stewart Alexander
         slug: stewart-alexander
       - node_id: bc3f4c43-8a34-493d-98dd-419393017405
-        title: ectoplasm
+        title: Ectoplasm
         slug: ectoplasm
     date: null
     date_end: null
@@ -7060,10 +7060,10 @@ claims:
         title: Walter Stinson
         slug: walter-stinson
       - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
-        title: materialization (mediumship phenomenon)
+        title: Materialization (mediumship phenomenon)
         slug: materialization-mediumship-phenomenon
       - node_id: bc3f4c43-8a34-493d-98dd-419393017405
-        title: ectoplasm
+        title: Ectoplasm
         slug: ectoplasm
     date: null
     date_end: null

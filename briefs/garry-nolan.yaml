@@ -23,15 +23,15 @@ belonging:
   suspect_excluded: 0
   unreviewed: 27
 related_nodes:
+  - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
+    title: Caudate-putamen
+    node_type: topic
+    slug: caudate-putamen
+    shared_claims: 6
   - node_id: bfdc8095-3798-4086-bafa-9b4709c3c2b0
     title: William Livingston
     node_type: person
     slug: william-livingston
-    shared_claims: 6
-  - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
-    title: caudate-putamen
-    node_type: topic
-    slug: caudate-putamen
     shared_claims: 6
   - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
     title: Stanford University
@@ -99,7 +99,7 @@ related_nodes:
     slug: united-states-army
     shared_claims: 1
   - node_id: 8f7ba176-6547-4a47-a0fc-a234fdbc4578
-    title: white-matter disease
+    title: White-matter disease
     node_type: topic
     slug: white-matter-disease
     shared_claims: 1
@@ -549,7 +549,7 @@ claims:
         title: Garry Nolan
         slug: garry-nolan
       - node_id: 8f7ba176-6547-4a47-a0fc-a234fdbc4578
-        title: white-matter disease
+        title: White-matter disease
         slug: white-matter-disease
       - node_id: bfdc8095-3798-4086-bafa-9b4709c3c2b0
         title: William Livingston
@@ -614,7 +614,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
-        title: caudate-putamen
+        title: Caudate-putamen
         slug: caudate-putamen
       - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
         title: Garry Nolan
@@ -689,7 +689,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
-        title: caudate-putamen
+        title: Caudate-putamen
         slug: caudate-putamen
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
         title: Remote Viewing (RV)
@@ -843,7 +843,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
-        title: caudate-putamen
+        title: Caudate-putamen
         slug: caudate-putamen
       - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
         title: Garry Nolan
@@ -878,7 +878,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
-        title: caudate-putamen
+        title: Caudate-putamen
         slug: caudate-putamen
       - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
         title: Garry Nolan
@@ -913,7 +913,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
-        title: caudate-putamen
+        title: Caudate-putamen
         slug: caudate-putamen
       - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
         title: Garry Nolan
@@ -948,7 +948,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
-        title: caudate-putamen
+        title: Caudate-putamen
         slug: caudate-putamen
       - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
         title: Garry Nolan

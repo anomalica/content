@@ -23,6 +23,11 @@ belonging:
   suspect_excluded: 0
   unreviewed: 7
 related_nodes:
+  - node_id: 26a1ea14-513a-4a56-ad7d-bc51989c4b6c
+    title: Iridium flare
+    node_type: topic
+    slug: iridium-flare
+    shared_claims: 1
   - node_id: a738ad53-c15b-4aa6-925f-2015c3166309
     title: Jesse DeLuca
     node_type: person
@@ -42,11 +47,6 @@ related_nodes:
     title: Unidentified Flying Object (UFO)
     node_type: topic
     slug: unidentified-flying-object-ufo
-    shared_claims: 1
-  - node_id: 26a1ea14-513a-4a56-ad7d-bc51989c4b6c
-    title: iridium flare
-    node_type: topic
-    slug: iridium-flare
     shared_claims: 1
 claims:
   - claim_id: 6e2e0925-cd46-4fae-af41-5f8b8873cb1d
@@ -104,7 +104,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 26a1ea14-513a-4a56-ad7d-bc51989c4b6c
-        title: iridium flare
+        title: Iridium flare
         slug: iridium-flare
       - node_id: d41f1695-f15a-45c4-9b6c-62da03484381
         title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP) encounter

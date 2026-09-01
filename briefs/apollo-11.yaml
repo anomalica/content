@@ -88,15 +88,15 @@ related_nodes:
     node_type: object
     slug: s-ivb-apollo-11-discarded-third-stage
     shared_claims: 3
+  - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
+    title: The Moon
+    node_type: place
+    slug: the-moon
+    shared_claims: 3
   - node_id: 63ba055e-bedc-4b6a-9382-29e2b2971473
     title: Walter Cronkite
     node_type: person
     slug: walter-cronkite
-    shared_claims: 3
-  - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-    title: the Moon
-    node_type: place
-    slug: the-moon
     shared_claims: 3
   - node_id: 07612f4b-f330-41ef-a39b-4a528c7252a4
     title: Apollo 8 Lunar Orbit Insertion
@@ -1525,8 +1525,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -3562,7 +3561,7 @@ claims:
         title: Buzz Aldrin
         slug: buzz-aldrin
       - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-        title: the Moon
+        title: The Moon
         slug: the-moon
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -3604,7 +3603,7 @@ claims:
         title: Buzz Aldrin
         slug: buzz-aldrin
       - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-        title: the Moon
+        title: The Moon
         slug: the-moon
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -3643,7 +3642,7 @@ claims:
         title: Buzz Aldrin
         slug: buzz-aldrin
       - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-        title: the Moon
+        title: The Moon
         slug: the-moon
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11

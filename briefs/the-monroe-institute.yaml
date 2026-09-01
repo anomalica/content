@@ -113,6 +113,11 @@ related_nodes:
     node_type: topic
     slug: remote-viewing-rv
     shared_claims: 1
+  - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+    title: Sleep paralysis
+    node_type: topic
+    slug: sleep-paralysis
+    shared_claims: 1
   - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
     title: USA, Maryland, Fort Meade
     node_type: place
@@ -127,11 +132,6 @@ related_nodes:
     title: Whitley Strieber
     node_type: person
     slug: whitley-strieber
-    shared_claims: 1
-  - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-    title: sleep paralysis
-    node_type: topic
-    slug: sleep-paralysis
     shared_claims: 1
 claims:
   - claim_id: a65a29f4-2a39-4e68-bf7d-c23b534bb304
@@ -830,7 +830,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
-        title: sleep paralysis
+        title: Sleep paralysis
         slug: sleep-paralysis
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt

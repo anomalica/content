@@ -48,6 +48,11 @@ related_nodes:
     node_type: person
     slug: harry-turner
     shared_claims: 1
+  - node_id: dd63806c-7201-4c43-bde1-a91732c4ee25
+    title: The Martian Conspiracy (hypothesis)
+    node_type: topic
+    slug: the-martian-conspiracy-hypothesis
+    shared_claims: 1
   - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
     title: USA, District of Columbia, Washington
     node_type: place
@@ -72,11 +77,6 @@ related_nodes:
     title: United States Ship Missouri (USS Missouri)
     node_type: object
     slug: united-states-ship-missouri-uss-missouri
-    shared_claims: 1
-  - node_id: dd63806c-7201-4c43-bde1-a91732c4ee25
-    title: the Martian Conspiracy (hypothesis)
-    node_type: topic
-    slug: the-martian-conspiracy-hypothesis
     shared_claims: 1
 claims:
   - claim_id: 772143cb-2ceb-441d-bd34-1687e50168b3
@@ -172,7 +172,7 @@ claims:
         title: Roscoe Hillenkoetter
         slug: roscoe-hillenkoetter
       - node_id: dd63806c-7201-4c43-bde1-a91732c4ee25
-        title: the Martian Conspiracy (hypothesis)
+        title: The Martian Conspiracy (hypothesis)
         slug: the-martian-conspiracy-hypothesis
     date: null
     date_end: null

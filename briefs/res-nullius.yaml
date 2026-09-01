@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
   node_type: topic
-  title: res nullius
+  title: Res nullius
   slug: res-nullius
   claim_count: 10
   claim_count_total: 10
@@ -29,12 +29,12 @@ related_nodes:
     slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
     shared_claims: 6
   - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-    title: the Moon
+    title: The Moon
     node_type: place
     slug: the-moon
     shared_claims: 2
   - node_id: e495d4a9-5812-4464-b771-50eb035ff5ee
-    title: res communis
+    title: Res communis
     node_type: topic
     slug: res-communis
     shared_claims: 1
@@ -57,7 +57,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-        title: res nullius
+        title: Res nullius
         slug: res-nullius
     date: null
     date_end: null
@@ -87,7 +87,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-        title: res nullius
+        title: Res nullius
         slug: res-nullius
     date: null
     date_end: null
@@ -120,10 +120,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-        title: res nullius
+        title: Res nullius
         slug: res-nullius
       - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-        title: the Moon
+        title: The Moon
         slug: the-moon
     date: null
     date_end: null
@@ -158,13 +158,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-        title: res nullius
+        title: Res nullius
         slug: res-nullius
       - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-        title: the Moon
+        title: The Moon
         slug: the-moon
       - node_id: e495d4a9-5812-4464-b771-50eb035ff5ee
-        title: res communis
+        title: Res communis
         slug: res-communis
     date: null
     date_end: null
@@ -196,7 +196,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-        title: res nullius
+        title: Res nullius
         slug: res-nullius
       - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
         title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
@@ -231,7 +231,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-        title: res nullius
+        title: Res nullius
         slug: res-nullius
       - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
         title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
@@ -271,7 +271,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-        title: res nullius
+        title: Res nullius
         slug: res-nullius
       - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
         title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
@@ -306,7 +306,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-        title: res nullius
+        title: Res nullius
         slug: res-nullius
       - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
         title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
@@ -342,7 +342,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-        title: res nullius
+        title: Res nullius
         slug: res-nullius
       - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
         title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
@@ -380,7 +380,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
-        title: res nullius
+        title: Res nullius
         slug: res-nullius
       - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
         title: The Relationships with Inhabitants of Celestial Bodies (1947 document)

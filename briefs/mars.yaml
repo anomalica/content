@@ -84,7 +84,7 @@ related_nodes:
     slug: spacecom
     shared_claims: 1
   - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-    title: the Moon
+    title: The Moon
     node_type: place
     slug: the-moon
     shared_claims: 1
@@ -110,7 +110,7 @@ claims:
         title: J. Robert Oppenheimer
         slug: j-robert-oppenheimer
       - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-        title: the Moon
+        title: The Moon
         slug: the-moon
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein

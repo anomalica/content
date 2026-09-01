@@ -48,6 +48,11 @@ related_nodes:
     node_type: topic
     slug: front-loading-remote-viewing
     shared_claims: 2
+  - node_id: 0a475abf-7c1e-468a-a2df-760af8bafb3d
+    title: Ley lines
+    node_type: topic
+    slug: ley-lines
+    shared_claims: 1
   - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
     title: Project STARGATE
     node_type: project
@@ -72,11 +77,6 @@ related_nodes:
     title: United States Army
     node_type: organisation
     slug: united-states-army
-    shared_claims: 1
-  - node_id: 0a475abf-7c1e-468a-a2df-760af8bafb3d
-    title: ley lines
-    node_type: topic
-    slug: ley-lines
     shared_claims: 1
 claims:
   - claim_id: 70645fd9-dd27-4d64-a1e1-9c35de6e22f2
@@ -878,7 +878,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0a475abf-7c1e-468a-a2df-760af8bafb3d
-        title: ley lines
+        title: Ley lines
         slug: ley-lines
       - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
         title: Dowsing

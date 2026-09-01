@@ -98,6 +98,11 @@ related_nodes:
     node_type: object
     slug: billy-meier-metal-samples
     shared_claims: 3
+  - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
+    title: Creation energy teaching (Geisteslehre)
+    node_type: topic
+    slug: creation-energy-teaching-geisteslehre
+    shared_claims: 3
   - node_id: 17643007-cf47-4056-97f0-d44aec31de1f
     title: Switzerland, Zurich Highlands
     node_type: place
@@ -107,11 +112,6 @@ related_nodes:
     title: Wedding cake Unidentified Flying Object (UFO)
     node_type: object
     slug: wedding-cake-unidentified-flying-object-ufo
-    shared_claims: 3
-  - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-    title: creation energy teaching (Geisteslehre)
-    node_type: topic
-    slug: creation-energy-teaching-geisteslehre
     shared_claims: 3
   - node_id: 883d6197-9bec-483d-bc56-47e9f9b519b2
     title: 2023 Peru seven-foot giants reports
@@ -168,10 +168,10 @@ related_nodes:
     node_type: person
     slug: muhammad
     shared_claims: 2
-  - node_id: 22937165-168c-421e-8cfc-f487c5498f0a
-    title: The Silent Revolution of Truth (film)
-    node_type: document
-    slug: the-silent-revolution-of-truth-film
+  - node_id: 9eaff4f9-bb10-4c1a-ae13-ce69a47e0f77
+    title: Telekinesis
+    node_type: topic
+    slug: telekinesis
     shared_claims: 2
 claims:
   - claim_id: 402e2e1d-33ff-4d23-ac2c-049adbdf2751
@@ -3356,7 +3356,7 @@ claims:
         title: Billy Meier
         slug: billy-meier
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
       - node_id: f8672e85-d1fc-4723-ba59-f2dd6a60d97b
         title: Billy Meier and Asket Giza pyramid visit
@@ -3810,7 +3810,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 9eaff4f9-bb10-4c1a-ae13-ce69a47e0f77
-        title: telekinesis
+        title: Telekinesis
         slug: telekinesis
       - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
         title: Billy Meier
@@ -3842,7 +3842,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 9eaff4f9-bb10-4c1a-ae13-ce69a47e0f77
-        title: telekinesis
+        title: Telekinesis
         slug: telekinesis
       - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
         title: Billy Meier
@@ -4205,7 +4205,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 089017c0-d63f-4eb5-b48e-7c46836215e0
-        title: petrodollar
+        title: Petrodollar
         slug: petrodollar
       - node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
         title: Michael Horn
@@ -4967,7 +4967,7 @@ claims:
         title: Billy Meier
         slug: billy-meier
       - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-        title: creation energy teaching (Geisteslehre)
+        title: Creation energy teaching (Geisteslehre)
         slug: creation-energy-teaching-geisteslehre
     date: null
     date_end: null
@@ -5004,7 +5004,7 @@ claims:
         title: Billy Meier
         slug: billy-meier
       - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-        title: creation energy teaching (Geisteslehre)
+        title: Creation energy teaching (Geisteslehre)
         slug: creation-energy-teaching-geisteslehre
     date: null
     date_end: null
@@ -5036,7 +5036,7 @@ claims:
         title: Billy Meier
         slug: billy-meier
       - node_id: efe8997d-55b9-49ae-8d9b-b2b0ee1539cf
-        title: creation energy teaching (Geisteslehre)
+        title: Creation energy teaching (Geisteslehre)
         slug: creation-energy-teaching-geisteslehre
     date: null
     date_end: null
@@ -5130,7 +5130,7 @@ claims:
         title: Billy Meier
         slug: billy-meier
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: reincarnation
+        title: Reincarnation
         slug: reincarnation
     date: null
     date_end: null

@@ -34,7 +34,7 @@ related_nodes:
     slug: eye-of-horus-egyptian-symbol
     shared_claims: 3
   - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
-    title: kundalini
+    title: Kundalini
     node_type: topic
     slug: kundalini
     shared_claims: 2
@@ -86,7 +86,7 @@ claims:
         title: Eye of Horus (Egyptian symbol)
         slug: eye-of-horus-egyptian-symbol
       - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
-        title: kundalini
+        title: Kundalini
         slug: kundalini
       - node_id: 76286f9e-6c30-4be8-9469-5b14dd5d15bd
         title: Raven Dana
@@ -205,7 +205,7 @@ claims:
         title: 1988 contact experience of Raven Dana at Strieber's cabin
         slug: 1988-contact-experience-of-raven-dana-at-striebers-cabin
       - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
-        title: kundalini
+        title: Kundalini
         slug: kundalini
       - node_id: 76286f9e-6c30-4be8-9469-5b14dd5d15bd
         title: Raven Dana

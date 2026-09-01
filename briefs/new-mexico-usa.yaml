@@ -68,10 +68,25 @@ related_nodes:
     node_type: person
     slug: alonso-de-benavides
     shared_claims: 1
+  - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
+    title: Bilocation
+    node_type: topic
+    slug: bilocation
+    shared_claims: 1
+  - node_id: 5b467db5-ee87-4e53-809d-40d3ec6ab2d2
+    title: Foo fighters
+    node_type: topic
+    slug: foo-fighters
+    shared_claims: 1
   - node_id: 347d6124-ce9c-451c-9484-a025536d517d
     title: German V-2 rocket
     node_type: object
     slug: german-v-2-rocket
+    shared_claims: 1
+  - node_id: 4e15faa2-81e1-4d59-a318-fe731a49447c
+    title: Green fireballs of New Mexico
+    node_type: topic
+    slug: green-fireballs-of-new-mexico
     shared_claims: 1
   - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
     title: Italy, Rome
@@ -118,6 +133,11 @@ related_nodes:
     node_type: document
     slug: the-day-after-roswell
     shared_claims: 1
+  - node_id: 31ce8fce-7d60-4ef6-bcd0-15248adc466d
+    title: The artifact (Pasulka's anomalous object)
+    node_type: object
+    slug: the-artifact-pasulkas-anomalous-object
+    shared_claims: 1
   - node_id: 74505a33-a16b-4256-bd97-e40e2a2790c7
     title: USA, Mississippi, Pascagoula
     node_type: place
@@ -137,26 +157,6 @@ related_nodes:
     title: William Blanchard
     node_type: person
     slug: william-blanchard
-    shared_claims: 1
-  - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-    title: bilocation
-    node_type: topic
-    slug: bilocation
-    shared_claims: 1
-  - node_id: 5b467db5-ee87-4e53-809d-40d3ec6ab2d2
-    title: foo fighters
-    node_type: topic
-    slug: foo-fighters
-    shared_claims: 1
-  - node_id: 4e15faa2-81e1-4d59-a318-fe731a49447c
-    title: green fireballs of New Mexico
-    node_type: topic
-    slug: green-fireballs-of-new-mexico
-    shared_claims: 1
-  - node_id: 31ce8fce-7d60-4ef6-bcd0-15248adc466d
-    title: the artifact (Pasulka's anomalous object)
-    node_type: object
-    slug: the-artifact-pasulkas-anomalous-object
     shared_claims: 1
 claims:
   - claim_id: 76189a54-ed73-4613-a4a8-6cdf4d6a7c16
@@ -181,10 +181,10 @@ claims:
         title: German V-2 rocket
         slug: german-v-2-rocket
       - node_id: 4e15faa2-81e1-4d59-a318-fe731a49447c
-        title: green fireballs of New Mexico
+        title: Green fireballs of New Mexico
         slug: green-fireballs-of-new-mexico
       - node_id: 5b467db5-ee87-4e53-809d-40d3ec6ab2d2
-        title: foo fighters
+        title: Foo fighters
         slug: foo-fighters
       - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
         title: USA, New Mexico
@@ -867,7 +867,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 31ce8fce-7d60-4ef6-bcd0-15248adc466d
-        title: the artifact (Pasulka's anomalous object)
+        title: The artifact (Pasulka's anomalous object)
         slug: the-artifact-pasulkas-anomalous-object
       - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
         title: USA, New Mexico
@@ -1541,7 +1541,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
-        title: bilocation
+        title: Bilocation
         slug: bilocation
       - node_id: 4a044b05-a5f4-4f73-97fe-7fc80687e04a
         title: Mary of Agreda

@@ -24,7 +24,7 @@ belonging:
   unreviewed: 112
 related_nodes:
   - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
+    title: Alien abduction
     node_type: topic
     slug: alien-abduction
     shared_claims: 54
@@ -63,15 +63,15 @@ related_nodes:
     node_type: person
     slug: edgar-mitchell
     shared_claims: 2
+  - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
+    title: Post-traumatic stress disorder (PTSD)
+    node_type: topic
+    slug: post-traumatic-stress-disorder-ptsd
+    shared_claims: 2
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
     node_type: topic
     slug: unidentified-flying-object-ufo
-    shared_claims: 2
-  - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
-    title: post-traumatic stress disorder (PTSD)
-    node_type: topic
-    slug: post-traumatic-stress-disorder-ptsd
     shared_claims: 2
   - node_id: 8e028221-d05e-4b31-a286-66ae29dca0eb
     title: Academy of Clinical Close Encounter Therapists (ACCT)
@@ -87,6 +87,11 @@ related_nodes:
     title: Australian Close Encounter Resource Network (CERN)
     node_type: organisation
     slug: australian-close-encounter-resource-network-cern
+    shared_claims: 1
+  - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+    title: Clairvoyance
+    node_type: topic
+    slug: clairvoyance
     shared_claims: 1
   - node_id: 112b9bfc-7c32-4e33-9852-b0f34baeada8
     title: Connections
@@ -113,13 +118,8 @@ related_nodes:
     node_type: topic
     slug: psychic-surgery
     shared_claims: 1
-  - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-    title: clairvoyance
-    node_type: topic
-    slug: clairvoyance
-    shared_claims: 1
   - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-    title: telepathy
+    title: Telepathy
     node_type: topic
     slug: telepathy
     shared_claims: 1
@@ -217,7 +217,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: '1998'
     date_end: null
@@ -255,7 +255,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: '1998'
     date_end: null
@@ -293,7 +293,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: '1998'
     date_end: null
@@ -504,7 +504,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
         title: Extraterrestrial Contact
@@ -1015,7 +1015,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: '1998'
     date_end: null
@@ -1090,7 +1090,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: '1998'
     date_end: null
@@ -1127,7 +1127,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: '1998'
     date_end: null
@@ -1164,7 +1164,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
         title: Extraterrestrial Contact
@@ -1460,7 +1460,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
-        title: post-traumatic stress disorder (PTSD)
+        title: Post-traumatic stress disorder (PTSD)
         slug: post-traumatic-stress-disorder-ptsd
       - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
         title: Extraterrestrial Contact
@@ -1502,7 +1502,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: '1998'
     date_end: null
@@ -1572,7 +1572,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: fd6b3283-5feb-4499-9053-d8197bc7e00d
         title: Jason Andrews
@@ -1611,7 +1611,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: fd6b3283-5feb-4499-9053-d8197bc7e00d
         title: Jason Andrews
@@ -1651,7 +1651,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: fd6b3283-5feb-4499-9053-d8197bc7e00d
         title: Jason Andrews
@@ -1905,7 +1905,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: '1998'
     date_end: null
@@ -2084,7 +2084,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: d30c5ff3-2aab-42bf-a595-d5329d24cdd8
         title: Extraterrestrial Contact
@@ -2122,7 +2122,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2157,7 +2157,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2193,10 +2193,10 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
-        title: post-traumatic stress disorder (PTSD)
+        title: Post-traumatic stress disorder (PTSD)
         slug: post-traumatic-stress-disorder-ptsd
     date: null
     date_end: null
@@ -2231,7 +2231,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2268,7 +2268,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2304,7 +2304,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2339,7 +2339,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2413,7 +2413,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2449,7 +2449,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2485,16 +2485,16 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
-        title: clairvoyance
+        title: Clairvoyance
         slug: clairvoyance
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: b0a1c36b-e9d1-4629-aa6d-5e95333b7b3c
         title: High Sense Perception
         slug: high-sense-perception
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -2535,7 +2535,7 @@ claims:
         title: Healing
         slug: healing
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2572,7 +2572,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2643,7 +2643,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2680,7 +2680,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2717,7 +2717,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2756,7 +2756,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2824,7 +2824,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2861,7 +2861,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2898,7 +2898,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2934,7 +2934,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -2971,7 +2971,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3011,7 +3011,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3049,7 +3049,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3086,7 +3086,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3122,7 +3122,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3159,7 +3159,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3196,7 +3196,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3233,7 +3233,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3271,7 +3271,7 @@ claims:
         title: Healing
         slug: healing
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3306,7 +3306,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3378,7 +3378,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3449,7 +3449,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3527,7 +3527,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3568,7 +3568,7 @@ claims:
         title: Daryl Sims
         slug: daryl-sims
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3605,7 +3605,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3710,7 +3710,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3746,7 +3746,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3785,7 +3785,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3822,7 +3822,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3858,7 +3858,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3895,7 +3895,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3931,7 +3931,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -3968,7 +3968,7 @@ claims:
         title: Mary Rodwell
         slug: mary-rodwell
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null

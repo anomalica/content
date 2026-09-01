@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
   node_type: topic
-  title: grey aliens
+  title: Grey aliens
   slug: grey-aliens
   claim_count: 13
   claim_count_total: 13
@@ -29,7 +29,7 @@ related_nodes:
     slug: sean-chittle
     shared_claims: 6
   - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-    title: human-alien hybrid children
+    title: Human-alien hybrid children
     node_type: topic
     slug: human-alien-hybrid-children
     shared_claims: 4
@@ -53,6 +53,11 @@ related_nodes:
     node_type: person
     slug: steven-spielberg
     shared_claims: 2
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 1
   - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
     title: Close Encounters of the Third Kind (1977 film)
     node_type: document
@@ -83,11 +88,6 @@ related_nodes:
     node_type: document
     slug: the-war-of-the-worlds
     shared_claims: 1
-  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
-    node_type: topic
-    slug: alien-abduction
-    shared_claims: 1
 claims:
   - claim_id: bf65cfe9-9f12-4a70-9fb0-ef4ca4cf7f9f
     claim_hash: f081cd9217a1b7ad145033aefd61492827e33c8975eab838ebbca4bede3298f9
@@ -112,10 +112,10 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -147,7 +147,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -187,7 +187,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -225,13 +225,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
         slug: jason-quitt
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-        title: human-alien hybrid children
+        title: Human-alien hybrid children
         slug: human-alien-hybrid-children
     date: null
     date_end: null
@@ -269,10 +269,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-        title: human-alien hybrid children
+        title: Human-alien hybrid children
         slug: human-alien-hybrid-children
     date: null
     date_end: null
@@ -310,10 +310,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-        title: human-alien hybrid children
+        title: Human-alien hybrid children
         slug: human-alien-hybrid-children
     date: null
     date_end: null
@@ -350,10 +350,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
-        title: human-alien hybrid children
+        title: Human-alien hybrid children
         slug: human-alien-hybrid-children
     date: null
     date_end: null
@@ -388,7 +388,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
         title: Sean Chittle
@@ -426,7 +426,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
         title: Sean Chittle
@@ -463,7 +463,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
         title: Steven Spielberg
@@ -507,7 +507,7 @@ claims:
         title: Close Encounters of the Third Kind (1977 film)
         slug: close-encounters-of-the-third-kind-1977-film
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
         title: Steven Spielberg
@@ -555,7 +555,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
         title: Sean Chittle
@@ -592,7 +592,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: grey aliens
+        title: Grey aliens
         slug: grey-aliens
       - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
         title: Sean Chittle

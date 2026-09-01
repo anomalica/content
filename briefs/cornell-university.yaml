@@ -83,6 +83,11 @@ related_nodes:
     node_type: person
     slug: steven-squyres
     shared_claims: 1
+  - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
+    title: The visitors (nonhuman beings)
+    node_type: topic
+    slug: the-visitors-nonhuman-beings
+    shared_claims: 1
   - node_id: dc8f35d2-38d1-4128-8cf0-565cea6cfc69
     title: USA, New York, Ithaca
     node_type: place
@@ -92,11 +97,6 @@ related_nodes:
     title: Unidentified Flying Object (UFO)
     node_type: topic
     slug: unidentified-flying-object-ufo
-    shared_claims: 1
-  - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-    title: the visitors (nonhuman beings)
-    node_type: topic
-    slug: the-visitors-nonhuman-beings
     shared_claims: 1
 claims:
   - claim_id: 050586bb-8a53-4b35-9ba8-39c8118d9fdc
@@ -315,7 +315,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-        title: the visitors (nonhuman beings)
+        title: The visitors (nonhuman beings)
         slug: the-visitors-nonhuman-beings
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)

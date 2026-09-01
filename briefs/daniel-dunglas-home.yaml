@@ -38,6 +38,11 @@ related_nodes:
     node_type: person
     slug: indridi-indridason
     shared_claims: 1
+  - node_id: 3f40e3be-237a-43f4-91f5-fe8c70d19ecc
+    title: Living matter through matter (mediumship phenomenon)
+    node_type: topic
+    slug: living-matter-through-matter-mediumship-phenomenon
+    shared_claims: 1
   - node_id: 5b9aead5-37b6-4c06-a3e6-74455a076a25
     title: Mark Twain
     node_type: person
@@ -47,11 +52,6 @@ related_nodes:
     title: UK, Scotland
     node_type: place
     slug: scotland-uk
-    shared_claims: 1
-  - node_id: 3f40e3be-237a-43f4-91f5-fe8c70d19ecc
-    title: living matter through matter (mediumship phenomenon)
-    node_type: topic
-    slug: living-matter-through-matter-mediumship-phenomenon
     shared_claims: 1
 claims:
   - claim_id: 22c188d6-a0b2-4ab0-a017-48d128ea16fd
@@ -514,7 +514,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3f40e3be-237a-43f4-91f5-fe8c70d19ecc
-        title: living matter through matter (mediumship phenomenon)
+        title: Living matter through matter (mediumship phenomenon)
         slug: living-matter-through-matter-mediumship-phenomenon
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home

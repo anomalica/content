@@ -54,15 +54,15 @@ related_nodes:
     node_type: person
     slug: luis-elizondo
     shared_claims: 1
+  - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
+    title: Post-traumatic stress disorder (PTSD)
+    node_type: topic
+    slug: post-traumatic-stress-disorder-ptsd
+    shared_claims: 1
   - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
     title: To the Stars Academy of Arts and Science (TTSA)
     node_type: organisation
     slug: to-the-stars-academy-of-arts-and-science-ttsa
-    shared_claims: 1
-  - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
-    title: post-traumatic stress disorder (PTSD)
-    node_type: topic
-    slug: post-traumatic-stress-disorder-ptsd
     shared_claims: 1
 claims:
   - claim_id: 60c27c86-b087-4a81-b759-66b26eb0b951
@@ -175,7 +175,7 @@ claims:
         title: The Intercept
         slug: the-intercept
       - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
-        title: post-traumatic stress disorder (PTSD)
+        title: Post-traumatic stress disorder (PTSD)
         slug: post-traumatic-stress-disorder-ptsd
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch

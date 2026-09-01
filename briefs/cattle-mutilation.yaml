@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
   node_type: topic
-  title: cattle mutilation
+  title: Cattle mutilation
   slug: cattle-mutilation
   claim_count: 6
   claim_count_total: 6
@@ -82,7 +82,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
-        title: cattle mutilation
+        title: Cattle mutilation
         slug: cattle-mutilation
       - node_id: f0f5c93f-5fe4-4747-b3cf-57d7f6b27d73
         title: United States Department of Agriculture (USDA)
@@ -122,7 +122,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
-        title: cattle mutilation
+        title: Cattle mutilation
         slug: cattle-mutilation
       - node_id: f0f5c93f-5fe4-4747-b3cf-57d7f6b27d73
         title: United States Department of Agriculture (USDA)
@@ -163,7 +163,7 @@ claims:
         title: Linda Moulton Howe
         slug: linda-moulton-howe
       - node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
-        title: cattle mutilation
+        title: Cattle mutilation
         slug: cattle-mutilation
     date: null
     date_end: null
@@ -201,7 +201,7 @@ claims:
         title: Greys (extraterrestrial beings)
         slug: greys-extraterrestrial-beings
       - node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
-        title: cattle mutilation
+        title: Cattle mutilation
         slug: cattle-mutilation
     date: null
     date_end: null
@@ -240,7 +240,7 @@ claims:
         title: Greys (extraterrestrial beings)
         slug: greys-extraterrestrial-beings
       - node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
-        title: cattle mutilation
+        title: Cattle mutilation
         slug: cattle-mutilation
       - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
         title: Dwight D. Eisenhower
@@ -283,7 +283,7 @@ claims:
         title: George Knapp
         slug: george-knapp
       - node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
-        title: cattle mutilation
+        title: Cattle mutilation
         slug: cattle-mutilation
     date: null
     date_end: null

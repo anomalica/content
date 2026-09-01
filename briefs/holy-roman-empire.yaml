@@ -23,15 +23,15 @@ belonging:
   suspect_excluded: 0
   unreviewed: 3
 related_nodes:
+  - node_id: 759d09f7-4e88-44b0-939e-b717271ba713
+    title: Single-nucleotide polymorphism (SNP)
+    node_type: topic
+    slug: single-nucleotide-polymorphism-snp
+    shared_claims: 1
   - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
     title: Whitley Strieber
     node_type: person
     slug: whitley-strieber
-    shared_claims: 1
-  - node_id: 759d09f7-4e88-44b0-939e-b717271ba713
-    title: single-nucleotide polymorphism (SNP)
-    node_type: topic
-    slug: single-nucleotide-polymorphism-snp
     shared_claims: 1
 claims:
   - claim_id: 776c2a37-c29c-402e-9b52-091bc8417849
@@ -81,7 +81,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 759d09f7-4e88-44b0-939e-b717271ba713
-        title: single-nucleotide polymorphism (SNP)
+        title: Single-nucleotide polymorphism (SNP)
         slug: single-nucleotide-polymorphism-snp
       - node_id: e5269a5e-6135-4e3e-862f-0627b7d5a785
         title: Holy Roman Empire

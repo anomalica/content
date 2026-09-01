@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: be3bc9ad-43db-4515-8c79-f5c22b46af9b
   node_type: topic
-  title: quantum entanglement
+  title: Quantum entanglement
   slug: quantum-entanglement
   claim_count: 5
   claim_count_total: 5
@@ -33,28 +33,28 @@ related_nodes:
     node_type: person
     slug: julia-mossbridge
     shared_claims: 1
+  - node_id: 7856e46b-4c17-471d-91f5-d7c1bb3315df
+    title: No-signalling theorem
+    node_type: topic
+    slug: no-signalling-theorem
+    shared_claims: 1
+  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+    title: Telepathy
+    node_type: topic
+    slug: telepathy
+    shared_claims: 1
+  - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
+    title: Unconditional love
+    node_type: topic
+    slug: unconditional-love
+    shared_claims: 1
   - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
     title: United States Air Force (USAF)
     node_type: organisation
     slug: united-states-air-force-usaf
     shared_claims: 1
-  - node_id: 7856e46b-4c17-471d-91f5-d7c1bb3315df
-    title: no-signalling theorem
-    node_type: topic
-    slug: no-signalling-theorem
-    shared_claims: 1
-  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-    title: telepathy
-    node_type: topic
-    slug: telepathy
-    shared_claims: 1
-  - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-    title: unconditional love
-    node_type: topic
-    slug: unconditional-love
-    shared_claims: 1
   - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-    title: zero-point energy
+    title: Zero-point energy
     node_type: topic
     slug: zero-point-energy
     shared_claims: 1
@@ -83,7 +83,7 @@ claims:
         title: United States Air Force (USAF)
         slug: united-states-air-force-usaf
       - node_id: be3bc9ad-43db-4515-8c79-f5c22b46af9b
-        title: quantum entanglement
+        title: Quantum entanglement
         slug: quantum-entanglement
     date: null
     date_end: null
@@ -116,7 +116,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: be3bc9ad-43db-4515-8c79-f5c22b46af9b
-        title: quantum entanglement
+        title: Quantum entanglement
         slug: quantum-entanglement
     date: null
     date_end: null
@@ -150,10 +150,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7856e46b-4c17-471d-91f5-d7c1bb3315df
-        title: no-signalling theorem
+        title: No-signalling theorem
         slug: no-signalling-theorem
       - node_id: be3bc9ad-43db-4515-8c79-f5c22b46af9b
-        title: quantum entanglement
+        title: Quantum entanglement
         slug: quantum-entanglement
     date: null
     date_end: null
@@ -190,10 +190,10 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: be3bc9ad-43db-4515-8c79-f5c22b46af9b
-        title: quantum entanglement
+        title: Quantum entanglement
         slug: quantum-entanglement
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -229,16 +229,16 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
-        title: zero-point energy
+        title: Zero-point energy
         slug: zero-point-energy
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-        title: unconditional love
+        title: Unconditional love
         slug: unconditional-love
       - node_id: be3bc9ad-43db-4515-8c79-f5c22b46af9b
-        title: quantum entanglement
+        title: Quantum entanglement
         slug: quantum-entanglement
     date: null
     date_end: null

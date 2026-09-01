@@ -48,6 +48,11 @@ related_nodes:
     node_type: place
     slug: western-australia-exmouth-australia
     shared_claims: 1
+  - node_id: e4500132-99a7-483a-bbc1-67f8896f27d5
+    title: First World Trade Center bombing, 1993-02-26
+    node_type: event
+    slug: 1993-02-26-first-world-trade-center-bombing
+    shared_claims: 1
   - node_id: 01901068-df09-4d46-8c2d-aca4db216069
     title: Gulf War
     node_type: event
@@ -68,13 +73,8 @@ related_nodes:
     node_type: place
     slug: oklahoma-city-murrah-federal-building-usa
     shared_claims: 1
-  - node_id: e4500132-99a7-483a-bbc1-67f8896f27d5
-    title: first World Trade Center bombing, 1993-02-26
-    node_type: event
-    slug: 1993-02-26-first-world-trade-center-bombing
-    shared_claims: 1
   - node_id: eb84fff5-f42d-4831-81ae-0ea6548a0c58
-    title: weapons of mass destruction (WMD)
+    title: Weapons of mass destruction (WMD)
     node_type: topic
     slug: weapons-of-mass-destruction-wmd
     shared_claims: 1
@@ -132,7 +132,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: e4500132-99a7-483a-bbc1-67f8896f27d5
-        title: first World Trade Center bombing, 1993-02-26
+        title: First World Trade Center bombing, 1993-02-26
         slug: 1993-02-26-first-world-trade-center-bombing
       - node_id: fb23b4a4-2e7e-4432-8347-0832eaeca2da
         title: Saddam Hussein
@@ -351,7 +351,7 @@ claims:
         title: Iraq
         slug: iraq
       - node_id: eb84fff5-f42d-4831-81ae-0ea6548a0c58
-        title: weapons of mass destruction (WMD)
+        title: Weapons of mass destruction (WMD)
         slug: weapons-of-mass-destruction-wmd
       - node_id: fb23b4a4-2e7e-4432-8347-0832eaeca2da
         title: Saddam Hussein

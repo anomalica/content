@@ -43,6 +43,11 @@ related_nodes:
     node_type: person
     slug: william-steinman
     shared_claims: 2
+  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+    title: Alien implant
+    node_type: topic
+    slug: alien-implant
+    shared_claims: 1
   - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
     title: Barry Greenwood
     node_type: person
@@ -98,6 +103,11 @@ related_nodes:
     node_type: person
     slug: stanton-friedman
     shared_claims: 1
+  - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
+    title: The visitors (nonhuman beings)
+    node_type: topic
+    slug: the-visitors-nonhuman-beings
+    shared_claims: 1
   - node_id: a316cbb9-b90f-422a-9329-9be7414bda65
     title: USA, Tennessee, Oak Ridge
     node_type: place
@@ -127,16 +137,6 @@ related_nodes:
     title: Wilbert Smith
     node_type: person
     slug: wilbert-smith
-    shared_claims: 1
-  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-    title: alien implant
-    node_type: topic
-    slug: alien-implant
-    shared_claims: 1
-  - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-    title: the visitors (nonhuman beings)
-    node_type: topic
-    slug: the-visitors-nonhuman-beings
     shared_claims: 1
 claims:
   - claim_id: e58d40ad-267c-4a31-819c-3a5bd2dcb9f3
@@ -441,7 +441,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-        title: the visitors (nonhuman beings)
+        title: The visitors (nonhuman beings)
         slug: the-visitors-nonhuman-beings
       - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
         title: Robert Sarbacher
@@ -1390,7 +1390,7 @@ claims:
         title: Robert Sarbacher
         slug: robert-sarbacher
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: '2026-07-24'
     date_end: null

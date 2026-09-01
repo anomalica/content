@@ -48,6 +48,11 @@ related_nodes:
     node_type: person
     slug: charlie-hickson
     shared_claims: 1
+  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+    title: Electroencephalography (EEG)
+    node_type: topic
+    slug: electroencephalography-eeg
+    shared_claims: 1
   - node_id: ff26748c-1f2d-4563-bbd4-1e7cbf5f2ec5
     title: Harrison Schmitt
     node_type: person
@@ -67,11 +72,6 @@ related_nodes:
     title: USA, New York, New York City
     node_type: place
     slug: new-york-new-york-city-usa
-    shared_claims: 1
-  - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-    title: electroencephalography (EEG)
-    node_type: topic
-    slug: electroencephalography-eeg
     shared_claims: 1
 claims:
   - claim_id: 94dfd3da-ce31-4796-a462-383b80bb5849
@@ -987,7 +987,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
-        title: electroencephalography (EEG)
+        title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe

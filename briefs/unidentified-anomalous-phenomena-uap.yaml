@@ -154,7 +154,7 @@ related_nodes:
     slug: late-2025-unidentified-aerial-phenomena-uap-encounter-at-a-us-weapons-test-range
     shared_claims: 11
   - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
     node_type: document
     slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     shared_claims: 11
@@ -1349,7 +1349,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -7173,7 +7173,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null
@@ -7211,7 +7211,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null
@@ -7258,7 +7258,7 @@ claims:
         title: Douglas Dean Johnson
         slug: douglas-dean-johnson
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null
@@ -7917,7 +7917,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null
@@ -10009,7 +10009,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null
@@ -10382,7 +10382,7 @@ claims:
         title: David Charles Grusch
         slug: david-charles-grusch
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null
@@ -10421,7 +10421,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null
@@ -12924,7 +12924,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 35400549-3569-4819-8548-9d7fd2460bd2
-        title: Unidentified Aerial Phenomena / UAP Integration Committee (American Institute of AIAA )
+        title: Unidentified Aerial Phenomena / UAP Integration Committee (American Institute of AIAA)
         slug: unidentified-aerial-phenomena-uap-integration-committee-american-institute-of-aiaa
       - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
         title: Ryan Graves
@@ -14169,7 +14169,7 @@ claims:
         title: Luis Elizondo
         slug: luis-elizondo
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -14500,7 +14500,7 @@ claims:
         title: Luis Elizondo
         slug: luis-elizondo
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -14687,7 +14687,7 @@ claims:
         title: Luis Elizondo
         slug: luis-elizondo
       - node_id: dd72cc7d-7470-4d37-9d6f-474300e06820
-        title: electromagnetic pulse (EMP)
+        title: Electromagnetic pulse (EMP)
         slug: electromagnetic-pulse-emp
     date: null
     date_end: null
@@ -14843,7 +14843,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -14924,7 +14924,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -16217,7 +16217,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
-        title: angel hair
+        title: Angel hair
         slug: angel-hair
     date: null
     date_end: null
@@ -17644,7 +17644,7 @@ claims:
         title: OPLAN Interloper
         slug: oplan-interloper
       - node_id: 9fbb2218-c47f-4d07-b0b1-a106bd109bd7
-        title: Alternative Compensatory Control Measure (ACCM )
+        title: Alternative Compensatory Control Measure (ACCM)
         slug: alternative-compensatory-control-measure-accm
       - node_id: dbb703ca-bb91-4756-b452-95047fb5b186
         title: Joint Staff
@@ -23650,7 +23650,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -23690,7 +23690,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -24512,7 +24512,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 03d2b1b2-090a-49d4-a28d-38d443323b09
-        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2022-fy-2022-ndaa
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -24566,7 +24566,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: f54ced9a-ed5b-4bf1-b7a4-3d4084de8a67
-        title: SII - Unidentified Aerial Phenomena (UAP ) Reporting
+        title: SII - Unidentified Aerial Phenomena (UAP) Reporting
         slug: sii---unidentified-aerial-phenomena-uap-reporting
     date: '2022-04-08'
     date_end: null
@@ -25210,7 +25210,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 03d2b1b2-090a-49d4-a28d-38d443323b09
-        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2022-fy-2022-ndaa
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -25300,10 +25300,10 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: b7de62b9-55ba-4736-b28a-21e662315236
-        title: transmedium object
+        title: Transmedium object
         slug: transmedium-object
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: '2022-12-23'
     date_end: null
@@ -25718,7 +25718,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 03d2b1b2-090a-49d4-a28d-38d443323b09
-        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2022-fy-2022-ndaa
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -25792,7 +25792,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 03d2b1b2-090a-49d4-a28d-38d443323b09
-        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2022-fy-2022-ndaa
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -25828,7 +25828,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 03d2b1b2-090a-49d4-a28d-38d443323b09
-        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2022-fy-2022-ndaa
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -25871,7 +25871,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 03d2b1b2-090a-49d4-a28d-38d443323b09
-        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2022-fy-2022-ndaa
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -25911,7 +25911,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 03d2b1b2-090a-49d4-a28d-38d443323b09
-        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2022 (FY 2022 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2022-fy-2022-ndaa
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -25954,7 +25954,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
       - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
         title: All-domain Anomaly Resolution Office (AARO)
@@ -27449,7 +27449,7 @@ claims:
         title: United States Department of Defense (DoD)
         slug: united-states-department-of-defense-dod
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
     date: null
     date_end: null
@@ -28568,7 +28568,7 @@ claims:
         title: Department of Energy
         slug: department-of-energy
       - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA )
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
         slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
       - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
         title: All-domain Anomaly Resolution Office (AARO)
@@ -30771,7 +30771,7 @@ claims:
         title: United States Department of Defense (DoD)
         slug: united-states-department-of-defense-dod
       - node_id: c2432e85-d5f9-4b32-9b6a-d7eb4d8ecb6d
-        title: soul (fourth-dimensional consciousness)
+        title: Soul (fourth-dimensional consciousness)
         slug: soul-fourth-dimensional-consciousness
     date: null
     date_end: null
@@ -30808,7 +30808,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: a9d055ed-c0a1-468c-a40e-5449159763e8
-        title: block universe theory
+        title: Block universe theory
         slug: block-universe-theory
     date: null
     date_end: null
@@ -31140,7 +31140,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
-        title: extrasensory perception (ESP)
+        title: Extrasensory perception (ESP)
         slug: extrasensory-perception-esp
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -31149,7 +31149,7 @@ claims:
         title: To the Stars Academy of Arts and Science (TTSA)
         slug: to-the-stars-academy-of-arts-and-science-ttsa
       - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: telepathy
+        title: Telepathy
         slug: telepathy
     date: null
     date_end: null
@@ -33571,7 +33571,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
-        title: the close encounter experience
+        title: The close encounter experience
         slug: the-close-encounter-experience
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -33731,9 +33731,9 @@ claims:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
-      - node_id: 54616729-112f-44c5-9178-811f7811f1e8
-        title: artificial intelligence
-        slug: artificial-intelligence
+      - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+        title: Artificial intelligence (AI)
+        slug: artificial-intelligence-ai
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
@@ -33775,7 +33775,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-        title: war.gov/UFOs release
+        title: War.gov/UFOs release
         slug: wargovufos-release
     date: null
     date_end: null
@@ -33965,7 +33965,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-        title: war.gov/UFOs release
+        title: War.gov/UFOs release
         slug: wargovufos-release
     date: null
     date_end: null
@@ -34789,7 +34789,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
-        title: war.gov Unidentified Flying Object (UFO) files website
+        title: War.gov Unidentified Flying Object (UFO) files website
         slug: wargov-unidentified-flying-object-ufo-files-website
     date: null
     date_end: null
@@ -34866,7 +34866,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: b83da5e3-e3b2-4a45-970e-1fb61796f3df
-        title: reverse engineering of non-human technology
+        title: Reverse engineering of non-human technology
         slug: reverse-engineering-of-non-human-technology
       - node_id: feaff28e-fc24-4fb4-b851-bd84c9234590
         title: Reality Check with Ross Coulthart
@@ -34994,7 +34994,7 @@ claims:
         title: The White House
         slug: the-white-house
       - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
-        title: war.gov Unidentified Flying Object (UFO) files website
+        title: War.gov Unidentified Flying Object (UFO) files website
         slug: wargov-unidentified-flying-object-ufo-files-website
     date: null
     date_end: null
@@ -35113,7 +35113,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
-        title: war.gov Unidentified Flying Object (UFO) files website
+        title: War.gov Unidentified Flying Object (UFO) files website
         slug: wargov-unidentified-flying-object-ufo-files-website
     date: null
     date_end: null
@@ -35342,7 +35342,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 12a45987-5c51-4a85-9c41-d2fbc4142d46
-        title: the five observables
+        title: The five observables
         slug: the-five-observables
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -35553,7 +35553,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
-        title: war.gov Unidentified Flying Object (UFO) files website
+        title: War.gov Unidentified Flying Object (UFO) files website
         slug: wargov-unidentified-flying-object-ufo-files-website
     date: null
     date_end: null
@@ -36137,7 +36137,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 55d8864f-5a54-49b4-b247-64670258220d
-        title: swamp gas
+        title: Swamp gas
         slug: swamp-gas
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -36146,7 +36146,7 @@ claims:
         title: Project Blue Book
         slug: project-blue-book
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: null
     date_end: null
@@ -37763,7 +37763,7 @@ claims:
         title: David Charles Grusch
         slug: david-charles-grusch
       - node_id: eb844394-11fa-4223-ab75-374412b7be46
-        title: ball lightning
+        title: Ball lightning
         slug: ball-lightning
     date: null
     date_end: null
@@ -38103,7 +38103,7 @@ claims:
         title: David Charles Grusch
         slug: david-charles-grusch
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -38144,7 +38144,7 @@ claims:
         title: David Charles Grusch
         slug: david-charles-grusch
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -38851,7 +38851,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
-        title: hypnotic regression
+        title: Hypnotic regression
         slug: hypnotic-regression
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -38892,7 +38892,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -39470,7 +39470,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
-        title: psi
+        title: Psi
         slug: psi
     date: null
     date_end: null
@@ -39504,7 +39504,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -39550,7 +39550,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null
@@ -39584,7 +39584,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 300f82a3-0922-4988-abac-b31d0be879ed
-        title: trickster phenomenon
+        title: Trickster phenomenon
         slug: trickster-phenomenon
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -39593,7 +39593,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
-        title: psi
+        title: Psi
         slug: psi
     date: null
     date_end: null
@@ -39634,7 +39634,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null

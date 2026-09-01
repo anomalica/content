@@ -78,6 +78,11 @@ related_nodes:
     node_type: person
     slug: credo-mutwa
     shared_claims: 1
+  - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
+    title: Gray alien stereotype
+    node_type: topic
+    slug: gray-alien-stereotype
+    shared_claims: 1
   - node_id: a384e65a-f90f-4829-9bc0-cd87e84a56cf
     title: Jason Reza Jorjani
     node_type: person
@@ -108,6 +113,11 @@ related_nodes:
     node_type: person
     slug: richard-thompson
     shared_claims: 1
+  - node_id: 46a284ea-0a1b-4828-8e2a-bfcc470ac208
+    title: Solid light phenomenon (UFO)
+    node_type: topic
+    slug: solid-light-phenomenon-ufo
+    shared_claims: 1
   - node_id: d91e2df7-b885-41ab-952d-002373550f99
     title: Travis Walton
     node_type: person
@@ -127,16 +137,6 @@ related_nodes:
     title: Vicki Klein
     node_type: person
     slug: vicki-klein
-    shared_claims: 1
-  - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
-    title: gray alien stereotype
-    node_type: topic
-    slug: gray-alien-stereotype
-    shared_claims: 1
-  - node_id: 46a284ea-0a1b-4828-8e2a-bfcc470ac208
-    title: solid light phenomenon (UFO)
-    node_type: topic
-    slug: solid-light-phenomenon-ufo
     shared_claims: 1
 claims:
   - claim_id: 7ebed348-b570-48d3-8340-22522adefc2f
@@ -540,7 +540,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 46a284ea-0a1b-4828-8e2a-bfcc470ac208
-        title: solid light phenomenon (UFO)
+        title: Solid light phenomenon (UFO)
         slug: solid-light-phenomenon-ufo
       - node_id: 94d1bd0d-1d47-4b5a-b133-517ce3f3b541
         title: 1968 Villa Carlos Paz, Argentina Nordic entity encounter with Maria Elodia Pretzel
@@ -631,7 +631,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
-        title: gray alien stereotype
+        title: Gray alien stereotype
         slug: gray-alien-stereotype
       - node_id: 1b9339d2-39f0-4a42-8691-8b80b6958982
         title: Tuatha de Danann

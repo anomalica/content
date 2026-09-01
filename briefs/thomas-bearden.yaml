@@ -73,6 +73,11 @@ related_nodes:
     node_type: person
     slug: edmund-whittaker
     shared_claims: 1
+  - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
+    title: Hyper-dimensional physics theory
+    node_type: topic
+    slug: hyper-dimensional-physics-theory
+    shared_claims: 1
   - node_id: 35cb9229-5c5c-4df9-b77f-548956cd70c4
     title: Ira Einhorn
     node_type: person
@@ -93,13 +98,8 @@ related_nodes:
     node_type: person
     slug: nikola-tesla
     shared_claims: 1
-  - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-    title: hyper-dimensional physics theory
-    node_type: topic
-    slug: hyper-dimensional-physics-theory
-    shared_claims: 1
   - node_id: 830c3427-3a42-45d6-b737-75e480743959
-    title: quaternions (mathematics)
+    title: Quaternions (mathematics)
     node_type: topic
     slug: quaternions-mathematics
     shared_claims: 1
@@ -362,7 +362,7 @@ claims:
         title: James Clerk Maxwell
         slug: james-clerk-maxwell
       - node_id: 830c3427-3a42-45d6-b737-75e480743959
-        title: quaternions (mathematics)
+        title: Quaternions (mathematics)
         slug: quaternions-mathematics
     date: null
     date_end: null
@@ -439,7 +439,7 @@ claims:
         title: Motionless Electromagnetic Generator
         slug: motionless-electromagnetic-generator
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland

@@ -39,7 +39,7 @@ related_nodes:
     slug: julia-mossbridge
     shared_claims: 1
   - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-    title: nonlocal consciousness
+    title: Nonlocal consciousness
     node_type: topic
     slug: nonlocal-consciousness
     shared_claims: 1
@@ -110,7 +110,7 @@ claims:
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
     date: null
     date_end: null

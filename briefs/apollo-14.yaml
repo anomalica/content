@@ -83,6 +83,11 @@ related_nodes:
     node_type: place
     slug: fra-mauro-apollo-14-landing-site
     shared_claims: 1
+  - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
+    title: Gold visors (Apollo helmet visors)
+    node_type: object
+    slug: gold-visors-apollo-helmet-visors
+    shared_claims: 1
   - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
     title: National Aeronautics and Space Administration (NASA)
     node_type: organisation
@@ -97,11 +102,6 @@ related_nodes:
     title: Thornton Page
     node_type: person
     slug: thornton-page
-    shared_claims: 1
-  - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
-    title: gold visors (Apollo helmet visors)
-    node_type: object
-    slug: gold-visors-apollo-helmet-visors
     shared_claims: 1
 claims:
   - claim_id: 4a578788-0f16-45b5-b3ac-882c9fc2c3af
@@ -241,7 +241,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
-        title: gold visors (Apollo helmet visors)
+        title: Gold visors (Apollo helmet visors)
         slug: gold-visors-apollo-helmet-visors
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell

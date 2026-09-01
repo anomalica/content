@@ -99,7 +99,7 @@ related_nodes:
     slug: ohio-wright-patterson-air-force-base-usa
     shared_claims: 1
   - node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
-    title: unacknowledged special access program (USAP )
+    title: Unacknowledged special access program (USAP)
     node_type: topic
     slug: unacknowledged-special-access-program-usap
     shared_claims: 1
@@ -460,7 +460,7 @@ claims:
         title: Immaculate Constellation
         slug: immaculate-constellation
       - node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
-        title: unacknowledged special access program (USAP )
+        title: Unacknowledged special access program (USAP)
         slug: unacknowledged-special-access-program-usap
     date: null
     date_end: null

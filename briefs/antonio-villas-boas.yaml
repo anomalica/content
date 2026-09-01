@@ -78,6 +78,11 @@ related_nodes:
     node_type: place
     slug: minas-gerais-sao-francisco-de-salles-brazil
     shared_claims: 1
+  - node_id: 876dbd77-3efe-41e1-995b-a967b4aad168
+    title: Eumelanin
+    node_type: topic
+    slug: eumelanin
+    shared_claims: 1
   - node_id: 6aa155bb-b063-4e71-8b77-839a8990ec13
     title: Melanocortin 1 Receptor (MC1R) (melanocortin 1 receptor) gene
     node_type: topic
@@ -88,6 +93,11 @@ related_nodes:
     node_type: person
     slug: olavo-fontes
     shared_claims: 1
+  - node_id: 3c98b2ca-d85a-4935-b38a-3c01e72d5eac
+    title: Pheomelanin
+    node_type: topic
+    slug: pheomelanin
+    shared_claims: 1
   - node_id: 11cc2398-fb5f-4a63-9256-7050ea29cfee
     title: September 19, 1961 Betty and Barney Hill interrupted journey and UFO abduction
     node_type: event
@@ -97,16 +107,6 @@ related_nodes:
     title: Tuatha de Danann
     node_type: topic
     slug: tuatha-de-danann
-    shared_claims: 1
-  - node_id: 876dbd77-3efe-41e1-995b-a967b4aad168
-    title: eumelanin
-    node_type: topic
-    slug: eumelanin
-    shared_claims: 1
-  - node_id: 3c98b2ca-d85a-4935-b38a-3c01e72d5eac
-    title: pheomelanin
-    node_type: topic
-    slug: pheomelanin
     shared_claims: 1
 claims:
   - claim_id: f88051f5-282d-463a-b008-047d7d3431e8
@@ -488,13 +488,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 3c98b2ca-d85a-4935-b38a-3c01e72d5eac
-        title: pheomelanin
+        title: Pheomelanin
         slug: pheomelanin
       - node_id: 6aa155bb-b063-4e71-8b77-839a8990ec13
         title: Melanocortin 1 Receptor (MC1R) (melanocortin 1 receptor) gene
         slug: melanocortin-1-receptor-mc1r-melanocortin-1-receptor-gene
       - node_id: 876dbd77-3efe-41e1-995b-a967b4aad168
-        title: eumelanin
+        title: Eumelanin
         slug: eumelanin
       - node_id: c96ca884-3c42-45b0-aed0-70c7fccb6c8e
         title: Antonio Villas-Boas

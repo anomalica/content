@@ -103,15 +103,15 @@ related_nodes:
     node_type: event
     slug: 1986-visitation-three-beings-and-imitation-suit-march-15
     shared_claims: 5
+  - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
+    title: The visitors (nonhuman beings)
+    node_type: topic
+    slug: the-visitors-nonhuman-beings
+    shared_claims: 5
   - node_id: 88a3b071-6f43-4ba5-8de0-cafa054a1be2
     title: USA, New York, LaGuardia Park
     node_type: place
     slug: new-york-laguardia-park-usa
-    shared_claims: 5
-  - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-    title: the visitors (nonhuman beings)
-    node_type: topic
-    slug: the-visitors-nonhuman-beings
     shared_claims: 5
   - node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
     title: Communion
@@ -128,6 +128,11 @@ related_nodes:
     node_type: topic
     slug: unidentified-flying-object-ufo
     shared_claims: 4
+  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+    title: Human-alien hybridization
+    node_type: topic
+    slug: human-alien-hybridization
+    shared_claims: 3
   - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
     title: USA, New York, Manhattan
     node_type: place
@@ -143,15 +148,20 @@ related_nodes:
     node_type: object
     slug: whitley-striebers-alien-implant
     shared_claims: 3
-  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-    title: human-alien hybridization
-    node_type: topic
-    slug: human-alien-hybridization
-    shared_claims: 3
   - node_id: 693aa837-5910-499b-910b-17d6eae977a4
     title: 1977-04 stereo voice incident
     node_type: event
     slug: 1977-04-stereo-voice-incident
+    shared_claims: 2
+  - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
+    title: Alien abduction experience
+    node_type: topic
+    slug: alien-abduction-experience
+    shared_claims: 2
+  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+    title: Alien implant
+    node_type: topic
+    slug: alien-implant
     shared_claims: 2
   - node_id: f61e57e1-fe8d-454a-8426-f503c73f86a6
     title: Andrew Strieber's written note the morning after his 1980s encounter
@@ -162,16 +172,6 @@ related_nodes:
     title: Ecclesiastes (book of the Bible)
     node_type: document
     slug: ecclesiastes-book-of-the-bible
-    shared_claims: 2
-  - node_id: 5564abd4-49e8-46cd-9b68-52ee75e62725
-    title: February 6, 1986 witness interviews
-    node_type: event
-    slug: 1986-witness-interviews-february-6
-    shared_claims: 2
-  - node_id: 86b372c0-e4f9-41c5-b0c2-7089746db0e3
-    title: Transformation
-    node_type: document
-    slug: transformation
     shared_claims: 2
 claims:
   - claim_id: d22f1f1d-a9ef-4040-b1b8-206f9c88b904
@@ -856,7 +856,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-        title: the visitors (nonhuman beings)
+        title: The visitors (nonhuman beings)
         slug: the-visitors-nonhuman-beings
     date: null
     date_end: null
@@ -1518,7 +1518,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-        title: the visitors (nonhuman beings)
+        title: The visitors (nonhuman beings)
         slug: the-visitors-nonhuman-beings
       - node_id: a3286137-a039-4a74-b253-6b7bcba43b0b
         title: 1980-09 East Seventy-fifth Street multiple-being visitation and seltzer explosion
@@ -2428,7 +2428,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-        title: the visitors (nonhuman beings)
+        title: The visitors (nonhuman beings)
         slug: the-visitors-nonhuman-beings
       - node_id: e47b6288-8b71-47c0-88fc-cb7d2f6ac163
         title: March 17, 1986 hypnosis session (Anne Strieber)
@@ -4211,7 +4211,7 @@ claims:
         title: October 4, 1985 abduction experience
         slug: 1985-abduction-experience-october-4
       - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-        title: the visitors (nonhuman beings)
+        title: The visitors (nonhuman beings)
         slug: the-visitors-nonhuman-beings
     date: '1985-10-04'
     date_end: null
@@ -4849,7 +4849,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-        title: the visitors (nonhuman beings)
+        title: The visitors (nonhuman beings)
         slug: the-visitors-nonhuman-beings
     date: null
     date_end: null
@@ -7030,7 +7030,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 827297d5-f5db-49e5-b2ce-232ea3832060
-        title: autism (condition)
+        title: Autism (condition)
         slug: autism-condition
     date: null
     date_end: null
@@ -7102,7 +7102,7 @@ claims:
         title: Anne Strieber
         slug: anne-strieber
       - node_id: c47ce8ee-28f3-4757-8d83-a31e0a0f96bc
-        title: fine structure constant
+        title: Fine structure constant
         slug: fine-structure-constant
     date: null
     date_end: null
@@ -7511,7 +7511,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: bf9f4a9f-3b21-4631-bd55-6d2652f1db4e
-        title: vashitva (mind-control siddhi)
+        title: Vashitva (mind-control siddhi)
         slug: vashitva-mind-control-siddhi
     date: null
     date_end: null
@@ -7588,7 +7588,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
-        title: alien abduction experience
+        title: Alien abduction experience
         slug: alien-abduction-experience
     date: null
     date_end: null
@@ -7962,7 +7962,7 @@ claims:
         title: Anne Strieber
         slug: anne-strieber
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -8010,7 +8010,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
-        title: alien abduction experience
+        title: Alien abduction experience
         slug: alien-abduction-experience
       - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
         title: Andrew Strieber
@@ -8050,7 +8050,7 @@ claims:
         title: Anne Strieber
         slug: anne-strieber
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -8091,7 +8091,7 @@ claims:
         title: Anne Strieber
         slug: anne-strieber
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -8560,7 +8560,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: '2015'
     date_end: null
@@ -8678,7 +8678,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 469acb99-5f7f-499c-b8c3-6a20bb5a0790
-        title: the soul
+        title: The soul
         slug: the-soul
     date: null
     date_end: null
@@ -8718,7 +8718,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 469acb99-5f7f-499c-b8c3-6a20bb5a0790
-        title: the soul
+        title: The soul
         slug: the-soul
     date: null
     date_end: null
@@ -8761,7 +8761,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null

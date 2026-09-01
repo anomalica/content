@@ -44,7 +44,7 @@ related_nodes:
     slug: all-domain-anomaly-resolution-office-aaro
     shared_claims: 1
   - node_id: 9fbb2218-c47f-4d07-b0b1-a106bd109bd7
-    title: Alternative Compensatory Control Measure (ACCM )
+    title: Alternative Compensatory Control Measure (ACCM)
     node_type: topic
     slug: alternative-compensatory-control-measure-accm
     shared_claims: 1
@@ -183,7 +183,7 @@ claims:
         title: OPLAN Interloper
         slug: oplan-interloper
       - node_id: 9fbb2218-c47f-4d07-b0b1-a106bd109bd7
-        title: Alternative Compensatory Control Measure (ACCM )
+        title: Alternative Compensatory Control Measure (ACCM)
         slug: alternative-compensatory-control-measure-accm
       - node_id: dbb703ca-bb91-4756-b452-95047fb5b186
         title: Joint Staff

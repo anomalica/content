@@ -118,6 +118,11 @@ related_nodes:
     node_type: object
     slug: apollo-lunar-surface-experiments-package-alsep
     shared_claims: 1
+  - node_id: 244decc2-311c-4ab1-8197-ba03cc8ce57a
+    title: Astronaut light flash phenomenon
+    node_type: topic
+    slug: astronaut-light-flash-phenomenon
+    shared_claims: 1
   - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
     title: Cydonia
     node_type: place
@@ -127,6 +132,11 @@ related_nodes:
     title: Egypt, Giza Plateau
     node_type: place
     slug: giza-plateau-egypt
+    shared_claims: 1
+  - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
+    title: Gold visors (Apollo helmet visors)
+    node_type: object
+    slug: gold-visors-apollo-helmet-visors
     shared_claims: 1
   - node_id: 7c386199-42da-4a3b-b7fe-b86a28febb34
     title: Isis
@@ -162,16 +172,6 @@ related_nodes:
     title: Viking 1
     node_type: project
     slug: viking-1
-    shared_claims: 1
-  - node_id: 244decc2-311c-4ab1-8197-ba03cc8ce57a
-    title: astronaut light flash phenomenon
-    node_type: topic
-    slug: astronaut-light-flash-phenomenon
-    shared_claims: 1
-  - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
-    title: gold visors (Apollo helmet visors)
-    node_type: object
-    slug: gold-visors-apollo-helmet-visors
     shared_claims: 1
 claims:
   - claim_id: 69e6feed-49ec-4b1f-8b24-148d0c0712cd
@@ -1305,7 +1305,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
-        title: gold visors (Apollo helmet visors)
+        title: Gold visors (Apollo helmet visors)
         slug: gold-visors-apollo-helmet-visors
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -1489,7 +1489,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 244decc2-311c-4ab1-8197-ba03cc8ce57a
-        title: astronaut light flash phenomenon
+        title: Astronaut light flash phenomenon
         slug: astronaut-light-flash-phenomenon
       - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
         title: Charlie Hickson

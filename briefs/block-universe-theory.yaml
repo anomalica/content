@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: a9d055ed-c0a1-468c-a40e-5449159763e8
   node_type: topic
-  title: block universe theory
+  title: Block universe theory
   slug: block-universe-theory
   claim_count: 4
   claim_count_total: 4
@@ -23,6 +23,11 @@ belonging:
   suspect_excluded: 0
   unreviewed: 4
 related_nodes:
+  - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+    title: Time travel
+    node_type: topic
+    slug: time-travel
+    shared_claims: 1
   - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
     title: Unidentified Anomalous Phenomena (UAP)
     node_type: topic
@@ -32,11 +37,6 @@ related_nodes:
     title: Whitley Strieber
     node_type: person
     slug: whitley-strieber
-    shared_claims: 1
-  - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-    title: time travel
-    node_type: topic
-    slug: time-travel
     shared_claims: 1
 claims:
   - claim_id: bc8edd5f-8704-417c-b0ee-017f431d1a65
@@ -57,7 +57,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: a9d055ed-c0a1-468c-a40e-5449159763e8
-        title: block universe theory
+        title: Block universe theory
         slug: block-universe-theory
     date: null
     date_end: null
@@ -91,7 +91,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: a9d055ed-c0a1-468c-a40e-5449159763e8
-        title: block universe theory
+        title: Block universe theory
         slug: block-universe-theory
     date: null
     date_end: null
@@ -128,7 +128,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: a9d055ed-c0a1-468c-a40e-5449159763e8
-        title: block universe theory
+        title: Block universe theory
         slug: block-universe-theory
     date: null
     date_end: null
@@ -163,13 +163,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
-        title: time travel
+        title: Time travel
         slug: time-travel
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: a9d055ed-c0a1-468c-a40e-5449159763e8
-        title: block universe theory
+        title: Block universe theory
         slug: block-universe-theory
     date: null
     date_end: null

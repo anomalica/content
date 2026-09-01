@@ -43,15 +43,15 @@ related_nodes:
     node_type: organisation
     slug: boeing
     shared_claims: 1
+  - node_id: 499fffe9-4707-4d7e-bde4-a3701cfe6340
+    title: Deep underground military bases (DUMBs)
+    node_type: topic
+    slug: deep-underground-military-bases-dumbs
+    shared_claims: 1
   - node_id: 5f151971-4779-448f-81a4-fd674af9c7ea
     title: USA, Texas, Waco
     node_type: place
     slug: texas-waco-usa
-    shared_claims: 1
-  - node_id: 499fffe9-4707-4d7e-bde4-a3701cfe6340
-    title: deep underground military bases (DUMBs)
-    node_type: topic
-    slug: deep-underground-military-bases-dumbs
     shared_claims: 1
 claims:
   - claim_id: 78dfe87d-e972-4f39-997c-86557385215c
@@ -276,7 +276,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 499fffe9-4707-4d7e-bde4-a3701cfe6340
-        title: deep underground military bases (DUMBs)
+        title: Deep underground military bases (DUMBs)
         slug: deep-underground-military-bases-dumbs
       - node_id: c8e068c2-9087-4ccf-a9ad-55978d1d02b0
         title: Elon Musk

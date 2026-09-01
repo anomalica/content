@@ -39,7 +39,7 @@ related_nodes:
     slug: order-of-melchizedek
     shared_claims: 19
   - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-    title: cattle mutilations phenomenon
+    title: Cattle mutilations phenomenon
     node_type: topic
     slug: cattle-mutilations-phenomenon
     shared_claims: 13
@@ -59,7 +59,7 @@ related_nodes:
     slug: 2004-uss-nimitz-uap-encounter
     shared_claims: 10
   - node_id: aeb334ba-fcc1-4377-99e6-8afbec8f1ed7
-    title: the Manipulators (hypothesis)
+    title: The Manipulators (hypothesis)
     node_type: topic
     slug: the-manipulators-hypothesis
     shared_claims: 10
@@ -104,12 +104,12 @@ related_nodes:
     slug: 1917-fatima-marian-apparitions
     shared_claims: 6
   - node_id: 43edbf04-da4a-4d92-9293-d344afe517fd
-    title: alien contactee movement political manipulation
+    title: Alien contactee movement political manipulation
     node_type: topic
     slug: alien-contactee-movement-political-manipulation
     shared_claims: 6
   - node_id: 63d54205-88e8-4f12-92c6-9fdb6cdfae6c
-    title: the winged disk
+    title: The winged disk
     node_type: topic
     slug: the-winged-disk
     shared_claims: 6
@@ -153,15 +153,15 @@ related_nodes:
     node_type: topic
     slug: remote-viewing-rv
     shared_claims: 5
+  - node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
+    title: The Control System (Vallée's hypothesis)
+    node_type: topic
+    slug: the-control-system-vallees-hypothesis
+    shared_claims: 5
   - node_id: 5d5aa4e3-7bc3-4206-97e9-86ceeb333478
     title: USA, California, San Francisco
     node_type: place
     slug: california-san-francisco-usa
-    shared_claims: 5
-  - node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
-    title: the Control System (Vallée's hypothesis)
-    node_type: topic
-    slug: the-control-system-vallees-hypothesis
     shared_claims: 5
   - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
     title: Barney Hill
@@ -2521,7 +2521,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: aeb334ba-fcc1-4377-99e6-8afbec8f1ed7
-        title: the Manipulators (hypothesis)
+        title: The Manipulators (hypothesis)
         slug: the-manipulators-hypothesis
     date: null
     date_end: null
@@ -2558,7 +2558,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: aeb334ba-fcc1-4377-99e6-8afbec8f1ed7
-        title: the Manipulators (hypothesis)
+        title: The Manipulators (hypothesis)
         slug: the-manipulators-hypothesis
     date: null
     date_end: null
@@ -2938,10 +2938,10 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
-        title: the Control System (Vallée's hypothesis)
+        title: The Control System (Vallée's hypothesis)
         slug: the-control-system-vallees-hypothesis
       - node_id: 8f51cc7f-3e01-4514-b974-c29ef680d683
-        title: psychotronics
+        title: Psychotronics
         slug: psychotronics
     date: null
     date_end: null
@@ -3053,7 +3053,7 @@ claims:
         title: Raymond Bernard
         slug: raymond-bernard
       - node_id: d75bc7c1-9f0b-4eb4-a164-e68e21f75299
-        title: the High Council ("A")
+        title: The High Council ("A")
         slug: the-high-council-a
     date: null
     date_end: null
@@ -3240,7 +3240,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: aeb334ba-fcc1-4377-99e6-8afbec8f1ed7
-        title: the Manipulators (hypothesis)
+        title: The Manipulators (hypothesis)
         slug: the-manipulators-hypothesis
     date: null
     date_end: null
@@ -3351,7 +3351,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: aeb334ba-fcc1-4377-99e6-8afbec8f1ed7
-        title: the Manipulators (hypothesis)
+        title: The Manipulators (hypothesis)
         slug: the-manipulators-hypothesis
     date: null
     date_end: null
@@ -3459,7 +3459,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -3502,7 +3502,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -3539,7 +3539,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
       - node_id: c0575ded-5592-48b0-96ac-478b5714394e
         title: Frederick W. Smith
@@ -3581,7 +3581,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
     date: null
     date_end: null
@@ -3617,7 +3617,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
     date: null
     date_end: null
@@ -3656,7 +3656,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -3733,7 +3733,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
     date: null
     date_end: null
@@ -3770,7 +3770,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
       - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
         title: North American Air Defense Command (NORAD)
@@ -3850,7 +3850,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
     date: '1976'
     date_end: null
@@ -4185,7 +4185,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
     date: null
     date_end: null
@@ -4222,7 +4222,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
     date: null
     date_end: null
@@ -4510,7 +4510,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
       - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
         title: Major Murphy
@@ -4595,10 +4595,10 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: dd63806c-7201-4c43-bde1-a91732c4ee25
-        title: the Martian Conspiracy (hypothesis)
+        title: The Martian Conspiracy (hypothesis)
         slug: the-martian-conspiracy-hypothesis
       - node_id: eecfe881-7bfa-4654-810e-cb809aa66c0a
-        title: the Esoteric Intervention (hypothesis)
+        title: The Esoteric Intervention (hypothesis)
         slug: the-esoteric-intervention-hypothesis
     date: null
     date_end: null
@@ -5196,7 +5196,7 @@ claims:
         title: Roscoe Hillenkoetter
         slug: roscoe-hillenkoetter
       - node_id: dd63806c-7201-4c43-bde1-a91732c4ee25
-        title: the Martian Conspiracy (hypothesis)
+        title: The Martian Conspiracy (hypothesis)
         slug: the-martian-conspiracy-hypothesis
     date: null
     date_end: null
@@ -5416,7 +5416,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -5711,7 +5711,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 8f51cc7f-3e01-4514-b974-c29ef680d683
-        title: psychotronics
+        title: Psychotronics
         slug: psychotronics
     date: null
     date_end: null
@@ -5751,7 +5751,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: eecfe881-7bfa-4654-810e-cb809aa66c0a
-        title: the Esoteric Intervention (hypothesis)
+        title: The Esoteric Intervention (hypothesis)
         slug: the-esoteric-intervention-hypothesis
     date: null
     date_end: null
@@ -5822,7 +5822,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: eecfe881-7bfa-4654-810e-cb809aa66c0a
-        title: the Esoteric Intervention (hypothesis)
+        title: The Esoteric Intervention (hypothesis)
         slug: the-esoteric-intervention-hypothesis
     date: null
     date_end: null
@@ -5897,7 +5897,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
     date: null
     date_end: null
@@ -6086,7 +6086,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 43edbf04-da4a-4d92-9293-d344afe517fd
-        title: alien contactee movement political manipulation
+        title: Alien contactee movement political manipulation
         slug: alien-contactee-movement-political-manipulation
     date: null
     date_end: null
@@ -6123,7 +6123,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
     date: null
     date_end: null
@@ -6270,7 +6270,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
-        title: the Control System (Vallée's hypothesis)
+        title: The Control System (Vallée's hypothesis)
         slug: the-control-system-vallees-hypothesis
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -6311,7 +6311,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
-        title: the Control System (Vallée's hypothesis)
+        title: The Control System (Vallée's hypothesis)
         slug: the-control-system-vallees-hypothesis
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -6979,7 +6979,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 43edbf04-da4a-4d92-9293-d344afe517fd
-        title: alien contactee movement political manipulation
+        title: Alien contactee movement political manipulation
         slug: alien-contactee-movement-political-manipulation
     date: null
     date_end: null
@@ -7022,7 +7022,7 @@ claims:
         title: Atlantis
         slug: atlantis
       - node_id: fb350229-87cd-41df-98d3-016277d59b90
-        title: ancient astronaut hypothesis
+        title: Ancient astronaut hypothesis
         slug: ancient-astronaut-hypothesis
     date: null
     date_end: null
@@ -7098,7 +7098,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 43edbf04-da4a-4d92-9293-d344afe517fd
-        title: alien contactee movement political manipulation
+        title: Alien contactee movement political manipulation
         slug: alien-contactee-movement-political-manipulation
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -7136,7 +7136,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 43edbf04-da4a-4d92-9293-d344afe517fd
-        title: alien contactee movement political manipulation
+        title: Alien contactee movement political manipulation
         slug: alien-contactee-movement-political-manipulation
     date: null
     date_end: null
@@ -7217,7 +7217,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 43edbf04-da4a-4d92-9293-d344afe517fd
-        title: alien contactee movement political manipulation
+        title: Alien contactee movement political manipulation
         slug: alien-contactee-movement-political-manipulation
     date: null
     date_end: null
@@ -7337,7 +7337,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 43edbf04-da4a-4d92-9293-d344afe517fd
-        title: alien contactee movement political manipulation
+        title: Alien contactee movement political manipulation
         slug: alien-contactee-movement-political-manipulation
     date: null
     date_end: null
@@ -7437,7 +7437,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: aeb334ba-fcc1-4377-99e6-8afbec8f1ed7
-        title: the Manipulators (hypothesis)
+        title: The Manipulators (hypothesis)
         slug: the-manipulators-hypothesis
     date: null
     date_end: null
@@ -7729,7 +7729,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: aeb334ba-fcc1-4377-99e6-8afbec8f1ed7
-        title: the Manipulators (hypothesis)
+        title: The Manipulators (hypothesis)
         slug: the-manipulators-hypothesis
     date: null
     date_end: null
@@ -7836,7 +7836,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
-        title: the Control System (Vallée's hypothesis)
+        title: The Control System (Vallée's hypothesis)
         slug: the-control-system-vallees-hypothesis
     date: null
     date_end: null
@@ -8538,7 +8538,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: aeb334ba-fcc1-4377-99e6-8afbec8f1ed7
-        title: the Manipulators (hypothesis)
+        title: The Manipulators (hypothesis)
         slug: the-manipulators-hypothesis
     date: null
     date_end: null
@@ -9142,7 +9142,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 2abc96cd-8dcd-4c74-a1aa-58e5f1fd4a91
-        title: United Nations Organization (UN )
+        title: United Nations Organization (UN)
         slug: united-nations-organization-un
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -9186,7 +9186,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 2abc96cd-8dcd-4c74-a1aa-58e5f1fd4a91
-        title: United Nations Organization (UN )
+        title: United Nations Organization (UN)
         slug: united-nations-organization-un
       - node_id: 3abd8bc9-ef78-4110-9694-0e28d97751e7
         title: 1978 Jacques Vallée United Nations Unidentified Flying Object (UFO) statement
@@ -9486,7 +9486,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: fb350229-87cd-41df-98d3-016277d59b90
-        title: ancient astronaut hypothesis
+        title: Ancient astronaut hypothesis
         slug: ancient-astronaut-hypothesis
     date: '1978-11-27'
     date_end: null
@@ -9522,7 +9522,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: fb350229-87cd-41df-98d3-016277d59b90
-        title: ancient astronaut hypothesis
+        title: Ancient astronaut hypothesis
         slug: ancient-astronaut-hypothesis
     date: '1978-11-27'
     date_end: null
@@ -10208,7 +10208,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
-        title: cattle mutilations phenomenon
+        title: Cattle mutilations phenomenon
         slug: cattle-mutilations-phenomenon
     date: null
     date_end: null
@@ -10286,7 +10286,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
-        title: the Control System (Vallée's hypothesis)
+        title: The Control System (Vallée's hypothesis)
         slug: the-control-system-vallees-hypothesis
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -10907,7 +10907,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: aeb334ba-fcc1-4377-99e6-8afbec8f1ed7
-        title: the Manipulators (hypothesis)
+        title: The Manipulators (hypothesis)
         slug: the-manipulators-hypothesis
     date: null
     date_end: null
@@ -10948,7 +10948,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: aeb334ba-fcc1-4377-99e6-8afbec8f1ed7
-        title: the Manipulators (hypothesis)
+        title: The Manipulators (hypothesis)
         slug: the-manipulators-hypothesis
     date: null
     date_end: null
@@ -11026,7 +11026,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: aeb334ba-fcc1-4377-99e6-8afbec8f1ed7
-        title: the Manipulators (hypothesis)
+        title: The Manipulators (hypothesis)
         slug: the-manipulators-hypothesis
     date: null
     date_end: null
@@ -12015,7 +12015,7 @@ claims:
         title: Betty Hill
         slug: betty-hill
       - node_id: ae766667-cf07-4f9d-bc61-96b5901c6b00
-        title: psychotronic phenomena
+        title: Psychotronic phenomena
         slug: psychotronic-phenomena
       - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
         title: Barney Hill
@@ -21315,7 +21315,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
     date: null
     date_end: null
@@ -22387,7 +22387,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 63d54205-88e8-4f12-92c6-9fdb6cdfae6c
-        title: the winged disk
+        title: The winged disk
         slug: the-winged-disk
     date: null
     date_end: null
@@ -22425,7 +22425,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 63d54205-88e8-4f12-92c6-9fdb6cdfae6c
-        title: the winged disk
+        title: The winged disk
         slug: the-winged-disk
       - node_id: 93a91956-939f-46b2-b638-d7f7c432b80f
         title: 1897 Hamilton cow abduction case
@@ -22540,7 +22540,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 63d54205-88e8-4f12-92c6-9fdb6cdfae6c
-        title: the winged disk
+        title: The winged disk
         slug: the-winged-disk
       - node_id: d32cd1a5-1fad-4af9-b42c-71a16f140948
         title: Phoenician civilization
@@ -22618,7 +22618,7 @@ claims:
         title: UK, London
         slug: london-uk
       - node_id: 63d54205-88e8-4f12-92c6-9fdb6cdfae6c
-        title: the winged disk
+        title: The winged disk
         slug: the-winged-disk
       - node_id: fed57cb0-bf66-4d5b-b3ff-7ca4e6a30c15
         title: Architects' Association, London
@@ -22658,7 +22658,7 @@ claims:
         title: Robert Monroe
         slug: robert-monroe
       - node_id: 671e9c71-d77c-4c06-852c-f9fd912b3d7e
-        title: beam of light phenomenon
+        title: Beam of light phenomenon
         slug: beam-of-light-phenomenon
     date: null
     date_end: null
@@ -22850,7 +22850,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 63d54205-88e8-4f12-92c6-9fdb6cdfae6c
-        title: the winged disk
+        title: The winged disk
         slug: the-winged-disk
     date: null
     date_end: null
@@ -22921,7 +22921,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 63d54205-88e8-4f12-92c6-9fdb6cdfae6c
-        title: the winged disk
+        title: The winged disk
         slug: the-winged-disk
     date: null
     date_end: null
@@ -27011,7 +27011,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
       - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
         title: France
@@ -27735,7 +27735,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek
@@ -27772,7 +27772,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -27849,7 +27849,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
       - node_id: 2c57037a-db11-4c30-b871-4f8a98603310
         title: 1974 photograph of the Invisible College members in Boulder, Colorado
@@ -27907,7 +27907,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
     date: null
     date_end: null
@@ -28009,7 +28009,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -29284,7 +29284,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
     date: null
     date_end: null
@@ -29317,7 +29317,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
     date: null
     date_end: null
@@ -29351,7 +29351,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
     date: null
     date_end: null
@@ -29953,7 +29953,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: ce4ced41-7a8c-4d38-95e1-05c0e4449fd1
-        title: descriptive phenomenology
+        title: Descriptive phenomenology
         slug: descriptive-phenomenology
     date: null
     date_end: null
@@ -30289,7 +30289,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
     date: null
     date_end: null
@@ -30400,7 +30400,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: eaba17b2-8d21-4a9c-8aea-565fe0d77811
-        title: the reality of Magonia
+        title: The reality of Magonia
         slug: the-reality-of-magonia
     date: null
     date_end: null
@@ -30663,7 +30663,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
-        title: the Invisible College
+        title: The Invisible College
         slug: the-invisible-college
     date: null
     date_end: null
@@ -31662,7 +31662,7 @@ claims:
         title: James Master
         slug: james-master
       - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
-        title: ufology
+        title: Ufology
         slug: ufology
     date: null
     date_end: null
@@ -32055,7 +32055,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: ad4a872f-b140-43ee-bfff-4a995b1cb0a3
-        title: schedule of reinforcement
+        title: Schedule of reinforcement
         slug: schedule-of-reinforcement
     date: null
     date_end: null
@@ -32368,7 +32368,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: ad4a872f-b140-43ee-bfff-4a995b1cb0a3
-        title: schedule of reinforcement
+        title: Schedule of reinforcement
         slug: schedule-of-reinforcement
     date: null
     date_end: null
@@ -32520,7 +32520,7 @@ claims:
         title: Remote Viewing (RV)
         slug: remote-viewing-rv
       - node_id: 592179d3-0f1e-4128-9bc2-fcaaa9182814
-        title: technologically sacred
+        title: Technologically sacred
         slug: technologically-sacred
     date: null
     date_end: null
@@ -33242,7 +33242,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 14abaae6-76e4-4319-ba95-09d992941296
-        title: biotechnical imaginary
+        title: Biotechnical imaginary
         slug: biotechnical-imaginary
       - node_id: c79dc9e7-ce68-431b-ad93-5c3a9a4996b1
         title: USA, California, Silicon Valley
@@ -34531,10 +34531,10 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
-        title: artificial intelligence (AI )
+        title: Artificial intelligence (AI)
         slug: artificial-intelligence-ai
       - node_id: fa4ba20c-867f-4754-b298-14b96e410072
-        title: extraterrestrial hypothesis
+        title: Extraterrestrial hypothesis
         slug: extraterrestrial-hypothesis
     date: null
     date_end: null
@@ -34737,7 +34737,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -35491,7 +35491,7 @@ claims:
         title: Jacques Vallée
         slug: jacques-vallee
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: human-alien hybridization
+        title: Human-alien hybridization
         slug: human-alien-hybridization
       - node_id: 41a65634-8fe3-4bdc-b3ba-fa609280102d
         title: Jacques Vallee's journals (Forbidden Science)
@@ -35547,7 +35547,7 @@ claims:
         title: Jacques Vallee's control system hypothesis
         slug: jacques-vallees-control-system-hypothesis
       - node_id: dd9b1445-e42b-4165-924a-a4d526e3f597
-        title: spirits of nature
+        title: Spirits of nature
         slug: spirits-of-nature
     date: null
     date_end: null

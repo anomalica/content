@@ -63,6 +63,11 @@ related_nodes:
     node_type: document
     slug: 1963-10-15-diplomatic-version-of-the-third-secret-of-fatima-european-news
     shared_claims: 1
+  - node_id: 14da1dc7-1325-4a1b-aa81-15e85474c49c
+    title: End-of-life experiences
+    node_type: topic
+    slug: end-of-life-experiences
+    shared_claims: 1
   - node_id: f734df78-1ca4-463a-a3be-b431fccf710e
     title: France, Paris
     node_type: place
@@ -163,15 +168,10 @@ related_nodes:
     node_type: document
     slug: sounds-from-another-room
     shared_claims: 1
-  - node_id: c792bfdb-cc64-4a5a-838a-84ea5308e427
-    title: UK, England, Stratford-upon-Avon
-    node_type: place
-    slug: england-stratford-upon-avon-uk
-    shared_claims: 1
-  - node_id: cb1370c2-6ff0-4d92-94a0-09f259d1671a
-    title: UK, England, Wolverhampton
-    node_type: place
-    slug: england-wolverhampton-uk
+  - node_id: 63d54205-88e8-4f12-92c6-9fdb6cdfae6c
+    title: The winged disk
+    node_type: topic
+    slug: the-winged-disk
     shared_claims: 1
 claims:
   - claim_id: bb204a48-7cf7-4919-972c-1780814d51fd
@@ -421,7 +421,7 @@ claims:
         title: UK, London
         slug: london-uk
       - node_id: 63d54205-88e8-4f12-92c6-9fdb6cdfae6c
-        title: the winged disk
+        title: The winged disk
         slug: the-winged-disk
       - node_id: fed57cb0-bf66-4d5b-b3ff-7ca4e6a30c15
         title: Architects' Association, London
@@ -677,7 +677,7 @@ claims:
         title: UK, London
         slug: london-uk
       - node_id: 14da1dc7-1325-4a1b-aa81-15e85474c49c
-        title: end-of-life experiences
+        title: End-of-life experiences
         slug: end-of-life-experiences
     date: null
     date_end: null

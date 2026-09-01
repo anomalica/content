@@ -53,6 +53,11 @@ related_nodes:
     node_type: person
     slug: business-executive-sally-colloquy-participant
     shared_claims: 1
+  - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
+    title: The visitors (nonhuman beings)
+    node_type: topic
+    slug: the-visitors-nonhuman-beings
+    shared_claims: 1
   - node_id: facde779-13d3-4ae2-98b2-fbf4bf6b8d36
     title: USA, Massachusetts, South Ashburnham
     node_type: place
@@ -62,11 +67,6 @@ related_nodes:
     title: Whitley Strieber
     node_type: person
     slug: whitley-strieber
-    shared_claims: 1
-  - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-    title: the visitors (nonhuman beings)
-    node_type: topic
-    slug: the-visitors-nonhuman-beings
     shared_claims: 1
 claims:
   - claim_id: 5e99efa5-053d-4810-a5de-2c8a7e8b9012
@@ -755,7 +755,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
-        title: the visitors (nonhuman beings)
+        title: The visitors (nonhuman beings)
         slug: the-visitors-nonhuman-beings
       - node_id: 7eb0aa5c-cbaf-4130-b36b-eaff4c22fa34
         title: Apollo

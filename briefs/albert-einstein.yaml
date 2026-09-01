@@ -88,6 +88,11 @@ related_nodes:
     node_type: person
     slug: elie-joseph-cartan
     shared_claims: 1
+  - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+    title: Extraterrestrial biological entity (EBE)
+    node_type: topic
+    slug: extraterrestrial-biological-entity-ebe
+    shared_claims: 1
   - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
     title: Franklin D. Roosevelt
     node_type: person
@@ -107,6 +112,11 @@ related_nodes:
     title: Holographic view of the universe
     node_type: topic
     slug: holographic-view-of-the-universe
+    shared_claims: 1
+  - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
+    title: Hyper-dimensional physics theory
+    node_type: topic
+    slug: hyper-dimensional-physics-theory
     shared_claims: 1
   - node_id: 88117522-b6cf-4b2b-83dc-e91fa6c1cd64
     title: Institute for Advanced Study
@@ -162,16 +172,6 @@ related_nodes:
     title: The Irish Times report on Roswell, 1947-07-09
     node_type: document
     slug: 1947-07-09-the-irish-times-report-on-roswell
-    shared_claims: 1
-  - node_id: a7481a02-fa2a-4aa7-a300-4da5581361b1
-    title: UFOLOGY (1976, McCampbell)
-    node_type: document
-    slug: mccampbell-ufology-1976
-    shared_claims: 1
-  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-    title: USA, New Mexico, Roswell
-    node_type: place
-    slug: new-mexico-roswell-usa
     shared_claims: 1
 claims:
   - claim_id: 5574afe5-bc90-4ab0-bd16-aba6479dc1fd
@@ -727,7 +727,7 @@ claims:
         title: J. Robert Oppenheimer
         slug: j-robert-oppenheimer
       - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
-        title: the Moon
+        title: The Moon
         slug: the-moon
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -1357,7 +1357,7 @@ claims:
         title: James M. McCampbell
         slug: james-m-mccampbell
       - node_id: 3fe14a83-666c-4655-a827-10c1dd699e63
-        title: unified field theory
+        title: Unified field theory
         slug: unified-field-theory
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -1512,7 +1512,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
-        title: hyper-dimensional physics theory
+        title: Hyper-dimensional physics theory
         slug: hyper-dimensional-physics-theory
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -1702,7 +1702,7 @@ claims:
         title: Albert Einstein
         slug: albert-einstein
       - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
-        title: torsion field
+        title: Torsion field
         slug: torsion-field
       - node_id: fff5833c-220a-4c9c-b778-03a8f7240596
         title: Elie-Joseph Cartan
@@ -2396,7 +2396,7 @@ claims:
         title: Shirley Wright
         slug: shirley-wright
       - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
-        title: extraterrestrial biological entity (EBE)
+        title: Extraterrestrial biological entity (EBE)
         slug: extraterrestrial-biological-entity-ebe
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
         title: Roswell incident (1947)

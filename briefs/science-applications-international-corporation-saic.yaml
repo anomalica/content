@@ -43,6 +43,11 @@ related_nodes:
     node_type: person
     slug: chris-ramsay
     shared_claims: 1
+  - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
+    title: Psi
+    node_type: topic
+    slug: psi
+    shared_claims: 1
   - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
     title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
     node_type: organisation
@@ -52,11 +57,6 @@ related_nodes:
     title: Tom DeLonge
     node_type: person
     slug: tom-delonge
-    shared_claims: 1
-  - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
-    title: psi
-    node_type: topic
-    slug: psi
     shared_claims: 1
 claims:
   - claim_id: 8ef3e7ae-5cf9-466e-a5e1-c27cd67312a2
@@ -240,7 +240,7 @@ claims:
         title: Science Applications International Corporation (SAIC)
         slug: science-applications-international-corporation-saic
       - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
-        title: psi
+        title: Psi
         slug: psi
     date: null
     date_end: null

@@ -34,7 +34,7 @@ related_nodes:
     slug: ross-coulthart
     shared_claims: 4
   - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-    title: war.gov/UFOs release
+    title: War.gov/UFOs release
     node_type: document
     slug: wargovufos-release
     shared_claims: 4
@@ -58,6 +58,11 @@ related_nodes:
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
     shared_claims: 2
+  - node_id: bee3c8f3-c1a2-4805-8f0f-178353cac7c4
+    title: Catastrophic disclosure
+    node_type: topic
+    slug: catastrophic-disclosure
+    shared_claims: 1
   - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
     node_type: person
@@ -83,20 +88,15 @@ related_nodes:
     node_type: object
     slug: the-white-house
     shared_claims: 1
+  - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
+    title: War.gov Unidentified Flying Object (UFO) files website
+    node_type: document
+    slug: wargov-unidentified-flying-object-ufo-files-website
+    shared_claims: 1
   - node_id: 378962cf-3d85-4df1-bf17-e4047e308491
     title: Wikileaks
     node_type: organisation
     slug: wikileaks
-    shared_claims: 1
-  - node_id: bee3c8f3-c1a2-4805-8f0f-178353cac7c4
-    title: catastrophic disclosure
-    node_type: topic
-    slug: catastrophic-disclosure
-    shared_claims: 1
-  - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
-    title: war.gov Unidentified Flying Object (UFO) files website
-    node_type: document
-    slug: wargov-unidentified-flying-object-ufo-files-website
     shared_claims: 1
 claims:
   - claim_id: cb8920bd-8c29-43bc-b3c3-c937a8695d9b
@@ -195,7 +195,7 @@ claims:
         title: United States Department of War
         slug: united-states-department-of-war
       - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-        title: war.gov/UFOs release
+        title: War.gov/UFOs release
         slug: wargovufos-release
     date: null
     date_end: null
@@ -235,7 +235,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-        title: war.gov/UFOs release
+        title: War.gov/UFOs release
         slug: wargovufos-release
     date: null
     date_end: null
@@ -348,7 +348,7 @@ claims:
         title: United States Department of War
         slug: united-states-department-of-war
       - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-        title: war.gov/UFOs release
+        title: War.gov/UFOs release
         slug: wargovufos-release
     date: null
     date_end: null
@@ -421,7 +421,7 @@ claims:
         title: United States Department of War
         slug: united-states-department-of-war
       - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
-        title: war.gov/UFOs release
+        title: War.gov/UFOs release
         slug: wargovufos-release
       - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
         title: 2004 USS Nimitz UAP encounter
@@ -588,7 +588,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: f2bf6c6a-79a8-4ad4-8e27-573f8946cff5
-        title: war.gov Unidentified Flying Object (UFO) files website
+        title: War.gov Unidentified Flying Object (UFO) files website
         slug: wargov-unidentified-flying-object-ufo-files-website
     date: null
     date_end: null
@@ -629,7 +629,7 @@ claims:
         title: Wikileaks
         slug: wikileaks
       - node_id: bee3c8f3-c1a2-4805-8f0f-178353cac7c4
-        title: catastrophic disclosure
+        title: Catastrophic disclosure
         slug: catastrophic-disclosure
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart

@@ -110,7 +110,7 @@ related_nodes:
     slug: united-states-department-of-defense-dod
     shared_claims: 1
   - node_id: 911da153-0f60-456f-be3d-03bc393882a2
-    title: vacuum spacetime metric engineering
+    title: Vacuum spacetime metric engineering
     node_type: topic
     slug: vacuum-spacetime-metric-engineering
     shared_claims: 1
@@ -783,7 +783,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 911da153-0f60-456f-be3d-03bc393882a2
-        title: vacuum spacetime metric engineering
+        title: Vacuum spacetime metric engineering
         slug: vacuum-spacetime-metric-engineering
       - node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
         title: 2017 To The Stars Academy of Arts & Sciences launch event

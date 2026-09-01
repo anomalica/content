@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
   node_type: topic
-  title: synchronicity
+  title: Synchronicity
   slug: synchronicity
   claim_count: 13
   claim_count_total: 13
@@ -33,16 +33,26 @@ related_nodes:
     node_type: person
     slug: chris-ramsay
     shared_claims: 5
+  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+    title: Informational substrate
+    node_type: topic
+    slug: informational-substrate
+    shared_claims: 2
   - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
     title: Whitley Strieber
     node_type: person
     slug: whitley-strieber
     shared_claims: 2
-  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-    title: informational substrate
+  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+    title: Alien implant
     node_type: topic
-    slug: informational-substrate
-    shared_claims: 2
+    slug: alien-implant
+    shared_claims: 1
+  - node_id: 4aa922ec-255c-4772-9aad-a1a520d4539e
+    title: Bibliomancy
+    node_type: topic
+    slug: bibliomancy
+    shared_claims: 1
   - node_id: c551f048-0859-4b1c-af58-df2919d81390
     title: Carl Jung
     node_type: person
@@ -53,6 +63,16 @@ related_nodes:
     node_type: person
     slug: donald-trump
     shared_claims: 1
+  - node_id: dc8005ef-e47c-4e3d-9fa5-dca94be5c3f3
+    title: Neural synchronisation
+    node_type: topic
+    slug: neural-synchronisation
+    shared_claims: 1
+  - node_id: 9273dd07-9317-4331-8bea-6c25acea6de2
+    title: Scientism
+    node_type: topic
+    slug: scientism
+    shared_claims: 1
   - node_id: 14e0aa2b-4067-4ef2-8ca8-cfdbe9697876
     title: Unidentified Aerial Phenomena disclosure
     node_type: topic
@@ -62,26 +82,6 @@ related_nodes:
     title: Whitley Strieber's alien implant
     node_type: object
     slug: whitley-striebers-alien-implant
-    shared_claims: 1
-  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-    title: alien implant
-    node_type: topic
-    slug: alien-implant
-    shared_claims: 1
-  - node_id: 4aa922ec-255c-4772-9aad-a1a520d4539e
-    title: bibliomancy
-    node_type: topic
-    slug: bibliomancy
-    shared_claims: 1
-  - node_id: dc8005ef-e47c-4e3d-9fa5-dca94be5c3f3
-    title: neural synchronisation
-    node_type: topic
-    slug: neural-synchronisation
-    shared_claims: 1
-  - node_id: 9273dd07-9317-4331-8bea-6c25acea6de2
-    title: scientism
-    node_type: topic
-    slug: scientism
     shared_claims: 1
 claims:
   - claim_id: 8fcd6d87-7aaa-4632-8a76-b3a0f8641b38
@@ -108,7 +108,7 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-        title: synchronicity
+        title: Synchronicity
         slug: synchronicity
       - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
         title: Donald Trump
@@ -150,10 +150,10 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-        title: synchronicity
+        title: Synchronicity
         slug: synchronicity
       - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
-        title: alien implant
+        title: Alien implant
         slug: alien-implant
     date: null
     date_end: null
@@ -188,10 +188,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: informational substrate
+        title: Informational substrate
         slug: informational-substrate
       - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-        title: synchronicity
+        title: Synchronicity
         slug: synchronicity
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -229,13 +229,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-        title: synchronicity
+        title: Synchronicity
         slug: synchronicity
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: 9273dd07-9317-4331-8bea-6c25acea6de2
-        title: scientism
+        title: Scientism
         slug: scientism
     date: null
     date_end: null
@@ -267,13 +267,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-        title: synchronicity
+        title: Synchronicity
         slug: synchronicity
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
       - node_id: dc8005ef-e47c-4e3d-9fa5-dca94be5c3f3
-        title: neural synchronisation
+        title: Neural synchronisation
         slug: neural-synchronisation
     date: null
     date_end: null
@@ -307,7 +307,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-        title: synchronicity
+        title: Synchronicity
         slug: synchronicity
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -344,7 +344,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-        title: synchronicity
+        title: Synchronicity
         slug: synchronicity
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -387,7 +387,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-        title: synchronicity
+        title: Synchronicity
         slug: synchronicity
     date: null
     date_end: null
@@ -423,7 +423,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-        title: synchronicity
+        title: Synchronicity
         slug: synchronicity
     date: null
     date_end: null
@@ -460,7 +460,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-        title: synchronicity
+        title: Synchronicity
         slug: synchronicity
     date: null
     date_end: null
@@ -497,10 +497,10 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 4aa922ec-255c-4772-9aad-a1a520d4539e
-        title: bibliomancy
+        title: Bibliomancy
         slug: bibliomancy
       - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-        title: synchronicity
+        title: Synchronicity
         slug: synchronicity
     date: null
     date_end: null
@@ -534,10 +534,10 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: informational substrate
+        title: Informational substrate
         slug: informational-substrate
       - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-        title: synchronicity
+        title: Synchronicity
         slug: synchronicity
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -578,7 +578,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
-        title: synchronicity
+        title: Synchronicity
         slug: synchronicity
     date: null
     date_end: null

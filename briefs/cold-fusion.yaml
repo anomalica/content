@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 30c25905-7c45-4757-811a-26c8f348d138
   node_type: topic
-  title: cold fusion
+  title: Cold fusion
   slug: cold-fusion
   claim_count: 3
   claim_count_total: 3
@@ -72,7 +72,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30c25905-7c45-4757-811a-26c8f348d138
-        title: cold fusion
+        title: Cold fusion
         slug: cold-fusion
       - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
         title: Arthur C. Clarke
@@ -106,7 +106,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30c25905-7c45-4757-811a-26c8f348d138
-        title: cold fusion
+        title: Cold fusion
         slug: cold-fusion
       - node_id: 64e6175a-594a-45ed-bb15-bd022f8d453c
         title: Marcel Vogel
@@ -152,7 +152,7 @@ claims:
         title: Jeffrey Epstein
         slug: jeffrey-epstein
       - node_id: 30c25905-7c45-4757-811a-26c8f348d138
-        title: cold fusion
+        title: Cold fusion
         slug: cold-fusion
       - node_id: 6f1a9022-ceda-40d1-8b85-4bcbf1aad6f9
         title: Martin Fleischmann

@@ -28,20 +28,20 @@ related_nodes:
     node_type: place
     slug: japan
     shared_claims: 2
-  - node_id: 8db52f05-ad79-434c-96cb-976f86083be7
-    title: Zen
-    node_type: topic
-    slug: zen
-    shared_claims: 1
   - node_id: 8b42ec00-bc4a-45cc-bdfa-f2d7d9932bfb
-    title: pineal gland and the third eye
+    title: Pineal gland and the third eye
     node_type: topic
     slug: pineal-gland-and-the-third-eye
     shared_claims: 1
   - node_id: 29648d49-595f-4908-84b7-17578cbe98f8
-    title: siddhis (Hindu/Buddhist accomplishments)
+    title: Siddhis (Hindu/Buddhist accomplishments)
     node_type: topic
     slug: siddhis-hindubuddhist-accomplishments
+    shared_claims: 1
+  - node_id: 8db52f05-ad79-434c-96cb-976f86083be7
+    title: Zen
+    node_type: topic
+    slug: zen
     shared_claims: 1
 claims:
   - claim_id: a4e3ed4f-fc23-4b49-89d5-1392d60e317a
@@ -200,7 +200,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 29648d49-595f-4908-84b7-17578cbe98f8
-        title: siddhis (Hindu/Buddhist accomplishments)
+        title: Siddhis (Hindu/Buddhist accomplishments)
         slug: siddhis-hindubuddhist-accomplishments
       - node_id: fba1d3a4-e03d-4bcd-9df5-6b088b495fe6
         title: Buddhism
@@ -233,7 +233,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 8b42ec00-bc4a-45cc-bdfa-f2d7d9932bfb
-        title: pineal gland and the third eye
+        title: Pineal gland and the third eye
         slug: pineal-gland-and-the-third-eye
       - node_id: fba1d3a4-e03d-4bcd-9df5-6b088b495fe6
         title: Buddhism

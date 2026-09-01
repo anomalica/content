@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 2bcec438-4ef0-4869-a486-e4f13b450105
   node_type: topic
-  title: ayahuasca
+  title: Ayahuasca
   slug: ayahuasca
   claim_count: 4
   claim_count_total: 4
@@ -29,44 +29,44 @@ related_nodes:
     slug: jason-quitt
     shared_claims: 3
   - node_id: 5e00bba1-273a-43e8-84bd-bc4ad9b19358
-    title: shamanism
+    title: Shamanism
     node_type: topic
     slug: shamanism
     shared_claims: 2
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 1
   - node_id: 4743a04d-09b6-4efc-941e-07bb177148a1
     title: Dimethyltryptamine (DMT) (dimethyltryptamine)
     node_type: topic
     slug: dimethyltryptamine-dmt-dimethyltryptamine
+    shared_claims: 1
+  - node_id: f1bd457e-2e18-406b-aefa-c0e9eff27a64
+    title: Ego death
+    node_type: topic
+    slug: ego-death
     shared_claims: 1
   - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
     title: Out-of-Body Experience (OBE)
     node_type: topic
     slug: out-of-body-experience-obe
     shared_claims: 1
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    node_type: topic
-    slug: unidentified-flying-object-ufo
-    shared_claims: 1
-  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
-    node_type: topic
-    slug: alien-abduction
-    shared_claims: 1
-  - node_id: f1bd457e-2e18-406b-aefa-c0e9eff27a64
-    title: ego death
-    node_type: topic
-    slug: ego-death
-    shared_claims: 1
   - node_id: 1e747725-099c-4482-b543-2fdc913901aa
-    title: peyote
+    title: Peyote
     node_type: topic
     slug: peyote
     shared_claims: 1
   - node_id: defa5ce6-288d-44b1-a84a-ad4f8b92bebc
-    title: psilocybin mushroom journey
+    title: Psilocybin mushroom journey
     node_type: topic
     slug: psilocybin-mushroom-journey
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
     shared_claims: 1
 claims:
   - claim_id: bf7503ae-39a2-4539-a4a7-df2bddb4cde4
@@ -84,7 +84,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2bcec438-4ef0-4869-a486-e4f13b450105
-        title: ayahuasca
+        title: Ayahuasca
         slug: ayahuasca
       - node_id: 4743a04d-09b6-4efc-941e-07bb177148a1
         title: Dimethyltryptamine (DMT) (dimethyltryptamine)
@@ -121,13 +121,13 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 1e747725-099c-4482-b543-2fdc913901aa
-        title: peyote
+        title: Peyote
         slug: peyote
       - node_id: 2bcec438-4ef0-4869-a486-e4f13b450105
-        title: ayahuasca
+        title: Ayahuasca
         slug: ayahuasca
       - node_id: 5e00bba1-273a-43e8-84bd-bc4ad9b19358
-        title: shamanism
+        title: Shamanism
         slug: shamanism
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
@@ -136,7 +136,7 @@ claims:
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: defa5ce6-288d-44b1-a84a-ad4f8b92bebc
-        title: psilocybin mushroom journey
+        title: Psilocybin mushroom journey
         slug: psilocybin-mushroom-journey
     date: null
     date_end: null
@@ -172,16 +172,16 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2bcec438-4ef0-4869-a486-e4f13b450105
-        title: ayahuasca
+        title: Ayahuasca
         slug: ayahuasca
       - node_id: 5e00bba1-273a-43e8-84bd-bc4ad9b19358
-        title: shamanism
+        title: Shamanism
         slug: shamanism
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
         slug: jason-quitt
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
     date: null
     date_end: null
@@ -215,7 +215,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 2bcec438-4ef0-4869-a486-e4f13b450105
-        title: ayahuasca
+        title: Ayahuasca
         slug: ayahuasca
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -224,7 +224,7 @@ claims:
         title: Jason Quitt
         slug: jason-quitt
       - node_id: f1bd457e-2e18-406b-aefa-c0e9eff27a64
-        title: ego death
+        title: Ego death
         slug: ego-death
     date: null
     date_end: null

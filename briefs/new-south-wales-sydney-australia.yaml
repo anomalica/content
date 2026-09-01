@@ -58,6 +58,11 @@ related_nodes:
     node_type: event
     slug: 1980-nugan-hand-bank-collapse
     shared_claims: 1
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 1
   - node_id: 3e7634d4-9639-4ddd-a1a5-52063e67cf4c
     title: Australia, Tasmania, Hobart
     node_type: place
@@ -93,6 +98,11 @@ related_nodes:
     node_type: person
     slug: john-mack
     shared_claims: 1
+  - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
+    title: Mitochondrial Deoxyribonucleic Acid (DNA)
+    node_type: topic
+    slug: mitochondrial-deoxyribonucleic-acid-dna
+    shared_claims: 1
   - node_id: c777e081-0b5d-481b-b67d-79fe4b9b6d00
     title: Nugan Hand Bank
     node_type: organisation
@@ -117,16 +127,6 @@ related_nodes:
     title: Whitley Strieber
     node_type: person
     slug: whitley-strieber
-    shared_claims: 1
-  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: alien abduction
-    node_type: topic
-    slug: alien-abduction
-    shared_claims: 1
-  - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
-    title: mitochondrial Deoxyribonucleic Acid (DNA)
-    node_type: topic
-    slug: mitochondrial-deoxyribonucleic-acid-dna
     shared_claims: 1
 claims:
   - claim_id: 92b26b56-e12d-4cc6-8827-4a3acab16e3c
@@ -337,7 +337,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: alien abduction
+        title: Alien abduction
         slug: alien-abduction
       - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
         title: Australia, New South Wales, Sydney
@@ -644,7 +644,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
-        title: mitochondrial Deoxyribonucleic Acid (DNA)
+        title: Mitochondrial Deoxyribonucleic Acid (DNA)
         slug: mitochondrial-deoxyribonucleic-acid-dna
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury

@@ -63,6 +63,11 @@ related_nodes:
     node_type: event
     slug: soviet-excavation-and-investigation-of-the-merivalja-object-1969-1990
     shared_claims: 1
+  - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
+    title: Torsion field
+    node_type: topic
+    slug: torsion-field
+    shared_claims: 1
   - node_id: 7b49f692-be5b-4934-9e71-be0c74908016
     title: USSR, Moscow, National Academy of Sciences
     node_type: place
@@ -72,11 +77,6 @@ related_nodes:
     title: Vormsi Enn
     node_type: person
     slug: vormsi-enn
-    shared_claims: 1
-  - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
-    title: torsion field
-    node_type: topic
-    slug: torsion-field
     shared_claims: 1
 claims:
   - claim_id: e4ae8567-6a09-45e9-969b-8a38237875d7
@@ -228,7 +228,7 @@ claims:
         title: Bruce DePalma
         slug: bruce-depalma
       - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
-        title: torsion field
+        title: Torsion field
         slug: torsion-field
     date: null
     date_end: null

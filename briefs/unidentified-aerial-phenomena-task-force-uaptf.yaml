@@ -144,7 +144,7 @@ related_nodes:
     slug: mike-gallagher
     shared_claims: 1
   - node_id: 88d7d7ee-f47f-4ed3-9f16-54aa64012e97
-    title: National Defense Authorization Act of 2020 (NDAA )
+    title: National Defense Authorization Act of 2020 (NDAA)
     node_type: document
     slug: national-defense-authorization-act-of-2020-ndaa
     shared_claims: 1
@@ -152,6 +152,11 @@ related_nodes:
     title: New York Times Advanced Aerospace Threat Identification Program (AATIP) article, 2017-12
     node_type: document
     slug: 2017-12-new-york-times-advanced-aerospace-threat-identification-program-aatip-article
+    shared_claims: 1
+  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+    title: Nonhuman intelligence (NHI)
+    node_type: topic
+    slug: nonhuman-intelligence-nhi
     shared_claims: 1
   - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
     title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
@@ -167,11 +172,6 @@ related_nodes:
     title: Ronald S. Moultrie
     node_type: person
     slug: ronald-s-moultrie
-    shared_claims: 1
-  - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
-    title: Scott W. Bray
-    node_type: person
-    slug: scott-w-bray
     shared_claims: 1
 claims:
   - claim_id: 346e7c33-c4df-45ea-bc82-54fe11f9b7cf
@@ -956,7 +956,7 @@ claims:
         title: Unidentified Aerial Phenomena Task Force (UAPTF)
         slug: unidentified-aerial-phenomena-task-force-uaptf
       - node_id: 88d7d7ee-f47f-4ed3-9f16-54aa64012e97
-        title: National Defense Authorization Act of 2020 (NDAA )
+        title: National Defense Authorization Act of 2020 (NDAA)
         slug: national-defense-authorization-act-of-2020-ndaa
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch
@@ -1265,7 +1265,7 @@ claims:
     attachment: unreviewed
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: nonhuman intelligence (NHI)
+        title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
         title: Unidentified Aerial Phenomena Task Force (UAPTF)

@@ -94,7 +94,7 @@ related_nodes:
     slug: barry-digregorio
     shared_claims: 5
   - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-    title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR )
+    title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
     node_type: organisation
     slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
     shared_claims: 5
@@ -4204,8 +4204,7 @@ claims:
         title: National Aeronautics and Space Administration (NASA)
         slug: national-aeronautics-and-space-administration-nasa
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
         title: Mark C. Carlotto
@@ -4678,8 +4677,7 @@ claims:
         title: D&M Pyramid
         slug: dm-pyramid
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -4944,8 +4942,7 @@ claims:
         title: NASA Jet Propulsion Laboratory (JPL)
         slug: nasa-jet-propulsion-laboratory-jpl
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
     date: null
     date_end: null
@@ -4980,8 +4977,7 @@ claims:
         title: NASA Jet Propulsion Laboratory (JPL)
         slug: nasa-jet-propulsion-laboratory-jpl
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
         title: Cydonia
@@ -5057,8 +5053,7 @@ claims:
         title: NASA Jet Propulsion Laboratory (JPL)
         slug: nasa-jet-propulsion-laboratory-jpl
       - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR
-          )
+        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
         slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
     date: null
     date_end: null
@@ -6159,7 +6154,7 @@ claims:
         title: NASA Jet Propulsion Laboratory (JPL)
         slug: nasa-jet-propulsion-laboratory-jpl
       - node_id: 6ce9ed67-ef32-4756-989f-72fa56d25491
-        title: Gamma Ray Spectrometer (GRS ), Mars Odyssey
+        title: Gamma Ray Spectrometer (GRS), Mars Odyssey
         slug: mars-odyssey-gamma-ray-spectrometer-grs
       - node_id: e441ec39-279d-45ba-a607-759d5ec180bf
         title: Mars Tidal Model

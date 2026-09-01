@@ -83,6 +83,11 @@ related_nodes:
     node_type: organisation
     slug: national-security-agency-nsa
     shared_claims: 1
+  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+    title: Nonlocal consciousness
+    node_type: topic
+    slug: nonlocal-consciousness
+    shared_claims: 1
   - node_id: 5884a8ca-9d73-4fe8-a349-9f4a0158dc26
     title: Outbounder Remote Viewing
     node_type: topic
@@ -112,11 +117,6 @@ related_nodes:
     title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
     node_type: organisation
     slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
-    shared_claims: 1
-  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-    title: nonlocal consciousness
-    node_type: topic
-    slug: nonlocal-consciousness
     shared_claims: 1
 claims:
   - claim_id: fadb57c8-ea4e-41aa-ac48-caede7a11946
@@ -810,7 +810,7 @@ claims:
         title: Jane Katra
         slug: jane-katra
       - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
-        title: nonlocal consciousness
+        title: Nonlocal consciousness
         slug: nonlocal-consciousness
       - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
         title: Russell Targ
